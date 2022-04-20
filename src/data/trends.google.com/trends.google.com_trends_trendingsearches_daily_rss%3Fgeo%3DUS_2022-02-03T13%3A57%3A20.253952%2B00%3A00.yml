@@ -1,0 +1,451 @@
+author: trends.google.com
+created_at: '2022-02-03T13:57:20.253952+00:00'
+meta:
+  google_trends_data:
+  - description: ABC News suspends Whoopi Goldberg over her comments about ...
+    location: US
+    popularity: 20,000+
+    source: NPR
+    time: '2022-02-03T00:00:00+00:00'
+    title: Whoopi Whoopi Goldberg
+    url: https://www.npr.org/2022/02/02/1077593583/abc-news-suspends-whoopi-goldberg-over-her-comments-about-the-holocaust
+  - description: 10 Chinatown businesses to support this Lunar New Year
+    location: US
+    popularity: 10,000,000+
+    source: Berkeley Beacon
+    time: '2022-02-02T09:00:00+00:00'
+    title: Lunar New Year
+    url: https://berkeleybeacon.com/10-chinatown-businesses-to-support-this-lunar-new-year/
+  - description: Pamela Anderson and Tommy Lee&#39;s Relationship in Photos
+    location: US
+    popularity: 1,000,000+
+    source: PEOPLE.com
+    time: '2022-02-02T08:00:00+00:00'
+    title: Tommy Lee
+    url: https://people.com/tv/pamela-anderson-and-tommy-lee-relationship-in-photos/
+  - description: Jeff Zucker Resigns From CNN After Relationship With Top Executive
+    location: US
+    popularity: 1,000,000+
+    source: The New York Times
+    time: '2022-02-02T09:00:00+00:00'
+    title: Jeff Zucker
+    url: https://www.nytimes.com/2022/02/02/business/media/jeff-zucker-cnn.html
+  - description: Facebook Owner Meta Set for $195 Billion Wipeout, Biggest in ...
+    location: US
+    popularity: 500,000+
+    source: Bloomberg
+    time: '2022-02-02T14:00:00+00:00'
+    title: FB stock
+    url: https://www.bloomberg.com/news/articles/2022-02-03/meta-set-for-200-billion-wipeout-among-worst-in-market-history
+  - description: '&#39;Boba Fett&#39;s shocking &#39;Clone Wars&#39; cameo reveals
+      Mando&#39;s deadliest ...'
+    location: US
+    popularity: 500,000+
+    source: Inverse
+    time: '2022-02-02T07:00:00+00:00'
+    title: Cad Bane
+    url: https://www.inverse.com/entertainment/cad-bane-boba-fett-mandalorian
+  - description: 'USMNT vs. Honduras result: USA moves closer to qualifying for ...'
+    location: US
+    popularity: 200,000+
+    source: Sporting News
+    time: '2022-02-02T16:00:00+00:00'
+    title: USA vs Honduras
+    url: https://www.sportingnews.com/us/soccer/news/usmnt-vs-honduras-live-score-highlights-world-cup-qualifying/m5burw2692h61iy3ekz609lel
+  - description: How Dying Light 2 is the biggest gamble in Techland&#39;s history
+    location: US
+    popularity: 200,000+
+    source: CNET
+    time: '2022-02-02T18:00:00+00:00'
+    title: Dying Light 2
+    url: https://www.cnet.com/tech/gaming/how-dying-light-2-is-techlands-biggest-gamble-in-its-history/
+  - description: 'Simon Leviev: Is LLD Diamonds Real? Inside the &#39;Tinder Swindler&#39;s
+      ...'
+    location: US
+    popularity: 200,000+
+    source: Newsweek
+    time: '2022-02-02T18:00:00+00:00'
+    title: Simon Leviev
+    url: https://www.newsweek.com/lld-diamonds-simon-leviev-lev-leviev-tinder-swindler-netflix-1675769
+  - description: 4 charged in overdose death of actor Michael K. Williams
+    location: US
+    popularity: 200,000+
+    source: SHOOT Online
+    time: '2022-02-02T14:00:00+00:00'
+    title: Michael K. Williams
+    url: https://www.shootonline.com/newsbriefs/4-charged-overdose-death-actor-michael-k-williams
+  - description: WWE&#39;s Shane McMahon Is Already Being Courted By AEW Talent ...
+    location: US
+    popularity: 100,000+
+    source: Cinema Blend
+    time: '2022-02-02T12:00:00+00:00'
+    title: Shane McMahon
+    url: https://www.cinemablend.com/television/wwes-shane-mcmahon-is-already-being-courted-by-aew-talent-following-release-rumors
+  - description: Beloved New Jersey groundhog Milltown Mel dies just before ...
+    location: US
+    popularity: 100,000+
+    source: CBS News
+    time: '2022-02-02T08:00:00+00:00'
+    title: Groundhog died
+    url: https://www.cbsnews.com/news/groundhog-day-milltown-mel-new-jersey-dies/
+  - description: Is Groundhog Day on Netflix for Groundhog Day 2022?
+    location: US
+    popularity: 100,000+
+    source: Netflix Life
+    time: '2022-02-02T07:00:00+00:00'
+    title: Groundhog Day movie
+    url: https://netflixlife.com/2022/02/02/is-groundhog-day-on-netflix-for-groundhog-day-2022/
+  - description: 'Illinois Basketball: 4 big questions for the Illini against Wisconsin'
+    location: US
+    popularity: 100,000+
+    source: Writing Illini
+    time: '2022-02-02T20:00:00+00:00'
+    title: Illinois basketball
+    url: https://writingillini.com/2022/02/02/illinois-basketball-4-big-questions-illini-wisconsin/
+  - description: Man Arrested After &#39;Actively Threatening&#39; &lt;em&gt;RHOC&lt;/em&gt;
+      Alum ...
+    location: US
+    popularity: 50,000+
+    source: PEOPLE.com
+    time: '2022-02-02T17:00:00+00:00'
+    title: Elizabeth Vargas RHOC
+    url: https://people.com/tv/man-arrested-after-actively-threatening-elizabeth-vargas-inside-her-home/
+  - description: Summer Walker&#39;s New Haircut Is Now a Meme on Twitter
+    location: US
+    popularity: 50,000+
+    source: Distractify
+    time: '2022-02-02T13:00:00+00:00'
+    title: Summer Walker
+    url: https://www.distractify.com/p/summer-walker-haircut-memes
+  - description: Here&#39;s How to Watch &#39;Celebrity Big Brother&#39; For Free,
+      So You Don&#39;t ...
+    location: US
+    popularity: 50,000+
+    source: StyleCaster
+    time: '2022-02-02T16:00:00+00:00'
+    title: Celebrity Big Brother 2022
+    url: https://stylecaster.com/how-to-watch-celebrity-big-brother/
+  - description: 'Updated Story: El Salvador players will show for match vs. Canada
+      ...'
+    location: US
+    popularity: 50,000+
+    source: Waking The Red
+    time: '2022-02-02T19:00:00+00:00'
+    title: El Salvador vs Canada
+    url: https://www.wakingthered.com/2022/2/2/22915025/el-salvador-players-release-statement-saying-they-wont-be-playing-vs-canada-tonight-will-play
+  - description: Hue Jackson implies Browns owner Jimmy Haslam paid him to lose ...
+    location: US
+    popularity: 50,000+
+    source: WCLU
+    time: '2022-02-02T15:00:00+00:00'
+    title: Hue Jackson
+    url: https://www.wcluradio.com/2022/02/03/hue-jackson-implies-browns-owner-jimmy-haslam-paid-him-to-lose-during-his-time-as-cleveland-head-coach/
+  - description: Mexico arrests state security chief on torture charges
+    location: US
+    popularity: 50,000+
+    source: Manistee News Advocate
+    time: '2022-02-02T21:00:00+00:00'
+    title: Mexico
+    url: https://www.manisteenews.com/news/article/Mexico-arrests-state-security-chief-on-torture-16827238.php
+raw: "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<rss xmlns:atom='http://www.w3.org/2005/Atom'\
+  \ xmlns:ht='https://trends.google.com/trends/trendingsearches/daily' version='2.0'>\n\
+  \ <channel>\n <title>Daily Search Trends</title>\n <description>Recent searches</description>\n\
+  \ <link>https://trends.google.com/trends/trendingsearches/daily?geo=US</link>\n\
+  \ <atom:link href='https://trends.google.com/trends/trendingsearches/daily/rss?geo=US'\
+  \ rel='self' type='application/rss+xml'/>\n <item>\n <title>Whoopi Whoopi Goldberg</title>\n\
+  \ <ht:approx_traffic>20,000+</ht:approx_traffic>\n <description></description>\n\
+  \ <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Whoopi%20Whoopi%20Goldberg</link>\n\
+  \ <pubDate>Thu, 03 Feb 2022 00:00:00 -0800</pubDate>\n <ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcRP-D2y9vvkfQkojsB7H8oszxfgM5Y09eBCbdJjrNUoKBW_7__8Cj9EF14EWYjmwKwB9pXclH-q</ht:picture>\n\
+  \ <ht:picture_source>CNN</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Whoopi\
+  \ Goldberg: ABC News suspends &amp;#39;The View&amp;#39; host - CNN</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>ABC News suspended &amp;quot;The View&amp;quot; host Whoopi\
+  \ Goldberg for two weeks on Tuesday night, hours after she apologized for having\
+  \ falsely declared on the daytime&amp;nbsp;...</ht:news_item_snippet>\n <ht:news_item_url>https://www.cnn.com/2022/02/01/media/whoopi-goldberg-the-view-suspended/index.html</ht:news_item_url>\n\
+  \ <ht:news_item_source>CNN</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>ABC News suspends Whoopi Goldberg over her comments about\
+  \ ...</ht:news_item_title>\n <ht:news_item_snippet>The co-host of ABC&amp;#39;s\
+  \ The View apologized after facing criticism for comments she made about the Holocaust.\
+  \ Goldberg has been suspended from the show for two&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.npr.org/2022/02/02/1077593583/abc-news-suspends-whoopi-goldberg-over-her-comments-about-the-holocaust</ht:news_item_url>\n\
+  \ <ht:news_item_source>NPR</ht:news_item_source>\n </ht:news_item>\n </item>\n <item>\n\
+  \ <title>Lunar New Year</title>\n <ht:approx_traffic>10,000,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Lunar%20New%20Year</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 09:00:00 -0800</pubDate>\n <ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcRm4eD8oex7mc5qUiHDhT3BxNRn9SWDCskaD-HPjuGz2tLdy4LlguB-e8RYfbc2Q50LRcn5DoxZ</ht:picture>\n\
+  \ <ht:picture_source>The Daily Princetonian</ht:picture_source>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Lunar New Year, on Princeton&amp;#39;s campus</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>To better understand what Lunar New Year looks like for\
+  \ students on Princeton&amp;#39;s campus, The Prospect solicited reflections from\
+  \ its editors and staff,&amp;nbsp;...</ht:news_item_snippet>\n <ht:news_item_url>https://www.dailyprincetonian.com/article/2022/02/lunar-new-year-tet-princeton-campus-culture</ht:news_item_url>\n\
+  \ <ht:news_item_source>The Daily Princetonian</ht:news_item_source>\n </ht:news_item>\n\
+  \ <ht:news_item>\n <ht:news_item_title>10 Chinatown businesses to support this Lunar\
+  \ New Year</ht:news_item_title>\n <ht:news_item_snippet>Taiwan Cafe is a Chinese\
+  \ restaurant suited for family outings or late-night meals, with operating hours\
+  \ spanning from 11:00 a.m. to 1:00 a.m. daily. Some&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://berkeleybeacon.com/10-chinatown-businesses-to-support-this-lunar-new-year/</ht:news_item_url>\n\
+  \ <ht:news_item_source>Berkeley Beacon</ht:news_item_source>\n </ht:news_item>\n\
+  \ </item>\n <item>\n <title>Tommy Lee</title>\n <ht:approx_traffic>1,000,000+</ht:approx_traffic>\n\
+  \ <description>Lily James, pam and tommy, Pamela Anderson, Sebastian Stan, pamela\
+  \ anderson kids, tommy and pam</description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Tommy%20Lee</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 08:00:00 -0800</pubDate>\n <ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcT9JI0r6_VuJ04BtfAbFUDusrTEfH7zaM5eJxIi4gFvccBlwUWoARThpqmqk1FCMYfIQtquf2eh</ht:picture>\n\
+  \ <ht:picture_source>New York Post</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Pamela\
+  \ Anderson and Tommy Lee&amp;#39;s love affair was astrological hell</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>There is perhaps no couple that defined the &amp;#39;90s\
+  \ more than Pamela Anderson and Tommy Lee.</ht:news_item_snippet>\n <ht:news_item_url>https://nypost.com/2022/02/02/pamela-anderson-and-tommy-lees-love-affair-was-astrological-hell/</ht:news_item_url>\n\
+  \ <ht:news_item_source>New York Post</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Pamela Anderson and Tommy Lee&amp;#39;s Relationship in Photos</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>After knowing each other for 96 hours, Home Improvement\
+  \ and Baywatch star Pamela Anderson and Mötley Crüe rocker Tommy Lee eloped on the\
+  \ beach in Mexico in&amp;nbsp;...</ht:news_item_snippet>\n <ht:news_item_url>https://people.com/tv/pamela-anderson-and-tommy-lee-relationship-in-photos/</ht:news_item_url>\n\
+  \ <ht:news_item_source>PEOPLE.com</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Jeff Zucker</title>\n <ht:approx_traffic>1,000,000+</ht:approx_traffic>\n\
+  \ <description>Allison Gollust, Chris Cuomo</description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Jeff%20Zucker</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 09:00:00 -0800</pubDate>\n <ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcTz0j5TwM3FqfK2OcApC9TkC6Y8bLciqbE6FSN9TfNkYWF3yBg4aCtQwPAOVjRJG-WhxRx2bjgM</ht:picture>\n\
+  \ <ht:picture_source>CNN</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Jeff\
+  \ Zucker resigns from CNN over consensual relationship with key ...</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>CNN Worldwide president Jeff Zucker, the influential news\
+  \ executive who reshaped the iconic network, announced Wednesday morning that he\
+  \ has resigned from&amp;nbsp;...</ht:news_item_snippet>\n <ht:news_item_url>https://www.cnn.com/2022/02/02/media/jeff-zucker-cnn/index.html</ht:news_item_url>\n\
+  \ <ht:news_item_source>CNN</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Jeff Zucker Resigns From CNN After Relationship With Top Executive</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>Jeff Zucker resigned on Wednesday as the president of CNN,\
+  \ departing one of the most powerful positions in American media after acknowledging\
+  \ that he had&amp;nbsp;...</ht:news_item_snippet>\n <ht:news_item_url>https://www.nytimes.com/2022/02/02/business/media/jeff-zucker-cnn.html</ht:news_item_url>\n\
+  \ <ht:news_item_source>The New York Times</ht:news_item_source>\n </ht:news_item>\n\
+  \ </item>\n <item>\n <title>FB stock</title>\n <ht:approx_traffic>500,000+</ht:approx_traffic>\n\
+  \ <description>facebook stock, meta stock, FB, Meta</description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#FB%20stock</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 14:00:00 -0800</pubDate>\n <ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcQnWbv4ehhcfDqTG9HhXdgE5denUcou7rz3BMmpS8E2NBiLQ9OhITWXDChlXIsVfaRuzllCz-TA</ht:picture>\n\
+  \ <ht:picture_source>Investor's Business Daily</ht:picture_source>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Facebook Earnings, Outlook Fall Short Of Estimates; Stock\
+  \ Sinks</ht:news_item_title>\n <ht:news_item_snippet>Facebook expects first-quarter\
+  \ revenue to be in the range of $27 billion to $29 billion, which is growth of 3%-11%.\
+  \ Wall Street expected $30.2 billion. &amp;quot;We&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.investors.com/news/technology/fb-stock-drops-meta-earnings-miss-estimates/</ht:news_item_url>\n\
+  \ <ht:news_item_source>Investor's Business Daily</ht:news_item_source>\n </ht:news_item>\n\
+  \ <ht:news_item>\n <ht:news_item_title>Facebook Owner Meta Set for $195 Billion\
+  \ Wipeout, Biggest in ...</ht:news_item_title>\n <ht:news_item_snippet>Meta Platforms\
+  \ Inc.&amp;#39;s one-day crash may rank as the worst in stock-market history.</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.bloomberg.com/news/articles/2022-02-03/meta-set-for-200-billion-wipeout-among-worst-in-market-history</ht:news_item_url>\n\
+  \ <ht:news_item_source>Bloomberg</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Cad Bane</title>\n <ht:approx_traffic>500,000+</ht:approx_traffic>\n\
+  \ <description>boba fett episode 6, book of boba fett episode 6, cad bane book of\
+  \ boba fett</description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Cad%20Bane</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 07:00:00 -0800</pubDate>\n <ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcTQ5JRL6U5EeJDgEx50_qH79eiThrCrdWW1k7RlmDJ2b9a41ev5XLcEmswnaMSvse4Zm7S6u3zs</ht:picture>\n\
+  \ <ht:picture_source>Forbes</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Luke\
+  \ Skywalker, Cad Bane, And Boba Fett Show 3 Very Different ...</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>Episode 6 of “The Book of Boba Fett” highlights the best\
+  \ and worst of “Star Wars.”</ht:news_item_snippet>\n <ht:news_item_url>https://www.forbes.com/sites/danidiplacido/2022/02/02/luke-skywalker-cad-bane-and-boba-fett-show-3-very-different-sides-to-disneys-star-wars/</ht:news_item_url>\n\
+  \ <ht:news_item_source>Forbes</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>&amp;#39;Boba Fett&amp;#39;s shocking &amp;#39;Clone Wars&amp;#39;\
+  \ cameo reveals Mando&amp;#39;s deadliest ...</ht:news_item_title>\n <ht:news_item_snippet>&amp;#39;Boba\
+  \ Fett&amp;#39; Episode 6 saved the best for last with a shocking reveal from the\
+  \ Clone Wars era that could have huge ramifications for &amp;#39;The Mandalorian&amp;#39;\
+  \ Season&amp;nbsp;...</ht:news_item_snippet>\n <ht:news_item_url>https://www.inverse.com/entertainment/cad-bane-boba-fett-mandalorian</ht:news_item_url>\n\
+  \ <ht:news_item_source>Inverse</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>USA vs Honduras</title>\n <ht:approx_traffic>200,000+</ht:approx_traffic>\n\
+  \ <description>USMNT, Concacaf World Cup Qualifying</description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#USA%20vs%20Honduras</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 16:00:00 -0800</pubDate>\n <ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcSKJt-VJIYtjUIpyFAw5t-mVyn8NiujqJUjX1VIJg51XmuIJGPpRoI11S80SZ0E97cP8WN3ONiq</ht:picture>\n\
+  \ <ht:picture_source>U.S. Soccer</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>2022\
+  \ Concacaf World Cup Qualifying: USA Vs. Honduras - Starting ...</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>USA vs. Honduras, presented by Volkswagen 2022 FIFA World\
+  \ Cup Qualifying – Final Round - Match No. 11. February 2, 2022. Allianz Field;\
+  \ St. Paul, Minn.</ht:news_item_snippet>\n <ht:news_item_url>https://www.ussoccer.com/stories/2022/02/2022-concacaf-world-cup-qualifying-usa-vs-honduras-starting-xi-lineup-notes-tv-channels-start-time</ht:news_item_url>\n\
+  \ <ht:news_item_source>U.S. Soccer</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>USMNT vs. Honduras result: USA moves closer to qualifying\
+  \ for ...</ht:news_item_title>\n <ht:news_item_snippet>The U.S. men&amp;#39;s national\
+  \ team moved a step closer to qualifying for the 2022 World Cup in Qatar with a\
+  \ dominant 3-0 win over Honduras in frigid Minnesota&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.sportingnews.com/us/soccer/news/usmnt-vs-honduras-live-score-highlights-world-cup-qualifying/m5burw2692h61iy3ekz609lel</ht:news_item_url>\n\
+  \ <ht:news_item_source>Sporting News</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Dying Light 2</title>\n <ht:approx_traffic>200,000+</ht:approx_traffic>\n\
+  \ <description>dying light 2 release date</description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Dying%20Light%202</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 18:00:00 -0800</pubDate>\n <ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcSzYrVrG02ADLvfgvla5LzEXPHaQTDYXmSjl0MK0XAtDPiuAJ6iH2-s_S6-SeB6icqHjLmFPWPh</ht:picture>\n\
+  \ <ht:picture_source>Forbes</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>&amp;#39;Dying\
+  \ Light 2&amp;#39; Reviews Show Why Day-One Patches Are No Real ...</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>It might have been best for Techland to keep this one in\
+  \ the oven a bit longer.</ht:news_item_snippet>\n <ht:news_item_url>https://www.forbes.com/sites/krisholt/2022/02/03/dying-light-2-reviews-bugs-day-one-patch-slow-internet/</ht:news_item_url>\n\
+  \ <ht:news_item_source>Forbes</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>How Dying Light 2 is the biggest gamble in Techland&amp;#39;s\
+  \ history</ht:news_item_title>\n <ht:news_item_snippet>We talk with developer Techland\
+  \ about the challenges and triumphs of making Dying Light 2 and where it can go\
+  \ from here.</ht:news_item_snippet>\n <ht:news_item_url>https://www.cnet.com/tech/gaming/how-dying-light-2-is-techlands-biggest-gamble-in-its-history/</ht:news_item_url>\n\
+  \ <ht:news_item_source>CNET</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Simon Leviev</title>\n <ht:approx_traffic>200,000+</ht:approx_traffic>\n\
+  \ <description>Tinder Swindler, The Tinder Swindler</description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Simon%20Leviev</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 18:00:00 -0800</pubDate>\n <ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcQR_ecS3ebNKKSw4A-R8B82OqHQQU_Z-6pZ8rRn-DVtedVgvumO3PS-tCG9wF2yssvc0eKJnlV_</ht:picture>\n\
+  \ <ht:picture_source>New York Post</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>The\
+  \ devious tactics &amp;#39;Tinder Swindler&amp;#39; used to con singles out of $10M</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>&amp;quot;The Tindler Swindler,&amp;quot; a new Netflix\
+  \ documentary out Feb. 2, chronicles how Shimon Hayut conned dozens of unsuspecting\
+  \ women out of millions of dollars.</ht:news_item_snippet>\n <ht:news_item_url>https://nypost.com/2022/02/02/i-was-in-love-with-the-tinder-swindler/</ht:news_item_url>\n\
+  \ <ht:news_item_source>New York Post</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Simon Leviev: Is LLD Diamonds Real? Inside the &amp;#39;Tinder\
+  \ Swindler&amp;#39;s ...</ht:news_item_title>\n <ht:news_item_snippet>The Tinder\
+  \ Swindler is the latest true-crime documentary to land on Netflix and you do not\
+  \ want to miss it. The film is told from the perspective of three&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.newsweek.com/lld-diamonds-simon-leviev-lev-leviev-tinder-swindler-netflix-1675769</ht:news_item_url>\n\
+  \ <ht:news_item_source>Newsweek</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Michael K. Williams</title>\n <ht:approx_traffic>200,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Michael%20K.%20Williams</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 14:00:00 -0800</pubDate>\n <ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcRHbvVdUwdjVix-8__nXQ0jEveOxuCMWz1yYoMirBVO7sHBd3nTpFjvIwGG-b0hK71ySR4BQQmx</ht:picture>\n\
+  \ <ht:picture_source>MTPR</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>4\
+  \ men arrested in the overdose death of &amp;#39;The Wire&amp;#39; actor Michael\
+  \ K ...</ht:news_item_title>\n <ht:news_item_snippet>They are accused of selling\
+  \ fentanyl-laced heroin to Williams, the five-time Emmy nominated actor, best known\
+  \ for his role as a gay robber of drug dealers&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.mtpr.org/2022-02-02/4-men-arrested-in-the-overdose-death-of-the-wire-actor-michael-k-williams</ht:news_item_url>\n\
+  \ <ht:news_item_source>MTPR</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>4 charged in overdose death of actor Michael K. Williams</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>New York City&amp;#39;s medical examiner earlier ruled that\
+  \ Williams, 54, died of acute drug intoxication Sept. 6. He was found dead by family\
+  \ members in his penthouse&amp;nbsp;...</ht:news_item_snippet>\n <ht:news_item_url>https://www.shootonline.com/newsbriefs/4-charged-overdose-death-actor-michael-k-williams</ht:news_item_url>\n\
+  \ <ht:news_item_source>SHOOT Online</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Shane McMahon</title>\n <ht:approx_traffic>100,000+</ht:approx_traffic>\n\
+  \ <description>wwe shane mcmahon</description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Shane%20McMahon</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 12:00:00 -0800</pubDate>\n <ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcTNzR_xzUDivItBWwW281RX_Gu__gAdE35j0jgjPOt3bTleUT8ajwhnysxxPW1QAaSvxB9trXg9</ht:picture>\n\
+  \ <ht:picture_source>New York Post</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Shane\
+  \ McMahon &amp;#39;out of&amp;#39; WWE after rumors of Royal Rumble backlash</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>Shane McMahon rumors are swirling after apparent he apparently\
+  \ drew heat backstage at the Royal Rumble in St. Louis.</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://nypost.com/2022/02/02/shane-mcmahon-out-of-wwe-after-rumors-of-royal-rumble-backlash/</ht:news_item_url>\n\
+  \ <ht:news_item_source>New York Post</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>WWE&amp;#39;s Shane McMahon Is Already Being Courted By AEW\
+  \ Talent ...</ht:news_item_title>\n <ht:news_item_snippet>After rumors spread regarding\
+  \ WWE firing Shane McMahon, one AEW star wants the son of Vince McMahon to make\
+  \ the transition.</ht:news_item_snippet>\n <ht:news_item_url>https://www.cinemablend.com/television/wwes-shane-mcmahon-is-already-being-courted-by-aew-talent-following-release-rumors</ht:news_item_url>\n\
+  \ <ht:news_item_source>Cinema Blend</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Groundhog died</title>\n <ht:approx_traffic>100,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Groundhog%20died</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 08:00:00 -0800</pubDate>\n <ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcSp8Lkcc4qXJ49U9oUeCbaIgAu-P80ldSgI7dawJrRqtx8dvbZNWjaV665k4FpMSk2Ak__gQ76f</ht:picture>\n\
+  \ <ht:picture_source>Vulture</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Famous\
+  \ Groundhog Saw Shadow of Death Looming Over Him</ht:news_item_title>\n <ht:news_item_snippet>The\
+  \ search for a new Milltown “weather prognosticator” is reportedly underway in New\
+  \ Jersey, but Mel and his cool vibe will never be forgotten.</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.vulture.com/2022/02/groundhog-day-mel-died-new-jersey.html</ht:news_item_url>\n\
+  \ <ht:news_item_source>Vulture</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Beloved New Jersey groundhog Milltown Mel dies just before\
+  \ ...</ht:news_item_title>\n <ht:news_item_snippet>The New Jersey celebrity has\
+  \ &amp;quot;crossed over the rainbow bridge,&amp;quot; his wranglers said in announcing\
+  \ his death.</ht:news_item_snippet>\n <ht:news_item_url>https://www.cbsnews.com/news/groundhog-day-milltown-mel-new-jersey-dies/</ht:news_item_url>\n\
+  \ <ht:news_item_source>CBS News</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Groundhog Day movie</title>\n <ht:approx_traffic>100,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Groundhog%20Day%20movie</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 07:00:00 -0800</pubDate>\n <ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcQJC4qkZihTQzE8aGNRCoA0x_izeiGn3wcpkf2jIogqxUq-oySdRml1OjJUcGdAu-uf8honoaTv</ht:picture>\n\
+  \ <ht:picture_source>Screen Rant</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Bill\
+  \ Murray Reacts To People Comparing Groundhog Day Movie to ...</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>Bill Murray understands people comparing their pandemic\
+  \ experience to Groundhog Day, and says the similarity can actually be a good thing.</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://screenrant.com/groundhog-day-movie-pandemic-comaparison-bill-murray-response/</ht:news_item_url>\n\
+  \ <ht:news_item_source>Screen Rant</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Is Groundhog Day on Netflix for Groundhog Day 2022?</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>Harold Ramis directed the comedy movie Groundhog Day that\
+  \ he wrote with Danny Rubin. The film was a box office success and was one of the\
+  \ highest-grossing films&amp;nbsp;...</ht:news_item_snippet>\n <ht:news_item_url>https://netflixlife.com/2022/02/02/is-groundhog-day-on-netflix-for-groundhog-day-2022/</ht:news_item_url>\n\
+  \ <ht:news_item_source>Netflix Life</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Illinois basketball</title>\n <ht:approx_traffic>100,000+</ht:approx_traffic>\n\
+  \ <description>Wisconsin basketball</description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Illinois%20basketball</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 20:00:00 -0800</pubDate>\n <ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcRiqyiCfNLt7uFdbv0pKtqOnbC9dZHuGqQ6veP69f_bxc-yn0XtrbqgnI1Baj-gUBbxWGeC9C-y</ht:picture>\n\
+  \ <ht:picture_source>Bucky's 5th Quarter</ht:picture_source>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Wisconsin Badgers men&amp;#39;s basketball: three things that\
+  \ stood out ...</ht:news_item_title>\n <ht:news_item_snippet>Johnny Davis and Kofi\
+  \ Cockburn came into Wednesday&amp;#39;s contest two of the leading contenders for\
+  \ not only Big Ten Player of the Year, but also the Naismith Trophy&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.buckys5thquarter.com/2022/2/2/22915426/wisconsin-badgers-mens-basketball-three-things-illinois-kofi-cockburn-johnny-davis-recap-shooting</ht:news_item_url>\n\
+  \ <ht:news_item_source>Bucky's 5th Quarter</ht:news_item_source>\n </ht:news_item>\n\
+  \ <ht:news_item>\n <ht:news_item_title>Illinois Basketball: 4 big questions for\
+  \ the Illini against Wisconsin</ht:news_item_title>\n <ht:news_item_snippet>1. Can\
+  \ Illinois start scoring again? To start the 2021-22 campaign, I thought Illinois\
+  \ was one of the best offensive teams in the country. We were hitting shots&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://writingillini.com/2022/02/02/illinois-basketball-4-big-questions-illini-wisconsin/</ht:news_item_url>\n\
+  \ <ht:news_item_source>Writing Illini</ht:news_item_source>\n </ht:news_item>\n\
+  \ </item>\n <item>\n <title>Elizabeth Vargas RHOC</title>\n <ht:approx_traffic>50,000+</ht:approx_traffic>\n\
+  \ <description>Elizabeth Vargas</description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Elizabeth%20Vargas%20RHOC</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 17:00:00 -0800</pubDate>\n <ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcQ4sDsIg1t_ZpGMrSKsCj_C3vfN8413liRETWu-VrCz2JsEIPnagtj0-FGoUFlgBEbBAcQ-07Ps</ht:picture>\n\
+  \ <ht:picture_source>Daily Mail</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>RHOC\
+  \ star Elizabeth Vargas is seen after she was allegedly &amp;#39;held at ...</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>The sighting comes as Elizabeth&amp;#39;s manager revealed\
+  \ to the New York Post that she is &amp;#39;shaken up&amp;#39; over Tuesday night&amp;#39;s\
+  \ scary ordeal and that it was an&amp;nbsp;...</ht:news_item_snippet>\n <ht:news_item_url>https://www.dailymail.co.uk/tvshowbiz/article-10470455/RHOC-star-Elizabeth-Vargas-seen-allegedly-held-gunpoint-ex-boyfriend.html</ht:news_item_url>\n\
+  \ <ht:news_item_source>Daily Mail</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Man Arrested After &amp;#39;Actively Threatening&amp;#39;\
+  \ &amp;lt;em&amp;gt;RHOC&amp;lt;/em&amp;gt; Alum ...</ht:news_item_title>\n <ht:news_item_snippet>Ryan\
+  \ Matthew Geraghty, 33, was taken into custody and charged with assault with a deadly\
+  \ weapon, burglary and extortion, the Newport Beach Police Department&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://people.com/tv/man-arrested-after-actively-threatening-elizabeth-vargas-inside-her-home/</ht:news_item_url>\n\
+  \ <ht:news_item_source>PEOPLE.com</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Summer Walker</title>\n <ht:approx_traffic>50,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Summer%20Walker</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 13:00:00 -0800</pubDate>\n <ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcRiUhY7bVJqKmYukQrJ16M7Ag8Wv9MlrOmG2aJcRT3ejdtTilSrhvUltc8E4UKZgqUcEjIdpi79</ht:picture>\n\
+  \ <ht:picture_source>Complex</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Summer\
+  \ Walker Responds to People Making Jokes About Her New ...</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>Summer Walker took to social media to debut a new hairstyle,\
+  \ which features a shaved head and locs at the center. She styled her hair in a\
+  \ ponytail.</ht:news_item_snippet>\n <ht:news_item_url>https://www.complex.com/style/summer-walker-debuts-new-hairstyle-responds-to-jokes</ht:news_item_url>\n\
+  \ <ht:news_item_source>Complex</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Summer Walker&amp;#39;s New Haircut Is Now a Meme on Twitter</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>Summer Walker&amp;#39;s new haircut has fans talking. On\
+  \ Twitter, users began comparing her to Britney Spears, &amp;#39;Avatar&amp;#39;s&amp;#39;\
+  \ Zuko, and &amp;#39;Mortal Kombat&amp;#39;s&amp;#39; Goro.</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.distractify.com/p/summer-walker-haircut-memes</ht:news_item_url>\n\
+  \ <ht:news_item_source>Distractify</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Celebrity Big Brother 2022</title>\n <ht:approx_traffic>50,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Celebrity%20Big%20Brother%202022</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 16:00:00 -0800</pubDate>\n <ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcTivlMM6OY3B2PcQPYPbl9E09mjgITZ3vnLjm6X8FzsDUckozEpbjgMtHLhvU7tOusNUx85kGFJ</ht:picture>\n\
+  \ <ht:picture_source>The Sun</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Celebrity\
+  \ Big Brother 2022 premiere LIVE – Cast heads into house ...</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>CELEBRITY Big Brother returned on Wednesday night, with\
+  \ season 3 of the hit show getting underway and one cast member being called Cruella\
+  \ de Vil.Tedd.</ht:news_item_snippet>\n <ht:news_item_url>https://www.the-sun.com/entertainment/4597675/celebrity-big-brother-2022-premiere-watch-tonight-live/</ht:news_item_url>\n\
+  \ <ht:news_item_source>The Sun</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Here&amp;#39;s How to Watch &amp;#39;Celebrity Big Brother&amp;#39;\
+  \ For Free, So You Don&amp;#39;t ...</ht:news_item_title>\n <ht:news_item_snippet>Here&amp;#39;s\
+  \ how to stream Celebrity Big Brother season 3 free on CBS—along with how to watch\
+  \ Celebrity Big Brother US in the UK as it airs live.</ht:news_item_snippet>\n <ht:news_item_url>https://stylecaster.com/how-to-watch-celebrity-big-brother/</ht:news_item_url>\n\
+  \ <ht:news_item_source>StyleCaster</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>El Salvador vs Canada</title>\n <ht:approx_traffic>50,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#El%20Salvador%20vs%20Canada</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 19:00:00 -0800</pubDate>\n <ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcSexLCxiyuhFVJqTCN22tS19pAJcKp8eqhhsfmtmeP8g5u76awOFKFD4QRjz9uCxjOizZ3nzyd1</ht:picture>\n\
+  \ <ht:picture_source>Waking The Red</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Canada\
+  \ defeats El Salvador, take maximum points from winter ...</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>Les Rouges won their third straight game by a 2-0 scoreline\
+  \ as they beat La Selecta in San Salvador on Wednesday night.</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.wakingthered.com/2022/2/3/22915078/canada-defeats-el-salvador-take-maximum-points-from-winter-international-window</ht:news_item_url>\n\
+  \ <ht:news_item_source>Waking The Red</ht:news_item_source>\n </ht:news_item>\n\
+  \ <ht:news_item>\n <ht:news_item_title>Updated Story: El Salvador players will show\
+  \ for match vs. Canada ...</ht:news_item_title>\n <ht:news_item_snippet>A press\
+  \ conference has been schedule for 4:30 pm ET.</ht:news_item_snippet>\n <ht:news_item_url>https://www.wakingthered.com/2022/2/2/22915025/el-salvador-players-release-statement-saying-they-wont-be-playing-vs-canada-tonight-will-play</ht:news_item_url>\n\
+  \ <ht:news_item_source>Waking The Red</ht:news_item_source>\n </ht:news_item>\n\
+  \ </item>\n <item>\n <title>Hue Jackson</title>\n <ht:approx_traffic>50,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Hue%20Jackson</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 15:00:00 -0800</pubDate>\n <ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcTx5NgVRmAFvSf_y-x40ePUawEiohzgW2QqZZa6912RBUA9XkruuGkbTVf69CmSp9RaBrmYo7bI</ht:picture>\n\
+  \ <ht:picture_source>Manistee News Advocate</ht:picture_source>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Browns refute tanking claims by former coach Hue Jackson</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>CLEVELAND (AP) — The Cleveland Browns say suggestions by\
+  \ former coach Hue Jackson and...</ht:news_item_snippet>\n <ht:news_item_url>https://www.manisteenews.com/sports/article/Browns-refute-tanking-claims-by-former-coach-Hue-16827121.php</ht:news_item_url>\n\
+  \ <ht:news_item_source>Manistee News Advocate</ht:news_item_source>\n </ht:news_item>\n\
+  \ <ht:news_item>\n <ht:news_item_title>Hue Jackson implies Browns owner Jimmy Haslam\
+  \ paid him to lose ...</ht:news_item_title>\n <ht:news_item_snippet>As part of the\
+  \ proposed class-action lawsuit Brian Flores filed against the NFL, one allegation\
+  \ noted was that Dolphins owner Stephen Ross offered Flores&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.wcluradio.com/2022/02/03/hue-jackson-implies-browns-owner-jimmy-haslam-paid-him-to-lose-during-his-time-as-cleveland-head-coach/</ht:news_item_url>\n\
+  \ <ht:news_item_source>WCLU</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Mexico</title>\n <ht:approx_traffic>50,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Mexico</link>\n\
+  \ <pubDate>Wed, 02 Feb 2022 21:00:00 -0800</pubDate>\n <ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcQZf7QJvgx_o60Ej3_uzE-1DqZxCmodRq71U0CFEmN3ySpfUsZu9qWh6ScEea1lfQ6qUGubtEpQ</ht:picture>\n\
+  \ <ht:picture_source>La Prensa Latina</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Remittances\
+  \ a lifeline for millions of households in Mexico - La ...</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>By Mariana Gonzalez-Marquez. Tepatitlan, Mexico, Feb 2 (EFE).-\
+  \ Tepatitlan resident Carmen Serratos uses the money sent by her brother in the\
+  \ United States&amp;nbsp;...</ht:news_item_snippet>\n <ht:news_item_url>https://www.laprensalatina.com/remittances-a-lifeline-for-millions-of-households-in-mexico/</ht:news_item_url>\n\
+  \ <ht:news_item_source>La Prensa Latina</ht:news_item_source>\n </ht:news_item>\n\
+  \ <ht:news_item>\n <ht:news_item_title>Mexico arrests state security chief on torture\
+  \ charges</ht:news_item_title>\n <ht:news_item_snippet>MEXICO CITY (AP) — Federal\
+  \ agents arrested the security chief for the central Mexico...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.manisteenews.com/news/article/Mexico-arrests-state-security-chief-on-torture-16827238.php</ht:news_item_url>\n\
+  \ <ht:news_item_source>Manistee News Advocate</ht:news_item_source>\n </ht:news_item>\n\
+  \ </item>\n </channel>\n</rss>"
+src: /home/talha-umer/scrapy-spiders/src/data/trends.google.com/trends.google.com_trends_trendingsearches_daily_rss%3Fgeo%3DUS_2022-02-03T13%3A57%3A20.253952%2B00%3A00.yml
+tags:
+- google trends
+text: ' '
+title: 'Daily Google Trends Data: 2022-02-03T13:57:20.253952+00:00'
+url: https://trends.google.com/trends/trendingsearches/daily/rss?geo=US/2022-02-03T13:57:20.253952+00:00

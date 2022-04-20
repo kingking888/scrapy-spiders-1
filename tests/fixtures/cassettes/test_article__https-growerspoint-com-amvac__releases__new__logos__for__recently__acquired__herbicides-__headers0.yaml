@@ -1,0 +1,1279 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - growerspoint.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://growerspoint.com/amvac-releases-new-logos-for-recently-acquired-herbicides/
+  response:
+    body:
+      string: "<!doctype html >\r\n<!--[if IE 8]>    <html class=\"ie8\" lang=\"en\"\
+        > <![endif]-->\r\n<!--[if IE 9]>    <html class=\"ie9\" lang=\"en\"> <![endif]-->\r\
+        \n<!--[if gt IE 8]><!--> <html lang=\"en-US\"> <!--<![endif]-->\r\n<head>\r\
+        \n    <title>AMVAC Releases New Logos For Recently Acquired Herbicides | Growerspoint.com</title>\r\
+        \n    <meta charset=\"UTF-8\" />\r\n    <meta name=\"viewport\" content=\"\
+        width=device-width, initial-scale=1.0\">\r\n    <link rel=\"pingback\" href=\"\
+        https://growerspoint.com/xmlrpc.php\" />\r\n    <meta property=\"og:image\"\
+        \ content=\"https://growerspoint.com/wp-content/uploads/2018/09/AmvacChemCorpLogo2.jpg\"\
+        \ /><link rel=\"icon\" type=\"image/png\" href=\"https://growerspoint.com/wp-content/uploads/2018/04/favicon.png\"\
+        ><link rel=\"apple-touch-icon-precomposed\" sizes=\"76x76\" href=\"https://www.poultryproducer.com/wp-content/uploads/2018/03/76x76.png\"\
+        /><link rel=\"apple-touch-icon-precomposed\" sizes=\"120x120\" href=\"https://www.poultryproducer.com/wp-content/uploads/2018/03/120x120.png\"\
+        /><link rel=\"apple-touch-icon-precomposed\" sizes=\"152x152\" href=\"https://www.poultryproducer.com/wp-content/uploads/2018/03/152x152.png\"\
+        /><link rel=\"apple-touch-icon-precomposed\" sizes=\"114x114\" href=\"https://www.poultryproducer.com/wp-content/uploads/2018/03/114x114.png\"\
+        /><link rel=\"apple-touch-icon-precomposed\" sizes=\"144x144\" href=\"https://www.poultryproducer.com/wp-content/uploads/2018/03/144x144.png\"\
+        /><link rel='dns-prefetch' href='//translate.google.com' />\n<link rel='dns-prefetch'\
+        \ href='//www.google.com' />\n<link rel='dns-prefetch' href='//fonts.googleapis.com'\
+        \ />\n<link rel='dns-prefetch' href='//s.w.org' />\n<link rel=\"alternate\"\
+        \ type=\"application/rss+xml\" title=\"Growerspoint.com &raquo; Feed\" href=\"\
+        https://growerspoint.com/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\"\
+        \ title=\"Growerspoint.com &raquo; Comments Feed\" href=\"https://growerspoint.com/comments/feed/\"\
+        \ />\n<link rel=\"alternate\" type=\"text/calendar\" title=\"Growerspoint.com\
+        \ &raquo; iCal Feed\" href=\"https://growerspoint.com/events/?ical=1\" />\n\
+        <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Growerspoint.com\
+        \ &raquo; AMVAC Releases New Logos For Recently Acquired Herbicides Comments\
+        \ Feed\" href=\"https://growerspoint.com/amvac-releases-new-logos-for-recently-acquired-herbicides/feed/\"\
+        \ />\n\t\t<script type=\"text/javascript\">\n\t\t\twindow._wpemojiSettings\
+        \ = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/12.0.0-1\\\
+        /72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\\
+        /emoji\\/12.0.0-1\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\"\
+        :\"https:\\/\\/growerspoint.com\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.4\"\
+        }};\n\t\t\t/*! This file is auto-generated */\n\t\t\t!function(e,a,t){var\
+        \ r,n,o,i,p=a.createElement(\"canvas\"),s=p.getContext&&p.getContext(\"2d\"\
+        );function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var\
+        \ r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function\
+        \ l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline=\"top\",s.font=\"\
+        600 32px Arial\",e){case\"flag\":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case\"\
+        emoji\":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function\
+        \ d(e){var t=a.createElement(\"script\");t.src=e,t.defer=t.type=\"text/javascript\"\
+        ,a.getElementsByTagName(\"head\")[0].appendChild(t)}for(i=Array(\"flag\",\"\
+        emoji\"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],\"\
+        flag\"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener(\"\
+        DOMContentLoaded\",n,!1),e.addEventListener(\"load\",n,!1)):(e.attachEvent(\"\
+        onload\",n),a.attachEvent(\"onreadystatechange\",function(){\"complete\"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);\n\
+        \t\t</script>\n\t\t<style type=\"text/css\">\nimg.wp-smiley,\nimg.emoji {\n\
+        \tdisplay: inline !important;\n\tborder: none !important;\n\tbox-shadow: none\
+        \ !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin:\
+        \ 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground:\
+        \ none !important;\n\tpadding: 0 !important;\n}\n</style>\n\t<link rel='stylesheet'\
+        \ id='cnss_font_awesome_css-css'  href='https://growerspoint.com/wp-content/plugins/easy-social-icons/css/font-awesome/css/all.min.css?ver=5.7.2'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='cnss_font_awesome_v4_shims-css'\
+        \  href='https://growerspoint.com/wp-content/plugins/easy-social-icons/css/font-awesome/css/v4-shims.min.css?ver=5.7.2'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='cnss_css-css'\
+        \  href='https://growerspoint.com/wp-content/plugins/easy-social-icons/css/cnss.css?ver=1.0'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='tribe-common-skeleton-style-css'\
+        \  href='https://growerspoint.com/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css?ver=4.10.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='tribe-tooltip-css'\
+        \  href='https://growerspoint.com/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.10.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='wp-block-library-css'\
+        \  href='https://growerspoint.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='contact-form-7-css'\
+        \  href='https://growerspoint.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='google-language-translator-css'\
+        \  href='https://growerspoint.com/wp-content/plugins/google-language-translator/css/style.css?ver=6.0.7'\
+        \ type='text/css' media='' />\n<link rel='stylesheet' id='glt-toolbar-styles-css'\
+        \  href='https://growerspoint.com/wp-content/plugins/google-language-translator/css/toolbar.css?ver=6.0.7'\
+        \ type='text/css' media='' />\n<link rel='stylesheet' id='google-fonts-style-css'\
+        \  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400%2C400italic%2C600%2C600italic%2C700%7CRoboto%3A300%2C400%2C400italic%2C500%2C500italic%2C700%2C900&#038;ver=8.7.2'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='js_composer_front-css'\
+        \  href='https://growerspoint.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.1'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='td-theme-css'\
+        \  href='https://growerspoint.com/wp-content/themes/Newspaper/style.css?ver=8.7.2'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='td-theme-child-css'\
+        \  href='https://growerspoint.com/wp-content/themes/Newspaper-child/style.css?ver=8.7.2c'\
+        \ type='text/css' media='all' />\n<script type='text/javascript' src='https://growerspoint.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>\n\
+        <script type='text/javascript' src='https://growerspoint.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>\n\
+        <script type='text/javascript' src='https://growerspoint.com/wp-content/plugins/easy-social-icons/js/cnss.js?ver=1.0'></script>\n\
+        <link rel='https://api.w.org/' href='https://growerspoint.com/wp-json/' />\n\
+        <link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://growerspoint.com/xmlrpc.php?rsd\"\
+        \ />\n<link rel=\"wlwmanifest\" type=\"application/wlwmanifest+xml\" href=\"\
+        https://growerspoint.com/wp-includes/wlwmanifest.xml\" /> \n<link rel='prev'\
+        \ title='Farmers National Co: Farmland Values B.C., A.C. And Beyond' href='https://growerspoint.com/farmers-national-co-farmland-values-b-c-a-c-and-beyond/'\
+        \ />\n<link rel='next' title='Ag Economic Insights: 2020 Fertilizer Prices\
+        \ Remain Low' href='https://growerspoint.com/ag-economic-insights-2020-fertilizer-prices-remain-low/'\
+        \ />\n<meta name=\"generator\" content=\"WordPress 5.4\" />\n<link rel=\"\
+        canonical\" href=\"https://growerspoint.com/amvac-releases-new-logos-for-recently-acquired-herbicides/\"\
+        \ />\n<link rel='shortlink' href='https://growerspoint.com/?p=6992' />\n<link\
+        \ rel=\"alternate\" type=\"application/json+oembed\" href=\"https://growerspoint.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgrowerspoint.com%2Famvac-releases-new-logos-for-recently-acquired-herbicides%2F\"\
+        \ />\n<link rel=\"alternate\" type=\"text/xml+oembed\" href=\"https://growerspoint.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgrowerspoint.com%2Famvac-releases-new-logos-for-recently-acquired-herbicides%2F&#038;format=xml\"\
+        \ />\n<style type=\"text/css\">\r\n\t\tul.cnss-social-icon li.cn-fa-icon a:hover{opacity:\
+        \ 0.7!important;color:#ffffff!important;}\r\n\t\t</style><style type=\"text/css\"\
+        >p.hello { font-size:12px; color:darkgray; }#google_language_translator, #flags\
+        \ { text-align:left; }#google_language_translator { clear:both; }#flags {\
+        \ width:165px; }#flags a { display:inline-block; margin-right:2px; }#google_language_translator\
+        \ a {display: none !important; }.goog-te-gadget {color:transparent !important;}.goog-te-gadget\
+        \ { font-size:0px !important; }.goog-branding { display:none; }.goog-tooltip\
+        \ {display: none !important;}.goog-tooltip:hover {display: none !important;}.goog-text-highlight\
+        \ {background-color: transparent !important; border: none !important; box-shadow:\
+        \ none !important;}#google_language_translator select.goog-te-combo { color:#32373c;\
+        \ }.goog-te-banner-frame{visibility:hidden !important;}body { top:0px !important;}#glt-translate-trigger\
+        \ { left:20px; right:auto; }#glt-translate-trigger > span { color:#ffffff;\
+        \ }#glt-translate-trigger { background:#dd3333; }.goog-te-gadget .goog-te-combo\
+        \ { width:100%; }</style><meta name=\"tec-api-version\" content=\"v1\"><meta\
+        \ name=\"tec-api-origin\" content=\"https://growerspoint.com\"><link rel=\"\
+        https://theeventscalendar.com/\" href=\"https://growerspoint.com/wp-json/tribe/events/v1/\"\
+        \ />\t\t\t<script>\r\n\t\t\t\twindow.tdwGlobal = {\"adminUrl\":\"https:\\\
+        /\\/growerspoint.com\\/wp-admin\\/\",\"wpRestNonce\":\"8472cc9edb\",\"wpRestUrl\"\
+        :\"https:\\/\\/growerspoint.com\\/wp-json\\/\",\"permalinkStructure\":\"\\\
+        /%postname%\\/\"};\r\n\t\t\t</script>\r\n\t\t\t<!--[if lt IE 9]><script src=\"\
+        https://html5shim.googlecode.com/svn/trunk/html5.js\"></script><![endif]-->\r\
+        \n    <meta name=\"generator\" content=\"Powered by WPBakery Page Builder\
+        \ - drag and drop page builder for WordPress.\"/>\n\n<!-- JS generated by\
+        \ theme -->\n\n<script>\n    \n    \r\n\r\n\t    var tdBlocksArray = []; //here\
+        \ we store all the items for the current page\r\n\r\n\t    //td_block class\
+        \ - each ajax block uses a object of this class for requests\r\n\t    function\
+        \ tdBlock() {\r\n\t\t    this.id = '';\r\n\t\t    this.block_type = 1; //block\
+        \ type id (1-234 etc)\r\n\t\t    this.atts = '';\r\n\t\t    this.td_column_number\
+        \ = '';\r\n\t\t    this.td_current_page = 1; //\r\n\t\t    this.post_count\
+        \ = 0; //from wp\r\n\t\t    this.found_posts = 0; //from wp\r\n\t\t    this.max_num_pages\
+        \ = 0; //from wp\r\n\t\t    this.td_filter_value = ''; //current live filter\
+        \ value\r\n\t\t    this.is_ajax_running = false;\r\n\t\t    this.td_user_action\
+        \ = ''; // load more or infinite loader (used by the animation)\r\n\t\t  \
+        \  this.header_color = '';\r\n\t\t    this.ajax_pagination_infinite_stop =\
+        \ ''; //show load more at page x\r\n\t    }\r\n\r\n\r\n        // td_js_generator\
+        \ - mini detector\r\n        (function(){\r\n            var htmlTag = document.getElementsByTagName(\"\
+        html\")[0];\r\n\r\n\t        if ( navigator.userAgent.indexOf(\"MSIE 10.0\"\
+        ) > -1 ) {\r\n                htmlTag.className += ' ie10';\r\n          \
+        \  }\r\n\r\n            if ( !!navigator.userAgent.match(/Trident.*rv\\:11\\\
+        ./) ) {\r\n                htmlTag.className += ' ie11';\r\n            }\r\
+        \n\r\n\t        if ( navigator.userAgent.indexOf(\"Edge\") > -1 ) {\r\n  \
+        \              htmlTag.className += ' ieEdge';\r\n            }\r\n\r\n  \
+        \          if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {\r\n  \
+        \              htmlTag.className += ' td-md-is-ios';\r\n            }\r\n\r\
+        \n            var user_agent = navigator.userAgent.toLowerCase();\r\n    \
+        \        if ( user_agent.indexOf(\"android\") > -1 ) {\r\n               \
+        \ htmlTag.className += ' td-md-is-android';\r\n            }\r\n\r\n     \
+        \       if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {\r\n     \
+        \           htmlTag.className += ' td-md-is-os-x';\r\n            }\r\n\r\n\
+        \            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) )\
+        \ {\r\n               htmlTag.className += ' td-md-is-chrome';\r\n       \
+        \     }\r\n\r\n            if ( -1 !== navigator.userAgent.indexOf('Firefox')\
+        \ ) {\r\n                htmlTag.className += ' td-md-is-firefox';\r\n   \
+        \         }\r\n\r\n            if ( -1 !== navigator.userAgent.indexOf('Safari')\
+        \ && -1 === navigator.userAgent.indexOf('Chrome') ) {\r\n                htmlTag.className\
+        \ += ' td-md-is-safari';\r\n            }\r\n\r\n            if( -1 !== navigator.userAgent.indexOf('IEMobile')\
+        \ ){\r\n                htmlTag.className += ' td-md-is-iemobile';\r\n   \
+        \         }\r\n\r\n        })();\r\n\r\n\r\n\r\n\r\n        var tdLocalCache\
+        \ = {};\r\n\r\n        ( function () {\r\n            \"use strict\";\r\n\r\
+        \n            tdLocalCache = {\r\n                data: {},\r\n          \
+        \      remove: function (resource_id) {\r\n                    delete tdLocalCache.data[resource_id];\r\
+        \n                },\r\n                exist: function (resource_id) {\r\n\
+        \                    return tdLocalCache.data.hasOwnProperty(resource_id)\
+        \ && tdLocalCache.data[resource_id] !== null;\r\n                },\r\n  \
+        \              get: function (resource_id) {\r\n                    return\
+        \ tdLocalCache.data[resource_id];\r\n                },\r\n              \
+        \  set: function (resource_id, cachedData) {\r\n                    tdLocalCache.remove(resource_id);\r\
+        \n                    tdLocalCache.data[resource_id] = cachedData;\r\n   \
+        \             }\r\n            };\r\n        })();\r\n\r\n    \r\n    \nvar\
+        \ td_viewport_interval_list=[{\"limitBottom\":767,\"sidebarWidth\":228},{\"\
+        limitBottom\":1018,\"sidebarWidth\":300},{\"limitBottom\":1140,\"sidebarWidth\"\
+        :324}];\nvar td_animation_stack_effect=\"type0\";\nvar tds_animation_stack=true;\n\
+        var td_animation_stack_specific_selectors=\".entry-thumb, img\";\nvar td_animation_stack_general_selectors=\"\
+        .td-animation-stack img, .td-animation-stack .entry-thumb, .post img\";\n\
+        var td_ajax_url=\"https:\\/\\/growerspoint.com\\/wp-admin\\/admin-ajax.php?td_theme_name=Newspaper&v=8.7.2\"\
+        ;\nvar td_get_template_directory_uri=\"https:\\/\\/growerspoint.com\\/wp-content\\\
+        /themes\\/Newspaper\";\nvar tds_snap_menu=\"snap\";\nvar tds_logo_on_sticky=\"\
+        \";\nvar tds_header_style=\"\";\nvar td_please_wait=\"Please wait...\";\n\
+        var td_email_user_pass_incorrect=\"User or password incorrect!\";\nvar td_email_user_incorrect=\"\
+        Email or username incorrect!\";\nvar td_email_incorrect=\"Email incorrect!\"\
+        ;\nvar tds_more_articles_on_post_enable=\"\";\nvar tds_more_articles_on_post_time_to_wait=\"\
+        \";\nvar tds_more_articles_on_post_pages_distance_from_top=0;\nvar tds_theme_color_site_wide=\"\
+        #00a537\";\nvar tds_smart_sidebar=\"\";\nvar tdThemeName=\"Newspaper\";\n\
+        var td_magnific_popup_translation_tPrev=\"Previous (Left arrow key)\";\nvar\
+        \ td_magnific_popup_translation_tNext=\"Next (Right arrow key)\";\nvar td_magnific_popup_translation_tCounter=\"\
+        %curr% of %total%\";\nvar td_magnific_popup_translation_ajax_tError=\"The\
+        \ content from %url% could not be loaded.\";\nvar td_magnific_popup_translation_image_tError=\"\
+        The image #%curr% could not be loaded.\";\nvar tdDateNamesI18n={\"month_names\"\
+        :[\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"\
+        August\",\"September\",\"October\",\"November\",\"December\"],\"month_names_short\"\
+        :[\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\",\"Jul\",\"Aug\",\"Sep\"\
+        ,\"Oct\",\"Nov\",\"Dec\"],\"day_names\":[\"Sunday\",\"Monday\",\"Tuesday\"\
+        ,\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\"],\"day_names_short\":[\"\
+        Sun\",\"Mon\",\"Tue\",\"Wed\",\"Thu\",\"Fri\",\"Sat\"]};\nvar td_ad_background_click_link=\"\
+        \";\nvar td_ad_background_click_target=\"\";\n</script>\n\n\n<!-- Header style\
+        \ compiled by theme -->\n\n<style>\n    \n.td-header-wrap .black-menu .sf-menu\
+        \ > .current-menu-item > a,\r\n    .td-header-wrap .black-menu .sf-menu >\
+        \ .current-menu-ancestor > a,\r\n    .td-header-wrap .black-menu .sf-menu\
+        \ > .current-category-ancestor > a,\r\n    .td-header-wrap .black-menu .sf-menu\
+        \ > li > a:hover,\r\n    .td-header-wrap .black-menu .sf-menu > .sfHover >\
+        \ a,\r\n    .td-header-style-12 .td-header-menu-wrap-full,\r\n    .sf-menu\
+        \ > .current-menu-item > a:after,\r\n    .sf-menu > .current-menu-ancestor\
+        \ > a:after,\r\n    .sf-menu > .current-category-ancestor > a:after,\r\n \
+        \   .sf-menu > li:hover > a:after,\r\n    .sf-menu > .sfHover > a:after,\r\
+        \n    .td-header-style-12 .td-affix,\r\n    .header-search-wrap .td-drop-down-search:after,\r\
+        \n    .header-search-wrap .td-drop-down-search .btn:hover,\r\n    input[type=submit]:hover,\r\
+        \n    .td-read-more a,\r\n    .td-post-category:hover,\r\n    .td-grid-style-1.td-hover-1\
+        \ .td-big-grid-post:hover .td-post-category,\r\n    .td-grid-style-5.td-hover-1\
+        \ .td-big-grid-post:hover .td-post-category,\r\n    .td_top_authors .td-active\
+        \ .td-author-post-count,\r\n    .td_top_authors .td-active .td-author-comments-count,\r\
+        \n    .td_top_authors .td_mod_wrap:hover .td-author-post-count,\r\n    .td_top_authors\
+        \ .td_mod_wrap:hover .td-author-comments-count,\r\n    .td-404-sub-sub-title\
+        \ a:hover,\r\n    .td-search-form-widget .wpb_button:hover,\r\n    .td-rating-bar-wrap\
+        \ div,\r\n    .td_category_template_3 .td-current-sub-category,\r\n    .dropcap,\r\
+        \n    .td_wrapper_video_playlist .td_video_controls_playlist_wrapper,\r\n\
+        \    .wpb_default,\r\n    .wpb_default:hover,\r\n    .td-left-smart-list:hover,\r\
+        \n    .td-right-smart-list:hover,\r\n    .woocommerce-checkout .woocommerce\
+        \ input.button:hover,\r\n    .woocommerce-page .woocommerce a.button:hover,\r\
+        \n    .woocommerce-account div.woocommerce .button:hover,\r\n    #bbpress-forums\
+        \ button:hover,\r\n    .bbp_widget_login .button:hover,\r\n    .td-footer-wrapper\
+        \ .td-post-category,\r\n    .td-footer-wrapper .widget_product_search input[type=\"\
+        submit\"]:hover,\r\n    .woocommerce .product a.button:hover,\r\n    .woocommerce\
+        \ .product #respond input#submit:hover,\r\n    .woocommerce .checkout input#place_order:hover,\r\
+        \n    .woocommerce .woocommerce.widget .button:hover,\r\n    .single-product\
+        \ .product .summary .cart .button:hover,\r\n    .woocommerce-cart .woocommerce\
+        \ table.cart .button:hover,\r\n    .woocommerce-cart .woocommerce .shipping-calculator-form\
+        \ .button:hover,\r\n    .td-next-prev-wrap a:hover,\r\n    .td-load-more-wrap\
+        \ a:hover,\r\n    .td-post-small-box a:hover,\r\n    .page-nav .current,\r\
+        \n    .page-nav:first-child > div,\r\n    .td_category_template_8 .td-category-header\
+        \ .td-category a.td-current-sub-category,\r\n    .td_category_template_4 .td-category-siblings\
+        \ .td-category a:hover,\r\n    #bbpress-forums .bbp-pagination .current,\r\
+        \n    #bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current\
+        \ a,\r\n    .td-theme-slider:hover .slide-meta-cat a,\r\n    a.vc_btn-black:hover,\r\
+        \n    .td-trending-now-wrapper:hover .td-trending-now-title,\r\n    .td-scroll-up,\r\
+        \n    .td-smart-list-button:hover,\r\n    .td-weather-information:before,\r\
+        \n    .td-weather-week:before,\r\n    .td_block_exchange .td-exchange-header:before,\r\
+        \n    .td_block_big_grid_9.td-grid-style-1 .td-post-category,\r\n    .td_block_big_grid_9.td-grid-style-5\
+        \ .td-post-category,\r\n    .td-grid-style-6.td-hover-1 .td-module-thumb:after,\r\
+        \n    .td-pulldown-syle-2 .td-subcat-dropdown ul:after,\r\n    .td_block_template_9\
+        \ .td-block-title:after,\r\n    .td_block_template_15 .td-block-title:before,\r\
+        \n    div.wpforms-container .wpforms-form div.wpforms-submit-container button[type=submit]\
+        \ {\r\n        background-color: #00a537;\r\n    }\r\n\r\n    .global-block-template-4\
+        \ .td-related-title .td-cur-simple-item:before {\r\n        border-color:\
+        \ #00a537 transparent transparent transparent !important;\r\n    }\r\n\r\n\
+        \    .woocommerce .woocommerce-message .button:hover,\r\n    .woocommerce\
+        \ .woocommerce-error .button:hover,\r\n    .woocommerce .woocommerce-info\
+        \ .button:hover,\r\n    .global-block-template-4 .td-related-title .td-cur-simple-item,\r\
+        \n    .global-block-template-3 .td-related-title .td-cur-simple-item,\r\n\
+        \    .global-block-template-9 .td-related-title:after {\r\n        background-color:\
+        \ #00a537 !important;\r\n    }\r\n\r\n    .woocommerce .product .onsale,\r\
+        \n    .woocommerce.widget .ui-slider .ui-slider-handle {\r\n        background:\
+        \ none #00a537;\r\n    }\r\n\r\n    .woocommerce.widget.widget_layered_nav_filters\
+        \ ul li a {\r\n        background: none repeat scroll 0 0 #00a537 !important;\r\
+        \n    }\r\n\r\n    a,\r\n    cite a:hover,\r\n    .td_mega_menu_sub_cats .cur-sub-cat,\r\
+        \n    .td-mega-span h3 a:hover,\r\n    .td_mod_mega_menu:hover .entry-title\
+        \ a,\r\n    .header-search-wrap .result-msg a:hover,\r\n    .td-header-top-menu\
+        \ .td-drop-down-search .td_module_wrap:hover .entry-title a,\r\n    .td-header-top-menu\
+        \ .td-icon-search:hover,\r\n    .td-header-wrap .result-msg a:hover,\r\n \
+        \   .top-header-menu li a:hover,\r\n    .top-header-menu .current-menu-item\
+        \ > a,\r\n    .top-header-menu .current-menu-ancestor > a,\r\n    .top-header-menu\
+        \ .current-category-ancestor > a,\r\n    .td-social-icon-wrap > a:hover,\r\
+        \n    .td-header-sp-top-widget .td-social-icon-wrap a:hover,\r\n    .td-page-content\
+        \ blockquote p,\r\n    .td-post-content blockquote p,\r\n    .mce-content-body\
+        \ blockquote p,\r\n    .comment-content blockquote p,\r\n    .wpb_text_column\
+        \ blockquote p,\r\n    .td_block_text_with_title blockquote p,\r\n    .td_module_wrap:hover\
+        \ .entry-title a,\r\n    .td-subcat-filter .td-subcat-list a:hover,\r\n  \
+        \  .td-subcat-filter .td-subcat-dropdown a:hover,\r\n    .td_quote_on_blocks,\r\
+        \n    .dropcap2,\r\n    .dropcap3,\r\n    .td_top_authors .td-active .td-authors-name\
+        \ a,\r\n    .td_top_authors .td_mod_wrap:hover .td-authors-name a,\r\n   \
+        \ .td-post-next-prev-content a:hover,\r\n    .author-box-wrap .td-author-social\
+        \ a:hover,\r\n    .td-author-name a:hover,\r\n    .td-author-url a:hover,\r\
+        \n    .td_mod_related_posts:hover h3 > a,\r\n    .td-post-template-11 .td-related-title\
+        \ .td-related-left:hover,\r\n    .td-post-template-11 .td-related-title .td-related-right:hover,\r\
+        \n    .td-post-template-11 .td-related-title .td-cur-simple-item,\r\n    .td-post-template-11\
+        \ .td_block_related_posts .td-next-prev-wrap a:hover,\r\n    .comment-reply-link:hover,\r\
+        \n    .logged-in-as a:hover,\r\n    #cancel-comment-reply-link:hover,\r\n\
+        \    .td-search-query,\r\n    .td-category-header .td-pulldown-category-filter-link:hover,\r\
+        \n    .td-category-siblings .td-subcat-dropdown a:hover,\r\n    .td-category-siblings\
+        \ .td-subcat-dropdown a.td-current-sub-category,\r\n    .widget a:hover,\r\
+        \n    .td_wp_recentcomments a:hover,\r\n    .archive .widget_archive .current,\r\
+        \n    .archive .widget_archive .current a,\r\n    .widget_calendar tfoot a:hover,\r\
+        \n    .woocommerce a.added_to_cart:hover,\r\n    .woocommerce-account .woocommerce-MyAccount-navigation\
+        \ a:hover,\r\n    #bbpress-forums li.bbp-header .bbp-reply-content span a:hover,\r\
+        \n    #bbpress-forums .bbp-forum-freshness a:hover,\r\n    #bbpress-forums\
+        \ .bbp-topic-freshness a:hover,\r\n    #bbpress-forums .bbp-forums-list li\
+        \ a:hover,\r\n    #bbpress-forums .bbp-forum-title:hover,\r\n    #bbpress-forums\
+        \ .bbp-topic-permalink:hover,\r\n    #bbpress-forums .bbp-topic-started-by\
+        \ a:hover,\r\n    #bbpress-forums .bbp-topic-started-in a:hover,\r\n    #bbpress-forums\
+        \ .bbp-body .super-sticky li.bbp-topic-title .bbp-topic-permalink,\r\n   \
+        \ #bbpress-forums .bbp-body .sticky li.bbp-topic-title .bbp-topic-permalink,\r\
+        \n    .widget_display_replies .bbp-author-name,\r\n    .widget_display_topics\
+        \ .bbp-author-name,\r\n    .footer-text-wrap .footer-email-wrap a,\r\n   \
+        \ .td-subfooter-menu li a:hover,\r\n    .footer-social-wrap a:hover,\r\n \
+        \   a.vc_btn-black:hover,\r\n    .td-smart-list-dropdown-wrap .td-smart-list-button:hover,\r\
+        \n    .td_module_17 .td-read-more a:hover,\r\n    .td_module_18 .td-read-more\
+        \ a:hover,\r\n    .td_module_19 .td-post-author-name a:hover,\r\n    .td-instagram-user\
+        \ a,\r\n    .td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more\
+        \ span,\r\n    .td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more\
+        \ i,\r\n    .td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more\
+        \ span,\r\n    .td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more\
+        \ i,\r\n    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover,\r\
+        \n    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover\
+        \ i,\r\n    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-link:hover,\r\
+        \n    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-item\
+        \ .td-cur-simple-item,\r\n    .global-block-template-2 .td-related-title .td-cur-simple-item,\r\
+        \n    .global-block-template-5 .td-related-title .td-cur-simple-item,\r\n\
+        \    .global-block-template-6 .td-related-title .td-cur-simple-item,\r\n \
+        \   .global-block-template-7 .td-related-title .td-cur-simple-item,\r\n  \
+        \  .global-block-template-8 .td-related-title .td-cur-simple-item,\r\n   \
+        \ .global-block-template-9 .td-related-title .td-cur-simple-item,\r\n    .global-block-template-10\
+        \ .td-related-title .td-cur-simple-item,\r\n    .global-block-template-11\
+        \ .td-related-title .td-cur-simple-item,\r\n    .global-block-template-12\
+        \ .td-related-title .td-cur-simple-item,\r\n    .global-block-template-13\
+        \ .td-related-title .td-cur-simple-item,\r\n    .global-block-template-14\
+        \ .td-related-title .td-cur-simple-item,\r\n    .global-block-template-15\
+        \ .td-related-title .td-cur-simple-item,\r\n    .global-block-template-16\
+        \ .td-related-title .td-cur-simple-item,\r\n    .global-block-template-17\
+        \ .td-related-title .td-cur-simple-item,\r\n    .td-theme-wrap .sf-menu ul\
+        \ .td-menu-item > a:hover,\r\n    .td-theme-wrap .sf-menu ul .sfHover > a,\r\
+        \n    .td-theme-wrap .sf-menu ul .current-menu-ancestor > a,\r\n    .td-theme-wrap\
+        \ .sf-menu ul .current-category-ancestor > a,\r\n    .td-theme-wrap .sf-menu\
+        \ ul .current-menu-item > a,\r\n    .td_outlined_btn {\r\n        color: #00a537;\r\
+        \n    }\r\n\r\n    a.vc_btn-black.vc_btn_square_outlined:hover,\r\n    a.vc_btn-black.vc_btn_outlined:hover,\r\
+        \n    .td-mega-menu-page .wpb_content_element ul li a:hover,\r\n    .td-theme-wrap\
+        \ .td-aj-search-results .td_module_wrap:hover .entry-title a,\r\n    .td-theme-wrap\
+        \ .header-search-wrap .result-msg a:hover {\r\n        color: #00a537 !important;\r\
+        \n    }\r\n\r\n    .td-next-prev-wrap a:hover,\r\n    .td-load-more-wrap a:hover,\r\
+        \n    .td-post-small-box a:hover,\r\n    .page-nav .current,\r\n    .page-nav:first-child\
+        \ > div,\r\n    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,\r\
+        \n    .td_category_template_4 .td-category-siblings .td-category a:hover,\r\
+        \n    #bbpress-forums .bbp-pagination .current,\r\n    .post .td_quote_box,\r\
+        \n    .page .td_quote_box,\r\n    a.vc_btn-black:hover,\r\n    .td_block_template_5\
+        \ .td-block-title > *,\r\n    .td_outlined_btn {\r\n        border-color:\
+        \ #00a537;\r\n    }\r\n\r\n    .td_wrapper_video_playlist .td_video_currently_playing:after\
+        \ {\r\n        border-color: #00a537 !important;\r\n    }\r\n\r\n    .header-search-wrap\
+        \ .td-drop-down-search:before {\r\n        border-color: transparent transparent\
+        \ #00a537 transparent;\r\n    }\r\n\r\n    .block-title > span,\r\n    .block-title\
+        \ > a,\r\n    .block-title > label,\r\n    .widgettitle,\r\n    .widgettitle:after,\r\
+        \n    .td-trending-now-title,\r\n    .td-trending-now-wrapper:hover .td-trending-now-title,\r\
+        \n    .wpb_tabs li.ui-tabs-active a,\r\n    .wpb_tabs li:hover a,\r\n    .vc_tta-container\
+        \ .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container\
+        \ .vc_tta-tab.vc_active > a,\r\n    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic\
+        \ .vc_tta-tabs-container .vc_tta-tab:hover > a,\r\n    .td_block_template_1\
+        \ .td-related-title .td-cur-simple-item,\r\n    .woocommerce .product .products\
+        \ h2:not(.woocommerce-loop-product__title),\r\n    .td-subcat-filter .td-subcat-dropdown:hover\
+        \ .td-subcat-more, \r\n    .td_3D_btn,\r\n    .td_shadow_btn,\r\n    .td_default_btn,\r\
+        \n    .td_round_btn, \r\n    .td_outlined_btn:hover {\r\n    \tbackground-color:\
+        \ #00a537;\r\n    }\r\n\r\n    .woocommerce div.product .woocommerce-tabs\
+        \ ul.tabs li.active {\r\n    \tbackground-color: #00a537 !important;\r\n \
+        \   }\r\n\r\n    .block-title,\r\n    .td_block_template_1 .td-related-title,\r\
+        \n    .wpb_tabs .wpb_tabs_nav,\r\n    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic\
+        \ .vc_tta-tabs-container,\r\n    .woocommerce div.product .woocommerce-tabs\
+        \ ul.tabs:before {\r\n        border-color: #00a537;\r\n    }\r\n    .td_block_wrap\
+        \ .td-subcat-item a.td-cur-simple-item {\r\n\t    color: #00a537;\r\n\t}\r\
+        \n\r\n\r\n    \r\n    .td-grid-style-4 .entry-title\r\n    {\r\n        background-color:\
+        \ rgba(0, 165, 55, 0.7);\r\n    }\r\n\r\n    \r\n    ul.sf-menu > .td-menu-item\
+        \ > a,\r\n    .td-theme-wrap .td-header-menu-social {\r\n        text-transform:capitalize;\n\
+        \t\r\n    }\r\n    \r\n    .sf-menu ul .td-menu-item a {\r\n        text-transform:capitalize;\n\
+        \t\r\n    }\n</style>\n\n<!-- Global site tag (gtag.js) - Google Analytics\
+        \ -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-144257989-1\"\
+        ></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n\
+        \  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\
+        \n\r\n  gtag('config', 'UA-144257989-1');\r\n</script>\r\n<script type=\"\
+        application/ld+json\">\r\n                        {\r\n                  \
+        \          \"@context\": \"http://schema.org\",\r\n                      \
+        \      \"@type\": \"BreadcrumbList\",\r\n                            \"itemListElement\"\
+        : [{\r\n                            \"@type\": \"ListItem\",\r\n         \
+        \                   \"position\": 1,\r\n                                \"\
+        item\": {\r\n                                \"@type\": \"WebSite\",\r\n \
+        \                               \"@id\": \"https://growerspoint.com/\",\r\n\
+        \                                \"name\": \"Home\"                      \
+        \                         \r\n                            }\r\n          \
+        \              },{\r\n                            \"@type\": \"ListItem\"\
+        ,\r\n                            \"position\": 2,\r\n                    \
+        \            \"item\": {\r\n                                \"@type\": \"\
+        WebPage\",\r\n                                \"@id\": \"https://growerspoint.com/category/crops/\"\
+        ,\r\n                                \"name\": \"Crop News\"\r\n         \
+        \                   }\r\n                        },{\r\n                 \
+        \           \"@type\": \"ListItem\",\r\n                            \"position\"\
+        : 3,\r\n                                \"item\": {\r\n                  \
+        \              \"@type\": \"WebPage\",\r\n                               \
+        \ \"@id\": \"https://growerspoint.com/amvac-releases-new-logos-for-recently-acquired-herbicides/\"\
+        ,\r\n                                \"name\": \"AMVAC Releases New Logos\
+        \ For Recently Acquired Herbicides\"                                \r\n \
+        \                           }\r\n                        }    ]\r\n      \
+        \                  }\r\n                       </script><noscript><style>\
+        \ .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>\t<style\
+        \ id=\"tdw-css-placeholder\"></style></head>\r\n\r\n<body data-rsssl=1 class=\"\
+        post-template-default single single-post postid-6992 single-format-standard\
+        \ tribe-no-js amvac-releases-new-logos-for-recently-acquired-herbicides global-block-template-1\
+        \ wpb-js-composer js-comp-ver-6.1 vc_responsive td-animation-stack-type0 td-full-layout\"\
+        \ itemscope=\"itemscope\" itemtype=\"https://schema.org/WebPage\">\r\n\r\n\
+        \        <div class=\"td-scroll-up\"><i class=\"td-icon-menu-up\"></i></div>\r\
+        \n    \r\n    <div class=\"td-menu-background\"></div>\r\n<div id=\"td-mobile-nav\"\
+        >\r\n    <div class=\"td-mobile-container\">\r\n        <!-- mobile menu top\
+        \ section -->\r\n        <div class=\"td-menu-socials-wrap\">\r\n        \
+        \    <!-- socials -->\r\n            <div class=\"td-menu-socials\">\r\n \
+        \               \r\n        <span class=\"td-social-icon-wrap\">\r\n     \
+        \       <a target=\"_blank\" href=\"https://www.facebook.com/Growerspointcom-1799331240137222/\"\
+        \ title=\"Facebook\">\r\n                <i class=\"td-icon-font td-icon-facebook\"\
+        ></i>\r\n            </a>\r\n        </span>\r\n        <span class=\"td-social-icon-wrap\"\
+        >\r\n            <a target=\"_blank\" href=\"https://twitter.com/Growerspoint\"\
+        \ title=\"Twitter\">\r\n                <i class=\"td-icon-font td-icon-twitter\"\
+        ></i>\r\n            </a>\r\n        </span>            </div>\r\n       \
+        \     <!-- close button -->\r\n            <div class=\"td-mobile-close\"\
+        >\r\n                <a href=\"#\"><i class=\"td-icon-close-mobile\"></i></a>\r\
+        \n            </div>\r\n        </div>\r\n\r\n        <!-- login section -->\r\
+        \n        \r\n        <!-- menu section -->\r\n        <div class=\"td-mobile-content\"\
+        >\r\n            <div class=\"menu-main-menu-container\"><ul id=\"menu-main-menu\"\
+        \ class=\"td-mobile-main-menu\"><li id=\"menu-item-1773\" class=\"menu-item\
+        \ menu-item-type-taxonomy menu-item-object-category current-post-ancestor\
+        \ current-menu-parent current-post-parent menu-item-has-children menu-item-first\
+        \ menu-item-1773\"><a href=\"https://growerspoint.com/category/crops/\">Crop\
+        \ News<i class=\"td-icon-menu-right td-element-after\"></i></a>\n<ul class=\"\
+        sub-menu\">\n\t<li id=\"menu-item-1776\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-1776\"><a href=\"https://growerspoint.com/category/crops/corn/\"\
+        >Corn</a></li>\n\t<li id=\"menu-item-1779\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category current-post-ancestor current-menu-parent current-post-parent\
+        \ menu-item-1779\"><a href=\"https://growerspoint.com/category/crops/soybeans/\"\
+        >Soybeans</a></li>\n\t<li id=\"menu-item-1775\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-1775\"><a href=\"https://growerspoint.com/category/crops/canola/\"\
+        >Canola</a></li>\n\t<li id=\"menu-item-1774\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-1774\"><a href=\"https://growerspoint.com/category/crops/alfalfa/\"\
+        >Alfalfa</a></li>\n\t<li id=\"menu-item-1780\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category current-post-ancestor current-menu-parent current-post-parent\
+        \ menu-item-1780\"><a href=\"https://growerspoint.com/category/crops/wheat/\"\
+        >Wheat</a></li>\n\t<li id=\"menu-item-1777\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-1777\"><a href=\"https://growerspoint.com/category/crops/cotton/\"\
+        >Cotton</a></li>\n\t<li id=\"menu-item-1778\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-1778\"><a href=\"https://growerspoint.com/category/crops/fertilizer/\"\
+        >Fertilizer</a></li>\n\t<li id=\"menu-item-1079\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-1079\"><a href=\"https://growerspoint.com/category/crops/hay-forage/\"\
+        >Hay/ Forage</a></li>\n\t<li id=\"menu-item-1077\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category current-post-ancestor current-menu-parent current-post-parent\
+        \ menu-item-1077\"><a href=\"https://growerspoint.com/category/crops/crop-protection/\"\
+        >Crop Protection</a></li>\n</ul>\n</li>\n<li id=\"menu-item-2057\" class=\"\
+        menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children\
+        \ menu-item-2057\"><a href=\"#\">Livestock<i class=\"td-icon-menu-right td-element-after\"\
+        ></i></a>\n<ul class=\"sub-menu\">\n\t<li id=\"menu-item-1796\" class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom menu-item-1796\"><a target=\"\
+        _blank\" href=\"http://www.swineweb.com/\">Swine</a></li>\n\t<li id=\"menu-item-1797\"\
+        \ class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1797\"\
+        ><a target=\"_blank\" href=\"http://www.poultryproducer.com/\">Poultry</a></li>\n\
+        \t<li id=\"menu-item-1798\" class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-1798\"><a target=\"_blank\" href=\"http://www.dairyproducer.ca/\"\
+        >Dairy</a></li>\n\t<li id=\"menu-item-1799\" class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-1799\"><a target=\"_blank\" href=\"http://www.beefproducer.ca/\"\
+        >Beef</a></li>\n</ul>\n</li>\n<li id=\"menu-item-1065\" class=\"menu-item\
+        \ menu-item-type-taxonomy menu-item-object-category menu-item-1065\"><a href=\"\
+        https://growerspoint.com/category/commentaries/\">Commentaries</a></li>\n\
+        <li id=\"menu-item-1066\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ menu-item-has-children menu-item-1066\"><a href=\"https://growerspoint.com/category/machinery/\"\
+        >Machinery<i class=\"td-icon-menu-right td-element-after\"></i></a>\n<ul class=\"\
+        sub-menu\">\n\t<li id=\"menu-item-1068\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-1068\"><a href=\"https://growerspoint.com/category/machinery/farmer-safety/\"\
+        >Farmer Safety</a></li>\n\t<li id=\"menu-item-1069\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-1069\"><a href=\"https://growerspoint.com/category/machinery/grain-handling/\"\
+        >Grain Handling</a></li>\n\t<li id=\"menu-item-1785\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-1785\"><a href=\"https://growerspoint.com/category/machinery/harvest/\"\
+        >Harvest</a></li>\n\t<li id=\"menu-item-1788\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-1788\"><a href=\"https://growerspoint.com/category/machinery/spraying/\"\
+        >Spraying</a></li>\n\t<li id=\"menu-item-1786\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-1786\"><a href=\"https://growerspoint.com/category/machinery/irrigation/\"\
+        >Irrigation</a></li>\n\t<li id=\"menu-item-1787\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-1787\"><a href=\"https://growerspoint.com/category/machinery/planting/\"\
+        >Planting</a></li>\n\t<li id=\"menu-item-1789\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-1789\"><a href=\"https://growerspoint.com/category/machinery/tillage/\"\
+        >Tillage</a></li>\n\t<li id=\"menu-item-1790\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-1790\"><a href=\"https://growerspoint.com/category/machinery/tractors/\"\
+        >Tractors</a></li>\n</ul>\n</li>\n<li id=\"menu-item-1088\" class=\"menu-item\
+        \ menu-item-type-taxonomy menu-item-object-category menu-item-has-children\
+        \ menu-item-1088\"><a href=\"https://growerspoint.com/category/farm-management/\"\
+        >Farm Management<i class=\"td-icon-menu-right td-element-after\"></i></a>\n\
+        <ul class=\"sub-menu\">\n\t<li id=\"menu-item-1791\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-1791\"><a href=\"https://growerspoint.com/category/farm-management/technology/\"\
+        >Technology</a></li>\n\t<li id=\"menu-item-1792\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-1792\"><a href=\"https://growerspoint.com/category/farm-management/finance/\"\
+        >Finance</a></li>\n\t<li id=\"menu-item-1793\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-1793\"><a href=\"https://growerspoint.com/category/farm-management/real-estate/\"\
+        >Real Estate</a></li>\n\t<li id=\"menu-item-1800\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-1800\"><a href=\"https://growerspoint.com/category/farm-management/energy/\"\
+        >Energy</a></li>\n</ul>\n</li>\n<li id=\"menu-item-1076\" class=\"menu-item\
+        \ menu-item-type-taxonomy menu-item-object-category menu-item-1076\"><a href=\"\
+        https://growerspoint.com/category/new-product-showcase/\">New Product Showcase</a></li>\n\
+        <li id=\"menu-item-1594\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ menu-item-1594\"><a href=\"https://growerspoint.com/category/sponsored-pages/\"\
+        >Sponsored Pages</a></li>\n<li id=\"menu-item-7506\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-7506\"><a href=\"https://growerspoint.com/category/canada/\"\
+        >Canada</a></li>\n<li id=\"menu-item-7507\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-7507\"><a href=\"https://growerspoint.com/category/united-states/\"\
+        >United States</a></li>\n</ul></div>        </div>\r\n    </div>\r\n\r\n \
+        \   <!-- register/login section -->\r\n    </div>    <div class=\"td-search-background\"\
+        ></div>\r\n<div class=\"td-search-wrap-mob\">\r\n\t<div class=\"td-drop-down-search\"\
+        \ aria-labelledby=\"td-header-search-button\">\r\n\t\t<form method=\"get\"\
+        \ class=\"td-search-form\" action=\"https://growerspoint.com/\">\r\n\t\t\t\
+        <!-- close button -->\r\n\t\t\t<div class=\"td-search-close\">\r\n\t\t\t\t\
+        <a href=\"#\"><i class=\"td-icon-close-mobile\"></i></a>\r\n\t\t\t</div>\r\
+        \n\t\t\t<div role=\"search\" class=\"td-search-input\">\r\n\t\t\t\t<span>Search</span>\r\
+        \n\t\t\t\t<input id=\"td-header-search-mob\" type=\"text\" value=\"\" name=\"\
+        s\" autocomplete=\"off\" />\r\n\t\t\t</div>\r\n\t\t</form>\r\n\t\t<div id=\"\
+        td-aj-search-mob\"></div>\r\n\t</div>\r\n</div>    \r\n    \r\n    <div id=\"\
+        td-outer-wrap\" class=\"td-theme-wrap\">\r\n    \r\n        <!--\r\nHeader\
+        \ style 1\r\n-->\r\n\r\n\r\n<div class=\"td-header-wrap td-header-style-1\
+        \ \">\r\n    \r\n    <div class=\"td-header-top-menu-full td-container-wrap\
+        \ \">\r\n        <div class=\"td-container td-header-row td-header-top-menu\"\
+        >\r\n            \r\n    <div class=\"top-bar-style-1\">\r\n        \r\n<div\
+        \ class=\"td-header-sp-top-menu\">\r\n\r\n\r\n\t<div class=\"menu-top-container\"\
+        ><ul id=\"menu-main-navigation\" class=\"top-header-menu\"><li id=\"menu-item-1801\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-home\
+        \ menu-item-first td-menu-item td-normal-menu menu-item-1801\"><a href=\"\
+        https://growerspoint.com/\">Home</a></li>\n<li id=\"menu-item-1347\" class=\"\
+        menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children\
+        \ td-menu-item td-normal-menu menu-item-1347\"><a href=\"https://growerspoint.com/events/\"\
+        >Agriculture Events</a>\n<ul class=\"sub-menu\">\n\t<li id=\"menu-item-7103\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page td-menu-item\
+        \ td-normal-menu menu-item-7103\"><a href=\"https://growerspoint.com/add-event/\"\
+        >Add Event</a></li>\n</ul>\n</li>\n<li id=\"menu-item-1062\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu\
+        \ menu-item-1062\"><a href=\"https://growerspoint.com/agriculture-videos/\"\
+        >Agriculture Videos</a></li>\n<li id=\"menu-item-1063\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu\
+        \ menu-item-1063\"><a href=\"https://growerspoint.com/advertising/\">Advertising</a></li>\n\
+        <li id=\"menu-item-2056\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-has-children td-menu-item td-normal-menu menu-item-2056\"><a href=\"\
+        https://growerspoint.com/adverts/\">Classifieds</a>\n<ul class=\"sub-menu\"\
+        >\n\t<li id=\"menu-item-2102\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page td-menu-item td-normal-menu menu-item-2102\"><a href=\"\
+        https://growerspoint.com/adverts/add/\">Add</a></li>\n\t<li id=\"menu-item-2103\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page td-menu-item\
+        \ td-normal-menu menu-item-2103\"><a href=\"https://growerspoint.com/adverts/manage/\"\
+        >Manage</a></li>\n</ul>\n</li>\n<li id=\"menu-item-3765\" class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu\
+        \ menu-item-3765\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"\
+        http://www.swineweb.com\">Swine</a></li>\n<li id=\"menu-item-3766\" class=\"\
+        menu-item menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu\
+        \ menu-item-3766\"><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"\
+        http://www.poultryproducer.com\">Poultry</a></li>\n<li id=\"menu-item-3767\"\
+        \ class=\"menu-item menu-item-type-custom menu-item-object-custom td-menu-item\
+        \ td-normal-menu menu-item-3767\"><a target=\"_blank\" rel=\"noopener noreferrer\"\
+        \ href=\"http://www.dairyproducer.ca\">Dairy</a></li>\n<li id=\"menu-item-3768\"\
+        \ class=\"menu-item menu-item-type-custom menu-item-object-custom td-menu-item\
+        \ td-normal-menu menu-item-3768\"><a target=\"_blank\" rel=\"noopener noreferrer\"\
+        \ href=\"http://www.beefproducer.ca\">Beef</a></li>\n<li id=\"menu-item-8114\"\
+        \ class=\"menu-item menu-item-type-custom menu-item-object-custom td-menu-item\
+        \ td-normal-menu menu-item-8114\"><a target=\"_blank\" rel=\"noopener noreferrer\"\
+        \ href=\"http://www.agricultureadvertising.com\">Agriculture Marketing</a></li>\n\
+        </ul></div></div>\r\n        <div class=\"td-header-sp-top-widget\">\r\n \
+        \   \r\n    \r\n        \r\n        <span class=\"td-social-icon-wrap\">\r\
+        \n            <a target=\"_blank\" href=\"https://www.facebook.com/Growerspointcom-1799331240137222/\"\
+        \ title=\"Facebook\">\r\n                <i class=\"td-icon-font td-icon-facebook\"\
+        ></i>\r\n            </a>\r\n        </span>\r\n        <span class=\"td-social-icon-wrap\"\
+        >\r\n            <a target=\"_blank\" href=\"https://twitter.com/Growerspoint\"\
+        \ title=\"Twitter\">\r\n                <i class=\"td-icon-font td-icon-twitter\"\
+        ></i>\r\n            </a>\r\n        </span>    </div>    </div>\r\n\r\n<!--\
+        \ LOGIN MODAL -->\r\n        </div>\r\n    </div>\r\n\r\n    <div class=\"\
+        td-banner-wrap-full td-logo-wrap-full td-container-wrap \">\r\n        <div\
+        \ class=\"td-container td-header-row td-header-header\">\r\n            <div\
+        \ class=\"td-header-sp-logo\">\r\n                        <a class=\"td-main-logo\"\
+        \ href=\"https://growerspoint.com/\">\r\n            <img class=\"td-retina-data\"\
+        \ data-retina=\"https://growerspoint.com/wp-content/uploads/2018/04/logo-gp@2x.png\"\
+        \ src=\"https://growerspoint.com/wp-content/uploads/2018/04/logo-gp.png\"\
+        \ alt=\"Growers Point\"/>\r\n            <span class=\"td-visual-hidden\"\
+        >Growerspoint.com</span>\r\n        </a>\r\n                </div>\r\n   \
+        \                         <div class=\"td-header-sp-recs\">\r\n          \
+        \          <div class=\"td-header-rec-wrap hidetitletopad\">\n    <h4 class=\"\
+        block-title\"><span>Canada</span></h4><a href=\"https://www.masseyferguson.us/products/hay-and-forage/2200-series-large-square-balers.html\"\
+        \ target=\"_blank\"><img src=\"https://growerspoint.com/wp-content/uploads/2020/05/massey-ferguson-baler-classifications-728x90-1.jpg\"\
+        ></a></div>                </div>\r\n                    </div>\r\n    </div>\r\
+        \n\r\n    <div class=\"td-header-menu-wrap-full td-container-wrap \">\r\n\
+        \        \r\n        <div class=\"td-header-menu-wrap td-header-gradient \"\
+        >\r\n            <div class=\"td-container td-header-row td-header-main-menu\"\
+        >\r\n                <div id=\"td-header-menu\" role=\"navigation\">\r\n \
+        \   <div id=\"td-top-mobile-toggle\"><a href=\"#\"><i class=\"td-icon-font\
+        \ td-icon-mobile\"></i></a></div>\r\n    <div class=\"td-main-menu-logo td-logo-in-header\"\
+        >\r\n                <a class=\"td-main-logo\" href=\"https://growerspoint.com/\"\
+        >\r\n            <img class=\"td-retina-data\" data-retina=\"https://growerspoint.com/wp-content/uploads/2018/04/logo-gp@2x.png\"\
+        \ src=\"https://growerspoint.com/wp-content/uploads/2018/04/logo-gp.png\"\
+        \ alt=\"Growers Point\"/>\r\n        </a>\r\n        </div>\r\n    <div class=\"\
+        menu-main-menu-container\"><ul id=\"menu-main-menu-1\" class=\"sf-menu\"><li\
+        \ class=\"menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor\
+        \ current-menu-parent current-post-parent menu-item-has-children menu-item-first\
+        \ td-menu-item td-normal-menu menu-item-1773\"><a href=\"https://growerspoint.com/category/crops/\"\
+        >Crop News</a>\n<ul class=\"sub-menu\">\n\t<li class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category td-menu-item td-normal-menu menu-item-1776\"><a\
+        \ href=\"https://growerspoint.com/category/crops/corn/\">Corn</a></li>\n\t\
+        <li class=\"menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor\
+        \ current-menu-parent current-post-parent td-menu-item td-normal-menu menu-item-1779\"\
+        ><a href=\"https://growerspoint.com/category/crops/soybeans/\">Soybeans</a></li>\n\
+        \t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ td-menu-item td-normal-menu menu-item-1775\"><a href=\"https://growerspoint.com/category/crops/canola/\"\
+        >Canola</a></li>\n\t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ td-menu-item td-normal-menu menu-item-1774\"><a href=\"https://growerspoint.com/category/crops/alfalfa/\"\
+        >Alfalfa</a></li>\n\t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ current-post-ancestor current-menu-parent current-post-parent td-menu-item\
+        \ td-normal-menu menu-item-1780\"><a href=\"https://growerspoint.com/category/crops/wheat/\"\
+        >Wheat</a></li>\n\t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ td-menu-item td-normal-menu menu-item-1777\"><a href=\"https://growerspoint.com/category/crops/cotton/\"\
+        >Cotton</a></li>\n\t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ td-menu-item td-normal-menu menu-item-1778\"><a href=\"https://growerspoint.com/category/crops/fertilizer/\"\
+        >Fertilizer</a></li>\n\t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ td-menu-item td-normal-menu menu-item-1079\"><a href=\"https://growerspoint.com/category/crops/hay-forage/\"\
+        >Hay/ Forage</a></li>\n\t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ current-post-ancestor current-menu-parent current-post-parent td-menu-item\
+        \ td-normal-menu menu-item-1077\"><a href=\"https://growerspoint.com/category/crops/crop-protection/\"\
+        >Crop Protection</a></li>\n</ul>\n</li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu\
+        \ menu-item-2057\"><a href=\"#\">Livestock</a>\n<ul class=\"sub-menu\">\n\t\
+        <li class=\"menu-item menu-item-type-custom menu-item-object-custom td-menu-item\
+        \ td-normal-menu menu-item-1796\"><a target=\"_blank\" href=\"http://www.swineweb.com/\"\
+        >Swine</a></li>\n\t<li class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ td-menu-item td-normal-menu menu-item-1797\"><a target=\"_blank\" href=\"\
+        http://www.poultryproducer.com/\">Poultry</a></li>\n\t<li class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom td-menu-item td-normal-menu\
+        \ menu-item-1798\"><a target=\"_blank\" href=\"http://www.dairyproducer.ca/\"\
+        >Dairy</a></li>\n\t<li class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ td-menu-item td-normal-menu menu-item-1799\"><a target=\"_blank\" href=\"\
+        http://www.beefproducer.ca/\">Beef</a></li>\n</ul>\n</li>\n<li class=\"menu-item\
+        \ menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu\
+        \ menu-item-1065\"><a href=\"https://growerspoint.com/category/commentaries/\"\
+        >Commentaries</a></li>\n<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ menu-item-has-children td-menu-item td-normal-menu menu-item-1066\"><a href=\"\
+        https://growerspoint.com/category/machinery/\">Machinery</a>\n<ul class=\"\
+        sub-menu\">\n\t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ td-menu-item td-normal-menu menu-item-1068\"><a href=\"https://growerspoint.com/category/machinery/farmer-safety/\"\
+        >Farmer Safety</a></li>\n\t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ td-menu-item td-normal-menu menu-item-1069\"><a href=\"https://growerspoint.com/category/machinery/grain-handling/\"\
+        >Grain Handling</a></li>\n\t<li class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category td-menu-item td-normal-menu menu-item-1785\"><a\
+        \ href=\"https://growerspoint.com/category/machinery/harvest/\">Harvest</a></li>\n\
+        \t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ td-menu-item td-normal-menu menu-item-1788\"><a href=\"https://growerspoint.com/category/machinery/spraying/\"\
+        >Spraying</a></li>\n\t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ td-menu-item td-normal-menu menu-item-1786\"><a href=\"https://growerspoint.com/category/machinery/irrigation/\"\
+        >Irrigation</a></li>\n\t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ td-menu-item td-normal-menu menu-item-1787\"><a href=\"https://growerspoint.com/category/machinery/planting/\"\
+        >Planting</a></li>\n\t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ td-menu-item td-normal-menu menu-item-1789\"><a href=\"https://growerspoint.com/category/machinery/tillage/\"\
+        >Tillage</a></li>\n\t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ td-menu-item td-normal-menu menu-item-1790\"><a href=\"https://growerspoint.com/category/machinery/tractors/\"\
+        >Tractors</a></li>\n</ul>\n</li>\n<li class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-has-children td-menu-item td-normal-menu\
+        \ menu-item-1088\"><a href=\"https://growerspoint.com/category/farm-management/\"\
+        >Farm Management</a>\n<ul class=\"sub-menu\">\n\t<li class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category td-menu-item td-normal-menu menu-item-1791\"><a\
+        \ href=\"https://growerspoint.com/category/farm-management/technology/\">Technology</a></li>\n\
+        \t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ td-menu-item td-normal-menu menu-item-1792\"><a href=\"https://growerspoint.com/category/farm-management/finance/\"\
+        >Finance</a></li>\n\t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ td-menu-item td-normal-menu menu-item-1793\"><a href=\"https://growerspoint.com/category/farm-management/real-estate/\"\
+        >Real Estate</a></li>\n\t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ td-menu-item td-normal-menu menu-item-1800\"><a href=\"https://growerspoint.com/category/farm-management/energy/\"\
+        >Energy</a></li>\n</ul>\n</li>\n<li class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category td-menu-item td-normal-menu menu-item-1076\"><a\
+        \ href=\"https://growerspoint.com/category/new-product-showcase/\">New Product\
+        \ Showcase</a></li>\n<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ td-menu-item td-normal-menu menu-item-1594\"><a href=\"https://growerspoint.com/category/sponsored-pages/\"\
+        >Sponsored Pages</a></li>\n<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ td-menu-item td-normal-menu menu-item-7506\"><a href=\"https://growerspoint.com/category/canada/\"\
+        >Canada</a></li>\n<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ td-menu-item td-normal-menu menu-item-7507\"><a href=\"https://growerspoint.com/category/united-states/\"\
+        >United States</a></li>\n</ul></div></div>\r\n\r\n\r\n    <div class=\"header-search-wrap\"\
+        >\r\n        <div class=\"td-search-btns-wrap\">\r\n            <a id=\"td-header-search-button\"\
+        \ href=\"#\" role=\"button\" class=\"dropdown-toggle \" data-toggle=\"dropdown\"\
+        ><i class=\"td-icon-search\"></i></a>\r\n            <a id=\"td-header-search-button-mob\"\
+        \ href=\"#\" role=\"button\" class=\"dropdown-toggle \" data-toggle=\"dropdown\"\
+        ><i class=\"td-icon-search\"></i></a>\r\n        </div>\r\n\r\n        <div\
+        \ class=\"td-drop-down-search\" aria-labelledby=\"td-header-search-button\"\
+        >\r\n            <form method=\"get\" class=\"td-search-form\" action=\"https://growerspoint.com/\"\
+        >\r\n                <div role=\"search\" class=\"td-head-form-search-wrap\"\
+        >\r\n                    <input id=\"td-header-search\" type=\"text\" value=\"\
+        \" name=\"s\" autocomplete=\"off\" /><input class=\"wpb_button wpb_btn-inverse\
+        \ btn\" type=\"submit\" id=\"td-header-search-top\" value=\"Search\" />\r\n\
+        \                </div>\r\n            </form>\r\n            <div id=\"td-aj-search\"\
+        ></div>\r\n        </div>\r\n    </div>\r\n            </div>\r\n        </div>\r\
+        \n    </div>\r\n\r\n</div><div class=\"td-main-content-wrap td-container-wrap\"\
+        >\n\n    <div class=\"td-container td-post-template-default \">\n        <div\
+        \ class=\"td-crumb-container\"><div class=\"entry-crumbs\"><span><a title=\"\
+        \" class=\"entry-crumb\" href=\"https://growerspoint.com/\">Home</a></span>\
+        \ <i class=\"td-icon-right td-bread-sep\"></i> <span><a title=\"View all posts\
+        \ in Crop News\" class=\"entry-crumb\" href=\"https://growerspoint.com/category/crops/\"\
+        >Crop News</a></span> <i class=\"td-icon-right td-bread-sep td-bred-no-url-last\"\
+        ></i> <span class=\"td-bred-no-url-last\">AMVAC Releases New Logos For Recently\
+        \ Acquired Herbicides</span></div></div>\n\n        <div class=\"td-pb-row\"\
+        >\n                                    <div class=\"td-pb-span8 td-main-content\"\
+        \ role=\"main\">\n                            <div class=\"td-ss-main-content\"\
+        >\n                                <div class=\"tag_ads_shows\">\n       \
+        \                                                             </div>\n   \
+        \                             \n                                    <article\
+        \ id=\"post-6992\" class=\"post-6992 post type-post status-publish format-standard\
+        \ has-post-thumbnail hentry category-crops category-crop-protection category-soybeans\
+        \ category-wheat\" itemscope itemtype=\"https://schema.org/Article\">\n  \
+        \      <div class=\"td-post-header\">\n            <ul class=\"td-category\"\
+        ><li class=\"entry-category\"><a  href=\"https://growerspoint.com/category/crops/\"\
+        >Crop News</a></li><li class=\"entry-category\"><a  href=\"https://growerspoint.com/category/crops/crop-protection/\"\
+        >Crop Protection</a></li><li class=\"entry-category\"><a  href=\"https://growerspoint.com/category/crops/soybeans/\"\
+        >Soybeans</a></li><li class=\"entry-category\"><a  href=\"https://growerspoint.com/category/crops/wheat/\"\
+        >Wheat</a></li></ul>            <header class=\"td-post-title\">\n       \
+        \         <h1 class=\"entry-title\">AMVAC Releases New Logos For Recently\
+        \ Acquired Herbicides</h1>                                <!-- <div class=\"\
+        tag_ads_shows\">\n                                    </div>  -->\n      \
+        \          <div class=\"td-module-meta-info\">\n                         \
+        \               <span class=\"td-post-date td-post-date-no-dot\"><time class=\"\
+        entry-date updated td-module-date\" datetime=\"2020-04-07T11:14:34+00:00\"\
+        \ >April 7, 2020</time></span>                                        <div\
+        \ class=\"td-post-views\"><i class=\"td-icon-views\"></i><span class=\"td-nr-views-6992\"\
+        >189</span></div>                </div>\n            </header>\n        </div>\n\
+        \        <div class=\"td-post-sharing-top\"><div id=\"td_uid_1_5fc82d5ae6e44\"\
+        \ class=\"td-post-sharing td-ps-bg td-ps-notext td-post-sharing-style1 \"\
+        ><div class=\"td-post-sharing-visible\"><a class=\"td-social-sharing-button\
+        \ td-social-sharing-button-js td-social-network td-social-facebook\" href=\"\
+        https://www.facebook.com/sharer.php?u=https%3A%2F%2Fgrowerspoint.com%2Famvac-releases-new-logos-for-recently-acquired-herbicides%2F\"\
+        >\r\n                                        <div class=\"td-social-but-icon\"\
+        ><i class=\"td-icon-facebook\"></i></div>\r\n                            \
+        \            <div class=\"td-social-but-text\">Facebook</div>\r\n        \
+        \                            </a><a class=\"td-social-sharing-button td-social-sharing-button-js\
+        \ td-social-network td-social-twitter\" href=\"https://twitter.com/intent/tweet?text=AMVAC+Releases+New+Logos+For+Recently+Acquired+Herbicides&url=https%3A%2F%2Fgrowerspoint.com%2Famvac-releases-new-logos-for-recently-acquired-herbicides%2F&via=Growerspoint.com\"\
+        >\r\n                                        <div class=\"td-social-but-icon\"\
+        ><i class=\"td-icon-twitter\"></i></div>\r\n                             \
+        \           <div class=\"td-social-but-text\">Twitter</div>\r\n          \
+        \                          </a><a class=\"td-social-sharing-button td-social-sharing-button-js\
+        \ td-social-network td-social-googleplus\" href=\"https://plus.google.com/share?url=https://growerspoint.com/amvac-releases-new-logos-for-recently-acquired-herbicides/\"\
+        >\r\n                                        <div class=\"td-social-but-icon\"\
+        ><i class=\"td-icon-googleplus\"></i></div>\r\n                          \
+        \              <div class=\"td-social-but-text\">Google+</div>\r\n       \
+        \                             </a><a class=\"td-social-sharing-button td-social-sharing-button-js\
+        \ td-social-network td-social-pinterest\" href=\"https://pinterest.com/pin/create/button/?url=https://growerspoint.com/amvac-releases-new-logos-for-recently-acquired-herbicides/&amp;media=https://growerspoint.com/wp-content/uploads/2018/09/AmvacChemCorpLogo2.jpg&description=AMVAC+Releases+New+Logos+For+Recently+Acquired+Herbicides\"\
+        >\r\n                                        <div class=\"td-social-but-icon\"\
+        ><i class=\"td-icon-pinterest\"></i></div>\r\n                           \
+        \             <div class=\"td-social-but-text\">Pinterest</div>\r\n      \
+        \                              </a><a class=\"td-social-sharing-button td-social-sharing-button-js\
+        \ td-social-network td-social-whatsapp\" href=\"whatsapp://send?text=AMVAC\
+        \ Releases New Logos For Recently Acquired Herbicides %0A%0A https://growerspoint.com/amvac-releases-new-logos-for-recently-acquired-herbicides/\"\
+        >\r\n                                        <div class=\"td-social-but-icon\"\
+        ><i class=\"td-icon-whatsapp\"></i></div>\r\n                            \
+        \            <div class=\"td-social-but-text\">WhatsApp</div>\r\n        \
+        \                            </a></div><div class=\"td-social-sharing-hidden\"\
+        ><ul class=\"td-pulldown-filter-list\"></ul><a class=\"td-social-sharing-button\
+        \ td-social-handler td-social-expand-tabs\" href=\"#\" data-block-uid=\"td_uid_1_5fc82d5ae6e44\"\
+        >\r\n                                    <div class=\"td-social-but-icon\"\
+        ><i class=\"td-icon-plus td-social-expand-tabs-icon\"></i></div>\r\n     \
+        \                           </a></div></div></div>        <div class=\"td-post-content\"\
+        >\n\n        <div class=\"td-post-featured-image\"><a href=\"https://growerspoint.com/wp-content/uploads/2018/09/AmvacChemCorpLogo2.jpg\"\
+        \ data-caption=\"\"><img width=\"251\" height=\"57\" class=\"entry-thumb td-modal-image\"\
+        \ src=\"https://growerspoint.com/wp-content/uploads/2018/09/AmvacChemCorpLogo2.jpg\"\
+        \ alt=\"\" title=\"AmvacChemCorpLogo2\"/></a></div>        <p><span class=\"\
+        am_story_content\">AgNewsWire reports: <br clear=\"all\" /><br clear=\"all\"\
+        \ /></span></p>\n<table border=\"1\" width=\"250\" cellspacing=\"0\" cellpadding=\"\
+        1\" align=\"right\" bgcolor=\"#FFFFFF\">\n<tbody>\n<tr>\n<th><img src=\"https://www.agrimarketing.com/newsroom/storyimages/17626073815e8bafd72a797.png\"\
+        \ width=\"250\" height=\"56\" border=\"0\" /></th>\n</tr>\n<tr>\n<td><span\
+        \ style=\"font-family: arial;\">Provides preemergence and postemergence control\
+        \ of key broadleaf weeds in soybeans. </span></td>\n</tr>\n</tbody>\n</table>\n\
+        <p><span class=\"am_story_content\">Newport Beach, CA &#8211; AMVAC, an American\
+        \ Vanguard company, has designed new product logos and web pages for its recently\
+        \ acquired herbicides: Classic Herbicide, FirstRate Herbicide, Hornet Herbicide\
+        \ and Python Herbicide. <br clear=\"all\" /><br clear=\"all\" /></span></p>\n\
+        <table border=\"1\" width=\"250\" cellspacing=\"0\" cellpadding=\"1\" align=\"\
+        right\" bgcolor=\"#FFFFFF\">\n<tbody>\n<tr>\n<th><img src=\"https://www.agrimarketing.com/newsroom/storyimages/3711454465e8bafd72adf2.png\"\
+        \ width=\"250\" height=\"66\" border=\"0\" /></th>\n</tr>\n<tr>\n<td><span\
+        \ style=\"font-family: arial;\">Expands postemergence weed control spectrum\
+        \ in soybeans. </span></td>\n</tr>\n</tbody>\n</table>\n<p><span class=\"\
+        am_story_content\">&#8220;We are excited to offer these herbicide brands from\
+        \ AMVAC, expanding our crop protection portfolio and offering growers additional\
+        \ trusted solutions,&#8221; said Nathaniel Quinn, marketing manager for corn,\
+        \ soybean and sugar beet. &#8220;These products have been a key component\
+        \ to growers&#8217; operations for many years, and we are pleased to offer\
+        \ these trusted solutions now with a refreshed brand image.&#8221; <br clear=\"\
+        all\" /><br clear=\"all\" /></span></p>\n<table border=\"1\" width=\"250\"\
+        \ cellspacing=\"0\" cellpadding=\"1\" align=\"right\" bgcolor=\"#FFFFFF\"\
+        >\n<tbody>\n<tr>\n<th><img src=\"https://www.agrimarketing.com/newsroom/storyimages/20904299515e8bafd72b16c.png\"\
+        \ width=\"250\" height=\"61\" border=\"0\" /></th>\n</tr>\n<tr>\n<td><span\
+        \ style=\"font-family: arial;\">Delivers postemergence broadleaf weed control\
+        \ of glyphosate-resistant weeds in field corn. </span></td>\n</tr>\n</tbody>\n\
+        </table>\n<p><span class=\"am_story_content\">The recently acquired products\
+        \ are complementary tank-mix partners for a variety of primary herbicides\
+        \ used in the U.S. agricultural market. They are particularly valuable for\
+        \ enhancing weed control performance against increasing numbers of troublesome\
+        \ weed species. <br clear=\"all\" /><br clear=\"all\" /></span></p>\n<table\
+        \ border=\"1\" width=\"250\" cellspacing=\"0\" cellpadding=\"1\" align=\"\
+        right\" bgcolor=\"#FFFFFF\">\n<tbody>\n<tr>\n<th><img src=\"https://www.agrimarketing.com/newsroom/storyimages/19666811355e8bafd72b4ca.png\"\
+        \ width=\"250\" height=\"65\" border=\"0\" /></th>\n</tr>\n<tr>\n<td><span\
+        \ style=\"font-family: arial;\">Allows flexible broadleaf weed control in\
+        \ soybeans and field corn. </span></td>\n</tr>\n</tbody>\n</table>\n<p><span\
+        \ class=\"am_story_content\">For more information on Classic Herbicide, FirstRate\
+        \ Herbicide, Hornet Herbicide and Python Herbicide or other AMVAC products,\
+        \ visit www.AMVAC.com.<br />\n</span></p>\n<p><a class=\"twitter-share-button\"\
+        \ href=\"http://twitter.com/share\" data-count=\"none\">Tweet</a></p>\n  \
+        \      </div>\n        <footer>\n                                    <div\
+        \ class=\"td-post-source-tags\">\n                                       \
+        \     </div>\n            <div class=\"td-post-sharing-bottom\"><div class=\"\
+        td-post-sharing-classic\"><iframe frameBorder=\"0\" src=\"https://www.facebook.com/plugins/like.php?href=https://growerspoint.com/amvac-releases-new-logos-for-recently-acquired-herbicides/&amp;layout=button_count&amp;show_faces=false&amp;width=105&amp;action=like&amp;colorscheme=light&amp;height=21\"\
+        \ style=\"border:none; overflow:hidden; width:105px; height:21px; background-color:transparent;\"\
+        ></iframe></div><div id=\"td_uid_3_5fc82d5ae86fb\" class=\"td-post-sharing\
+        \ td-ps-bg td-ps-notext td-post-sharing-style1 \"><div class=\"td-post-sharing-visible\"\
+        ><a class=\"td-social-sharing-button td-social-sharing-button-js td-social-network\
+        \ td-social-facebook\" href=\"https://www.facebook.com/sharer.php?u=https%3A%2F%2Fgrowerspoint.com%2Famvac-releases-new-logos-for-recently-acquired-herbicides%2F\"\
+        >\r\n                                        <div class=\"td-social-but-icon\"\
+        ><i class=\"td-icon-facebook\"></i></div>\r\n                            \
+        \            <div class=\"td-social-but-text\">Facebook</div>\r\n        \
+        \                            </a><a class=\"td-social-sharing-button td-social-sharing-button-js\
+        \ td-social-network td-social-twitter\" href=\"https://twitter.com/intent/tweet?text=AMVAC+Releases+New+Logos+For+Recently+Acquired+Herbicides&url=https%3A%2F%2Fgrowerspoint.com%2Famvac-releases-new-logos-for-recently-acquired-herbicides%2F&via=Growerspoint.com\"\
+        >\r\n                                        <div class=\"td-social-but-icon\"\
+        ><i class=\"td-icon-twitter\"></i></div>\r\n                             \
+        \           <div class=\"td-social-but-text\">Twitter</div>\r\n          \
+        \                          </a><a class=\"td-social-sharing-button td-social-sharing-button-js\
+        \ td-social-network td-social-googleplus\" href=\"https://plus.google.com/share?url=https://growerspoint.com/amvac-releases-new-logos-for-recently-acquired-herbicides/\"\
+        >\r\n                                        <div class=\"td-social-but-icon\"\
+        ><i class=\"td-icon-googleplus\"></i></div>\r\n                          \
+        \              <div class=\"td-social-but-text\">Google+</div>\r\n       \
+        \                             </a><a class=\"td-social-sharing-button td-social-sharing-button-js\
+        \ td-social-network td-social-pinterest\" href=\"https://pinterest.com/pin/create/button/?url=https://growerspoint.com/amvac-releases-new-logos-for-recently-acquired-herbicides/&amp;media=https://growerspoint.com/wp-content/uploads/2018/09/AmvacChemCorpLogo2.jpg&description=AMVAC+Releases+New+Logos+For+Recently+Acquired+Herbicides\"\
+        >\r\n                                        <div class=\"td-social-but-icon\"\
+        ><i class=\"td-icon-pinterest\"></i></div>\r\n                           \
+        \             <div class=\"td-social-but-text\">Pinterest</div>\r\n      \
+        \                              </a><a class=\"td-social-sharing-button td-social-sharing-button-js\
+        \ td-social-network td-social-whatsapp\" href=\"whatsapp://send?text=AMVAC\
+        \ Releases New Logos For Recently Acquired Herbicides %0A%0A https://growerspoint.com/amvac-releases-new-logos-for-recently-acquired-herbicides/\"\
+        >\r\n                                        <div class=\"td-social-but-icon\"\
+        ><i class=\"td-icon-whatsapp\"></i></div>\r\n                            \
+        \            <div class=\"td-social-but-text\">WhatsApp</div>\r\n        \
+        \                            </a></div><div class=\"td-social-sharing-hidden\"\
+        ><ul class=\"td-pulldown-filter-list\"></ul><a class=\"td-social-sharing-button\
+        \ td-social-handler td-social-expand-tabs\" href=\"#\" data-block-uid=\"td_uid_3_5fc82d5ae86fb\"\
+        >\r\n                                    <div class=\"td-social-but-icon\"\
+        ><i class=\"td-icon-plus td-social-expand-tabs-icon\"></i></div>\r\n     \
+        \                           </a></div></div></div>            <div class=\"\
+        td-block-row td-post-next-prev\"><div class=\"td-block-span6 td-post-prev-post\"\
+        ><div class=\"td-post-next-prev-content\"><span>Previous article</span><a\
+        \ href=\"https://growerspoint.com/farmers-national-co-farmland-values-b-c-a-c-and-beyond/\"\
+        >Farmers National Co: Farmland Values B.C., A.C. And Beyond</a></div></div><div\
+        \ class=\"td-next-prev-separator\"></div><div class=\"td-block-span6 td-post-next-post\"\
+        ><div class=\"td-post-next-prev-content\"><span>Next article</span><a href=\"\
+        https://growerspoint.com/ag-economic-insights-2020-fertilizer-prices-remain-low/\"\
+        >Ag Economic Insights: 2020 Fertilizer Prices Remain Low</a></div></div></div>\
+        \            <div class=\"author-box-wrap\"><a href=\"https://growerspoint.com/author/admin/\"\
+        ><img alt='' src='https://secure.gravatar.com/avatar/d5984d49f2e79f4e7fe87531e1fdd671?s=96&#038;d=mm&#038;r=g'\
+        \ srcset='https://secure.gravatar.com/avatar/d5984d49f2e79f4e7fe87531e1fdd671?s=192&#038;d=mm&#038;r=g\
+        \ 2x' class='avatar avatar-96 photo' height='96' width='96' /></a><div class=\"\
+        desc\"><div class=\"td-author-name vcard author\"><span class=\"fn\"><a href=\"\
+        https://growerspoint.com/author/admin/\">Jim Eadie</a></span></div><div class=\"\
+        td-author-description\"></div><div class=\"td-author-social\"></div><div class=\"\
+        clearfix\"></div></div></div>            <span class=\"td-page-meta\" itemprop=\"\
+        author\" itemscope itemtype=\"https://schema.org/Person\"><meta itemprop=\"\
+        name\" content=\"Jim Eadie\"></span><meta itemprop=\"datePublished\" content=\"\
+        2020-04-07T11:14:34+00:00\"><meta itemprop=\"dateModified\" content=\"2020-04-07T11:14:34+00:00\"\
+        ><meta itemscope itemprop=\"mainEntityOfPage\" itemType=\"https://schema.org/WebPage\"\
+        \ itemid=\"https://growerspoint.com/amvac-releases-new-logos-for-recently-acquired-herbicides/\"\
+        /><span class=\"td-page-meta\" itemprop=\"publisher\" itemscope itemtype=\"\
+        https://schema.org/Organization\"><span class=\"td-page-meta\" itemprop=\"\
+        logo\" itemscope itemtype=\"https://schema.org/ImageObject\"><meta itemprop=\"\
+        url\" content=\"https://growerspoint.com/wp-content/uploads/2018/04/logo-gp.png\"\
+        ></span><meta itemprop=\"name\" content=\"Growerspoint.com\"></span><meta\
+        \ itemprop=\"headline \" content=\"AMVAC Releases New Logos For Recently Acquired\
+        \ Herbicides\"><span class=\"td-page-meta\" itemprop=\"image\" itemscope itemtype=\"\
+        https://schema.org/ImageObject\"><meta itemprop=\"url\" content=\"https://growerspoint.com/wp-content/uploads/2018/09/AmvacChemCorpLogo2.jpg\"\
+        ><meta itemprop=\"width\" content=\"251\"><meta itemprop=\"height\" content=\"\
+        57\"></span>        </footer>\n    </article> <!-- /.post -->\n    <div class=\"\
+        td_block_wrap td_block_related_posts td_uid_4_5fc82d5ae91a8_rand td_with_ajax_pagination\
+        \ td-pb-border-top td_block_template_1\"  data-td-block-uid=\"td_uid_4_5fc82d5ae91a8\"\
+        \ ><script>var block_td_uid_4_5fc82d5ae91a8 = new tdBlock();\nblock_td_uid_4_5fc82d5ae91a8.id\
+        \ = \"td_uid_4_5fc82d5ae91a8\";\nblock_td_uid_4_5fc82d5ae91a8.atts = '{\"\
+        limit\":3,\"ajax_pagination\":\"next_prev\",\"live_filter\":\"cur_post_same_categories\"\
+        ,\"td_ajax_filter_type\":\"td_custom_related\",\"class\":\"td_uid_4_5fc82d5ae91a8_rand\"\
+        ,\"td_column_number\":3,\"live_filter_cur_post_id\":6992,\"live_filter_cur_post_author\"\
+        :\"1\",\"block_template_id\":\"\",\"header_color\":\"\",\"ajax_pagination_infinite_stop\"\
+        :\"\",\"offset\":\"\",\"td_ajax_preloading\":\"\",\"td_filter_default_txt\"\
+        :\"\",\"td_ajax_filter_ids\":\"\",\"el_class\":\"\",\"color_preset\":\"\"\
+        ,\"border_top\":\"\",\"css\":\"\",\"tdc_css\":\"\",\"tdc_css_class\":\"td_uid_4_5fc82d5ae91a8_rand\"\
+        ,\"tdc_css_class_style\":\"td_uid_4_5fc82d5ae91a8_rand_style\"}';\nblock_td_uid_4_5fc82d5ae91a8.td_column_number\
+        \ = \"3\";\nblock_td_uid_4_5fc82d5ae91a8.block_type = \"td_block_related_posts\"\
+        ;\nblock_td_uid_4_5fc82d5ae91a8.post_count = \"3\";\nblock_td_uid_4_5fc82d5ae91a8.found_posts\
+        \ = \"1354\";\nblock_td_uid_4_5fc82d5ae91a8.header_color = \"\";\nblock_td_uid_4_5fc82d5ae91a8.ajax_pagination_infinite_stop\
+        \ = \"\";\nblock_td_uid_4_5fc82d5ae91a8.max_num_pages = \"452\";\ntdBlocksArray.push(block_td_uid_4_5fc82d5ae91a8);\n\
+        </script><h4 class=\"td-related-title td-block-title\"><a id=\"td_uid_5_5fc82d5aee6ec\"\
+        \ class=\"td-related-left td-cur-simple-item\" data-td_filter_value=\"\" data-td_block_id=\"\
+        td_uid_4_5fc82d5ae91a8\" href=\"#\">RELATED ARTICLES</a><a id=\"td_uid_6_5fc82d5aee72c\"\
+        \ class=\"td-related-right\" data-td_filter_value=\"td_related_more_from_author\"\
+        \ data-td_block_id=\"td_uid_4_5fc82d5ae91a8\" href=\"#\">MORE FROM AUTHOR</a></h4><div\
+        \ id=td_uid_4_5fc82d5ae91a8 class=\"td_block_inner\">\n\n\t<div class=\"td-related-row\"\
+        >\n\n\t<div class=\"td-related-span4\">\n\r\n        <div class=\"td_module_related_posts\
+        \ td-animation-stack td_mod_related_posts\">\r\n            <div class=\"\
+        td-module-image\">\r\n                <div class=\"td-module-thumb\"><a href=\"\
+        https://growerspoint.com/usda-reports-72-of-corn-83-of-soybeans-have-been-harvested-other-crop-reports/\"\
+        \ rel=\"bookmark\" class=\"td-image-wrap\" title=\"USDA Reports 72% Of Corn,\
+        \ 83% Of Soybeans Have Been Harvested, Other Crop Reports\"><img width=\"\
+        218\" height=\"150\" class=\"entry-thumb\" src=\"https://growerspoint.com/wp-content/uploads/2018/03/usda-1-218x150.png\"\
+        \ srcset=\"https://growerspoint.com/wp-content/uploads/2018/03/usda-1-218x150.png\
+        \ 218w, https://growerspoint.com/wp-content/uploads/2018/03/usda-1-300x206.png\
+        \ 300w, https://growerspoint.com/wp-content/uploads/2018/03/usda-1-768x526.png\
+        \ 768w, https://growerspoint.com/wp-content/uploads/2018/03/usda-1-1024x701.png\
+        \ 1024w, https://growerspoint.com/wp-content/uploads/2018/03/usda-1-100x70.png\
+        \ 100w, https://growerspoint.com/wp-content/uploads/2018/03/usda-1-696x477.png\
+        \ 696w, https://growerspoint.com/wp-content/uploads/2018/03/usda-1-1068x732.png\
+        \ 1068w, https://growerspoint.com/wp-content/uploads/2018/03/usda-1-613x420.png\
+        \ 613w, https://growerspoint.com/wp-content/uploads/2018/03/usda-1-1920x1315.png\
+        \ 1920w, https://growerspoint.com/wp-content/uploads/2018/03/usda-1.png 2000w\"\
+        \ sizes=\"(max-width: 218px) 100vw, 218px\" alt=\"\" title=\"USDA Reports\
+        \ 72% Of Corn, 83% Of Soybeans Have Been Harvested, Other Crop Reports\"/></a></div>\
+        \                <a href=\"https://growerspoint.com/category/crops/corn/\"\
+        \ class=\"td-post-category\">Corn</a>            </div>\r\n            <div\
+        \ class=\"item-details\">\r\n                <h3 class=\"entry-title td-module-title\"\
+        ><a href=\"https://growerspoint.com/usda-reports-72-of-corn-83-of-soybeans-have-been-harvested-other-crop-reports/\"\
+        \ rel=\"bookmark\" title=\"USDA Reports 72% Of Corn, 83% Of Soybeans Have\
+        \ Been Harvested, Other Crop Reports\">USDA Reports 72% Of Corn, 83% Of Soybeans\
+        \ Have Been Harvested, Other Crop Reports</a></h3>            </div>\r\n \
+        \       </div>\r\n        \n\t</div> <!-- ./td-related-span4 -->\n\n\t<div\
+        \ class=\"td-related-span4\">\n\r\n        <div class=\"td_module_related_posts\
+        \ td-animation-stack td_mod_related_posts\">\r\n            <div class=\"\
+        td-module-image\">\r\n                <div class=\"td-module-thumb\"><a href=\"\
+        https://growerspoint.com/first-commercial-shipment-of-u-s-rice-unloads-in-china-from-adm-rice/\"\
+        \ rel=\"bookmark\" class=\"td-image-wrap\" title=\"First Commercial Shipment\
+        \ Of U.S. Rice Unloads In China, From ADM Rice\"><img width=\"218\" height=\"\
+        150\" class=\"entry-thumb\" src=\"https://growerspoint.com/wp-content/uploads/2020/10/ride-218x150.jpg\"\
+        \ srcset=\"https://growerspoint.com/wp-content/uploads/2020/10/ride-218x150.jpg\
+        \ 218w, https://growerspoint.com/wp-content/uploads/2020/10/ride-100x70.jpg\
+        \ 100w\" sizes=\"(max-width: 218px) 100vw, 218px\" alt=\"\" title=\"First\
+        \ Commercial Shipment Of U.S. Rice Unloads In China, From ADM Rice\"/></a></div>\
+        \                <a href=\"https://growerspoint.com/category/crops/\" class=\"\
+        td-post-category\">Crop News</a>            </div>\r\n            <div class=\"\
+        item-details\">\r\n                <h3 class=\"entry-title td-module-title\"\
+        ><a href=\"https://growerspoint.com/first-commercial-shipment-of-u-s-rice-unloads-in-china-from-adm-rice/\"\
+        \ rel=\"bookmark\" title=\"First Commercial Shipment Of U.S. Rice Unloads\
+        \ In China, From ADM Rice\">First Commercial Shipment Of U.S. Rice Unloads\
+        \ In China, From ADM Rice</a></h3>            </div>\r\n        </div>\r\n\
+        \        \n\t</div> <!-- ./td-related-span4 -->\n\n\t<div class=\"td-related-span4\"\
+        >\n\r\n        <div class=\"td_module_related_posts td-animation-stack td_mod_related_posts\"\
+        >\r\n            <div class=\"td-module-image\">\r\n                <div class=\"\
+        td-module-thumb\"><a href=\"https://growerspoint.com/amvac-and-syngenta-promote-tank-mixing-with-firstrate-herbicide/\"\
+        \ rel=\"bookmark\" class=\"td-image-wrap\" title=\"AMVAC And Syngenta Promote\
+        \ Tank Mixing With FirstRate Herbicide\"><img width=\"163\" height=\"53\"\
+        \ class=\"entry-thumb\" src=\"https://growerspoint.com/wp-content/uploads/2019/08/syngenta163.png\"\
+        \ alt=\"\" title=\"AMVAC And Syngenta Promote Tank Mixing With FirstRate Herbicide\"\
+        /></a></div>                <a href=\"https://growerspoint.com/category/crops/\"\
+        \ class=\"td-post-category\">Crop News</a>            </div>\r\n         \
+        \   <div class=\"item-details\">\r\n                <h3 class=\"entry-title\
+        \ td-module-title\"><a href=\"https://growerspoint.com/amvac-and-syngenta-promote-tank-mixing-with-firstrate-herbicide/\"\
+        \ rel=\"bookmark\" title=\"AMVAC And Syngenta Promote Tank Mixing With FirstRate\
+        \ Herbicide\">AMVAC And Syngenta Promote Tank Mixing With FirstRate Herbicide</a></h3>\
+        \            </div>\r\n        </div>\r\n        \n\t</div> <!-- ./td-related-span4\
+        \ --></div><!--./row-fluid--></div><div class=\"td-next-prev-wrap\"><a href=\"\
+        #\" class=\"td-ajax-prev-page ajax-page-disabled\" id=\"prev-page-td_uid_4_5fc82d5ae91a8\"\
+        \ data-td_block_id=\"td_uid_4_5fc82d5ae91a8\"><i class=\"td-icon-font td-icon-menu-left\"\
+        ></i></a><a href=\"#\"  class=\"td-ajax-next-page\" id=\"next-page-td_uid_4_5fc82d5ae91a8\"\
+        \ data-td_block_id=\"td_uid_4_5fc82d5ae91a8\"><i class=\"td-icon-font td-icon-menu-right\"\
+        ></i></a></div></div> <!-- ./block -->\t<div class=\"comments\" id=\"comments\"\
+        >\r\n        \t<div id=\"respond\" class=\"comment-respond\">\n\t\t<h3 id=\"\
+        reply-title\" class=\"comment-reply-title\">LEAVE A REPLY <small><a rel=\"\
+        nofollow\" id=\"cancel-comment-reply-link\" href=\"/amvac-releases-new-logos-for-recently-acquired-herbicides/#respond\"\
+        \ style=\"display:none;\">Cancel reply</a></small></h3><form action=\"https://growerspoint.com/wp-comments-post.php\"\
+        \ method=\"post\" id=\"commentform\" class=\"comment-form\" novalidate><div\
+        \ class=\"clearfix\"></div>\r\n\t\t\t\t<div class=\"comment-form-input-wrap\
+        \ td-form-comment\">\r\n\t\t\t\t\t<textarea placeholder=\"Comment:\" id=\"\
+        comment\" name=\"comment\" cols=\"45\" rows=\"8\" aria-required=\"true\"></textarea>\r\
+        \n\t\t\t\t\t<div class=\"td-warning-comment\">Please enter your comment!</div>\r\
+        \n\t\t\t\t</div>\r\n\t\t        <div class=\"comment-form-input-wrap td-form-author\"\
+        >\r\n\t\t\t            <input class=\"\" id=\"author\" name=\"author\" placeholder=\"\
+        Name:*\" type=\"text\" value=\"\" size=\"30\"  aria-required='true' />\r\n\
+        \t\t\t            <div class=\"td-warning-author\">Please enter your name\
+        \ here</div>\r\n\t\t\t         </div>\n<div class=\"comment-form-input-wrap\
+        \ td-form-email\">\r\n\t\t\t            <input class=\"\" id=\"email\" name=\"\
+        email\" placeholder=\"Email:*\" type=\"text\" value=\"\" size=\"30\"  aria-required='true'\
+        \ />\r\n\t\t\t            <div class=\"td-warning-email-error\">You have entered\
+        \ an incorrect email address!</div>\r\n\t\t\t            <div class=\"td-warning-email\"\
+        >Please enter your email address here</div>\r\n\t\t\t         </div>\n<div\
+        \ class=\"comment-form-input-wrap td-form-url\">\r\n\t\t\t            <input\
+        \ class=\"\" id=\"url\" name=\"url\" placeholder=\"Website:\" type=\"text\"\
+        \ value=\"\" size=\"30\" />\r\n                     </div>\n<p class=\"form-submit\"\
+        ><input name=\"submit\" type=\"submit\" id=\"submit\" class=\"submit\" value=\"\
+        Post Comment\" /> <input type='hidden' name='comment_post_ID' value='6992'\
+        \ id='comment_post_ID' />\n<input type='hidden' name='comment_parent' id='comment_parent'\
+        \ value='0' />\n</p><div class=\"inv-recaptcha-holder\"></div></form>\t</div><!--\
+        \ #respond -->\n\t    </div> <!-- /.content -->\r\n                      \
+        \      </div>\n                        </div>\n                        <div\
+        \ class=\"td-pb-span4 td-main-sidebar\" role=\"complementary\">\n        \
+        \                    <div class=\"td-ss-main-sidebar\">\n                \
+        \                <aside class=\"td_block_template_1 widget phpeverywherewidget\"\
+        ><h4 class=\"block-title\"><span>Crop Protection Sponsors Canada: </span></h4><a\
+        \ href=\"https://www.pigcareers.com\" target=\"_blank\"><img src=\"https://growerspoint.com/wp-content/uploads/2018/04/300_250-Swineweb_PigCareer-Web-Banner_Final-1.gif\"\
+        \ /></a><br><br></aside><aside class=\"td_block_template_1 widget widget_cnss_widget\"\
+        ><h4 class=\"block-title\"><span>Follow Us</span></h4><ul id=\"\" class=\"\
+        cnss-social-icon \" style=\"text-align:left;\"><li class=\"cn-fa-facebook\
+        \ cn-fa-icon \" style=\"display:inline-block;\"><a class=\"cnss-facebook\"\
+        \ target=\"_blank\" href=\"https://www.facebook.com/Growerspointcom-1799331240137222/\"\
+        \ title=\"Facebook\" style=\"width:48px;height:48px;padding:8px 0;margin:2px;color:\
+        \ #ffffff;border-radius: 0%;\"><i title=\"Facebook\" style=\"font-size:32px;\"\
+        \ class=\"fa fa-facebook\"></i></a></li><li class=\"cn-fa-twitter cn-fa-icon\
+        \ \" style=\"display:inline-block;\"><a class=\"cnss-twitter\" target=\"_blank\"\
+        \ href=\"https://twitter.com/Growerspoint\" title=\"Twitter\" style=\"width:48px;height:48px;padding:8px\
+        \ 0;margin:2px;color: #ffffff;border-radius: 0%;\"><i title=\"Twitter\" style=\"\
+        font-size:32px;\" class=\"fa fa-twitter\"></i></a></li></ul></aside><aside\
+        \ class=\"td_block_template_1 widget phpeverywherewidget\"><h4 class=\"block-title\"\
+        ><span>Wheat Sponsors Canada: </span></h4><a href=\"https://www.pigcareers.com\"\
+        \ target=\"_blank\"><img src=\"https://growerspoint.com/wp-content/uploads/2018/04/300_250-Swineweb_PigCareer-Web-Banner_Final-1.gif\"\
+        \ /></a><br><br></aside><aside class=\"td_block_template_1 widget widget_cnss_widget\"\
+        ><h4 class=\"block-title\"><span>Follow Us</span></h4><ul id=\"\" class=\"\
+        cnss-social-icon \" style=\"text-align:left;\"><li class=\"cn-fa-facebook\
+        \ cn-fa-icon \" style=\"display:inline-block;\"><a class=\"cnss-facebook\"\
+        \ target=\"_blank\" href=\"https://www.facebook.com/Growerspointcom-1799331240137222/\"\
+        \ title=\"Facebook\" style=\"width:48px;height:48px;padding:8px 0;margin:2px;color:\
+        \ #ffffff;border-radius: 0%;\"><i title=\"Facebook\" style=\"font-size:32px;\"\
+        \ class=\"fa fa-facebook\"></i></a></li><li class=\"cn-fa-twitter cn-fa-icon\
+        \ \" style=\"display:inline-block;\"><a class=\"cnss-twitter\" target=\"_blank\"\
+        \ href=\"https://twitter.com/Growerspoint\" title=\"Twitter\" style=\"width:48px;height:48px;padding:8px\
+        \ 0;margin:2px;color: #ffffff;border-radius: 0%;\"><i title=\"Twitter\" style=\"\
+        font-size:32px;\" class=\"fa fa-twitter\"></i></a></li></ul></aside><aside\
+        \ class=\"td_block_template_1 widget phpeverywherewidget\"><h4 class=\"block-title\"\
+        ><span>Soybean Sponsors Canada: </span></h4><a href=\"https://horizonseeds.ca/\"\
+        \ target=\"_blank\"><img src=\"https://growerspoint.com/wp-content/uploads/2020/01/Trusted-Partner-Ad.300x250web.jpg\r\
+        \n\" /></a><br><br>\r\n\r\n<a href=\"https://www.pigcareers.com\" target=\"\
+        _blank\"><img src=\"https://growerspoint.com/wp-content/uploads/2018/04/300_250-Swineweb_PigCareer-Web-Banner_Final-1.gif\"\
+        \ /></a><br><br></aside><aside class=\"td_block_template_1 widget widget_cnss_widget\"\
+        ><h4 class=\"block-title\"><span>Follow Us</span></h4><ul id=\"\" class=\"\
+        cnss-social-icon \" style=\"text-align:left;\"><li class=\"cn-fa-facebook\
+        \ cn-fa-icon \" style=\"display:inline-block;\"><a class=\"cnss-facebook\"\
+        \ target=\"_blank\" href=\"https://www.facebook.com/Growerspointcom-1799331240137222/\"\
+        \ title=\"Facebook\" style=\"width:48px;height:48px;padding:8px 0;margin:2px;color:\
+        \ #ffffff;border-radius: 0%;\"><i title=\"Facebook\" style=\"font-size:32px;\"\
+        \ class=\"fa fa-facebook\"></i></a></li><li class=\"cn-fa-twitter cn-fa-icon\
+        \ \" style=\"display:inline-block;\"><a class=\"cnss-twitter\" target=\"_blank\"\
+        \ href=\"https://twitter.com/Growerspoint\" title=\"Twitter\" style=\"width:48px;height:48px;padding:8px\
+        \ 0;margin:2px;color: #ffffff;border-radius: 0%;\"><i title=\"Twitter\" style=\"\
+        font-size:32px;\" class=\"fa fa-twitter\"></i></a></li></ul></aside><aside\
+        \ class=\"td_block_template_1 widget phpeverywherewidget\"><h4 class=\"block-title\"\
+        ><span>Crop Sponsors Canada: </span></h4><a href=\"https://horizonseeds.ca/\"\
+        \ target=\"_blank\"><img src=\"https://growerspoint.com/wp-content/uploads/2020/10/Horizonseeds300X250Oct2020.jpg\"\
+        \ /></a><br><br>\r\n\r\n<a href=\"https://www.pigcareers.com\" target=\"_blank\"\
+        ><img src=\"https://growerspoint.com/wp-content/uploads/2018/04/300_250-Swineweb_PigCareer-Web-Banner_Final-1.gif\"\
+        \ /></a><br><br></aside><aside class=\"td_block_template_1 widget widget_cnss_widget\"\
+        ><h4 class=\"block-title\"><span>Follow Us</span></h4><ul id=\"\" class=\"\
+        cnss-social-icon \" style=\"text-align:left;\"><li class=\"cn-fa-facebook\
+        \ cn-fa-icon \" style=\"display:inline-block;\"><a class=\"cnss-facebook\"\
+        \ target=\"_blank\" href=\"https://www.facebook.com/Growerspointcom-1799331240137222/\"\
+        \ title=\"Facebook\" style=\"width:48px;height:48px;padding:8px 0;margin:2px;color:\
+        \ #ffffff;border-radius: 0%;\"><i title=\"Facebook\" style=\"font-size:32px;\"\
+        \ class=\"fa fa-facebook\"></i></a></li><li class=\"cn-fa-twitter cn-fa-icon\
+        \ \" style=\"display:inline-block;\"><a class=\"cnss-twitter\" target=\"_blank\"\
+        \ href=\"https://twitter.com/Growerspoint\" title=\"Twitter\" style=\"width:48px;height:48px;padding:8px\
+        \ 0;margin:2px;color: #ffffff;border-radius: 0%;\"><i title=\"Twitter\" style=\"\
+        font-size:32px;\" class=\"fa fa-twitter\"></i></a></li></ul></aside>     \
+        \                       </div>\n                        </div>\n         \
+        \                   </div> <!-- /.td-pb-row -->\n    </div> <!-- /.td-container\
+        \ -->\n</div> <!-- /.td-main-content-wrap -->\n\n<!-- Instagram -->\r\n\r\n\
+        \r\n\r\n\r\n\t<!-- Footer -->\r\n\t\r\n\t<!-- Sub Footer -->\r\n\t    <div\
+        \ class=\"td-sub-footer-container td-container-wrap \">\r\n        <div class=\"\
+        td-container\">\r\n            <div class=\"td-pb-row\">\r\n             \
+        \   <div class=\"td-pb-span td-sub-footer-menu\">\r\n                    \
+        \                </div>\r\n\r\n                <div class=\"td-pb-span td-sub-footer-copy\"\
+        >\r\n                    Copyright \xA9 2020 GrowersPoint.com . All rights\
+        \ reserved.                </div>\r\n            </div>\r\n        </div>\r\
+        \n    </div>\r\n\r\n\r\n</div><!--close td-outer-wrap-->\r\n\r\n<div id=\"\
+        glt-translate-trigger\"><span class=\"translate\">Translate Web in Your Language\
+        \ \xBB</span></div><div id=\"glt-toolbar\"></div><div id=\"flags\" style=\"\
+        display:none\" class=\"size18\"><ul id=\"sortable\" class=\"ui-sortable\"\
+        ><li id=\"Chinese (Traditional)\"><a href=\"#\" title=\"Chinese (Traditional)\"\
+        \ class=\"nturl notranslate zh-TW flag Chinese (Traditional)\"></a></li><li\
+        \ id=\"Danish\"><a href=\"#\" title=\"Danish\" class=\"nturl notranslate da\
+        \ flag Danish\"></a></li><li id=\"Dutch\"><a href=\"#\" title=\"Dutch\" class=\"\
+        nturl notranslate nl flag Dutch\"></a></li><li id=\"English\"><a href=\"#\"\
+        \ title=\"English\" class=\"nturl notranslate en flag united-states\"></a></li><li\
+        \ id=\"French\"><a href=\"#\" title=\"French\" class=\"nturl notranslate fr\
+        \ flag French\"></a></li><li id=\"Hebrew\"><a href=\"#\" title=\"Hebrew\"\
+        \ class=\"nturl notranslate iw flag Hebrew\"></a></li><li id=\"Portuguese\"\
+        ><a href=\"#\" title=\"Portuguese\" class=\"nturl notranslate pt flag Portuguese\"\
+        ></a></li><li id=\"Russian\"><a href=\"#\" title=\"Russian\" class=\"nturl\
+        \ notranslate ru flag Russian\"></a></li></ul></div><div id='glt-footer'><div\
+        \ id=\"google_language_translator\" class=\"default-language-en\"></div></div><script>function\
+        \ GoogleLanguageTranslatorInit() { new google.translate.TranslateElement({pageLanguage:\
+        \ 'en', includedLanguages:'zh-TW,da,nl,en,fr,iw,pt,ru', autoDisplay: false},\
+        \ 'google_language_translator');}</script>\t\t<script>\n\t\t( function ( body\
+        \ ) {\n\t\t\t'use strict';\n\t\t\tbody.className = body.className.replace(\
+        \ /\\btribe-no-js\\b/, 'tribe-js' );\n\t\t} )( document.body );\n\t\t</script>\n\
+        \t\t\r\n\r\n    <!--\r\n\r\n        Theme: Newspaper by tagDiv.com 2017\r\n\
+        \        Version: 8.7.2 (rara)\r\n        Deploy mode: deploy\r\n        \r\
+        \n        uid: 5fc82d5b19064\r\n    -->\r\n\r\n    <script> /* <![CDATA[ */var\
+        \ tribe_l10n_datatables = {\"aria\":{\"sort_ascending\":\": activate to sort\
+        \ column ascending\",\"sort_descending\":\": activate to sort column descending\"\
+        },\"length_menu\":\"Show _MENU_ entries\",\"empty_table\":\"No data available\
+        \ in table\",\"info\":\"Showing _START_ to _END_ of _TOTAL_ entries\",\"info_empty\"\
+        :\"Showing 0 to 0 of 0 entries\",\"info_filtered\":\"(filtered from _MAX_\
+        \ total entries)\",\"zero_records\":\"No matching records found\",\"search\"\
+        :\"Search:\",\"all_selected_text\":\"All items on this page were selected.\
+        \ \",\"select_all_link\":\"Select all pages\",\"clear_selection\":\"Clear\
+        \ Selection.\",\"pagination\":{\"all\":\"All\",\"next\":\"Next\",\"previous\"\
+        :\"Previous\"},\"select\":{\"rows\":{\"0\":\"\",\"_\":\": Selected %d rows\"\
+        ,\"1\":\": Selected 1 row\"}},\"datepicker\":{\"dayNames\":[\"Sunday\",\"\
+        Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\"],\"\
+        dayNamesShort\":[\"Sun\",\"Mon\",\"Tue\",\"Wed\",\"Thu\",\"Fri\",\"Sat\"],\"\
+        dayNamesMin\":[\"S\",\"M\",\"T\",\"W\",\"T\",\"F\",\"S\"],\"monthNames\":[\"\
+        January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\"\
+        ,\"September\",\"October\",\"November\",\"December\"],\"monthNamesShort\"\
+        :[\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"\
+        August\",\"September\",\"October\",\"November\",\"December\"],\"monthNamesMin\"\
+        :[\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\",\"Jul\",\"Aug\",\"Sep\"\
+        ,\"Oct\",\"Nov\",\"Dec\"],\"nextText\":\"Next\",\"prevText\":\"Prev\",\"currentText\"\
+        :\"Today\",\"closeText\":\"Done\",\"today\":\"Today\",\"clear\":\"Clear\"\
+        }};/* ]]> */ </script><script type='text/javascript' src='https://growerspoint.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>\n\
+        <script type='text/javascript' src='https://growerspoint.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>\n\
+        <script type='text/javascript' src='https://growerspoint.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>\n\
+        <script type='text/javascript' src='https://growerspoint.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>\n\
+        <script type='text/javascript'>\n/* <![CDATA[ */\nvar wpcf7 = {\"apiSettings\"\
+        :{\"root\":\"https:\\/\\/growerspoint.com\\/wp-json\\/contact-form-7\\/v1\"\
+        ,\"namespace\":\"contact-form-7\\/v1\"}};\n/* ]]> */\n</script>\n<script type='text/javascript'\
+        \ src='https://growerspoint.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3'></script>\n\
+        <script type='text/javascript' src='https://growerspoint.com/wp-content/plugins/google-language-translator/js/scripts.js?ver=6.0.7'></script>\n\
+        <script type='text/javascript' src='//translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit'></script>\n\
+        <script type='text/javascript'>\nvar renderInvisibleReCaptcha = function()\
+        \ {\n\n    for (var i = 0; i < document.forms.length; ++i) {\n        var\
+        \ form = document.forms[i];\n        var holder = form.querySelector('.inv-recaptcha-holder');\n\
+        \n        if (null === holder) continue;\n\t\tholder.innerHTML = '';\n\n \
+        \        (function(frm){\n\t\t\tvar cf7SubmitElm = frm.querySelector('.wpcf7-submit');\n\
+        \            var holderId = grecaptcha.render(holder,{\n                'sitekey':\
+        \ '6LeBP24UAAAAADdEqt6GkHLwR07UAxH3NmzmC-Lw', 'size': 'invisible', 'badge'\
+        \ : 'bottomright',\n                'callback' : function (recaptchaToken)\
+        \ {\n\t\t\t\t\tif((null !== cf7SubmitElm) && (typeof jQuery != 'undefined')){jQuery(frm).submit();grecaptcha.reset(holderId);return;}\n\
+        \t\t\t\t\t HTMLFormElement.prototype.submit.call(frm);\n                },\n\
+        \                'expired-callback' : function(){grecaptcha.reset(holderId);}\n\
+        \            });\n\n\t\t\tif(null !== cf7SubmitElm && (typeof jQuery != 'undefined')\
+        \ ){\n\t\t\t\tjQuery(cf7SubmitElm).off('click').on('click', function(clickEvt){\n\
+        \t\t\t\t\tclickEvt.preventDefault();\n\t\t\t\t\tgrecaptcha.execute(holderId);\n\
+        \t\t\t\t});\n\t\t\t}\n\t\t\telse\n\t\t\t{\n\t\t\t\tfrm.onsubmit = function\
+        \ (evt){evt.preventDefault();grecaptcha.execute(holderId);};\n\t\t\t}\n\n\n\
+        \        })(form);\n    }\n};\n</script>\n<script type='text/javascript' async\
+        \ defer src='https://www.google.com/recaptcha/api.js?onload=renderInvisibleReCaptcha&#038;render=explicit'></script>\n\
+        <script type='text/javascript' src='https://growerspoint.com/wp-content/themes/Newspaper/js/tagdiv_theme.min.js?ver=8.7.2'></script>\n\
+        <script type='text/javascript' src='https://growerspoint.com/wp-includes/js/comment-reply.min.js?ver=5.4'></script>\n\
+        <script type='text/javascript' src='https://growerspoint.com/wp-includes/js/wp-embed.min.js?ver=5.4'></script>\n\
+        \n<!-- JS generated by theme -->\n\n<script>\n    \n\n\t\r\n\r\n\t\t(function(){\r\
+        \n\t\t\tvar html_jquery_obj = jQuery('html');\r\n\r\n\t\t\tif (html_jquery_obj.length\
+        \ && (html_jquery_obj.is('.ie8') || html_jquery_obj.is('.ie9'))) {\r\n\r\n\
+        \t\t\t\tvar path = 'https://growerspoint.com/wp-content/themes/Newspaper-child/style.css';\r\
+        \n\r\n\t\t\t\tjQuery.get(path, function(data) {\r\n\r\n\t\t\t\t\tvar str_split_separator\
+        \ = '#td_css_split_separator';\r\n\t\t\t\t\tvar arr_splits = data.split(str_split_separator);\r\
+        \n\t\t\t\t\tvar arr_length = arr_splits.length;\r\n\r\n\t\t\t\t\tif (arr_length\
+        \ > 1) {\r\n\r\n\t\t\t\t\t\tvar dir_path = 'https://growerspoint.com/wp-content/themes/Newspaper';\r\
+        \n\t\t\t\t\t\tvar splited_css = '';\r\n\r\n\t\t\t\t\t\tfor (var i = 0; i <\
+        \ arr_length; i++) {\r\n\t\t\t\t\t\t\tif (i > 0) {\r\n\t\t\t\t\t\t\t\tarr_splits[i]\
+        \ = str_split_separator + ' ' + arr_splits[i];\r\n\t\t\t\t\t\t\t}\r\n\t\t\t\
+        \t\t\t\t//jQuery('head').append('<style>' + arr_splits[i] + '</style>');\r\
+        \n\r\n\t\t\t\t\t\t\tvar formated_str = arr_splits[i].replace(/\\surl\\(\\\
+        '(?!data\\:)/gi, function regex_function(str) {\r\n\t\t\t\t\t\t\t\treturn\
+        \ ' url(\\'' + dir_path + '/' + str.replace(/url\\(\\'/gi, '').replace(/^\\\
+        s+|\\s+$/gm,'');\r\n\t\t\t\t\t\t\t});\r\n\r\n\t\t\t\t\t\t\tsplited_css +=\
+        \ \"<style>\" + formated_str + \"</style>\";\r\n\t\t\t\t\t\t}\r\n\r\n\t\t\t\
+        \t\t\tvar td_theme_css = jQuery('link#td-theme-css');\r\n\r\n\t\t\t\t\t\t\
+        if (td_theme_css.length) {\r\n\t\t\t\t\t\t\ttd_theme_css.after(splited_css);\r\
+        \n\t\t\t\t\t\t}\r\n\t\t\t\t\t}\r\n\t\t\t\t});\r\n\t\t\t}\r\n\t\t})();\r\n\r\
+        \n\t\r\n\t\n</script>\n\n\r\n\r\n\t\t\t<div id=\"tdw-css-writer\" style=\"\
+        display: none\" class=\"tdw-drag-dialog tdc-window-sidebar\">\r\n\t\t\t\t\
+        <header>\r\n\r\n\t\t\t\t\r\n\t\t\t\t\t<a title=\"Editor\" class=\"tdw-tab\
+        \ tdc-tab-active\" href=\"#\" data-tab-content=\"tdw-tab-editor\">Edit with\
+        \ Live CSS</a>\r\n\t\t\t\t\t<div class=\"tdw-less-info\" title=\"This will\
+        \ be red when errors are detected in your CSS and LESS\"></div>\r\n\t\t\t\t\
+        \r\n\t\t\t\t</header>\r\n\t\t\t\t<div class=\"tdw-content\">\r\n\r\n\t\t\t\
+        \t\t\r\n\t\t\t\t\t<div class=\"tdw-tabs-content tdw-tab-editor tdc-tab-content-active\"\
+        >\r\n\r\n\r\n\t\t\t\t\t\t<script>\r\n\r\n\t\t\t\t\t\t\t(function(jQuery, undefined)\
+        \ {\r\n\r\n\t\t\t\t\t\t\t\tjQuery(window).ready(function() {\r\n\r\n\t\t\t\
+        \t\t\t\t\t\tif ( 'undefined' !== typeof tdcAdminIFrameUI ) {\r\n\t\t\t\t\t\
+        \t\t\t\t\tvar $liveIframe  = tdcAdminIFrameUI.getLiveIframe();\r\n\r\n\t\t\
+        \t\t\t\t\t\t\t\tif ( $liveIframe.length ) {\r\n\t\t\t\t\t\t\t\t\t\t\t$liveIframe.load(function()\
+        \ {\r\n\t\t\t\t\t\t\t\t\t\t\t\t$liveIframe.contents().find( 'body').append(\
+        \ '<textarea class=\"tdw-css-writer-editor\" style=\"display: none\"></textarea>'\
+        \ );\r\n\t\t\t\t\t\t\t\t\t\t\t});\r\n\t\t\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t\
+        \t\t\t}\r\n\r\n\t\t\t\t\t\t\t\t});\r\n\r\n\t\t\t\t\t\t\t})(jQuery);\r\n\r\n\
+        \t\t\t\t\t\t</script>\r\n\r\n\r\n\t\t\t\t\t\t<textarea class=\"tdw-css-writer-editor\
+        \ td_live_css_uid_1_5fc82d5b193c0\"></textarea>\r\n\t\t\t\t\t\t<div id=\"\
+        td_live_css_uid_1_5fc82d5b193c0\" class=\"td-code-editor\"></div>\r\n\r\n\r\
+        \n\t\t\t\t\t\t<script>\r\n\t\t\t\t\t\t\tjQuery(window).load(function (){\r\
+        \n\r\n\t\t\t\t\t\t\t\tif ( 'undefined' !== typeof tdLiveCssInject ) {\r\n\r\
+        \n\t\t\t\t\t\t\t\t\ttdLiveCssInject.init();\r\n\r\n\r\n\t\t\t\t\t\t\t\t\t\
+        var editor_textarea = jQuery('.td_live_css_uid_1_5fc82d5b193c0');\r\n\t\t\t\
+        \t\t\t\t\t\tvar languageTools = ace.require(\"ace/ext/language_tools\");\r\
+        \n\t\t\t\t\t\t\t\t\tvar tdcCompleter = {\r\n\t\t\t\t\t\t\t\t\t\tgetCompletions:\
+        \ function (editor, session, pos, prefix, callback) {\r\n\t\t\t\t\t\t\t\t\t\
+        \t\tif (prefix.length === 0) {\r\n\t\t\t\t\t\t\t\t\t\t\t\tcallback(null, []);\r\
+        \n\t\t\t\t\t\t\t\t\t\t\t\treturn\r\n\t\t\t\t\t\t\t\t\t\t\t}\r\n\r\n\t\t\t\t\
+        \t\t\t\t\t\t\tif ('undefined' !== typeof tdcAdminIFrameUI) {\r\n\r\n\t\t\t\
+        \t\t\t\t\t\t\t\t\tvar data = {\r\n\t\t\t\t\t\t\t\t\t\t\t\t\terror: undefined,\r\
+        \n\t\t\t\t\t\t\t\t\t\t\t\t\tgetShortcode: ''\r\n\t\t\t\t\t\t\t\t\t\t\t\t};\r\
+        \n\r\n\t\t\t\t\t\t\t\t\t\t\t\ttdcIFrameData.getShortcodeFromData(data);\r\n\
+        \r\n\t\t\t\t\t\t\t\t\t\t\t\tif (!_.isUndefined(data.error)) {\r\n\t\t\t\t\t\
+        \t\t\t\t\t\t\t\ttdcDebug.log(data.error);\r\n\t\t\t\t\t\t\t\t\t\t\t\t}\r\n\
+        \r\n\t\t\t\t\t\t\t\t\t\t\t\tif (!_.isUndefined(data.getShortcode)) {\r\n\r\
+        \n\t\t\t\t\t\t\t\t\t\t\t\t\tvar regex = /el_class=\\\"([A-Za-z0-9_-]*\\s*)+\\\
+        \"/g,\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tresults = data.getShortcode.match(regex);\r\
+        \n\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tvar elClasses = {};\r\n\r\n\t\t\t\t\t\t\t\t\
+        \t\t\t\t\tfor (var i = 0; i < results.length; i++) {\r\n\t\t\t\t\t\t\t\t\t\
+        \t\t\t\t\tvar currentClasses = results[i]\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\
+        .replace('el_class=\"', '')\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t.replace('\"\
+        ', '')\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t.split(' ');\r\n\r\n\t\t\t\t\t\t\t\
+        \t\t\t\t\t\t\tfor (var j = 0; j < currentClasses.length; j++) {\r\n\t\t\t\t\
+        \t\t\t\t\t\t\t\t\t\t\tif (_.isUndefined(elClasses[currentClasses[j]])) {\r\
+        \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\telClasses[currentClasses[j]] = '';\r\n\t\
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\
+        \t\t\t\t\t\t\t\t\t}\r\n\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tvar arrElClasses = [];\r\
+        \n\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tfor (var prop in elClasses) {\r\n\t\t\t\t\t\
+        \t\t\t\t\t\t\t\t\tarrElClasses.push(prop);\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t}\r\
+        \n\r\n\t\t\t\t\t\t\t\t\t\t\t\t\tcallback(null, arrElClasses.map(function (item)\
+        \ {\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\treturn {\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\
+        \tname: item,\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tvalue: item,\r\n\t\t\t\t\t\t\
+        \t\t\t\t\t\t\t\t\tmeta: 'in_page'\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t}\r\n\t\t\
+        \t\t\t\t\t\t\t\t\t\t\t}));\r\n\t\t\t\t\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t\t\t\
+        \t\t\t}\r\n\t\t\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t\t\t\t};\r\n\t\t\t\t\t\t\t\
+        \t\tlanguageTools.addCompleter(tdcCompleter);\r\n\r\n\t\t\t\t\t\t\t\t\twindow.editor\
+        \ = ace.edit(\"td_live_css_uid_1_5fc82d5b193c0\");\r\n\r\n\t\t\t\t\t\t\t\t\
+        \t// 'change' handler is written as function because it's called by tdc_on_add_css_live_components\
+        \ (of wp_footer hook)\r\n\t\t\t\t\t\t\t\t\t// We did it to reattach the existing\
+        \ compiled css to the new content received from server.\r\n\t\t\t\t\t\t\t\t\
+        \twindow.editorChangeHandler = function () {\r\n\t\t\t\t\t\t\t\t\t\t//tdwState.lessWasEdited\
+        \ = true;\r\n\r\n\t\t\t\t\t\t\t\t\t\twindow.onbeforeunload = function () {\r\
+        \n\t\t\t\t\t\t\t\t\t\t\tif (tdwState.lessWasEdited) {\r\n\t\t\t\t\t\t\t\t\t\
+        \t\t\treturn \"You have attempted to leave this page. Are you sure?\";\r\n\
+        \t\t\t\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t\t\t\t\t\treturn false;\r\n\t\t\t\t\
+        \t\t\t\t\t\t};\r\n\r\n\t\t\t\t\t\t\t\t\t\tvar editorValue = editor.getSession().getValue();\r\
+        \n\r\n\t\t\t\t\t\t\t\t\t\teditor_textarea.val(editorValue);\r\n\r\n\t\t\t\t\
+        \t\t\t\t\t\tif ('undefined' !== typeof tdcAdminIFrameUI) {\r\n\t\t\t\t\t\t\
+        \t\t\t\t\ttdcAdminIFrameUI.getLiveIframe().contents().find('.tdw-css-writer-editor:first').val(editorValue);\r\
+        \n\r\n\t\t\t\t\t\t\t\t\t\t\t// Mark the content as modified\r\n\t\t\t\t\t\t\
+        \t\t\t\t\t// This is important for showing info when composer closes\r\n \
+        \                                           tdcMain.setContentModified();\r\
+        \n\t\t\t\t\t\t\t\t\t\t}\r\n\r\n\t\t\t\t\t\t\t\t\t\ttdLiveCssInject.less();\r\
+        \n\t\t\t\t\t\t\t\t\t};\r\n\r\n\t\t\t\t\t\t\t\t\teditor.getSession().setValue(editor_textarea.val());\r\
+        \n\t\t\t\t\t\t\t\t\teditor.getSession().on('change', editorChangeHandler);\r\
+        \n\r\n\t\t\t\t\t\t\t\t\teditor.setTheme(\"ace/theme/textmate\");\r\n\t\t\t\
+        \t\t\t\t\t\teditor.setShowPrintMargin(false);\r\n\t\t\t\t\t\t\t\t\teditor.getSession().setMode(\"\
+        ace/mode/less\");\r\n\t\t\t\t\t\t\t\t\teditor.setOptions({\r\n\t\t\t\t\t\t\
+        \t\t\t\tenableBasicAutocompletion: true,\r\n\t\t\t\t\t\t\t\t\t\tenableSnippets:\
+        \ true,\r\n\t\t\t\t\t\t\t\t\t\tenableLiveAutocompletion: false\r\n\t\t\t\t\
+        \t\t\t\t\t});\r\n\r\n\t\t\t\t\t\t\t\t}\r\n\r\n\t\t\t\t\t\t\t});\r\n\t\t\t\t\
+        \t\t</script>\r\n\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n\r\n\t\t\t\t<footer>\r\
+        \n\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"#\" class=\"tdw-save-css\">Save</a>\r\
+        \n\t\t\t\t\t\t<div class=\"tdw-more-info-text\">Write CSS OR LESS and hit\
+        \ save. CTRL + SPACE for auto-complete.</div>\r\n\r\n\t\t\t\t\t\r\n\t\t\t\t\
+        \t<div class=\"tdw-resize\"></div>\r\n\t\t\t\t</footer>\r\n\t\t\t</div>\r\n\
+        \t\t\t\r\n</body>\r\n</html>"
+    headers:
+      Cache-Control:
+      - private, proxy-revalidate, s-maxage=0
+      Connection:
+      - Keep-Alive
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Thu, 03 Dec 2020 00:12:09 GMT
+      Keep-Alive:
+      - timeout=5, max=100
+      Link:
+      - <https://growerspoint.com/wp-json/>; rel="https://api.w.org/", <https://growerspoint.com/?p=6992>;
+        rel=shortlink
+      Server:
+      - Apache/2.4.46 (cPanel) OpenSSL/1.1.1h mod_bwlimited/1.4
+      Vary:
+      - Accept-Encoding
+      X-Pingback:
+      - https://growerspoint.com/xmlrpc.php
+      X-TEC-API-ORIGIN:
+      - https://growerspoint.com
+      X-TEC-API-ROOT:
+      - https://growerspoint.com/wp-json/tribe/events/v1/
+      X-TEC-API-VERSION:
+      - v1
+      content-length:
+      - '97488'
+    status:
+      code: 200
+      message: OK
+version: 1

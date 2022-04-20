@@ -1,0 +1,416 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.marketwatch.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.marketwatch.com/investing/stock/twtr/moreheadlines?channel=MarketWatch&pageNumber=
+  response:
+    body:
+      string: "\n\n\n        \n            <mw-scrollable-news-v2 natural class=\"collection
+        collection--moreHeadlines j-scrollViewport\">\n            <div class=\"column
+        column--primary j-moreHeadlineWrapper\" data-source=\"ChartingSymbol\" data-channel=\"MarketWatch\"
+        data-channel-id=\"\" data-realtimefeed=\"\" data-layout-position=\"\" data-tracking=\"\">\n
+        \               <div class=\"collection__elements j-scrollElement\">\n\r\n\r\n\r\n\r\n\r\n
+        \   <div data-timestamp=\"1612973520000\" data-docid=\"\" data-msgid=\"\"
+        data-guid=\"21005575-02d4-d4b5-4572-d2775fa7fdce\" class=\"element element--article
+        \">\r\n            <figure class=\"article__figure\">\r\n                <a
+        class=\"figure__image\" data-video-guid=\"\" href=\"https://www.marketwatch.com/story/twitter-stock-heads-for-a-seven-year-high-as-analyst-cheers-newfound-swagger-11612973533\">\r\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.mktw.net/im-274188?size=1.777777777777778&amp;width=220
+        220w,https://images.mktw.net/im-274188?size=1.777777777777778&amp;width=300
+        300w,https://images.mktw.net/im-274188?size=1.777777777777778&amp;width=460
+        460w,https://images.mktw.net/im-274188?size=1.777777777777778&amp;width=800
+        800w,https://images.mktw.net/im-274188?size=1.777777777777778&amp;width=920
+        920w,https://images.mktw.net/im-274188?size=1.777777777777778&amp;width=1240
+        1240w,https://images.mktw.net/im-274188?size=1.777777777777778&amp;width=1240
+        1240w\">\r\n                    \r\n                </a>\r\n                \r\n
+        \               \r\n            </figure>\r\n        <div class=\"article__content\">\r\n
+        \           \r\n                    <h3 class=\"article__headline\">\r\n                        <a
+        class=\"link\" href=\"https://www.marketwatch.com/story/twitter-stock-heads-for-a-seven-year-high-as-analyst-cheers-newfound-swagger-11612973533\">\r\n
+        \                           \r\n                            Twitter stock
+        closes at seven-year high, as analyst cheers newfound &#x2018;swagger&#x2019;\r\n
+        \                       </a>\r\n                    </h3>\r\n            \r\n\r\n
+        \           \r\n            <div class=\"article__details\">\r\n                <span
+        class=\"article__timestamp\" data-est=\"2021-02-10T11:12:00\">Feb. 10, 2021
+        at 11:12 a.m. ET</span>\r\n\r\n                    <span class=\"article__author\">by
+        Emily Bary</span>\r\n                \r\n                \r\n            </div>\r\n
+        \       </div>\r\n\r\n    </div>\r\n\r\n\r\n\r\n    <div data-timestamp=\"1612994700000\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"af893fc8-6be3-11eb-be9f-058752b2bd99\"
+        class=\"element element--article \">\r\n            <figure class=\"article__figure\">\r\n
+        \               <a class=\"figure__image\" data-video-guid=\"\" href=\"https://www.marketwatch.com/articles/dow-jones-industrial-average-rose-inflation-data-51612994650\">\r\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.barrons.com/im-273323/?size=1.777777777777778&amp;width=220
+        220w,https://images.barrons.com/im-273323/?size=1.777777777777778&amp;width=300
+        300w,https://images.barrons.com/im-273323/?size=1.777777777777778&amp;width=460
+        460w,https://images.barrons.com/im-273323/?size=1.777777777777778&amp;width=800
+        800w,https://images.barrons.com/im-273323/?size=1.777777777777778&amp;width=920
+        920w,https://images.barrons.com/im-273323/?size=1.777777777777778&amp;width=1240
+        1240w,https://images.barrons.com/im-273323/?size=1.777777777777778&amp;width=1240
+        1240w\">\r\n                    \r\n                </a>\r\n                \r\n
+        \               \r\n            </figure>\r\n        <div class=\"article__content\">\r\n
+        \           <span class=\"article__label barrons\">\r\nBarron&#x27;s            </span>\r\n
+        \                   <h3 class=\"article__headline\">\r\n                        <a
+        class=\"link\" href=\"https://www.marketwatch.com/articles/dow-jones-industrial-average-rose-inflation-data-51612994650\">\r\n
+        \                           \r\n                            The Dow Rose 62
+        Points Because Investors Saw an Empty Cup as Half Full \r\n                        </a>\r\n
+        \                   </h3>\r\n            \r\n\r\n            \r\n            <div
+        class=\"article__details\">\r\n                <span class=\"article__timestamp\"
+        data-est=\"2021-02-10T17:05:00\">Feb. 10, 2021 at 5:05 p.m. ET</span>\r\n\r\n
+        \                   <span class=\"article__author\">by Barron&apos;s</span>\r\n
+        \               \r\n                \r\n            </div>\r\n        </div>\r\n\r\n
+        \   </div>\r\n\r\n\r\n\r\n    <div data-timestamp=\"1612994280000\" data-docid=\"\"
+        data-msgid=\"\" data-guid=\"7e17bc4f-cd50-4899-a03c-bc6d1aca435f\" class=\"element
+        element--article \">\r\n            <figure class=\"article__figure\">\r\n
+        \               <a class=\"figure__image\" data-video-guid=\"\" href=\"https://www.marketwatch.com/story/facebook-inc-cl-a-stock-outperforms-competitors-on-strong-trading-day-01612994316-21cc8c88dfbc\">\r\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.mktw.net/im-228770?size=1.777777777777778&amp;width=220
+        220w,https://images.mktw.net/im-228770?size=1.777777777777778&amp;width=300
+        300w,https://images.mktw.net/im-228770?size=1.777777777777778&amp;width=460
+        460w,https://images.mktw.net/im-228770?size=1.777777777777778&amp;width=800
+        800w,https://images.mktw.net/im-228770?size=1.777777777777778&amp;width=920
+        920w,https://images.mktw.net/im-228770?size=1.777777777777778&amp;width=1240
+        1240w,https://images.mktw.net/im-228770?size=1.777777777777778&amp;width=1240
+        1240w\">\r\n                    \r\n                </a>\r\n                \r\n
+        \               \r\n            </figure>\r\n        <div class=\"article__content\">\r\n
+        \           \r\n                    <h3 class=\"article__headline\">\r\n                        <a
+        class=\"link\" href=\"https://www.marketwatch.com/story/facebook-inc-cl-a-stock-outperforms-competitors-on-strong-trading-day-01612994316-21cc8c88dfbc\">\r\n
+        \                           \r\n                            Facebook Inc.
+        Cl A stock outperforms competitors on strong trading day\r\n                        </a>\r\n
+        \                   </h3>\r\n            \r\n\r\n            \r\n            <div
+        class=\"article__details\">\r\n                <span class=\"article__timestamp\"
+        data-est=\"2021-02-10T16:58:00\">Feb. 10, 2021 at 4:58 p.m. ET</span>\r\n\r\n
+        \                   <span class=\"article__author\">by MarketWatch Automation</span>\r\n
+        \               \r\n                \r\n            </div>\r\n        </div>\r\n\r\n
+        \   </div>\r\n\r\n\r\n\r\n    <div data-timestamp=\"1612993980000\" data-docid=\"\"
+        data-msgid=\"\" data-guid=\"c85bade5-e1c7-4a0c-8356-df3c04386ec5\" class=\"element
+        element--article \">\r\n            <figure class=\"article__figure\">\r\n
+        \               <a class=\"figure__image\" data-video-guid=\"\" href=\"https://www.marketwatch.com/story/twitter-inc-stock-rises-wednesday-outperforms-market-01612994027-70ccdc9e4806\">\r\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.mktw.net/im-220105?size=1.777777777777778&amp;width=220
+        220w,https://images.mktw.net/im-220105?size=1.777777777777778&amp;width=300
+        300w,https://images.mktw.net/im-220105?size=1.777777777777778&amp;width=460
+        460w,https://images.mktw.net/im-220105?size=1.777777777777778&amp;width=800
+        800w,https://images.mktw.net/im-220105?size=1.777777777777778&amp;width=920
+        920w,https://images.mktw.net/im-220105?size=1.777777777777778&amp;width=1240
+        1240w,https://images.mktw.net/im-220105?size=1.777777777777778&amp;width=1240
+        1240w\">\r\n                    \r\n                </a>\r\n                \r\n
+        \               \r\n            </figure>\r\n        <div class=\"article__content\">\r\n
+        \           \r\n                    <h3 class=\"article__headline\">\r\n                        <a
+        class=\"link\" href=\"https://www.marketwatch.com/story/twitter-inc-stock-rises-wednesday-outperforms-market-01612994027-70ccdc9e4806\">\r\n
+        \                           \r\n                            Twitter Inc. stock
+        rises Wednesday, outperforms market\r\n                        </a>\r\n                    </h3>\r\n
+        \           \r\n\r\n            \r\n            <div class=\"article__details\">\r\n
+        \               <span class=\"article__timestamp\" data-est=\"2021-02-10T16:53:00\">Feb.
+        10, 2021 at 4:53 p.m. ET</span>\r\n\r\n                    <span class=\"article__author\">by
+        MarketWatch Automation</span>\r\n                \r\n                \r\n
+        \           </div>\r\n        </div>\r\n\r\n    </div>\r\n\r\n\r\n\r\n    <div
+        data-timestamp=\"1612985160000\" data-docid=\"\" data-msgid=\"\" data-guid=\"21005575-02d4-d4b5-4572-d279fb5efdc0\"
+        class=\"element element--article \">\r\n            <figure class=\"article__figure\">\r\n
+        \               <a class=\"figure__image\" data-video-guid=\"\" href=\"https://www.marketwatch.com/story/twitter-gets-into-the-newsletter-business-are-more-subscription-services-to-come-11612985204\">\r\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.mktw.net/im-292825?size=1.777777777777778&amp;width=220
+        220w,https://images.mktw.net/im-292825?size=1.777777777777778&amp;width=300
+        300w,https://images.mktw.net/im-292825?size=1.777777777777778&amp;width=460
+        460w,https://images.mktw.net/im-292825?size=1.777777777777778&amp;width=800
+        800w,https://images.mktw.net/im-292825?size=1.777777777777778&amp;width=920
+        920w,https://images.mktw.net/im-292825?size=1.777777777777778&amp;width=1240
+        1240w,https://images.mktw.net/im-292825?size=1.777777777777778&amp;width=1240
+        1240w\">\r\n                    \r\n                </a>\r\n                \r\n
+        \               \r\n            </figure>\r\n        <div class=\"article__content\">\r\n
+        \           \r\n                    <h3 class=\"article__headline\">\r\n                        <a
+        class=\"link\" href=\"https://www.marketwatch.com/story/twitter-gets-into-the-newsletter-business-are-more-subscription-services-to-come-11612985204\">\r\n
+        \                           \r\n                            Twitter gets into
+        the newsletter business &#x2014; are more subscription services to come?\r\n
+        \                       </a>\r\n                    </h3>\r\n            \r\n\r\n
+        \           \r\n            <div class=\"article__details\">\r\n                <span
+        class=\"article__timestamp\" data-est=\"2021-02-10T14:26:00\">Feb. 10, 2021
+        at 2:26 p.m. ET</span>\r\n\r\n                    <span class=\"article__author\">by
+        Weston Blasi</span>\r\n                \r\n                \r\n            </div>\r\n
+        \       </div>\r\n\r\n    </div>\r\n\r\n\r\n\r\n    <div data-timestamp=\"1612969844392\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"7a16b5ec-775d-4f4e-9405-0dd5c873e7ee\"
+        class=\"element element--article no-image \">\r\n            <figure class=\"article__figure\">\r\n
+        \               \r\n                \r\n                <span class=\"figure__image\"></span>\r\n
+        \           </figure>\r\n        <div class=\"article__content\">\r\n            \r\n
+        \                   <h3 class=\"article__headline\"><span class=\"text\">Twitter
+        stock price target raised to $65 from $58 at Canaccord Genuity</span></h3>\r\n
+        \           \r\n\r\n            \r\n            <div class=\"article__details\">\r\n
+        \               <span class=\"article__timestamp\" data-est=\"2021-02-10T10:10:44\">Feb.
+        10, 2021 at 10:10 a.m. ET</span>\r\n\r\n                    <span class=\"article__author\">by
+        Tomi Kilgore</span>\r\n                \r\n                \r\n            </div>\r\n
+        \       </div>\r\n\r\n    </div>\r\n\r\n\r\n\r\n    <div data-timestamp=\"1612969302416\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"1c9906b0-2bd2-4802-85e8-cc8e0c487074\"
+        class=\"element element--article no-image \">\r\n            <figure class=\"article__figure\">\r\n
+        \               \r\n                \r\n                <span class=\"figure__image\"></span>\r\n
+        \           </figure>\r\n        <div class=\"article__content\">\r\n            \r\n
+        \                   <h3 class=\"article__headline\"><span class=\"text\">Twitter
+        stock price target raised to $78 from $58 at BofA Securities</span></h3>\r\n
+        \           \r\n\r\n            \r\n            <div class=\"article__details\">\r\n
+        \               <span class=\"article__timestamp\" data-est=\"2021-02-10T10:01:42\">Feb.
+        10, 2021 at 10:01 a.m. ET</span>\r\n\r\n                    <span class=\"article__author\">by
+        Tomi Kilgore</span>\r\n                \r\n                \r\n            </div>\r\n
+        \       </div>\r\n\r\n    </div>\r\n\r\n\r\n\r\n    <div data-timestamp=\"1612969124041\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"4b427657-4861-4202-8e8f-14f2e8f358e0\"
+        class=\"element element--article no-image \">\r\n            <figure class=\"article__figure\">\r\n
+        \               \r\n                \r\n                <span class=\"figure__image\"></span>\r\n
+        \           </figure>\r\n        <div class=\"article__content\">\r\n            \r\n
+        \                   <h3 class=\"article__headline\"><span class=\"text\">Twitter
+        stock price target raised to $73 from $60 at MKM Partners</span></h3>\r\n
+        \           \r\n\r\n            \r\n            <div class=\"article__details\">\r\n
+        \               <span class=\"article__timestamp\" data-est=\"2021-02-10T09:58:44\">Feb.
+        10, 2021 at 9:58 a.m. ET</span>\r\n\r\n                    <span class=\"article__author\">by
+        Tomi Kilgore</span>\r\n                \r\n                \r\n            </div>\r\n
+        \       </div>\r\n\r\n    </div>\r\n\r\n\r\n\r\n    <div data-timestamp=\"1612965300000\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"4aab4a9a-6ba4-11eb-be9f-058752b2bd99\"
+        class=\"element element--article \">\r\n            <figure class=\"article__figure\">\r\n
+        \               <a class=\"figure__image\" data-video-guid=\"\" href=\"https://www.marketwatch.com/articles/twitter-stock-pops-gm-drops-and-the-stock-market-is-rising-once-again-51612965335\">\r\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.barrons.com/im-272944/?size=1.777777777777778&amp;width=220
+        220w,https://images.barrons.com/im-272944/?size=1.777777777777778&amp;width=300
+        300w,https://images.barrons.com/im-272944/?size=1.777777777777778&amp;width=460
+        460w,https://images.barrons.com/im-272944/?size=1.777777777777778&amp;width=800
+        800w,https://images.barrons.com/im-272944/?size=1.777777777777778&amp;width=920
+        920w,https://images.barrons.com/im-272944/?size=1.777777777777778&amp;width=1240
+        1240w,https://images.barrons.com/im-272944/?size=1.777777777777778&amp;width=1240
+        1240w\">\r\n                    \r\n                </a>\r\n                \r\n
+        \               \r\n            </figure>\r\n        <div class=\"article__content\">\r\n
+        \           <span class=\"article__label barrons\">\r\nBarron&#x27;s            </span>\r\n
+        \                   <h3 class=\"article__headline\">\r\n                        <a
+        class=\"link\" href=\"https://www.marketwatch.com/articles/twitter-stock-pops-gm-drops-and-the-stock-market-is-rising-once-again-51612965335\">\r\n
+        \                           \r\n                            Twitter Stock
+        Pops, GM Drops, and the Stock Market Is Rising Once Again \r\n                        </a>\r\n
+        \                   </h3>\r\n            \r\n\r\n            \r\n            <div
+        class=\"article__details\">\r\n                <span class=\"article__timestamp\"
+        data-est=\"2021-02-10T08:55:00\">Feb. 10, 2021 at 8:55 a.m. ET</span>\r\n\r\n
+        \                   <span class=\"article__author\">by Barron&apos;s</span>\r\n
+        \               \r\n                \r\n            </div>\r\n        </div>\r\n\r\n
+        \   </div>\r\n\r\n\r\n\r\n    <div data-timestamp=\"1612964865018\" data-docid=\"\"
+        data-msgid=\"\" data-guid=\"6b0c16f6-050c-44b7-a82e-acbdac629694\" class=\"element
+        element--article no-image \">\r\n            <figure class=\"article__figure\">\r\n
+        \               \r\n                \r\n                <span class=\"figure__image\"></span>\r\n
+        \           </figure>\r\n        <div class=\"article__content\">\r\n            \r\n
+        \                   <h3 class=\"article__headline\"><span class=\"text\">Twitter
+        stock price target raised to $70 from $58 at Oppenheimer</span></h3>\r\n            \r\n\r\n
+        \           \r\n            <div class=\"article__details\">\r\n                <span
+        class=\"article__timestamp\" data-est=\"2021-02-10T08:47:45\">Feb. 10, 2021
+        at 8:47 a.m. ET</span>\r\n\r\n                    <span class=\"article__author\">by
+        Tomi Kilgore</span>\r\n                \r\n                \r\n            </div>\r\n
+        \       </div>\r\n\r\n    </div>\r\n\r\n\r\n\r\n    <div data-timestamp=\"1612905600000\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"21005575-02d4-d4b5-4572-d21761fd04c3\"
+        class=\"element element--article \">\r\n            <figure class=\"article__figure\">\r\n
+        \               <a class=\"figure__image\" data-video-guid=\"\" href=\"https://www.marketwatch.com/story/twitter-racks-up-its-second-1-billion-quarter-11612905659\">\r\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.mktw.net/im-274188?size=1.777777777777778&amp;width=220
+        220w,https://images.mktw.net/im-274188?size=1.777777777777778&amp;width=300
+        300w,https://images.mktw.net/im-274188?size=1.777777777777778&amp;width=460
+        460w,https://images.mktw.net/im-274188?size=1.777777777777778&amp;width=800
+        800w,https://images.mktw.net/im-274188?size=1.777777777777778&amp;width=920
+        920w,https://images.mktw.net/im-274188?size=1.777777777777778&amp;width=1240
+        1240w,https://images.mktw.net/im-274188?size=1.777777777777778&amp;width=1240
+        1240w\">\r\n                    \r\n                </a>\r\n                \r\n
+        \               \r\n            </figure>\r\n        <div class=\"article__content\">\r\n
+        \           \r\n                    <h3 class=\"article__headline\">\r\n                        <a
+        class=\"link\" href=\"https://www.marketwatch.com/story/twitter-racks-up-its-second-1-billion-quarter-11612905659\">\r\n
+        \                           \r\n                            Twitter racks
+        up its second $1 billion quarter, sending shares toward a 52-week high\r\n
+        \                       </a>\r\n                    </h3>\r\n            \r\n\r\n
+        \           \r\n            <div class=\"article__details\">\r\n                <span
+        class=\"article__timestamp\" data-est=\"2021-02-09T16:20:00\">Feb. 9, 2021
+        at 4:20 p.m. ET</span>\r\n\r\n                    <span class=\"article__author\">by
+        Jon Swartz</span>\r\n                \r\n                \r\n            </div>\r\n
+        \       </div>\r\n\r\n    </div>\r\n\r\n\r\n\r\n    <div data-timestamp=\"1612963380000\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"6b40e45a-6b35-11eb-be9f-058752b2bd99\"
+        class=\"element element--article \">\r\n            <figure class=\"article__figure\">\r\n
+        \               <a class=\"figure__image\" data-video-guid=\"\" href=\"https://www.marketwatch.com/articles/twitter-earnings-show-there-is-life-after-trump-51612963409\">\r\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.barrons.com/im-297336/?size=1.777777777777778&amp;width=220
+        220w,https://images.barrons.com/im-297336/?size=1.777777777777778&amp;width=300
+        300w,https://images.barrons.com/im-297336/?size=1.777777777777778&amp;width=460
+        460w,https://images.barrons.com/im-297336/?size=1.777777777777778&amp;width=800
+        800w,https://images.barrons.com/im-297336/?size=1.777777777777778&amp;width=920
+        920w,https://images.barrons.com/im-297336/?size=1.777777777777778&amp;width=1240
+        1240w,https://images.barrons.com/im-297336/?size=1.777777777777778&amp;width=1240
+        1240w\">\r\n                    \r\n                </a>\r\n                \r\n
+        \               \r\n            </figure>\r\n        <div class=\"article__content\">\r\n
+        \           <span class=\"article__label barrons\">\r\nBarron&#x27;s            </span>\r\n
+        \                   <h3 class=\"article__headline\">\r\n                        <a
+        class=\"link\" href=\"https://www.marketwatch.com/articles/twitter-earnings-show-there-is-life-after-trump-51612963409\">\r\n
+        \                           \r\n                            Twitter Earnings
+        Show There Is Life After Trump\r\n                        </a>\r\n                    </h3>\r\n
+        \           \r\n\r\n            \r\n            <div class=\"article__details\">\r\n
+        \               <span class=\"article__timestamp\" data-est=\"2021-02-10T08:23:00\">Feb.
+        10, 2021 at 8:23 a.m. ET</span>\r\n\r\n                    \r\n                \r\n
+        \               \r\n            </div>\r\n        </div>\r\n\r\n    </div>\r\n\r\n\r\n\r\n
+        \   <div data-timestamp=\"1612962934837\" data-docid=\"\" data-msgid=\"\"
+        data-guid=\"a9453d2f-6374-4a59-820a-e0000aaee40d\" class=\"element element--article
+        no-image \">\r\n            <figure class=\"article__figure\">\r\n                \r\n
+        \               \r\n                <span class=\"figure__image\"></span>\r\n
+        \           </figure>\r\n        <div class=\"article__content\">\r\n            \r\n
+        \                   <h3 class=\"article__headline\"><span class=\"text\">Twitter
+        stock price target raised to $60 from $50 at Stifel Nicolaus</span></h3>\r\n
+        \           \r\n\r\n            \r\n            <div class=\"article__details\">\r\n
+        \               <span class=\"article__timestamp\" data-est=\"2021-02-10T08:15:34\">Feb.
+        10, 2021 at 8:15 a.m. ET</span>\r\n\r\n                    <span class=\"article__author\">by
+        Tomi Kilgore</span>\r\n                \r\n                \r\n            </div>\r\n
+        \       </div>\r\n\r\n    </div>\r\n\r\n\r\n\r\n    <div data-timestamp=\"1612962833182\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"46ad1d13-6153-4ec2-89d7-49712596cbf9\"
+        class=\"element element--article no-image \">\r\n            <figure class=\"article__figure\">\r\n
+        \               \r\n                \r\n                <span class=\"figure__image\"></span>\r\n
+        \           </figure>\r\n        <div class=\"article__content\">\r\n            \r\n
+        \                   <h3 class=\"article__headline\"><span class=\"text\">Twitter
+        stock price target raised to $56.50 from $47.00 at Wedbush</span></h3>\r\n
+        \           \r\n\r\n            \r\n            <div class=\"article__details\">\r\n
+        \               <span class=\"article__timestamp\" data-est=\"2021-02-10T08:13:53\">Feb.
+        10, 2021 at 8:13 a.m. ET</span>\r\n\r\n                    <span class=\"article__author\">by
+        Tomi Kilgore</span>\r\n                \r\n                \r\n            </div>\r\n
+        \       </div>\r\n\r\n    </div>\r\n\r\n\r\n\r\n    <div data-timestamp=\"1612962642430\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"b694763b-ed71-4045-9a53-1a25f61cfbba\"
+        class=\"element element--article no-image \">\r\n            <figure class=\"article__figure\">\r\n
+        \               \r\n                \r\n                <span class=\"figure__image\"></span>\r\n
+        \           </figure>\r\n        <div class=\"article__content\">\r\n            \r\n
+        \                   <h3 class=\"article__headline\"><span class=\"text\">Twitter
+        stock price target raised to $64 from $43 at Truist</span></h3>\r\n            \r\n\r\n
+        \           \r\n            <div class=\"article__details\">\r\n                <span
+        class=\"article__timestamp\" data-est=\"2021-02-10T08:10:42\">Feb. 10, 2021
+        at 8:10 a.m. ET</span>\r\n\r\n                    <span class=\"article__author\">by
+        Tomi Kilgore</span>\r\n                \r\n                \r\n            </div>\r\n
+        \       </div>\r\n\r\n    </div>\r\n\r\n\r\n\r\n    <div data-timestamp=\"1612962416900\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"0f46f337-08d9-4735-a98d-7a79c40f770e\"
+        class=\"element element--article no-image \">\r\n            <figure class=\"article__figure\">\r\n
+        \               \r\n                \r\n                <span class=\"figure__image\"></span>\r\n
+        \           </figure>\r\n        <div class=\"article__content\">\r\n            \r\n
+        \                   <h3 class=\"article__headline\"><span class=\"text\">Twitter
+        stock price target raised to $77 from $65 at J.P. Morgan</span></h3>\r\n            \r\n\r\n
+        \           \r\n            <div class=\"article__details\">\r\n                <span
+        class=\"article__timestamp\" data-est=\"2021-02-10T08:06:56\">Feb. 10, 2021
+        at 8:06 a.m. ET</span>\r\n\r\n                    <span class=\"article__author\">by
+        Tomi Kilgore</span>\r\n                \r\n                \r\n            </div>\r\n
+        \       </div>\r\n\r\n    </div>\r\n\r\n\r\n\r\n    <div data-timestamp=\"1612957136621\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"9133abd7-8980-4a16-ae5e-81aa1d6ea87e\"
+        class=\"element element--article no-image \">\r\n            <figure class=\"article__figure\">\r\n
+        \               \r\n                \r\n                <span class=\"figure__image\"></span>\r\n
+        \           </figure>\r\n        <div class=\"article__content\">\r\n            \r\n
+        \                   <h3 class=\"article__headline\"><span class=\"text\">Twitter
+        stock price target raised to $76 from $65 at Deutsche Bank</span></h3>\r\n
+        \           \r\n\r\n            \r\n            <div class=\"article__details\">\r\n
+        \               <span class=\"article__timestamp\" data-est=\"2021-02-10T06:38:56\">Feb.
+        10, 2021 at 6:38 a.m. ET</span>\r\n\r\n                    <span class=\"article__author\">by
+        Tomi Kilgore</span>\r\n                \r\n                \r\n            </div>\r\n
+        \       </div>\r\n\r\n    </div>\r\n\r\n\r\n\r\n    <div data-timestamp=\"1612957018527\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"aaf8b354-dd54-4929-8a0a-cd40f0ded33f\"
+        class=\"element element--article no-image \">\r\n            <figure class=\"article__figure\">\r\n
+        \               \r\n                \r\n                <span class=\"figure__image\"></span>\r\n
+        \           </figure>\r\n        <div class=\"article__content\">\r\n            \r\n
+        \                   <h3 class=\"article__headline\"><span class=\"text\">Twitter
+        stock price target raised to $57 from $48 at Mizuho</span></h3>\r\n            \r\n\r\n
+        \           \r\n            <div class=\"article__details\">\r\n                <span
+        class=\"article__timestamp\" data-est=\"2021-02-10T06:36:58\">Feb. 10, 2021
+        at 6:36 a.m. ET</span>\r\n\r\n                    <span class=\"article__author\">by
+        Tomi Kilgore</span>\r\n                \r\n                \r\n            </div>\r\n
+        \       </div>\r\n\r\n    </div>\r\n\r\n\r\n\r\n    <div data-timestamp=\"1612956424365\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"ce7b0e02-364d-49fe-9692-d26cb6cbaa72\"
+        class=\"element element--article no-image \">\r\n            <figure class=\"article__figure\">\r\n
+        \               \r\n                \r\n                <span class=\"figure__image\"></span>\r\n
+        \           </figure>\r\n        <div class=\"article__content\">\r\n            \r\n
+        \                   <h3 class=\"article__headline\"><span class=\"text\">Twitter&#x27;s
+        stock on track for an 8th straight gain; it has soared 18.5% over the past
+        7 days</span></h3>\r\n            \r\n\r\n            \r\n            <div
+        class=\"article__details\">\r\n                <span class=\"article__timestamp\"
+        data-est=\"2021-02-10T06:27:04\">Feb. 10, 2021 at 6:27 a.m. ET</span>\r\n\r\n
+        \                   <span class=\"article__author\">by Tomi Kilgore</span>\r\n
+        \               \r\n                \r\n            </div>\r\n        </div>\r\n\r\n
+        \   </div>\r\n\r\n\r\n\r\n    <div data-timestamp=\"1612908960000\" data-docid=\"\"
+        data-msgid=\"\" data-guid=\"20e04575-02d4-2415-22d3-61b08b97ad1e\" class=\"element
+        element--article \">\r\n            <figure class=\"article__figure\">\r\n
+        \               <a class=\"figure__image\" data-video-guid=\"\" href=\"https://www.marketwatch.com/articles/twitter-reports-strong-earnings-but-its-costs-are-mounting-51612909002\">\r\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.barrons.com/im-296911?size=1.777777777777778&amp;width=220
+        220w,https://images.barrons.com/im-296911?size=1.777777777777778&amp;width=300
+        300w,https://images.barrons.com/im-296911?size=1.777777777777778&amp;width=460
+        460w,https://images.barrons.com/im-296911?size=1.777777777777778&amp;width=800
+        800w,https://images.barrons.com/im-296911?size=1.777777777777778&amp;width=920
+        920w,https://images.barrons.com/im-296911?size=1.777777777777778&amp;width=1240
+        1240w,https://images.barrons.com/im-296911?size=1.777777777777778&amp;width=1240
+        1240w\">\r\n                    \r\n                </a>\r\n                \r\n
+        \               \r\n            </figure>\r\n        <div class=\"article__content\">\r\n
+        \           <span class=\"article__label barrons\">\r\nBarron&#x27;s            </span>\r\n
+        \                   <h3 class=\"article__headline\">\r\n                        <a
+        class=\"link\" href=\"https://www.marketwatch.com/articles/twitter-reports-strong-earnings-but-its-costs-are-mounting-51612909002\">\r\n
+        \                           \r\n                            Twitter Reports
+        Strong Earnings but Its Costs Are Mounting\r\n                        </a>\r\n
+        \                   </h3>\r\n            \r\n\r\n            \r\n            <div
+        class=\"article__details\">\r\n                <span class=\"article__timestamp\"
+        data-est=\"2021-02-09T17:16:00\">Feb. 9, 2021 at 5:16 p.m. ET</span>\r\n\r\n
+        \                   <span class=\"article__author\">by Barron&apos;s</span>\r\n
+        \               \r\n                \r\n            </div>\r\n        </div>\r\n\r\n
+        \   </div>\r\n                </div>\n                \n                \n
+        \           </div>\n            </mw-scrollable-news-v2>\n        <template
+        id=\"moreHeadlineTemplate\">\n            <div data-timestamp data-msgid data-guid
+        class=\"element element--article\">\n                <figure class=\"article__figure\">\n
+        \                   <a class=\"figure__image\" data-video-guid target=\"_blank\"
+        href=\"#\">\n                        <img class=\"lazyload\" alt=\"Read full
+        story\"/>\n                    </a>\n                </figure>\n                <div
+        class=\"article__content\">\n                    <span class=\"article__label\"></span>\n
+        \                   <h3 class=\"article__headline\">\n                        <a
+        class=\"link\" target=\"_blank\" href=\"#\"></a>\n                    </h3>\n
+        \                   <p class=\"article__summary\"></p>\n                    <div
+        class=\"content--secondary\">\n                        <div class=\"group
+        group--tickers\">\n                            <a class=\"ticker\">\n                                <span
+        class=\"ticker__symbol\"></span>\n                                <bg-quote
+        class=\"ticker__change\" field=\"percentchange\" format=\"0,0.00%\" channel></bg-quote>\n
+        \                               <i class=\"icon\"></i>\n                            </a>\n
+        \                       </div>\n                    </div>\n                    <ul
+        class=\"article__details\">\n                        <li class=\"article__timestamp\"></li>\n
+        \                       <li class=\"article__author\"></li>\n                    </ul>\n
+        \               </div>\n            </div>\n        </template>\n        <template
+        id=\"headlineListItemDianomiTemplate\">\n            <div class=\"lazyload
+        element element--article dianomi\">\n                <div class=\"dianomi_context
+        w100\"></div>\n            </div>\n        </template>\n"
+    headers:
+      Connection:
+      - keep-alive
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Thu, 11 Feb 2021 14:25:54 GMT
+      Server:
+      - Kestrel
+      Set-Cookie:
+      - mw_loc=%7B%22Region%22%3A%22NY%22%2C%22Country%22%3A%22US%22%2C%22Continent%22%3A%22NA%22%2C%22ApplicablePrivacy%22%3A0%7D;
+        expires=Wed, 17 Feb 2021 23:59:59 GMT; domain=.marketwatch.com; path=/
+      - gdprApplies=false; domain=.marketwatch.com; path=/
+      Transfer-Encoding:
+      - chunked
+      Via:
+      - 1.1 7ac993fb3bf15971cbb8b39563ee70e1.cloudfront.net (CloudFront)
+      X-Amz-Cf-Id:
+      - -hlIVMrE5VV1vs2h5zrzLZufDz7jqKudPduq3Ws5eXuI7KHJtv3FHw==
+      X-Amz-Cf-Pop:
+      - EWR53-C1
+      X-Cache:
+      - Miss from cloudfront
+      X-Frame-Options:
+      - SAMEORIGIN
+      content-length:
+      - '29645'
+    status:
+      code: 200
+      message: OK
+version: 1

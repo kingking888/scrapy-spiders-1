@@ -1,0 +1,61 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/39.0.2171.95 Safari/537.36
+    method: GET
+    uri: https://query2.finance.yahoo.com/v8/finance/chart/FSR?period1=1607040000&period2=1607433045&interval=1d&includePrePost=False&events=div%2Csplits
+  response:
+    body:
+      string: '{"chart":{"result":[{"meta":{"currency":"USD","symbol":"FSR","exchangeName":"NYQ","instrumentType":"EQUITY","firstTradeDate":1538487000,"regularMarketTime":1637701202,"gmtoffset":-18000,"timezone":"EST","exchangeTimezoneName":"America/New_York","regularMarketPrice":20.1,"chartPreviousClose":17.3,"priceHint":2,"currentTradingPeriod":{"pre":{"timezone":"EST","end":1637764200,"start":1637744400,"gmtoffset":-18000},"regular":{"timezone":"EST","end":1637787600,"start":1637764200,"gmtoffset":-18000},"post":{"timezone":"EST","end":1637802000,"start":1637787600,"gmtoffset":-18000}},"dataGranularity":"1d","range":"","validRanges":["1d","5d","1mo","3mo","6mo","1y","2y","5y","ytd","max"]},"timestamp":[1607092200,1607351400],"indicators":{"quote":[{"low":[16.65999984741211,16.8799991607666],"high":[17.450000762939453,18.139999389648438],"volume":[7482200,10974700],"open":[17.3799991607666,17.84000015258789],"close":[17.149999618530273,17.299999237060547]}],"adjclose":[{"adjclose":[17.149999618530273,17.299999237060547]}]}}],"error":null}}'
+    headers:
+      Age:
+      - '1'
+      Connection:
+      - keep-alive
+      Expect-CT:
+      - max-age=31536000, report-uri="http://csp.yahoo.com/beacon/csp?src=yahoocom-expect-ct-report-only"
+      Referrer-Policy:
+      - no-referrer-when-downgrade
+      Strict-Transport-Security:
+      - max-age=15552000
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - 1; mode=block
+      cache-control:
+      - public, max-age=10, stale-while-revalidate=20
+      content-length:
+      - '1042'
+      content-type:
+      - application/json;charset=utf-8
+      date:
+      - Wed, 24 Nov 2021 10:37:04 GMT
+      server:
+      - ATS
+      vary:
+      - Origin,Accept-Encoding
+      x-envoy-decorator-operation:
+      - finance-chart-api--mtls-production-ir2.finance-k8s.svc.yahoo.local:4080/*
+      x-envoy-upstream-service-time:
+      - '3'
+      x-request-id:
+      - fc0adf66-6efb-4f61-a3ec-c5407b05679b
+      x-yahoo-request-id:
+      - 6as7059gps5eh
+      y-rid:
+      - 6as7059gps5eh
+    status:
+      code: 200
+      message: OK
+version: 1

@@ -1,0 +1,1445 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.benzinga.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.benzinga.com/stock-articles/spaq/all?page=1
+  response:
+    body:
+      string: "<!DOCTYPE html>\n<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:og=\"\
+        http://ogp.me/ns#\" xmlns:fb=\"http://www.facebook.com/2008/fbml\">\n<head>\n\
+        <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n\
+        \  <script type=\"text/javascript\"></script>\n  <!--[if IE]>\n  <script type=\"\
+        text/javascript\">document.createElement(\"header\");document.createElement(\"\
+        footer\");</script>\n  <script type=\"text/javascript\" src=\"/sites/all/themes/bz2/js/excanvas.js\"\
+        ></script>\n  <![endif]-->\n  <script type=\"text/javascript\">var ord = Math.random()\
+        \ * 10000000000000000</script>  <meta http-equiv=\"Content-Type\" content=\"\
+        text/html; charset=utf-8\" />\n<script type=\"text/javascript\" src=\"https://ad.wsod.com/site/391c5ac9e899a3f96ad04ca51ea98cc2/0.0.async/\"\
+        \ async=\"async\"></script>\n<link type=\"text/css\" rel=\"stylesheet\" media=\"\
+        all\" href=\"//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css\"\
+        \ />\n<link rel=\"manifest\" href=\"/manifest.json\" />\n<script src=\"https://cdn.onesignal.com/sdks/OneSignalSDK.js\"\
+        \ async=\"\"></script>\n<meta http-equiv=\"x-dns-prefetch-control\" content=\"\
+        on\" />\n<link rel=\"dns-prefetch\" href=\"//cdn.benzinga.com\" />\n<link\
+        \ rel=\"shortcut icon\" href=\"https://cdn.benzinga.com/files/bz2_favicon_3.ico\"\
+        \ type=\"image/x-icon\" />\n<script type=\"text/javascript\">\n    function\
+        \ setUserSessionCountCookie(name, value) {\n      var expire = \"; expires=\"\
+        ;\n      var path = \"; path=/\";\n      document.cookie=name + \"=\" + escape(value)\
+        \ + expire + path;\n    }\n    function getUserSessionCountCookie(name) {\n\
+        \      var c_value = document.cookie;\n      var c_start = c_value.indexOf(\"\
+        \ \" + name + \"=\");\n      if (c_start == -1) {\n        c_start = c_value.indexOf(name\
+        \ + \"=\");\n      }\n      if (c_start == -1) {\n        setUserSessionCountCookie(name,\
+        \ 1);\n        return 1;\n      }\n      else {\n        c_start = c_value.indexOf(\"\
+        =\", c_start) + 1;\n        var c_end = c_value.indexOf(\";\", c_start);\n\
+        \        if (c_end == -1) {\n          c_end = c_value.length;\n        }\n\
+        \        c_value = unescape(c_value.substring(c_start,c_end));\n        c_value\
+        \ = parseInt(c_value)+1;\n        setUserSessionCountCookie(name, c_value);\n\
+        \        return c_value;\n      }\n    }\n    var BZ_USERSESSION_COUNT = getUserSessionCountCookie(\"\
+        BZ_USERSESSION_COUNT\");\n  </script>\n<script type=\"application/ld+json\"\
+        >{\"@context\":\"http:\\/\\/schema.org\",\"headline\":\"\",\"url\":\"https:\\\
+        /\\/www.benzinga.com\\/stock-articles\\/spaq\\/all?page=1\",\"dateCreated\"\
+        :\"2010-01-01T00:00:00Z\",\"datePublished\":\"2010-01-01T00:00:00Z\",\"creator\"\
+        :\"Benzinga\",\"author\":\"Benzinga\",\"@type\":\"Info\",\"keywords\":[\"\
+        pageType: Info\"],\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https:\\\
+        /\\/www.benzinga.com\\/stock-articles\\/spaq\\/all?page=1\"},\"publisher\"\
+        :{\"@type\":\"Organization\",\"name\":\"Benzinga\",\"logo\":{\"@type\":\"\
+        ImageObject\",\"url\":\"https:\\/\\/cdn.benzinga.com\\/sites\\/all\\/themes\\\
+        /bz2\\/images\\/Benzinga_Logo_web-01.png\"}},\"image\":[],\"description\"\
+        :null}</script>\n<script type=\"application/ld+json\">{\"@context\":\"http:\\\
+        /\\/schema.org\",\"@type\":\"NewsMediaOrganization\",\"name\":\"Benzinga\"\
+        ,\"email\":\"info@benzinga.com\",\"legalName\":\"Benzinga\",\"telephone\"\
+        :\"877-440-9464\",\"url\":\"https:\\/\\/www.benzinga.com\\/\",\"logo\":\"\
+        https:\\/\\/cdn.benzinga.com\\/sites\\/all\\/themes\\/bz2\\/images\\/Benzinga-logo-navy.svg\"\
+        ,\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Detroit\"\
+        ,\"addressRegion\":\"MI\",\"postalCode\":\"48226\",\"streetAddress\":\"1 Campus\
+        \ Martius Suite 200\",\"addressCountry\":\"USA\"},\"sameAs\":[\"https:\\/\\\
+        /www.facebook.com\\/pages\\/Benzingacom\\/159483118580?v=app_7146470109\"\
+        ,\"https:\\/\\/twitter.com\\/benzinga\",\"https:\\/\\/www.linkedin.com\\/company\\\
+        /benzinga\",\"https:\\/\\/www.youtube.com\\/user\\/BenzingaTV\"],\"brand\"\
+        :[{\"@type\":\"Brand\",\"name\":\"Benzinga PreMarket Prep\",\"url\":\"https:\\\
+        /\\/www.benzinga.com\\/premarket-prep\\/\"},{\"@type\":\"Brand\",\"name\"\
+        :\"Benzinga Markets\",\"url\":\"https:\\/\\/www.benzinga.com\\/markets\\/\"\
+        },{\"@type\":\"Brand\",\"name\":\"Benzinga Pro\",\"url\":\"https:\\/\\/pro.benzinga.com\\\
+        /\"},{\"@type\":\"Brand\",\"name\":\"Benzinga Cloud\",\"url\":\"https:\\/\\\
+        /cloud.benzinga.com\\/\"},{\"@type\":\"Brand\",\"name\":\"Benzinga Events\"\
+        ,\"url\":\"https:\\/\\/benzingaevents.com\\/\"},{\"@type\":\"Brand\",\"name\"\
+        :\"Benzinga Money\",\"url\":\"https:\\/\\/www.benzinga.com\\/money\\/\"},{\"\
+        @type\":\"Brand\",\"name\":\"Benzinga Marketfy\",\"url\":\"https:\\/\\/marketfy.com\\\
+        /\"}]}</script>\n<meta name=\"language\" content=\"English\" />\n<meta name=\"\
+        copyright\" content=\"Copyright 2014 Benzinga. All rights reserved.\" />\n\
+        <meta name=\"fo-verify\" content=\"101a0095-334d-4935-b87e-0e8fc771214e\"\
+        \ />\n<meta name=\"robots\" content=\"max-image-preview:large\">\n<meta property=\"\
+        Benzinga for iOS\" content=\"app-id=688949481, app-argument=https://itunes.apple.com/us/app/id688949481\"\
+        >\n<meta property=\"fb:pages\" content=\"159483118580\" />\n<meta name=\"\
+        twitter:card\" content=\"summary\" />\n<meta name=\"twitter:site\" content=\"\
+        @benzinga\" />\n<meta property=\"og:site_name\" content=\"Benzinga\" />\n\
+        <meta property=\"og:url\" content=\"https://www.benzinga.com/stock-articles/spaq/all\"\
+        \ />\n<meta property=\"og:title\" content=\" (:) Stock Quotes and News\" />\n\
+        <meta name=\"twitter:title\" content=\" (:) Stock Quotes and News\" />\n<meta\
+        \ property=\"og:type\" content=\"website\" />\n<meta name=\"twitter:image\"\
+        \ content=\"https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png\"\
+        \ />\n<meta property=\"og:image\" content=\"https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png\"\
+        \ />\n<link rel=\"image_src\" href=\"https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png\"\
+        \ />\n<link rel=\"canonical\" href=\"https://www.benzinga.com/stock-articles/spaq/all?page=1\"\
+        \ />\n<link rel=\"schema.DC\" href=\"http://purl.org/dc/elements/1.1/\" />\n\
+        <link rel=\"schema.DCTERMS\" href=\"http://purl.org/dc/terms/\" />\n<meta\
+        \ name=\"DC.Subject\" xml:lang=\"EN\" content=\"\" />\n<meta name=\"DC.Publisher\"\
+        \ content=\"Benzinga\" />\n<meta name=\"DC.Rights\" content=\"Copyright 2020\
+        \ Benzinga. All rights reserved.\" />\n<meta property=\"fb:admins\" content=\"\
+        648186192\" />\n  <title> (:) Stock Quotes and News | Benzinga</title>\n \
+        \ <link href='//fonts.googleapis.com/css?family=Open+Sans:400,700italic,400italic,700|Open+Sans+Condensed:700,300'\
+        \ rel='stylesheet' type='text/css'>\n  <link type=\"text/css\" rel=\"stylesheet\"\
+        \ media=\"all\" href=\"https://cdn.benzinga.com/files/advagg_css/css_a4ba847c5c471088c16badaceb20d31c_385.css\"\
+        \ />\n<link type=\"text/css\" rel=\"stylesheet\" media=\"all\" href=\"https://cdn.benzinga.com/files/advagg_css/css_a6351df0a326e6b5d8261ea18e30a4c7_46.css\"\
+        \ />\n<link type=\"text/css\" rel=\"stylesheet\" media=\"all\" href=\"https://cdn.benzinga.com/files/advagg_css/css_a215be1fc23dedb2cb8e6012578a1716_46.css\"\
+        \ />\n  <!--[if lte IE 8]>\n\t  <link rel=\"stylesheet\" type=\"text/css\"\
+        \ href=\"/sites/all/themes/bz2/css/ie.css\" />\n  <![endif]-->\n  <script\
+        \ type=\"text/javascript\" src=\"https://cdn.benzinga.com/files/advagg_js/js_93371b4f360e7a2e99c282c243153417_691.js\"\
+        ></script>\n<script type=\"text/javascript\" src=\"https://cdn.benzinga.com/files/advagg_js/js_3be22b84128a90371f09b182b13144c9_1660.js\"\
+        ></script>\n<script type=\"text/javascript\" src=\"https://cdn.benzinga.com/files/advagg_js/js_1eb46b93fa71c0b26c0053a1493008de_390.js\"\
+        ></script>\n<script type=\"text/javascript\">\n<!--//--><![CDATA[//><!--\n\
+        jQuery.extend(Drupal.settings, {\"basePath\":\"\\/\",\"bz2_site\":{\"base_url\"\
+        :\"https:\\/\\/www.benzinga.com\",\"base_url_protless\":\"\\/\\/www.benzinga.com\"\
+        ,\"base_path\":\"\\/\",\"current_nid\":0,\"is_front\":false},\"drupal\":{\"\
+        arg\":[\"stock-articles\",\"spaq\",\"all\"]},\"bz_partner_widget\":{\"baseUrl\"\
+        :\"https:\\/\\/www.benzinga.com\"},\"bz_social\":{\"fbChannelURL\":\"https:\\\
+        /\\/www.benzinga.com\\/sites\\/all\\/modules\\/custom\\/bz_social\\/misc\\\
+        /fb-channel.html\"},\"bzcustom\":{\"bzcustom_dest\":\"stock-articles\\/spaq\\\
+        /all\",\"signup_popup\":true},\"CToolsUrlIsAjaxTrusted\":{\"\\/user\":[true,true],\"\
+        \\/search\\/fast\":true},\"baseUrl\":\"https:\\/\\/www.benzinga.com\"});\n\
+        //--><!]]>\n</script>\n<script type=\"text/javascript\">\n<!--//--><![CDATA[//><!--\n\
+        !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked){window.console&&console.error&&console.error(\"\
+        Segment snippet included twice.\")}else{analytics.invoked=!0;analytics.methods=[\"\
+        trackSubmit\",\"trackClick\",\"trackLink\",\"trackForm\",\"pageview\",\"identify\"\
+        ,\"reset\",\"group\",\"track\",\"ready\",\"alias\",\"debug\",\"page\",\"once\"\
+        ,\"off\",\"on\"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return\
+        \ analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)};analytics.load=function(t){var\
+        \ e=document.createElement(\"script\");e.type=\"text/javascript\";e.async=!0;e.src=(\"\
+        https:\"===document.location.protocol?\"https://\":\"http://\")+\"cdn.segment.com/analytics.js/v1/\"\
+        +t+\"/analytics.min.js\";var n=document.getElementsByTagName(\"script\")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION=\"\
+        4.0.0\";analytics.load(\"wtomjaowem\")}}();\n//--><!]]>\n</script>\n<script\
+        \ type=\"text/javascript\">\n<!--//--><![CDATA[//><!--\nvar googletag=googletag||{};googletag.cmd=googletag.cmd||[];(function(){var\
+        \ gads=document.createElement('script');gads.async=true;gads.type='text/javascript';var\
+        \ useSSL='https:'==document.location.protocol;gads.src=(useSSL?'https:':'http:')+'//www.googletagservices.com/tag/js/gpt.js';var\
+        \ node=document.getElementsByTagName('script')[0];node.parentNode.insertBefore(gads,node)})();\n\
+        //--><!]]>\n</script>\n<script type=\"text/javascript\">\n<!--//--><![CDATA[//><!--\n\
+        googletag.cmd.push(function(){googletag.defineSlot('/4107070/benzingapro_rightrail',[300,250],'div-gpt-ad-1567612819658-0').addService(googletag.pubads());googletag.defineSlot('/4107070/Benzinga:300x250-Right-Bottom',[300,250],'div-gpt-ad-1346993650129-0').addService(googletag.pubads());googletag.pubads().setTargeting(\"\
+        BZ_USERSESSION_COUNT\",BZ_USERSESSION_COUNT);googletag.pubads().collapseEmptyDivs();googletag.enableServices()});\n\
+        //--><!]]>\n</script>\n    <link rel=\"apple-touch-icon\" sizes=\"180x180\"\
+        \ href=\"/sites/all/themes/bz2/images/favicon-package/apple-touch-icon.png\"\
+        >\n  <link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/sites/all/themes/bz2/images/favicon-package/favicon-32x32.png\"\
+        >\n  <link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/sites/all/themes/bz2/images/favicon-package/favicon-16x16.png\"\
+        >\n  <link rel=\"manifest\" href=\"/sites/all/themes/bz2/images/favicon-package/site.webmanifest\"\
+        >\n  <link rel=\"mask-icon\" href=\"/sites/all/themes/bz2/images/favicon-package/safari-pinned-tab-new.svg\"\
+        \ color=\"#1177BA\">\n  <meta name=\"msapplication-TileColor\" content=\"\
+        #da532c\">\n  <meta name=\"theme-color\" content=\"#ffffff\">\n  <script type=\"\
+        text/javascript\"> </script>\n\n  <!-- Proxima Nova Font -->\n  <link rel=\"\
+        stylesheet\" href=\"https://use.typekit.net/eul5jzm.css\">\n  <!-- end -->\n\
+        </head>\n<body \n  class=\"not-front not-logged-in page-stock-articles no-sidebars\"\
+        \n  data-ng-app=\"bzApp\">\n    <div id=\"bz3-top-banner-header\"></div>\n\
+        <div id=\"bz3-header\">\t\n\t<div id=\"bz3-header-top-wrapper\">\n\t\t<div\
+        \ id=\"bz3-header-top\">\n\t\t  <div id=\"bz3-header-top-links\">\n\t\t  \
+        \  <ul>\n\t\t      <li class=\"benzingapro\">\n\t\t        <a href=\"http://pro.benzinga.com?afmc=4j\"\
+        \ target=\"_blank\"><img src=\"/sites/all/modules/bzads/images/benzinga_logo-new-arrow.png\"\
+        ></a>\n\t\t      </li>\n\t\t      <li class=\"bz-cloud-link\">\n         \
+        \   <a href=\"http://cloud.benzinga.com\" target=\"_blank\" title=\"Benzinga\
+        \ Cloud Financial Data and API Services\">Data &amp; APIs</a>\n          </li>\n\
+        \          <li class=\"bz-events red-hover\">\n            <a href=\"https://www.benzingaevents.com\"\
+        \ target=\"_blank\" title=\"Events\">Events</a>\n          </li>\n       \
+        \   <li class=\"bz-cannabis\">\n            <a href=\"https://www.benzinga.com/cannabis/\"\
+        \ target=\"_blank\" title=\"Cannabis\">Cannabis</a>\n          </li>\n   \
+        \       <li class=\"marketfy\">\n\t\t        <a href=\"http://marketfy.com\"\
+        \ target=\"_blank\">Marketfy</a>\n\t\t      </li>\n          <li class=\"\
+        premarket-prep\">\n            <a href=\"https://www.benzinga.com/premarket-prep/\"\
+        \ target=\"_blank\" title=\"Premarket Prep\">Premarket Prep</a>\n        \
+        \  </li>\n\t\t    </ul>\n\t\t  </div>\n\t  \t<div id=\"bz3-header-top-content\"\
+        >\n                  <div class=\"panel-pane pane-block pane-bz-user-bz-user-login-header\"\
+        \ >\n  \n  \n  \n  <div class=\"pane-content\">\n    <div id=\"registration-modal\"\
+        \ class=\"reveal-modal modal\"><h4 class=\"modal-close\">+</h4><form action=\"\
+        /user\"  accept-charset=\"UTF-8\" method=\"post\" id=\"bz-user-registration-form\"\
+        >\n<div><div class=\"modal-header\">\n                    <div class=\"benzinga-userform-logo\"\
+        >\n                      <img src=\"/sites/all/themes/bz2/images/Benzinga-logo-navy.svg\"\
+        \ alt=\"Benzinga  Logo\">\n                      <hr/>\n                 \
+        \     <p id=\"heading2\">Create your free account</p>\n                  \
+        \    <p>Already have an account?<a href=\"#\" class=\"login-instead\"> Login</a></p>\n\
+        \                      <p id=\"register_error\"></p>\n                   \
+        \ </div>\n                  </div>\n                  <div id=\"registerSection\"\
+        >\n                    <div class=\"validation-wrapper no-need\"><div class=\"\
+        form-item\" id=\"edit-username-wrapper\">\n <label for=\"edit-username\">Name:\
+        \ </label>\n <input type=\"text\" maxlength=\"128\" name=\"username\" id=\"\
+        edit-username\" size=\"60\" value=\"\" class=\"form-text username\" />\n</div>\n\
+        </div><div class=\"validation-wrapper email-validation-wrapper\"><div class=\"\
+        form-item\" id=\"edit-email-wrapper\">\n <label for=\"edit-email\">Email Address:\
+        \ </label>\n <input type=\"text\" maxlength=\"128\" name=\"email\" id=\"edit-email\"\
+        \ size=\"60\" value=\"\" class=\"form-text email register_email\" required=\"\
+        required\" />\n</div>\n</div><div class=\"form-item\" id=\"edit-password-wrapper\"\
+        >\n <label for=\"edit-password\">Password: </label>\n <input type=\"password\"\
+        \ name=\"password\" id=\"edit-password\"  maxlength=\"128\"  size=\"60\" \
+        \ class=\"form-text password register_password\" required=\"required\" />\n\
+        </div>\n<div class=\"form-item\" id=\"edit-more-wrapper\">\n <label for=\"\
+        edit-more\">Leave blank: </label>\n <input type=\"text\" maxlength=\"128\"\
+        \ name=\"more\" id=\"edit-more\" size=\"60\" value=\"\" class=\"form-text\
+        \ hidden more\" />\n</div>\n<input type=\"hidden\" name=\"ready\" id=\"edit-ready\"\
+        \ value=\"0\"  class=\"ready\" />\n<p id=\"terms\">By creating an account,\
+        \ you agree to the<br/><a href=\"/terms-and-conditions\">Terms of Service</a>\
+        \ and acknowledge our <a href=\"/page/privacy\">Privacy Policy</a>.</p><input\
+        \ type=\"submit\" name=\"op\" id=\"edit-submit\" value=\"REGISTER\"  class=\"\
+        form-submit nice green button submit userbtn registerSubmit\" />\n</div><input\
+        \ type=\"hidden\" name=\"form_build_id\" id=\"form-_JJDTZHqOKFiGXwNE4wEfKkxtzAhCc3UoRZNVVkRxd0\"\
+        \ value=\"form-_JJDTZHqOKFiGXwNE4wEfKkxtzAhCc3UoRZNVVkRxd0\"  />\n<input type=\"\
+        hidden\" name=\"form_id\" id=\"edit-bz-user-registration-form\" value=\"bz_user_registration_form\"\
+        \  />\n\n</div></form>\n</div><div id=\"login-modal\" class=\"reveal-modal\
+        \ modal\"><h4 class=\"modal-close\">+</h4><form action=\"/user\"  accept-charset=\"\
+        UTF-8\" method=\"post\" id=\"bz-user-login-form\">\n<div><div class=\"login-content\"\
+        ><div class=\"modal-header\">\n  <div class=\"benzinga-userform-logo\">\n\
+        \    <img src=\"/sites/all/themes/bz2/images/Benzinga-logo-navy.svg\" alt=\"\
+        Benzinga  Logo\">\n    <hr/>\n    <p id=\"heading2\">Log in to your account</p>\n\
+        \  </div>\n</div>\n<div id=\"loginSection\"><div class=\"form-item\" id=\"\
+        edit-username-1-wrapper\">\n <label for=\"edit-username-1\">Email Address:\
+        \ </label>\n <input type=\"text\" maxlength=\"128\" name=\"username\" id=\"\
+        edit-username-1\" size=\"60\" value=\"\" class=\"form-text username login_username\"\
+        \ required=\"required\" />\n</div>\n<div class=\"form-item\" id=\"edit-password-1-wrapper\"\
+        >\n <label for=\"edit-password-1\">Password: </label>\n <input type=\"password\"\
+        \ name=\"password\" id=\"edit-password-1\"  maxlength=\"128\"  size=\"60\"\
+        \  class=\"form-text password login_password\" required=\"required\" />\n\
+        </div>\n<div id=\"checkboxSection\"><div class=\"forgot-link\"><a href=\"\
+        /user/password\">Forgot your password?</a></div></div><input type=\"hidden\"\
+        \ name=\"ready\" id=\"edit-ready-1\" value=\"0\"  class=\"ready\" />\n<input\
+        \ type=\"submit\" name=\"op\" id=\"edit-submit-1\" value=\"LOGIN\"  class=\"\
+        form-submit nice green button submit userbtn loginSubmit\" />\n  <p id=\"\
+        donthave\">Don't have a Benzinga account?<a href=\"#\" class=\"register-instead\"\
+        > Create one</a></p>\n</div>\n</div>\n<input type=\"hidden\" name=\"form_build_id\"\
+        \ id=\"form-4xYKpkRYu5LPGEzwOiZKw1noFwL-gWKyLXKnZi-8s8Y\" value=\"form-4xYKpkRYu5LPGEzwOiZKw1noFwL-gWKyLXKnZi-8s8Y\"\
+        \  />\n<input type=\"hidden\" name=\"form_id\" id=\"edit-bz-user-login-form\"\
+        \ value=\"bz_user_login_form\"  />\n\n</div></form>\n</div><div id=\"login-header-items\"\
+        >  <ul>    <li class=\"second\"><a href=\"/contribute\">Contribute</a></li>\
+        \    <li><a href=\"/user\" id=\"user-login\">Login</a></li>    <li><a href=\"\
+        /user\" id=\"user-register\">Join</a></li>  </ul></div>  </div>\n\n  \n  </div>\n\
+        \              </div> <!-- /bz3-header-top-content -->\n    </div> <!-- /bz3-header-top\
+        \ -->\n  </div> <!-- /bz3-header-top-wrapper -->\n  <div id=\"bz3-header-menu-wrapper\"\
+        >\n    <div id=\"bz3-header-menu\">\n      <div id=\"bz-logo\"><a href=\"\
+        /\"><img src='/sites/all/themes/bz2/images/Benzinga-logo-navy.svg'></img></a></div>\n\
+        \t\t          <div class=\"panel-pane pane-block pane-menu-block-3\" >\n \
+        \ \n  \n  \n  <div class=\"pane-content\">\n    <div class=\"menu-block-3\
+        \ menu-name-menu-v3-main parent-mlid-0 menu-level-1\">\n  <ul class=\"menu\"\
+        ><li class=\"expanded first menu-mlid-878822 news\"><a href=\"/news\" title=\"\
+        All corporate News\"><span>News</span></a><ul class=\"menu\"><li class=\"\
+        leaf first menu-mlid-878845 earnings\"><a href=\"/news/earnings\" title=\"\
+        \"><span>Earnings</span></a></li>\n<li class=\"leaf menu-mlid-878846 guidance\"\
+        ><a href=\"/news/guidance\" title=\"\"><span>Guidance</span></a></li>\n<li\
+        \ class=\"leaf menu-mlid-878848 dividends\"><a href=\"/news/dividends\" title=\"\
+        \"><span>Dividends</span></a></li>\n<li class=\"leaf menu-mlid-878868 ma\"\
+        ><a href=\"/m-a\" title=\"\"><span>M&A</span></a></li>\n<li class=\"leaf menu-mlid-878862\
+        \ buybacks\"><a href=\"/news/buybacks\" title=\"\"><span>Buybacks</span></a></li>\n\
+        <li class=\"leaf menu-mlid-878836 legal\"><a href=\"/news/legal\" title=\"\
+        \"><span>Legal</span></a></li>\n<li class=\"leaf menu-mlid-1056501 interviews\"\
+        ><a href=\"/interview\" title=\"\"><span>Interviews</span></a></li>\n<li class=\"\
+        leaf menu-mlid-878860 management\"><a href=\"/news/management\" title=\"\"\
+        ><span>Management</span></a></li>\n<li class=\"leaf menu-mlid-878838 retailsales\"\
+        ><a href=\"/news/retail-sales\" title=\"\"><span>Retail Sales</span></a></li>\n\
+        <li class=\"leaf menu-mlid-878844 offerings\"><a href=\"/news/offerings\"\
+        \ title=\"\"><span>Offerings</span></a></li>\n<li class=\"leaf menu-mlid-878839\
+        \ ipos\"><a href=\"/news/ipos\" title=\"\"><span>IPOs</span></a></li>\n<li\
+        \ class=\"leaf menu-mlid-878861 insidertrades\"><a href=\"/news/insider-trades\"\
+        \ title=\"\"><span>Insider Trades</span></a></li>\n<li class=\"leaf menu-mlid-878863\
+        \ biotechfda\"><a href=\"/news/fda\" title=\"\"><span>Biotech/FDA</span></a></li>\n\
+        <li class=\"leaf menu-mlid-1335263 freight\"><a href=\"/topic/freight\" title=\"\
+        \" class=\"freight-menu\"><span>Freight<span class=\"freight-menu-logo\"></span></span></a></li>\n\
+        <li class=\"leaf last menu-mlid-878821 tech\"><a href=\"/tech\" title=\"\"\
+        ><span>Tech</span></a></li>\n</ul></li>\n<li class=\"expanded menu-mlid-878820\
+        \ markets\"><a href=\"/markets\" title=\"\"><span>Markets</span></a><ul class=\"\
+        menu\"><li class=\"leaf first menu-mlid-878853 premarket\"><a href=\"/pre-market-outlook\"\
+        \ title=\"\"><span>Pre-Market</span></a></li>\n<li class=\"leaf menu-mlid-878850\
+        \ afterhours\"><a href=\"/after-hours-center\" title=\"\"><span>After Hours</span></a></li>\n\
+        <li class=\"leaf menu-mlid-878849 movers\"><a href=\"/movers\" title=\"\"\
+        ><span>Movers</span></a></li>\n<li class=\"leaf menu-mlid-878867 etfs\"><a\
+        \ href=\"/etfs\" title=\"\"><span>ETFs</span></a></li>\n<li class=\"leaf menu-mlid-878851\
+        \ forex\"><a href=\"/markets/forex\" title=\"\"><span>Forex</span></a></li>\n\
+        <li class=\"leaf menu-mlid-1304452 cannabis\"><a href=\"/cannabis\" title=\"\
+        \" class=\"menu-cannabis-NFD\"><span>Cannabis</span></a></li>\n<li class=\"\
+        leaf menu-mlid-878858 commodities\"><a href=\"/markets/commodities\" title=\"\
+        \"><span>Commodities</span></a></li>\n<li class=\"leaf menu-mlid-878835 options\"\
+        ><a href=\"/markets/options\" title=\"\"><span>Options</span></a></li>\n<li\
+        \ class=\"leaf menu-mlid-1034073 binaryoptions\"><a href=\"/markets/binary-options\"\
+        \ title=\"\"><span>Binary Options</span></a></li>\n<li class=\"leaf menu-mlid-878829\
+        \ bonds\"><a href=\"/markets/bonds\" title=\"\"><span>Bonds</span></a></li>\n\
+        <li class=\"leaf menu-mlid-878832 futures\"><a href=\"/markets/futures\" title=\"\
+        \"><span>Futures</span></a></li>\n<li class=\"leaf menu-mlid-878837 globaleconomics\"\
+        ><a href=\"/economics\" title=\"\"><span>Global Economics</span></a></li>\n\
+        <li class=\"leaf menu-mlid-878866 previews\"><a href=\"/trading-ideas/previews\"\
+        \ title=\"\"><span>Previews</span></a></li>\n<li class=\"leaf menu-mlid-878852\
+        \ reviews\"><a href=\"/reviews\" title=\"\"><span>Reviews</span></a></li>\n\
+        <li class=\"leaf menu-mlid-878823 smallcap\"><a href=\"/news/small-cap\" title=\"\
+        \"><span>Small-Cap</span></a></li>\n<li class=\"leaf menu-mlid-1268115 cryptocurrency\"\
+        ><a href=\"/markets/cryptocurrency\" title=\"\"><span>Cryptocurrency</span></a></li>\n\
+        <li class=\"leaf last menu-mlid-1366417 pennystocks\"><a href=\"/topic/penny-stocks\"\
+        \ title=\"\"><span>Penny Stocks</span></a></li>\n</ul></li>\n<li class=\"\
+        expanded menu-mlid-878827 ratings\"><a href=\"/analyst-ratings\" title=\"\"\
+        ><span>Ratings</span></a><ul class=\"menu\"><li class=\"leaf first menu-mlid-878830\
+        \ analystcolor\"><a href=\"/analyst-ratings/analyst-color\" title=\"\"><span>Analyst\
+        \ Color</span></a></li>\n<li class=\"leaf menu-mlid-878833 downgrades\"><a\
+        \ href=\"/analyst-ratings/downgrades\" title=\"\"><span>Downgrades</span></a></li>\n\
+        <li class=\"leaf menu-mlid-878834 upgrades\"><a href=\"/analyst-ratings/upgrades\"\
+        \ title=\"\"><span>Upgrades</span></a></li>\n<li class=\"leaf menu-mlid-878831\
+        \ initiations\"><a href=\"/analyst-ratings/initiation\" title=\"\"><span>Initiations</span></a></li>\n\
+        <li class=\"leaf last menu-mlid-878828 pricetarget\"><a href=\"/analyst-ratings/price-target\"\
+        \ title=\"\"><span>Price Target</span></a></li>\n</ul></li>\n<li class=\"\
+        expanded menu-mlid-878825 ideas\"><a href=\"/trading-ideas\" title=\"Trading-Ideas\"\
+        ><span>Ideas</span></a><ul class=\"menu\"><li class=\"leaf first menu-mlid-1413425\
+        \ catalyst\"><a href=\"/catalyst\" title=\"\"><span>Catalyst</span></a></li>\n\
+        <li class=\"leaf menu-mlid-878859 longideas\"><a href=\"/trading-ideas/long-ideas\"\
+        \ title=\"\"><span>Long Ideas</span></a></li>\n<li class=\"leaf menu-mlid-878865\
+        \ shortideas\"><a href=\"/trading-ideas/short-ideas\" title=\"\"><span>Short\
+        \ Ideas</span></a></li>\n<li class=\"leaf menu-mlid-878842 technicals\"><a\
+        \ href=\"/trading-ideas/technicals\" title=\"\"><span>Technicals</span></a></li>\n\
+        <li class=\"leaf menu-mlid-878864 fromthepress\"><a href=\"/media\" title=\"\
+        \"><span>From The Press</span></a></li>\n<li class=\"leaf menu-mlid-878843\
+        \ jimcramer\"><a href=\"/media/jim-cramer\" title=\"\"><span>Jim Cramer</span></a></li>\n\
+        <li class=\"leaf last menu-mlid-878841 rumors\"><a href=\"/news/rumors\" title=\"\
+        \"><span>Rumors</span></a></li>\n</ul></li>\n<li class=\"leaf menu-mlid-1120140\
+        \ fintech\"><a href=\"/fintech\" title=\"\"><span>Fintech</span></a></li>\n\
+        <li class=\"expanded menu-mlid-1369730 investing\"><a href=\"http://www.benzinga.com/money/\"\
+        \ title=\"\"><span>Investing</span></a><ul class=\"menu\"><li class=\"leaf\
+        \ first menu-mlid-1403009 bestonlinebrokers\"><a href=\"https://www.benzinga.com/money/best-online-brokerage\"\
+        \ title=\"Best Online Brokers\"><span>Best Online Brokers</span></a></li>\n\
+        <li class=\"leaf menu-mlid-1060619 personalfinance\"><a href=\"/personal-finance\"\
+        \ title=\"\"><span>Personal Finance</span></a></li>\n<li class=\"leaf menu-mlid-1403010\
+        \ comparebrokers\"><a href=\"https://www.benzinga.com/money/compare-online-brokers/\"\
+        \ title=\"\"><span>Compare Brokers</span></a></li>\n<li class=\"leaf menu-mlid-1487868\
+        \ webull\"><a href=\"https://www.benzinga.com/money/webull-review\" title=\"\
+        \"><span>Webull</span></a></li>\n<li class=\"leaf menu-mlid-1403005 binaryoptionsreview\"\
+        ><a href=\"https://www.benzinga.com/money/nadex-review/\" title=\"\"><span>Binary\
+        \ Options Review</span></a></li>\n<li class=\"leaf menu-mlid-1487867 etoro\"\
+        ><a href=\"https://www.benzinga.com/money/etoro-review\" title=\"\"><span>eToro</span></a></li>\n\
+        <li class=\"leaf menu-mlid-1403012 eoption\"><a href=\"https://www.benzinga.com/money/eoption-review/\"\
+        \ title=\"eOption Review\"><span>eOption</span></a></li>\n<li class=\"leaf\
+        \ menu-mlid-1403007 forexcomreview\"><a href=\"https://www.benzinga.com/money/best-forex-broker/\"\
+        \ title=\"Best Forex Broker\"><span>Forex.com Review</span></a></li>\n<li\
+        \ class=\"leaf menu-mlid-1403006 interactivebrokersreview\"><a href=\"https://www.benzinga.com/money/interactive-brokers-review/\"\
+        \ title=\"Interactive Brokers Review\"><span>Interactive Brokers Review</span></a></li>\n\
+        <li class=\"leaf menu-mlid-1403001 personalcapitalreview\"><a href=\"https://www.benzinga.com/money/personal-capital-review/\"\
+        \ title=\"\"><span>Personal Capital Review</span></a></li>\n<li class=\"leaf\
+        \ menu-mlid-1403000 suretraderreview\"><a href=\"https://www.benzinga.com/money/suretrader-review/\"\
+        \ title=\"Suretrader Review\"><span>Suretrader Review</span></a></li>\n<li\
+        \ class=\"leaf menu-mlid-1403002 tdameritradereview\"><a href=\"https://www.benzinga.com/money/td-ameritrade-review/\"\
+        \ title=\"\"><span>TD Ameritrade Review</span></a></li>\n<li class=\"leaf\
+        \ menu-mlid-1403003 tradestationreview\"><a href=\"https://www.benzinga.com/money/tradestation-review/\"\
+        \ title=\"\"><span>Tradestation Review</span></a></li>\n<li class=\"leaf menu-mlid-1403004\
+        \ yewnoedgereview\"><a href=\"https://www.benzinga.com/money/yewno-edge-review/\"\
+        \ title=\"Yewno|Edge Review\"><span>Yewno|Edge Review</span></a></li>\n<li\
+        \ class=\"leaf menu-mlid-1481618 masterworksreview\"><a href=\"https://www.benzinga.com/money/masterworks-review/\"\
+        \ title=\"Masterworks Review\"><span>Masterworks Review</span></a></li>\n\
+        <li class=\"leaf last menu-mlid-1481547 bestpennystocks\"><a href=\"https://www.benzinga.com/money/best-penny-stocks/\"\
+        \ title=\"Best Penny Stocks\"><span>Best Penny Stocks</span></a></li>\n</ul></li>\n\
+        <li class=\"leaf menu-mlid-1373052 cannabis\"><a href=\"/cannabis\" title=\"\
+        \"><span>Cannabis</span></a></li>\n<li class=\"expanded menu-mlid-1436065\
+        \ education\"><a href=\"/education/cme-group/courses\" title=\"Education\"\
+        ><span>Education</span></a><ul class=\"menu\"><li class=\"leaf first menu-mlid-1422997\
+        \ educationnews\"><a href=\"https://www.benzinga.com/topic/education\" title=\"\
+        Education News\"><span>Education News</span></a></li>\n<li class=\"leaf menu-mlid-1422993\
+        \ forextrading\"><a href=\"https://www.benzinga.com/money/best-forex-trading-courses/\"\
+        \ title=\"Forex Trading\"><span>Forex Trading</span></a></li>\n<li class=\"\
+        leaf menu-mlid-1422994 infocusnewsletter\"><a href=\"https://activetrader.cmegroup.com/offers/infocus?utm_source=benzinga&amp;utm_medium=hyperlink&amp;utm_campaign=distribution\"\
+        \ title=\"InFOCUS Newsletter\"><span>InFOCUS Newsletter</span></a></li>\n\
+        <li class=\"leaf menu-mlid-1422992 onlineinvesting\"><a href=\"https://www.benzinga.com/money/best-online-investing-courses/\"\
+        \ title=\"Online Investing\"><span>Online Investing</span></a></li>\n<li class=\"\
+        leaf menu-mlid-1422995 optionstrading\"><a href=\"https://www.benzinga.com/money/options-trading-course/\"\
+        \ title=\"Options Trading\"><span>Options Trading</span></a></li>\n<li class=\"\
+        leaf last menu-mlid-1422996 practicesimulator\"><a href=\"https://www.cmegroup.com/education/practice.html?utm_source=benzinga&amp;utm_medium=hyperlink&amp;utm_campaign=distribution\"\
+        \ title=\"Practice Simulator\"><span>Practice Simulator</span></a></li>\n\
+        </ul></li>\n<li class=\"leaf last menu-mlid-1328712 premium\"><a href=\"https://www.benzinga.com/premium-products\"\
+        \ title=\"All premium products\" class=\"premium-product-button\"><span>Premium</span></a></li>\n\
+        </ul></div>\n  </div>\n\n  \n  </div>\n            <br style=\"clear: both;\"\
+        \ />\n    </div>\n  </div>\n      <div id=\"bz3-header-messages-wrapper\"\
+        >\n          </div>\n  </div>\n<div class=\"panel-region-separator\"></div><div\
+        \ id=\"bz3-tickerheader-wrapper\">\n  <div id=\"bz3-tickerheader\">\n    \
+        \      <div class=\"market-overview\">\n        <div class=\"panel-pane pane-block\
+        \ pane-bz-custom-bz-custom-market-overview\" >\n  \n      <h2 class=\"pane-title\"\
+        >Market Overview</h2>\n  \n  \n  <div class=\"pane-content\">\n    \n  <div\
+        \ id=\"market-overview-block\">\n  </div>\n    </div>\n\n  \n  </div>\n  \
+        \    </div>\n            <div class=\"block-head-items\">\n      <div class=\"\
+        panel-pane pane-bz2-site-search-new\" >\n  \n  \n  \n  <div class=\"pane-content\"\
+        >\n    <div class=\"block-ticker-search\"><form action=\"/search/fast\"  accept-charset=\"\
+        UTF-8\" method=\"get\" id=\"bz-custom-search-form\">\n<div><input type=\"\
+        hidden\" name=\"cx\" id=\"edit-cx\" value=\"005794925877256802002:ckazbf3vrxs\"\
+        \  />\n<input type=\"hidden\" name=\"cof\" id=\"edit-cof\" value=\"FORID:11\"\
+        \  />\n<div class=\"form-item\" id=\"edit-query-wrapper\">\n <input type=\"\
+        text\" maxlength=\"128\" name=\"query\" id=\"edit-query\" size=\"20\" value=\"\
+        \" placeholder=\"Tickers, Articles &amp; Keywords\" class=\"form-text\" />\n\
+        </div>\n<div id=\"custom-search-results\"><div class=\"seperator\"><h2>Tickers</h2></div><div\
+        \ class=\"tickers\"></div><div class=\"seperator\"><h2>Articles</h2></div><div\
+        \ class=\"stories\"></div><div class=\"seperator\"><h2>Keywords</h2></div><div\
+        \ class=\"keywords\"><div class=\"item\"><div class=\"title\">Search by keyword...</div><span\
+        \ class=\"link\">googlecse</span></div></div></div><button type=\"submit\"\
+        \ style=\"font-family:iconic\">&#xe810;</button><input type=\"hidden\" name=\"\
+        form_build_id\" id=\"form-ooYcmUlKxWKm2xN0HJ-SVChkEytdQvi9G_l7Dswezdo\" value=\"\
+        form-ooYcmUlKxWKm2xN0HJ-SVChkEytdQvi9G_l7Dswezdo\"  />\n<input type=\"hidden\"\
+        \ name=\"form_id\" id=\"edit-bz-custom-search-form\" value=\"bz_custom_search_form\"\
+        \  />\n\n</div></form>\n</div>  </div>\n\n  \n  </div>\n    </div>\n     \
+        \   <div class=\"enddiv\"></div>\n  </div> <!-- bz3-tickerheader -->\n</div>\
+        \ <!-- bz3-tickerheader-wrapper -->\n\n<div id=\"benzinga-main-wrapper\">\n\
+        \  <div id=\"benzinga-main\">\n    <div class=\"benzinga-content\">\n    \
+        \  <div id=\"benzinga-article-area\" >\n                  <h1>\n         \
+        \    (:) Stock Quotes and News          </h1>\n                <div id=\"\
+        benzinga-content-bar\">\n          <div class=\"panel-pane pane-bz2-tickers-menu\"\
+        \ >\n  \n  \n  \n  <div class=\"pane-content\">\n    <ul><li class=\"header\"\
+        >More From </li><li class=\"\"><a href=\"/stock/spaq\">Summary</a></li><li\
+        \ class=\"\"><a href=\"/stock-articles/spaq/trading-ideas\">Ideas</a></li><li\
+        \ class=\"\"><a href=\"/stock/twitter/spaq\">Twitter ($)</a></li><li class=\"\
+        active\"><a href=\"/stock-articles/spaq/all\" class=\"active\">All News</a></li><li\
+        \ class=\"header\">Analyst Coverage</li><li class=\"\"><a href=\"/stock/spaq/ratings\"\
+        >Analyst Ratings</a></li><li class=\"\"><a href=\"/stock-articles/spaq/analyst-ratings\"\
+        >News Coverage</a></li><li class=\"header\">News</li><li class=\"\"><a href=\"\
+        /stock-articles/spaq/news\">General</a></li><li class=\"\"><a href=\"/stock-articles/spaq/contracts\"\
+        >Contracts</a></li><li class=\"\"><a href=\"/stock-articles/spaq/dividends\"\
+        >Dividend Summaries</a></li><li class=\"\"><a href=\"/stock/spaq/dividends\"\
+        >Dividend Calendar</a></li><li class=\"\"><a href=\"/stock-articles/spaq/events\"\
+        >Events</a></li><li class=\"\"><a href=\"/stock-articles/spaq/fda\">FDA</a></li><li\
+        \ class=\"\"><a href=\"/stock-articles/spaq/m%2526a\">M&amp;A</a></li><li\
+        \ class=\"\"><a href=\"/stock-articles/spaq/offerings\">Offerings</a></li><li\
+        \ class=\"\"><a href=\"/stock-articles/spaq/stock-split\">Stock Split</a></li><li\
+        \ class=\"\"><a href=\"/stock-articles/spaq/media\">Media</a></li><li class=\"\
+        \"><a href=\"/stock-articles/spaq/buybacks\">Buybacks</a></li><li class=\"\
+        \"><a href=\"/stock-articles/spaq/insider-trades\">Insider Trades</a></li><li\
+        \ class=\"\"><a href=\"/stock-articles/spaq/press-releases\">Press Releases</a></li><li\
+        \ class=\"header\">Earnings</li><li class=\"\"><a href=\"/stock-articles/spaq/earnings\"\
+        >Earning Summaries</a></li><li class=\"\"><a href=\"/stock/spaq/earnings\"\
+        >Earnings Calendar</a></li><li class=\"\"><a href=\"/stock-articles/spaq/guidance\"\
+        >Guidance Summaries</a></li></ul>  </div>\n\n  \n  </div>\n        </div>\n\
+        \        <div id=\"benzinga-content-area\">\n          <div class=\"panel-pane\
+        \ pane-page-content\" >\n  \n  \n  \n  <div class=\"pane-content\">\n    <div\
+        \ class=\"view view-stocks-stories view-id-stocks_stories view-display-id-page_1\
+        \ stock-stories-page view-dom-id-1\">\n    \n  \n  \n      <div class=\"view-content\"\
+        >\n      <div class=\"item-list\">\n      <h3>Friday, July 10, 2020</h3>\n\
+        \    <ul>\n          <li class=\"views-row views-row-1 views-row-odd views-row-first\"\
+        >  \n  <div class=\"views-field-title\">\n                <span class=\"field-content\"\
+        ><a href=\"/news/20/07/16586451/stocks-that-hit-52-week-highs-on-friday\"\
+        >Stocks That Hit 52-Week Highs On Friday</a> <span class=\"greyed\">(<a href=\"\
+        /stock/aeye\">AEYE</a>, <a href=\"/stock/alrm\">ALRM</a>, <a href=\"/stock/amzn\"\
+        >AMZN</a>, <a href=\"/stock/asml\">ASML</a>, <a href=\"/stock/atvi\">ATVI</a>,\
+        \ <a href=\"/stock/axnx\">AXNX</a>, <a href=\"/stock/azre\">AZRE</a>, <a href=\"\
+        /stock/bst\">BST</a>, <a href=\"/stock/cag\">CAG</a>, <a href=\"/stock/cdns\"\
+        >CDNS</a>, <a href=\"/stock/cffa\">CFFA</a>, <a href=\"/stock/chd\">CHD</a>,\
+        \ <a href=\"/stock/chgg\">CHGG</a>, <a href=\"/stock/clct\">CLCT</a>, <a href=\"\
+        /stock/clx\">CLX</a>, <a href=\"/stock/coup-0\">COUP</a>, <a href=\"/stock/cytk\"\
+        >CYTK</a>, <a href=\"/stock/dmyt\">DMYT</a>, <a href=\"/stock/doyu\">DOYU</a>,\
+        \ <a href=\"/stock/dt\">DT</a>, <a href=\"/stock/ea\">EA</a>, <a href=\"/stock/edu\"\
+        >EDU</a>, <a href=\"/stock/educ\">EDUC</a>, <a href=\"/stock/epam\">EPAM</a>,\
+        \ <a href=\"/stock/ftac\">FTAC</a>, <a href=\"/stock/ftch\">FTCH</a>, <a href=\"\
+        /stock/fvrr\">FVRR</a>, <a href=\"/stock/gfi\">GFI</a>, <a href=\"/stock/gix\"\
+        >GIX</a>, <a href=\"/stock/gsx\">GSX</a>, <a href=\"/stock/hcco\">HCCO</a>,\
+        \ <a href=\"/stock/hear\">HEAR</a>, <a href=\"/stock/hl\">HL</a>, <a href=\"\
+        /stock/hmi\">HMI</a>, <a href=\"/stock/hmy\">HMY</a>, <a href=\"/stock/immu\"\
+        >IMMU</a>, <a href=\"/stock/itmr\">ITMR</a>, <a href=\"/stock/jakk\">JAKK</a>,\
+        \ <a href=\"/stock/logi\">LOGI</a>, <a href=\"/stock/lscc\">LSCC</a>, <a href=\"\
+        /stock/lvgo\">LVGO</a>, <a href=\"/stock/mpwr\">MPWR</a>, <a href=\"/stock/mrvl\"\
+        >MRVL</a>, <a href=\"/stock/mtsi\">MTSI</a>, <a href=\"/stock/neo-0\">NEO</a>,\
+        \ <a href=\"/stock/net\">NET</a>, <a href=\"/news\">News</a>, <a href=\"/stock/nflx\"\
+        >NFLX</a>, <a href=\"/stock/nio-1\">NIO</a>, <a href=\"/stock/nvda\">NVDA</a>,\
+        \ <a href=\"/stock/ocft\">OCFT</a>, <a href=\"/stock/ospn\">OSPN</a>, <a href=\"\
+        /stock/ostk\">OSTK</a>, <a href=\"/stock/pcrx\">PCRX</a>, <a href=\"/topic/penny-stocks\"\
+        >Penny Stocks</a>, <a href=\"/stock/prts\">PRTS</a>, <a href=\"/stock/ptac\"\
+        >PTAC</a>, <a href=\"/stock/pton\">PTON</a>, <a href=\"/stock/qgen\">QGEN</a>,\
+        \ <a href=\"/stock/qtwo-0\">QTWO</a>, <a href=\"/stock/reto\">RETO</a>, <a\
+        \ href=\"/stock/rng\">RNG</a>, <a href=\"/stock/sa\">SA</a>, <a href=\"/stock/saia\"\
+        >SAIA</a>, <a href=\"/stock/scpl\">SCPL</a>, <a href=\"/stock/slp\">SLP</a>,\
+        \ <a href=\"/stock/spaq\">SPAQ</a>, <a href=\"/stock/splk\">SPLK</a>, <a href=\"\
+        /stock/strt\">STRT</a>, <a href=\"/stock/tdoc\">TDOC</a>, <a href=\"/stock/trne\"\
+        >TRNE</a>, <a href=\"/stock/tsco\">TSCO</a>, <a href=\"/stock/ttwo\">TTWO</a>,\
+        \ <a href=\"/stock/umrx\">UMRX</a>, <a href=\"/stock/vapo\">VAPO</a>, <a href=\"\
+        /stock/vips\">VIPS</a>, <a href=\"/stock/wimi\">WIMI</a>, <a href=\"/stock/yndx\"\
+        >YNDX</a>, <a href=\"/stock/zm\">ZM</a>, <a href=\"/stock/zyxi\">ZYXI</a>,\
+        \ <a href=\"/intraday-update\">Intraday Update</a>, <a href=\"/markets\">Markets</a>,\
+        \ <a href=\"/movers\">Movers</a>, <a href=\"/trading-ideas\">Trading Ideas</a>\
+        \ / Fri, 09:28am)</span></span>\n  </div>\n</li>\n          <li class=\"views-row\
+        \ views-row-2 views-row-even\">  \n  <div class=\"views-field-title\">\n \
+        \               <span class=\"field-content\"><a href=\"/pre-market-outlook/20/07/16583612/6-financial-services-stocks-moving-in-fridays-pre-market-session\"\
+        >6 Financial Services Stocks Moving In Friday&#039;s Pre-Market Session</a>\
+        \ <span class=\"greyed\">(<a href=\"/stock/afh\">AFH</a>, <a href=\"/stock/aihs\"\
+        >AIHS</a>, <a href=\"/stock/dnjr\">DNJR</a>, <a href=\"/stock/hx\">HX</a>,\
+        \ <a href=\"/stock/lfc\">LFC</a>, <a href=\"/stock/spaq\">SPAQ</a>, <a href=\"\
+        /pre-market-outlook\">Pre-Market Outlook</a>, <a href=\"/markets\">Markets</a>,\
+        \ <a href=\"/movers\">Movers</a>, <a href=\"/trading-ideas\">Trading Ideas</a>\
+        \ / Fri, 06:37am)</span></span>\n  </div>\n</li>\n          <li class=\"views-row\
+        \ views-row-3 views-row-odd\">  \n  <div class=\"views-field-title\">\n  \
+        \              <span class=\"field-content\"><a href=\"/news/20/07/16583529/32-stocks-moving-in-fridays-pre-market-session\"\
+        >32 Stocks Moving in Friday&#039;s Pre-Market Session</a> <span class=\"greyed\"\
+        >(<a href=\"/stock/azek\">AZEK</a>, <a href=\"/stock/bhat\">BHAT</a>, <a href=\"\
+        /stock/bngo\">BNGO</a>, <a href=\"/stock/boxl\">BOXL</a>, <a href=\"/stock/brbr\"\
+        >BRBR</a>, <a href=\"/stock/cntg\">CNTG</a>, <a href=\"/stock/dlpn\">DLPN</a>,\
+        \ <a href=\"/stock/dnjr\">DNJR</a>, <a href=\"/stock/dss\">DSS</a>, <a href=\"\
+        /stock/elgx\">ELGX</a>, <a href=\"/stock/gbx\">GBX</a>, <a href=\"/stock/hhs\"\
+        >HHS</a>, <a href=\"/stock/hht\">HHT</a>, <a href=\"/stock/igt\">IGT</a>,\
+        \ <a href=\"/stock/matx\">MATX</a>, <a href=\"/stock/nak\">NAK</a>, <a href=\"\
+        /news\">News</a>, <a href=\"/stock/nio-1\">NIO</a>, <a href=\"/stock/novn\"\
+        >NOVN</a>, <a href=\"/stock/obsv\">OBSV</a>, <a href=\"/topic/penny-stocks\"\
+        >Penny Stocks</a>, <a href=\"/stock/phio\">PHIO</a>, <a href=\"/stock/psmt\"\
+        >PSMT</a>, <a href=\"/stock/psv\">PSV</a>, <a href=\"/stock/qep\">QEP</a>,\
+        \ <a href=\"/stock/resn\">RESN</a>, <a href=\"/stock/slp\">SLP</a>, <a href=\"\
+        /stock/snss\">SNSS</a>, <a href=\"/stock/spaq\">SPAQ</a>, <a href=\"/stock/umrx\"\
+        >UMRX</a>, <a href=\"/stock/wafu\">WAFU</a>, <a href=\"/stock/wdfc\">WDFC</a>,\
+        \ <a href=\"/stock/wimi\">WIMI</a>, <a href=\"/stock/ziop\">ZIOP</a>, <a href=\"\
+        /pre-market-outlook\">Pre-Market Outlook</a>, <a href=\"/markets\">Markets</a>,\
+        \ <a href=\"/movers\">Movers</a>, <a href=\"/trading-ideas\">Trading Ideas</a>\
+        \ / Fri, 06:20am)</span></span>\n  </div>\n</li>\n          <li class=\"views-row\
+        \ views-row-4 views-row-even\">  \n  <div class=\"views-field-title\">\n \
+        \               <span class=\"field-content\"><a href=\"/news/20/07/16582304/58-biggest-movers-from-yesterday\"\
+        >58 Biggest Movers From Yesterday</a> <span class=\"greyed\">(<a href=\"/stock/acer\"\
+        >ACER</a>, <a href=\"/stock/agfs\">AGFS</a>, <a href=\"/stock/aldx\">ALDX</a>,\
+        \ <a href=\"/stock/alt\">ALT</a>, <a href=\"/stock/anvs\">ANVS</a>, <a href=\"\
+        /stock/artw\">ARTW</a>, <a href=\"/stock/azz\">AZZ</a>, <a href=\"/stock/bbby\"\
+        >BBBY</a>, <a href=\"/stock/bgi\">BGI</a>, <a href=\"/stock/blct\">BLCT</a>,\
+        \ <a href=\"/stock/bvxv\">BVXV</a>, <a href=\"/stock/clsk\">CLSK</a>, <a href=\"\
+        /stock/cpsh\">CPSH</a>, <a href=\"/stock/ctek\">CTEK</a>, <a href=\"/stock/dlpn\"\
+        >DLPN</a>, <a href=\"/stock/dss\">DSS</a>, <a href=\"/stock/eq\">EQ</a>, <a\
+        \ href=\"/stock/exfo\">EXFO</a>, <a href=\"/stock/ftch\">FTCH</a>, <a href=\"\
+        /stock/graf\">GRAF</a>, <a href=\"/stock/hofv\">HOFV</a>, <a href=\"/stock/husn\"\
+        >HUSN</a>, <a href=\"/stock/idex\">IDEX</a>, <a href=\"/stock/inmb\">INMB</a>,\
+        \ <a href=\"/stock/jrjc\">JRJC</a>, <a href=\"/stock/klr\">KLR</a>, <a href=\"\
+        /stock/lca\">LCA</a>, <a href=\"/stock/mhk\">MHK</a>, <a href=\"/stock/mict\"\
+        >MICT</a>, <a href=\"/stock/myos\">MYOS</a>, <a href=\"/stock/new-0\">NEW</a>,\
+        \ <a href=\"/news\">News</a>, <a href=\"/stock/ngg\">NGG</a>, <a href=\"/stock/nnvc\"\
+        >NNVC</a>, <a href=\"/stock/ntes\">NTES</a>, <a href=\"/stock/nuze\">NUZE</a>,\
+        \ <a href=\"/stock/ocft\">OCFT</a>, <a href=\"/stock/osmt\">OSMT</a>, <a href=\"\
+        /stock/otic\">OTIC</a>, <a href=\"/stock/pbts\">PBTS</a>, <a href=\"/topic/penny-stocks\"\
+        >Penny Stocks</a>, <a href=\"/stock/pfsw\">PFSW</a>, <a href=\"/stock/phio\"\
+        >PHIO</a>, <a href=\"/stock/plce\">PLCE</a>, <a href=\"/stock/prta-0\">PRTA</a>,\
+        \ <a href=\"/stock/qd\">QD</a>, <a href=\"/stock/rrgb\">RRGB</a>, <a href=\"\
+        /stock/sino\">SINO</a>, <a href=\"/stock/sogo\">SOGO</a>, <a href=\"/stock/spaq\"\
+        >SPAQ</a>, <a href=\"/stock/spce\">SPCE</a>, <a href=\"/stock/tisi\">TISI</a>,\
+        \ <a href=\"/stock/txac\">TXAC</a>, <a href=\"/stock/uone\">UONE</a>, <a href=\"\
+        /stock/vcnx\">VCNX</a>, <a href=\"/stock/veri\">VERI</a>, <a href=\"/stock/watt\"\
+        >WATT</a>, <a href=\"/stock/wba\">WBA</a>, <a href=\"/stock/wter\">WTER</a>,\
+        \ <a href=\"/stock/yrcw\">YRCW</a>, <a href=\"/pre-market-outlook\">Pre-Market\
+        \ Outlook</a>, <a href=\"/markets\">Markets</a>, <a href=\"/movers\">Movers</a>,\
+        \ <a href=\"/trading-ideas\">Trading Ideas</a> / Fri, 04:07am)</span></span>\n\
+        \  </div>\n</li>\n          <li class=\"views-row views-row-5 views-row-odd\
+        \ views-row-last\">  \n  <div class=\"views-field-title\">\n             \
+        \   <span class=\"field-content\"><a href=\"/m-a/20/07/16581136/electric-vehicle-maker-fisker-plans-to-go-public-in-similar-fashion-to-rival-nikola-report\"\
+        >Electric Vehicle Maker Fisker Plans To Go Public In Similar Fashion To Rival\
+        \ Nikola: Report</a> <span class=\"greyed\">(<a href=\"/stock/apo\">APO</a>,\
+        \ <a href=\"/m-a\">M&amp;A</a>, <a href=\"/news\">News</a>, <a href=\"/stock/nkla\"\
+        >NKLA</a>, <a href=\"/stock/spaq\">SPAQ</a>, <a href=\"/stock/tsla\">TSLA</a>,\
+        \ <a href=\"/news/ipos\">IPOs</a>, <a href=\"/tech\">Tech</a>, <a href=\"\
+        /media\">Media</a> / Fri, 04:05am)</span></span>\n  </div>\n</li>\n      </ul>\n\
+        </div><div class=\"item-list\">\n      <h3>Monday, July 06, 2020</h3>\n  \
+        \  <ul>\n          <li class=\"views-row views-row-1 views-row-odd views-row-first\
+        \ views-row-last\">  \n  <div class=\"views-field-title\">\n             \
+        \   <span class=\"field-content\"><a href=\"/news/20/07/16520981/stocks-that-hit-52-week-highs-on-monday\"\
+        >Stocks That Hit 52-Week Highs On Monday</a> <span class=\"greyed\">(<a href=\"\
+        /stock/aapl\">AAPL</a>, <a href=\"/stock/acmr\">ACMR</a>, <a href=\"/stock/acn\"\
+        >ACN</a>, <a href=\"/stock/adbe\">ADBE</a>, <a href=\"/stock/adsk\">ADSK</a>,\
+        \ <a href=\"/stock/agi\">AGI</a>, <a href=\"/stock/akam\">AKAM</a>, <a href=\"\
+        /stock/alrm\">ALRM</a>, <a href=\"/stock/amgn\">AMGN</a>, <a href=\"/stock/amzn\"\
+        >AMZN</a>, <a href=\"/stock/angi\">ANGI</a>, <a href=\"/stock/anss\">ANSS</a>,\
+        \ <a href=\"/stock/apps\">APPS</a>, <a href=\"/stock/asa\">ASA</a>, <a href=\"\
+        /stock/asml\">ASML</a>, <a href=\"/stock/atvi\">ATVI</a>, <a href=\"/stock/avnw\"\
+        >AVNW</a>, <a href=\"/stock/ayro\">AYRO</a>, <a href=\"/stock/baba\">BABA</a>,\
+        \ <a href=\"/stock/band\">BAND</a>, <a href=\"/stock/bili\">BILI</a>, <a href=\"\
+        /stock/bl\">BL</a>, <a href=\"/stock/bldp\">BLDP</a>, <a href=\"/stock/blnk\"\
+        >BLNK</a>, <a href=\"/stock/bst\">BST</a>, <a href=\"/stock/bstz\">BSTZ</a>,\
+        \ <a href=\"/stock/bvxv\">BVXV</a>, <a href=\"/stock/calx\">CALX</a>, <a href=\"\
+        /stock/cci\">CCI</a>, <a href=\"/stock/cday\">CDAY</a>, <a href=\"/stock/cdns\"\
+        >CDNS</a>, <a href=\"/stock/cen\">CEN</a>, <a href=\"/stock/cffa\">CFFA</a>,\
+        \ <a href=\"/stock/chgg\">CHGG</a>, <a href=\"/stock/chn\">CHN</a>, <a href=\"\
+        /stock/cien\">CIEN</a>, <a href=\"/stock/ciic\">CIIC</a>, <a href=\"/stock/cmg\"\
+        >CMG</a>, <a href=\"/stock/coup-0\">COUP</a>, <a href=\"/stock/cpaa\">CPAA</a>,\
+        \ <a href=\"/stock/cpsh\">CPSH</a>, <a href=\"/stock/crm\">CRM</a>, <a href=\"\
+        /stock/crsp\">CRSP</a>, <a href=\"/stock/crwd\">CRWD</a>, <a href=\"/stock/csbr\"\
+        >CSBR</a>, <a href=\"/stock/cvna\">CVNA</a>, <a href=\"/stock/cyrx\">CYRX</a>,\
+        \ <a href=\"/stock/cytk\">CYTK</a>, <a href=\"/stock/dada\">DADA</a>, <a href=\"\
+        /stock/dao\">DAO</a>, <a href=\"/stock/dhr\">DHR</a>, <a href=\"/stock/domo\"\
+        >DOMO</a>, <a href=\"/stock/doyu\">DOYU</a>, <a href=\"/stock/dphc\">DPHC</a>,\
+        \ <a href=\"/stock/dq\">DQ</a>, <a href=\"/stock/dsgx\">DSGX</a>, <a href=\"\
+        /stock/dxcm\">DXCM</a>, <a href=\"/stock/ea\">EA</a>, <a href=\"/stock/ebay\"\
+        >EBAY</a>, <a href=\"/stock/edu\">EDU</a>, <a href=\"/stock/egan\">EGAN</a>,\
+        \ <a href=\"/stock/eric\">ERIC</a>, <a href=\"/stock/etsy\">ETSY</a>, <a href=\"\
+        /stock/expo\">EXPO</a>, <a href=\"/stock/fast\">FAST</a>, <a href=\"/stock/fate-0\"\
+        >FATE</a>, <a href=\"/stock/feac\">FEAC</a>, <a href=\"/stock/fivn\">FIVN</a>,\
+        \ <a href=\"/stock/form\">FORM</a>, <a href=\"/stock/frhc\">FRHC</a>, <a href=\"\
+        /stock/frpt\">FRPT</a>, <a href=\"/stock/futu\">FUTU</a>, <a href=\"/stock/fuv\"\
+        >FUV</a>, <a href=\"/stock/fvrr\">FVRR</a>, <a href=\"/stock/gdot\">GDOT</a>,\
+        \ <a href=\"/stock/gds\">GDS</a>, <a href=\"/stock/glg\">GLG</a>, <a href=\"\
+        /stock/glob\">GLOB</a>, <a href=\"/stock/gmab\">GMAB</a>, <a href=\"/stock/graf\"\
+        >GRAF</a>, <a href=\"/stock/gshd\">GSHD</a>, <a href=\"/stock/gsx\">GSX</a>,\
+        \ <a href=\"/stock/halo\">HALO</a>, <a href=\"/stock/hbio\">HBIO</a>, <a href=\"\
+        /stock/hcch\">HCCH</a>, <a href=\"/stock/hmy\">HMY</a>, <a href=\"/stock/holx\"\
+        >HOLX</a>, <a href=\"/stock/hql\">HQL</a>, <a href=\"/stock/hubs\">HUBS</a>,\
+        \ <a href=\"/stock/hznp\">HZNP</a>, <a href=\"/stock/hzo\">HZO</a>, <a href=\"\
+        /stock/iag\">IAG</a>, <a href=\"/stock/idxx\">IDXX</a>, <a href=\"/stock/ilmn\"\
+        >ILMN</a>, <a href=\"/stock/immu\">IMMU</a>, <a href=\"/stock/intu\">INTU</a>,\
+        \ <a href=\"/stock/jd\">JD</a>, <a href=\"/stock/jout\">JOUT</a>, <a href=\"\
+        /stock/kc\">KC</a>, <a href=\"/stock/klac\">KLAC</a>, <a href=\"/stock/knx\"\
+        >KNX</a>, <a href=\"/stock/lfac\">LFAC</a>, <a href=\"/stock/lhcg\">LHCG</a>,\
+        \ <a href=\"/stock/livx\">LIVX</a>, <a href=\"/stock/ll\">LL</a>, <a href=\"\
+        /stock/lly\">LLY</a>, <a href=\"/stock/logi\">LOGI</a>, <a href=\"/stock/low\"\
+        >LOW</a>, <a href=\"/stock/lrn\">LRN</a>, <a href=\"/stock/lscc\">LSCC</a>,\
+        \ <a href=\"/stock/lvgo\">LVGO</a>, <a href=\"/stock/manh\">MANH</a>, <a href=\"\
+        /stock/mas\">MAS</a>, <a href=\"/stock/mco\">MCO</a>, <a href=\"/stock/med\"\
+        >MED</a>, <a href=\"/stock/meli\">MELI</a>, <a href=\"/stock/mktx\">MKTX</a>,\
+        \ <a href=\"/stock/modn\">MODN</a>, <a href=\"/stock/mpwr\">MPWR</a>, <a href=\"\
+        /stock/msft\">MSFT</a>, <a href=\"/stock/mtbc\">MTBC</a>, <a href=\"/stock/mtsi\"\
+        >MTSI</a>, <a href=\"/stock/neo-0\">NEO</a>, <a href=\"/stock/neog\">NEOG</a>,\
+        \ <a href=\"/stock/net\">NET</a>, <a href=\"/news\">News</a>, <a href=\"/stock/nflx\"\
+        >NFLX</a>, <a href=\"/stock/nh\">NH</a>, <a href=\"/stock/nio-1\">NIO</a>,\
+        \ <a href=\"/stock/niu\">NIU</a>, <a href=\"/stock/nls\">NLS</a>, <a href=\"\
+        /stock/now\">NOW</a>, <a href=\"/stock/nstg\">NSTG</a>, <a href=\"/stock/ntes\"\
+        >NTES</a>, <a href=\"/stock/nvda\">NVDA</a>, <a href=\"/stock/nvta\">NVTA</a>,\
+        \ <a href=\"/stock/ocft\">OCFT</a>, <a href=\"/stock/okta\">OKTA</a>, <a href=\"\
+        /stock/orsn\">ORSN</a>, <a href=\"/stock/ostk\">OSTK</a>, <a href=\"/stock/pdd\"\
+        >PDD</a>, <a href=\"/stock/pdfs\">PDFS</a>, <a href=\"/stock/pega\">PEGA</a>,\
+        \ <a href=\"/topic/penny-stocks\">Penny Stocks</a>, <a href=\"/stock/petq\"\
+        >PETQ</a>, <a href=\"/stock/phi\">PHI</a>, <a href=\"/stock/plmr\">PLMR</a>,\
+        \ <a href=\"/stock/plug\">PLUG</a>, <a href=\"/stock/powi\">POWI</a>, <a href=\"\
+        /stock/ptac\">PTAC</a>, <a href=\"/stock/pton\">PTON</a>, <a href=\"/stock/pypl\"\
+        >PYPL</a>, <a href=\"/stock/qdel\">QDEL</a>, <a href=\"/stock/qfin\">QFIN</a>,\
+        \ <a href=\"/stock/qumu-0\">QUMU</a>, <a href=\"/stock/rada\">RADA</a>, <a\
+        \ href=\"/stock/rare\">RARE</a>, <a href=\"/stock/rcel\">RCEL</a>, <a href=\"\
+        /stock/rdfn\">RDFN</a>, <a href=\"/stock/rgr\">RGR</a>, <a href=\"/stock/rmd\"\
+        >RMD</a>, <a href=\"/stock/rng\">RNG</a>, <a href=\"/stock/sa\">SA</a>, <a\
+        \ href=\"/stock/sanw\">SANW</a>, <a href=\"/stock/sap\">SAP</a>, <a href=\"\
+        /stock/sdgr\">SDGR</a>, <a href=\"/stock/se\">SE</a>, <a href=\"/stock/sftw\"\
+        >SFTW</a>, <a href=\"/stock/silc\">SILC</a>, <a href=\"/stock/sitm\">SITM</a>,\
+        \ <a href=\"/stock/slp\">SLP</a>, <a href=\"/stock/smmc\">SMMC</a>, <a href=\"\
+        /stock/snps\">SNPS</a>, <a href=\"/stock/solo\">SOLO</a>, <a href=\"/stock/spaq\"\
+        >SPAQ</a>, <a href=\"/stock/spgi\">SPGI</a>, <a href=\"/stock/spwh\">SPWH</a>,\
+        \ <a href=\"/stock/sq\">SQ</a>, <a href=\"/stock/staa\">STAA</a>, <a href=\"\
+        /stock/sumr\">SUMR</a>, <a href=\"/stock/swbi\">SWBI</a>, <a href=\"/stock/syrs\"\
+        >SYRS</a>, <a href=\"/stock/tal\">TAL</a>, <a href=\"/stock/tdf\">TDF</a>,\
+        \ <a href=\"/stock/tdoc\">TDOC</a>, <a href=\"/stock/team\">TEAM</a>, <a href=\"\
+        /stock/ter\">TER</a>, <a href=\"/stock/tffp\">TFFP</a>, <a href=\"/stock/tfii\"\
+        >TFII</a>, <a href=\"/stock/tmo\">TMO</a>, <a href=\"/stock/tndm-0\">TNDM</a>,\
+        \ <a href=\"/stock/trib\">TRIB</a>, <a href=\"/stock/trvi\">TRVI</a>, <a href=\"\
+        /stock/tsla\">TSLA</a>, <a href=\"/stock/tsm\">TSM</a>, <a href=\"/stock/ttd\"\
+        >TTD</a>, <a href=\"/stock/twlo\">TWLO</a>, <a href=\"/stock/twou\">TWOU</a>,\
+        \ <a href=\"/stock/veev\">VEEV</a>, <a href=\"/stock/vicr\">VICR</a>, <a href=\"\
+        /stock/vips\">VIPS</a>, <a href=\"/stock/vnet\">VNET</a>, <a href=\"/stock/vrm\"\
+        >VRM</a>, <a href=\"/stock/vrns\">VRNS</a>, <a href=\"/stock/vrsk\">VRSK</a>,\
+        \ <a href=\"/stock/vsto\">VSTO</a>, <a href=\"/stock/w\">W</a>, <a href=\"\
+        /stock/wilc\">WILC</a>, <a href=\"/stock/wix\">WIX</a>, <a href=\"/stock/wrtc\"\
+        >WRTC</a>, <a href=\"/stock/wst\">WST</a>, <a href=\"/stock/yndx\">YNDX</a>,\
+        \ <a href=\"/stock/zm\">ZM</a>, <a href=\"/stock/zs\">ZS</a>, <a href=\"/stock/zto\"\
+        >ZTO</a>, <a href=\"/stock/zyxi\">ZYXI</a>, <a href=\"/intraday-update\">Intraday\
+        \ Update</a>, <a href=\"/markets\">Markets</a>, <a href=\"/movers\">Movers</a>,\
+        \ <a href=\"/trading-ideas\">Trading Ideas</a> / Mon, 12:59pm)</span></span>\n\
+        \  </div>\n</li>\n      </ul>\n</div><div class=\"item-list\">\n      <h3>Tuesday,\
+        \ June 30, 2020</h3>\n    <ul>\n          <li class=\"views-row views-row-1\
+        \ views-row-odd views-row-first views-row-last\">  \n  <div class=\"views-field-title\"\
+        >\n                <span class=\"field-content\"><a href=\"/news/20/06/16450515/stocks-that-hit-52-week-highs-on-tuesday\"\
+        >Stocks That Hit 52-Week Highs On Tuesday</a> <span class=\"greyed\">(<a href=\"\
+        /stock/aeye\">AEYE</a>, <a href=\"/stock/agi\">AGI</a>, <a href=\"/stock/agx\"\
+        >AGX</a>, <a href=\"/stock/apps\">APPS</a>, <a href=\"/stock/asa\">ASA</a>,\
+        \ <a href=\"/stock/athe\">ATHE</a>, <a href=\"/stock/bili\">BILI</a>, <a href=\"\
+        /stock/blnk\">BLNK</a>, <a href=\"/stock/calt\">CALT</a>, <a href=\"/stock/cdns\"\
+        >CDNS</a>, <a href=\"/stock/chpm\">CHPM</a>, <a href=\"/stock/cht\">CHT</a>,\
+        \ <a href=\"/stock/clx\">CLX</a>, <a href=\"/stock/doyu\">DOYU</a>, <a href=\"\
+        /stock/ebay\">EBAY</a>, <a href=\"/stock/egan\">EGAN</a>, <a href=\"/stock/etsy\"\
+        >ETSY</a>, <a href=\"/stock/gfi\">GFI</a>, <a href=\"/stock/gpaq\">GPAQ</a>,\
+        \ <a href=\"/stock/gshd\">GSHD</a>, <a href=\"/stock/gsx\">GSX</a>, <a href=\"\
+        /stock/lca\">LCA</a>, <a href=\"/stock/logi\">LOGI</a>, <a href=\"/stock/med\"\
+        >MED</a>, <a href=\"/stock/mtch\">MTCH</a>, <a href=\"/news\">News</a>, <a\
+        \ href=\"/stock/nfin\">NFIN</a>, <a href=\"/stock/nls\">NLS</a>, <a href=\"\
+        /stock/ntra\">NTRA</a>, <a href=\"/stock/nvax\">NVAX</a>, <a href=\"/stock/opk\"\
+        >OPK</a>, <a href=\"/stock/ospn\">OSPN</a>, <a href=\"/stock/pdd\">PDD</a>,\
+        \ <a href=\"/topic/penny-stocks\">Penny Stocks</a>, <a href=\"/stock/plug\"\
+        >PLUG</a>, <a href=\"/stock/rcel\">RCEL</a>, <a href=\"/stock/rgr\">RGR</a>,\
+        \ <a href=\"/stock/rmd\">RMD</a>, <a href=\"/stock/sa\">SA</a>, <a href=\"\
+        /stock/saqn\">SAQN</a>, <a href=\"/stock/scpl\">SCPL</a>, <a href=\"/stock/ship\"\
+        >SHIP</a>, <a href=\"/stock/shop\">SHOP</a>, <a href=\"/stock/spaq\">SPAQ</a>,\
+        \ <a href=\"/stock/staa\">STAA</a>, <a href=\"/stock/swbi\">SWBI</a>, <a href=\"\
+        /stock/trne\">TRNE</a>, <a href=\"/stock/tsco\">TSCO</a>, <a href=\"/stock/tsla\"\
+        >TSLA</a>, <a href=\"/stock/vapo\">VAPO</a>, <a href=\"/stock/vsto\">VSTO</a>,\
+        \ <a href=\"/stock/wkhs\">WKHS</a>, <a href=\"/intraday-update\">Intraday\
+        \ Update</a>, <a href=\"/markets\">Markets</a>, <a href=\"/movers\">Movers</a>,\
+        \ <a href=\"/trading-ideas\">Trading Ideas</a> / Tue, 09:46am)</span></span>\n\
+        \  </div>\n</li>\n      </ul>\n</div><div class=\"item-list\">\n      <h3>Monday,\
+        \ June 29, 2020</h3>\n    <ul>\n          <li class=\"views-row views-row-1\
+        \ views-row-odd views-row-first views-row-last\">  \n  <div class=\"views-field-title\"\
+        >\n                <span class=\"field-content\"><a href=\"/news/20/06/16430978/stocks-that-hit-52-week-highs-on-monday\"\
+        >Stocks That Hit 52-Week Highs On Monday</a> <span class=\"greyed\">(<a href=\"\
+        /stock/agi\">AGI</a>, <a href=\"/stock/alt\">ALT</a>, <a href=\"/stock/amhc\"\
+        >AMHC</a>, <a href=\"/stock/any\">ANY</a>, <a href=\"/stock/asa\">ASA</a>,\
+        \ <a href=\"/stock/avav\">AVAV</a>, <a href=\"/stock/bhtg\">BHTG</a>, <a href=\"\
+        /stock/bili\">BILI</a>, <a href=\"/stock/bldp\">BLDP</a>, <a href=\"/stock/blnk\"\
+        >BLNK</a>, <a href=\"/stock/brp\">BRP</a>, <a href=\"/stock/cht\">CHT</a>,\
+        \ <a href=\"/stock/crdf\">CRDF</a>, <a href=\"/stock/doyu\">DOYU</a>, <a href=\"\
+        /stock/drd\">DRD</a>, <a href=\"/stock/ecom\">ECOM</a>, <a href=\"/stock/educ\"\
+        >EDUC</a>, <a href=\"/stock/expi\">EXPI</a>, <a href=\"/stock/fprx\">FPRX</a>,\
+        \ <a href=\"/stock/fsly\">FSLY</a>, <a href=\"/stock/ftac\">FTAC</a>, <a href=\"\
+        /stock/graf\">GRAF</a>, <a href=\"/stock/iac\">IAC</a>, <a href=\"/stock/insu\"\
+        >INSU</a>, <a href=\"/stock/knsa\">KNSA</a>, <a href=\"/stock/ktov\">KTOV</a>,\
+        \ <a href=\"/stock/lca\">LCA</a>, <a href=\"/stock/ll\">LL</a>, <a href=\"\
+        /stock/logi\">LOGI</a>, <a href=\"/stock/med\">MED</a>, <a href=\"/stock/mtch\"\
+        >MTCH</a>, <a href=\"/news\">News</a>, <a href=\"/stock/nfin\">NFIN</a>, <a\
+        \ href=\"/stock/nls\">NLS</a>, <a href=\"/stock/nvax\">NVAX</a>, <a href=\"\
+        /stock/obci\">OBCI</a>, <a href=\"/stock/ooma\">OOMA</a>, <a href=\"/stock/opk\"\
+        >OPK</a>, <a href=\"/stock/pcrx\">PCRX</a>, <a href=\"/topic/penny-stocks\"\
+        >Penny Stocks</a>, <a href=\"/stock/phcf\">PHCF</a>, <a href=\"/stock/plug\"\
+        >PLUG</a>, <a href=\"/stock/qdel\">QDEL</a>, <a href=\"/stock/repl\">REPL</a>,\
+        \ <a href=\"/stock/saqn\">SAQN</a>, <a href=\"/stock/sgoc\">SGOC</a>, <a href=\"\
+        /stock/shll\">SHLL</a>, <a href=\"/stock/slp\">SLP</a>, <a href=\"/stock/smmc\"\
+        >SMMC</a>, <a href=\"/stock/spaq\">SPAQ</a>, <a href=\"/stock/splk\">SPLK</a>,\
+        \ <a href=\"/stock/sumr\">SUMR</a>, <a href=\"/stock/swbi\">SWBI</a>, <a href=\"\
+        /stock/trne\">TRNE</a>, <a href=\"/stock/tsco\">TSCO</a>, <a href=\"/stock/vivo\"\
+        >VIVO</a>, <a href=\"/stock/vnet\">VNET</a>, <a href=\"/stock/wkhs\">WKHS</a>,\
+        \ <a href=\"/intraday-update\">Intraday Update</a>, <a href=\"/markets\">Markets</a>,\
+        \ <a href=\"/movers\">Movers</a>, <a href=\"/trading-ideas\">Trading Ideas</a>\
+        \ / Mon, 10:45am)</span></span>\n  </div>\n</li>\n      </ul>\n</div><div\
+        \ class=\"item-list\">\n      <h3>Friday, June 19, 2020</h3>\n    <ul>\n \
+        \         <li class=\"views-row views-row-1 views-row-odd views-row-first\
+        \ views-row-last\">  \n  <div class=\"views-field-title\">\n             \
+        \   <span class=\"field-content\"><a href=\"/news/20/06/16315760/stocks-that-hit-52-week-highs-on-friday\"\
+        >Stocks That Hit 52-Week Highs On Friday</a> <span class=\"greyed\">(<a href=\"\
+        /stock/aapl\">AAPL</a>, <a href=\"/stock/abc\">ABC</a>, <a href=\"/stock/adbe\"\
+        >ADBE</a>, <a href=\"/stock/agle\">AGLE</a>, <a href=\"/stock/agmh\">AGMH</a>,\
+        \ <a href=\"/stock/alrm\">ALRM</a>, <a href=\"/stock/amci\">AMCI</a>, <a href=\"\
+        /stock/amrk\">AMRK</a>, <a href=\"/stock/apg\">APG</a>, <a href=\"/stock/apo\"\
+        >APO</a>, <a href=\"/stock/apps\">APPS</a>, <a href=\"/stock/asml\">ASML</a>,\
+        \ <a href=\"/stock/atom\">ATOM</a>, <a href=\"/stock/atvi\">ATVI</a>, <a href=\"\
+        /stock/avlr\">AVLR</a>, <a href=\"/stock/avnw\">AVNW</a>, <a href=\"/stock/ayx\"\
+        >AYX</a>, <a href=\"/stock/bbgi\">BBGI</a>, <a href=\"/stock/bili\">BILI</a>,\
+        \ <a href=\"/stock/bmrn\">BMRN</a>, <a href=\"/stock/bst\">BST</a>, <a href=\"\
+        /stock/bwmx\">BWMX</a>, <a href=\"/stock/byfc\">BYFC</a>, <a href=\"/stock/cdns\"\
+        >CDNS</a>, <a href=\"/stock/chgg\">CHGG</a>, <a href=\"/stock/clct\">CLCT</a>,\
+        \ <a href=\"/stock/clx\">CLX</a>, <a href=\"/stock/coup-0\">COUP</a>, <a href=\"\
+        /stock/crnc\">CRNC</a>, <a href=\"/stock/crwd\">CRWD</a>, <a href=\"/stock/cstl\"\
+        >CSTL</a>, <a href=\"/stock/cvna\">CVNA</a>, <a href=\"/stock/cwh\">CWH</a>,\
+        \ <a href=\"/stock/cytk\">CYTK</a>, <a href=\"/stock/dao\">DAO</a>, <a href=\"\
+        /stock/dbcp\">DBCP</a>, <a href=\"/stock/ddog\">DDOG</a>, <a href=\"/stock/dhr\"\
+        >DHR</a>, <a href=\"/stock/dmac\">DMAC</a>, <a href=\"/stock/drd\">DRD</a>,\
+        \ <a href=\"/stock/dsgx\">DSGX</a>, <a href=\"/stock/dt\">DT</a>, <a href=\"\
+        /stock/ea\">EA</a>, <a href=\"/stock/efoi\">EFOI</a>, <a href=\"/stock/epam\"\
+        >EPAM</a>, <a href=\"/stock/etsy\">ETSY</a>, <a href=\"/stock/ever\">EVER</a>,\
+        \ <a href=\"/stock/expi\">EXPI</a>, <a href=\"/stock/fizz\">FIZZ</a>, <a href=\"\
+        /stock/fold\">FOLD</a>, <a href=\"/stock/frpt\">FRPT</a>, <a href=\"/stock/fsly\"\
+        >FSLY</a>, <a href=\"/stock/ftac\">FTAC</a>, <a href=\"/stock/gds\">GDS</a>,\
+        \ <a href=\"/stock/gix\">GIX</a>, <a href=\"/stock/gsx\">GSX</a>, <a href=\"\
+        /stock/hcch\">HCCH</a>, <a href=\"/stock/hubs\">HUBS</a>, <a href=\"/stock/iac\"\
+        >IAC</a>, <a href=\"/stock/iivi\">IIVI</a>, <a href=\"/stock/imvt\">IMVT</a>,\
+        \ <a href=\"/stock/insp\">INSP</a>, <a href=\"/stock/klac\">KLAC</a>, <a href=\"\
+        /stock/knx\">KNX</a>, <a href=\"/stock/lacq\">LACQ</a>, <a href=\"/stock/low\"\
+        >LOW</a>, <a href=\"/stock/lvgo\">LVGO</a>, <a href=\"/stock/mdia\">MDIA</a>,\
+        \ <a href=\"/stock/mgnx\">MGNX</a>, <a href=\"/stock/mnta\">MNTA</a>, <a href=\"\
+        /stock/msft\">MSFT</a>, <a href=\"/stock/mtbc\">MTBC</a>, <a href=\"/stock/mtch\"\
+        >MTCH</a>, <a href=\"/stock/ndaq\">NDAQ</a>, <a href=\"/stock/net\">NET</a>,\
+        \ <a href=\"/news\">News</a>, <a href=\"/stock/nice\">NICE</a>, <a href=\"\
+        /stock/nio-1\">NIO</a>, <a href=\"/stock/niu\">NIU</a>, <a href=\"/stock/nls\"\
+        >NLS</a>, <a href=\"/stock/nltx\">NLTX</a>, <a href=\"/stock/nuan\">NUAN</a>,\
+        \ <a href=\"/stock/nvax\">NVAX</a>, <a href=\"/stock/nvo\">NVO</a>, <a href=\"\
+        /stock/nyt\">NYT</a>, <a href=\"/stock/obci\">OBCI</a>, <a href=\"/stock/olli\"\
+        >OLLI</a>, <a href=\"/stock/ospn\">OSPN</a>, <a href=\"/stock/ovid\">OVID</a>,\
+        \ <a href=\"/stock/oxbr\">OXBR</a>, <a href=\"/stock/pasg\">PASG</a>, <a href=\"\
+        /stock/pdd\">PDD</a>, <a href=\"/topic/penny-stocks\">Penny Stocks</a>, <a\
+        \ href=\"/stock/pfsi\">PFSI</a>, <a href=\"/stock/pfsw\">PFSW</a>, <a href=\"\
+        /stock/pic\">PIC</a>, <a href=\"/stock/ping\">PING</a>, <a href=\"/stock/pton\"\
+        >PTON</a>, <a href=\"/stock/pypl\">PYPL</a>, <a href=\"/stock/rdfn\">RDFN</a>,\
+        \ <a href=\"/stock/sbbp\">SBBP</a>, <a href=\"/stock/sdgr\">SDGR</a>, <a href=\"\
+        /stock/se\">SE</a>, <a href=\"/stock/sfun\">SFUN</a>, <a href=\"/stock/shll\"\
+        >SHLL</a>, <a href=\"/stock/shop\">SHOP</a>, <a href=\"/stock/smci\">SMCI</a>,\
+        \ <a href=\"/stock/snap\">SNAP</a>, <a href=\"/stock/snps\">SNPS</a>, <a href=\"\
+        /stock/spaq\">SPAQ</a>, <a href=\"/stock/spot\">SPOT</a>, <a href=\"/stock/sq\"\
+        >SQ</a>, <a href=\"/stock/srpt\">SRPT</a>, <a href=\"/stock/ssss\">SSSS</a>,\
+        \ <a href=\"/stock/staa\">STAA</a>, <a href=\"/stock/svmk\">SVMK</a>, <a href=\"\
+        /stock/swtx\">SWTX</a>, <a href=\"/stock/tela\">TELA</a>, <a href=\"/stock/tkc\"\
+        >TKC</a>, <a href=\"/stock/tmus-0\">TMUS</a>, <a href=\"/stock/trne\">TRNE</a>,\
+        \ <a href=\"/stock/trvn\">TRVN</a>, <a href=\"/stock/tsco\">TSCO</a>, <a href=\"\
+        /stock/ttd\">TTD</a>, <a href=\"/stock/twlo\">TWLO</a>, <a href=\"/stock/uone\"\
+        >UONE</a>, <a href=\"/stock/vapo\">VAPO</a>, <a href=\"/stock/veev\">VEEV</a>,\
+        \ <a href=\"/stock/veri\">VERI</a>, <a href=\"/stock/vicr\">VICR</a>, <a href=\"\
+        /stock/vips\">VIPS</a>, <a href=\"/stock/vmd\">VMD</a>, <a href=\"/stock/vsto\"\
+        >VSTO</a>, <a href=\"/stock/w\">W</a>, <a href=\"/stock/wix\">WIX</a>, <a\
+        \ href=\"/stock/wkhs\">WKHS</a>, <a href=\"/stock/wrtc\">WRTC</a>, <a href=\"\
+        /stock/wsm\">WSM</a>, <a href=\"/stock/xp\">XP</a>, <a href=\"/stock/yeti\"\
+        >YETI</a>, <a href=\"/stock/yumc\">YUMC</a>, <a href=\"/stock/yy-1\">YY</a>,\
+        \ <a href=\"/stock/zlab\">ZLAB</a>, <a href=\"/intraday-update\">Intraday\
+        \ Update</a>, <a href=\"/markets\">Markets</a>, <a href=\"/movers\">Movers</a>,\
+        \ <a href=\"/trading-ideas\">Trading Ideas</a> / Fri, 10:08am)</span></span>\n\
+        \  </div>\n</li>\n      </ul>\n</div><div class=\"item-list\">\n      <h3>Tuesday,\
+        \ January 21, 2020</h3>\n    <ul>\n          <li class=\"views-row views-row-1\
+        \ views-row-odd views-row-first views-row-last\">  \n  <div class=\"views-field-title\"\
+        >\n                <span class=\"field-content\"><a href=\"/news/20/01/15155396/stocks-that-hit-52-week-highs-on-tuesday\"\
+        >Stocks That Hit 52-Week Highs On Tuesday</a> <span class=\"greyed\">(<a href=\"\
+        /stock/aapl\">AAPL</a>, <a href=\"/stock/abt\">ABT</a>, <a href=\"/stock/acgl\"\
+        >ACGL</a>, <a href=\"/stock/acllf\">ACLLF</a>, <a href=\"/stock/adbe\">ADBE</a>,\
+        \ <a href=\"/stock/adp\">ADP</a>, <a href=\"/stock/adsk\">ADSK</a>, <a href=\"\
+        /stock/adyyf\">ADYYF</a>, <a href=\"/stock/aebzy\">AEBZY</a>, <a href=\"/stock/aep\"\
+        >AEP</a>, <a href=\"/stock/agnc\">AGNC</a>, <a href=\"/stock/all\">ALL</a>,\
+        \ <a href=\"/stock/allt\">ALLT</a>, <a href=\"/stock/almff\">ALMFF</a>, <a\
+        \ href=\"/stock/alswf\">ALSWF</a>, <a href=\"/stock/amd\">AMD</a>, <a href=\"\
+        /stock/amru\">AMRU</a>, <a href=\"/stock/amx\">AMX</a>, <a href=\"/stock/ancuf\"\
+        >ANCUF</a>, <a href=\"/stock/anss\">ANSS</a>, <a href=\"/stock/aqn\">AQN</a>,\
+        \ <a href=\"/stock/asgtf\">ASGTF</a>, <a href=\"/stock/asnb\">ASNB</a>, <a\
+        \ href=\"/stock/atlc\">ATLC</a>, <a href=\"/stock/ato\">ATO</a>, <a href=\"\
+        /stock/atrc\">ATRC</a>, <a href=\"/stock/atzaf\">ATZAF</a>, <a href=\"/stock/avmxf\"\
+        >AVMXF</a>, <a href=\"/stock/awk\">AWK</a>, <a href=\"/stock/ay\">AY</a>,\
+        \ <a href=\"/stock/azpn\">AZPN</a>, <a href=\"/stock/babyf\">BABYF</a>, <a\
+        \ href=\"/stock/baesf\">BAESF</a>, <a href=\"/stock/baesy\">BAESY</a>, <a\
+        \ href=\"/stock/basi\">BASI</a>, <a href=\"/stock/bax\">BAX</a>, <a href=\"\
+        /stock/bayzf\">BAYZF</a>, <a href=\"/stock/bbsrf\">BBSRF</a>, <a href=\"/stock/bbu\"\
+        >BBU</a>, <a href=\"/stock/bgt\">BGT</a>, <a href=\"/stock/bios\">BIOS</a>,\
+        \ <a href=\"/stock/bkrky\">BKRKY</a>, <a href=\"/stock/bmo\">BMO</a>, <a href=\"\
+        /stock/bmxmf\">BMXMF</a>, <a href=\"/stock/bro\">BRO</a>, <a href=\"/stock/brrzy\"\
+        >BRRZY</a>, <a href=\"/stock/cabgy\">CABGY</a>, <a href=\"/stock/cabjf\">CABJF</a>,\
+        \ <a href=\"/stock/camt\">CAMT</a>, <a href=\"/stock/capmf\">CAPMF</a>, <a\
+        \ href=\"/stock/cbb\">CBB</a>, <a href=\"/stock/ccc\">CCC</a>, <a href=\"\
+        /stock/ccxi\">CCXI</a>, <a href=\"/stock/celh\">CELH</a>, <a href=\"/stock/cfdb\"\
+        >CFDB</a>, <a href=\"/stock/cg\">CG</a>, <a href=\"/stock/cgemy\">CGEMY</a>,\
+        \ <a href=\"/stock/chgcy\">CHGCY</a>, <a href=\"/stock/chgs\">CHGS</a>, <a\
+        \ href=\"/stock/chji\">CHJI</a>, <a href=\"/stock/chy\">CHY</a>, <a href=\"\
+        /stock/ci\">CI</a>, <a href=\"/stock/clgn\">CLGN</a>, <a href=\"/stock/clpbf\"\
+        >CLPBF</a>, <a href=\"/stock/cmg\">CMG</a>, <a href=\"/stock/cms\">CMS</a>,\
+        \ <a href=\"/stock/cnbi\">CNBI</a>, <a href=\"/stock/cni\">CNI</a>, <a href=\"\
+        /stock/coo\">COO</a>, <a href=\"/stock/cost\">COST</a>, <a href=\"/stock/cpivf\"\
+        >CPIVF</a>, <a href=\"/stock/cprt\">CPRT</a>, <a href=\"/stock/csii\">CSII</a>,\
+        \ <a href=\"/stock/cslly\">CSLLY</a>, <a href=\"/stock/ctxs\">CTXS</a>, <a\
+        \ href=\"/stock/cuz\">CUZ</a>, <a href=\"/stock/cvco\">CVCO</a>, <a href=\"\
+        /stock/cyrly\">CYRLY</a>, <a href=\"/stock/d\">D</a>, <a href=\"/stock/dboef\"\
+        >DBOEF</a>, <a href=\"/stock/dboey\">DBOEY</a>, <a href=\"/stock/ddf\">DDF</a>,\
+        \ <a href=\"/stock/deac\">DEAC</a>, <a href=\"/stock/dex\">DEX</a>, <a href=\"\
+        /stock/dhi\">DHI</a>, <a href=\"/stock/dhr\">DHR</a>, <a href=\"/stock/dreuf\"\
+        >DREUF</a>, <a href=\"/stock/dte\">DTE</a>, <a href=\"/stock/dva\">DVA</a>,\
+        \ <a href=\"/stock/eft\">EFT</a>, <a href=\"/stock/eix\">EIX</a>, <a href=\"\
+        /stock/eleef\">ELEEF</a>, <a href=\"/stock/elre\">ELRE</a>, <a href=\"/stock/emraf\"\
+        >EMRAF</a>, <a href=\"/stock/enb\">ENB</a>, <a href=\"/stock/engiy\">ENGIY</a>,\
+        \ <a href=\"/stock/entg\">ENTG</a>, <a href=\"/stock/eongy\">EONGY</a>, <a\
+        \ href=\"/stock/epoky\">EPOKY</a>, <a href=\"/stock/epzm\">EPZM</a>, <a href=\"\
+        /stock/es\">ES</a>, <a href=\"/stock/etr\">ETR</a>, <a href=\"/stock/evn\"\
+        >EVN</a>, <a href=\"/stock/evrg\">EVRG</a>, <a href=\"/taxonomy/term/47472\"\
+        >EXD</a>, <a href=\"/stock/exg\">EXG</a>, <a href=\"/stock/fam\">FAM</a>,\
+        \ <a href=\"/stock/fbasf\">FBASF</a>, <a href=\"/stock/fe\">FE</a>, <a href=\"\
+        /stock/ffa\">FFA</a>, <a href=\"/stock/fis\">FIS</a>, <a href=\"/stock/fisv\"\
+        >FISV</a>, <a href=\"/stock/fivn\">FIVN</a>, <a href=\"/stock/fnv\">FNV</a>,\
+        \ <a href=\"/stock/form\">FORM</a>, <a href=\"/stock/fra\">FRA</a>, <a href=\"\
+        /stock/frpt\">FRPT</a>, <a href=\"/stock/frrvy\">FRRVY</a>, <a href=\"/stock/frta\"\
+        >FRTA</a>, <a href=\"/stock/fsugy\">FSUGY</a>, <a href=\"/stock/fsumf\">FSUMF</a>,\
+        \ <a href=\"/stock/fts\">FTS</a>, <a href=\"/stock/fwona\">FWONA</a>, <a href=\"\
+        /stock/fwonk\">FWONK</a>, <a href=\"/stock/fzro\">FZRO</a>, <a href=\"/stock/gcaaf\"\
+        >GCAAF</a>, <a href=\"/stock/gdv\">GDV</a>, <a href=\"/stock/genmf\">GENMF</a>,\
+        \ <a href=\"/stock/ggrgf\">GGRGF</a>, <a href=\"/stock/gilt\">GILT</a>, <a\
+        \ href=\"/stock/glob\">GLOB</a>, <a href=\"/stock/glpg\">GLPG</a>, <a href=\"\
+        /stock/glpi\">GLPI</a>, <a href=\"/stock/goog\">GOOG</a>, <a href=\"/stock/googl\"\
+        >GOOGL</a>, <a href=\"/stock/gpn\">GPN</a>, <a href=\"/stock/grmn\">GRMN</a>,\
+        \ <a href=\"/stock/grx\">GRX</a>, <a href=\"/stock/gsx\">GSX</a>, <a href=\"\
+        /stock/gvdny\">GVDNY</a>, <a href=\"/stock/gxocf\">GXOCF</a>, <a href=\"/stock/gyst\"\
+        >GYST</a>, <a href=\"/stock/halmy\">HALMY</a>, <a href=\"/stock/hannf\">HANNF</a>,\
+        \ <a href=\"/stock/havxf\">HAVXF</a>, <a href=\"/stock/he\">HE</a>, <a href=\"\
+        /stock/hlfff\">HLFFF</a>, <a href=\"/taxonomy/term/48022\">HLI</a>, <a href=\"\
+        /stock/hocpy\">HOCPY</a>, <a href=\"/stock/hrl\">HRL</a>, <a href=\"/stock/ice\"\
+        >ICE</a>, <a href=\"/stock/iclr\">ICLR</a>, <a href=\"/stock/ingxf\">INGXF</a>,\
+        \ <a href=\"/stock/insg\">INSG</a>, <a href=\"/stock/insp\">INSP</a>, <a href=\"\
+        /stock/intc\">INTC</a>, <a href=\"/stock/inxsf\">INXSF</a>, <a href=\"/stock/jbaxy\"\
+        >JBAXY</a>, <a href=\"/stock/jeld\">JELD</a>, <a href=\"/stock/jgfcf\">JGFCF</a>,\
+        \ <a href=\"/stock/jnj\">JNJ</a>, <a href=\"/stock/jtd\">JTD</a>, <a href=\"\
+        /stock/jubpf\">JUBPF</a>, <a href=\"/stock/kmb\">KMB</a>, <a href=\"/stock/krnt\"\
+        >KRNT</a>, <a href=\"/stock/kryaf\">KRYAF</a>, <a href=\"/stock/kyocf\">KYOCF</a>,\
+        \ <a href=\"/stock/lake\">LAKE</a>, <a href=\"/stock/lhcg\">LHCG</a>, <a href=\"\
+        /stock/lhx\">LHX</a>, <a href=\"/stock/lith\">LITH</a>, <a href=\"/stock/lnt\"\
+        >LNT</a>, <a href=\"/stock/logi\">LOGI</a>, <a href=\"/stock/lrcx\">LRCX</a>,\
+        \ <a href=\"/stock/lscc\">LSCC</a>, <a href=\"/stock/ltum\">LTUM</a>, <a href=\"\
+        /stock/lzagf\">LZAGF</a>, <a href=\"/taxonomy/term/60824\">LZAGY</a>, <a href=\"\
+        /stock/maxr\">MAXR</a>, <a href=\"/stock/mdt\">MDT</a>, <a href=\"/stock/meggf\"\
+        >MEGGF</a>, <a href=\"/stock/mgic-2\">MGIC</a>, <a href=\"/stock/mmngf\">MMNGF</a>,\
+        \ <a href=\"/stock/mpw\">MPW</a>, <a href=\"/stock/msci\">MSCI</a>, <a href=\"\
+        /stock/msft\">MSFT</a>, <a href=\"/stock/mtl\">MTL</a>, <a href=\"/stock/mtuaf\"\
+        >MTUAF</a>, <a href=\"/stock/muj\">MUJ</a>, <a href=\"/stock/mx\">MX</a>,\
+        \ <a href=\"/stock/mxf\">MXF</a>, <a href=\"/stock/nad\">NAD</a>, <a href=\"\
+        /stock/ndaq\">NDAQ</a>, <a href=\"/stock/ndsn\">NDSN</a>, <a href=\"/stock/nee\"\
+        >NEE</a>, <a href=\"/news\">News</a>, <a href=\"/stock/nfin\">NFIN</a>, <a\
+        \ href=\"/stock/ngg\">NGG</a>, <a href=\"/stock/niq\">NIQ</a>, <a href=\"\
+        /stock/nlok\">NLOK</a>, <a href=\"/stock/nmtlf\">NMTLF</a>, <a href=\"/stock/nova\"\
+        >NOVA</a>, <a href=\"/stock/now\">NOW</a>, <a href=\"/stock/npruf\">NPRUF</a>,\
+        \ <a href=\"/stock/nuan\">NUAN</a>, <a href=\"/stock/oesx\">OESX</a>, <a href=\"\
+        /stock/oge\">OGE</a>, <a href=\"/stock/oke\">OKE</a>, <a href=\"/stock/ommsf\"\
+        >OMMSF</a>, <a href=\"/stock/onvc\">ONVC</a>, <a href=\"/stock/ophly\">OPHLY</a>,\
+        \ <a href=\"/stock/osagy\">OSAGY</a>, <a href=\"/stock/payc\">PAYC</a>, <a\
+        \ href=\"/stock/payx\">PAYX</a>, <a href=\"/stock/pcty-0\">PCTY</a>, <a href=\"\
+        /stock/pebo\">PEBO</a>, <a href=\"/stock/pega\">PEGA</a>, <a href=\"/stock/peri\"\
+        >PERI</a>, <a href=\"/stock/pgezf\">PGEZF</a>, <a href=\"/stock/pgphf\">PGPHF</a>,\
+        \ <a href=\"/stock/phm\">PHM</a>, <a href=\"/stock/pmm\">PMM</a>, <a href=\"\
+        /stock/por\">POR</a>, <a href=\"/stock/pperf\">PPERF</a>, <a href=\"/stock/ppotf\"\
+        >PPOTF</a>, <a href=\"/stock/pprqf\">PPRQF</a>, <a href=\"/stock/prkr\">PRKR</a>,\
+        \ <a href=\"/stock/psmmy\">PSMMY</a>, <a href=\"/stock/ptct\">PTCT</a>, <a\
+        \ href=\"/stock/pty\">PTY</a>, <a href=\"/stock/qmxgf\">QMXGF</a>, <a href=\"\
+        /stock/qntqy\">QNTQY</a>, <a href=\"/stock/qqqx\">QQQX</a>, <a href=\"/stock/rdnt\"\
+        >RDNT</a>, <a href=\"/stock/rgen\">RGEN</a>, <a href=\"/stock/rhhbf\">RHHBF</a>,\
+        \ <a href=\"/stock/rhhby\">RHHBY</a>, <a href=\"/stock/riocf\">RIOCF</a>,\
+        \ <a href=\"/stock/rng\">RNG</a>, <a href=\"/stock/rwnff\">RWNFF</a>, <a href=\"\
+        /stock/safe\">SAFE</a>, <a href=\"/stock/sbny\">SBNY</a>, <a href=\"/stock/sbrcy\"\
+        >SBRCY</a>, <a href=\"/stock/sbsaa\">SBSAA</a>, <a href=\"/stock/scmwy\">SCMWY</a>,\
+        \ <a href=\"/stock/sdvky\">SDVKY</a>, <a href=\"/stock/sedg\">SEDG</a>, <a\
+        \ href=\"/stock/seemf\">SEEMF</a>, <a href=\"/stock/selb\">SELB</a>, <a href=\"\
+        /stock/sgrcf\">SGRCF</a>, <a href=\"/stock/shop\">SHOP</a>, <a href=\"/stock/shw\"\
+        >SHW</a>, <a href=\"/stock/siuif\">SIUIF</a>, <a href=\"/stock/slf\">SLF</a>,\
+        \ <a href=\"/stock/snmrf\">SNMRF</a>, <a href=\"/stock/snn\">SNN</a>, <a href=\"\
+        /stock/snps\">SNPS</a>, <a href=\"/stock/so\">SO</a>, <a href=\"/stock/sofo\"\
+        >SOFO</a>, <a href=\"/stock/sonvf\">SONVF</a>, <a href=\"/stock/sonvy\">SONVY</a>,\
+        \ <a href=\"/stock/spaq\">SPAQ</a>, <a href=\"/stock/spce\">SPCE</a>, <a href=\"\
+        /stock/spkky\">SPKKY</a>, <a href=\"/stock/sre\">SRE</a>, <a href=\"/stock/stag\"\
+        >STAG</a>, <a href=\"/stock/stn\">STN</a>, <a href=\"/stock/swz\">SWZ</a>,\
+        \ <a href=\"/stock/syna\">SYNA</a>, <a href=\"/stock/szevy\">SZEVY</a>, <a\
+        \ href=\"/stock/tcymy\">TCYMY</a>, <a href=\"/stock/tdg\">TDG</a>, <a href=\"\
+        /stock/tdoc\">TDOC</a>, <a href=\"/stock/tdy\">TDY</a>, <a href=\"/stock/ter\"\
+        >TER</a>, <a href=\"/stock/thvb\">THVB</a>, <a href=\"/stock/tkyvy\">TKYVY</a>,\
+        \ <a href=\"/stock/tltzy\">TLTZY</a>, <a href=\"/stock/tmo\">TMO</a>, <a href=\"\
+        /stock/tri\">TRI</a>, <a href=\"/stock/trp\">TRP</a>, <a href=\"/stock/trswf\"\
+        >TRSWF</a>, <a href=\"/stock/tspg\">TSPG</a>, <a href=\"/stock/tsu\">TSU</a>,\
+        \ <a href=\"/stock/tu\">TU</a>, <a href=\"/stock/uamm\">UAMM</a>, <a href=\"\
+        /stock/unh\">UNH</a>, <a href=\"/stock/usa\">USA</a>, <a href=\"/stock/v\"\
+        >V</a>, <a href=\"/stock/vbfc\">VBFC</a>, <a href=\"/stock/vbtc\">VBTC</a>,\
+        \ <a href=\"/stock/veoey\">VEOEY</a>, <a href=\"/stock/veru\">VERU</a>, <a\
+        \ href=\"/stock/vici\">VICI</a>, <a href=\"/stock/vlmgf\">VLMGF</a>, <a href=\"\
+        /stock/vrtx\">VRTX</a>, <a href=\"/stock/wbbw\">WBBW</a>, <a href=\"/stock/wcg\"\
+        >WCG</a>, <a href=\"/stock/xebef\">XEBEF</a>, <a href=\"/stock/xray\">XRAY</a>,\
+        \ <a href=\"/stock/xshlf\">XSHLF</a>, <a href=\"/stock/yorw\">YORW</a>, <a\
+        \ href=\"/stock/zeal\">ZEAL</a>, <a href=\"/stock/zts\">ZTS</a>, <a href=\"\
+        /stock/zurvy\">ZURVY</a>, <a href=\"/stock/zyme\">ZYME</a>, <a href=\"/intraday-update\"\
+        >Intraday Update</a>, <a href=\"/markets\">Markets</a>, <a href=\"/movers\"\
+        >Movers</a>, <a href=\"/trading-ideas\">Trading Ideas</a> / Tue, 10:11am)</span></span>\n\
+        \  </div>\n</li>\n      </ul>\n</div><div class=\"item-list\">\n      <h3>Friday,\
+        \ January 17, 2020</h3>\n    <ul>\n          <li class=\"views-row views-row-1\
+        \ views-row-odd views-row-first views-row-last\">  \n  <div class=\"views-field-title\"\
+        >\n                <span class=\"field-content\"><a href=\"/news/20/01/15144632/stocks-that-hit-52-week-highs-on-friday\"\
+        >Stocks That Hit 52-Week Highs On Friday</a> <span class=\"greyed\">(<a href=\"\
+        /stock/a\">A</a>, <a href=\"/stock/aacs\">AACS</a>, <a href=\"/stock/aaon\"\
+        >AAON</a>, <a href=\"/stock/aaukf\">AAUKF</a>, <a href=\"/stock/ab\">AB</a>,\
+        \ <a href=\"/stock/aca\">ACA</a>, <a href=\"/stock/acdsf\">ACDSF</a>, <a href=\"\
+        /stock/acgl\">ACGL</a>, <a href=\"/stock/acia\">ACIA</a>, <a href=\"/stock/acls\"\
+        >ACLS</a>, <a href=\"/stock/acm\">ACM</a>, <a href=\"/stock/adbe\">ADBE</a>,\
+        \ <a href=\"/stock/adp\">ADP</a>, <a href=\"/stock/adsk\">ADSK</a>, <a href=\"\
+        /stock/adyyf\">ADYYF</a>, <a href=\"/stock/aep\">AEP</a>, <a href=\"/stock/aer\"\
+        >AER</a>, <a href=\"/stock/aes\">AES</a>, <a href=\"/stock/affy\">AFFY</a>,\
+        \ <a href=\"/stock/afgc\">AFGC</a>, <a href=\"/stock/aiquy\">AIQUY</a>, <a\
+        \ href=\"/stock/ait\">AIT</a>, <a href=\"/stock/ajg\">AJG</a>, <a href=\"\
+        /stock/ajmpf\">AJMPF</a>, <a href=\"/stock/akam\">AKAM</a>, <a href=\"/stock/al\"\
+        >AL</a>, <a href=\"/stock/alco\">ALCO</a>, <a href=\"/stock/alfvy\">ALFVY</a>,\
+        \ <a href=\"/stock/alg\">ALG</a>, <a href=\"/stock/all\">ALL</a>, <a href=\"\
+        /stock/alle\">ALLE</a>, <a href=\"/stock/allt\">ALLT</a>, <a href=\"/stock/amady\"\
+        >AMADY</a>, <a href=\"/stock/amat\">AMAT</a>, <a href=\"/stock/ambc\">AMBC</a>,\
+        \ <a href=\"/stock/amd\">AMD</a>, <a href=\"/stock/amed\">AMED</a>, <a href=\"\
+        /stock/amigf\">AMIGF</a>, <a href=\"/stock/amn\">AMN</a>, <a href=\"/stock/amp\"\
+        >AMP</a>, <a href=\"/stock/amrc\">AMRC</a>, <a href=\"/stock/amwd\">AMWD</a>,\
+        \ <a href=\"/stock/ancuf\">ANCUF</a>, <a href=\"/stock/ansly\">ANSLY</a>,\
+        \ <a href=\"/stock/anss\">ANSS</a>, <a href=\"/stock/aomff\">AOMFF</a>, <a\
+        \ href=\"/stock/aomoy\">AOMOY</a>, <a href=\"/stock/apam-2\">APAM</a>, <a\
+        \ href=\"/stock/apo\">APO</a>, <a href=\"/stock/appf\">APPF</a>, <a href=\"\
+        /stock/aqn\">AQN</a>, <a href=\"/stock/arbv\">ARBV</a>, <a href=\"/stock/ard\"\
+        >ARD</a>, <a href=\"/stock/ares\">ARES</a>, <a href=\"/stock/asazf\">ASAZF</a>,\
+        \ <a href=\"/stock/asazy\">ASAZY</a>, <a href=\"/stock/asg\">ASG</a>, <a href=\"\
+        /stock/ashty\">ASHTY</a>, <a href=\"/stock/aspn-0\">ASPN</a>, <a href=\"/stock/asys\"\
+        >ASYS</a>, <a href=\"/stock/atcmf\">ATCMF</a>, <a href=\"/stock/atlc\">ATLC</a>,\
+        \ <a href=\"/stock/atrc\">ATRC</a>, <a href=\"/stock/atvi\">ATVI</a>, <a href=\"\
+        /stock/atzaf\">ATZAF</a>, <a href=\"/stock/audc\">AUDC</a>, <a href=\"/stock/avdl\"\
+        >AVDL</a>, <a href=\"/stock/avy\">AVY</a>, <a href=\"/stock/awk\">AWK</a>,\
+        \ <a href=\"/stock/axp\">AXP</a>, <a href=\"/stock/ay\">AY</a>, <a href=\"\
+        /stock/azn\">AZN</a>, <a href=\"/stock/baesy\">BAESY</a>, <a href=\"/stock/bam\"\
+        >BAM</a>, <a href=\"/stock/banf\">BANF</a>, <a href=\"/stock/basi\">BASI</a>,\
+        \ <a href=\"/stock/batra\">BATRA</a>, <a href=\"/stock/bcpc\">BCPC</a>, <a\
+        \ href=\"/stock/bcucy\">BCUCY</a>, <a href=\"/taxonomy/term/55073\">BEVFF</a>,\
+        \ <a href=\"/stock/bf-a-2\">BF-A</a>, <a href=\"/stock/bf-b-2\">BF-B</a>,\
+        \ <a href=\"/stock/bhe\">BHE</a>, <a href=\"/stock/bhooy\">BHOOY</a>, <a href=\"\
+        /stock/bif\">BIF</a>, <a href=\"/stock/bios\">BIOS</a>, <a href=\"/stock/bip\"\
+        >BIP</a>, <a href=\"/stock/bkrky\">BKRKY</a>, <a href=\"/stock/bl\">BL</a>,\
+        \ <a href=\"/stock/bldp\">BLDP</a>, <a href=\"/stock/blk\">BLK</a>, <a href=\"\
+        /stock/blsp\">BLSP</a>, <a href=\"/stock/bmdpy\">BMDPY</a>, <a href=\"/stock/bmo\"\
+        >BMO</a>, <a href=\"/stock/bmy\">BMY</a>, <a href=\"/stock/boe\">BOE</a>,\
+        \ <a href=\"/stock/bort\">BORT</a>, <a href=\"/stock/bpop\">BPOP</a>, <a href=\"\
+        /stock/brk-a\">BRK-A</a>, <a href=\"/stock/brk-b\">BRK-B</a>, <a href=\"/stock/bro\"\
+        >BRO</a>, <a href=\"/stock/brpm\">BRPM</a>, <a href=\"/stock/btdpy\">BTDPY</a>,\
+        \ <a href=\"/stock/burby\">BURBY</a>, <a href=\"/stock/bvrdf\">BVRDF</a>,\
+        \ <a href=\"/stock/bx\">BX</a>, <a href=\"/stock/bxp\">BXP</a>, <a href=\"\
+        /stock/cabgy\">CABGY</a>, <a href=\"/stock/caci\">CACI</a>, <a href=\"/stock/cala\"\
+        >CALA</a>, <a href=\"/stock/camrf\">CAMRF</a>, <a href=\"/stock/camt\">CAMT</a>,\
+        \ <a href=\"/stock/carcf\">CARCF</a>, <a href=\"/stock/cbb\">CBB</a>, <a href=\"\
+        /stock/cbu\">CBU</a>, <a href=\"/stock/ccc\">CCC</a>, <a href=\"/stock/ccncf\"\
+        >CCNCF</a>, <a href=\"/stock/ccoi\">CCOI</a>, <a href=\"/stock/ccxi\">CCXI</a>,\
+        \ <a href=\"/taxonomy/term/61358\">CDPYF</a>, <a href=\"/stock/cfdb\">CFDB</a>,\
+        \ <a href=\"/stock/cfg\">CFG</a>, <a href=\"/stock/cfst\">CFST</a>, <a href=\"\
+        /stock/cg\">CG</a>, <a href=\"/stock/cgnh\">CGNH</a>, <a href=\"/stock/cgnx\"\
+        >CGNX</a>, <a href=\"/stock/chdn\">CHDN</a>, <a href=\"/stock/che\">CHE</a>,\
+        \ <a href=\"/stock/cheoy\">CHEOY</a>, <a href=\"/stock/chgcy\">CHGCY</a>,\
+        \ <a href=\"/stock/chi\">CHI</a>, <a href=\"/stock/chji\">CHJI</a>, <a href=\"\
+        /stock/chrrf\">CHRRF</a>, <a href=\"/stock/chy\">CHY</a>, <a href=\"/stock/cigi\"\
+        >CIGI</a>, <a href=\"/stock/cii\">CII</a>, <a href=\"/stock/cknhf\">CKNHF</a>,\
+        \ <a href=\"/stock/clldy\">CLLDY</a>, <a href=\"/stock/clnxf\">CLNXF</a>,\
+        \ <a href=\"/stock/clpbf\">CLPBF</a>, <a href=\"/stock/clpby\">CLPBY</a>,\
+        \ <a href=\"/stock/cmcsa\">CMCSA</a>, <a href=\"/stock/cmg\">CMG</a>, <a href=\"\
+        /stock/cms\">CMS</a>, <a href=\"/stock/coo\">COO</a>, <a href=\"/stock/cpaa\"\
+        >CPAA</a>, <a href=\"/stock/cpivf\">CPIVF</a>, <a href=\"/stock/cpwhf\">CPWHF</a>,\
+        \ <a href=\"/stock/crai\">CRAI</a>, <a href=\"/stock/csfff\">CSFFF</a>, <a\
+        \ href=\"/stock/csgp\">CSGP</a>, <a href=\"/stock/csii\">CSII</a>, <a href=\"\
+        /stock/csl\">CSL</a>, <a href=\"/stock/csod\">CSOD</a>, <a href=\"/stock/csq\"\
+        >CSQ</a>, <a href=\"/stock/cswi\">CSWI</a>, <a href=\"/stock/ctas\">CTAS</a>,\
+        \ <a href=\"/stock/ctlt\">CTLT</a>, <a href=\"/stock/ctrgf\">CTRGF</a>, <a\
+        \ href=\"/stock/cuz\">CUZ</a>, <a href=\"/stock/cvco\">CVCO</a>, <a href=\"\
+        /stock/cwen\">CWEN</a>, <a href=\"/stock/cwen-a-0\">CWEN-A</a>, <a href=\"\
+        /stock/cybe\">CYBE</a>, <a href=\"/stock/cyrby\">CYRBY</a>, <a href=\"/stock/czr\"\
+        >CZR</a>, <a href=\"/stock/dar\">DAR</a>, <a href=\"/stock/dasty\">DASTY</a>,\
+        \ <a href=\"/stock/dboef\">DBOEF</a>, <a href=\"/stock/dboey\">DBOEY</a>,\
+        \ <a href=\"/stock/dex\">DEX</a>, <a href=\"/stock/dhf\">DHF</a>, <a href=\"\
+        /stock/dhr\">DHR</a>, <a href=\"/stock/doc-0\">DOC</a>, <a href=\"/stock/dogef\"\
+        >DOGEF</a>, <a href=\"/stock/door-0\">DOOR</a>, <a href=\"/stock/dov\">DOV</a>,\
+        \ <a href=\"/stock/dox\">DOX</a>, <a href=\"/stock/dpat\">DPAT</a>, <a href=\"\
+        /stock/dqws\">DQWS</a>, <a href=\"/stock/dsgx\">DSGX</a>, <a href=\"/stock/dsu\"\
+        >DSU</a>, <a href=\"/stock/dva\">DVA</a>, <a href=\"/stock/ea\">EA</a>, <a\
+        \ href=\"/stock/eadsf\">EADSF</a>, <a href=\"/stock/eadsy\">EADSY</a>, <a\
+        \ href=\"/stock/edpfy\">EDPFY</a>, <a href=\"/stock/efr\">EFR</a>, <a href=\"\
+        /stock/efsc\">EFSC</a>, <a href=\"/stock/efx\">EFX</a>, <a href=\"/stock/eghsf\"\
+        >EGHSF</a>, <a href=\"/stock/ehc\">EHC</a>, <a href=\"/stock/eix\">EIX</a>,\
+        \ <a href=\"/stock/ekkh\">EKKH</a>, <a href=\"/stock/el\">EL</a>, <a href=\"\
+        /stock/elamf\">ELAMF</a>, <a href=\"/stock/eleef\">ELEEF</a>, <a href=\"/stock/emd\"\
+        >EMD</a>, <a href=\"/stock/emr\">EMR</a>, <a href=\"/stock/emyb\">EMYB</a>,\
+        \ <a href=\"/stock/enb\">ENB</a>, <a href=\"/stock/engiy\">ENGIY</a>, <a href=\"\
+        /stock/engqf\">ENGQF</a>, <a href=\"/stock/entg\">ENTG</a>, <a href=\"/stock/eos\"\
+        >EOS</a>, <a href=\"/stock/epzm\">EPZM</a>, <a href=\"/stock/eri\">ERI</a>,\
+        \ <a href=\"/stock/es\">ES</a>, <a href=\"/stock/ese\">ESE</a>, <a href=\"\
+        /stock/esloy\">ESLOY</a>, <a href=\"/stock/esocf\">ESOCF</a>, <a href=\"/stock/essyy\"\
+        >ESSYY</a>, <a href=\"/stock/etn\">ETN</a>, <a href=\"/stock/etr\">ETR</a>,\
+        \ <a href=\"/stock/etw\">ETW</a>, <a href=\"/stock/evt\">EVT</a>, <a href=\"\
+        /taxonomy/term/47472\">EXD</a>, <a href=\"/stock/exg\">EXG</a>, <a href=\"\
+        /stock/exls\">EXLS</a>, <a href=\"/stock/expgy\">EXPGY</a>, <a href=\"/stock/expo\"\
+        >EXPO</a>, <a href=\"/stock/fate-0\">FATE</a>, <a href=\"/stock/fbasf\">FBASF</a>,\
+        \ <a href=\"/stock/fbiz\">FBIZ</a>, <a href=\"/stock/fcn\">FCN</a>, <a href=\"\
+        /stock/fct\">FCT</a>, <a href=\"/stock/fe\">FE</a>, <a href=\"/stock/fele\"\
+        >FELE</a>, <a href=\"/stock/feo\">FEO</a>, <a href=\"/stock/fis\">FIS</a>,\
+        \ <a href=\"/stock/fisv\">FISV</a>, <a href=\"/stock/fivn\">FIVN</a>, <a href=\"\
+        /stock/flex\">FLEX</a>, <a href=\"/stock/fnv\">FNV</a>, <a href=\"/stock/form\"\
+        >FORM</a>, <a href=\"/stock/freq\">FREQ</a>, <a href=\"/stock/frpt\">FRPT</a>,\
+        \ <a href=\"/stock/frrvy\">FRRVY</a>, <a href=\"/stock/frta\">FRTA</a>, <a\
+        \ href=\"/stock/fsugy\">FSUGY</a>, <a href=\"/stock/fsumf\">FSUMF</a>, <a\
+        \ href=\"/stock/ftlf\">FTLF</a>, <a href=\"/stock/ftmnf\">FTMNF</a>, <a href=\"\
+        /stock/ftnt\">FTNT</a>, <a href=\"/stock/fts\">FTS</a>, <a href=\"/stock/ftsv\"\
+        >FTSV</a>, <a href=\"/stock/fund\">FUND</a>, <a href=\"/stock/fwona\">FWONA</a>,\
+        \ <a href=\"/stock/fwonk\">FWONK</a>, <a href=\"/stock/fxcny\">FXCNY</a>,\
+        \ <a href=\"/stock/fzro\">FZRO</a>, <a href=\"/stock/g\">G</a>, <a href=\"\
+        /stock/gabc\">GABC</a>, <a href=\"/stock/gbt\">GBT</a>, <a href=\"/stock/gbxpy\"\
+        >GBXPY</a>, <a href=\"/stock/gds\">GDS</a>, <a href=\"/stock/gdv\">GDV</a>,\
+        \ <a href=\"/stock/ges\">GES</a>, <a href=\"/stock/gf\">GF</a>, <a href=\"\
+        /stock/ggsm\">GGSM</a>, <a href=\"/stock/gib\">GIB</a>, <a href=\"/stock/glaxf\"\
+        >GLAXF</a>, <a href=\"/stock/glob\">GLOB</a>, <a href=\"/stock/glpg\">GLPG</a>,\
+        \ <a href=\"/stock/glpi\">GLPI</a>, <a href=\"/stock/gmicf\">GMICF</a>, <a\
+        \ href=\"/stock/gmre\">GMRE</a>, <a href=\"/stock/gmwkf\">GMWKF</a>, <a href=\"\
+        /stock/gnrc\">GNRC</a>, <a href=\"/stock/gntx\">GNTX</a>, <a href=\"/stock/goog\"\
+        >GOOG</a>, <a href=\"/stock/googl\">GOOGL</a>, <a href=\"/stock/gpn\">GPN</a>,\
+        \ <a href=\"/stock/grx\">GRX</a>, <a href=\"/stock/gs\">GS</a>, <a href=\"\
+        /stock/gsk\">GSK</a>, <a href=\"/stock/gsx\">GSX</a>, <a href=\"/stock/gvdbf\"\
+        >GVDBF</a>, <a href=\"/stock/gvdny\">GVDNY</a>, <a href=\"/stock/gwlif\">GWLIF</a>,\
+        \ <a href=\"/stock/gxyef\">GXYEF</a>, <a href=\"/stock/hasi\">HASI</a>, <a\
+        \ href=\"/stock/havxf\">HAVXF</a>, <a href=\"/stock/hbt\">HBT</a>, <a href=\"\
+        /stock/hesaf\">HESAF</a>, <a href=\"/stock/hesay\">HESAY</a>, <a href=\"/stock/hil\"\
+        >HIL</a>, <a href=\"/stock/hiw\">HIW</a>, <a href=\"/taxonomy/term/48022\"\
+        >HLI</a>, <a href=\"/stock/hlne\">HLNE</a>, <a href=\"/stock/hlt\">HLT</a>,\
+        \ <a href=\"/stock/holx\">HOLX</a>, <a href=\"/stock/homb\">HOMB</a>, <a href=\"\
+        /stock/hon\">HON</a>, <a href=\"/stock/hone\">HONE</a>, <a href=\"/stock/hpmcf\"\
+        >HPMCF</a>, <a href=\"/stock/hrely\">HRELY</a>, <a href=\"/stock/hrl\">HRL</a>,\
+        \ <a href=\"/stock/htlf\">HTLF</a>, <a href=\"/stock/hty\">HTY</a>, <a href=\"\
+        /stock/hubb-0\">HUBB</a>, <a href=\"/stock/hvrry\">HVRRY</a>, <a href=\"/stock/iac\"\
+        >IAC</a>, <a href=\"/stock/icad\">ICAD</a>, <a href=\"/stock/ice\">ICE</a>,\
+        \ <a href=\"/stock/iclr\">ICLR</a>, <a href=\"/stock/iex\">IEX</a>, <a href=\"\
+        /stock/ifczf\">IFCZF</a>, <a href=\"/stock/iiin\">IIIN</a>, <a href=\"/stock/iiiv\"\
+        >IIIV</a>, <a href=\"/stock/inf\">INF</a>, <a href=\"/stock/infn\">INFN</a>,\
+        \ <a href=\"/stock/ingxf\">INGXF</a>, <a href=\"/stock/inov\">INOV</a>, <a\
+        \ href=\"/stock/insp\">INSP</a>, <a href=\"/stock/intl\">INTL</a>, <a href=\"\
+        /stock/ipg\">IPG</a>, <a href=\"/stock/iphi\">IPHI</a>, <a href=\"/stock/itmmf\"\
+        >ITMMF</a>, <a href=\"/stock/itri\">ITRI</a>, <a href=\"/stock/ixog\">IXOG</a>,\
+        \ <a href=\"/stock/jcom\">JCOM</a>, <a href=\"/stock/jef\">JEF</a>, <a href=\"\
+        /stock/jgh\">JGH</a>, <a href=\"/stock/jhx\">JHX</a>, <a href=\"/stock/jnj\"\
+        >JNJ</a>, <a href=\"/stock/k\">K</a>, <a href=\"/stock/kai\">KAI</a>, <a href=\"\
+        /stock/kkr\">KKR</a>, <a href=\"/stock/klic\">KLIC</a>, <a href=\"/stock/kmb\"\
+        >KMB</a>, <a href=\"/stock/knsl\">KNSL</a>, <a href=\"/stock/knyjf\">KNYJF</a>,\
+        \ <a href=\"/stock/ko\">KO</a>, <a href=\"/stock/krnt\">KRNT</a>, <a href=\"\
+        /stock/ksu\">KSU</a>, <a href=\"/stock/lamr\">LAMR</a>, <a href=\"/stock/land-1\"\
+        >LAND</a>, <a href=\"/stock/lcii\">LCII</a>, <a href=\"/stock/ldos\">LDOS</a>,\
+        \ <a href=\"/stock/len\">LEN</a>, <a href=\"/stock/len-b\">LEN-B</a>, <a href=\"\
+        /stock/lfgp\">LFGP</a>, <a href=\"/stock/lgdtf\">LGDTF</a>, <a href=\"/stock/lhx\"\
+        >LHX</a>, <a href=\"/stock/lk\">LK</a>, <a href=\"/stock/lmt\">LMT</a>, <a\
+        \ href=\"/stock/lnngy\">LNNGY</a>, <a href=\"/stock/lnt\">LNT</a>, <a href=\"\
+        /stock/lpkff\">LPKFF</a>, <a href=\"/stock/lpla\">LPLA</a>, <a href=\"/stock/lpt-0\"\
+        >LPT</a>, <a href=\"/stock/lpx\">LPX</a>, <a href=\"/stock/lrlcf\">LRLCF</a>,\
+        \ <a href=\"/stock/lrlcy\">LRLCY</a>, <a href=\"/stock/lsi\">LSI</a>, <a href=\"\
+        /stock/lslpf\">LSLPF</a>, <a href=\"/stock/lsxmk\">LSXMK</a>, <a href=\"/stock/lub\"\
+        >LUB</a>, <a href=\"/stock/lukoy\">LUKOY</a>, <a href=\"/stock/luna\">LUNA</a>,\
+        \ <a href=\"/stock/lunmf\">LUNMF</a>, <a href=\"/stock/lvmhf\">LVMHF</a>,\
+        \ <a href=\"/stock/lvmuy\">LVMUY</a>, <a href=\"/stock/lvs\">LVS</a>, <a href=\"\
+        /stock/lyv\">LYV</a>, <a href=\"/stock/ma\">MA</a>, <a href=\"/stock/main\"\
+        >MAIN</a>, <a href=\"/stock/mas\">MAS</a>, <a href=\"/stock/masi\">MASI</a>,\
+        \ <a href=\"/stock/mcbi\">MCBI</a>, <a href=\"/stock/mck\">MCK</a>, <a href=\"\
+        /stock/mco\">MCO</a>, <a href=\"/stock/mdt\">MDT</a>, <a href=\"/stock/medp\"\
+        >MEDP</a>, <a href=\"/stock/meso\">MESO</a>, <a href=\"/stock/mgm\">MGM</a>,\
+        \ <a href=\"/stock/milv\">MILV</a>, <a href=\"/stock/mkrmf\">MKRMF</a>, <a\
+        \ href=\"/stock/mmc\">MMC</a>, <a href=\"/stock/mmmb\">MMMB</a>, <a href=\"\
+        /stock/mmngf\">MMNGF</a>, <a href=\"/stock/mmtif\">MMTIF</a>, <a href=\"/stock/mnst\"\
+        >MNST</a>, <a href=\"/stock/mpw\">MPW</a>, <a href=\"/stock/mqbky\">MQBKY</a>,\
+        \ <a href=\"/stock/mqt\">MQT</a>, <a href=\"/stock/mrsn\">MRSN</a>, <a href=\"\
+        /stock/mrvl\">MRVL</a>, <a href=\"/stock/mrzm\">MRZM</a>, <a href=\"/stock/msa\"\
+        >MSA</a>, <a href=\"/stock/msci\">MSCI</a>, <a href=\"/stock/msft\">MSFT</a>,\
+        \ <a href=\"/stock/mtsi\">MTSI</a>, <a href=\"/stock/mxf\">MXF</a>, <a href=\"\
+        /stock/nclh-1\">NCLH</a>, <a href=\"/stock/ndaq\">NDAQ</a>, <a href=\"/stock/ndsn\"\
+        >NDSN</a>, <a href=\"/stock/nee\">NEE</a>, <a href=\"/stock/nerv\">NERV</a>,\
+        \ <a href=\"/news\">News</a>, <a href=\"/stock/ngg\">NGG</a>, <a href=\"/stock/ngloy\"\
+        >NGLOY</a>, <a href=\"/stock/ngxxf\">NGXXF</a>, <a href=\"/stock/nice\">NICE</a>,\
+        \ <a href=\"/stock/nie\">NIE</a>, <a href=\"/stock/nilsy\">NILSY</a>, <a href=\"\
+        /stock/nke\">NKE</a>, <a href=\"/stock/nlok\">NLOK</a>, <a href=\"/stock/nmgnf\"\
+        >NMGNF</a>, <a href=\"/stock/nmysf\">NMYSF</a>, <a href=\"/stock/nnomf\">NNOMF</a>,\
+        \ <a href=\"/stock/novt\">NOVT</a>, <a href=\"/stock/now\">NOW</a>, <a href=\"\
+        /stock/ntes\">NTES</a>, <a href=\"/stock/nuan\">NUAN</a>, <a href=\"/stock/nvs\"\
+        >NVS</a>, <a href=\"/stock/nvsef\">NVSEF</a>, <a href=\"/stock/nwsa\">NWSA</a>,\
+        \ <a href=\"/stock/nxpi\">NXPI</a>, <a href=\"/stock/nxst\">NXST</a>, <a href=\"\
+        /stock/ocpny\">OCPNY</a>, <a href=\"/stock/odfl\">ODFL</a>, <a href=\"/stock/oesx\"\
+        >OESX</a>, <a href=\"/stock/onss\">ONSS</a>, <a href=\"/stock/onto\">ONTO</a>,\
+        \ <a href=\"/stock/orrlf\">ORRLF</a>, <a href=\"/stock/osb\">OSB</a>, <a href=\"\
+        /stock/otex\">OTEX</a>, <a href=\"/stock/out\">OUT</a>, <a href=\"/stock/oxbc\"\
+        >OXBC</a>, <a href=\"/stock/patk\">PATK</a>, <a href=\"/stock/pbh\">PBH</a>,\
+        \ <a href=\"/stock/pch\">PCH</a>, <a href=\"/stock/pcrff\">PCRFF</a>, <a href=\"\
+        /stock/pcrfy\">PCRFY</a>, <a href=\"/stock/pcty-0\">PCTY</a>, <a href=\"/stock/pdm\"\
+        >PDM</a>, <a href=\"/stock/pebo\">PEBO</a>, <a href=\"/stock/pega\">PEGA</a>,\
+        \ <a href=\"/stock/pep\">PEP</a>, <a href=\"/stock/pfbc\">PFBC</a>, <a href=\"\
+        /stock/pg\">PG</a>, <a href=\"/stock/pgezf\">PGEZF</a>, <a href=\"/stock/phm\"\
+        >PHM</a>, <a href=\"/stock/piaif\">PIAIF</a>, <a href=\"/stock/pioe\">PIOE</a>,\
+        \ <a href=\"/stock/pipr\">PIPR</a>, <a href=\"/stock/pld\">PLD</a>, <a href=\"\
+        /stock/plxs\">PLXS</a>, <a href=\"/stock/pmm\">PMM</a>, <a href=\"/stock/pngay\"\
+        >PNGAY</a>, <a href=\"/stock/pnr\">PNR</a>, <a href=\"/stock/por\">POR</a>,\
+        \ <a href=\"/stock/poyyf\">POYYF</a>, <a href=\"/stock/pprqf\">PPRQF</a>,\
+        \ <a href=\"/stock/ppruf\">PPRUF</a>, <a href=\"/stock/ppruy\">PPRUY</a>,\
+        \ <a href=\"/stock/prft\">PRFT</a>, <a href=\"/taxonomy/term/61837\">PRGAF</a>,\
+        \ <a href=\"/stock/prgo\">PRGO</a>, <a href=\"/stock/prgs\">PRGS</a>, <a href=\"\
+        /stock/prka\">PRKA</a>, <a href=\"/stock/prkr\">PRKR</a>, <a href=\"/stock/prnb\"\
+        >PRNB</a>, <a href=\"/stock/pwfl\">PWFL</a>, <a href=\"/stock/qbiey\">QBIEY</a>,\
+        \ <a href=\"/stock/qcom\">QCOM</a>, <a href=\"/stock/qmco\">QMCO</a>, <a href=\"\
+        /stock/qmxgf\">QMXGF</a>, <a href=\"/stock/qqqx\">QQQX</a>, <a href=\"/stock/qts\"\
+        >QTS</a>, <a href=\"/stock/race\">RACE</a>, <a href=\"/stock/rapt\">RAPT</a>,\
+        \ <a href=\"/stock/rccmf\">RCCMF</a>, <a href=\"/stock/rcel\">RCEL</a>, <a\
+        \ href=\"/stock/rcii\">RCII</a>, <a href=\"/stock/rcl\">RCL</a>, <a href=\"\
+        /stock/rdfn\">RDFN</a>, <a href=\"/stock/re\">RE</a>, <a href=\"/stock/reli\"\
+        >RELI</a>, <a href=\"/stock/relx\">RELX</a>, <a href=\"/stock/repl\">REPL</a>,\
+        \ <a href=\"/stock/rgt\">RGT</a>, <a href=\"/stock/rhhbf\">RHHBF</a>, <a href=\"\
+        /stock/rhhby\">RHHBY</a>, <a href=\"/stock/rhhvf\">RHHVF</a>, <a href=\"/stock/rjf\"\
+        >RJF</a>, <a href=\"/stock/rlxxf\">RLXXF</a>, <a href=\"/stock/rmd\">RMD</a>,\
+        \ <a href=\"/stock/rng\">RNG</a>, <a href=\"/stock/roll\">ROLL</a>, <a href=\"\
+        /stock/rosyy\">ROSYY</a>, <a href=\"/stock/rsg\">RSG</a>, <a href=\"/stock/rthvf\"\
+        >RTHVF</a>, <a href=\"/stock/rtmvy\">RTMVY</a>, <a href=\"/stock/rtn\">RTN</a>,\
+        \ <a href=\"/stock/rtoky\">RTOKY</a>, <a href=\"/stock/rvt\">RVT</a>, <a href=\"\
+        /stock/rweoy\">RWEOY</a>, <a href=\"/stock/rwt\">RWT</a>, <a href=\"/stock/rxn\"\
+        >RXN</a>, <a href=\"/stock/sar\">SAR</a>, <a href=\"/stock/sauhy\">SAUHY</a>,\
+        \ <a href=\"/stock/sbgl-0\">SBGL</a>, <a href=\"/stock/sbhmy\">SBHMY</a>,\
+        \ <a href=\"/stock/sbi\">SBI</a>, <a href=\"/stock/sbny\">SBNY</a>, <a href=\"\
+        /stock/schyf\">SCHYF</a>, <a href=\"/stock/schyy\">SCHYY</a>, <a href=\"/stock/sci\"\
+        >SCI</a>, <a href=\"/stock/seas\">SEAS</a>, <a href=\"/stock/sem\">SEM</a>,\
+        \ <a href=\"/stock/sf\">SF</a>, <a href=\"/stock/sgiof\">SGIOF</a>, <a href=\"\
+        /stock/sgsoy\">SGSOY</a>, <a href=\"/stock/shop\">SHOP</a>, <a href=\"/stock/siri\"\
+        >SIRI</a>, <a href=\"/stock/siuif\">SIUIF</a>, <a href=\"/stock/skyw\">SKYW</a>,\
+        \ <a href=\"/stock/slf\">SLF</a>, <a href=\"/stock/smicy\">SMICY</a>, <a href=\"\
+        /stock/smnuf\">SMNUF</a>, <a href=\"/stock/smti\">SMTI</a>, <a href=\"/stock/snap\"\
+        >SNAP</a>, <a href=\"/stock/snejf\">SNEJF</a>, <a href=\"/stock/sngx\">SNGX</a>,\
+        \ <a href=\"/stock/snn\">SNN</a>, <a href=\"/stock/snps\">SNPS</a>, <a href=\"\
+        /stock/so\">SO</a>, <a href=\"/stock/sofo\">SOFO</a>, <a href=\"/stock/sohl\"\
+        >SOHL</a>, <a href=\"/stock/spaq\">SPAQ</a>, <a href=\"/stock/spgi\">SPGI</a>,\
+        \ <a href=\"/stock/splk\">SPLK</a>, <a href=\"/stock/sre\">SRE</a>, <a href=\"\
+        /stock/srrtf\">SRRTF</a>, <a href=\"/stock/ssezy\">SSEZY</a>, <a href=\"/stock/stag\"\
+        >STAG</a>, <a href=\"/stock/star\">STAR</a>, <a href=\"/stock/stkaf\">STKAF</a>,\
+        \ <a href=\"/stock/stks\">STKS</a>, <a href=\"/stock/stlxf\">STLXF</a>, <a\
+        \ href=\"/stock/stmef\">STMEF</a>, <a href=\"/stock/stt\">STT</a>, <a href=\"\
+        /stock/stx\">STX</a>, <a href=\"/stock/surrf\">SURRF</a>, <a href=\"/stock/svmk\"\
+        >SVMK</a>, <a href=\"/stock/swk\">SWK</a>, <a href=\"/stock/swz\">SWZ</a>,\
+        \ <a href=\"/stock/syna\">SYNA</a>, <a href=\"/stock/szevy\">SZEVY</a>, <a\
+        \ href=\"/stock/tbk\">TBK</a>, <a href=\"/stock/tctzf\">TCTZF</a>, <a href=\"\
+        /stock/tdg\">TDG</a>, <a href=\"/stock/tdy\">TDY</a>, <a href=\"/stock/tela\"\
+        >TELA</a>, <a href=\"/stock/tezny\">TEZNY</a>, <a href=\"/stock/tfx\">TFX</a>,\
+        \ <a href=\"/stock/tgtx\">TGTX</a>, <a href=\"/stock/tho\">THO</a>, <a href=\"\
+        /stock/thrm\">THRM</a>, <a href=\"/stock/tif\">TIF</a>, <a href=\"/stock/tkr\"\
+        >TKR</a>, <a href=\"/stock/tmo\">TMO</a>, <a href=\"/stock/tmxxf\">TMXXF</a>,\
+        \ <a href=\"/stock/tnc\">TNC</a>, <a href=\"/stock/tol\">TOL</a>, <a href=\"\
+        /stock/tph\">TPH</a>, <a href=\"/stock/trex\">TREX</a>, <a href=\"/stock/tri\"\
+        >TRI</a>, <a href=\"/stock/trow\">TROW</a>, <a href=\"/stock/trp\">TRP</a>,\
+        \ <a href=\"/stock/trswf\">TRSWF</a>, <a href=\"/stock/trtn\">TRTN</a>, <a\
+        \ href=\"/stock/tru\">TRU</a>, <a href=\"/stock/tshmy\">TSHMY</a>, <a href=\"\
+        /stock/tsu\">TSU</a>, <a href=\"/stock/ttc\">TTC</a>, <a href=\"/stock/ttmi\"\
+        >TTMI</a>, <a href=\"/stock/ttndy\">TTNDY</a>, <a href=\"/stock/tu\">TU</a>,\
+        \ <a href=\"/stock/twodf\">TWODF</a>, <a href=\"/stock/umh\">UMH</a>, <a href=\"\
+        /stock/unp\">UNP</a>, <a href=\"/stock/usa\">USA</a>, <a href=\"/stock/utx\"\
+        >UTX</a>, <a href=\"/stock/v\">V</a>, <a href=\"/stock/veoey\">VEOEY</a>,\
+        \ <a href=\"/stock/vici\">VICI</a>, <a href=\"/stock/vicr\">VICR</a>, <a href=\"\
+        /stock/vir\">VIR</a>, <a href=\"/stock/vmi\">VMI</a>, <a href=\"/stock/vnet\"\
+        >VNET</a>, <a href=\"/stock/vrtx\">VRTX</a>, <a href=\"/stock/wabc\">WABC</a>,\
+        \ <a href=\"/stock/wake\">WAKE</a>, <a href=\"/stock/wal\">WAL</a>, <a href=\"\
+        /stock/waxs\">WAXS</a>, <a href=\"/stock/wcn\">WCN</a>, <a href=\"/stock/wd\"\
+        >WD</a>, <a href=\"/stock/wex\">WEX</a>, <a href=\"/stock/wfafy\">WFAFY</a>,\
+        \ <a href=\"/stock/wlh\">WLH</a>, <a href=\"/stock/wms-2\">WMS</a>, <a href=\"\
+        /stock/wolwf\">WOLWF</a>, <a href=\"/stock/wsc\">WSC</a>, <a href=\"/stock/wsm\"\
+        >WSM</a>, <a href=\"/stock/wst\">WST</a>, <a href=\"/stock/wtkwy\">WTKWY</a>,\
+        \ <a href=\"/stock/wtr\">WTR</a>, <a href=\"/stock/wxxwy\">WXXWY</a>, <a href=\"\
+        /stock/wy\">WY</a>, <a href=\"/stock/wynd\">WYND</a>, <a href=\"/stock/wynn\"\
+        >WYNN</a>, <a href=\"/stock/xene\">XENE</a>, <a href=\"/stock/xiacf\">XIACF</a>,\
+        \ <a href=\"/stock/xiacy\">XIACY</a>, <a href=\"/stock/xngsy\">XNGSY</a>,\
+        \ <a href=\"/stock/xray\">XRAY</a>, <a href=\"/stock/yndx\">YNDX</a>, <a href=\"\
+        /stock/yorw\">YORW</a>, <a href=\"/stock/zgnx\">ZGNX</a>, <a href=\"/stock/zlab\"\
+        >ZLAB</a>, <a href=\"/stock/ztcof\">ZTCOF</a>, <a href=\"/stock/ztcoy\">ZTCOY</a>,\
+        \ <a href=\"/stock/zto\">ZTO</a>, <a href=\"/stock/zts\">ZTS</a>, <a href=\"\
+        /stock/zurvy\">ZURVY</a>, <a href=\"/general/movers-shakers\">Movers &amp;\
+        \ Shakers</a>, <a href=\"/intraday-update\">Intraday Update</a>, <a href=\"\
+        /markets\">Markets</a>, <a href=\"/movers\">Movers</a>, <a href=\"/trading-ideas\"\
+        >Trading Ideas</a>, <a href=\"/general\">General</a> / Fri, 01:23pm)</span></span>\n\
+        \  </div>\n</li>\n      </ul>\n</div>    </div>\n  \n      <div class=\"item-list\"\
+        ><ul class=\"pager\"><li class=\"pager-first first\"><a href=\"/stock-articles/spaq/all\"\
+        \ title=\"Go to first page\" class=\"active\">\xAB first</a></li>\n<li class=\"\
+        pager-previous last\"><a href=\"/stock-articles/spaq/all\" title=\"Go to previous\
+        \ page\" class=\"active\">\u2039 previous</a></li>\n</ul></div>  \n  \n  \n\
+        \  \n  \n</div>   </div>\n\n  \n  </div>\n        </div>\n      </div>\n \
+        \   </div>\n    <div class=\"benzinga-blocks\">\n      <div class=\"panel-pane\
+        \ pane-block pane-bzads-google-dfp-benzinga-pro-subscription-ad\" >\n  \n\
+        \  \n  \n  <div class=\"pane-content\">\n          <div id=\"google_ad\">\n\
+        \        <!-- benzingapro_rightrail -->\n        <div id='div-gpt-ad-1567612819658-0'></div>\n\
+        \      </div>  </div>\n\n  \n  </div>\n<div class=\"panel-region-separator\"\
+        ></div><div class=\"panel-pane pane-bz2-site-home-most\" >\n  \n  \n  \n \
+        \ <div class=\"pane-content\">\n    <div id=\"top-stories-block\" class=\"\
+        block\">\n    <div class=\"block-tabs\">\n      <ul>\n        <li><a href=\"\
+        javascript:void(0)\" class=\"orange\">Trending</a></li>\n        <li><a href=\"\
+        javascript:void(0)\" class=\"blue\">Recent</a></li>\n      </ul>\n    </div>\n\
+        \    <div class=\"block-shadow block-border\">\n      <div class=\"block-themes-content\"\
+        >\n        <div class=\"content\">\n          <div class=\"item-list\">\n\
+        \            <table>\n          <tr>\n            <td class='most-count'><a\
+        \ href='/markets/cryptocurrency/20/12/18869075/elon-musk-curious-if-converting-teslas-balance-sheet-to-bitcoin-is-even-possible'>1</a></td>\n\
+        \            <td><a href='/markets/cryptocurrency/20/12/18869075/elon-musk-curious-if-converting-teslas-balance-sheet-to-bitcoin-is-even-possible'><strong>PYPL,\
+        \ MSTR</strong>: Elon Musk Curious If Converting Tesla&#039;s Balance Sheet\
+        \ To Bitcoin...</a></td>\n          </tr>\n        \n          <tr>\n    \
+        \        <td class='most-count'><a href='/news/20/12/18872066/42-stocks-moving-in-mondays-pre-market-session'>2</a></td>\n\
+        \            <td><a href='/news/20/12/18872066/42-stocks-moving-in-mondays-pre-market-session'><strong>IFMK,\
+        \ BORR</strong>: 42 Stocks Moving in Monday&#039;s Pre-Market Session</a></td>\n\
+        \          </tr>\n        \n          <tr>\n            <td class='most-count'><a\
+        \ href='/news/20/12/18890212/42-stocks-moving-in-tuesdays-pre-market-session'>3</a></td>\n\
+        \            <td><a href='/news/20/12/18890212/42-stocks-moving-in-tuesdays-pre-market-session'><strong>SCKT,\
+        \ FUBO</strong>: 42 Stocks Moving in Tuesday&#039;s Pre-Market Session</a></td>\n\
+        \          </tr>\n        \n          <tr>\n            <td class='most-count'><a\
+        \ href='/analyst-ratings/analyst-color/20/12/18888130/why-apple-could-emerge-as-teslas-first-true-competitor'>4</a></td>\n\
+        \            <td><a href='/analyst-ratings/analyst-color/20/12/18888130/why-apple-could-emerge-as-teslas-first-true-competitor'><strong>UBER,\
+        \ AAPL</strong>: Why Apple Could Emerge As Tesla&#039;s &...</a></td>\n  \
+        \        </tr>\n        \n          <tr>\n            <td class='most-count'><a\
+        \ href='/pre-market-outlook/20/12/18873370/benzinga-pros-top-5-stocks-to-watch-for-monday-dec-21-2020-eyeg-nke-zm-wmt-aim'>5</a></td>\n\
+        \            <td><a href='/pre-market-outlook/20/12/18873370/benzinga-pros-top-5-stocks-to-watch-for-monday-dec-21-2020-eyeg-nke-zm-wmt-aim'><strong>EYEG,\
+        \ NKE</strong>: Benzinga Pro&#039;s Top 5 Stock...</a></td>\n          </tr>\n\
+        \        \n          <tr>\n            <td class='most-count'><a href='/news/20/12/18884865/apple-aims-to-produce-electric-vehicle-in-2024-report'>6</a></td>\n\
+        \            <td><a href='/news/20/12/18884865/apple-aims-to-produce-electric-vehicle-in-2024-report'><strong>TSLA,\
+        \ AAPL</strong>: Apple Aims To Produce...</a></td>\n          </tr>\n    \
+        \    \n          <tr>\n            <td class='most-count'><a href='/fintech/20/12/18869130/you-can-take-any-of-the-platforms-ant-has-jack-ma-told-beijing-amid-ipo-scrutiny-wsj'>7</a></td>\n\
+        \            <td><a href='/fintech/20/12/18869130/you-can-take-any-of-the-platforms-ant-has-jack-ma-told-beijing-amid-ipo-scrutiny-wsj'><strong>TCEHY,\
+        \ BABA</strong>: &#039;You...</a></td>\n          </tr>\n        </table>\
+        \          </div>\n        </div>\n        <div class=\"content tab-content-hide\"\
+        >\n          <div class=\"item-list\">\n            <table>\n          <tr>\n\
+        \            <td class='most-count'><a href='/analyst-ratings/analyst-color/20/12/18894112/teladoc-health-a-large-player-in-a-fast-growing-market-evercore-isi'>1</a></td>\n\
+        \            <td><a href='/analyst-ratings/analyst-color/20/12/18894112/teladoc-health-a-large-player-in-a-fast-growing-market-evercore-isi'><strong>TDOC</strong>:\
+        \ Teladoc Health A &#039;Large Player In A Fast-Growing Market&#039;: Evercore\
+        \ ISI</a></td>\n          </tr>\n        \n          <tr>\n            <td\
+        \ class='most-count'><a href='/analyst-ratings/analyst-color/20/12/18897840/why-this-lordstown-motors-analyst-is-bullish-ahead-of-endurance-ev-production'>2</a></td>\n\
+        \            <td><a href='/analyst-ratings/analyst-color/20/12/18897840/why-this-lordstown-motors-analyst-is-bullish-ahead-of-endurance-ev-production'><strong>RIDE</strong>:\
+        \ Why This Lordstown Motors Analyst Is Bullish Ahead Of Endurance EV Production</a></td>\n\
+        \          </tr>\n        \n          <tr>\n            <td class='most-count'><a\
+        \ href='/news/20/12/18898253/why-cruise-line-stocks-are-trading-lower-today'>3</a></td>\n\
+        \            <td><a href='/news/20/12/18898253/why-cruise-line-stocks-are-trading-lower-today'><strong>RCL,\
+        \ CCL</strong>: Why Cruise Line Stocks Are Trading Lower Today</a></td>\n\
+        \          </tr>\n        \n          <tr>\n            <td class='most-count'><a\
+        \ href='/intraday-update/20/12/18897854/12-health-care-stocks-moving-in-tuesdays-intraday-session'>4</a></td>\n\
+        \            <td><a href='/intraday-update/20/12/18897854/12-health-care-stocks-moving-in-tuesdays-intraday-session'><strong>VERO,\
+        \ EYES</strong>: 12 Health Care Stocks Moving In Tuesday&#039;s Intrada...</a></td>\n\
+        \          </tr>\n        \n          <tr>\n            <td class='most-count'><a\
+        \ href='/intraday-update/20/12/18897853/12-information-technology-stocks-moving-in-tuesdays-intraday-session'>5</a></td>\n\
+        \            <td><a href='/intraday-update/20/12/18897853/12-information-technology-stocks-moving-in-tuesdays-intraday-session'><strong>RIOT,\
+        \ XELA</strong>: 12 Information Technology Stocks Moving In T...</a></td>\n\
+        \          </tr>\n        \n          <tr>\n            <td class='most-count'><a\
+        \ href='/markets/options/20/12/18898291/jon-najarian-sees-unusual-options-activity-in-general-electric-and-canadian-solar'>6</a></td>\n\
+        \            <td><a href='/markets/options/20/12/18898291/jon-najarian-sees-unusual-options-activity-in-general-electric-and-canadian-solar'><strong>CSIQ,\
+        \ GE</strong>: Jon Najarian Sees Unusual Options Ac...</a></td>\n        \
+        \  </tr>\n        \n          <tr>\n            <td class='most-count'><a\
+        \ href='/intraday-update/20/12/18897855/12-consumer-discretionary-stocks-moving-in-tuesdays-intraday-session'>7</a></td>\n\
+        \            <td><a href='/intraday-update/20/12/18897855/12-consumer-discretionary-stocks-moving-in-tuesdays-intraday-session'><strong>GME,\
+        \ QS</strong>: 12 Consumer Discretionary Sto...</a></td>\n          </tr>\n\
+        \        </table>          </div>\n        </div>\n      </div>\n    </div>\n\
+        </div>\n  </div>\n\n  \n  </div>\n<div class=\"panel-region-separator\"></div><div\
+        \ class=\"panel-pane pane-block pane-bzads-bzadwrapper-300x250-bottom-right\"\
+        \ >\n  \n  \n  \n  <div class=\"pane-content\">\n          <div id=\"google_ad\"\
+        >\n        <!-- Benzinga:300x250-Right-Bottom -->\n        <div id='div-gpt-ad-1346993650129-0'></div>\n\
+        \      </div>  </div>\n\n  \n  </div>\n    </div>\n    <div class=\"enddiv\"\
+        ></div>\n  </div> <!-- benzinga main -->\n</div>\n<div id=\"benzinga-footer\"\
+        >\n  <div class=\"section-footer\">\n    <div class=\"container w-container\"\
+        >\n      <div class=\"branding-and-socials\">\n        <a href=\"https://www.benzinga.com/\"\
+        ><img src=\"/sites/all/themes/bz2/images/footer/Benzinga_Logo_web-03.png\"\
+        \ alt=\"\" class=\"benzinga-logo\"></a>\n        <div class=\"social-media-wrapper\"\
+        >\n          <div class=\"icon-wrapper\">\n            <a href=\"https://www.facebook.com/Benzinga/\"\
+        ><div class=\"facebook-icon\">\uF082</div></a>\n          </div>\n       \
+        \   <div class=\"icon-wrapper\">\n            <a href=\"https://twitter.com/benzinga\"\
+        ><div class=\"twitter-icon\">\uF081</div></a>\n          </div>\n        \
+        \  <div class=\"icon-wrapper\">\n            <a href=\"https://www.instagram.com/benzinga/?hl=en\"\
+        ><div class=\"instagram-icon\">\uF16D</div></a>\n          </div>\n      \
+        \    <div class=\"icon-wrapper\">\n            <a href=\"https://www.youtube.com/benzinga\"\
+        ><div class=\"youtube-icon\">\uF167</div></a>\n          </div>\n        \
+        \  <div class=\"icon-wrapper\">\n            <a href=\"https://soundcloud.com/bztv\"\
+        ><div class=\"soundcloud-icon\">\uF1BE</div></a>\n          </div>\n     \
+        \   </div>\n        <div class=\"app-store-wrapper\">\n          <a href=\"\
+        https://apps.apple.com/us/app/benzinga-stock-news-tracker/id688949481\"><div\
+        \ class=\"app-store-button-wrapper\"></div></a>\n        </div>\n      </div>\n\
+        \      <div class=\"divider-footer\"></div>\n      <div class=\"links-container\"\
+        >\n        <div class=\"popular-channels-div\">\n          <div class=\"link-title\"\
+        >Popular Channels</div>\n          <ul class=\"list w-list-unstyled\">\n \
+        \           <li class=\"footer-link\"><a href=\"https://www.benzinga.com/premarket-prep/\"\
+        \ class=\"footer-link\">PreMarket Prep</a></li>\n            <li class=\"\
+        footer-link\"><a href=\"https://www.benzinga.com/pressreleases\" class=\"\
+        footer-link\">Press Releases</a></li>\n            <li class=\"footer-link\"\
+        ><a href=\"https://www.benzinga.com/analyst-ratings\" class=\"footer-link\"\
+        >Analyst Ratings</a></li>\n            <li class=\"footer-link\"><a href=\"\
+        https://www.benzinga.com/news\" class=\"footer-link\">News</a></li>\n    \
+        \        <li class=\"footer-link\"><a href=\"https://www.benzinga.com/markets/options\"\
+        \ class=\"footer-link\">Options</a></li>\n            <li class=\"footer-link\"\
+        ><a href=\"https://www.benzinga.com/etfs\" class=\"footer-link\">ETFs</a></li>\n\
+        \          </ul>\n        </div>\n        <div class=\"tools-and-features-div\"\
+        >\n          <div class=\"link-title\">Tools &amp; Features</div>\n      \
+        \    <ul class=\"list w-list-unstyled\">\n            <li class=\"footer-link\"\
+        ><a href=\"https://pro.benzinga.com/\" class=\"footer-link\">Real Time Feed</a></li>\n\
+        \            <li class=\"footer-link\"><a href=\"https://www.benzinga.com/feeds/list\"\
+        \ class=\"footer-link\">Public RSS Feeds</a></li>\n            <li class=\"\
+        footer-link\"><a href=\"https://www.benzinga.com/contact\" class=\"footer-link\"\
+        >Submit News Tips</a></li>\n            <li class=\"footer-link\"><a href=\"\
+        https://pro.benzinga.com/blog/\" class=\"footer-link\">Blog</a></li>\n   \
+        \         <li class=\"footer-link\"><a href=\"https://www.benzinga.com/partners/widgets\"\
+        \ class=\"footer-link\">News Widget</a></li>\n            <li class=\"footer-link\"\
+        ><a href=\"https://www.benzinga.com/catalyst\" class=\"footer-link\">Benzinga\
+        \ Catalyst</a></li>\n          </ul>\n        </div>\n        <div class=\"\
+        partner-footer-links-div\">\n          <div class=\"link-title\">Partners\
+        \ &amp; Contributors</div>\n          <ul class=\"list w-list-unstyled\">\n\
+        \            <li class=\"footer-link\"><a href=\"http://benzinga.postaffiliatepro.com/affiliates/\"\
+        \ class=\"footer-link\">Affiliate Program</a></li>\n            <li class=\"\
+        footer-link\"><a href=\"https://www.benzinga.com/contribute\" class=\"footer-link\"\
+        >Contributor Portal</a></li>\n            <li class=\"footer-link\"><a href=\"\
+        https://www.benzinga.com/apis/\" class=\"footer-link\">Licensing &amp; Syndication</a></li>\n\
+        \            <li class=\"footer-link\"><a href=\"https://www.benzinga.com/reach/\"\
+        \ class=\"footer-link\">Sponsored Content</a></li>\n            <li class=\"\
+        footer-link\"><a href=\"https://www.benzinga.com/contact/\" class=\"footer-link\"\
+        >Advertise With Us</a></li>\n            <li class=\"footer-link\"><a href=\"\
+        https://www.benzinga.com/contact/\" class=\"footer-link\">Lead Generation\
+        \ &amp; SEO</a></li>\n          </ul>\n        </div>\n        <div class=\"\
+        about-benzinga-div\">\n          <div class=\"link-title\">About Benzinga</div>\n\
+        \          <ul class=\"list w-list-unstyled\">\n            <li class=\"footer-link\"\
+        ><a href=\"https://www.benzinga.com/about\" class=\"footer-link\">About Us</a></li>\n\
+        \            <li class=\"footer-link\"><a href=\"https://jobs.benzinga.com/\"\
+        \ class=\"footer-link\">Careers</a></li>\n            <li class=\"footer-link\"\
+        ><a href=\"https://www.benzinga.com/inthenews\" class=\"footer-link\">In The\
+        \ News</a></li>\n            <li class=\"footer-link\"><a href=\"https://www.benzinga.com/events/\"\
+        \ class=\"footer-link\">Events</a></li>\n            <li class=\"footer-link\"\
+        ><a href=\"https://www.benzinga.com/contact\" class=\"footer-link\">Contact\
+        \ Us</a></li>\n            <li class=\"footer-link\">&nbsp;</li>\n       \
+        \   </ul>\n        </div>\n      </div>\n    </div>\n  </div>\n  <div class=\"\
+        copyright-section\">\n    <div class=\"copyright-container w-container\">\n\
+        \      <div class=\"terms-and-conditions\">\n        <ul class=\"terms-and-conditions-footerl-links\
+        \ w-list-unstyled\">\n          <li class=\"copyright-section-link\"><a href=\"\
+        https://www.benzinga.com/terms-and-conditions\" class=\"copyright-section-link\"\
+        >Terms &amp; Conditions </a></li>\n          <li class=\"copyright-section-link\"\
+        ><a href=\"https://www.benzinga.com/page/privacy\" class=\"copyright-section-link\"\
+        >Privacy Policy / Do Not Sell My Personal Data</a></li>\n          <li class=\"\
+        copyright-section-link\"><a href=\"https://www.benzinga.com/disclaimer\" class=\"\
+        copyright-section-link\">Disclaimer </a></li>\n          <li class=\"copyright-section-link\"\
+        ><a href=\"http://www.benzingastatus.com/\" class=\"copyright-section-link\"\
+        >Service Status</a></li>\n          <li class=\"copyright-section-link\"><a\
+        \ href=\"https://www.benzinga.com/sitemap\" class=\"copyright-section-link\"\
+        >Sitemap</a></li>\n        </ul>\n      </div>\n      <div class=\"copyright-div\"\
+        >\n        <div class=\"copyright-block\">&copy; 2020 Benzinga | All Rights\
+        \ Reserved</div>\n      </div>\n    </div>\n  </div>\n</div>\n  \n  <div id=\"\
+        closure\"><script type=\"text/javascript\" src=\"https://cdn.benzinga.com/files/advagg_js/js_1e5daa5b6a46cd94c255279f5aded1d2_875.js\"\
+        ></script>\n<script type=\"text/javascript\" src=\"https://cdn.benzinga.com/files/advagg_js/js_c220590fc821365d8f00fda0a21ee465_277.js\"\
+        ></script>\n<script type=\"text/javascript\" src=\"https://cdn.benzinga.com/files/advagg_js/js_5eea806f53e3a5f17ee9345324ccb619_996.js\"\
+        ></script>\n<script type=\"text/javascript\">\n<!--//--><![CDATA[//><!--\n\
+        jQuery.extend(Drupal.settings, {\"googleCSE\":{\"language\":\"en\"}});\n//--><!]]>\n\
+        </script>\n<script type=\"text/javascript\">\n<!--//--><![CDATA[//><!--\n\
+        analytics.identify('0',{name:'Anonymous'});\n//--><!]]>\n</script>\n<script\
+        \ type=\"text/javascript\">\n<!--//--><![CDATA[//><!--\nvar analyticsProperties={};if(typeof\
+        \ Drupal.settings.bz_js!=='undefined'&&typeof Drupal.settings.bz_js.analytics_properties!=='undefined'){analyticsProperties=Drupal.settings.bz_js.analytics_properties;if(typeof\
+        \ Drupal.settings.bz_js.nodeCreated!=='undefined'){var nodeCreated=Drupal.settings.bz_js.nodeCreated,today=Date.now()/1e3,numberOfDays=(today-nodeCreated)/(60*60*24);if(numberOfDays>2e3){ageOfArticle=1e4}else{var\
+        \ rangeArray=[0,1,2,3,5,7,10,15,20,30,60,90,180,365,730,1e3,2e3];for(var i\
+        \ in rangeArray)if(numberOfDays<=rangeArray[i]&&numberOfDays>rangeArray[i-1]){ageOfArticle=rangeArray[i];break}};analyticsProperties.ageOfArticle=ageOfArticle}};analytics.page(analyticsProperties);\n\
+        //--><!]]>\n</script>\n<script type=\"text/javascript\">\n<!--//--><![CDATA[//><!--\n\
+        var OneSignal=window.OneSignal||[];OneSignal.push(function(){OneSignal.init({appId:\"\
+        6af422c5-5278-4b15-964b-4c66dc3ce247\",welcomeNotification:{disable:true}});var\
+        \ notificationPromptDelay=2e4,navigationStart=window.performance.timing.navigationStart,timeNow=Date.now();setTimeout(promptAndSubscribeUser,Math.max(notificationPromptDelay-(timeNow-navigationStart),0))})\n\
+        function promptAndSubscribeUser(){window.OneSignal.isPushNotificationsEnabled(function(isEnabled){if(!isEnabled)window.OneSignal.showSlidedownPrompt()})}\n\
+        //--><!]]>\n</script>\n<script type=\"text/javascript\">\n<!--//--><![CDATA[//><!--\n\
+        $(function(){setTimeout(function(){googletag.cmd.push(function(){googletag.display('div-gpt-ad-1567612819658-0')})},100)});\n\
+        //--><!]]>\n</script>\n<script type=\"text/javascript\">\n<!--//--><![CDATA[//><!--\n\
+        $(function(){setTimeout(function(){googletag.cmd.push(function(){googletag.display('div-gpt-ad-1346993650129-0')})},100)});\n\
+        //--><!]]>\n</script>\n</div>\n</body>\n</html>\n"
+    headers:
+      Accept-Ranges:
+      - bytes
+      Access-Control-Allow-Headers:
+      - X-Requested-With, X-Device-Key, Content-Type, Origin, Authorization, Accept,
+        Client-Security-Token, Accept-Encoding
+      Access-Control-Allow-Methods:
+      - POST, GET, OPTIONS, DELETE, PUT
+      Access-Control-Allow-Origin:
+      - '*'
+      Age:
+      - '0'
+      Benzinga-TTL:
+      - 901s
+      Cache-Control:
+      - no-store, no-cache, must-revalidate, max-age=0
+      Connection:
+      - keep-alive
+      Content-Security-Policy:
+      - frame-ancestors 'self' *.benzinga.com
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Tue, 22 Dec 2020 18:32:33 GMT
+      ETag:
+      - '"1608661951"'
+      Expires:
+      - '-1'
+      Last-Modified:
+      - Tue, 22 Dec 2020 18:32:31 +0000
+      Pragma:
+      - no-cache
+      Strict-Transport-Security:
+      - max-age=31557600
+      Vary:
+      - Accept-Encoding,gzip,deflate
+      X-BZ-Request-ID:
+      - 192.168.130.210-8443-1-1082009848-38-1608661951.008
+      X-Cache:
+      - MISS, MISS
+      X-Cache-Hits:
+      - 0, 0
+      X-Content-Type-Options:
+      - nosniff
+      X-Served-By:
+      - cache-dca17758-DCA, cache-hel6826-HEL
+      X-Timer:
+      - S1608661951.958094,VS0,VE2790
+      X-XSS-Protection:
+      - 1; mode=block
+      content-length:
+      - '104794'
+      via:
+      - Fastly
+      x-cacheable:
+      - 'YES'
+      x-powered-by:
+      - Commodore 64
+      x-ttl:
+      - '901.000'
+    status:
+      code: 200
+      message: OK
+version: 1

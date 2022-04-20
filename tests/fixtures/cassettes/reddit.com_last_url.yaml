@@ -1,0 +1,527 @@
+interactions:
+- request:
+    body: grant_type=password&password=840402cerber&username=yugritsai
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Authorization:
+      - Basic b1ZPcVBmbjhVdHlaVkE6NTN0WTFXZ1AzSnVLeE5CVC1BeFlhVFdLZU1DeTJ3
+      Connection:
+      - close
+      Content-Length:
+      - '60'
+      Content-Type:
+      - application/x-www-form-urlencoded
+      User-Agent:
+      - reddit scraper v1.0 PRAW/7.3.0 prawcore/2.2.0
+    method: POST
+    uri: https://www.reddit.com/api/v1/access_token
+  response:
+    body:
+      string: '{"access_token": "345659833344-AAkvEyTAkQIzXzkXU6UQSMtFyFbPJw", "token_type":
+        "bearer", "expires_in": 3600, "scope": "*"}'
+    headers:
+      Accept-Ranges:
+      - bytes
+      Connection:
+      - close
+      Content-Length:
+      - '121'
+      Content-Type:
+      - application/json; charset=UTF-8
+      Date:
+      - Wed, 14 Jul 2021 09:44:06 GMT
+      Server:
+      - snooserv
+      Set-Cookie:
+      - edgebucket=H63NCshW9ySI1qeUQX; Domain=reddit.com; Max-Age=63071999; Path=/;  secure
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains; preload
+      Via:
+      - 1.1 varnish
+      X-Clacks-Overhead:
+      - GNU Terry Pratchett
+      X-Moose:
+      - majestic
+      cache-control:
+      - max-age=0, must-revalidate
+      x-content-type-options:
+      - nosniff
+      x-frame-options:
+      - SAMEORIGIN
+      x-ratelimit-remaining:
+      - '299'
+      x-ratelimit-reset:
+      - '354'
+      x-ratelimit-used:
+      - '1'
+      x-xss-protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Authorization:
+      - bearer 345659833344-AAkvEyTAkQIzXzkXU6UQSMtFyFbPJw
+      Connection:
+      - keep-alive
+      Cookie:
+      - edgebucket=H63NCshW9ySI1qeUQX
+      User-Agent:
+      - reddit scraper v1.0 PRAW/7.3.0 prawcore/2.2.0
+    method: GET
+    uri: https://oauth.reddit.com/r/trademyway/new?limit=3&raw_json=1
+  response:
+    body:
+      string: '{"kind": "Listing", "data": {"after": null, "dist": 2, "modhash": null,
+        "geo_filter": "", "children": [{"kind": "t3", "data": {"author_flair_background_color":
+        null, "approved_at_utc": 1623593450, "subreddit": "trademyway", "selftext":
+        "\u0026#x200B;", "author_fullname": "t2_4eskxudc", "saved": false, "mod_reason_title":
+        null, "gilded": 0, "clicked": false, "title": "Let''s discuss crypto", "link_flair_richtext":
+        [], "subreddit_name_prefixed": "r/trademyway", "hidden": false, "pwls": null,
+        "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type":
+        null, "hide_score": false, "name": "t3_nwxpnm", "quarantine": false, "link_flair_text_color":
+        "dark", "upvote_ratio": 1.0, "ignore_reports": false, "subreddit_type": "restricted",
+        "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width":
+        null, "author_flair_template_id": null, "is_original_content": false, "user_reports":
+        [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false,
+        "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post":
+        true, "score": 1, "approved_by": "yugritsai", "is_created_from_ads_ui": false,
+        "author_premium": false, "thumbnail": "self", "edited": 1625476458.0, "author_flair_css_class":
+        null, "author_flair_richtext": [], "gildings": {}, "content_categories": null,
+        "is_self": true, "mod_note": null, "created": 1623385931.0, "link_flair_type":
+        "text", "wls": null, "removed_by_category": null, "banned_by": null, "author_flair_type":
+        "text", "domain": "self.trademyway", "allow_live_comments": false, "selftext_html":
+        "\u003C!-- SC_OFF --\u003E\u003Cdiv class=\"md\"\u003E\u003Cp\u003E\u0026#x200B;\u003C/p\u003E\n\u003C/div\u003E\u003C!--
+        SC_ON --\u003E", "likes": true, "suggested_sort": null, "banned_at_utc": null,
+        "view_count": null, "archived": false, "no_follow": false, "spam": false,
+        "is_crosspostable": true, "pinned": false, "over_18": true, "all_awardings":
+        [], "awarders": [], "media_only": false, "can_gild": false, "removed": false,
+        "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags":
+        [], "rte_mode": "richtext", "visited": false, "removed_by": null, "num_reports":
+        0, "distinguished": null, "subreddit_id": "t5_4kxvvm", "mod_reason_by": null,
+        "removal_reason": null, "link_flair_background_color": "", "id": "nwxpnm",
+        "is_robot_indexable": true, "report_reasons": [], "author": "yugritsai", "discussion_type":
+        null, "num_comments": 3, "send_replies": true, "whitelist_status": null, "contest_mode":
+        false, "mod_reports": [], "author_patreon_flair": false, "approved": true,
+        "author_flair_text_color": null, "permalink": "/r/trademyway/comments/nwxpnm/lets_discuss_crypto/",
+        "parent_whitelist_status": null, "stickied": false, "url": "https://www.reddit.com/r/trademyway/comments/nwxpnm/lets_discuss_crypto/",
+        "subreddit_subscribers": 1, "created_utc": 1623357131.0, "num_crossposts":
+        0, "media": null, "is_video": false}}, {"kind": "t3", "data": {"author_flair_background_color":
+        null, "approved_at_utc": 1623593486, "subreddit": "trademyway", "selftext":
+        "A place for members of r/trademyway to chat with each other", "author_fullname":
+        "t2_4eskxudc", "saved": false, "mod_reason_title": null, "gilded": 0, "clicked":
+        false, "title": "r/trademyway Lounge", "link_flair_richtext": [], "subreddit_name_prefixed":
+        "r/trademyway", "hidden": false, "pwls": null, "link_flair_css_class": null,
+        "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "hide_score":
+        false, "name": "t3_nwxiu7", "quarantine": false, "link_flair_text_color":
+        "dark", "upvote_ratio": 1.0, "ignore_reports": false, "subreddit_type": "restricted",
+        "ups": 1, "total_awards_received": 0, "media_embed": {}, "thumbnail_width":
+        null, "author_flair_template_id": null, "is_original_content": false, "user_reports":
+        [], "secure_media": null, "is_reddit_media_domain": false, "is_meta": false,
+        "category": null, "secure_media_embed": {}, "link_flair_text": null, "can_mod_post":
+        true, "score": 1, "approved_by": "yugritsai", "is_created_from_ads_ui": false,
+        "author_premium": false, "thumbnail": "self", "edited": false, "author_flair_css_class":
+        null, "author_flair_richtext": [], "gildings": {}, "content_categories": null,
+        "is_self": true, "mod_note": null, "created": 1623385457.0, "link_flair_type":
+        "text", "wls": null, "removed_by_category": null, "banned_by": null, "author_flair_type":
+        "text", "domain": "self.trademyway", "allow_live_comments": true, "selftext_html":
+        "\u003C!-- SC_OFF --\u003E\u003Cdiv class=\"md\"\u003E\u003Cp\u003EA place
+        for members of \u003Ca href=\"/r/trademyway\"\u003Er/trademyway\u003C/a\u003E
+        to chat with each other\u003C/p\u003E\n\u003C/div\u003E\u003C!-- SC_ON --\u003E",
+        "likes": true, "suggested_sort": "new", "banned_at_utc": null, "view_count":
+        null, "archived": false, "no_follow": false, "spam": false, "is_crosspostable":
+        true, "pinned": false, "over_18": true, "all_awardings": [], "awarders": [],
+        "media_only": false, "can_gild": false, "removed": false, "spoiler": false,
+        "locked": false, "author_flair_text": null, "treatment_tags": [], "rte_mode":
+        "markdown", "visited": false, "removed_by": null, "num_reports": 0, "distinguished":
+        null, "subreddit_id": "t5_4kxvvm", "mod_reason_by": null, "removal_reason":
+        null, "link_flair_background_color": "", "id": "nwxiu7", "is_robot_indexable":
+        true, "report_reasons": [], "author": "yugritsai", "discussion_type": "CHAT",
+        "num_comments": 0, "send_replies": true, "whitelist_status": null, "contest_mode":
+        false, "mod_reports": [], "author_patreon_flair": false, "approved": true,
+        "author_flair_text_color": null, "permalink": "/r/trademyway/comments/nwxiu7/rtrademyway_lounge/",
+        "parent_whitelist_status": null, "stickied": false, "url": "https://www.reddit.com/r/trademyway/comments/nwxiu7/rtrademyway_lounge/",
+        "subreddit_subscribers": 1, "created_utc": 1623356657.0, "num_crossposts":
+        0, "media": null, "is_video": false}}], "before": null}}'
+    headers:
+      Accept-Ranges:
+      - bytes
+      Connection:
+      - keep-alive
+      Content-Type:
+      - application/json; charset=UTF-8
+      Date:
+      - Wed, 14 Jul 2021 09:44:07 GMT
+      Server:
+      - snooserv
+      Set-Cookie:
+      - session_tracker=lgcgcfeqggimjoaajl.0.1626255847075.Z0FBQUFBQmc3ckhuM3g2Wk9zX09fbkZycGhMd1piX3VxdnFienFBR3JnNE13cnZTQzFOQXJVX3JweklqOG50RkJEc040RFZvdVRQRmZwTTM1T0lobWp4VUFMZEVRdmtvVWptY3hjTkJ6N0luLVd2aWVCUnlUenhKaHpqbGNDSjFycjRVdmlpbjJuYUI;
+        Domain=reddit.com; Max-Age=7199; Path=/; expires=Wed, 14-Jul-2021 11:44:07
+        GMT; secure; SameSite=None; Secure
+      - csv=1; Max-Age=63072000; Domain=.reddit.com; Path=/; Secure; SameSite=None
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains; preload
+      Vary:
+      - accept-encoding
+      Via:
+      - 1.1 varnish
+      X-Clacks-Overhead:
+      - GNU Terry Pratchett
+      X-Moose:
+      - majestic
+      cache-control:
+      - private, s-maxage=0, max-age=0, must-revalidate, no-store, max-age=0, must-revalidate
+      content-length:
+      - '5932'
+      expires:
+      - '-1'
+      x-content-type-options:
+      - nosniff
+      x-frame-options:
+      - SAMEORIGIN
+      x-ratelimit-remaining:
+      - '599.0'
+      x-ratelimit-reset:
+      - '353'
+      x-ratelimit-used:
+      - '1'
+      x-ua-compatible:
+      - IE=edge
+      x-xss-protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Authorization:
+      - bearer 345659833344-AAkvEyTAkQIzXzkXU6UQSMtFyFbPJw
+      Connection:
+      - keep-alive
+      Cookie:
+      - csv=1; edgebucket=H63NCshW9ySI1qeUQX; session_tracker=lgcgcfeqggimjoaajl.0.1626255847075.Z0FBQUFBQmc3ckhuM3g2Wk9zX09fbkZycGhMd1piX3VxdnFienFBR3JnNE13cnZTQzFOQXJVX3JweklqOG50RkJEc040RFZvdVRQRmZwTTM1T0lobWp4VUFMZEVRdmtvVWptY3hjTkJ6N0luLVd2aWVCUnlUenhKaHpqbGNDSjFycjRVdmlpbjJuYUI
+      User-Agent:
+      - reddit scraper v1.0 PRAW/7.3.0 prawcore/2.2.0
+    method: GET
+    uri: https://oauth.reddit.com/comments/nwxpnm/?limit=2048&sort=confidence&raw_json=1
+  response:
+    body:
+      string: '[{"kind": "Listing", "data": {"after": null, "dist": 1, "modhash":
+        null, "geo_filter": "", "children": [{"kind": "t3", "data": {"author_flair_background_color":
+        null, "approved_at_utc": 1623593450, "subreddit": "trademyway", "selftext":
+        "\u0026#x200B;", "user_reports": [], "saved": false, "mod_reason_title": null,
+        "gilded": 0, "clicked": false, "title": "Let''s discuss crypto", "link_flair_richtext":
+        [], "subreddit_name_prefixed": "r/trademyway", "hidden": false, "pwls": null,
+        "link_flair_css_class": null, "downs": 0, "thumbnail_height": null, "top_awarded_type":
+        null, "parent_whitelist_status": null, "hide_score": false, "name": "t3_nwxpnm",
+        "quarantine": false, "link_flair_text_color": "dark", "upvote_ratio": 1.0,
+        "ignore_reports": false, "subreddit_type": "restricted", "ups": 1, "domain":
+        "self.trademyway", "media_embed": {}, "thumbnail_width": null, "author_flair_template_id":
+        null, "is_original_content": false, "author_fullname": "t2_4eskxudc", "secure_media":
+        null, "is_reddit_media_domain": false, "is_meta": false, "category": null,
+        "secure_media_embed": {}, "link_flair_text": null, "can_mod_post": true, "score":
+        1, "approved_by": "yugritsai", "is_created_from_ads_ui": false, "author_premium":
+        false, "thumbnail": "nsfw", "edited": 1625476458.0, "author_flair_css_class":
+        null, "author_flair_richtext": [], "gildings": {}, "content_categories": null,
+        "is_self": true, "mod_note": null, "created": 1623385931.0, "link_flair_type":
+        "text", "wls": null, "removed_by_category": null, "banned_by": null, "author_flair_type":
+        "text", "total_awards_received": 0, "allow_live_comments": false, "selftext_html":
+        "\u003C!-- SC_OFF --\u003E\u003Cdiv class=\"md\"\u003E\u003Cp\u003E\u0026#x200B;\u003C/p\u003E\n\u003C/div\u003E\u003C!--
+        SC_ON --\u003E", "likes": true, "suggested_sort": null, "banned_at_utc": null,
+        "view_count": null, "archived": false, "no_follow": false, "spam": false,
+        "is_crosspostable": true, "pinned": false, "over_18": true, "all_awardings":
+        [], "awarders": [], "media_only": false, "can_gild": false, "removed": false,
+        "spoiler": false, "locked": false, "author_flair_text": null, "treatment_tags":
+        [], "rte_mode": "richtext", "visited": false, "removed_by": null, "num_reports":
+        0, "distinguished": null, "subreddit_id": "t5_4kxvvm", "mod_reason_by": null,
+        "removal_reason": null, "link_flair_background_color": "", "id": "nwxpnm",
+        "is_robot_indexable": true, "num_duplicates": 0, "report_reasons": [], "author":
+        "yugritsai", "discussion_type": null, "num_comments": 3, "send_replies": true,
+        "media": null, "contest_mode": false, "author_patreon_flair": false, "approved":
+        true, "author_flair_text_color": null, "permalink": "/r/trademyway/comments/nwxpnm/lets_discuss_crypto/",
+        "whitelist_status": null, "stickied": false, "url": "https://www.reddit.com/r/trademyway/comments/nwxpnm/lets_discuss_crypto/",
+        "subreddit_subscribers": 1, "created_utc": 1623357131.0, "num_crossposts":
+        0, "mod_reports": [], "is_video": false}}], "before": null}}, {"kind": "Listing",
+        "data": {"after": null, "dist": null, "modhash": null, "geo_filter": "", "children":
+        [{"kind": "t1", "data": {"total_awards_received": 0, "approved_at_utc": null,
+        "comment_type": null, "awarders": [], "mod_reason_by": null, "banned_by":
+        null, "ups": 1, "author_flair_type": "text", "removal_reason": null, "link_id":
+        "t3_nwxpnm", "removed": false, "author_flair_template_id": null, "likes":
+        true, "replies": "", "user_reports": [], "saved": false, "id": "h1mko3q",
+        "banned_at_utc": null, "mod_reason_title": null, "gilded": 0, "archived":
+        false, "collapsed_reason_code": null, "no_follow": false, "author": "yugritsai",
+        "can_mod_post": true, "send_replies": true, "parent_id": "t3_nwxpnm", "score":
+        1, "author_fullname": "t2_4eskxudc", "report_reasons": [], "approved_by":
+        null, "all_awardings": [], "subreddit_id": "t5_4kxvvm", "ignore_reports":
+        false, "body": "My thoughts is dummy.", "edited": false, "downs": 0, "author_flair_css_class":
+        null, "is_submitter": true, "collapsed": false, "author_flair_richtext": [],
+        "author_patreon_flair": false, "body_html": "\u003Cdiv class=\"md\"\u003E\u003Cp\u003EMy
+        thoughts is dummy.\u003C/p\u003E\n\u003C/div\u003E", "gildings": {}, "collapsed_reason":
+        null, "spam": false, "associated_award": null, "stickied": false, "author_premium":
+        false, "subreddit_type": "restricted", "can_gild": false, "top_awarded_type":
+        null, "approved": false, "author_flair_text_color": null, "score_hidden":
+        false, "permalink": "/r/trademyway/comments/nwxpnm/lets_discuss_crypto/h1mko3q/",
+        "num_reports": 0, "locked": false, "name": "t1_h1mko3q", "created": 1623624575.0,
+        "subreddit": "trademyway", "author_flair_text": null, "treatment_tags": [],
+        "rte_mode": "richtext", "created_utc": 1623595775.0, "subreddit_name_prefixed":
+        "r/trademyway", "controversiality": 0, "depth": 0, "author_flair_background_color":
+        null, "collapsed_because_crowd_control": null, "mod_reports": [], "mod_note":
+        null, "distinguished": null}}, {"kind": "t1", "data": {"total_awards_received":
+        0, "approved_at_utc": null, "comment_type": null, "awarders": [], "mod_reason_by":
+        null, "banned_by": null, "ups": 1, "author_flair_type": "text", "removal_reason":
+        null, "link_id": "t3_nwxpnm", "removed": false, "author_flair_template_id":
+        null, "likes": true, "replies": "", "user_reports": [], "saved": false, "id":
+        "h1mkw9l", "banned_at_utc": null, "mod_reason_title": null, "gilded": 0, "archived":
+        false, "collapsed_reason_code": null, "no_follow": false, "author": "yugritsai",
+        "can_mod_post": true, "send_replies": true, "parent_id": "t3_nwxpnm", "score":
+        1, "author_fullname": "t2_4eskxudc", "report_reasons": [], "approved_by":
+        null, "all_awardings": [], "subreddit_id": "t5_4kxvvm", "ignore_reports":
+        false, "body": "What is going on. \n\nI can propose my solution.", "edited":
+        false, "downs": 0, "author_flair_css_class": null, "is_submitter": true, "collapsed":
+        false, "author_flair_richtext": [], "author_patreon_flair": false, "body_html":
+        "\u003Cdiv class=\"md\"\u003E\u003Cp\u003EWhat is going on. \u003C/p\u003E\n\n\u003Cp\u003EI
+        can propose my solution.\u003C/p\u003E\n\u003C/div\u003E", "gildings": {},
+        "collapsed_reason": null, "spam": false, "associated_award": null, "stickied":
+        false, "author_premium": false, "subreddit_type": "restricted", "can_gild":
+        false, "top_awarded_type": null, "approved": false, "author_flair_text_color":
+        null, "score_hidden": false, "permalink": "/r/trademyway/comments/nwxpnm/lets_discuss_crypto/h1mkw9l/",
+        "num_reports": 0, "locked": false, "name": "t1_h1mkw9l", "created": 1623624692.0,
+        "subreddit": "trademyway", "author_flair_text": null, "treatment_tags": [],
+        "rte_mode": "richtext", "created_utc": 1623595892.0, "subreddit_name_prefixed":
+        "r/trademyway", "controversiality": 0, "depth": 0, "author_flair_background_color":
+        null, "collapsed_because_crowd_control": null, "mod_reports": [], "mod_note":
+        null, "distinguished": null}}, {"kind": "t1", "data": {"total_awards_received":
+        0, "approved_at_utc": null, "comment_type": null, "awarders": [], "mod_reason_by":
+        null, "banned_by": null, "ups": 1, "author_flair_type": "text", "removal_reason":
+        null, "link_id": "t3_nwxpnm", "removed": false, "author_flair_template_id":
+        null, "likes": true, "replies": "", "user_reports": [], "saved": false, "id":
+        "h1txqgv", "banned_at_utc": null, "mod_reason_title": null, "gilded": 0, "archived":
+        false, "collapsed_reason_code": null, "no_follow": false, "author": "yugritsai",
+        "can_mod_post": true, "send_replies": true, "parent_id": "t3_nwxpnm", "score":
+        1, "author_fullname": "t2_4eskxudc", "report_reasons": [], "approved_by":
+        null, "all_awardings": [], "subreddit_id": "t5_4kxvvm", "ignore_reports":
+        false, "body": "Anyone who stops learning is old, whether at twenty or eighty.
+        Anyone who keeps learning stays young.", "edited": false, "downs": 0, "author_flair_css_class":
+        null, "is_submitter": true, "collapsed": false, "author_flair_richtext": [],
+        "author_patreon_flair": false, "body_html": "\u003Cdiv class=\"md\"\u003E\u003Cp\u003EAnyone
+        who stops learning is old, whether at twenty or eighty. Anyone who keeps learning
+        stays young.\u003C/p\u003E\n\u003C/div\u003E", "gildings": {}, "collapsed_reason":
+        null, "spam": false, "associated_award": null, "stickied": false, "author_premium":
+        false, "subreddit_type": "restricted", "can_gild": false, "top_awarded_type":
+        null, "approved": false, "author_flair_text_color": null, "score_hidden":
+        false, "permalink": "/r/trademyway/comments/nwxpnm/lets_discuss_crypto/h1txqgv/",
+        "num_reports": 0, "locked": false, "name": "t1_h1txqgv", "created": 1623779055.0,
+        "subreddit": "trademyway", "author_flair_text": null, "treatment_tags": [],
+        "rte_mode": "richtext", "created_utc": 1623750255.0, "subreddit_name_prefixed":
+        "r/trademyway", "controversiality": 0, "depth": 0, "author_flair_background_color":
+        null, "collapsed_because_crowd_control": null, "mod_reports": [], "mod_note":
+        null, "distinguished": null}}], "before": null}}]'
+    headers:
+      Accept-Ranges:
+      - bytes
+      Connection:
+      - keep-alive
+      Content-Type:
+      - application/json; charset=UTF-8
+      Date:
+      - Wed, 14 Jul 2021 09:44:07 GMT
+      Server:
+      - snooserv
+      Set-Cookie:
+      - session_tracker=lgcgcfeqggimjoaajl.0.1626255847353.Z0FBQUFBQmc3ckhuMm5YbGFCSlV3V002Z3hwWFB1R2Q4cmtqT2ZFWkZBRnpwZGozMXVlNlNVdndGd296VG9lVGhSYmRZSl9xNEkxSnloc2pOOXlocU1fUi03SjB2NDVkZVNjbjQ3a3U0MnQ3Mzh3OE9RRWtxalpzMjhERktRdEZHcTlsTlM1U04wbGs;
+        Domain=reddit.com; Max-Age=7199; Path=/; expires=Wed, 14-Jul-2021 11:44:07
+        GMT; secure; SameSite=None; Secure
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains; preload
+      Vary:
+      - accept-encoding
+      Via:
+      - 1.1 varnish
+      X-Clacks-Overhead:
+      - GNU Terry Pratchett
+      X-Moose:
+      - majestic
+      cache-control:
+      - private, s-maxage=0, max-age=0, must-revalidate, no-store, max-age=0, must-revalidate
+      content-length:
+      - '8928'
+      expires:
+      - '-1'
+      x-content-type-options:
+      - nosniff
+      x-frame-options:
+      - SAMEORIGIN
+      x-ratelimit-remaining:
+      - '598.0'
+      x-ratelimit-reset:
+      - '353'
+      x-ratelimit-used:
+      - '2'
+      x-ua-compatible:
+      - IE=edge
+      x-xss-protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Authorization:
+      - bearer 345659833344-AAkvEyTAkQIzXzkXU6UQSMtFyFbPJw
+      Connection:
+      - keep-alive
+      Cookie:
+      - csv=1; edgebucket=H63NCshW9ySI1qeUQX; session_tracker=lgcgcfeqggimjoaajl.0.1626255847353.Z0FBQUFBQmc3ckhuMm5YbGFCSlV3V002Z3hwWFB1R2Q4cmtqT2ZFWkZBRnpwZGozMXVlNlNVdndGd296VG9lVGhSYmRZSl9xNEkxSnloc2pOOXlocU1fUi03SjB2NDVkZVNjbjQ3a3U0MnQ3Mzh3OE9RRWtxalpzMjhERktRdEZHcTlsTlM1U04wbGs
+      User-Agent:
+      - reddit scraper v1.0 PRAW/7.3.0 prawcore/2.2.0
+    method: GET
+    uri: https://oauth.reddit.com/comments/nwxiu7/?limit=2048&sort=confidence&raw_json=1
+  response:
+    body:
+      string: '[{"kind": "Listing", "data": {"after": null, "dist": 1, "modhash":
+        null, "geo_filter": "", "children": [{"kind": "t3", "data": {"author_flair_background_color":
+        null, "approved_at_utc": 1623593486, "subreddit": "trademyway", "selftext":
+        "A place for members of r/trademyway to chat with each other", "user_reports":
+        [], "saved": false, "mod_reason_title": null, "gilded": 0, "clicked": false,
+        "title": "r/trademyway Lounge", "link_flair_richtext": [], "subreddit_name_prefixed":
+        "r/trademyway", "hidden": false, "pwls": null, "link_flair_css_class": null,
+        "downs": 0, "thumbnail_height": null, "top_awarded_type": null, "parent_whitelist_status":
+        null, "hide_score": false, "name": "t3_nwxiu7", "quarantine": false, "link_flair_text_color":
+        "dark", "upvote_ratio": 1.0, "ignore_reports": false, "subreddit_type": "restricted",
+        "ups": 1, "domain": "self.trademyway", "media_embed": {}, "thumbnail_width":
+        null, "author_flair_template_id": null, "is_original_content": false, "author_fullname":
+        "t2_4eskxudc", "secure_media": null, "is_reddit_media_domain": false, "is_meta":
+        false, "category": null, "secure_media_embed": {}, "link_flair_text": null,
+        "can_mod_post": true, "score": 1, "approved_by": "yugritsai", "is_created_from_ads_ui":
+        false, "author_premium": false, "thumbnail": "nsfw", "edited": false, "author_flair_css_class":
+        null, "author_flair_richtext": [], "gildings": {}, "content_categories": null,
+        "is_self": true, "mod_note": null, "created": 1623385457.0, "link_flair_type":
+        "text", "wls": null, "removed_by_category": null, "banned_by": null, "author_flair_type":
+        "text", "total_awards_received": 0, "allow_live_comments": true, "selftext_html":
+        "\u003C!-- SC_OFF --\u003E\u003Cdiv class=\"md\"\u003E\u003Cp\u003EA place
+        for members of \u003Ca href=\"/r/trademyway\"\u003Er/trademyway\u003C/a\u003E
+        to chat with each other\u003C/p\u003E\n\u003C/div\u003E\u003C!-- SC_ON --\u003E",
+        "likes": true, "suggested_sort": "new", "banned_at_utc": null, "view_count":
+        null, "archived": false, "no_follow": false, "spam": false, "is_crosspostable":
+        true, "pinned": false, "over_18": true, "all_awardings": [], "awarders": [],
+        "media_only": false, "can_gild": false, "removed": false, "spoiler": false,
+        "locked": false, "author_flair_text": null, "treatment_tags": [], "rte_mode":
+        "markdown", "visited": false, "removed_by": null, "num_reports": 0, "distinguished":
+        null, "subreddit_id": "t5_4kxvvm", "mod_reason_by": null, "removal_reason":
+        null, "link_flair_background_color": "", "id": "nwxiu7", "is_robot_indexable":
+        true, "num_duplicates": 0, "report_reasons": [], "author": "yugritsai", "discussion_type":
+        "CHAT", "num_comments": 0, "send_replies": true, "media": null, "contest_mode":
+        false, "author_patreon_flair": false, "approved": true, "author_flair_text_color":
+        null, "permalink": "/r/trademyway/comments/nwxiu7/rtrademyway_lounge/", "whitelist_status":
+        null, "stickied": false, "url": "https://www.reddit.com/r/trademyway/comments/nwxiu7/rtrademyway_lounge/",
+        "subreddit_subscribers": 1, "created_utc": 1623356657.0, "num_crossposts":
+        0, "mod_reports": [], "is_video": false}}], "before": null}}, {"kind": "Listing",
+        "data": {"after": null, "dist": null, "modhash": null, "geo_filter": "", "children":
+        [], "before": null}}]'
+    headers:
+      Accept-Ranges:
+      - bytes
+      Connection:
+      - keep-alive
+      Content-Type:
+      - application/json; charset=UTF-8
+      Date:
+      - Wed, 14 Jul 2021 09:44:07 GMT
+      Server:
+      - snooserv
+      Set-Cookie:
+      - session_tracker=lgcgcfeqggimjoaajl.0.1626255847667.Z0FBQUFBQmc3ckhuMmlGdmRwM0QyNk90dHVWRTQ3cFI2aW9TSlk5ZjdQdW5HemJSODR1TUVlVmN3QU1kWUE1TXlqZWdSNjRGZTlaY25URktIUVBneUo5a25ZQlpzLUFDQkxIR1gzYmRMZHd5ekhDdFhyWGgyZzRVdUtyVjlXSVNGZkNyOWxRU3M2ZnQ;
+        Domain=reddit.com; Max-Age=7199; Path=/; expires=Wed, 14-Jul-2021 11:44:07
+        GMT; secure; SameSite=None; Secure
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains; preload
+      Vary:
+      - accept-encoding
+      Via:
+      - 1.1 varnish
+      X-Clacks-Overhead:
+      - GNU Terry Pratchett
+      X-Moose:
+      - majestic
+      cache-control:
+      - private, s-maxage=0, max-age=0, must-revalidate, no-store, max-age=0, must-revalidate
+      content-length:
+      - '3243'
+      expires:
+      - '-1'
+      x-content-type-options:
+      - nosniff
+      x-frame-options:
+      - SAMEORIGIN
+      x-ratelimit-remaining:
+      - '597.0'
+      x-ratelimit-reset:
+      - '353'
+      x-ratelimit-used:
+      - '3'
+      x-ua-compatible:
+      - IE=edge
+      x-xss-protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+- request:
+    body: '{"author": "trademyway", "status": "active"}'
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Authorization:
+      - Basic MTox
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '44'
+      Content-Type:
+      - application/json
+      User-Agent:
+      - python-requests/2.25.1
+    method: PUT
+    uri: http://127.0.0.1:5000/sources/stats/reddit.com
+  response:
+    body:
+      string: "{\n  \"detail\": \"Scrapy spider reddit.com was not found in data sources.\",\n
+        \ \"status\": 404,\n  \"title\": \"Not Found\",\n  \"type\": \"about:blank\"\n}\n"
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Access-Control-Expose-Headers:
+      - X-Pagination-Offset, X-Records-Limit, X-Total-Count
+      Content-Length:
+      - '140'
+      Content-Type:
+      - application/json
+      Date:
+      - Wed, 14 Jul 2021 09:44:08 GMT
+      Server:
+      - Werkzeug/1.0.1 Python/3.8.10
+    status:
+      code: 404
+      message: NOT FOUND
+version: 1

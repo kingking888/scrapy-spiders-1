@@ -1,0 +1,962 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.zacks.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.zacks.com/stock/news/421247/moving-average-crossover-alert-waitr
+  response:
+    body:
+      string: "\n<!DOCTYPE html>\n<html lang=\"en\">\n\n<!-- Faster page load hack
+        -->\n<!--[if IE]><![endif]-->\n\n<head>\n<!-- Begin: head -->\n<!-- z2_comm_head_module_v2
+        start -->\n<!--//www.zacks.com/stock/news/421247/moving-average-crossover-alert-waitr--><meta
+        charset=\"utf-8\" />\n\n<!-- Preload css Font file --> \n<link rel=\"preload\"
+        as=\"style\" type=\"text/css\" href=\"https://staticx.zacks.com/css/zacks/css2/fa/font-awesome.min.css?v=20210129\"
+        onload=\"this.rel='stylesheet'\"/>\n\n<!-- CSS Font file for firefox (***
+        firefox doesnot support preload ***) -->\n<link rel=\"stylesheet\" type=\"text/css\"
+        href=\"https://staticx.zacks.com/css/zacks/css2/fa/font-awesome.min.css?v=20210129\"
+        />\n\n<!-- Combined and Minified CSS file for all generator pages --> \n<link
+        rel=\"preload\" as=\"style\" href=\"https://staticx.zacks.com/min/z3-min.css?v=20210129\"
+        onload=\"this.rel='stylesheet'\"/>\n\n<!-- Combined and Minified CSS file
+        for all generator pages --> \n<link rel=\"stylesheet\" href=\"https://staticx.zacks.com/min/z3-min.css?v=20210129\"
+        />\n\n<style>\n*{margin:0 auto;padding:0;outline:0 none}.clearfix{zoom:1}.clearfix:after{content:\".\";display:block;height:0;clear:both;visibility:hidden}html{font-size:100%;font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}html
+        body{font-size:62.5%;background-color:#fafafa;margin:0;padding:0;font-family:Helvetica,Arial,sans-serif}article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary{display:block}section
+        footer{padding:6px 0}.align_left,.alpha{text-align:left}.align_right{text-align:right}.align_center{text-align:center}.float_left{float:left}.float_right{float:right}article
+        a h1,article a h2{color:#000;text-decoration:none}article header h1{font-weight:700;font-weight:700;font-size:10.5pt;text-transform:inherit!important}article
+        a h1,article a h2{color:#000;text-decoration:none}html body h1{text-shadow:0
+        1px 1px #fff}\n</style>\n\n<style type=\"text/css\" data-tippy-stylesheet>\n.tippy-box[data-theme~=zacks]{min-width:301px;background-color:#fff}.tippy-box[data-theme~=zacks]
+        .tippy-content{padding:0!important}\n</style>\n\n<style type=\"text/css\"
+        data-tippy-stylesheet>\n.tippy-box[data-theme~=zacks]{min-width:301px;background-color:#fff}.tippy-box[data-theme~=zacks]
+        .tippy-content{padding:0!important}\n</style>\n  \n<!-- Conditional CSS for
+        IE versions -->\n<!--[if lt IE 7]><style type=\"text/css\"> .hide_lte_ie6
+        { display:none; } </style><![endif]-->\n<!--[if lte IE 7]><style type=\"text/css\">
+        .hide_lte_ie7 { display:none; } </style><![endif]-->\n<!--[if lte IE 8]><style
+        type=\"text/css\"> .hide_lte_ie8 { display:none; } </style><![endif]-->\n<!--[if
+        lte IE 9]><style type=\"text/css\"> .hide_lte_ie9 { display:none; } </style><![endif]-->\n<!--[if
+        IE 10]><style type=\"text/css\"> .hide_lte_ie10 { display:none; } </style><![endif]-->\n<!--[if
+        IE]><![endif]-->\n<!-- End conditional CSS for IE versions -->\n\n    <!--
+        DC PAGE ID : 194  -->\n    <meta name=\"generator\" content=\"WebGenerator\"
+        />\n    <meta name=\"description\" content=\"Waitr Holdings Inc. (WTRH) could
+        be a stock to avoid from a technical perspective, as the firm is seeing unfavorable
+        trends on the moving average crossover front. \" />\n    <meta name=\"keywords\"
+        content=\"stock, stocks, investment, investment advice, investing, online
+        trading, online investment, online stock trading, stock market, financial,
+        financial planning, quote, quotes, stock quotes\" />\n    <title>Moving Average
+        Crossover Alert: Waitr - May 29, 2019 - Zacks.com</title>\n    <meta name=\"date\"
+        content=\"Mon, 08 Feb 2021 06:22:30\" />\n    <meta name=\"last-modified\"
+        content=\"Mon, 08 Feb 2021 06:22:30;\" />\n    <meta http-equiv=\"last-modified\"
+        content=\"Mon, 08 Feb 2021 06:22:30\" />\n    <meta property=\"fb:admins\"
+        content=\"20922385\" />\n    <meta property=\"article:publisher\" content=\"https://www.facebook.com/ZacksInvestmentResearch\"
+        />\n\n\n    <meta property=\"og:site_name\" content=\"Zacks Investment Research\"
+        />\n    \n    \n    \n<meta property=\"og:title\" content=\"Moving Average
+        Crossover Alert: Waitr\"/>\n<meta property=\"og:type\" content=\"article\"/>\n<meta
+        property=\"og:image\" content=\"https://staticx-tuner.zacks.com/images/default_article_images/default210.jpg\"/>\n<meta
+        property=\"og:url\" content=\"https://www.zacks.com/stock/news/421247/moving-average-crossover-alert-waitr\"/>\n<meta
+        property=\"og:description\" content=\"Waitr Holdings Inc. (WTRH) could be
+        a stock to avoid from a technical perspective, as the firm is seeing unfavorable
+        trends on the moving average crossover front. \"/>\n\n    \n<meta name=\"twitter:card\"
+        content=\"summary_large_image\">\n\n\n\n    <meta name=\"twitter:site\" content=\"@ZacksInvestment\">\n<meta
+        name=\"twitter:title\" content=\"Moving Average Crossover Alert: Waitr\"/>\n<meta
+        name=\"twitter:image\" content=\"https://staticx-tuner.zacks.com/images/default_article_images/default210.jpg\"/>\n<meta
+        name=\"twitter:description\" content=\"Waitr Holdings Inc. (WTRH) could be
+        a stock to avoid from a technical perspective, as the firm is seeing unfavorable
+        trends on the moving average crossover front. \" />\n\n    \n    <meta name=\"news_keywords\"
+        content=\"Business,Markets,Investing,Stocks,Stock Market,Stock Market News,Business
+        News \">\n    <link rel=\"publisher\" href=\"https://plus.google.com/118293395770893367580\"
+        />\n    <meta name=\"msvalidate.01\" content=\"91D8CCE675E89439C48AA39EBAF6988D\"
+        />\n    <meta name=\"alexaVerifyID\" content=\"KIaduWIc88WqN22kuP9vXoMfUNg\"
+        />\n    \n    <!-- Article Structured Data -->\n    <script type=\"application/ld+json\">\n
+        \     {\n        \"@context\": \"http://schema.org\",\n        \"@type\":
+        \"NewsArticle\",\n        \"mainEntityOfPage\": \"https://www.zacks.com/stock/news/421247/moving-average-crossover-alert-waitr\",\n
+        \       \"headline\": \"Moving Average Crossover Alert: Waitr\",\n        \"datePublished\":
+        \"2019-05-29\",\n        \"dateModified\": \"2019-05-29\",\n        \"description\":
+        \"Waitr Holdings Inc. (WTRH) could be a stock to avoid from a technical perspective,
+        as the firm is seeing unfavorable trends on the moving average crossover front.
+        \",\n        \"author\": {\n          \"@type\": \"Person\",\n          \"name\":
+        \"Zacks Equity Research\"\n        },\n        \"publisher\": {\n          \"@type\":
+        \"Organization\",\n          \"name\": \"Zacks Investment Research\",\n          \"logo\":
+        {\n            \"@type\": \"ImageObject\",\n            \"url\": \"https://staticx.zacks.com/images/zacks/logos/logo2014_tagstack-sitehead_232x92_2x.png\",\n
+        \           \"width\": \"232px\",\n            \"height\": \"92px\"\n          }\n
+        \       },\n        \"image\": {\n          \"@type\": \"ImageObject\",\n
+        \         \"url\": \"https://staticx-tuner.zacks.com/images/default_article_images/default210.jpg\",\n
+        \         \"height\": \"598px\",\n          \"width\": \"900px\"\n        },\n
+        \       \"mentions\":[\n                {\n                  \"@type\": \"Corporation\",\n
+        \                 \"tickerSymbol\": \"WTRH\",\n                  \"url\":
+        \"www.zacks.com/stock/quote/WTRH\"\n                 }\n        ]\n       \n
+        \     }\n      </script>\n    <link rel=\"canonical\" href=\"https://www.zacks.com/stock/news/421247/moving-average-crossover-alert-waitr\"
+        />\n    <meta name=\"syndication-source\" content=\"https://www.zacks.com/stock/news/421247/moving-average-crossover-alert-waitr\"><meta
+        name=\"apple-itunes-app\" content=\"app-id=731593509\">    <link rel=\"amphtml\"
+        href=\"https://www.zacks.com/amp/stock/news/421247/moving-average-crossover-alert-waitr\"
+        />\n\n<!-- used by smart phones and tables -->\n<meta name=\"author\" content=\"Zacks
+        Investment Research\" />\n<meta name=\"copyright\" content=\"&copy; 2013 Zacks
+        Investment Research\" />\n<meta name=\"viewport\" content=\"width=device-width,
+        initial-scale=1, user-scalable=yes\" />\n<link rel=\"icon\" href=\"https://staticx.zacks.com/images/zacks/logos/favicon_1x_16x16.ico\"
+        type=\"image/x-icon\" />\n<link rel=\"shortcut icon\" href=\"https://staticx.zacks.com/images/zacks/logos/favicon_1x_16x16.ico\"
+        type=\"image/x-icon\" />\n\n<!-- For non-Retina iPhone, iPod Touch, and Android
+        2.1+ devices: -->\n<link rel=\"apple-touch-icon-precomposed\" href=\"https://staticx.zacks.com/images/zacks/logos/logo_apple-touch-icon-57x57precomposed.png\"
+        />\n<!-- For first- and second-generation iPad: -->\n<link rel=\"apple-touch-icon-precomposed\"
+        sizes=\"72x72\" href=\"https://staticx.zacks.com/images/zacks/logos/logo_apple-touch-icon-72x72precomposed.png\"
+        />\n<!-- For iPhone with high-resolution Retina display: -->\n<link rel=\"apple-touch-icon-precomposed\"
+        sizes=\"114x114\" href=\"https://staticx.zacks.com/images/zacks/logos/logo_apple-touch-icon-114x114-precomposed.png\"
+        />\n<!-- For third-generation iPad with high-resolution Retina display: -->\n<link
+        rel=\"apple-touch-icon-precomposed\" sizes=\"144x144\" href=\"https://staticx.zacks.com/images/zacks/logos/logo_apple-touch-icon-144x144-precomposed.png\"
+        />\n\n\n<!-- DC Page id : 194 -->\n\n<!--[if IE]>\n<script async src=\"https://staticx.zacks.com/js/html5shiv.js\"></script>\n<![endif]-->\n\n<script
+        src=\"https://staticx.zacks.com/js/jquery/jquery.min.js?v=20210129\"></script>\n<script
+        src=\"//assets.adobedtm.com/launch-ENf92a8a0f57b7412a8d05119401e8c329.min.js\"
+        async></script>\n<script defer src=\"https://staticx.zacks.com/min/jquery-ui-min.js?v=20210129\"></script>\n<script
+        defer src=\"https://staticx.zacks.com/min/z2-min.js?v=20210129\"></script>\n<script
+        defer src=\"https://staticx.zacks.com/js/zacks/top_navigation_activity_tracking.js\"></script>\n<script>\nvar
+        WIDGET_PATH_JS          = 'widget3.zacks.com';\nvar WIDGET3_PATH_JS         =
+        'widget3.zacks.com';\nvar PROTOCOL_JS             = 'https://';\nvar HTTP_PROTOCOL_JS
+        \       = 'https://';\nvar SITE_ROOT_PROTOCOL      = 'https://www.zacks.com/';\nvar
+        STATIC_CONTENT_ROOT_JS  = 'https://staticx.zacks.com';\nvar STATIC_TUNER_IMAGE_ROOT
+        = 'https://staticx-tuner.zacks.com/images/';\nvar DEFAULT_HOST            =
+        'www.zacks.com';\nvar PAGE_TYPE               = 'stock';\nvar PAGE_SUB_SECTION
+        \       = 'news';\nvar HOVERQUOTE_IDENTIFIER   = 'blog-tale_of_the_tape';\n</script>\n<script>\nvar
+        appendNumber = 4;\nvar prependNumber = 1;\n</script><link media=\"all\" rel=\"stylesheet\"
+        type=\"text/css\" href=\"https://staticx.zacks.com/css/zacks/css3/styles/commentary-main.css?v=20210129\"
+        /><script defer src=\"https://staticx.zacks.com/min/commentary-min.js?v=20210129\"></script><script
+        defer src=\"https://staticx.zacks.com/js/zacks/inline/commentary.js?v=20210129\"></script><script
+        async src=\"/js/vendor/zacks_consent_v1.js?v=20210129\"></script>\n    <script
+        async src=\"/js/vendor/zacks.fc.prebid.js?v=20210129\"></script>\n    <script
+        async src=\"https://securepubads.g.doubleclick.net/tag/js/gpt.js\"></script>\n
+        \   <script async src=\"/js/vendor/zacks.prebid.js?v=20210129\"></script>\n
+        \   <script>\n            var gptAdSlots = [];\n            window.googletag
+        = window.googletag || {cmd: []};\n            googletag.cmd.push(function()
+        {\n                \n            if( window.screen.width >= 320 && window.screen.width
+        <= 767 ){\n                var mobileSize = googletag.sizeMapping().\n                    addSize([400,
+        0], [[0, 0]]).\n                    addSize([0, 0], [320, 50]).\n                    build();
+        \                                        \n                \n                //
+        Lrec-top\n                gptAdSlots[\"Lrec-top\"] = googletag.defineSlot(\"/2802258/ZComCommentary-Lrec-top\",
+        [300,250], \"Lrec-top_201\").addService(googletag.pubads());\n                //
+        Lrec-middle\n                gptAdSlots[\"Lrec-middle\"] = googletag.defineSlot(\"/2802258/ZComCommentary-Lrec-middle\",
+        [300,250], \"Lrec-middle_202\").addService(googletag.pubads());\n                //
+        Lrec-bottom\n                gptAdSlots[\"Lrec-bottom\"] = googletag.defineSlot(\"/2802258/ZComCommentary-Lrec-bottom\",
+        [300,250], \"Lrec-bottom_203\").addService(googletag.pubads());\n                //
+        Leaderboard-mobile\n                gptAdSlots[\"Leaderboard-mobile\"] = googletag.defineSlot(\"/2802258/ZComCommentary-Leaderboard-mobile\",
+        [320,50], \"Leaderboard-mobile_103\").defineSizeMapping(mobileSize).addService(googletag.pubads()).setCollapseEmptyDiv(true);\n
+        \           } else if( window.screen.width >= 768 && window.screen.width <=
+        1023 ){\n                var tabletSize = googletag.sizeMapping().\n                    addSize([320,
+        700], [[0, 0]]).\n                    addSize([0, 0], [300, 250]).\n                    build();\n
+        \               \n                // Lrec-top\n                gptAdSlots[\"Lrec-top\"]
+        = googletag.defineSlot(\"/2802258/ZComCommentary-Lrec-top\", [300,250], \"Lrec-top_201\").defineSizeMapping(tabletSize).addService(googletag.pubads());\n
+        \               // Lrec-middle\n                gptAdSlots[\"Lrec-middle\"]
+        = googletag.defineSlot(\"/2802258/ZComCommentary-Lrec-middle\", [300,250],
+        \"Lrec-middle_202\").defineSizeMapping(tabletSize).addService(googletag.pubads());\n
+        \               // Lrec-bottom\n                gptAdSlots[\"Lrec-bottom\"]
+        = googletag.defineSlot(\"/2802258/ZComCommentary-Lrec-bottom\", [300,250],
+        \"Lrec-bottom_203\").defineSizeMapping(tabletSize).addService(googletag.pubads());\n
+        \               // Inline-Top\n                gptAdSlots[\"Inline-Top\"]
+        = googletag.defineSlot(\"/2802258/ZComCommentary-Inline-Top\", [[336,280],[300,250]],
+        \"Inline-Top_402\").addService(googletag.pubads());\n                // Leaderboard-bottom\n
+        \               gptAdSlots[\"Leaderboard-bottom\"] = googletag.defineSlot(\"/2802258/ZComCommentary-Leaderboard-bottom\",
+        [728,90], \"Leaderboard-bottom_102\").defineSizeMapping(tabletSize).addService(googletag.pubads());\n
+        \               // Leaderboard-top\n                gptAdSlots[\"Leaderboard-top\"]
+        = googletag.defineSlot(\"/2802258/ZComCommentary-Leaderboard-top\", [728,90],
+        \"Leaderboard-top_101\").defineSizeMapping(tabletSize).addService(googletag.pubads());\n
+        \               // Inline-Bottom\n                gptAdSlots[\"Inline-Bottom\"]
+        = googletag.defineSlot(\"/2802258/ZComCommentary-Inline-Bottom\", [[336,280],[300,250]],
+        \"Inline-Bottom_403\").addService(googletag.pubads());\n            } else
+        {\n                var desktopSize = googletag.sizeMapping().\n                    addSize([1024,
+        0], [[728, 90]]).\n                    addSize([0, 0], [0, 0]).\n                    build();\n
+        \               \n                // Lrec-top\n                gptAdSlots[\"Lrec-top\"]
+        = googletag.defineSlot(\"/2802258/ZComCommentary-Lrec-top\", [300,250], \"Lrec-top_201\").addService(googletag.pubads());\n
+        \               // Lrec-middle\n                gptAdSlots[\"Lrec-middle\"]
+        = googletag.defineSlot(\"/2802258/ZComCommentary-Lrec-middle\", [300,250],
+        \"Lrec-middle_202\").addService(googletag.pubads());\n                // Lrec-bottom\n
+        \               gptAdSlots[\"Lrec-bottom\"] = googletag.defineSlot(\"/2802258/ZComCommentary-Lrec-bottom\",
+        [300,250], \"Lrec-bottom_203\").addService(googletag.pubads());\n                //
+        Inline-Top\n                gptAdSlots[\"Inline-Top\"] = googletag.defineSlot(\"/2802258/ZComCommentary-Inline-Top\",
+        [[336,280],[300,250]], \"Inline-Top_402\").addService(googletag.pubads());\n
+        \               // Leaderboard-bottom\n                gptAdSlots[\"Leaderboard-bottom\"]
+        = googletag.defineSlot(\"/2802258/ZComCommentary-Leaderboard-bottom\", [728,90],
+        \"Leaderboard-bottom_102\").defineSizeMapping(desktopSize).addService(googletag.pubads());\n
+        \               // Leaderboard-top\n                gptAdSlots[\"Leaderboard-top\"]
+        = googletag.defineSlot(\"/2802258/ZComCommentary-Leaderboard-top\", [728,90],
+        \"Leaderboard-top_101\").defineSizeMapping(desktopSize).addService(googletag.pubads());\n
+        \               // Inline-Bottom\n                gptAdSlots[\"Inline-Bottom\"]
+        = googletag.defineSlot(\"/2802258/ZComCommentary-Inline-Bottom\", [[336,280],[300,250]],
+        \"Inline-Bottom_403\").addService(googletag.pubads());\n            }\n    googletag.pubads()\n
+        \           .setTargeting(\"Login\", \"system\");\n    googletag.pubads().enableAsyncRendering();\n
+        \   googletag.pubads().disableInitialLoad();\n    googletag.enableServices();\n
+        \   googletag.pubads().set(\"adsense_background_color\", \"FFFFFF\");\n});\n
+        \   </script>\n            <script defer src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n
+        \       <script>\n        (adsbygoogle = window.adsbygoogle || []).push({\n
+        \           google_ad_client: \"ca-pub-2333136737514314\",\n            enable_page_level_ads:
+        true\n        });\n        var SECONDS_TO_WAIT_AFTER_VIEWABILITY = 60;\n        setInterval(function(){\n
+        \          googletag.cmd.push(function() {\n             googletag.pubads().refresh([gptAdSlots['Lrec-middle'],gptAdSlots['Leaderboard-bottom'],gptAdSlots['Lrec-bottom'],gptAdSlots['Leaderboard-mobile']]);\n
+        \          });\n        },SECONDS_TO_WAIT_AFTER_VIEWABILITY * 1000);\n        </script><!--
+        z2_comm_head_module_v2 end -->\n\n<!-- End: head -->\n</head>\n\n<body>\n\n\n<!--
+        Begin: top_navigation-->\n<!-- z2_top_nav start -->\n<div class=\"skipnav\"><a
+        href=\"#main_content\">Skip to main content</a></div>\n\n<div class=\"disclosure-fixed-slab\"
+        role=\"region\" aria-label=\"Cookie Consent\">\n    <p>We use cookies to understand
+        how you use our site and to improve your experience. This includes personalizing
+        content and advertising. To learn more, <a href=\"https://www.zacks.com/privacy.php#how-to-use-cookies\">click
+        here</a>. By continuing to use our site, you accept our use of cookies, revised
+        <a href=\"https://www.zacks.com/privacy.php\">Privacy Policy</a> and <a href=\"https://www.zacks.com/disclosure\">Terms
+        and Conditions of Service</a>.</p>\n    <div>\n        <button id=\"accept_cookie\"
+        name=\"accept_cookie\">I accept</button>\n        <button class=\"close\"
+        aria-label=\"Close\">X</button>\n    </div>\n</div>\n\n\n<section class=\"clearfix
+        top-header-section\">\n<div class=\"header-logos\"><a class=\"mobile_logo\"
+        href=\"/\" rel=\"home\" role=\"link\"><img src=\"https://staticx.zacks.com/images/zacks/logos/zacks_logo_200x57.png\"
+        alt=\"Zacks Invesment Research Home\" title=\"\"></a> </div>\n<ul class=\"user-menu_list
+        \"><li><a href=\"https://www.zacks.com/registration_info.php\">Join</a></li>\n
+        \                   <li id=\"mob_log_me_in\">\n                        <a
+        href=\"#\" class=\"mobile_login_box\">Sign In</a>\n                        <!--
+        Begin: Login form -->\n                        <div id=\"mob_login_form\">\n
+        \                           <form name=\"jslogin_form\" class=\"jslogin_form\"
+        method=\"post\" action=\"https://www.zacks.com/stock/news/421247/moving-average-crossover-alert-waitr\"
+        onsubmit=\"return JSloginCheck(this);\">\n                            <input
+        type=\"hidden\" name=\"force_login\" value=\"true\" class=\"hidden\">\n                            \n
+        \                               <h1>Member Sign In</h1>\n                                \n
+        \                               <div class=\"form-field float-label\">                                    \n
+        \                                   <input id=\"username\" type=\"text\" name=\"username\"
+        placeholder=\"Username or Email Address\">\n                                    <label
+        for=\"username\">Username or Email Address</label>\n                                </div>\n
+        \                               \n                                <div class=\"form-field
+        float-label\">                                    \n                                    <input
+        id=\"password\" type=\"password\" name=\"password\" placeholder=\"Password\">
+        \n                                    <label for=\"password\" class=\"visuallyhidden\">Password</label>
+        \                              \n                                </div>\n
+        \                               \n                                <div class=\"form-field\">
+        \                               \n                                    <input
+        type=\"checkbox\" id=\"rememberMe_m\" checked=\"checked\"> <label for=\"rememberMe_m\">Keep
+        Me Signed In </label>\n                                    <span class=\"remember_me
+        help_me_link\" onclick=\"alert('If you are the only one who uses your computer
+        \\nor if you are not concerned about keeping\\nprivate information from the
+        others who use \\nyour computer (such as your spouse), you can \\nselect the
+        \  &ldquo;Remember Me&rdquo; option on the &ldquo;Login&rdquo;.\\n\\nWith
+        this option you can move freely in and out \\nof the Zacks Investment Research
+        site with all \\nits parts, and each time you return, \\nZacks Investment
+        Research will automatically sign \\nyou in.\\n\\nFor your security you should
+        keep your \\nZacks Investment Research Member Name and\\nPassword in a safe
+        place so that you can refer to\\nthem when you need to.\\n\\nThe Zacks Investment
+        Research Team')\" >What does \"Remember Me\" do?</span>\n                                </div>\n\n
+        \                               <p><a href=\"/my-account/forgot.php?continue_to=%2F%2Fwww.zacks.com%2Fcommentary.php%3Farticle_id%3D421247%26type%3Dblog\"
+        class=\"forgotPasswordLink\">Don&#39;t Know Your Password?</a></p>\n                                <p><input
+        type=\"submit\" value=\"Sign In\" class=\"fancy_button green\"></p>\n                                \n
+        \                               <button type=\"button\" tabindex=\"0\" aria-label=\"Close\"
+        role=\"button\">\n                                    <span id=\"mob_close_login\">Close
+        this window</span>\n                                </button>\n\n                            </form>\n
+        \                       </div>\n                        <!-- End: Login form
+        -->\n                    </li></ul>\n</section>\n<header class=\"primary-nav--content\">\n<nav
+        id=\"primary\" class=\"sticky\" aria-label=\"main\">\n         <!-- nav toggle
+        trigger for mobile -->\n            <button class=\"toggle-navbar\" type=\"button\"
+        data-toggle=\"collapse\" aria-expanded=\"false\" aria-controls=\"navbar-collapse\"
+        aria-label=\"Toggle header navigation\">\n            \n                <span
+        class=\"z1-mobile-menu\">Menu</span>\n            </button>            \n
+        \           \n            <ul id=\"navbar-collapse\" class=\"navbar-collapse\">\n
+        \               <li class=\"\" >\n                    <a href=\"//www.zacks.com\"
+        aria-current=\"page\">Home</a>\n                    </li>\n<li class=\"with-dd
+        \" >\n                    <a href=\"//www.zacks.com/stocks.php\" id=\"stocks-dd\"
+        class=\"mobile-disable\">Stocks</a>\n                    <!-- stocks dd -->\n
+        \                   <button class=\"toggle-button sr-only sr-only-focusable\"
+        aria-expanded=\"false\" aria-controls=\"stocks-menu\">\n                        <i
+        class=\"fa fa-plus\" aria-hidden=\"true\"></i>\n                        <span
+        class=\"sr-only\">Stocks</span>\n                    </button>\n                    <ul
+        class=\"menu\" id=\"stocks-menu\" aria-labelledby=\"stocks-dd\">\n                        <li
+        ><a href=\"//www.zacks.com/stocks.php\">Stocks</a></li>\n<li ><a href=\"//www.zacks.com/stocks/buy-list/?adid=zp_topnav_1list\">Zacks
+        #1 Rank</a></li>\n<li ><a href=\"//www.zacks.com/stocks/zacks-rank\">Zacks
+        Rank</a></li>\n<li ><a href=\"//www.zacks.com/stocks/industry-rank/industries/\">Zacks
+        Industry Rank</a></li>\n<li ><a href=\"//www.zacks.com/stocks/industry-rank/sectors/\">Zacks
+        Sector Rank</a></li>\n<li ><a href=\"//www.zacks.com/stocks/equity-research\">Equity
+        Research</a></li>\n<li ><a href=\"//www.zacks.com/stock-market-today\">Markets</a></li>\n\n
+        \                   </ul>\n                </li>\n<li class=\"with-dd \" >\n
+        \                   <a href=\"//www.zacks.com/funds/\" id=\"funds-dd\" class=\"mobile-disable\">Funds</a>\n
+        \                   <!-- stocks dd -->\n                    <button class=\"toggle-button
+        sr-only sr-only-focusable\" aria-expanded=\"false\" aria-controls=\"funds-menu\">\n
+        \                       <i class=\"fa fa-plus\" aria-hidden=\"true\"></i>\n
+        \                       <span class=\"sr-only\">Funds</span>\n                    </button>\n
+        \                   <ul class=\"menu\" id=\"funds-menu\" aria-labelledby=\"funds-dd\">\n
+        \                       <li ><a href=\"//www.zacks.com/funds/\">Funds</a></li>\n<li
+        ><a href=\"//www.zacks.com/funds/mutual-funds\">Mutual Funds</a></li>\n<li
+        ><a href=\"//www.zacks.com/funds/etfs\">ETFs</a></li>\n<li ><a href=\"//www.zacks.com/screening/mutual-fund-screener\">Mutual
+        Fund Screener</a></li>\n<li ><a href=\"//www.zacks.com/screening/etf-screener\">ETF
+        Screener</a></li>\n<li ><a href=\"//www.zacks.com/funds/top-etfs\">Top ETFs</a></li>\n\n
+        \                   </ul>\n                </li>\n<li class=\"with-dd \" >\n
+        \                   <a href=\"//www.zacks.com/earnings\" id=\"earnings-dd\"
+        class=\"mobile-disable\">Earnings</a>\n                    <!-- stocks dd
+        -->\n                    <button class=\"toggle-button sr-only sr-only-focusable\"
+        aria-expanded=\"false\" aria-controls=\"earnings-menu\">\n                        <i
+        class=\"fa fa-plus\" aria-hidden=\"true\"></i>\n                        <span
+        class=\"sr-only\">Earnings</span>\n                    </button>\n                    <ul
+        class=\"menu\" id=\"earnings-menu\" aria-labelledby=\"earnings-dd\">\n                        <li
+        ><a href=\"//www.zacks.com/earnings\">Earnings</a></li>\n<li ><a href=\"//www.zacks.com/earnings/earnings-calendar\">Earnings
+        Calendar</a></li>\n<li ><a href=\"//www.zacks.com/earnings/earnings-reports\">Earnings
+        Releases</a></li>\n<li ><a href=\"//www.zacks.com/earnings/earnings-surprise-predictions/\">Earnings
+        ESP</a></li>\n<li ><a href=\"//www.zacks.com/premium/esp-buy?adid=zp_topnav_espfilter\">Earnings
+        ESP Filter</a></li>\n\n                    </ul>\n                </li>\n<li
+        class=\"with-dd \" >\n                    <a href=\"//www.zacks.com/screening\"
+        id=\"screening-dd\" class=\"mobile-disable\">Screening</a>\n                    <!--
+        stocks dd -->\n                    <button class=\"toggle-button sr-only sr-only-focusable\"
+        aria-expanded=\"false\" aria-controls=\"screening-menu\">\n                        <i
+        class=\"fa fa-plus\" aria-hidden=\"true\"></i>\n                        <span
+        class=\"sr-only\">Screening</span>\n                    </button>\n                    <ul
+        class=\"menu\" id=\"screening-menu\" aria-labelledby=\"screening-dd\">\n                        <li
+        ><a href=\"//www.zacks.com/screening\">Screening</a></li>\n<li ><a href=\"//www.zacks.com/screening/stock-screener\">Stock
+        Screener</a></li>\n<li ><a href=\"//www.zacks.com/screening/mutual-fund-screener\">Mutual
+        Fund Screener</a></li>\n<li ><a href=\"//www.zacks.com/screening/etf-screener\">ETF
+        Screener</a></li>\n<li ><a href=\"//www.zacks.com/screening/premium-screens\">Premium
+        Screens</a></li>\n<li ><a href=\"//www.zacks.com/researchwizard/index.php?site=screen\">Research
+        Wizard</a></li>\n\n                    </ul>\n                </li>\n<li class=\"with-dd
+        \" >\n                    <a href=\"http://finance.zacks.com\" id=\"finance-dd\"
+        class=\"mobile-disable\">Finance</a>\n                    <!-- stocks dd -->\n
+        \                   <button class=\"toggle-button sr-only sr-only-focusable\"
+        aria-expanded=\"false\" aria-controls=\"finance-menu\">\n                        <i
+        class=\"fa fa-plus\" aria-hidden=\"true\"></i>\n                        <span
+        class=\"sr-only\">Finance</span>\n                    </button>\n                    <ul
+        class=\"menu\" id=\"finance-menu\" aria-labelledby=\"finance-dd\">\n                        <li
+        ><a href=\"http://finance.zacks.com\">Personal Finance</a></li>\n<li ><a href=\"http://finance.zacks.com/insurance/\">Insurance</a></li>\n<li
+        ><a href=\"http://finance.zacks.com/investing/\">Investing</a></li>\n<li ><a
+        href=\"http://finance.zacks.com/money-managing/\">Money Managing</a></li>\n<li
+        ><a href=\"http://finance.zacks.com/real-estate/\">Real Estate</a></li>\n<li
+        ><a href=\"http://finance.zacks.com/retirement-planning/\">Retirement Planning</a></li>\n<li
+        ><a href=\"http://finance.zacks.com/tax-information/\">Tax Information</a></li>\n\n
+        \                   </ul>\n                </li>\n<li class=\"with-dd \" >\n
+        \                   <a href=\"//www.zacks.com/portfolios/my-stock-portfolio/\"
+        id=\"portfolio-dd\" class=\"mobile-disable\">Portfolio</a>\n                    <!--
+        stocks dd -->\n                    <button class=\"toggle-button sr-only sr-only-focusable\"
+        aria-expanded=\"false\" aria-controls=\"portfolio-menu\">\n                        <i
+        class=\"fa fa-plus\" aria-hidden=\"true\"></i>\n                        <span
+        class=\"sr-only\">Portfolio</span>\n                    </button>\n                    <ul
+        class=\"menu\" id=\"portfolio-menu\" aria-labelledby=\"portfolio-dd\">\n                        <li
+        ><a href=\"//www.zacks.com/portfolios/my-stock-portfolio/\">My Portfolio</a></li>\n<li
+        ><a href=\"/portfolios/my-stock-portfolio?mode=create-new-portfolio\">Create
+        Portfolio</a></li>\n\n                    </ul>\n                </li>\n<li
+        class=\"with-dd \" >\n                    <a href=\"//www.zacks.com/education/stock-education\"
+        id=\"edu-dd\" class=\"mobile-disable\">Education</a>\n                    <!--
+        stocks dd -->\n                    <button class=\"toggle-button sr-only sr-only-focusable\"
+        aria-expanded=\"false\" aria-controls=\"edu-menu\">\n                        <i
+        class=\"fa fa-plus\" aria-hidden=\"true\"></i>\n                        <span
+        class=\"sr-only\">Education</span>\n                    </button>\n                    <ul
+        class=\"menu\" id=\"edu-menu\" aria-labelledby=\"edu-dd\">\n                        <li
+        ><a href=\"//www.zacks.com/education/stock-education\">Education</a></li>\n<li
+        ><a href=\"//www.zacks.com/education/stock-education\">Stocks</a></li>\n<li
+        ><a href=\"//www.zacks.com/style-scores-education/\">Style Scores</a></li>\n<li
+        ><a href=\"//www.zacks.com/education/mutual-fund-education\">Funds</a></li>\n<li
+        ><a href=\"//www.zacks.com/education/esp-education/\">Earnings ESP</a></li>\n<li
+        ><a href=\"//www.zacks.com/education/screening-education\">Screening</a></li>\n<li
+        ><a href=\"//www.zacks.com/reviews\">Testimonials</a></li>\n<li ><a href=\"//www.zacks.com/start-here\">Zacks.com
+        Tutorial</a></li>\n\n                    </ul>\n                </li>\n<li
+        class=\"\" >\n                    <a href=\"//www.zacks.com/financial-videos/index.php\"
+        >Video</a>\n                    </li>\n<li class=\"\" >\n                    <a
+        href=\"//www.zacks.com/podcasts/\" >Podcasts</a>\n                    </li>\n<li
+        class=\"services-mm \" >\n                    <button class=\"toggle-button\"
+        id=\"services-dd\" aria-expanded=\"false\" aria-controls=\"services-menu\">\n
+        \                       Services\n                        <i class=\"fa fa-plus\"
+        aria-hidden=\"true\"></i>\n                        <span class=\"sr-only\">Services</span>\n
+        \                   </button>\n\n                    <div id=\"services-menu\"
+        role=\"region\" class=\"mega-menu\" aria-labelledby=\"services-dd\">\n                        <!--
+        mega menu close btn -->\n                        <button class=\"close-btn\">\n
+        \                           <i class=\"fa fa-times\" aria-hidden=\"true\"></i>\n
+        \                           <span class=\"sr-only\">Close Services menu</span>\n
+        \                       </button>\n\n                        <div class=\"col
+        premium\">\n                            <a href=\"//www.zacks.com/investment-services/\"
+        class=\"heading\" id=\"cat-1-title\">Services Overview</a>\n                            <ul
+        aria-labelledby=\"cat-1-title\">\n                                <li><a href=\"//www.zacks.com/ultimate/?adid=TOP_ONLINE_NAV\">Zacks
+        Ultimate</a></li>\n                                <li><a href=\"//www.zacks.com/investorcollection/\">Zacks
+        Investor Collection</a></li>\n                                <li><a href=\"//www.zacks.com/premium.php\">Zacks
+        Premium</a></li>\n                            </ul>\n                        </div>\n\n
+        \                       <div class=\"col\">\n<h2 class=\"heading\" id=\"cat-2-title\">Investor
+        Services</h2>\n<ul aria-labelledby=\"cat-2-title\">\n<li><a href=\"//www.zacks.com/etfinvestor/\"
+        >ETF Investor</a></li>\n<li><a href=\"//www.zacks.com/homerun/?adid=TOP_ONLINE_NAV\"
+        >Home Run Investor</a></li>\n<li><a href=\"//www.zacks.com/incomeinvestor/\"
+        >Income Investor</a></li>\n<li><a href=\"//www.zacks.com/stocksunder10/\"
+        >Stocks Under $10</a></li>\n<li><a href=\"//www.zacks.com/valueinvestor/?adid=TOP_ONLINE_NAV\"
+        >Value Investor</a></li>\n<li><a href=\"//www.zacks.com/top-10-stocks.php\"
+        >Top 10 Stocks</a></li>\n</ul>\n<h2 class=\"heading\" id=\"cat-3-title\">Other
+        Services</h2>\n<ul aria-labelledby=\"cat-3-title\">\n<li><a href=\"//www.zacks.com/registration/zmt/welcome/eoffer/33e3/?adid=TOP_ONLINE_NAV\"
+        >Method for Trading</a></li>\n<li><a href=\"//www.zacks.com/registration/rw/welcome/eoffer/3dd7/?adid=TOP_ONLINE_NAV\"
+        >Research Wizard</a></li>\n<li><a href=\"//www.zacks.com/confidential/?adid=TOP_ONLINE_NAV\"
+        >Zacks Confidential</a></li>\n</ul>\n</div>\n<div class=\"col\">\n<h2 class=\"heading\"
+        id=\"cat-4-title\">Trading Services</h2>\n<ul aria-labelledby=\"cat-4-title\">\n<li><a
+        href=\"//www.zacks.com/blackboxtrader/\" >Black Box Trader</a></li>\n<li><a
+        href=\"//www.zacks.com/counterstrike/\" >Counterstrike</a></li>\n<li><a href=\"//www.zacks.com/insidertrader/\"
+        >Insider Trader</a></li>\n<li><a href=\"//www.zacks.com/largecaptrader/\"
+        >Large-Cap Trader</a></li>\n<li><a href=\"//www.zacks.com/optionstrader/\"
+        >Options Trader</a></li>\n<li><a href=\"//www.zacks.com/shortlist/\" >Short
+        Sell List</a></li>\n<li><a href=\"//www.zacks.com/surprisetrader/\" >Surprise
+        Trader</a></li>\n<li><a href=\"//www.zacks.com/tazr/\" >TAZR</a></li>\n</ul>\n<h2
+        class=\"heading\" id=\"cat-5-title\">Innovators</h2>\n<ul aria-labelledby=\"cat-5-title\">\n<li><a
+        href=\"//www.zacks.com/blockchaininnovators/\" >Blockchain</a></li>\n<li><a
+        href=\"//www.zacks.com/commodityinnovators/\" >Commodity</a></li>\n<li><a
+        href=\"//www.zacks.com/healthcareinnovators/\" >Healthcare</a></li>\n<li><a
+        href=\"//www.zacks.com/marijuanainnovators/\" >Marijuana</a></li>\n<li><a
+        href=\"//www.zacks.com/technologyinnovators/\" >Technology</a></li>\n</ul>\n</div>\n\n
+        \                   </div>\n                </li>\n\n                \n                <!--
+        search container -->\n                 <li class=\"search-container \">\n
+        \                    <form id=\"search_form\" name=\"frmsearch\" method=\"post\"
+        action=\"/search.php\" autocomplete=\"off\">\n                     <label
+        id=\"header_search\" for=\"search-q\" class=\"sr-only\">Quote or Search</label>\n
+        \                        <input type=\"search\" id=\"search-q\" name=\"search-q\"
+        class=\"dropdown \" value=\"\" hasdefault=\"false\" searchextras=\"all\" placeholder=\"Quote
+        or Search\" autofocus=\"autofocus\" aria-autocomplete=\"both\" aria-controls=\"result_list_view\"
+        aria-haspopup=\"listbox\" aria-expanded=\"false\"/>\n                         <button
+        type=\"submit\">\n                             <i class=\"fa fa-search\" aria-hidden=\"true\"></i>\n
+        \                            <span class=\"sr-only\">Search</span>\n                         </button>\n
+        \                        <input type=\"hidden\" class=\"search_mode\" name=\"search_mode\"
+        value=\"\" />\n                         <input type=\"hidden\" class=\"ticker_type\"
+        name=\"ticker_type\" value=\"\" />\n                         <div id=\"result_list_view\"
+        class=\"result_container\">\n                    <div class=\"results_tickers\"></div>\n
+        \                   <div class=\"results_articles\"></div>\n                    <div
+        class=\"results_news\"></div>\n                </div>\n                     </form>\n
+        \                    <script>document.getElementById('search-q').setAttribute(\"autocomplete\",
+        \"off\");</script>\n                 </li>\n                \n                \n
+        \           </ul>\n</nav>\n<p class=\"top_special\"><a href=\"https://www.zacks.com/start-here?icid=home-home-startHere-pfp-text_ribbon-tx_06\"
+        title=\"Get Started With Zacks\"><span>New to Zacks?</span> Get started here.</a></p>\n<ul
+        id=\"user_menu\" aria-label=\"My Account\">\n        <li><a href=\"https://www.zacks.com/registration_info.php\">Join</a></li>\n
+        \                   <li id=\"log_me_in\">\n                        <a href=\"#\"
+        aria-controls=\"log_me_in\" aria-expanded=\"false\" class=\"signin_expand\">Sign
+        In</a>\n                        <!-- Begin: Login form -->\n                        <div
+        id=\"login_form\" role=\"form\" aria-label=\"Login\">\n                            <form
+        name=\"jslogin_form\" class=\"jslogin_form\" method=\"post\" action=\"https://www.zacks.com/stock/news/421247/moving-average-crossover-alert-waitr\"
+        onsubmit=\"return JSloginCheck(this);\">\n                            <input
+        type=\"hidden\" name=\"force_login\" value=\"true\" class=\"hidden\">\n                            \n
+        \                               <h1>Member Sign In</h1>\n                                \n
+        \                               <div class=\"form-field float-label\">\n                                    \n
+        \                                   <input id=\"username\" type=\"text\" name=\"username\"
+        placeholder=\"Username or Email Address\" required>\n                                    <label
+        for=\"username\">Username or Email Address</label>\n                                </div>\n
+        \                               \n                                <div class=\"form-field
+        float-label\"> \n                                    <input id=\"password\"
+        type=\"password\" name=\"password\" placeholder=\"Password\" required> \n
+        \                                   <label for=\"password\">Password</label>
+        \                              \n                                </div>\n
+        \                               \n                                <div class=\"form-field\">\n
+        \                                   <input type=\"checkbox\" id=\"rememberMe\"
+        name=\"remember_me\" checked=\"checked\" role=\"checkbox\"> <label for=\"rememberMe\">Keep
+        Me Signed In </label>\n                                    <span class=\"remember_me
+        help_me_link\" onclick=\"alert('If you are the only one who uses your computer
+        \\nor if you are not concerned about keeping\\nprivate information from the
+        others who use \\nyour computer (such as your spouse), you can \\nselect the
+        \  &ldquo;Remember Me&rdquo; option on the &ldquo;Login&rdquo;.\\n\\nWith
+        this option you can move freely in and out \\nof the Zacks Investment Research
+        site with all \\nits parts, and each time you return, \\nZacks Investment
+        Research will automatically sign \\nyou in.\\n\\nFor your security you should
+        keep your \\nZacks Investment Research Member Name and\\nPassword in a safe
+        place so that you can refer to\\nthem when you need to.\\n\\nThe Zacks Investment
+        Research Team')\" >What does \"Remember Me\" do?</span>\n                                </div>\n\n\t\t\t\t\t\t\t\t<p><a
+        href=\"/my-account/forgot.php?continue_to=%2F%2Fwww.zacks.com%2Fcommentary.php%3Farticle_id%3D421247%26type%3Dblog\"
+        class=\"forgotPasswordLink\" role=\"link\">Don&#39;t Know Your Password?</a></p>\n\n
+        \                               <p><input type=\"submit\" value=\"Sign In\"
+        class=\"fancy_button green\" role=\"button\"></p>\n                                \n
+        \                               <button type=\"button\" tabindex=\"0\" aria-label=\"Close\"
+        role=\"button\" id=\"close_login\">\n                                    <span
+        class=\"sr-only\">Close this window</span>\n                                </button>\n
+        \                           </form>\n                        </div>\n                        <!--
+        End: Login form -->\n                    </li>\n                    <li><a
+        href=\"https://www.zacks.com/help/\">Help</a></li>\n    </ul>\n</header>    <!--
+        Begin: Header Ad -->\n    <div role=\"banner\" id=\"banner\">\n        <a
+        href=\"/\" role=\"link\" rel=\"home\">\n            <img src=\"https://staticx.zacks.com/images/zacks/logos/logo2014_tagstack-sitehead_232x92_2x.png\"
+        width=\"232\" height=\"92\" alt=\"Zacks Invesment Research Home\" title=\"\"
+        />\n        </a>\n\n        <!-- nav toggle button for mobile menu -->\n        <div
+        class=\"nav-toggle\">\n            <span></span>\n            <span></span>\n
+        \           <span></span>\n        </div>\n        <!-- nav toggle button
+        for mobile menu -->\n\t<div class=\"\">\n\t    <div id=\"Leaderboard-top_101\"
+        class=\"dfp_ad_unit\">\n            <script>\n                    googletag.cmd.push(function()
+        {\n                    googletag.display(\"Leaderboard-top_101\");\n                    });\n
+        \           </script>\n        </div>\n        <span class=\"bt-uid-tg\" uid=\"5a7c3f770e-109\"
+        style=\"display: none !important\"></span>\n    </div>\n\t<div class=\"\">\n\t
+        \   <div id=\"Leaderboard-mobile_103\" class=\"dfp_ad_unit\">\n            <script>\n
+        \                   googletag.cmd.push(function() {\n                    googletag.display(\"Leaderboard-mobile_103\");\n
+        \                   });\n            </script>\n        </div>\n        <span
+        class=\"bt-uid-tg\" uid=\"5a7c3fea34-109\" style=\"display: none !important\"></span>\n
+        \   </div>    </div>\n    <!-- End: Header Ad -->\n<div class=\"hide\" id=\"gateway_modal_offsite\">\r\n<p>You
+        are being directed to ZacksTrade, a division of LBMZ Securities and licensed
+        broker-dealer. ZacksTrade and Zacks.com are separate companies. The web link
+        between the two companies is not a solicitation or offer to invest in a particular
+        security or type of security. ZacksTrade does not endorse or adopt any particular
+        investment strategy, any analyst opinion/rating/report or any approach to
+        evaluating indiv idual securities.</p>\r\n\r\n<p>If you wish to go to ZacksTrade,
+        click <strong>OK</strong>. If you do not, click Cancel.</p>\r\n\r\n<p class=\"zt_offsite_button\"><a
+        class=\"fancy_button green\" href=\"https://www.zackstrade.com/2019-1-dollar\"
+        id=\"gateway_offsite_link\">OK</a> <a class=\"fancy_button deactive\" href=\"#\">Cancel</a></p>\r\n</div>\r\n<!--MSG:11843--><!--
+        z2_top_nav end -->\n\n<!-- End: top_navigation-->\n\n<!-- Begin: Main Content
+        -->\n<div id=\"main_content\" role=\"main\">\n\n<!-- Begin: toolbar-->\n<!--
+        z2_toolbar start -->\n<div id=\"toolbar\">\n    <span>Back to top</span>\n</div>\n\n<!--
+        z2_toolbar end -->\n\n<!-- End: toolbar-->\n\n    <div class=\"main_body\">\n\n<!--
+        Begin: commentary -->\n<!-- z2_commentary_using_view start -->\n    <section
+        id=\"commentary_article\" class=\"commentary_b\">\n        <script>\n            auto_ad
+        = -1;\n            article_id = 421247;\n        </script>\n        <!--<script
+        defer src=\"https://staticx.zacks.com/js/zacks/inline/commentary.js\"></script>-->\n
+        \       <div class=\"article_banner\">\n        <img src=\"https://staticx-tuner.zacks.com/images/default_article_images/default210.jpg\"
+        alt=\"\" title=\"\">\n             <p>Image: Bigstock</p>            \n        </div>\n
+        \       <article>\n         <h1>Moving Average Crossover Alert: Waitr</h1>\n
+        \           <header class=\"ticker-and-social-ribbon\">\n              <aside>\n
+        \                <p class=\"byline\">Zacks Equity Research\n                    <span><time
+        datetime=\"00:00\">May 29, 2019</time></span>\n                </p>\n                 <p
+        class=\"hoverquote_block\"><button class=\"modal_external appear-on-focus\"
+        href=\"/modals/quick-quote.php\" rel=\"WTRH\">WTRH Quick Quote</button><a
+        href=\"/stock/quote/WTRH\" class=\"hoverquote-container-od analytics_tracking
+        hoverquote-neg\" rel=\"WTRH\" show-add-portfolio=\"true\" id = ticker_social_ribbon-WTRH-txt
+        \n><span class=\"hoverquote-symbol\">WTRH</span></a>    </p>\n                 <style
+        type=\"text/css\">#ztBtn2 .valign {\r\n        display:inline-block;\r\n        vertical-align:top;\r\n
+        \       position:relative;\r\n        color: #fff;\r\n        }\r\n        #ztBtn2
+        .valign:hover{\r\n            color: #fff !important;\r\n        }\r\n    #ztBtn2
+        {\r\n        height:24px;\r\n        padding:3px 10px 5px;\r\n        display:
+        inline-block;\r\n        background:#2b2b2b;\r\n        background-size:cover;\r\n
+        \       border: 1px solid #2b2b2b;\r\n        -webkit-border-radius: 3px;\r\n
+        \       -moz-border-radius: 6px; -o-border-radius: 6px; border-radius:6px;\r\n
+        \       margin:0 0 16px;\r\n        font-family: 'Lucida Grande', 'Lucida
+        Sans Unicode', 'Lucida Sans', Verdana, 'Droid Sans', Roboto, Helvetica, Arial,
+        sans-serif;\r\n        font-size:16px;\r\n        line-height:1;\r\n        text-decoration:none;\r\n
+        \       color:#fff;\r\n        text-align:center;\r\n        top: -7px !important;\r\n
+        \       cursor: pointer;\r\n        }\r\n        \r\n    #ztBtn2 #icon {\r\n
+        \       top:0;\r\n        border:none;\r\n        outline:none;\r\n        }\r\n
+        \       \r\n    #ztBtn2 #price {\r\n        background: #3aa150;\r\n        color:
+        #fff;\r\n        padding: 6px;\r\n        border-radius: 50%;\r\n        font-size:
+        22px;\r\n        line-height: 1;\r\n        border: solid 1px #207132;\r\n
+        \       font-weight: bold;\r\n        box-shadow: 0px 0px 1px #000;\r\n        text-shadow:
+        0px 1px 1px rgba(0,0,0,0.6);\r\n        bottom: 5px;\r\n        }\r\n        \r\n
+        \   #ztBtn2 #symbol {\r\n        font-size:16px;\r\n        line-height:1;\r\n
+        \       position:relative;\r\n        bottom:5px;\r\n        margin-right:-2px;\r\n
+        \       font-weight:normal;\r\n        }\r\n        \r\n        @media screen
+        and (max-width: 1023px){\r\n            #ztBtn2{top: 21px !important;}\r\n
+        \       }\r\n</style>\r\n<p><a class=\"zt_offsite_link btn-zt\" id=\"ztBtn2\"
+        tracking_code=\"13418215\"><img border=\"0\" class=\"valign\" height=\"20\"
+        id=\"icon\" src=\"https://staticx-tuner.zacks.com/woas/adv/ztrade/ztNow_icon2.png\"
+        width=\"23\" /> <span class=\"valign\" style=\"top:4px; font-size: 12pt;\">Trades
+        from</span> <span class=\"valign\" id=\"price\"><span id=\"symbol\">$</span>1</span>
+        </a></p>\r\n<!--MSG:16163, content.zacks.com, bottom STAGE/PRODUCTION textarea
+        -->\n                \n                <div>  \n              <div class=\"social_plugins\">\n
+        \               <div class=\"social_icons_left\">\n                <script>var
+        switchTo5x=true;</script>\n                <script async src=\"//ws.sharethis.com/button/buttons.js\"></script>\n
+        \               \n                <span class='st_facebook_large' displayText='Facebook'
+        st_url='https://www.zacks.com/stock/news/421247/moving-average-crossover-alert-waitr?cid=SM-facebook-HL-421247'></span>\n
+        \               <span class='st_twitter_large' displayText='Tweet' st_url='https://www.zacks.com/stock/news/421247/moving-average-crossover-alert-waitr?cid=SM-twitter-HL-421247'></span>\n
+        \               <span class='st_linkedin_large' displayText='LinkedIn' st_url='https://www.zacks.com/stock/news/421247/moving-average-crossover-alert-waitr?cid=SM-linkedin-HL-421247'></span>\n
+        \               <span class='st_pinterest_large' displayText='Pinterest' st_url='https://www.zacks.com/stock/news/421247/moving-average-crossover-alert-waitr?cid=SM-pinterest-HL-421247'></span>\n
+        \               <span class='st_email_large' displayText='Email' st_url='https://www.zacks.com/stock/news/421247/moving-average-crossover-alert-waitr?cid=SM-email-HL-421247'></span>\n
+        \           </div>                        <div class=\"social_icons_right\">\n
+        \                           <a href=\"https://api.stocktwits.com/widgets/share\"
+        id=\"stocktwits-share-button-view\" class=\"stocktwits-button\" data-article-id=421247><img
+        src=\"https://staticx.zacks.com/images/zacks/icons/st_icon.png\" alt=\"Share
+        on StockTwits\"/></a>\n                            <script async src=\"https://api.stocktwits.com/addon/button/share.min.js\"></script>\n
+        \                       </div>\n                    </div>\n                </div>\n
+        \               <!-- edit follow section-->\n            <div class=\"edit_follow_section\">
+        \           \n            <p id=\"category_part\" style=\"display:none\">
+        \               \n                <span>You follow Tale of the Tape - <a class=\"call_action\"
+        href=\"/my-account/alert-preferences/\">edit</a></span>\n            </p>\n
+        \           <p id=\"author_part\" style=\"display:none\">                \n
+        \               <span>You follow Zacks Equity Research - <a class=\"call_action\"
+        href=\"/my-account/alert-preferences/\">edit</a></span>\n            </p>
+        \n            </div>\n        <!-- follow author modal-->\n            <div
+        id=\"follow_author_toggle\" class=\"author_modal\">\n            <h4>What
+        would you like to follow?</h4>\n                <div class=\"container\">\n
+        \               <input type=\"hidden\" name=\"is_follow_category\" id=\"is_follow_category\"
+        value=\"\" />\n                <input type=\"hidden\" name=\"is_follow_author\"
+        id=\"is_follow_author\" value=\"N\" />\n                \n                <p
+        id=\"author_follow_button\" style=\"display:none\">\n                <input
+        type=\"checkbox\" name=\"modal_author_name\" id=\"modal_author_name\" value=\"631459560\">\n
+        \               <label for=\"modal_author_name\">Zacks Equity Research</label>\n
+        \               </p>                \n                <p id=\"category_follow_button\"
+        style=\"display:none\">\n                <input type=\"checkbox\" name=\"modal_article_category\"
+        id=\"modal_article_category\" value=\"235\">\n                <label for=\"modal_article_category\">Tale
+        of the Tape</label>\n                </p>\n                \n                <div
+        class=\"buttons\">\n                  <a id=\"follow_action\" class=\"modal_external\"
+        href=\"/modals/follow-author.php?author_id=NULL&category_id=NULL\" title=\"\">\n
+        \                 <img class=\"small_follow_btn\" src=\"https://staticx.zacks.com/images/zacks/icons/mobile_follow_btn.png\"
+        alt=\"Follow Author\" title=\"\">\n                  </a>\n                  <a
+        class=\"call_action\" onclick=\"document.getElementById('follow_author_toggle').style.display='none'\"
+        class=\"cancel\">Cancel</a>\n                  </div>\n              </div>\n
+        \           </div>\n            </aside>\n        </header>\n    </article>
+        \           <article>\n                <div class=\"archive_collapse\"><span
+        class=\"show_article\">Read More</span><span class=\"hide_article\">Hide Full
+        Article</span></div>\n                <div class=\"commentary_body\">\n                    \n
+        \                   <div id=\"inline_top\">\n                    \n\t<div
+        class=\"\">\n\t    <div id=\"Inline-Top_402\" class=\"dfp_ad_unit\">\n            <script>\n
+        \                   googletag.cmd.push(function() {\n                    googletag.display(\"Inline-Top_402\");\n
+        \                   });\n            </script>\n        </div>\n        <span
+        class=\"bt-uid-tg\" uid=\"5a7c3ffdc1-109\" style=\"display: none !important\"></span>\n
+        \   </div>\n                    </div>\n                    <div id=\"comtext\">\n
+        \                   <p><strong>Waitr Holdings Inc. </strong>(<button class=\"modal_external
+        appear-on-focus\" href=\"/modals/quick-quote.php\" rel=\"WTRH\">WTRH Quick
+        Quote</button><a href=\"/stock/quote/WTRH\" class=\"hoverquote-container-od
+        analytics_tracking hoverquote-neg\" rel=\"WTRH\" show-add-portfolio=\"true\"
+        id = commentary_body-WTRH-txt \n style=\"font-weight:bold;\"><span class=\"hoverquote-symbol\">WTRH</span></a>
+        <span> - </span> <a class=\"in_copy newwin\" href=\"/registration/premium/login/?ALERT=zrmodule&mode=zrmodule&t=WTRH&ADID=ZCOM_ARTICLE_INBODYTICKERLINKS&icid=BLOG-Tale_of_the_Tape|50_Day_Moving_Average-421247-free_report-commentary_body-WTRH\"
+        alt=\"Free Report\" title=\"Free Report\">Free Report</a>)     could be a
+        stock to avoid from a technical perspective, as the firm is seeing unfavorable
+        trends on the moving average crossover front. Recently, the 50 Day Moving
+        Average for WTRH broke out below the 200 Day Simple Moving Average, suggesting
+        short-term bearishness.</p><p>This has already started to take place, as the
+        stock has moved lower by 31.2% in the past four weeks. And with the recent
+        moving average crossover, investors have to think that more unfavorable trading
+        is ahead for WTRH stock.</p><p>If that wasn&rsquo;t enough, WTRH isn&rsquo;t
+        looking too great from an earnings estimate revision perspective either. It
+        appears as though many analysts have been reducing their earnings expectations
+        for the stock lately, which is usually not a good sign of things to come.</p><p>Consider
+        that in the last 30 days, 1 estimate has been reduced, while none has moved
+        higher. Add this in to a similar move lower in the consensus estimate, and
+        there is plenty of reason to be bearish here.</p><p>That is why we currently
+        have a Zacks Rank #4 (Sell) on this stock and are looking for it to underperform
+        in the weeks ahead. So, either avoid this stock or consider jumping ship until
+        the estimates and technical factors turn around for WTRH. You can see <a href=\"https://www.zacks.com/stocks/buy-list/?ADID=zp_1link&amp;ICID=zpi%20_1link\">the
+        complete list of today&rsquo;s Zacks #1 Rank (Strong Buy) stocks here</a>.</p><p><strong>Will
+        you retire a millionaire?</strong></p><p>One out of every six people retires
+        a multimillionaire. Get smart tips you can do today to become one of them
+        in a new Special Report, &ldquo;7 Things You Can Do Now to Retire a Multimillionaire.&rdquo;</p><p><strong><a
+        href=\"https://www.zacks.com/registration/pfp/?alert=RPT_MILLIONAIRE_A416&amp;version=3&amp;adid=ZCOM_ZIM_TALEOFTAPE_IND_ZIMB_052919&amp;icid=EOAC-TALEOFTAPE-tx-ZIM052919\">Click
+        to get it free &gt;&gt;</a></strong></p>\n                    </div>\n                    <div
+        id=\"inline_bottom\">\n                    \n\t<div class=\"\">\n\t    <div
+        id=\"Inline-Bottom_403\" class=\"dfp_ad_unit\">\n            <script>\n                    googletag.cmd.push(function()
+        {\n                    googletag.display(\"Inline-Bottom_403\");\n                    });\n
+        \           </script>\n        </div>\n        <span class=\"bt-uid-tg\" uid=\"5a7c4013aa-109\"
+        style=\"display: none !important\"></span>\n    </div>\n                    </div>\n
+        \               </div>\n            </article>\n        </section>        <section
+        class=\"commentary_reports_content commentary_b\">\n         <div class=\"commentary_reports\">\n
+        \                   <div class=\"commentary_reports_block\">\n                        <br><div
+        class=\"reports_header\"><h1>In-Depth Zacks Research for the Tickers Above</h1><br></div>\n
+        \                       <div class=\"reports_header\"><h3>Normally $25 each
+        - click below to receive one report FREE:</h3><br></div>\n                        \n
+        \                       <p class=\"report_camera_text\"><a href=\"/registration/premium/login/?ALERT=zrmodule&mode=zrmodule&t=WTRH&ADID=ZCOM_ARTICLE_BTMTICKERLINKS_235&icid=BLOG-Tale_of_the_Tape|50_Day_Moving_Average-421247-free_report-commentary_reports-text-WTRH\"
+        class=\"comm_button newwin\"><span>Waitr Holdings Inc. (WTRH) - free report
+        &gt;&gt;</span></a></p>\n                    </div>\n         </div>\n         </section>\n
+        \       <!-- <img src=\"https://staticx.zacks.com/images/zacks/splitcounter.gif\"
+        width=\"1\" height=\"1\"> -->\n<script type=\"application/ld+json\">\n{\n
+        \ \"@context\": \"http://schema.org\",\n  \"@type\": \"BreadcrumbList\",\n
+        \ \"itemListElement\": [\n    {\n      \"@type\": \"ListItem\",\n      \"position\":
+        1,\n      \"item\": {\n        \"@id\": \"https://www.zacks.com/stock/quote/WTRH\",\n
+        \       \"name\": \"Waitr Holdings Inc. : (WTRH)\"\n      }\n    }, {\n      \"@type\":
+        \"ListItem\",\n      \"position\": 2,\n      \"item\": {\n        \"@id\":
+        \"https://www.zacks.com/stock/news/421247/moving-average-crossover-alert-waitr\",\n
+        \       \"name\": \"Moving Average Crossover Alert: Waitr\"\n      }\n    }\n
+        \ ]\n}\n</script>\n<!-- z2_commentary_using_view end -->\n\n<!-- z2_more_from_zacks_category
+        start -->\n<section id=\"z2_more_from_zacks_category\" class=\"commentary_zacks_news
+        commentary_grid_container\"></section>\n<script defer src=\"https://staticx.zacks.com/js/zacks/inline/more_from_zacks.js\"></script>
+        \   \n<script>\nvar articleType     = 'B';\nvar typeId          = 49;\nvar
+        categoryName    = 'Tale of the Tape';\nvar categoryId      = 0;\nvar authorName
+        \     = 'Zacks Equity Research';\nvar orgAuthorName   = 'Zacks Equity Research';\nvar
+        subCategoryName = 'Tale of the Tape : 50 Day Moving Average';\nvar datePosted
+        \     = 'May 29, 2019';\nvar tickerList      = 'WTRH';\n</script><!-- z2_more_from_zacks_category
+        end -->\n\n<!-- z2_you_may_like start -->\n    <section id=\"youmay_like_container\"
+        class=\"commentary_zacks_news commentary_grid_container you_may_like\"></section>\n
+        \   <script defer src=\"https://staticx.zacks.com/js/zacks/inline/you_may_like.js\"></script>
+        \   \n\n<!-- z2_you_may_like end -->\n\n<!-- z2_published_in start -->\n<section
+        id=\"\" class=\"\">\n    \n</section><!-- z2_published_in end -->\n\n<!--
+        z2_video_player start -->\n<!-- z2_video_player end -->\n\n<!-- End: commentary
+        -->\n\n    </div> <!-- End: Main Body -->\n\n    <aside id=\"third_rail\">\n<!--
+        Begin: rightCol -->\n<!-- right_panel start -->\n\n                                <!--
+        In Your face Start -->\n                                <div id=\"featured_zacks_rank_stocks\">\n
+        \                                   <div id=\"slider\">\n                                        <!--
+        Commentary IYF Module B - #671 -->\r\n<style>\r\n    #commentary-module {padding:8px
+        10px; border:solid 1px #717171; border-radius:6px; background:#fff;}\r\n    #commentary-module
+        .headline {padding-bottom:3px; border-bottom:solid 3px #000; margin-bottom:10px;
+        color: #000; font-size:12pt;}\r\n    #commentary-module .textbox {width:242px;
+        padding:10px; margin-bottom:10px; border:solid 1px #cacaca; border-radius:3px;
+        box-shadow:inset 0 1px 2px rgba(0,0,0,0.4);}\r\n    #commentary-module .input_button
+        {padding:12px; border:solid 1px #bd4600; border-radius:3px; box-shadow:0 1px
+        4px rgba(0,0,0,.5), inset 1px 1px 3px rgba(255,255,255,.5); font-size:10.5pt;
+        \ text-shadow:0 -1px 2px #000; \r\n        background: #F06C00; background:
+        linear-gradient(to bottom,#F06C00 0,#C25700 50%,#C25700 70%,#F06C00 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#F06C00',endColorstr='#F06C00',GradientType=0);
+        color:#fff; font-weight:bold; cursor: pointer;\r\n    }\r\n    #commentary-module
+        footer p, #commentary-module footer p a {font-size:10px;}\r\n</style>\r\n<section
+        id=\"commentary-module\">\r\n    <h1 class=\"headline\">Zacks' 7 Best<br />Strong
+        Buy Stocks for February, 2021</h1>\r\n    <p>Zacks has a proven record of
+        recommending stocks with significant upside potential. This report reveals
+        the 7 stocks predicted to have the most explosive gains over the next 30-90
+        days.</p>\r\n    <p>Zacks Rank #1 Strong Buys have more than doubled the market
+        for 3 decades...and these are the 7 most promising stocks from that list.</p>\r\n
+        \   <p>Recent stocks from this report have soared up to +178.7% in 3 months.
+        See the report's 7 new picks today, absolutely FREE.</p>\r\n    <form action=\"/registration/pfp/step2.php\"
+        id=\"iyfModuleForm\" method=\"post\" name=\"pfp-commentary-form\">\r\n        <input
+        type=\"text\" name=\"email\" id=\"email\" class=\"textbox\" maxlength=\"200\"
+        placeholder=\"Enter your best email address\" onfocus=\"this.placeholder=''\"
+        onblur=\"this.placeholder='Enter your best email address'\" />\r\n        <input
+        name=\"ADID\" type=\"hidden\" value=\"ZCOM_IYF_COMM_7BEST_THIRTYNINETY\" />
+        \r\n        <input name=\"ALERT\" type=\"hidden\" value=\"IYF_COMM_671_A384\"
+        /> \r\n        <input class=\"input_button\" id=\"Submit\" name=\"Submit\"
+        type=\"submit\" value=\"&#9656; See 7 Strong Buy Stocks Free\" />\r\n    </form>\r\n
+        \   <footer id=\"footer\">\r\n        <p><a class=\"call_to_action newwin\"
+        href=\"/privacy.php\">Privacy Policy</a> <span aria-hidden=\"true\"> | </span>
+        No cost, no obligation to buy anything ever.</p>\r\n    </footer>\r\n</section>\r\n<script
+        src=\"https://staticx-tuner.zacks.com/woas/adv/services/js/email-validation-iyf-module.js\"></script>\n
+        \                                   </div>\n                                </div>\n<script
+        defer src=\"https://staticx.zacks.com/js/zacks/inline/inyourface_mini.js\"></script>\n
+        \                               <!-- In Your face End -->\n                    \n\t<div
+        class=\"\">\n\t    <div id=\"Lrec-top_201\" class=\"dfp_ad_unit\">\n            <script>\n
+        \                   googletag.cmd.push(function() {\n                    googletag.display(\"Lrec-top_201\");\n
+        \                   });\n            </script>\n        </div>\n        <span
+        class=\"bt-uid-tg\" uid=\"5a7c3f8eb6-109\" style=\"display: none !important\"></span>\n
+        \   </div>\n<!-- Display this section only if data is being provided -->\n
+        \n<div class=\"next_news content_block\"> \n    <!-- Begin: Next news -->\n
+        \   <h1 class=\"side_bar_header\">Up Next</h1>\n    <div class=\"next_media
+        content_block\">\n        <a href=\"/stock/news/421252/moving-average-crossover-alert-reading-international?art_rec=blog-tale_of_the_tape-up_next-ID01-img-421252\">\n
+        \           <img src=\"https://staticx-tuner.zacks.com/images/articles/main/82/903.jpg\"
+        alt=\"\" title=\"\"></a>\n            <a href=\"/stock/news/421252/moving-average-crossover-alert-reading-international?art_rec=blog-tale_of_the_tape-up_next-ID01-txt-421252\"><h2
+        class=\"side_bar_article_link\">Moving Average Crossover Alert: Reading International</h2>\n
+        \       </a>\n    </div>\n</div>\n                    \n\t<div class=\"\">\n\t
+        \   <div id=\"Lrec-middle_202\" class=\"dfp_ad_unit\">\n            <script>\n
+        \                   googletag.cmd.push(function() {\n                    googletag.display(\"Lrec-middle_202\");\n
+        \                   });\n            </script>\n        </div>\n        <span
+        class=\"bt-uid-tg\" uid=\"5a7c3fa438-109\" style=\"display: none !important\"></span>\n
+        \   </div> <div class=\"read_articles content_block\"> \n       <!-- Begin:
+        Read article section -->\n\t <h1 class=\"side_bar_header\">Most Read</h1>\n\t\t<div
+        id=\"slider_wrapper\">\n\t\t\t <div class=\"swiper-container_mostread swiper-container-horizontal\">\n\t\t\t\t\t<div
+        class=\"swiper-wrapper\">\n\t\t\t\t\t\t <div class=\"swiper-slide swiper-slide-active\"
+        style=\"margin-right: 18px;\">\n                                <article>\n
+        \                                   <header class=\"article_track\">\n\t\t\t\t\t\t\t\t\t\t\t
+        \  <div class=\"article_img\"> <a href=\"https://www.zacks.com/stock/news/1258524/5-industries-to-thrive-under-the-new-administration\"
+        class=\"analytics_tracking\" id=\"most_read-1258524-img\"><img src=\"https://staticx-tuner.zacks.com/images/special_coverage/d5/26739.jpg\"
+        title=\"5 Industries to Thrive Under the New Administration\"  alt=\" \"></a></div>\n\t\t\t\t\t\t\t\t\t\t\t\t<h1
+        class=\"most_read_article teaser truncated_text_three\"><div><a href=\"https://www.zacks.com/stock/news/1258524/5-industries-to-thrive-under-the-new-administration\"
+        id=\"most_read-1258524-txt\">5 Industries to Thrive Under the New Administration</a></div></h1>\n\t\t\t\t\t\t\t\t\t\t\t
+        \  \n\t\t\t\t\t\t\t\t\t</header>\n                                 </article>\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t</div>
+        <div class=\"swiper-slide swiper-slide-active\" style=\"margin-right: 18px;\">\n
+        \                               <article>\n                                    <header
+        class=\"article_track\">\n\t\t\t\t\t\t\t\t\t\t\t   <div class=\"article_img\">
+        <a href=\"https://www.zacks.com/commentary/1258552/what-to-make-of-rwallstreetbets-zacks-feb-market-strategy\"
+        class=\"analytics_tracking\" id=\"most_read-1258552-img\"><img src=\"https://staticx-tuner.zacks.com/images/special_coverage/dd/26742.jpg\"
+        title=\"What to Make of r/WallStreetBets? Zacks Feb. Market Strategy\"  alt=\"
+        \"></a></div>\n\t\t\t\t\t\t\t\t\t\t\t\t<h1 class=\"most_read_article teaser
+        truncated_text_three\"><div><a href=\"https://www.zacks.com/commentary/1258552/what-to-make-of-rwallstreetbets-zacks-feb-market-strategy\"
+        id=\"most_read-1258552-txt\">What to Make of r/WallStreetBets? Zacks Feb.
+        Market Strategy</a></div></h1>\n\t\t\t\t\t\t\t\t\t\t\t   \n\t\t\t\t\t\t\t\t\t</header>\n
+        \                                </article>\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t</div>
+        <div class=\"swiper-slide swiper-slide-active\" style=\"margin-right: 18px;\">\n
+        \                               <article>\n                                    <header
+        class=\"article_track\">\n\t\t\t\t\t\t\t\t\t\t\t   <div class=\"article_img\">
+        <a href=\"https://www.zacks.com/commentary/1258526/q4-earnings-growth-turns-positive\"
+        class=\"analytics_tracking\" id=\"most_read-1258526-img\"><img src=\"https://staticx-tuner.zacks.com/images/special_coverage/2d/26740.jpg\"
+        title=\"Q4 Earnings Growth Turns Positive\"  alt=\" \"></a></div>\n\t\t\t\t\t\t\t\t\t\t\t\t<h1
+        class=\"most_read_article teaser truncated_text_three\"><div><a href=\"https://www.zacks.com/commentary/1258526/q4-earnings-growth-turns-positive\"
+        id=\"most_read-1258526-txt\">Q4 Earnings Growth Turns Positive</a></div></h1>\n\t\t\t\t\t\t\t\t\t\t\t
+        \  \n\t\t\t\t\t\t\t\t\t</header>\n                                 </article>\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t</div>
+        <div class=\"swiper-slide swiper-slide-active\" style=\"margin-right: 18px;\">\n
+        \                               <article>\n                                    <header
+        class=\"article_track\">\n\t\t\t\t\t\t\t\t\t\t\t   <div class=\"article_img\">
+        <a href=\"https://www.zacks.com/stock/news/1258302/ride-market-rally-with-high-beta-etfs-stocks\"
+        class=\"analytics_tracking\" id=\"most_read-1258302-img\"><img src=\"https://staticx-tuner.zacks.com/images/special_coverage/12/26741.jpg\"
+        title=\"Ride the Market Rally with High-Beta ETFs & Stocks\"  alt=\" \"></a></div>\n\t\t\t\t\t\t\t\t\t\t\t\t<h1
+        class=\"most_read_article teaser truncated_text_three\"><div><a href=\"https://www.zacks.com/stock/news/1258302/ride-market-rally-with-high-beta-etfs-stocks\"
+        id=\"most_read-1258302-txt\">Ride the Market Rally with High-Beta ETFs & Stocks</a></div></h1>\n\t\t\t\t\t\t\t\t\t\t\t
+        \  \n\t\t\t\t\t\t\t\t\t</header>\n                                 </article>\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t</div>
+        <div class=\"swiper-slide swiper-slide-active\" style=\"margin-right: 18px;\">\n
+        \                               <article>\n                                    <header
+        class=\"article_track\">\n\t\t\t\t\t\t\t\t\t\t\t   <div class=\"article_img\">
+        <a href=\"https://www.zacks.com/stock/news/1258106/5-top-ranked-growth-stocks-to-tap-market-rally-in-february\"
+        class=\"analytics_tracking\" id=\"most_read-1258106-img\"><img src=\"https://staticx-tuner.zacks.com/images/special_coverage/53/26737.jpg\"
+        title=\"5 Top-Ranked Growth Stocks to Tap February's Market Rally\"  alt=\"
+        \"></a></div>\n\t\t\t\t\t\t\t\t\t\t\t\t<h1 class=\"most_read_article teaser
+        truncated_text_three\"><div><a href=\"https://www.zacks.com/stock/news/1258106/5-top-ranked-growth-stocks-to-tap-market-rally-in-february\"
+        id=\"most_read-1258106-txt\">5 Top-Ranked Growth Stocks to Tap February's
+        Market Rally</a></div></h1>\n\t\t\t\t\t\t\t\t\t\t\t   \n\t\t\t\t\t\t\t\t\t</header>\n
+        \                                </article>\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\t
+        \n\t    <!-- Add Pagination -->\n        <div class=\"swiper-pagination\"></div>\n
+        \       <!-- Add Arrows -->\n        <div class=\"swiper-button-next\" id=\"swiper-mostread-button-next\">&rsaquo;</div>\n
+        \       <div class=\"swiper-button-prev swiper-button-disabled\" id=\"swiper-mostread-button-prev\">&lsaquo;</div></div>\n\t\t\t
+        \ \n\t\t</div>\t \n </div><section id=\"focuslist\">\n<script defer src=\"https://staticx.zacks.com/js/zacks/inline/focuslist.js\"></script>\n</section>
+        \                   \n\t<div class=\"\">\n\t    <div id=\"Lrec-bottom_203\"
+        class=\"dfp_ad_unit\">\n            <script>\n                    googletag.cmd.push(function()
+        {\n                    googletag.display(\"Lrec-bottom_203\");\n                    });\n
+        \           </script>\n        </div>\n        <span class=\"bt-uid-tg\" uid=\"5a7c3fc465-109\"
+        style=\"display: none !important\"></span>\n    </div><!-- right_panel end
+        -->\n\n<!-- End: rightCol -->\n    </aside>\n<!-- Begin: Bottom Ad -->\n<!--
+        Begin: partnerDart -->\n<!-- z2_banner_bottom start -->\n\n\t<div class=\"\">\n\t
+        \   <div id=\"Leaderboard-bottom_102\" class=\"dfp_ad_unit\">\n            <script>\n
+        \                   googletag.cmd.push(function() {\n                    googletag.display(\"Leaderboard-bottom_102\");\n
+        \                   });\n            </script>\n        </div>\n        <span
+        class=\"bt-uid-tg\" uid=\"5a7c3f4b69-109\" style=\"display: none !important\"></span>\n
+        \   </div><!-- z2_banner_bottom end -->\n\n<!-- End: partnerDart -->\n<!--
+        End: Bottom Ad -->\n</div> <!-- End: Main Content -->\n\n<footer>\n<!-- Begin:
+        Footer -->\n<!-- z2_footer start -->\n<div id=\"quick_links\">\r\n<section>\r\n<h1>Quick
+        Links</h1>\r\n<!-- nav toggle button for mobile menu -->\r\n\r\n<div class=\"quicklink-toggle\"><small>&nbsp;</small>
+        <small>&nbsp;</small> <small>&nbsp;</small></div>\r\n<!-- nav toggle button
+        for quick links for mobile -->\r\n\r\n<div class=\"footer-links\"><!-- Services
+        -->\r\n<div id=\"services\">\r\n<h1>Services</h1>\r\n\r\n<nav>\r\n<ul>\r\n\t<li><a
+        href=\"/investment-services/\">Account Types</a></li>\r\n\t<li><a href=\"/investment-services/\">Premium
+        Services</a></li>\r\n\t<li><a href=\"/stocks/zacks-rank\">Zacks Rank</a></li>\r\n\t<li><a
+        href=\"/stocks/\">Research</a></li>\r\n\t<li><a href=\"https://finance.zacks.com\">Personal
+        Finance</a></li>\r\n\t<li><a href=\"/articles/\">Commentary</a></li>\r\n\t<li><a
+        href=\"/stock-education.php\">Education</a></li>\r\n\t<li><a href=\"https://advisortools.zacks.com/\">Zacks
+        Advisor Tools</a></li>\r\n</ul>\r\n</nav>\r\n</div>\r\n<!-- My Account -->\r\n\r\n<div
+        id=\"my_account\">\r\n<h1>My Account</h1>\r\n\r\n<nav>\r\n<ul>\r\n\t<li><a
+        href=\"/my-account/index.php\">Manage Account</a></li>\r\n\t<li><a href=\"/my-account/login-info.php\">Update
+        Profile</a></li>\r\n\t<li><a href=\"/my_account/order_history.php\">Subscriptions</a></li>\r\n\t<li><a
+        href=\"/my-account/my-email.php\">Preferences</a></li>\r\n\t<li><a href=\"/help/faq.php#s12\">Login/Password
+        Help</a></li>\r\n\t<li class=\"upgrade_premium_icid\"><a href=\"/registration/premium/login/?continue_to=/registration/premium/trial/&amp;adid=zp_quicklinks_upgrade\">Upgrade
+        to Premium</a></li>\r\n</ul>\r\n</nav>\r\n</div>\r\n<!-- Resources -->\r\n\r\n<div
+        id=\"resources\">\r\n<h1>Resources</h1>\r\n\r\n<nav>\r\n<ul>\r\n\t<li><a href=\"/help/\">Help</a></li>\r\n\t<li><a
+        href=\"/about-zacks.php\">About Zacks</a></li>\r\n\t<li><a href=\"/disclosure\">Disclosure</a></li>\r\n\t<li><a
+        href=\"/privacy.php\">Privacy Policy</a></li>\r\n\t<li><a href=\"/registration/premium/welcome/eoffer/4f9f\">Do
+        Not Sell My Personal Information</a></li>\r\n\t<li><a href=\"/privacy.php#terms-of-service\">Terms
+        of Service</a></li>\r\n\t<li><a href=\"/performance\">Performance</a></li>\r\n\t<li><a
+        href=\"/accessibility-statement\">Accessibility</a></li>\r\n\t<li><a href=\"/sitemap.php\">Site
+        Map</a></li>\r\n\t<li><a href=\"/podcasts?ADID=podcast_landingpage\">Podcasts</a></li>\r\n\t<li><a
+        href=\"/earnings/earnings-calendar\">Earnings Calendar</a></li>\r\n</ul>\r\n</nav>\r\n</div>\r\n<!--
+        Client Support -->\r\n\r\n<div id=\"client_support\">\r\n<h1>Client Support</h1>\r\n\r\n<nav>\r\n<ul>\r\n\t<li><a
+        href=\"/contact\">Contact Us</a></li>\r\n\t<li><a href=\"mailto:support@zacks.com\">Share
+        Feedback</a></li>\r\n\t<li><a href=\"/media-room/\">Media</a></li>\r\n\t<li><a
+        href=\"/careers.php\">Careers</a></li>\r\n\t<li><a href=\"/advertising\">Advertise</a></li>\r\n\t<li><a
+        href=\"/reviews\">Testimonials</a></li>\r\n</ul>\r\n</nav>\r\n</div>\r\n<!--
+        Follow Us -->\r\n\r\n<div id=\"follow_us\">\r\n<h1>Follow Us</h1>\r\n\r\n<nav>\r\n<ul>\r\n\t<li
+        id=\"facebook\"><a href=\"https://www.facebook.com/ZacksInvestmentResearch\">Facebook</a></li>\r\n\t<li
+        id=\"twitter\"><a href=\"https://twitter.com/ZacksResearch\">Twitter</a></li>\r\n\t<li
+        id=\"linkedin\"><a href=\"https://www.linkedin.com\">Linkedin</a></li>\r\n\t<li
+        id=\"youtube\"><a href=\"https://www.youtube.com/user/ZacksInvestmentNews\">You
+        Tube</a></li>\r\n</ul>\r\n</nav>\r\n</div>\r\n<!-- Zacks Moblie App -->\r\n\r\n<div
+        id=\"zacks_mobile_app\">\r\n<h1>Zacks Mobile App</h1>\r\n\r\n<nav>\r\n<ul>\r\n\t<li
+        id=\"apple_store\"><a href=\"https://itunes.apple.com/us/app/zacks/id731593509?mt=8\"
+        title=\"Download our Zacks App from the Apple App Store\"><img alt=\"Download
+        our Zacks App from the Apple App Store\" src=\"https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg\"
+        /></a></li>\r\n\t<li id=\"google_play_store\"><a href=\"https://play.google.com/store/apps/details?id=com.zacks.androidapp&amp;utm_source=zacks.com&amp;utm_campaign=ZacksFooter&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1\"
+        title=\"Download our Zacks App from Google Play\"><img alt=\"Download our
+        Zacks App from Google Play\" src=\"https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png\"
+        /></a></li>\r\n</ul>\r\n</nav>\r\n</div>\r\n</div>\r\n</section>\r\n</div>\r\n<!--MSG:12623--><div
+        id=\"zacks_reported\">\n<section>\n<div id=\"partners\">\n<h1>Zacks Research
+        is Reported On:</h1>\n\n<ul>\n\t<li id=\"yahoo\">Yahoo</li>\n\t<li id=\"msn\">MSN</li>\n\t<li
+        id=\"marketwatch_reported\">Marketwatch</li>\n\t<li id=\"nasdaq\">Nasdaq</li>\n\t<li
+        id=\"forbes\">Forbes</li>\n\t<li id=\"investors\">Investors.com</li>\n\t<li
+        id=\"morningstar\">Morningstar</li>\n</ul>\n</div>\n\n<div id=\"bbb\">\n<div
+        id=\"bbb-logo\"><a href=\"https://www.bbb.org/chicago/business-reviews/financial-services/zacks-investment-research-inc-in-chicago-il-86000393/#sealclick\"
+        rel=\"nofollow\" class=\"newwin\"><img alt=\"Zacks Investment Research is
+        an A+ Rated BBB Accredited Business\" src=\"https://seal-chicago.bbb.org/seals/blue-seal-250-52-bbb-86000393.png\"
+        style=\"border: 0;\" /> </a></div>\n</div>\n</section>\n</div>\n<!--MSG:14023--><div
+        id=\"copyright\">\r\n<section>\r\n<p>This page has not been authorized, sponsored,
+        or otherwise approved or endorsed by the companies represented herein. Each
+        of the company logos represented herein are trademarks of Verizon Media; Microsoft
+        Corporation; Nasdaq, Inc.; Dow Jones &amp; Company; Forbes Media, LLC; Investor&#39;s
+        Business Daily, Inc.; and Morningstar, Inc.</p>\r\n\r\n<p>Copyright 2021 Zacks
+        Investment Research <span aria-hidden=\"true\">|</span> 10 S Riverside Plaza
+        Suite #1600 <span aria-hidden=\"true\">|</span> Chicago, IL 60606</p>\r\n\r\n<p>At
+        the center of everything we do is a strong commitment to independent research
+        and sharing its profitable discoveries with investors. This dedication to
+        giving investors a trading advantage led to the creation of our proven Zacks
+        Rank stock-rating system. Since 1988 it has more than doubled the S&amp;P
+        500 with an average gain of +24.93%  per year. These returns cover a period
+        from January&nbsp;1, 1988 through January 4, 2021. Zacks Rank stock-rating
+        system returns are computed monthly based on the beginning of the month and
+        end of the month Zacks Rank stock prices plus any dividends received during
+        that particular month. A simple, equally-weighted average return of all Zacks
+        Rank stocks is calculated to determine the monthly return. The monthly returns
+        are then compounded to arrive at the annual return. Only Zacks Rank stocks
+        included in Zacks hypothetical portfolios at the beginning of each month are
+        included in the return calculations. Zacks Ranks stocks can, and often do,
+        change throughout the month. Certain Zacks Rank stocks for which no month-end
+        price was available, pricing information was not collected, or for certain
+        other reasons have been excluded from these return calculations.</p>\r\n\r\n<p>Visit
+        <a class=\"in_copy\" href=\"/performance\">performance</a> for information
+        about the performance numbers displayed above.</p>\r\n\r\n<p>Visit <a class=\"in_copy
+        newwin\" href=\"http://www.zacksdata.com\">www.zacksdata.com</a> to get our
+        data and content for your mobile app or website.</p>\r\n\r\n<p>Real time prices
+        by BATS. Delayed quotes by Sungard.</p>\r\n\r\n<p>NYSE and AMEX data is at
+        least 20 minutes delayed. NASDAQ data is at least 15 minutes delayed.</p>\r\n\r\n<p
+        id=\"recaptcha-statement\">This site is protected by reCAPTCHA and the Google
+        <a class=\"in_copy newwin\" href=\"https://policies.google.com/privacy\">Privacy
+        Policy</a> and <a class=\"in_copy newwin\" href=\"https://policies.google.com/terms\">Terms
+        of Service</a> apply.</p>\r\n</section>\r\n</div>\r\n<!--MSG:5286--><!--MSG:5286--><script>\nvar
+        android_app_banner_conf = {\n                    'appName': 'Zacks Stock Research',\n
+        \                   'playStoreUrl': 'https://play.google.com/store/apps/details?id=com.zacks.androidapp',\n
+        \                   'logo': 'https://lh5.ggpht.com/gFKFENaSeNSvMIE6vy2BPLE_JI3psqJnugt9WTapFttsptokO58NV6EilP0Kqgm7e00=w120',\n
+        \                   'price': 'Free',\n                    'category' : 'Finance',\n
+        \                   'score' : '0.0'\n                    }\n</script>\n<!--
+        z2_footer end -->\n\n<!-- End: Footer -->\n</footer>\n\n<!-- bottomColl Part
+        Start-->\n<!-- z2_foot_module start -->\n\n        <script language=\"JavaScript\"
+        type=\"text/javascript\">\nvar dataLayer = {\n                siteSection:
+        'BLOG'\n            ,   loginStatus: 'Logged out'\n            , siteType:
+        'desktop'\n            ,   adidInternalCode : 'DEF'\n            ,   pageIdentifier:
+        \"Moving Average Crossover Alert: Waitr\"\n            ,   siteSubSection:
+        'BLOG:Tale of the Tape '\n,   session_id: ''\n            ,   ConfigID: ''\n,tags
+        : ''\n                                    , blogID: { name: 'Moving Average
+        Crossover Alert: Waitr',\n                                                id:
+        '421247',\n                                                author : 'Zacks
+        Equity Research',\n                                                type :
+        'BLOG',\n                                                section : 'Tale of
+        the Tape',\n                                                sub_section :
+        '50 Day Moving Average',\n                                                tickers
+        : ['WTRH'],\n                                                publish_date
+        : '29/05/2019',\nrich_media : []}\n};\n</script>\n    <!-- Google Analytic
+        Code -->\n          <script>\n         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n
+        \        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n
+        \        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n
+        \        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\n
+        \        ga('create', 'UA-3472419-1', 'auto');\n         ga('send', 'pageview');\n
+        \        </script>  \n          <!-- Google Analytic Code End --><!--\n *
+        <p>This file is used for Yahoo remarketing pixel add </p>\n *\n * @package
+        Generator\n * @subpackage Static\n *\n * @author Arpita Bannerjee\n *\n *
+        @copyright (c) 2015 - 2016 Zacks Investment Research\n * @license   Internal
+        Use only. No License granted.\n *\n * @filesource\n *\n *\n-->\n\n<script
+        type=\"application/javascript\">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'22680'}});var
+        s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var
+        y,rs=this.readyState,c=w[u];if(rs&&rs!=\"complete\"&&rs!=\"loaded\"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var
+        scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,\"script\",\"https://s.yimg.com/wi/ytc.js\",\"dotq\");</script><!--
+        Facebook Pixel Code -->\n<script>\n!function(f,b,e,v,n,t,s)\n{if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};\nif(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\nn.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];\ns.parentNode.insertBefore(t,s)}(window,
+        document,'script',\n'https://connect.facebook.net/en_US/fbevents.js');\nfbq('init',
+        '532984783731823');\nfbq('track', 'PageView');\n</script>\n<noscript><img
+        height=\"1\" width=\"1\" style=\"display:none\" alt=\"\" src=\"https://www.facebook.com/tr?id=532984783731823&ev=PageView&noscript=1\"/></noscript>\n<!--
+        End Facebook Pixel Code -->\n<!-- Start  Markit On Demand Code -->\n\n<script
+        defer type=\"text/javascript\" src=\"https://ad.wsod.com/site/d84f59fb1c3d85c44bbd395dbecc5b45/0.0.async/\"></script>\n\n<!--
+        End  Markit On Demand Code -->\n<!-- Start  Countdown Code -->\n\n<section
+        id=\"inactivity_warning\" class=\"logout-timer--modal\">\n\n   <div class=\"modal-content\">\n
+        \     \n            <h2 class=\"modal-title\">\n                Due to inactivity,
+        you will be<br>signed out in approximately:  \n            </h2>\n       \n
+        \     \n          <div id=\"countdown\"></div>\n       \n        <div class=\"modal-footer\">\n
+        \           <button class=\"green btn success\" id=\"inactivity_btn_open\">\n
+        \             CLICK TO CONTINUE WORKING\n            </button>\n        </div>\n
+        \      \n   </div>\n \n</section>\n     \n\n<!-- End  Countdown Code -->\n\n\n\n<!--
+        z2_foot_module end -->\n\n<!-- bottomColl Part End-->\n</body>\n</html>\n"
+    headers:
+      Cache-Control:
+      - no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Connection:
+      - Keep-Alive
+      Content-Security-Policy:
+      - 'default-src https:; script-src https: ''unsafe-eval'' ''unsafe-inline'';media-src
+        blob: https:; worker-src blob:; style-src https: ''unsafe-inline''; img-src
+        https: data: ''self''; frame-ancestors ''self'' zacks.com *.zacks.com;'
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Mon, 08 Feb 2021 06:22:30 GMT
+      Expires:
+      - Mon, 08 Feb 2021 00:22:28 -0600
+      Keep-Alive:
+      - timeout=2, max=100
+      Last-Modified:
+      - Mon, 08 Feb 2021 00:21:28 -0600
+      Pragma:
+      - no-cache
+      Referrer-Policy:
+      - no-referrer-when-downgrade
+      Server:
+      - Apache
+      Set-Cookie:
+      - PHPSESSID=3b8uhffbsjasn9nfe39ghfhj32; path=/; secure; HttpOnly
+      - user_session=5382c96a49998f512cf05d552f84a10c; expires=Mon, 15-Feb-2021 06:22:30
+        GMT; path=/; domain=www.zacks.com; secure
+      Strict-Transport-Security:
+      - max-age=63072000;
+      Vary:
+      - Accept-Encoding,User-Agent
+      X-Content-Type-Options:
+      - nosniff
+      X-FRAME-OPTIONS:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - 1; mode=block
+      content-length:
+      - '77382'
+      server-id:
+      - zacks-cde-2
+    status:
+      code: 200
+      message: OK
+version: 1

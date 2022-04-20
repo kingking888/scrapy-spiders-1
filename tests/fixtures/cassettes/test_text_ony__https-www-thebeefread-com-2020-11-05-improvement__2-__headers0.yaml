@@ -1,0 +1,619 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.thebeefread.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.thebeefread.com/2020/11/05/improvement-2/
+  response:
+    body:
+      string: "\n\n<!DOCTYPE html>\n\n<html class=\"no-js\" lang=\"en-US\">\n\n<head>\n
+        \ \n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width,
+        initial-scale=1.0\">\n<link rel=\"pingback\" href=\"https://www.thebeefread.com/xmlrpc.php\">\n<title>Improvement
+        | The Beef</title>\n<link rel='dns-prefetch' href='//maps.google.com' />\n<link
+        rel='dns-prefetch' href='//www.google.com' />\n<link rel='dns-prefetch' href='//s.w.org'
+        />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"The Beef
+        &raquo; Feed\" href=\"https://www.thebeefread.com/feed/\" />\n<!-- This site
+        uses the Google Analytics by ExactMetrics plugin v6.3.0 - Using Analytics
+        tracking - https://www.exactmetrics.com/ -->\n<script type=\"text/javascript\"
+        data-cfasync=\"false\">\n    (window.gaDevIds=window.gaDevIds||[]).push(\"dNDMyYj\");\n\tvar
+        em_version         = '6.3.0';\n\tvar em_track_user      = true;\n\tvar em_no_track_reason
+        = '';\n\t\n\tvar disableStr = 'ga-disable-UA-50584462-1';\n\n\t/* Function
+        to detect opted out users */\n\tfunction __gaTrackerIsOptedOut() {\n\t\treturn
+        document.cookie.indexOf(disableStr + '=true') > -1;\n\t}\n\n\t/* Disable tracking
+        if the opt-out cookie exists. */\n\tif ( __gaTrackerIsOptedOut() ) {\n\t\twindow[disableStr]
+        = true;\n\t}\n\n\t/* Opt-out function */\n\tfunction __gaTrackerOptout() {\n\t
+        \ document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59
+        UTC; path=/';\n\t  window[disableStr] = true;\n\t}\n\n\tif ( 'undefined' ===
+        typeof gaOptout ) {\n\t\tfunction gaOptout() {\n\t\t\t__gaTrackerOptout();\n\t\t}\n\t}\n\t\n\tif
+        ( em_track_user ) {\n\t\t(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n\t\t\t(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new
+        Date();a=s.createElement(o),\n\t\t\tm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n\t\t})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');\n\nwindow.ga
+        = __gaTracker;\t\t__gaTracker('create', 'UA-50584462-1', 'auto');\n\t\t__gaTracker('set',
+        'forceSSL', true);\n\t\t__gaTracker('send','pageview');\n\t\t__gaTracker(
+        function() { window.ga = __gaTracker; } );\n\t} else {\n\t\tconsole.log( \"\"
+        );\n\t\t(function() {\n\t\t\t/* https://developers.google.com/analytics/devguides/collection/analyticsjs/
+        */\n\t\t\tvar noopfn = function() {\n\t\t\t\treturn null;\n\t\t\t};\n\t\t\tvar
+        noopnullfn = function() {\n\t\t\t\treturn null;\n\t\t\t};\n\t\t\tvar Tracker
+        = function() {\n\t\t\t\treturn null;\n\t\t\t};\n\t\t\tvar p = Tracker.prototype;\n\t\t\tp.get
+        = noopfn;\n\t\t\tp.set = noopfn;\n\t\t\tp.send = noopfn;\n\t\t\tvar __gaTracker
+        = function() {\n\t\t\t\tvar len = arguments.length;\n\t\t\t\tif ( len ===
+        0 ) {\n\t\t\t\t\treturn;\n\t\t\t\t}\n\t\t\t\tvar f = arguments[len-1];\n\t\t\t\tif
+        ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function'
+        ) {\n\t\t\t\t\tconsole.log( 'Not running function __gaTracker(' + arguments[0]
+        + \" ....) because you are not being tracked. \" + em_no_track_reason );\n\t\t\t\t\treturn;\n\t\t\t\t}\n\t\t\t\ttry
+        {\n\t\t\t\t\tf.hitCallback();\n\t\t\t\t} catch (ex) {\n\n\t\t\t\t}\n\t\t\t};\n\t\t\t__gaTracker.create
+        = function() {\n\t\t\t\treturn new Tracker();\n\t\t\t};\n\t\t\t__gaTracker.getByName
+        = noopnullfn;\n\t\t\t__gaTracker.getAll = function() {\n\t\t\t\treturn [];\n\t\t\t};\n\t\t\t__gaTracker.remove
+        = noopfn;\n\t\t\twindow['__gaTracker'] = __gaTracker;\n\t\t\twindow.ga = __gaTracker;\t\t})();\n\t\t}\n</script>\n<!--
+        / Google Analytics by ExactMetrics -->\n\t\t<script type=\"text/javascript\">\n\t\t\twindow._wpemojiSettings
+        = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.0.0\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.0.0\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/www.thebeefread.com\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.5.3\"}};\n\t\t\t!function(e,a,t){var
+        r,n,o,i,p=a.createElement(\"canvas\"),s=p.getContext&&p.getContext(\"2d\");function
+        c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var
+        r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function
+        l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline=\"top\",s.font=\"600
+        32px Arial\",e){case\"flag\":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case\"emoji\":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function
+        d(e){var t=a.createElement(\"script\");t.src=e,t.defer=t.type=\"text/javascript\",a.getElementsByTagName(\"head\")[0].appendChild(t)}for(i=Array(\"flag\",\"emoji\"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],\"flag\"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener(\"DOMContentLoaded\",n,!1),e.addEventListener(\"load\",n,!1)):(e.attachEvent(\"onload\",n),a.attachEvent(\"onreadystatechange\",function(){\"complete\"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);\n\t\t</script>\n\t\t<style
+        type=\"text/css\">\nimg.wp-smiley,\nimg.emoji {\n\tdisplay: inline !important;\n\tborder:
+        none !important;\n\tbox-shadow: none !important;\n\theight: 1em !important;\n\twidth:
+        1em !important;\n\tmargin: 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground:
+        none !important;\n\tpadding: 0 !important;\n}\n</style>\n\t<link rel='stylesheet'
+        id='wp-block-library-css'  href='https://www.thebeefread.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='wp-block-library-theme-css'
+        \ href='https://www.thebeefread.com/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.3'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='irw-widget-css'
+        \ href='https://www.thebeefread.com/wp-content/plugins/dk-new-medias-image-rotator-widget/css/dkirw.css?ver=5.5.3'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='jquery-ui-css'
+        \ href='https://www.thebeefread.com/wp-content/plugins/form-maker/css/jquery-ui-1.10.3.custom.css?ver=5.5.3'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='jquery-ui-spinner-css'
+        \ href='https://www.thebeefread.com/wp-content/plugins/form-maker/css/jquery-ui-spinner.css?ver=5.5.3'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='form_maker_calendar-jos-css'
+        \ href='https://www.thebeefread.com/wp-content/plugins/form-maker/css/calendar-jos.css?ver=5.5.3'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='form_maker_frontend-css'
+        \ href='https://www.thebeefread.com/wp-content/plugins/form-maker/css/form_maker_frontend.css?ver=5.5.3'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='style_submissions-css'
+        \ href='https://www.thebeefread.com/wp-content/plugins/form-maker/css/style_submissions.css?ver=5.5.3'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='organic-shortcodes-css'
+        \ href='https://www.thebeefread.com/wp-content/plugins//organic-shortcodes/css/organic-shortcodes.css?ver=1.0'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='font-awesome-css'
+        \ href='https://www.thebeefread.com/wp-content/plugins//organic-shortcodes/css/font-awesome.css?ver=1.0'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='SFSImainCss-css'
+        \ href='https://www.thebeefread.com/wp-content/plugins/ultimate-social-media-icons/css/sfsi-style.css?ver=5.5.3'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='exactmetrics-popular-posts-style-css'
+        \ href='https://www.thebeefread.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/css/frontend.min.css?ver=6.3.0'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='x-stack-css'  href='https://www.thebeefread.com/wp-content/themes/x/framework/dist/css/site/stacks/ethos.css?ver=7.2.3'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='x-cranium-migration-css'
+        \ href='https://www.thebeefread.com/wp-content/themes/x/framework/legacy/cranium/dist/css/site/ethos.css?ver=7.2.3'
+        type='text/css' media='all' />\n<script type='text/javascript' id='exactmetrics-frontend-script-js-extra'>\n/*
+        <![CDATA[ */\nvar exactmetrics_frontend = {\"js_events_tracking\":\"true\",\"download_extensions\":\"zip,mp3,mpeg,pdf,docx,pptx,xlsx,jpeg,png,gif,tiff,rar\",\"inbound_paths\":\"[{\\\"path\\\":\\\"\\\\\\/go\\\\\\/\\\",\\\"label\\\":\\\"affiliate\\\"},{\\\"path\\\":\\\"\\\\\\/recommend\\\\\\/\\\",\\\"label\\\":\\\"affiliate\\\"}]\",\"home_url\":\"https:\\/\\/www.thebeefread.com\",\"hash_tracking\":\"false\"};\n/*
+        ]]> */\n</script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend.min.js?ver=6.3.0'
+        id='exactmetrics-frontend-script-js'></script>\n<script type='text/javascript'
+        src='https://www.thebeefread.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'
+        id='jquery-core-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/plugins/dk-new-medias-image-rotator-widget/js/jquery.imagesloaded.js?ver=5.5.3'
+        id='jquery-imagesloaded-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/plugins/dk-new-medias-image-rotator-widget/js/dkirw.js?ver=5.5.3'
+        id='irw-widget-js'></script>\n<script type='text/javascript' src='https://maps.google.com/maps/api/js?sensor=false&#038;ver=5.5.3'
+        id='gmap_form_api-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/plugins/form-maker/js/if_gmap_front_end.js?ver=5.5.3'
+        id='gmap_form-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/plugins/form-maker/js/jelly.min.js?ver=5.5.3'
+        id='jelly.min-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/plugins/form-maker/js/file-upload.js?ver=5.5.3'
+        id='file-upload-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/plugins/form-maker/js/calendar/calendar.js?ver=5.5.3'
+        id='Calendar-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/plugins/form-maker/js/calendar/calendar_function.js?ver=5.5.3'
+        id='calendar_function-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/plugins//organic-shortcodes/js/jquery.modal.min.js?ver=20130729'
+        id='organic-modal-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'
+        id='jquery-migrate-js'></script>\n<link rel=\"https://api.w.org/\" href=\"https://www.thebeefread.com/wp-json/\"
+        /><link rel=\"alternate\" type=\"application/json\" href=\"https://www.thebeefread.com/wp-json/wp/v2/posts/5790\"
+        /><link rel=\"canonical\" href=\"https://www.thebeefread.com/2020/11/05/improvement-2/\"
+        />\n<link rel='shortlink' href='https://www.thebeefread.com/?p=5790' />\n<link
+        rel=\"alternate\" type=\"application/json+oembed\" href=\"https://www.thebeefread.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thebeefread.com%2F2020%2F11%2F05%2Fimprovement-2%2F\"
+        />\n<link rel=\"alternate\" type=\"text/xml+oembed\" href=\"https://www.thebeefread.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.thebeefread.com%2F2020%2F11%2F05%2Fimprovement-2%2F&#038;format=xml\"
+        />\n<meta name=\"follow.it-verification-code-QUEydEd1L29tbUJxakowc1YwblBVMStPU2RCdUJYZndyK3V3RVJlZUdHaCtxTXQvQTI2K1RyejRwSi9RczlzYWkrTEg1bUx4MkhKNGFIaWk4WEFNV3NHbldoWnZaUTJiK3dLaVRIWTg1NUVEa1d3aU1jVmJ6L1ZZSlpuL1c3VC98SVU4MDI3QU1aZlRJSXl2K0pHNk8zN1h5Y0Q3TW80U2grc045bjhCQm5udz0=\"
+        content=\"D9D2hR5eMNUxqVutjjn5\"/><meta name=\"viewport\" content=\"width=device-width,
+        initial-scale=1\"><link rel=\"icon\" href=\"https://www.thebeefread.com/wp-content/uploads/2016/05/cropped-Twitter-black-and-white-e1464615678188-32x32.jpg\"
+        sizes=\"32x32\" />\n<link rel=\"icon\" href=\"https://www.thebeefread.com/wp-content/uploads/2016/05/cropped-Twitter-black-and-white-e1464615678188-192x192.jpg\"
+        sizes=\"192x192\" />\n<link rel=\"apple-touch-icon\" href=\"https://www.thebeefread.com/wp-content/uploads/2016/05/cropped-Twitter-black-and-white-e1464615678188-180x180.jpg\"
+        />\n<meta name=\"msapplication-TileImage\" content=\"https://www.thebeefread.com/wp-content/uploads/2016/05/cropped-Twitter-black-and-white-e1464615678188-270x270.jpg\"
+        />\n<style id=\"x-generated-css\">a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5
+        a:hover,h6 a:hover,.x-breadcrumb-wrap a:hover,.x-comment-author a:hover,.x-comment-time:hover,.p-meta
+        > span > a:hover,.format-link .link a:hover,.x-main .widget ul li a:hover,.x-main
+        .widget ol li a:hover,.x-main .widget_tag_cloud .tagcloud a:hover,.x-sidebar
+        .widget ul li a:hover,.x-sidebar .widget ol li a:hover,.x-sidebar .widget_tag_cloud
+        .tagcloud a:hover,.x-portfolio .entry-extra .x-ul-tags li a:hover{color:rgb(10,2,191);}a:hover{color:#d80f0f;}a.x-img-thumbnail:hover{border-color:rgb(10,2,191);}.x-main{width:72%;}.x-sidebar{width:28%;}.x-post-slider-archive-active
+        .x-container.main:not(.x-row):not(.x-grid):before{top:0;}.x-content-sidebar-active
+        .x-container.main:not(.x-row):not(.x-grid):before{right:28%;}.x-sidebar-content-active
+        .x-container.main:not(.x-row):not(.x-grid):before{left:28%;}.x-full-width-active
+        .x-container.main:not(.x-row):not(.x-grid):before{left:-5000em;}.h-landmark,.x-main
+        .h-widget,.x-main .h-widget a.rsswidget,.x-main .h-widget a.rsswidget:hover,.x-main
+        .widget.widget_pages .current_page_item a,.x-main .widget.widget_nav_menu
+        .current-menu-item a,.x-main .widget.widget_pages .current_page_item a:hover,.x-main
+        .widget.widget_nav_menu .current-menu-item a:hover,.x-sidebar .h-widget,.x-sidebar
+        .h-widget a.rsswidget,.x-sidebar .h-widget a.rsswidget:hover,.x-sidebar .widget.widget_pages
+        .current_page_item a,.x-sidebar .widget.widget_nav_menu .current-menu-item
+        a,.x-sidebar .widget.widget_pages .current_page_item a:hover,.x-sidebar .widget.widget_nav_menu
+        .current-menu-item a:hover{color:#333333;}.x-main .widget,.x-main .widget
+        a,.x-main .widget ul li a,.x-main .widget ol li a,.x-main .widget_tag_cloud
+        .tagcloud a,.x-main .widget_product_tag_cloud .tagcloud a,.x-main .widget
+        a:hover,.x-main .widget ul li a:hover,.x-main .widget ol li a:hover,.x-main
+        .widget_tag_cloud .tagcloud a:hover,.x-main .widget_product_tag_cloud .tagcloud
+        a:hover,.x-main .widget_shopping_cart .buttons .button,.x-main .widget_price_filter
+        .price_slider_amount .button,.x-sidebar .widget,.x-sidebar .widget a,.x-sidebar
+        .widget ul li a,.x-sidebar .widget ol li a,.x-sidebar .widget_tag_cloud .tagcloud
+        a,.x-sidebar .widget_product_tag_cloud .tagcloud a,.x-sidebar .widget a:hover,.x-sidebar
+        .widget ul li a:hover,.x-sidebar .widget ol li a:hover,.x-sidebar .widget_tag_cloud
+        .tagcloud a:hover,.x-sidebar .widget_product_tag_cloud .tagcloud a:hover,.x-sidebar
+        .widget_shopping_cart .buttons .button,.x-sidebar .widget_price_filter .price_slider_amount
+        .button{color:#333333;}.x-main .h-widget,.x-main .widget.widget_pages .current_page_item,.x-main
+        .widget.widget_nav_menu .current-menu-item,.x-sidebar .h-widget,.x-sidebar
+        .widget.widget_pages .current_page_item,.x-sidebar .widget.widget_nav_menu
+        .current-menu-item{border-color:#333333;}.x-post-slider{height:425px;}.archive
+        .x-post-slider{height:425px;}.x-post-slider .x-post-slider-entry{padding-bottom:425px;}.archive
+        .x-post-slider .x-post-slider-entry{padding-bottom:425px;}.format-link .link
+        a,.x-portfolio .entry-extra .x-ul-tags li a{color:rgb(5,5,5);}.p-meta > span
+        > a,.x-nav-articles a,.entry-top-navigation .entry-parent,.option-set .x-index-filters,.option-set
+        .x-portfolio-filters,.option-set .x-index-filters-menu >li >a:hover,.option-set
+        .x-index-filters-menu >li >a.selected,.option-set .x-portfolio-filters-menu
+        > li > a:hover,.option-set .x-portfolio-filters-menu > li > a.selected{color:rgb(0,15,192);}.x-nav-articles
+        a,.entry-top-navigation .entry-parent,.option-set .x-index-filters,.option-set
+        .x-portfolio-filters,.option-set .x-index-filters i,.option-set .x-portfolio-filters
+        i{border-color:rgb(0,15,192);}.x-nav-articles a:hover,.entry-top-navigation
+        .entry-parent:hover,.option-set .x-index-filters:hover i,.option-set .x-portfolio-filters:hover
+        i{background-color:rgb(0,15,192);}@media (max-width:979px){.x-content-sidebar-active
+        .x-container.main:not(.x-row):not(.x-grid):before,.x-sidebar-content-active
+        .x-container.main:not(.x-row):not(.x-grid):before{left:-5000em;}body .x-main
+        .widget,body .x-main .widget a,body .x-main .widget a:hover,body .x-main .widget
+        ul li a,body .x-main .widget ol li a,body .x-main .widget ul li a:hover,body
+        .x-main .widget ol li a:hover,body .x-sidebar .widget,body .x-sidebar .widget
+        a,body .x-sidebar .widget a:hover,body .x-sidebar .widget ul li a,body .x-sidebar
+        .widget ol li a,body .x-sidebar .widget ul li a:hover,body .x-sidebar .widget
+        ol li a:hover{color:rgb(5,5,5);}body .x-main .h-widget,body .x-main .widget.widget_pages
+        .current_page_item a,body .x-main .widget.widget_nav_menu .current-menu-item
+        a,body .x-main .widget.widget_pages .current_page_item a:hover,body .x-main
+        .widget.widget_nav_menu .current-menu-item a:hover,body .x-sidebar .h-widget,body
+        .x-sidebar .widget.widget_pages .current_page_item a,body .x-sidebar .widget.widget_nav_menu
+        .current-menu-item a,body .x-sidebar .widget.widget_pages .current_page_item
+        a:hover,body .x-sidebar .widget.widget_nav_menu .current-menu-item a:hover{color:rgb(0,15,192);}body
+        .x-main .h-widget,body .x-main .widget.widget_pages .current_page_item,body
+        .x-main .widget.widget_nav_menu .current-menu-item,body .x-sidebar .h-widget,body
+        .x-sidebar .widget.widget_pages .current_page_item,body .x-sidebar .widget.widget_nav_menu
+        .current-menu-item{border-color:rgb(0,15,192);}}@media (max-width:767px){.x-post-slider,.archive
+        .x-post-slider{height:auto !important;}.x-post-slider .x-post-slider-entry,.archive
+        .x-post-slider .x-post-slider-entry{padding-bottom:65% !important;}}html{font-size:16px;}@media
+        (min-width:480px){html{font-size:16px;}}@media (min-width:767px){html{font-size:16px;}}@media
+        (min-width:979px){html{font-size:16px;}}@media (min-width:1200px){html{font-size:16px;}}body{font-style:normal;font-weight:400;color:rgb(5,5,5);background-color:rgb(255,255,255);}.w-b{font-weight:400
+        !important;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:\"Lato\",sans-serif;font-style:normal;font-weight:700;text-transform:uppercase;}h1,.h1{letter-spacing:-0.035em;}h2,.h2{letter-spacing:-0.035em;}h3,.h3{letter-spacing:-0.035em;}h4,.h4{letter-spacing:-0.035em;}h5,.h5{letter-spacing:-0.035em;}h6,.h6{letter-spacing:-0.035em;}.w-h{font-weight:700
+        !important;}.x-container.width{width:88%;}.x-container.max{max-width:1200px;}.x-main.full{float:none;display:block;width:auto;}@media
+        (max-width:979px){.x-main.full,.x-main.left,.x-main.right,.x-sidebar.left,.x-sidebar.right{float:none;display:block;width:auto
+        !important;}}.entry-header,.entry-content{font-size:1rem;}body,input,button,select,textarea{font-family:\"Lato\",sans-serif;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,h1
+        a,h2 a,h3 a,h4 a,h5 a,h6 a,.h1 a,.h2 a,.h3 a,.h4 a,.h5 a,.h6 a,blockquote{color:rgb(0,15,192);}.cfc-h-tx{color:rgb(0,15,192)
+        !important;}.cfc-h-bd{border-color:rgb(0,15,192) !important;}.cfc-h-bg{background-color:rgb(0,15,192)
+        !important;}.cfc-b-tx{color:rgb(5,5,5) !important;}.cfc-b-bd{border-color:rgb(5,5,5)
+        !important;}.cfc-b-bg{background-color:rgb(5,5,5) !important;}.x-btn,.button,[type=\"submit\"]{color:#ffffff;border-color:#ac1100;background-color:#ff2a13;margin-bottom:0.25em;text-shadow:0
+        0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 #a71000,0 4px 9px
+        rgba(0,0,0,0.75);border-radius:0.25em;}.x-btn:hover,.button:hover,[type=\"submit\"]:hover{color:#ffffff;border-color:#600900;background-color:#ef2201;margin-bottom:0.25em;text-shadow:0
+        0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 #a71000,0 4px 9px
+        rgba(0,0,0,0.75);}.x-btn.x-btn-real,.x-btn.x-btn-real:hover{margin-bottom:0.25em;text-shadow:0
+        0.075em 0.075em rgba(0,0,0,0.65);}.x-btn.x-btn-real{box-shadow:0 0.25em 0
+        0 #a71000,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real:hover{box-shadow:0
+        0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-flat,.x-btn.x-btn-flat:hover{margin-bottom:0;text-shadow:0
+        0.075em 0.075em rgba(0,0,0,0.65);box-shadow:none;}.x-btn.x-btn-transparent,.x-btn.x-btn-transparent:hover{margin-bottom:0;border-width:3px;text-shadow:none;text-transform:uppercase;background-color:transparent;box-shadow:none;}.x-topbar,.x-colophon.bottom{background-color:#222222;}.x-logobar,.x-navbar,.x-navbar
+        .sub-menu,.x-colophon.top{background-color:#333333;}.x-navbar .desktop .x-nav
+        > li > a,.x-navbar .desktop .sub-menu a,.x-navbar .mobile .x-nav li > a,.x-breadcrumb-wrap
+        a,.x-breadcrumbs .delimiter{color:rgb(255,255,255);}.x-topbar .p-info a:hover,.x-social-global
+        a:hover,.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav
+        > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a,.x-navbar
+        .desktop .sub-menu a:hover,.x-navbar .desktop .sub-menu .x-active > a,.x-navbar
+        .desktop .sub-menu .current-menu-item > a,.x-navbar .desktop .x-nav .x-megamenu
+        > .sub-menu > li > a,.x-navbar .mobile .x-nav li > a:hover,.x-navbar .mobile
+        .x-nav .x-active > a,.x-navbar .mobile .x-nav .current-menu-item > a,.x-widgetbar
+        .widget a:hover,.x-colophon .widget a:hover,.x-colophon.bottom .x-colophon-content
+        a:hover,.x-colophon.bottom .x-nav a:hover{color:rgb(183,182,182);}.x-navbar
+        .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar
+        .desktop .x-nav > .current-menu-item > a{box-shadow:0 2px 0 0 rgb(10,2,191);}.x-navbar
+        .desktop .x-nav > li > a{height:90px;padding-top:37px;}.x-navbar-fixed-top-active
+        .x-navbar-wrap{margin-bottom:2px;}.x-navbar .desktop .x-nav > li ul{top:92px;}@media
+        (max-width:979px){.x-navbar-fixed-top-active .x-navbar-wrap{margin-bottom:0;}}.x-btn-widgetbar{border-top-color:#000000;border-right-color:#000000;}.x-btn-widgetbar:hover{border-top-color:#444444;border-right-color:#444444;}body.x-navbar-fixed-top-active
+        .x-navbar-wrap{height:90px;}.x-navbar-inner{min-height:90px;}.x-brand{margin-top:12px;font-family:\"Lato\",sans-serif;font-size:42px;font-style:normal;font-weight:700;letter-spacing:-0.035em;color:#272727;}.x-brand:hover,.x-brand:focus{color:#272727;}.x-brand
+        img{width:150px;}.x-navbar .x-nav-wrap .x-nav > li > a{font-family:\"Lato\",sans-serif;font-style:normal;font-weight:900;letter-spacing:0.085em;text-transform:uppercase;}.x-navbar
+        .desktop .x-nav > li > a{font-size:13px;}.x-navbar .desktop .x-nav > li >
+        a:not(.x-btn-navbar-woocommerce){padding-left:20px;padding-right:20px;}.x-navbar
+        .desktop .x-nav > li > a > span{margin-right:-0.085em;}.x-btn-navbar{margin-top:20px;}.x-btn-navbar,.x-btn-navbar.collapsed{font-size:24px;}@media
+        (max-width:979px){body.x-navbar-fixed-top-active .x-navbar-wrap{height:auto;}.x-widgetbar{left:0;right:0;}}.x-topbar,.x-colophon.bottom{background-color:#222222;}.x-logobar,.x-navbar,.x-navbar
+        .sub-menu,.x-colophon.top{background-color:#333333;}.x-navbar .desktop .x-nav
+        > li > a,.x-navbar .desktop .sub-menu a,.x-navbar .mobile .x-nav li > a,.x-breadcrumb-wrap
+        a,.x-breadcrumbs .delimiter{color:rgb(255,255,255);}.x-topbar .p-info a:hover,.x-social-global
+        a:hover,.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav
+        > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a,.x-navbar
+        .desktop .sub-menu a:hover,.x-navbar .desktop .sub-menu .x-active > a,.x-navbar
+        .desktop .sub-menu .current-menu-item > a,.x-navbar .desktop .x-nav .x-megamenu
+        > .sub-menu > li > a,.x-navbar .mobile .x-nav li > a:hover,.x-navbar .mobile
+        .x-nav .x-active > a,.x-navbar .mobile .x-nav .current-menu-item > a,.x-widgetbar
+        .widget a:hover,.x-colophon .widget a:hover,.x-colophon.bottom .x-colophon-content
+        a:hover,.x-colophon.bottom .x-nav a:hover{color:rgb(183,182,182);}@font-face{font-family:'FontAwesomePro';font-style:normal;font-weight:900;font-display:block;src:url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-solid-900.woff2')
+        format('woff2'),url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-solid-900.woff')
+        format('woff'),url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-solid-900.ttf')
+        format('truetype');}[data-x-fa-pro-icon]{font-family:\"FontAwesomePro\" !important;}[data-x-fa-pro-icon]:before{content:attr(data-x-fa-pro-icon);}[data-x-icon],[data-x-icon-o],[data-x-icon-l],[data-x-icon-s],[data-x-icon-b],[data-x-fa-pro-icon],[class*=\"cs-fa-\"]{display:inline-block;font-style:normal;font-weight:400;text-decoration:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}[data-x-icon].left,[data-x-icon-o].left,[data-x-icon-l].left,[data-x-icon-s].left,[data-x-icon-b].left,[data-x-fa-pro-icon].left,[class*=\"cs-fa-\"].left{margin-right:0.5em;}[data-x-icon].right,[data-x-icon-o].right,[data-x-icon-l].right,[data-x-icon-s].right,[data-x-icon-b].right,[data-x-fa-pro-icon].right,[class*=\"cs-fa-\"].right{margin-left:0.5em;}[data-x-icon]:before,[data-x-icon-o]:before,[data-x-icon-l]:before,[data-x-icon-s]:before,[data-x-icon-b]:before,[data-x-fa-pro-icon]:before,[class*=\"cs-fa-\"]:before{line-height:1;}@font-face{font-family:'FontAwesome';font-style:normal;font-weight:900;font-display:block;src:url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-solid-900.woff2')
+        format('woff2'),url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-solid-900.woff')
+        format('woff'),url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-solid-900.ttf')
+        format('truetype');}[data-x-icon],[data-x-icon-s],[data-x-icon][class*=\"cs-fa-\"]{font-family:\"FontAwesome\"
+        !important;font-weight:900;}[data-x-icon]:before,[data-x-icon][class*=\"cs-fa-\"]:before{content:attr(data-x-icon);}[data-x-icon-s]:before{content:attr(data-x-icon-s);}@font-face{font-family:'FontAwesomeRegular';font-style:normal;font-weight:400;font-display:block;src:url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-regular-400.woff2')
+        format('woff2'),url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-regular-400.woff')
+        format('woff'),url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-regular-400.ttf')
+        format('truetype');}@font-face{font-family:'FontAwesomePro';font-style:normal;font-weight:400;font-display:block;src:url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-regular-400.woff2')
+        format('woff2'),url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-regular-400.woff')
+        format('woff'),url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-regular-400.ttf')
+        format('truetype');}[data-x-icon-o]{font-family:\"FontAwesomeRegular\" !important;}[data-x-icon-o]:before{content:attr(data-x-icon-o);}@font-face{font-family:'FontAwesomeLight';font-style:normal;font-weight:300;font-display:block;src:url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-light-300.woff2')
+        format('woff2'),url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-light-300.woff')
+        format('woff'),url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-light-300.ttf')
+        format('truetype');}@font-face{font-family:'FontAwesomePro';font-style:normal;font-weight:300;font-display:block;src:url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-light-300.woff2')
+        format('woff2'),url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-light-300.woff')
+        format('woff'),url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-light-300.ttf')
+        format('truetype');}[data-x-icon-l]{font-family:\"FontAwesomeLight\" !important;font-weight:300;}[data-x-icon-l]:before{content:attr(data-x-icon-l);}@font-face{font-family:'FontAwesomeBrands';font-style:normal;font-weight:normal;font-display:block;src:url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-brands-400.woff2')
+        format('woff2'),url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-brands-400.woff')
+        format('woff'),url('https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/fonts/fa-brands-400.ttf')
+        format('truetype');}[data-x-icon-b]{font-family:\"FontAwesomeBrands\" !important;}[data-x-icon-b]:before{content:attr(data-x-icon-b);}</style>\n<!--
+        Google Analytics -->\n<script>\n    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n
+        \   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n
+        \   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n
+        \   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n
+        \   ga('create', 'UA-50584462-1', 'auto');\n    ga('send', 'pageview');\n</script>\n<!--
+        End Google Analytics -->\n\n<link rel=\"stylesheet\" href=\"//fonts.googleapis.com/css?family=Lato:400,400i,700,700i,900&#038;subset=latin,latin-ext&#038;display=auto\"
+        type=\"text/css\" media=\"all\" data-x-google-fonts /></head>\n\n<body class=\"post-template-default
+        single single-post postid-5790 single-format-standard x-ethos x-full-width-layout-active
+        x-content-sidebar-active x-navbar-fixed-top-active x-v7_2_3 cornerstone-v4_2_3\">\n\n
+        \ \n  \n  <div id=\"x-root\" class=\"x-root\">\n\n    \n    <div id=\"top\"
+        class=\"site\">\n\n    \n  \n  <header class=\"masthead masthead-inline\"
+        role=\"banner\">\n    \n    \n    \n\n  <div class=\"x-navbar-wrap\">\n    <div
+        class=\"x-navbar\">\n      <div class=\"x-navbar-inner\">\n        <div class=\"x-container
+        max width\">\n          \n<a href=\"https://www.thebeefread.com/\" class=\"x-brand
+        img\">\n  <img src=\"//www.thebeefread.com/wp-content/uploads/2019/05/Logo-White.png\"
+        alt=\"The Beef\"></a>\n          \n<a href=\"#\" id=\"x-btn-navbar\" class=\"x-btn-navbar
+        collapsed\" data-x-toggle=\"collapse-b\" data-x-toggleable=\"x-nav-wrap-mobile\"
+        aria-expanded=\"false\" aria-controls=\"x-nav-wrap-mobile\" role=\"button\">\n
+        \ <i class=\"x-icon-bars\" data-x-icon-s=\"&#xf0c9;\"></i>\n  <span class=\"visually-hidden\">Navigation</span>\n</a>\n\n<nav
+        class=\"x-nav-wrap desktop\" role=\"navigation\">\n  <ul id=\"menu-menu-1\"
+        class=\"x-nav\"><li id=\"menu-item-1048\" class=\"menu-item menu-item-type-custom
+        menu-item-object-custom menu-item-home menu-item-1048\"><a href=\"https://www.thebeefread.com/\"><span>Home</span></a></li>\n<li
+        id=\"menu-item-4615\" class=\"menu-item menu-item-type-post_type menu-item-object-page
+        menu-item-has-children menu-item-4615\"><a href=\"https://www.thebeefread.com/resource-pages/\"><span>Resource
+        Pages</span></a>\n<ul class=\"sub-menu\">\n\t<li id=\"menu-item-4616\" class=\"menu-item
+        menu-item-type-post_type menu-item-object-page menu-item-4616\"><a href=\"https://www.thebeefread.com/resource-pages/lallemand-resource-page/\"><span>Lallemand
+        Management Resource Library</span></a></li>\n\t<li id=\"menu-item-5314\" class=\"menu-item
+        menu-item-type-post_type menu-item-object-page menu-item-5314\"><a href=\"https://www.thebeefread.com/resource-pages/chr-hansen-resource-library/\"><span>CHR
+        Hansen Resource Library</span></a></li>\n</ul>\n</li>\n<li id=\"menu-item-1052\"
+        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-1052\"><a
+        href=\"https://www.thebeefread.com/archives/\"><span>Archives</span></a></li>\n<li
+        id=\"menu-item-4527\" class=\"menu-item menu-item-type-post_type menu-item-object-page
+        menu-item-4527\"><a href=\"https://www.thebeefread.com/about/\"><span>About</span></a></li>\n<li
+        id=\"menu-item-4526\" class=\"menu-item menu-item-type-post_type menu-item-object-page
+        menu-item-4526\"><a href=\"https://www.thebeefread.com/contact/\"><span>Contact</span></a></li>\n</ul></nav>\n\n<div
+        id=\"x-nav-wrap-mobile\" class=\"x-nav-wrap mobile x-collapsed\" data-x-toggleable=\"x-nav-wrap-mobile\"
+        data-x-toggle-collapse=\"1\" aria-hidden=\"true\" aria-labelledby=\"x-btn-navbar\">\n
+        \ <ul id=\"menu-menu-2\" class=\"x-nav\"><li class=\"menu-item menu-item-type-custom
+        menu-item-object-custom menu-item-home menu-item-1048\"><a href=\"https://www.thebeefread.com/\"><span>Home</span></a></li>\n<li
+        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children
+        menu-item-4615\"><a href=\"https://www.thebeefread.com/resource-pages/\"><span>Resource
+        Pages</span></a>\n<ul class=\"sub-menu\">\n\t<li class=\"menu-item menu-item-type-post_type
+        menu-item-object-page menu-item-4616\"><a href=\"https://www.thebeefread.com/resource-pages/lallemand-resource-page/\"><span>Lallemand
+        Management Resource Library</span></a></li>\n\t<li class=\"menu-item menu-item-type-post_type
+        menu-item-object-page menu-item-5314\"><a href=\"https://www.thebeefread.com/resource-pages/chr-hansen-resource-library/\"><span>CHR
+        Hansen Resource Library</span></a></li>\n</ul>\n</li>\n<li class=\"menu-item
+        menu-item-type-post_type menu-item-object-page menu-item-1052\"><a href=\"https://www.thebeefread.com/archives/\"><span>Archives</span></a></li>\n<li
+        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4527\"><a
+        href=\"https://www.thebeefread.com/about/\"><span>About</span></a></li>\n<li
+        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4526\"><a
+        href=\"https://www.thebeefread.com/contact/\"><span>Contact</span></a></li>\n</ul></div>\n\n
+        \       </div>\n      </div>\n    </div>\n  </div>\n\n    \n    </header>\n\n
+        \   \n  \n    \n  \n  <div class=\"x-container max width main\">\n    <div
+        class=\"offset cf\">\n      <div class=\"x-main left\" role=\"main\">\n\n
+        \                 \n<article id=\"post-5790\" class=\"post-5790 post type-post
+        status-publish format-standard hentry category-cattle-markets no-post-thumbnail\">\n
+        \         <div class=\"entry-wrap\">\n      \n<header class=\"entry-header\">\n
+        \     \n  <div class=\"x-nav-articles\">\n\n          <a href=\"https://www.thebeefread.com/2020/11/06/not-bad-2/\"
+        title=\"\" class=\"prev\">\n        <i class=\"x-icon-chevron-left\" data-x-icon-s=\"&#xf053;\"></i>
+        \     </a>\n    \n          <a href=\"https://www.thebeefread.com/2020/11/04/a-trickle-of-trade/\"
+        title=\"\" class=\"next\">\n        <i class=\"x-icon-chevron-right\" data-x-icon-s=\"&#xf054;\"></i>
+        \     </a>\n    \n  </div>\n\n      <h1 class=\"entry-title\">Improvement</h1>\n
+        \   <p class=\"p-meta\"><span>In <a href=\"https://www.thebeefread.com/category/cattle-markets/\"
+        title=\"View all posts in: &ldquo;Cattle Markets&rdquo;\"> Cattle Markets</a>
+        by The Beef &#38; Cassandra Fish</span><span><time class=\"entry-date\" datetime=\"2020-11-05T11:49:43-06:00\">11/05/2020</time></span></p></header>
+        \     \n\n\n<div class=\"entry-content content\">\n\n\n  \n<p>By Cassie Fish,
+        <a href=\"http://cassandrafish.com\">http://cassandrafish.com</a></p>\n<p>The
+        most significant development in this week\u2019s cash cattle trade is that
+        north, after being discount, has returned to par with the south. Packers have
+        paid $107 as readily in Nebraska as in Texas and Kansas and have paid up to
+        $106 in Iowa. Since the north has been viewed as holding the cash market down,
+        this is good news if bullish.</p>\n<p><a href=\"http://www.micro.net/species/beef/?utm_source=TheBeef&amp;utm_medium=728x90&amp;utm_campaign=DistasteNov2020\"
+        target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\" class=\"alignnone
+        size-full wp-image-5397\" src=\"https://www.thebeefread.com/wp-content/uploads/2020/06/1500-26152-2020-Beef-Digital-Ads_728-x-90_Animated_v05.gif\"
+        alt=\"\" width=\"728\" height=\"90\" /></a>Trade volume has been underway
+        in earnest since yesterday and continues today. Volume is not huge but will
+        certainly beat last week\u2019s poor volume of 58k head. Packers continue
+        to ask for time in many cases because the packer is fully aware boxed beef
+        prices will seasonally advance over the coming 3-4 weeks. So the more cheap
+        cattle inventory the packer owns the better. Plus fed cattle supplies remain
+        somewhat tight for another 4-5 weeks.</p>\n<p>Boxed beef values are advancing
+        seasonally posting choice at $211.50 this morning, a new high for the move.
+        The choice cutout is headed to at least $220 by the end of the month.</p>\n<p>USDA
+        released the actual slaughter for week ended October 24 and once again the
+        actual beat the estimate, this time by 2k head, the F.I. slaughter at 645k
+        head. Steer carcass weights posted an all-time high at 931 pounds, up 2 pounds
+        from the prior week. Weights will be topping very soon, though cattle feeding
+        weather is phenomenal.</p>\n<p>CME live cattle futures are green and have
+        made new highs for the move today. Take a look at an Apr LC chart or any month
+        beyond Apr LC and the charts show prices have advanced above the 40-day and
+        100-day moving average and are trading at prices not seen since the second
+        week in October. Dec and Feb LC are higher too, but the key resistance remains
+        overhead.</p>\n<p>CME feeder cattle futures are trading lower because the
+        grain and soy complex is on fire. Corn has stormed to new highs for the week
+        and are eyeing the October high. Buying inspired by ideas of inflation seems
+        to be infiltrating many different commodity markets. There is an old saying,
+        \u201Ccheap grain, cheap cattle \u2013 high priced grain, high priced cattle\u201D.
+        The 2021 trend for corn \u2013 if prices average above $4 per bushel \u2013
+        increases cost of gain obviously, and will likely reduce days on feed and
+        out-weights.</p>\n<p><sub><strong>Copyright \xA9 2020 the Beef Read. All rights
+        reserved</strong></sub></p>\n<p><sub>The Beef is\_published by Consolidated
+        Beef Producers</sub></p>\n<p><sub><strong>Use of part or all of this blog
+        for any reason without permission is strictly prohibited.\_ </strong></sub></p>\n<p><sub><em>Disclaimer:
+        \_The Beef, CBP, Cassie Fish nor NFC Frontier Capital Markets shall not be
+        liable for decisions or actions taken based on the data/information/opinions.
+        </em></sub></p>\n<p><sub>This material has been prepared by a sales or trading
+        employee or agent of New Frontier Capital Markets and is, or is in the nature
+        of, a solicitation. This material is not a research report prepared by New
+        Frontier Capital Markets. By accepting this communication, you agree that
+        you are an experienced user of the futures markets, capable of making independent
+        trading decisions, and agree that you are not, and will not, rely solely on
+        this communication in making trading decisions. DISTRIBUTION IN SOME JURISDICTIONS
+        MAY BE PROHIBITED OR RESTRICTED BY LAW.\_ PERSONS IN POSSESSION OF THIS COMMUNICATION
+        INDIRECTLY SHOULD INFORM THEMSELVES ABOUT AND OBSERVE ANY SUCH PROHIBITION
+        OR RESTRICTIONS.\_ TO THE EXTENT THAT YOU HAVE RECEIVED THIS COMMUNICATION
+        INDIRECTLY AND SOLICITATIONS ARE PROHIBITED IN YOUR JURISDICTION WITHOUT REGISTRATION,
+        THE MARKET COMMENTARY IN THIS COMMUNICATION SHOULD NOT BE CONSIDERED A SOLICITATION.
+        The risk of loss in trading futures and/or options is substantial and each
+        investor and/or trader must consider whether this is a suitable investment.
+        Past performance, whether actual or indicated by simulated historical tests
+        of strategies, is not indicative of future results. Trading advice is based
+        on information taken from trades and statistical services and other sources
+        that New Frontier Capital Markets believes are reliable. We do not guarantee
+        that such information is accurate or complete and it should not be relied
+        upon as such. Trading advice reflects our good faith judgment at a specific
+        time and is subject to change without notice. There is no guarantee that the
+        advice we give will result in profitable trades.</sub></p>\n<div class='sfsi_Sicons'
+        style='width: 100%; display: inline-block; vertical-align: middle; text-align:left'><div
+        style='margin:0px 8px 0px 0px; line-height: 24px'><span>Please follow and
+        like us:</span></div><div class='sfsi_socialwpr'><div class='sf_subscrbe sf_icon'
+        style='text-align:left;vertical-align: middle;float:left;width:auto'><a href=\"http://www.specificfeeds.com/widgets/emailSubscribeEncFeed/QUEydEd1L29tbUJxakowc1YwblBVMStPU2RCdUJYZndyK3V3RVJlZUdHaCtxTXQvQTI2K1RyejRwSi9RczlzYWkrTEg1bUx4MkhKNGFIaWk4WEFNV3NHbldoWnZaUTJiK3dLaVRIWTg1NUVEa1d3aU1jVmJ6L1ZZSlpuL1c3VC98SVU4MDI3QU1aZlRJSXl2K0pHNk8zN1h5Y0Q3TW80U2grc045bjhCQm5udz0=/OA==/\"
+        target=\"_blank\"><img src=\"https://www.thebeefread.com/wp-content/plugins/ultimate-social-media-icons/images/follow_subscribe.png\"
+        alt=\"error\" /></a></div><div class='sf_fb sf_icon' style='text-align:left;vertical-align:
+        middle;'><div class=\"fb-like\" data-href=\"https://www.thebeefread.com/2020/11/05/improvement-2/\"
+        \ data-send=\"false\" data-layout=\"button\" ></div></div><div class='sf_fb_share
+        sf_icon' style='text-align:left;vertical-align: middle;'><a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.thebeefread.com%2F2020%2F11%2F05%2Fimprovement-2%2F'
+        style='display:inline-block;'  > <img class='sfsi_wicon'  data-pin-nopin='true'
+        width='auto' height='auto' alt='fb-share-icon' title='Facebook Share' src='https://www.thebeefread.com/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/fbshare_bck.png'
+        \ /></a></div><div class='sf_twiter sf_icon' style='display: inline-block;vertical-align:
+        middle;width: auto;margin-left: 7px;'>\r\n\t\t\t\t\t\t<a target='_blank' href='https://twitter.com/intent/tweet?text=Improvement+https://www.thebeefread.com/2020/11/05/improvement-2/'style='display:inline-block'
+        >\r\n\t\t\t\t\t\t\t<img data-pin-nopin= true width='auto' class='sfsi_wicon'
+        src='https://www.thebeefread.com/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/en_US_Tweet.svg'
+        alt='Tweet' title='Tweet' >\r\n\t\t\t\t\t\t</a>\r\n\t\t\t\t\t</div><div class='sf_pinit
+        sf_icon' style='text-align:left;vertical-align: middle;float:left;line-height:
+        33px;width:auto;margin: 0 -2px;'><a href='#'  onclick='sfsi_pinterest_modal_images(event,\"https://www.thebeefread.com/2020/11/05/improvement-2/\",\"Improvement\")'
+        style='display:inline-block;'  > <img class='sfsi_wicon'  data-pin-nopin='true'
+        width='auto' height='auto' alt='fb-share-icon' title='Pin Share' src='https://www.thebeefread.com/wp-content/plugins/ultimate-social-media-icons/images/share_icons/Pinterest_Save/en_US_save.svg'
+        \ /></a></div></div></div>  \n\n</div>\n\n    </div>\n  </article>          \n
+        \       \n      </div>\n\n              \n\n  <aside class=\"x-sidebar right\"
+        role=\"complementary\">\n          <div id=\"widget_sp_image-46\" class=\"widget
+        widget_sp_image\"><a href=\"https://www.thebeefread.com/resource-pages/lallemand-resource-page/\"
+        target=\"_self\" class=\"widget_sp_image-image-link\"><img width=\"250\" height=\"250\"
+        class=\"attachment-250x250 aligncenter\" style=\"max-width: 100%;\" src=\"https://www.thebeefread.com/wp-content/uploads/2019/07/CBP_LANNA_250x250_1.jpg\"
+        /></a></div><div id=\"widget_sp_image-35\" class=\"widget widget_sp_image\"><a
+        href=\"https://www.agtexas.com/\" target=\"_blank\" class=\"widget_sp_image-image-link\"><img
+        width=\"250\" height=\"250\" class=\"attachment-250x250 aligncenter\" style=\"max-width:
+        100%;\" src=\"https://www.thebeefread.com/wp-content/uploads/2018/04/Logo-Ad.jpg\"
+        /></a></div><div id=\"widget_sp_image-47\" class=\"widget widget_sp_image\"><a
+        href=\"https://www.thebeefread.com/resource-pages/chr-hansen-resource-library/\"
+        target=\"_self\" class=\"widget_sp_image-image-link\"><img width=\"250\" height=\"250\"
+        class=\"attachment-250x250 aligncenter\" style=\"max-width: 100%;\" src=\"https://www.thebeefread.com/wp-content/uploads/2020/06/CHR-Hansen-250x250-Ad.jpg\"
+        /></a></div><div id=\"widget_sp_image-30\" class=\"widget widget_sp_image\"><a
+        href=\"http://www.premiumnutritionnetwork.com/\" target=\"_blank\" class=\"widget_sp_image-image-link\"><img
+        width=\"222\" height=\"300\" class=\"attachment-full aligncenter\" style=\"max-width:
+        100%;\" src=\"https://www.thebeefread.com/wp-content/uploads/2016/03/PNN-Logo-March-2016.jpg\"
+        /></a></div><div id=\"widget_sp_image-26\" class=\"widget widget_sp_image\"><a
+        href=\"http://www.cbp.coop\" target=\"_blank\" class=\"widget_sp_image-image-link\"><img
+        width=\"250\" height=\"250\" class=\"attachment-full aligncenter\" style=\"max-width:
+        100%;\" srcset=\"https://www.thebeefread.com/wp-content/uploads/2017/08/CBPForTheBeef.png
+        250w, https://www.thebeefread.com/wp-content/uploads/2017/08/CBPForTheBeef-150x150.png
+        150w\" sizes=\"(max-width: 250px) 100vw, 250px\" src=\"https://www.thebeefread.com/wp-content/uploads/2017/08/CBPForTheBeef.png\"
+        /></a></div><div id=\"widget_sp_image-27\" class=\"widget widget_sp_image\"><a
+        href=\"http://www.boxedbeef4ward.com/\" target=\"_blank\" class=\"widget_sp_image-image-link\"><img
+        width=\"400\" height=\"400\" class=\"attachment-full aligncenter\" style=\"max-width:
+        100%;\" srcset=\"https://www.thebeefread.com/wp-content/uploads/2018/06/BB4W_Ad_Aug2016.jpg
+        400w, https://www.thebeefread.com/wp-content/uploads/2018/06/BB4W_Ad_Aug2016-150x150.jpg
+        150w, https://www.thebeefread.com/wp-content/uploads/2018/06/BB4W_Ad_Aug2016-300x300.jpg
+        300w, https://www.thebeefread.com/wp-content/uploads/2018/06/BB4W_Ad_Aug2016-100x100.jpg
+        100w\" sizes=\"(max-width: 400px) 100vw, 400px\" src=\"https://www.thebeefread.com/wp-content/uploads/2018/06/BB4W_Ad_Aug2016.jpg\"
+        /></a></div><div id=\"widget_sp_image-28\" class=\"widget widget_sp_image\"><a
+        href=\"http://eepurl.com/SrNl1\" target=\"_blank\" class=\"widget_sp_image-image-link\"><img
+        width=\"250\" height=\"99\" class=\"attachment-250x99 aligncenter\" style=\"max-width:
+        100%;\" src=\"https://www.thebeefread.com/wp-content/uploads/2016/06/Sign-Up-Email.png\"
+        /></a></div>      </aside>\n\n      \n    </div>\n  </div>\n\n\n\n  \n\n  <footer
+        class=\"x-colophon top\">\n    <div class=\"x-container max width\">\n\n      <div
+        class=\"x-column x-md x-1-3\"></div><div class=\"x-column x-md x-1-3\"></div><div
+        class=\"x-column x-md x-1-3 last\"></div>\n    </div>\n  </footer>\n\n\n  \n
+        \   <footer class=\"x-colophon bottom\" role=\"contentinfo\">\n      <div
+        class=\"x-container max width\">\n\n                  <div class=\"x-colophon-content\">\n
+        \           <p>POWERED BY THE <a href=\"//theme.co/x/\" title=\"X &ndash;
+        The Ultimate WordPress Theme\" rel=\"nofollow\">X THEME</a></p>          </div>\n
+        \       \n                  \n<ul class=\"x-nav\"><li><a href=\"https://www.thebeefread.com/wp-admin/nav-menus.php\">Assign
+        a Menu</a></li></ul>        \n                  <div class=\"x-social-global\"><a
+        href=\"http://www.twitter.com/TheBeefRead\" class=\"twitter\" title=\"Twitter\"
+        target=\"blank\" rel=\"\"><i class=\"x-icon-twitter-square\" data-x-icon-b=\"&#xf081;\"
+        aria-hidden=\"true\"></i></a></div>        \n      </div>\n    </footer>\n\n
+        \ \n\n    \n    </div> <!-- END .x-site -->\n\n    \n      <a class=\"x-scroll-top
+        right fade\" title=\"Back to Top\">\n                \n        <i class=\"x-icon-angle-up\"
+        data-x-icon-s=\"&#xf106;\"></i>\n      </a>\n\n      <script>\n\n      jQuery(document).ready(function($)
+        {\n\n        var $window            = $(window);\n        var body                 =
+        $('body');\n        var bodyOffsetBottom     = $window.scrollBottom();             //
+        1\n        var bodyHeightAdjustment = body.height() - bodyOffsetBottom;     //
+        2\n        var bodyHeightAdjusted   = body.height() - bodyHeightAdjustment;
+        // 3\n        var $scrollTopAnchor      = $('.x-scroll-top');\n\n        function
+        sizingUpdate(){\n          var bodyOffsetTop = $window.scrollTop();\n          if
+        ( bodyOffsetTop > ( bodyHeightAdjusted * 0.75 ) ) {\n            $scrollTopAnchor.addClass('in');\n
+        \         } else {\n            $scrollTopAnchor.removeClass('in');\n          }\n
+        \       }\n\n        $window.on('scroll', sizingUpdate).resize(sizingUpdate);\n
+        \       sizingUpdate();\n\n        $scrollTopAnchor.on( 'click', function(){\n
+        \         $('html, body').animate({ scrollTop: 0 }, 850, 'xEaseInOutExpo');\n
+        \         return false;\n        });\n\n      });\n\n      </script>\n\n    \n
+        \   <div id=\"x-widgetbar\" class=\"x-widgetbar x-collapsed\" data-x-toggleable=\"x-widgetbar\"
+        data-x-toggle-collapse=\"1\" aria-hidden=\"true\" aria-labelledby=\"x-btn-widgetbar\">\n
+        \     <div class=\"x-widgetbar-inner\">\n        <div class=\"x-container
+        max width\">\n\n          <div class=\"x-column x-md x-1-2\"><div id=\"widget_sp_image-34\"
+        class=\"widget widget_sp_image\"><h4 class=\"h-widget\">CBPBannerForTheBeef1</h4><img
+        width=\"400\" height=\"90\" alt=\"CBPBannerForTheBeef1\" class=\"attachment-full
+        aligncenter\" style=\"max-width: 100%;\" src=\"https://www.thebeefread.com/wp-content/uploads/2018/04/CBPBannerForTheBeef1.jpg\"
+        /></div></div><div class=\"x-column x-md x-1-2 last\"></div>\n        </div>\n
+        \     </div>\n    </div>\n\n    <a href=\"#\" id=\"x-btn-widgetbar\" class=\"x-btn-widgetbar
+        collapsed\" data-x-toggle=\"collapse-b\" data-x-toggleable=\"x-widgetbar\"
+        aria-expanded=\"false\" aria-controls=\"x-widgetbar\" role=\"button\">\n      <i
+        class=\"x-icon-plus-circle\" data-x-icon-s=\"&#xf055;\"><span class=\"visually-hidden\">Toggle
+        the Widgetbar</span></i>\n    </a>\n\n    \n  </div> <!-- END .x-root -->\n\n\t\t\t<!--facebook
+        like and share js -->\r\n\t\t\t<div id=\"fb-root\"></div>\r\n\t\t\t<script>\r\n\t\t\t\t(function(d,
+        s, id) {\r\n\t\t\t\t\tvar js, fjs = d.getElementsByTagName(s)[0];\r\n\t\t\t\t\tif
+        (d.getElementById(id)) return;\r\n\t\t\t\t\tjs = d.createElement(s);\r\n\t\t\t\t\tjs.id
+        = id;\r\n\t\t\t\t\tjs.src = \"//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5\";\r\n\t\t\t\t\tfjs.parentNode.insertBefore(js,
+        fjs);\r\n\t\t\t\t}(document, 'script', 'facebook-jssdk'));\r\n\t\t\t</script>\r\n\t\t<script>\r\nwindow.addEventListener('sfsi_functions_loaded',
+        function() {\r\n    if (typeof sfsi_responsive_toggle == 'function') {\r\n
+        \       sfsi_responsive_toggle(0);\r\n        // console.log('sfsi_responsive_toggle');\r\n\r\n
+        \   }\r\n})\r\n</script>\r\n    <script>\r\n        window.addEventListener('sfsi_functions_loaded',
+        function() {\r\n            if (typeof sfsi_plugin_version == 'function')
+        {\r\n                sfsi_plugin_version(2.60);\r\n            }\r\n        });\r\n\r\n
+        \       function sfsi_processfurther(ref) {\r\n            var feed_id = 'QUEydEd1L29tbUJxakowc1YwblBVMStPU2RCdUJYZndyK3V3RVJlZUdHaCtxTXQvQTI2K1RyejRwSi9RczlzYWkrTEg1bUx4MkhKNGFIaWk4WEFNV3NHbldoWnZaUTJiK3dLaVRIWTg1NUVEa1d3aU1jVmJ6L1ZZSlpuL1c3VC98SVU4MDI3QU1aZlRJSXl2K0pHNk8zN1h5Y0Q3TW80U2grc045bjhCQm5udz0=';\r\n
+        \           var feedtype = 8;\r\n            var email = jQuery(ref).find('input[name=\"email\"]').val();\r\n
+        \           var filter = /^([a-zA-Z0-9_\\.\\-])+\\@(([a-zA-Z0-9\\-])+\\.)+([a-zA-Z0-9]{2,4})+$/;\r\n
+        \           if ((email != \"Enter your email\") && (filter.test(email))) {\r\n
+        \               if (feedtype == \"8\") {\r\n                    var url =
+        \"https://api.follow.it/subscription-form/\" + feed_id + \"/\" + feedtype;\r\n
+        \                   window.open(url, \"popupwindow\", \"scrollbars=yes,width=1080,height=760\");\r\n
+        \                   return true;\r\n                }\r\n            } else
+        {\r\n                alert(\"Please enter email address\");\r\n                jQuery(ref).find('input[name=\"email\"]').focus();\r\n
+        \               return false;\r\n            }\r\n        }\r\n    </script>\r\n
+        \   <style type=\"text/css\" aria-selected=\"true\">\r\n        .sfsi_subscribe_Popinner
+        {\r\n            width: 100% !important;\r\n\r\n            height: auto !important;\r\n\r\n
+        \           padding: 18px 0px !important;\r\n\r\n            background-color:
+        #ffffff !important;\r\n\r\n        }\r\n\r\n        .sfsi_subscribe_Popinner
+        form {\r\n\r\n            margin: 0 20px !important;\r\n\r\n        }\r\n\r\n
+        \       .sfsi_subscribe_Popinner h5 {\r\n\r\n            font-family: Helvetica,Arial,sans-serif
+        !important;\r\n\r\n            font-weight: bold !important;\r\n\r\n            color:
+        #000000 !important;\r\n\r\n            font-size: 16px !important;\r\n\r\n
+        \           text-align: center !important;\r\n\r\n            margin: 0 0
+        10px !important;\r\n\r\n            padding: 0 !important;\r\n\r\n        }\r\n\r\n
+        \       .sfsi_subscription_form_field {\r\n\r\n            margin: 5px 0 !important;\r\n\r\n
+        \           width: 100% !important;\r\n\r\n            display: inline-flex;\r\n\r\n
+        \           display: -webkit-inline-flex;\r\n\r\n        }\r\n\r\n        .sfsi_subscription_form_field
+        input {\r\n\r\n            width: 100% !important;\r\n\r\n            padding:
+        10px 0px !important;\r\n\r\n        }\r\n\r\n        .sfsi_subscribe_Popinner
+        input[type=email] {\r\n\r\n            font-family: Helvetica,Arial,sans-serif
+        !important;\r\n\r\n            font-style: normal !important;\r\n\r\n            color:
+        \ !important;\r\n\r\n            font-size: 14px !important;\r\n\r\n            text-align:
+        center !important;\r\n\r\n        }\r\n\r\n        .sfsi_subscribe_Popinner
+        input[type=email]::-webkit-input-placeholder {\r\n\r\n            font-family:
+        Helvetica,Arial,sans-serif !important;\r\n\r\n            font-style: normal
+        !important;\r\n\r\n            color:  !important;\r\n\r\n            font-size:
+        14px !important;\r\n\r\n            text-align: center !important;\r\n\r\n
+        \       }\r\n\r\n        .sfsi_subscribe_Popinner input[type=email]:-moz-placeholder
+        {\r\n            /* Firefox 18- */\r\n\r\n            font-family: Helvetica,Arial,sans-serif
+        !important;\r\n\r\n            font-style: normal !important;\r\n\r\n            color:
+        \ !important;\r\n\r\n            font-size: 14px !important;\r\n\r\n            text-align:
+        center !important;\r\n\r\n        }\r\n\r\n        .sfsi_subscribe_Popinner
+        input[type=email]::-moz-placeholder {\r\n            /* Firefox 19+ */\r\n\r\n
+        \           font-family: Helvetica,Arial,sans-serif !important;\r\n\r\n            font-style:
+        normal !important;\r\n\r\n            color:  !important;\r\n\r\n            font-size:
+        14px !important;\r\n\r\n            text-align: center !important;\r\n\r\n
+        \       }\r\n\r\n        .sfsi_subscribe_Popinner input[type=email]:-ms-input-placeholder
+        {\r\n\r\n            font-family: Helvetica,Arial,sans-serif !important;\r\n\r\n
+        \           font-style: normal !important;\r\n\r\n            color:  !important;\r\n\r\n
+        \           font-size: 14px !important;\r\n\r\n            text-align: center
+        !important;\r\n\r\n        }\r\n\r\n        .sfsi_subscribe_Popinner input[type=submit]
+        {\r\n\r\n            font-family: Helvetica,Arial,sans-serif !important;\r\n\r\n
+        \           font-weight: bold !important;\r\n\r\n            color: #000000
+        !important;\r\n\r\n            font-size: 16px !important;\r\n\r\n            text-align:
+        center !important;\r\n\r\n            background-color: #dedede !important;\r\n\r\n
+        \       }\r\n\r\n        .sfsi_shortcode_container {\r\n            float:
+        left;\r\n        }\r\n\r\n        .sfsi_shortcode_container .norm_row .sfsi_wDiv
+        {\r\n            position: relative !important;\r\n        }\r\n\r\n        .sfsi_shortcode_container
+        .sfsi_holders {\r\n            display: none;\r\n        }\r\n\r\n            </style>\r\n\r\n<script
+        type='text/javascript' id='contact-form-7-js-extra'>\n/* <![CDATA[ */\nvar
+        wpcf7 = {\"apiSettings\":{\"root\":\"https:\\/\\/www.thebeefread.com\\/wp-json\\/contact-form-7\\/v1\",\"namespace\":\"contact-form-7\\/v1\"},\"cached\":\"1\"};\n/*
+        ]]> */\n</script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3'
+        id='contact-form-7-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'
+        id='jquery-ui-widget-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'
+        id='jquery-ui-core-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'
+        id='jquery-ui-mouse-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4'
+        id='jquery-ui-slider-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'
+        id='jquery-ui-button-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-includes/js/jquery/ui/spinner.min.js?ver=1.11.4'
+        id='jquery-ui-spinner-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'
+        id='jquery-effects-core-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4'
+        id='jquery-effects-shake-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'
+        id='jquery-ui-accordion-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'
+        id='jquery-ui-resizable-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'
+        id='jquery-ui-draggable-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'
+        id='jquery-ui-position-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'
+        id='jquery-ui-dialog-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/plugins//organic-shortcodes/js/jquery.shortcodes.js?ver=20130729'
+        id='organic-shortcodes-script-js'></script>\n<script type='text/javascript'
+        src='https://www.thebeefread.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'
+        id='jquery-ui-tabs-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/plugins//organic-shortcodes/js/tabs.js?ver=20130609'
+        id='organic-tabs-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/plugins/ultimate-social-media-icons/js/shuffle/modernizr.custom.min.js?ver=5.5.3'
+        id='SFSIjqueryModernizr-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/plugins/ultimate-social-media-icons/js/shuffle/jquery.shuffle.min.js?ver=5.5.3'
+        id='SFSIjqueryShuffle-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/plugins/ultimate-social-media-icons/js/shuffle/random-shuffle-min.js?ver=5.5.3'
+        id='SFSIjqueryrandom-shuffle-js'></script>\n<script type='text/javascript'
+        id='SFSICustomJs-js-extra'>\n/* <![CDATA[ */\nvar sfsi_icon_ajax_object =
+        {\"ajax_url\":\"https:\\/\\/www.thebeefread.com\\/wp-admin\\/admin-ajax.php\"};\nvar
+        sfsi_icon_ajax_object = {\"ajax_url\":\"https:\\/\\/www.thebeefread.com\\/wp-admin\\/admin-ajax.php\",\"plugin_url\":\"https:\\/\\/www.thebeefread.com\\/wp-content\\/plugins\\/ultimate-social-media-icons\\/\"};\n/*
+        ]]> */\n</script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/plugins/ultimate-social-media-icons/js/custom.js?ver=5.5.3'
+        id='SFSICustomJs-js'></script>\n<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LcaTIEUAAAAAONGVO7CPFhhUdgpwL_ct_tnBLLK&#038;ver=3.0'
+        id='google-recaptcha-js'></script>\n<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>\n/*
+        <![CDATA[ */\nvar wpcf7_recaptcha = {\"sitekey\":\"6LcaTIEUAAAAAONGVO7CPFhhUdgpwL_ct_tnBLLK\",\"actions\":{\"homepage\":\"homepage\",\"contactform\":\"contactform\"}};\n/*
+        ]]> */\n</script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/plugins/contact-form-7/modules/recaptcha/script.js?ver=5.3'
+        id='wpcf7-recaptcha-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/plugins/cornerstone/assets/dist/js/site/cs.0ce70e6.js'
+        id='cornerstone-site-body-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-content/themes/x/framework/dist/js/site/x.js?ver=7.2.3'
+        id='x-site-js'></script>\n<script type='text/javascript' src='https://www.thebeefread.com/wp-includes/js/wp-embed.min.js?ver=5.5.3'
+        id='wp-embed-js'></script>\n\n</body>\n</html>\n<!-- Dynamic page generated
+        in 0.228 seconds. -->\n<!-- Cached page generated by WP-Super-Cache on 2020-11-18
+        11:31:17 -->\n\n<!-- super cache -->"
+    headers:
+      Cache-Control:
+      - max-age=3, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Wed, 18 Nov 2020 17:50:02 GMT
+      Host-Header:
+      - 624d5be7be38418a3e2a818cc8b7029b
+      Server:
+      - nginx
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding,Cookie
+      X-Proxy-Cache:
+      - MISS
+      alt-svc:
+      - quic=":443"; ma=86400; v="43,39"
+    status:
+      code: 200
+      message: OK
+version: 1

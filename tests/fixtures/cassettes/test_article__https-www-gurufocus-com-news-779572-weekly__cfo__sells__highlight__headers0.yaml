@@ -1,0 +1,1812 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/87.0.4280.88 Safari/537.36 '
+    method: GET
+    uri: https://www.gurufocus.com/news/779572/weekly-cfo-sells-highlight
+  response:
+    body:
+      string: " <!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n     \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n<html
+        xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<meta http-equiv=\"Content-Type\"
+        content=\"text/html; charset=utf-8\" />\n<meta http-equiv=\"Cache-control\"
+        content=\"public\" />\n<meta name=\"apple-itunes-app\" content=\"app-id=1054144526\"
+        />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0,
+        maximum-scale=1.0, minimum-scale=0.6, user-scalable=yes\" />\n<meta property=\"og:image\"
+        content=\"https://static.gurufocus.com/photos/gurus/guru_logo_square.jpg\"
+        />\n<script>\n            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n
+        \             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n
+        \             m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n
+        \             })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n
+        \                               ga('create', 'UA-21017515-1', 'auto');\n                  //Google
+        Optimize\n                  ga('require', 'GTM-5KZM8WM');\n                  //Tag
+        Manager\n                  //ga('require', 'GTM-K799DP4');\n                  ga('send',
+        'pageview');\n                                         </script>\n\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n
+        \       new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n
+        \       j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n
+        \       'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n
+        \       })(window,document,'script','dataLayer','GTM-K799DP4');</script>\n\n<meta
+        name=\"description\" content=\"Weekly CFO Sells Highlight, Stocks: TWTR,DATA,FB,
+        release date:Dec 02, 2018\" /><title>Weekly CFO Sells Highlight - GuruFocus.com</title>
+        <script type=\"text/javascript\">\n             this.top.location !== this.location
+        && (this.top.location = this.location);\n         </script>\n<link href=\"//apis.gurufocus.com/css/main.css?5.9.37.1234\"
+        rel=\"stylesheet\" type=\"text/css\" />\n\n<link rel=\"stylesheet\" type=\"text/css\"
+        href=\"/apis/css/combined/header.min.css?0909\" />\n<link rel=\"stylesheet\"
+        type=\"text/css\" href=\"//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css\"
+        />\n<link href=\"//www.gurufocus.com/rss.php\" rel=\"alternate\" title=\"GuruFocus
+        New Articles\" type=\"application/rss+xml\" />\n<link href=\"//www.gurufocus.com/feed/guru_portfolio_feed.php\"
+        rel=\"alternate\" title=\"Guru Portfolio Updates\" type=\"application/rss+xml\"
+        />\n<link href=\"//www.gurufocus.com/rssInsider.php\" rel=\"alternate\" title=\"Insider
+        Trade Updates\" type=\"application/rss+xml\" />\n<link rel=\"icon\" type=\"image/ico\"
+        href=\"https://static.gurufocus.com/favicon.ico\" />\n<script src=\"/apis/js/combined/header.js?001\"
+        type=\"text/javascript\" charset=\"utf-8\"></script>\n\n<script type=\"text/javascript\"
+        src=\"//cdnjs.cloudflare.com/ajax/libs/highstock/2.0.0/highstock.js\"></script>\n\n<script>\n
+        \            $.ajaxSetup({\n                 cache: true\n             });\n
+        \            \n             $(function(){\n                if($.fn.tooltip.noConflict)
+        {\n                  $.fn.tlp = $.fn.tooltip.noConflict();\n                }\n
+        \            });\n\n            (function(H) {\n                H.seriesTypes.line.prototype.requireSorting
+        = false;\n            })(Highcharts)\n            \n         </script>\n\n<script
+        async src=\"https://www.googletagmanager.com/gtag/js?id=AW-1005049228\"></script>
+        <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date()); gtag('config', 'AW-1005049228');\n         </script>\n<style>\n
+        \             html {\n                background-color: white;\n              }\n\n
+        \             .darkmode-text {\n                font-size: 14px;display: inline-block;color:
+        white;\n              }\n             html.dark-mode {\n                filter:
+        invert(100%);\n              }\n\n              html.dark-mode img {\n                filter:
+        invert(100%);\n              }\n\n              html.dark-mode .embed-video
+        {\n                filter: invert(100%);\n              }\n\n              html.dark-mode
+        #topMenuSubButton{\n                filter: invert(100%);\n              }\n\n
+        \       /*      html.dark-mode .ratingblock{\n                filter: invert(100%);\n
+        \             }*/\n\n              html.dark-mode .big_bar_box{\n                filter:
+        invert(100%);\n              }\n\n              html.dark-mode iframe{\n                filter:
+        invert(100%);\n              }\n\n       /*       html.dark-mode .current-rating{\n
+        \               filter: invert(100%);\n              }*/\n\n              html.dark-mode
+        .ranked-color{\n                filter: invert(100%);\n              }\n\n
+        \             html.dark-mode #menu_container {\n                background:
+        white;\n              }\n\n              html.dark-mode #footer {\n                background:
+        white;\n              }\n\n              html.dark-mode .footergrid {\n                background:
+        white;\n              }\n\n              html.dark-mode .footerli a {\n                color:
+        black;\n              }\n\n              html.dark-mode #menu li a {\n                color:
+        black;\n              }\n\n              html.dark-mode .darkmode-text {\n
+        \               color: black;\n              }\n\n              .switch {\n
+        \               position: relative;\n                display: inline-block;\n
+        \               width: 36px;\n                height: 24px;\n                vertical-align:
+        top;\n              }\n\n              .switch input {\n                opacity:
+        0;\n                width: 0;\n                height: 0;\n              }\n\n
+        \             .d-slider {\n                position: absolute;\n                cursor:
+        pointer;\n                top: 0;\n                left: 0;\n                right:
+        0;\n                bottom: 0;\n                background-color: #ccc;\n
+        \               -webkit-transition: .4s;\n                transition: .4s;\n
+        \             }\n\n              .d-slider:before {\n                position:
+        absolute;\n                content: \"\";\n                height: 16px;\n
+        \               width: 16px;\n                left: 2px;\n                bottom:
+        4px;\n                background-color: white;\n                -webkit-transition:
+        .6s;\n                transition: .6s;\n              }\n\n              input:checked+.d-slider
+        {\n                background-color: black;\n              }\n\n              input:focus+.d-slider
+        {\n                box-shadow: 0 0 1px black;\n              }\n\n              input:checked+.d-slider:before
+        {\n                -webkit-transform: translateX(16px);\n                -ms-transform:
+        translateX(16px);\n                transform: translateX(16px);\n              }\n\n
+        \             /* Rounded sliders */\n              .d-slider.round {\n                border-radius:
+        24px;\n              }\n\n              .d-slider.round:before {\n                border-radius:
+        50%;\n              }\n\n              #clockdiv{\n                color:
+        #fff;\n                display: inline-block;\n                font-weight:
+        100;\n                text-align: center;\n                font-size: 30px;\n
+        \               margin-bottom: 8px;\n              }\n\n              #clockdiv
+        > div{\n                padding: 8px;\n                border-radius: 3px;\n
+        \               background: #03a6f3;\n                display: inline-block;\n
+        \             }\n\n              #clockdiv div > span{\n                padding:
+        13px;\n                border-radius: 3px;\n                background: #0272a7;\n
+        \               display: inline-block;\n              }\n\n              .smalltext{\n
+        \               padding-top: 5px;\n                font-size: 16px;\n              }\n\n
+        \           </style>\n<script>\n          // document.documentElement.classList.toggle('dark-mode')\n
+        \         // Dark mode related changes\n            function setCookie(name,value,days)
+        {\n                var expires = \"\";\n                if (days) {\n                    var
+        date = new Date();\n                    date.setTime(date.getTime() + (days*24*60*60*1000));\n
+        \                   expires = \"; expires=\" + date.toUTCString();\n                }\n
+        \               console.log('Set dark mode')\n                console.log(name
+        + \"=\" + (value || \"\")  + expires + \";path=/\")\n                document.cookie
+        = name + \"=\" + (value || \"\")  + expires + \";path=/\";\n            }\n\n
+        \           function getCookie(name) {\n                var nameEQ = name
+        + \"=\";\n                var ca = document.cookie.split(';');\n                for(var
+        i=0;i < ca.length;i++) {\n                    var c = ca[i];\n                    console.log('c',
+        c)\n                    while (c.charAt(0)==' ') c = c.substring(1,c.length);\n
+        \                   if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);\n
+        \               }\n                return null;\n            }\n\n            function
+        darkMode() {\n                let darkmode = getCookie('darkmodes')\n                console.log('toggle')\n
+        \               console.log(darkmode)\n                if (!darkmode) {\n
+        \                   setCookie(\"darkmodes\",\"1\",10*365)\n                }
+        else {\n                    console.log('delete cookie')\n                    document.cookie
+        = \"darkmodes\" + '=; expires=Thu, 01-Jan-70 00:00:01 GMT;path=/;';\n                    document.cookie
+        = \"darkmodes\" + '=; expires=Thu, 01-Jan-70 00:00:01 GMT;path=/financials;';\n
+        \               }\n                document.documentElement.classList.toggle('dark-mode')\n
+        \           }\n\n            let darkmode = getCookie('darkmodes')\n            console.log('#####
+        darkmode')\n            console.log(darkmode)\n            if (darkmode &&
+        darkmode == 1) {\n              document.documentElement.classList.toggle('dark-mode')\n
+        \           }\n\n        </script>\n<link href='https://fonts.googleapis.com/css?family=Roboto:900&subset=latin,greek'
+        rel='stylesheet' type='text/css'>\n<style>\n\t.myCustomClass {\n\t\tborder:
+        solid 2px #000;\n\t\tbackground-color: #FFF;\n\t\tmax-width: 300px; /* Change
+        this? */\n\t\tmin-width: 200px; /* ...and this! */\n\t}\n\t.ui-dialog {\n\t\tposition:
+        fixed;\n\t\tpadding: .2em;\n\t\twidth: 320px;\n\t\toverflow: hidden;\n\t}\n\t.myCustomClass_guru
+        {\n\t\tborder: solid 2px #000;\n\t\tbackground-color: #FFF;\n\t\tmax-width:
+        350px; /* Change this? */\n\t\tmin-width: 300px; /* ...and this! */     \n\t}\n</style>\n<style>\r\n
+        \       .newcontent {\r\n            font-family: Monserrat, 'Helvetica Neue',
+        Helvetica, Arial, sans-serif !important;\r\n        }\r\n\r\n        #newcontent
+        h1 {\r\n            font: 900 34px/40px 'Roboto', sans-serif;;\r\n            color:
+        #333 !important;\r\n            margin-top: 10px;\r\n            margin-bottom:
+        10px;\r\n        }\r\n\r\n        #newcontent h2 {\r\n            color: #666;\r\n
+        \           font: 400 18px/24px Monserrat, 'Helvetica Neue', Helvetica, Arial,
+        sans-serif;\r\n        }\r\n\r\n        #articlebody_new {\r\n            font:
+        400 14px/24px Monserrat, 'Helvetica Neue', Helvetica, Arial, sans-serif;\r\n
+        \       }\r\n\r\n        .author_avatar {\r\n            float: left;\r\n
+        \       }\r\n\r\n        .author_avatar_img {\r\n            width: 80px;\r\n
+        \       }\r\n\r\n        .author_name {\r\n            font-size: 14px;\r\n
+        \           font-weight: bold;\r\n            color: #333;\r\n        }\r\n\r\n
+        \       #author_area {\r\n            float: left;\r\n            margin-bottom:
+        10px;\r\n            padding-bottom: 10px;\r\n            border-bottom: 1px
+        solid #000;\r\n            width: 100%;\r\n        }\r\n\r\n        .header_inner_new
+        {\r\n            border-bottom: none !important;\r\n        }\r\n\r\n        .article_page_links
+        {\r\n            color: #333;\r\n        }\r\n\r\n        .hr_sec {\r\n            display:
+        block;\r\n            height: 1px;\r\n            border: 0;\r\n            border-top:
+        1px solid #ccc;\r\n            margin: 1em 0;\r\n            padding: 0;\r\n
+        \       }\r\n\r\n        .ui-dialog {\r\n            top: 40% !important;\r\n
+        \       }\r\n\r\n        .firstcharacter {\r\n            float: left;\r\n
+        \           color: #333;\r\n            font-size: 55px;\r\n            line-height:
+        40px;\r\n            padding-top: 4px;\r\n            padding-right: 8px;\r\n
+        \           padding-left: 3px;\r\n            font-family: Georgia;\r\n        }\r\n\r\n
+        \       #ap_container{\r\n            font-size: 0.8em;\r\n            width:
+        100%;\r\n            max-height:300px;\r\n            overflow: auto;\r\n
+        \       }\r\n\r\n        table.R10{\r\n            font-size: 9px;\r\n        }\r\n\r\n
+        \   </style>\n<link rel=\"stylesheet\" href=\"https://static.gurufocus.com/js/share/selection-sharer.css\"
+        />\n<META name=\"Description\" content=\"Weekly CFO Sells Highlight, Stocks:
+        TWTR,DATA,FB, release date:Dec 02, 2018\" /><title>Weekly CFO Sells Highlight
+        - GuruFocus.com</title></head><body>\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-K799DP4\"\nheight=\"0\"
+        width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n\n<div
+        id=\"header\">\n<div id=\"menu_container\">\n\n\n\n<div id=\"menu_container_inner\"
+        style=\"width: 1300px;min-width: 1200px !important;max-width: 1400px !important;\">\n<div
+        id=\"logo\" class=\"left\">\n<a href=\"/\">\n<img src=\"https://static.gurufocus.com/images/logo_small_new.png\"
+        id=\"logo_header\" />\n</a>\n</div>\n<ul id=\"menu\">\n<div id=\"dark\" class=\"right\"
+        style=\"margin-top: 8px;height: 30px;line-height: 30px;\">\n<label class=\"switch\">\n<input
+        type=\"checkbox\" onclick=\"darkMode()\">\n<span class=\"d-slider round\"></span>\n</label>\n</div>\n<li
+        class=\"drop \">\n<a href=\"/\" class=''>Home</a>\n<div class=\"dropdown_1column
+        \">\n<div class=\"col_1\">\n<ul class=\"simple\">\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/\"> Homepage</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/membership.php\">
+        Membership Levels</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/stock_list.php\">
+        Complete Stock List</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"https://www.gurufocus.com/conference/index.php\">
+        Value Conference</a>\n</li>\n<li style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/ads/books/\"> The Book</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/podcast\">
+        Podcast</a>\n</li>\n<li style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/news/281207\"> Membership Data Coverage</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/letter.php\"> Founder's Message</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"https://www.gurufocus.com/membership/upgrade.php?ref=menu\" class=\"menu_highlight\">
+        FREE Trial</a>\n</li>\n</ul>\n</div>\n</div>\n</li>\n<li class=\"drop \">\n<a
+        href=\"/screener/\" class=''>Screeners</a>\n<div class=\"dropdown_4columns
+        \" style='width: 900px'>\n<div class=\"col_1\" style=\"width: 270px\">\n<h3>GuruFocus
+        Screeners</h3>\n<ul class=\"simple\">\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/screener\">
+        <div style='color: red; font-weight: bold; word-break: none; width: 230px'>All-In-One
+        Screener</div></a>\n</li>\n<li style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=Ben Graham Lost Formula&id=70\"> <div style='word-break:
+        none; width: 280px'>Ben Graham Lost Formula <div style='display: inline-block;
+        background: rgba(103, 194, 58, 0.1) !important; color: rgb(103, 194, 58) !important;
+        font-weight: 700; padding: 1px 5px;'>1 New</div></div></a>\n </li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=Canadian Faster Growers&id=73\"> <div style='word-break:
+        none; width: 280px'>Canadian Faster Growers</div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=CEO Buys&id=74\"> <div style='word-break: none; width:
+        280px'>CEO Buys <div style='display: inline-block; background: rgba(103, 194,
+        58, 0.1) !important; color: rgb(103, 194, 58) !important; font-weight: 700;
+        padding: 1px 5px;'>2 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=CEO Buys after Price Drop > 20%&id=75\"> <div style='word-break:
+        none; width: 280px'>CEO Buys after Price Drop > 20% <div style='display: inline-block;
+        background: rgba(103, 194, 58, 0.1) !important; color: rgb(103, 194, 58) !important;
+        font-weight: 700; padding: 1px 5px;'>20 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=Dividend Growth Portfolio&id=77\"> <div style='word-break:
+        none; width: 280px'>Dividend Growth Portfolio</div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=Dividend Income Portfolio&id=78\"> <div style='word-break:
+        none; width: 280px'>Dividend Income Portfolio</div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=Fast Growers&id=79\"> <div style='word-break: none;
+        width: 280px'>Fast Growers</div></a>\n</li>\n<li style=\"line-height: 15px
+        !important;\n                                                    \">\n<a href=\"/screener?name=Hedge
+        Fund Guru Top 10 Aggregated&id=80\"> <div style='word-break: none; width:
+        280px'>Hedge Fund Guru Top 10 Aggregated <div style='display: inline-block;
+        background: rgba(103, 194, 58, 0.1) !important; color: rgb(103, 194, 58) !important;
+        font-weight: 700; padding: 1px 5px;'>16 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=High Quality&id=81\"> <div style='word-break: none;
+        width: 280px'>High Quality <div style='display: inline-block; background:
+        rgba(103, 194, 58, 0.1) !important; color: rgb(103, 194, 58) !important; font-weight:
+        700; padding: 1px 5px;'>1 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=High Quality Low Capex w ROE ROC min&id=84\"> <div style='word-break:
+        none; width: 280px'>High Quality Low Capex w ROE ROC min <div style='display:
+        inline-block; background: rgba(103, 194, 58, 0.1) !important; color: rgb(103,
+        194, 58) !important; font-weight: 700; padding: 1px 5px;'>1 New</div></div></a>\n</li>\n<li
+        style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=High Quality & Low Capex&id=87\"> <div style='word-break:
+        none; width: 280px'>High Quality & Low Capex</div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=High Yield Insider Buys&id=88\"> <div style='word-break:
+        none; width: 280px'>High Yield Insider Buys</div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=Historical High Dividend Yields&id=89\"> <div style='word-break:
+        none; width: 280px'>Historical High Dividend Yields</div></a>\n</li>\n<li
+        style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=International Gurus' Top Holdings&id=90\"> <div style='word-break:
+        none; width: 280px'>International Gurus' Top Holdings <div style='display:
+        inline-block; background: rgba(103, 194, 58, 0.1) !important; color: rgb(103,
+        194, 58) !important; font-weight: 700; padding: 1px 5px;'>1 New</div></div></a>\n</li>\n<li
+        style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=James Montier Short Screen&id=91\"> <div style='word-break:
+        none; width: 280px'>James Montier Short Screen <div style='display: inline-block;
+        background: rgba(103, 194, 58, 0.1) !important; color: rgb(103, 194, 58) !important;
+        font-weight: 700; padding: 1px 5px;'>3 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=Margin Decliners&id=92\"> <div style='word-break: none;
+        width: 280px'>Margin Decliners <div style='display: inline-block; background:
+        rgba(103, 194, 58, 0.1) !important; color: rgb(103, 194, 58) !important; font-weight:
+        700; padding: 1px 5px;'>20 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=Mega Caps&id=93\"> <div style='word-break: none; width:
+        280px'>Mega Caps <div style='display: inline-block; background: rgba(103,
+        194, 58, 0.1) !important; color: rgb(103, 194, 58) !important; font-weight:
+        700; padding: 1px 5px;'>15 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=Peter Lynch & Warren Buffett&id=94\"> <div style='word-break:
+        none; width: 280px'>Peter Lynch & Warren Buffett <div style='display: inline-block;
+        background: rgba(103, 194, 58, 0.1) !important; color: rgb(103, 194, 58) !important;
+        font-weight: 700; padding: 1px 5px;'>20 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=Peter Lynch Growth w Lower Valuation&id=95\"> <div style='word-break:
+        none; width: 280px'>Peter Lynch Growth w Lower Valuation <div style='display:
+        inline-block; background: rgba(103, 194, 58, 0.1) !important; color: rgb(103,
+        194, 58) !important; font-weight: 700; padding: 1px 5px;'>20 New</div></div></a>\n</li>\n<li
+        style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=Peter Lynch S&L Traded Below Book&id=96\"> <div style='word-break:
+        none; width: 280px'>Peter Lynch S&L Traded Below Book <div style='display:
+        inline-block; background: rgba(103, 194, 58, 0.1) !important; color: rgb(103,
+        194, 58) !important; font-weight: 700; padding: 1px 5px;'>20 New</div></div></a>\n</li>\n<li
+        style=\"line-height: 15px !important;\n                                                    \">\n
+        <a href=\"/screener?name=PFCF Screener&id=97\"> <div style='word-break: none;
+        width: 280px'>PFCF Screener <div style='display: inline-block; background:
+        rgba(103, 194, 58, 0.1) !important; color: rgb(103, 194, 58) !important; font-weight:
+        700; padding: 1px 5px;'>9 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=Piotroski Score Screener&id=98\"> <div style='word-break:
+        none; width: 280px'>Piotroski Score Screener <div style='display: inline-block;
+        background: rgba(103, 194, 58, 0.1) !important; color: rgb(103, 194, 58) !important;
+        font-weight: 700; padding: 1px 5px;'>20 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=Predictable Companies&id=99\"> <div style='word-break:
+        none; width: 280px'>Predictable Companies <div style='display: inline-block;
+        background: rgba(103, 194, 58, 0.1) !important; color: rgb(103, 194, 58) !important;
+        font-weight: 700; padding: 1px 5px;'>20 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=Profitable predictable margin expanders&id=100\"> <div
+        style='word-break: none; width: 280px'>Profitable predictable margin expanders
+        <div style='display: inline-block; background: rgba(103, 194, 58, 0.1) !important;
+        color: rgb(103, 194, 58) !important; font-weight: 700; padding: 1px 5px;'>18
+        New</div></div></a>\n</li>\n<li style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=Stocks Sold w less Cash&id=102\"> <div style='word-break:
+        none; width: 280px'>Stocks Sold w less Cash <div style='display: inline-block;
+        background: rgba(103, 194, 58, 0.1) !important; color: rgb(103, 194, 58) !important;
+        font-weight: 700; padding: 1px 5px;'>17 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=Good Companies&id=103\"> <div style='word-break: none;
+        width: 280px'>Good Companies <div style='display: inline-block; background:
+        rgba(103, 194, 58, 0.1) !important; color: rgb(103, 194, 58) !important; font-weight:
+        700; padding: 1px 5px;'>13 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=The Stalwarts&id=104\"> <div style='word-break: none;
+        width: 280px'>The Stalwarts <div style='display: inline-block; background:
+        rgba(103, 194, 58, 0.1) !important; color: rgb(103, 194, 58) !important; font-weight:
+        700; padding: 1px 5px;'>20 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=Walter Schloss's Screen&id=105\"> <div style='word-break:
+        none; width: 280px'>Walter Schloss's Screen <div style='display: inline-block;
+        background: rgba(103, 194, 58, 0.1) !important; color: rgb(103, 194, 58) !important;
+        font-weight: 700; padding: 1px 5px;'>20 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener?name=Full Stock List&id=42619\"> <div style='word-break:
+        none; width: 280px'>Full Stock List</div></a>\n</li>\n</ul>\n</div>\n<div
+        class=\"col_1\" style=\"width: 200px\">\n<h3>My Screeners</h3>\n<ul class=\"simple\">\n<li
+        style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/screener\"> Create My Screener</a>\n</li>\n</ul>\n</div>\n<div class=\"col_1\"
+        style=\"width: 230px\">\n<h3>Value Screens <img src=\"https://www.gurufocus.com/images/P_12.jpg\"
+        alt=\"Premium\"></h3>\n<ul class=\"simple\">\n<li style=\"line-height: 15px
+        !important;\n                                                    \">\n<a href=\"/screener/\">
+        <b>All-In-One Screener</b></a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/screener/buffett-munger\"
+        class=\"menu_highlight\"> Buffett-Munger Screener</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/industry_overview.php\"> Industry Overview</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/model_portfolio.php?mp=smallcap\"> Undervalued Predictable</a>\n</li>\n<li
+        style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/screener/grahamncav\"> <div style='word-break: none; width: 220px'>Ben
+        Graham Net-Net <div style='display: inline-block; background: rgba(103, 194,
+        58, 0.1) !important; color: rgb(103, 194, 58) !important; font-weight: 700;
+        padding: 1px 5px;'>1 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener/52weeklow\"> <div style='word-break: none; width: 220px'>52-Week/3Y/5Y
+        Lows <div style='display: inline-block; background: rgba(103, 194, 58, 0.1)
+        !important; color: rgb(103, 194, 58) !important; font-weight: 700; padding:
+        1px 5px;'>6 New</div></div></a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/screener/52weekhigh\">
+        <div style='word-break: none; width: 220px'>52-Week/3Y/5Y Highs <div style='display:
+        inline-block; background: rgba(103, 194, 58, 0.1) !important; color: rgb(103,
+        194, 58) !important; font-weight: 700; padding: 1px 5px;'>20 New</div></div></a>\n</li>\n<li
+        style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/screener/magic-formula\"> <div style='word-break: none; width: 220px'>Magic
+        Formula (Greenblatt) <div style='display: inline-block; background: rgba(103,
+        194, 58, 0.1) !important; color: rgb(103, 194, 58) !important; font-weight:
+        700; padding: 1px 5px;'>20 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener/dividend-stocks\"> <div style='word-break: none; width: 220px'>Dividend
+        Stocks <div style='display: inline-block; background: rgba(103, 194, 58, 0.1)
+        !important; color: rgb(103, 194, 58) !important; font-weight: 700; padding:
+        1px 5px;'>20 New</div></div></a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/screener/peter-lynch-stocks\">
+        Peter Lynch Screen</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/screener/guru-sp-grid\">
+        <div style='word-break: none; width: 220px'>S&P 500 Grid <div style='display:
+        inline-block; background: rgba(103, 194, 58, 0.1) !important; color: rgb(103,
+        194, 58) !important; font-weight: 700; padding: 1px 5px;'>20 New</div></div></a>\n</li>\n<li
+        style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/screener/predictable\"> Predictable Companies</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener/spinoff\"> <div style='word-break: none; width: 220px'>Spin
+        Off List <div style='display: inline-block; background: rgba(103, 194, 58,
+        0.1) !important; color: rgb(103, 194, 58) !important; font-weight: 700; padding:
+        1px 5px;'>20 New</div></div></a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/screener/lowpb\">
+        <div style='word-break: none; width: 220px'>Historical Low P/B List <div style='display:
+        inline-block; background: rgba(103, 194, 58, 0.1) !important; color: rgb(103,
+        194, 58) !important; font-weight: 700; padding: 1px 5px;'>14 New</div></div></a>\n</li>\n<li
+        style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/screener/lowps\"> <div style='word-break: none; width: 220px'>Historical
+        Low P/S List <div style='display: inline-block; background: rgba(103, 194,
+        58, 0.1) !important; color: rgb(103, 194, 58) !important; font-weight: 700;
+        padding: 1px 5px;'>20 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener/short-stocks\"> <div style='word-break: none; width: 220px'>High
+        Short Interest <div style='display: inline-block; background: rgba(103, 194,
+        58, 0.1) !important; color: rgb(103, 194, 58) !important; font-weight: 700;
+        padding: 1px 5px;'>5 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/screener/upcoming-special-dividends\"> <div style='word-break: none;
+        width: 220px'>Upcoming Special Dividends <div style='display: inline-block;
+        background: rgba(103, 194, 58, 0.1) !important; color: rgb(103, 194, 58) !important;
+        font-weight: 700; padding: 1px 5px;'>20 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<h3>\n<a
+        href=\"/model_portfolio.php\"> Model Portfolios</a>\n</h3>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/model_portfolio.php\"> Performances</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/model_portfolio.php?mp=midcap\"> Buffett-Munger</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/model_portfolio.php?mp=cap40\"> Low P/S</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/model_portfolio.php?mp=cap20\"> Low P/B</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/model_portfolio.php?mp=largecap\"> Broadest Owned</a>\n</li>\n<li
+        style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/model_portfolio.php?mp=hr_largecap\"> Most Weighted</a>\n</li>\n</ul>\n</div>\n<div
+        class=\"col_1\">\n<h3>Tools</h3>\n<ul class=\"simple\">\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/download_financials_batch.php\"> Download Financial Data</a>\n</li>\n<li
+        style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/excel_Add_in.php\"> <img src=\"https://static.gurufocus.com/images/icons/gray/jpg/XLS_16x16.jpg\"
+        alt=\"Excel Add-In\"> Excel Add-In GURUF</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/api.php\"> <img src=\"https://static.gurufocus.com/images/premium/P-Plus_12.jpg\"
+        alt=\"Premium Plus\"> API</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/download_stockmanual.php\">
+        Manual of Stocks&trade;</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/filingwiz\">
+        FilingWiz</a>\n</li>\n<li style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"https://static.gurufocus.com/download/FilingWiz_User_Manual_202003.pdf\">
+        FilingWiz User Manual</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/dcf/AAPL\">
+        DCF/Reverse DCF Calculator</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/gurutrac/down_to_excel.php\">
+        Download Guru Portfolios</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/InsiderBuy.php?position=excel\">
+        Download Insider Data</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/app.php\">
+        Mobile App</a>\n</li>\n</ul>\n</div>\n</div>\n</li>\n<li class=\"drop \">\n<a
+        href=\"/guru/latest-picks\" class=''>Gurus</a>\n<div class=\"dropdown_2columns
+        \">\n<div class=\"col_1\">\n<ul class=\"simple\">\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/guru/latest-picks\"> Latest Guru Picks</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/guru/list\"> List of Gurus (Personalize)</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/guru/realtime-picks\"> Real Time Picks</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/guru/top-holdings\"> Top 10 Holdings View</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/guru/bargains\"> Guru Bargains</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/guru/hot-picks\"> Hot Picks</a>\n</li>\n<li style=\"line-height: 15px
+        !important;\n                                                    \">\n<a href=\"/guru/aggregated-portfolio\">
+        Aggregated Portfolio</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/guru/consensus-picks\">
+        Consensus Picks</a>\n</li>\n<li style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/guru/etfs\"> ETFs</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/guru/scoreboard\">
+        Scoreboard</a>\n</li>\n<li style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/guru/sector-picks\"> Sector Picks</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/guru/international-picks\"> International Picks</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/guru/industry-trends\"> Industry Trends</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/guru/geographic-trends\"> Geographic Trend</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/guru/option-holdings\"> Options</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/guru/european-shortings\"> European Shorting</a>\n</li>\n</ul>\n</div>\n<div
+        class=\"col_1\">\n<ul class=\"simple\">\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/guru/warren+buffett/stock-picks\">
+        <div style='word-break: none;'>Warren Buffett <div style='display: inline-block;
+        background: rgba(103, 194, 58, 0.1) !important; color: rgb(103, 194, 58) !important;
+        font-weight: 700; padding: 1px 5px;'>6 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/guru/bill+gates/stock-picks\"> <div style='word-break: none;'>Bill
+        Gates <div style='display: inline-block; background: rgba(103, 194, 58, 0.1)
+        !important; color: rgb(103, 194, 58) !important; font-weight: 700; padding:
+        1px 5px;'>2 New</div></div></a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/guru/mohnish+pabrai/stock-picks\">
+        Mohnish Pabrai</a>\n</li>\n<li style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/guru/carl+icahn/stock-picks\"> Carl Icahn</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/guru/george+soros/stock-picks\"> <div style='word-break: none;'>George
+        Soros <div style='display: inline-block; background: rgba(103, 194, 58, 0.1)
+        !important; color: rgb(103, 194, 58) !important; font-weight: 700; padding:
+        1px 5px;'>32 New</div></div></a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/guru/david+tepper/stock-picks\">
+        <div style='word-break: none;'>David Tepper <div style='display: inline-block;
+        background: rgba(103, 194, 58, 0.1) !important; color: rgb(103, 194, 58) !important;
+        font-weight: 700; padding: 1px 5px;'>1 New</div></div></a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/guru/seth+klarman/stock-picks\"> <div style='word-break: none;'>Seth
+        Klarman <div style='display: inline-block; background: rgba(103, 194, 58,
+        0.1) !important; color: rgb(103, 194, 58) !important; font-weight: 700; padding:
+        1px 5px;'>10 New</div></div></a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/guru/bill+ackman/stock-picks\">
+        Bill Ackman</a>\n</li>\n<li style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/guru/joel+greenblatt/stock-picks\"> <div style='word-break: none;'>Joel
+        Greenblatt <div style='display: inline-block; background: rgba(103, 194, 58,
+        0.1) !important; color: rgb(103, 194, 58) !important; font-weight: 700; padding:
+        1px 5px;'>139 New</div></div></a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/guru/charlie+munger/stock-picks\">
+        Charlie Munger</a>\n</li>\n</ul>\n</div>\n</div>\n</li>\n<li class=\"drop
+        \">\n<a href=\"/insider/summary\" class=''>Insiders</a>\n<div class=\"dropdown_1column
+        \">\n<div class=\"col_1\">\n<ul class=\"simple\">\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/insider/summary\"> All Insiders</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/insider/ceo\"> CEO Buys/Sales</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/insider/trend\"> Insider Trends</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/insider/cluster\"> Insider Cluster</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/insider/cfo\"> CFO Buys/Sales</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/insider/double\"> Guru+Insider Double Buys</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/insider/triple\"> Triple Buys/Sales</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/insider/canadian\"> Canadian Insider</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/insider/dutch\"> Dutch Insider</a>\n</li>\n</ul>\n</div>\n</div>\n</li>\n<li
+        class=\"drop \">\n<a href=\"/stock-market-valuations.php\" class=''>Market</a>\n<div
+        class=\"dropdown_3columns \" style='width: 570px'>\n<div class=\"col_1\">\n<h3>Market
+        Valuation</h3>\n<ul class=\"simple\">\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/stock-market-valuations.php\">
+        Buffett Indicator</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/industry_overview.php\">
+        Industry Overview</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/yield_curve.php\">
+        U.S. Treasury Yield Curve</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/shiller-PE.php\">
+        Shiller P/E</a>\n</li>\n<li style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/global-market-valuation.php\"> Global Market Valuation</a>\n</li>\n<li
+        style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/economic_indicators/58/sp-500-earnings\"> Economic Data</a>\n</li>\n<li
+        style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/sector_shiller_pe.php\"> Shiller P/E By Sectors</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/buffett_assets_allocations.php\"> Buffett Assets Allocation</a>\n</li>\n</ul>\n</div>\n<div
+        class=\"col_1\" style=\"width: 220px\">\n<h3>Economic Indicators</h3>\n<ul
+        class=\"simple\">\n<li style=\"line-height: 15px !important;\n                                                                                                            width:
+        220px;\n                                                    \">\n<a href=\"/economic_indicators/229/the-dow-jones-industrial-average-djia\">
+        The Dow Jones Industrial Average (DJIA)</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                                                                            width:
+        220px;\n                                                    \">\n<a href=\"/economic_indicators/63/sp-500-index\">
+        SP 500 Index</a>\n</li>\n<li style=\"line-height: 15px !important;\n                                                                                                            width:
+        220px;\n                                                    \">\n<a href=\"/economic_indicators/232/nasdaq-composite-index\">
+        Nasdaq Composite Index</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                                                                           width:
+        220px;\n                                                    \">\n<a href=\"/economic_indicators/20/gross-domestic-product-gdp\">
+        Gross Domestic Product (GDP)</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                                                                           width:
+        220px;\n                                                    \">\n<a href=\"/economic_indicators/56/shiller-pe\">
+        Shiller PE</a>\n</li>\n<li style=\"line-height: 15px !important;\n                                                                                                            width:
+        220px;\n                                                    \">\n<a href=\"/economic_indicators/60/ratio-of-wilshire-5000-over-gnp\">
+        Ratio of Wilshire 5000 over GNP</a>\n</li>\n<li style=\"line-height: 15px
+        !important;\n                                                                                                            width:
+        220px;\n                                                    \">\n<a href=\"/economic_indicators/10/civilian-unemployment-rate\">
+        Civilian Unemployment Rate</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                                                                           width:
+        220px;\n                                                    \">\n<a href=\"/economic_indicators/231/russell-2000-small-cap-price-index\">
+        Russell 2000 Small Cap Price Index</a>\n</li>\n<li style=\"line-height: 15px
+        !important;\n                                                                                                            width:
+        220px;\n                                                    \">\n<a href=\"/economic_indicators/234/cboe-volatility-index-the-vix\">
+        CBOE Volatility Index (VIX)</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                                                                           width:
+        220px;\n                                                    \">\n<a href=\"/economic_indicators/14/total-nonfarm-payrolls-all-employees\">
+        Total Nonfarm Payrolls: All Employees</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                                                                            width:
+        220px;\n                                                    \">\n<a href=\"/economic_indicators/58/sp-500-earnings\">
+        More...</a>\n</li>\n</ul>\n</div>\n<div class=\"col_1\">\n<h3>By Country</h3>\n<ul
+        class=\"simple\">\n<li style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/stock-market-valuations.php\"> USA</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/global-market-valuation.php?country=IND\"> India</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/global-market-valuation.php?country=CHN\"> China</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/global-market-valuation.php\"> More...</a>\n</li>\n</ul>\n</div>\n</div>\n</li>\n<li
+        class=\"drop  menu_select\">\n<a href=\"/news.php?cat=column\" class='' style='color:
+        #161616;'>Articles</a>\n<div class=\"dropdown_2columns \">\n<div class=\"col_1\">\n<h3>Articles</h3>\n<ul
+        class=\"simple\">\n<li style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/news.php?cat=timeless\"> Editor's Picks</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/news.php?cat=rank\"> Top Ranked</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/news.php?cat=value\"> Value Ideas</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/news.php?cat=contest\"> Value Idea Contest</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/news.php?cat=20\"> GuruFocus Research</a>\n</li>\n</ul>\n</div>\n<div
+        class=\"col_1\">\n<h3>Submit Articles</h3>\n<ul class=\"simple\">\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/ic/space.php?do=article&view=me\"> My Articles</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/forum/post.php?4\" class=\"menu_highlight\"> Submit Articles Online</a>\n</li>\n<li
+        style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/news/70028\"> Writers Wanted</a>\n</li>\n</ul>\n</div>\n</div>\n</li>\n<li
+        class=\"drop menu_right\">\n<a href=\"/tutorials.php\" class=''>Tutorials</a>\n<div
+        class=\"dropdown_1column align_right\">\n<div class=\"col_1\">\n<ul class=\"simple\">\n<li
+        style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/tutorials.php\"> Tutorials & Webinars</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/faq.php\"> FAQ</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/changelog\">
+        Change Log</a>\n</li>\n<li style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/ticket/open.php\"> Contact Us</a>\n</li>\n</ul>\n</div>\n</div>\n</li>\n<li
+        class=\"drop menu_right\">\n<a href=\"\" class=''>Support</a>\n<div class=\"dropdown_1column
+        align_right\">\n<div class=\"col_1\">\n<ul class=\"simple\">\n  <li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"#\" onclick=\"openSupport()\">Chat Support</a> <li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/ticket/open.php\"> Create a ticket</a>\n</li>\n</ul>\n</div>\n</div>\n</li>\n<li
+        class=\"drop menu_right\">\n<a href=\"/forum/login.php?0\" class=''>Log In</a>\n<div
+        class=\"dropdown_1column align_right\">\n<div class=\"col_1\">\n<ul class=\"simple\">\n<li
+        style=\"line-height: 15px !important;\n                                                    \">\n<a
+        href=\"/forum/register.php\"> Free Sign-up</a>\n</li>\n<li style=\"line-height:
+        15px !important;\n                                                    \">\n<a
+        href=\"/forum/login.php?0\"> Log In</a>\n</li>\n<li style=\"line-height: 15px
+        !important;\n                                                    \">\n<a href=\"https://www.gurufocus.com/membership/upgrade.php?ref=menu\"
+        class=\"menu_highlight\"> 7-Day Free Trial <img src=\"https://www.gurufocus.com/images/P_12.jpg\"
+        alt=\"Premium\"></a>\n</li>\n</ul>\n</div>\n</div>\n</li>\n<li class=\"drop
+        menu_right\">\n<a href=\"https://www.gurufocus.com/membership/upgrade.php?ref=direct_signup\"
+        class=''>Subscribe</a>\n<div class=\"dropdown_1column align_right\">\n<div
+        class=\"col_1\">\n<ul class=\"simple\">\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"https://www.gurufocus.com/membership/upgrade.php?ref=direct_signup\">
+        Free Trial ($449/Year)</a>\n</li>\n<li style=\"line-height: 15px !important;\n
+        \                                                   \">\n<a href=\"/user_referrals.php\">
+        Refer a Friend & Earn $50</a>\n</li>\n</ul>\n</div>\n</div>\n</li>\n</ul>\n</div>\n</div>\n<div
+        id=\"searchbar\">\n<div id=\"searchbarInner\" style=\"vertical-align:middle;\">\n<form
+        style=\"float:left;margin-top:0px;margin-bottom: 0px;\" action=\"/menu_search.php\"
+        id=\"searchform\">\n<div class=\"search\">\n<div class=\"left\" id=\"search_type_box\">\n<select
+        id=\"search_type_header\">\n<option value=\"Search\">Search</option>\n<option
+        value=\"Compare\">Compare</option>\n</select>\n<label id=\"search_type_label\">Search
+        \u25BE</label>\n</div>\n<input type=\"text\" id=\"search_header\" onfocus=\"if
+        (this.value == 'Enter Ticker, Guru, Company, etc.') {\n                                this.value
+        = '';\n                            }\" onblur=\"if (this.value == '') {\n
+        \                                       this.value = 'Enter Ticker, Guru,
+        Company, etc.'\n                                    }\" value=\"Enter Ticker,
+        Guru, Company, etc.\" onKeyPress=\"return checkSubmit(event)\" class=\"box\"
+        name=\"keyword\" />\n<input type=\"text\" id=\"compare_header\" onfocus=\"if
+        (this.value == 'Enter Symbols (e.g. WMT, TGT, COST)') {\n                                this.value
+        = '';\n                            }\" onblur=\"if (this.value == '') {\n
+        \                                       this.value = 'Enter Symbols (e.g.
+        WMT, TGT, COST)'\n                                    }\" value=\"Enter Symbols
+        (e.g. WMT, TGT, COST)\" class=\"box\" name=\"compare\" style=\"display: none;\"
+        />\n<input type=\"hidden\" name=\"symbol1\" id=\"company_hidden\" />\n<input
+        type=\"hidden\" name=\"stype\" id=\"stype_hidden\" value=\"search\" />\n<input
+        type=\"hidden\" name=\"searchKeyWords\" id=\"searchKeyWords_hidden\" />\n<input
+        id=\"search_submit\" type=\"submit\" value=\"Go\" class=\"btn\" style=\"margin-left:
+        -1px;height:24px;\" />\n</div>\n</form>\n<div style=\"margin-top:-5px;\" id=\"my_nav\"
+        class=\"right \">\n<div class=\"control_links right\" style=\"margin-left:
+        10px;\">\n<a href=\"https://www.gurufocus.com/membership/new/index.html#/?ref=stock-name-summary&sel=premium&utm_source=webApp&utm_medium=userClick&utm_campaign=old_website_topMenuButton\"
+        class=\"bs_btn bs_btn-warning\" id=\"topMenuSubButton\" style=\"color:white;font-size:
+        14px;\">Get 7-Day Free Trial</a>\n</div>\n<ul>\n<li class=\"control_links\">\n<a
+        href=\"/ic/space.php?do=portfolio&view=me\"><img src=\"https://static.gurufocus.com/images/icons/gray/png/notepad_icon&16.png\"
+        alt=\"My Portfolio\" />My Portfolios</a>\u25BE\n<ul class=\"my_nav_sub\">\n<li
+        class=\"control_links\"><a href=\"/ic/space.php?do=portfolio&view=me\"><img
+        src=\"https://static.gurufocus.com/images/icons/gray/png/notepad_icon&16.png\"
+        alt=\"My Portfolio\" />Portfolios Overview</a></li>\n<li class=\"control_links\"><a
+        href=\"/ic/space.php?do=portfolio&create=new\"><img src=\"https://static.gurufocus.com/images/icons/gray/png/sq_plus_icon&16.png\"
+        alt=\"Create New Portfolio\" />Create New Portfolio</a></li>\n<li class=\"control_links\"><a
+        href=\"/portfolio_contest.php\"><img src=\"https://www.gurufocus.com/ic/image/icon/5.gif\"
+        alt=\"Portfolio Contest\" />Portfolio Contest</a></li>\n</ul>\n</li>\n<li
+        class=\"control_links\"><a id=\"btn_header_selectguru\" href=\"javascript:;\"
+        onclick=\"h_guru_browse()\"><img src=\"https://static.gurufocus.com/images/icons/gray/png/user_icon&16.png\"
+        alt=\"Gurus\" />My Gurus</a>\u25BE\n<ul class=\"my_nav_sub\">\n<li class=\"control_links\"><a
+        href=\"javascript:;\" onclick=\"h_guru_browse()\"><img src=\"https://static.gurufocus.com/images/icons/gray/png/user_icon&16.png\"
+        alt=\"Gurus\" />Quick Browse</a></li>\n<li class=\"control_links\"><a href=\"/membership/upgrade.php?ref=myguru\"
+        title=\"Personalize My Guru List\"><img src=\"https://static.gurufocus.com/images/icons/gray/png/cog_icon&amp;16.png\"
+        alt=\"Personalize\">Personalize</a></li>\n<hr>\n<li class=\"control_links\"><a
+        href=\"/ListGuru.php\"><img src=\"https://static.gurufocus.com/images/icons/gray/png/folder_icon&16.png\"
+        alt=\"Gurus\" />My Gurus</a></li>\n<hr>\n<li class=\"control_links\"><a href=\"/ListGuru.php?group=all\"><img
+        src=\"https://static.gurufocus.com/images/icons/gray/png/folder_icon&16.png\"
+        alt=\"Gurus\" />Premium Gurus <img src=\"https://static.gurufocus.com/images/P_12.jpg\"
+        alt=\"Premium Gurus\"></a></li>\n<li class=\"control_links\"><a href=\"/ListGuru.php?group=plus\"><img
+        src=\"https://static.gurufocus.com/images/icons/gray/png/folder_icon&16.png\"
+        alt=\"Gurus\" />Premium Plus Investors <img src=\"https://static.gurufocus.com/images/premium/P-Plus_12.jpg\"
+        alt=\"Premium Plus Investors\"></a></li>\n</ul>\n</li>\n</ul>\n</div>\n<div
+        id=\"header_popup_dialog\" class=\"dialog_div\" style=\"display: none;\">\n<div
+        id=\"header_popup_content\" style=\"font-size: 12px;\">\n<div style=\"text-align:
+        center; margin-top: 50px;\">\n<img src=\"https://static.gurufocus.com/images/horizontal_loading.gif\"
+        alt=\"Loading...\">\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div>\n\n<script>\n
+        \ function resizeIframe(obj) {\n\n    obj.style.height = obj.contentWindow.document.body.scrollHeight
+        + 'px';\n    console.log(obj.style.height);\n  }\n</script>\n<script>\njQuery(
+        \"#m_menu_accordion\" ).accordion({\n  active: 999,\n  collapsible: true,\n
+        \ heightStyle: \"content\",\n  activate: function( event, ui ) {\n      if(jQuery(body).scrollTop()>jQuery(ui.newHeader).offset().top){\n
+        \       jQuery(body).scrollTop(jQuery(ui.newHeader).offset().top);\n    }\n
+        \ }\n});\njQuery(\"#m_menu_link, #m_close_menu\").click(function(){\n    jQuery(
+        \"#m_menu_accordion\" ).slideToggle();\n});\n\n$(\"#nav_button, #navigator\").click(function()
+        {\n        $(\"#navigator\").is(\":visible\")?$(\"#navigator\").hide():$(\"#navigator\").show();\n});\n\n</script>\n<script>\n
+        \   let support = null \n    function openSupport() {\n        let init =
+        0\n        if (!support) {\n            const sh = document.createElement('script')\n
+        \           sh['type'] = 'text/javascript'\n            sh['async'] = true\n
+        \           sh['data-cfasync'] = false\n            sh['src'] = 'https://www.gurufocus.com/phplive/js/phplive_v2.js.php?v=0%7C1570480208%7C0%7C&r='
+        + encodeURIComponent(window.location.href)\n\n            const head = document.getElementsByTagName('head')[0]\n
+        \           if (head) {\n                head.appendChild(sh)\n            }\n\n
+        \           support = sh\n\n            if (0&& window) {\n                window.phplive_v
+        = {\n                    name: '',\n                    id: '' ,\n                    status:
+        0 ,\n                    email: ''\n                }\n            }\n            init
+        = 1\n        }   \n        if (init === 1) {\n            setTimeout(() =>
+        {\n                lauchChat()\n            }, 500)\n        } else {\n            lauchChat()\n
+        \       }\n    }\n    function lauchChat () {\n        if (window && window.phplive_launch_chat_0)
+        {\n            window.phplive_launch_chat_0()\n        }\n    }\n</script><div
+        class=\"newcontent\" style=\"background-color: #EEE; \">\n<div id=\"topnews\"
+        style=\"text-align:center\"><script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n\n<ins
+        class=\"adsbygoogle\" style=\"display:inline-block;width:728px;height:90px\"
+        data-ad-client=\"ca-pub-4020868656364652\" data-ad-slot=\"6219170923\"></ins>\n<script>\n(adsbygoogle
+        = window.adsbygoogle || []).push({});\n</script>\n</div></div>\n<div class=\"newcontent\"
+        id=\"newcontent\">\n<div id='author_area'><div style=\"width:400px;border:
+        0;margin-top:2px;margin-left:10px;margin-bottom:0px;padding:4px; float:right\"><ol>\n<li>
+        <a target=\"_blank\" href=\"/tutorials.php\">How to use GuruFocus - Tutorials</a></li>\n<li>
+        <a href=\"/membership.php\">What Is in the GuruFocus Premium Membership?</a></li>\n<li
+        style=\"margin-left:0px;\"><a href=\"/Invest_guide_guru.php\">A DIY Guide
+        on How to Invest Using Guru Strategies</a>\n</li>\n</ol></div> <a class=\"author_avatar\"
+        href=\"/ic/space.php?do=article&uid=183460&author=Myra+Ramdenbourg\"><img
+        src=\"https://static.gurufocus.com/images/seal_contributor.png\" class=\"author_avatar_img
+        stock_avatar\" alt=\"Myra Ramdenbourg\"></a><div style=\"float:left;margin-left:20px;position:relative;\"><div><a
+        class=\"author_name\" href=\"/ic/space.php?do=article&uid=183460&author=Myra+Ramdenbourg\">Myra
+        Ramdenbourg</a></div><div style=\"margin-top:10px;height:31px;\"><a href=\"/ic/space.php?do=article&uid=183460&author=Myra+Ramdenbourg\">Articles
+        (389)</a>&nbsp;</div><div style=\"margin-top:0px;height:31px;margin-top:6px;\"><div
+        class=\"social_network_button control_links\" style=\"position: relative;
+        top: -5px;\">\n<a href=\"#\" onclick=\"javascript:;\" id=\"fake_link_add_bookmark\"><img
+        alt=\"Bookmark\" src=\"https://static.gurufocus.com/images/icons/gray/png/bookmark_2_icon&16.png\">Bookmark</a></div>\n<div
+        class=\"social_network_button control_links\" style=\"position: relative;
+        top: -5px;\">\n<a href=\"#\" id=\"print_article\"><img alt=\"Print\" src=\"https://static.gurufocus.com/images/icons/gray/png/print_icon&16.png\">Print</a>\n</div>\n<div
+        class=\"social_network_button\" style=\"width: 80px;\">\n<a href=\"https://twitter.com/share\"
+        class=\"twitter-share-button\">Tweet</a>\n<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,
+        'script', 'twitter-wjs');</script>\n</div>\n<div class=\"social_network_button\"
+        style=\"position: relative; width: 80px;\">\n<div class=\"fb-like\" data-send=\"false\"
+        data-layout=\"button_count\" data-width=\"30\" data-show-faces=\"true\"></div>\n</div>\n<div
+        class=\"social_network_button\" style=\"position: relative;\">\n<script type=\"IN/Share\"
+        data-counter=\"right\"></script>\n</div>\n<div class=\"social_network_button\"
+        style=\"width: 65px;\">\n<div class=\"g-plusone\" data-size=\"medium\"></div>\n</div>\n<div
+        class=\"hidden\">\n<div id=\"dialog-bookmark\" title=\"Add Bookmark\">\n<form
+        id=\"form-bookmark\" action=\"/modules/uch/bookmark.php?act=add\" method=\"post\">\n<ul>\n<li><label
+        for=\"sn_bm_title\">Bookmark Name:</label>\n<input type=\"text\" id=\"sn_bm_title\"
+        name=\"title\" class=\"text ui-widget-content ui-corner-all\" size=\"40\"
+        /></li>\n<li style=\"display: none;\">\n<input type=\"text\" id=\"sn_bm_url\"
+        name=\"url\" class=\"text ui-widget-content ui-corner-all\" size=\"40\" /></li>\n</ul>\n</form>\n</div>\n<div
+        id=\"dialog-message1\" title=\"Bookmark\">\n<p>\n<img src=\"https://static.gurufocus.com/images/icons/gray/png/checkmark_icon&16.png\">\nThis
+        page was added to your <a href=\"/ic/space.php?do=bookmark\">Bookmark</a>.\n</p>\n</div>\n<div
+        id=\"dialog-message2\" title=\"Members Only\">\n<div class=\"warning\">\n<p>Members
+        Only. Please <a href=\"/forum/register.php?0\">Sign Up</a> or <a href=\"/forum/login.php?0\">Log
+        In</a> first.</p>\n</div>\n</div>\n<div id=\"dialog-message3\" title=\"Bookmark\">\n<p>\nBookmark
+        of this page has been deleted.\n</p>\n</div>\n</div>\n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/printThis/1.12.2/printThis.min.js\"></script>\n<script>\n$(function(){\n\n
+        \   $( \"#dialog-message1, #dialog-message2, #dialog-message3\" ).dialog({\n
+        \           modal: true,\n            autoOpen: false,\n            width:
+        420,\n            height: 180,\n            buttons: {\n                    Ok:
+        function() {\n                            $( this ).dialog( \"close\" );\n
+        \                   }\n            }\n    });\n\n\n    $( \"#dialog-bookmark\"
+        ).dialog({\n            autoOpen: false,\n            height: 160,\n            width:
+        420,\n            resizable: false,\n            modal: true,\n            buttons:
+        {\n                    \"Save Bookmark\": function() {\n                            $(\"#form-bookmark\").ajaxSubmit({\n
+        \                                   success: function(){\n                                            $(
+        \"#dialog-bookmark\" ).dialog( \"close\" );\n                                            $(
+        \"#dialog-message1\" ).dialog( \"open\" );\n                                            $('#bookmark_done').show();\n
+        \                                           $('#link_add_bookmark').hide();\n
+        \                                   }\n                            });\n                    }\n
+        \           }\n    });\n\n    $(\"#link_add_bookmark\").click(function(){\n
+        \           $('#dialog-bookmark').dialog('open');\n            $('#sn_bm_title').val(document.title);\n
+        \           $('#sn_bm_url').val(location.href);\n\n            return false;\n
+        \   });\n\n\n    $('#fake_link_add_bookmark').click(function(){\n            $(
+        \"#dialog-message2\" ).dialog( \"open\" );\n            return false;\n    });\n
+        \   $('#bookmark_done').click(function(){\n            delete_bookmark();\n
+        \           return false;\n    });\n\n    $(\"#print_article\").click(function(){\n\t$('.newcontent').printThis();\n
+        \   });\n\n});\n\nfunction add_bookmark(){\n\tvar title = document.title;\n\tvar
+        url = location.href.replace('#/g', '');\n\n\t$.post('/modules/uch/bookmark.php?act=add',
+        {'title':title,'url':url}, function(){\n\t\t$( \"#dialog-message1\" ).dialog(
+        \"open\" );\n\t\t$('#bookmark_done').show();\n\t\t$('#link_add_bookmark').hide();\n\t});\n}\nfunction
+        delete_bookmark(){\n\tvar url = location.href.replace('#/g', '');\n\n\t$.post('/modules/uch/bookmark.php?act=delete',
+        {'url':url}, function(){\n\t\t$( \"#dialog-message3\" ).dialog( \"open\" );\n\t\t$('#bookmark_done').hide();\n\t\t$('#link_add_bookmark').show();\n\t});\n}\n\n</script>\n</div></div></div><h1
+        style=\"clear:both;\">Weekly CFO Sells Highlight</h1><h2>Recent sells from
+        company CFOs</h2><div class=\"news_article left\" id=\"content1\" style=\"width:
+        630px;\"><div id=\"article\"><div class=\"header_new\"><div class=\"header_inner_new\"><span
+        class=\"date\">December 02, 2018</span> | <span class=\"date\"> About: </span>\n<a
+        class='post-tag stocks_tp' target=\"_blank\" href=\"/stock/TWTR\">TWTR <span
+        class='tkg'> +0.62%</span></a>\n<a class='post-tag stocks_tp' target=\"_blank\"
+        href=\"/stock/DATA\">DATA <span class='tkg'> +0%</span></a>\n<a class='post-tag
+        stocks_tp' target=\"_blank\" href=\"/stock/FB\">FB <span class='tkr'>-0.91%</span></a></div><div
+        class=\"control_links hide_for_print\">\n</div></div>\n<div id=\"container_new\"
+        style=\"margin-top:10px;\">\n<div id=\"articlebody_new\"><!DOCTYPE html PUBLIC
+        \"-//W3C//DTD HTML 4.0 Transitional//EN\" \"http://www.w3.org/TR/REC-html40/loose.dtd\">\n<html><body><p>According
+        to GuruFocus Insider Data, the recent CFO sells were: Twitter Inc. (<a class=\"stocks_tp\"
+        target=\"_blank\" title=\"\" href=\"/stock/TWTR\">NYSE:TWTR</a>), Tableau
+        Software Inc. (<a class=\"stocks_tp\" target=\"_blank\" title=\"\" href=\"/stock/DATA\">NYSE:DATA</a>)
+        and Facebook Inc. (<a class=\"stocks_tp\" target=\"_blank\" title=\"\" href=\"/stock/FB\">NASDAQ:FB</a>).</p>\n<p><strong>Twitter
+        Inc. (<a class=\"stocks_tp\" target=\"_blank\" title=\"\" href=\"/stock/TWTR\">NYSE:TWTR</a>):
+        CFO Ned D. Segal sold 6,000 shares</strong></p>\n<p>CFO Ned D. Segal sold
+        6,000 shares for $32.16 per share on Nov. 13. Since then, the stock price
+        has decreased by 2.21%. Twitter Inc. has a market cap of $23.94 billion and
+        its shares were traded around $31.45. The company has a P/E ratio of 23.30
+        and P/S ratio of 8.38.</p>\n<p class=\"center\" style=\"display: block !important\"><img
+        src=\"https://static.gurufocus.com/photos/companies/iStock_twitter_2014_07_30.jpg\"
+        class=\"newsimg\" /></p><p>Twitter announced its third-quarter results with
+        revenue of $758.11 million and gross profit of $514.47 million, while the
+        net income was $789.18 million. The 2017 total revenue was $2.44 billion,
+        a 3% decrease from 2016. The 2017 gross profit was $1.58 billion, a 4% decrease
+        from the year prior. The 2017 net loss was $108.06 million.</p>\n<ul style=\"width:50%;float:left;margin-right:20px;\"><li><a
+        href='http://www.gurufocus.com/financials/TWTR' style='color:red !important;'
+        target=\"_blank\">Warning! GuruFocus has detected 6 Warning Signs with TWTR.
+        Click here to check it out. </a></li>\n<li><a href=\"http://www.gurufocus.com/financials/TWTR\"
+        target=\"_blank\">TWTR 30-Year Financial Data</a></li><li><a href=\"/analysis/TWTR&subtab=val\"
+        target=\"_blank\">The intrinsic value of TWTR</a></li><li><a href=\"http://www.gurufocus.com/chart/TWTR#&serie=,,id:price,s:TWTR,,id:custompe,s:TWTR&log=0&per=0\"
+        target=\"_blank\">Peter Lynch Chart of TWTR</a></li></ul><p>Director Evan
+        Clark Williams sold 3,076,923 shares for $31.59 per share on Nov. 30. Since
+        then, the stock price has decreased by 0.44%. VP, Engineering Michael Montano
+        sold 1,250 shares for $30.2 per share on Nov. 20. Since then, the stock price
+        has increased by 4.14%. Chief Accounting Officer Robert Kaiden sold 3,702
+        shares for $34.37 per share on Nov. 06. Since then, the stock price has decreased
+        by 8.5%.</p>\n<p><strong>Tableau Software Inc. (<a class=\"stocks_tp\" target=\"_blank\"
+        title=\"\" href=\"/stock/DATA\">NYSE:DATA</a>): CFO Damon A Fletcher sold
+        2,019 shares</strong></p>\n<p>CFO Damon A. Fletcher ssold 2,019 shares for
+        $103.92 per share on Nov. 20. Since then, the stock price has increased by
+        19.94%. Tableau Software Inc. has a market cap of $10.42 billion and its shares
+        were traded around $124.64. The company has a P/S ratio of 9.52.</p>\n<p>Tableau
+        Software announced its third-quarter results with revenue of $290.58 million
+        and gross profit of $255.80 million, while the net loss was $21.38 million.
+        The 2017 total revenue was $877.06 million, a 6% increase from 2016. The 2017
+        gross profit was $763.50 million, a 5% increase from the year prior. The 2017
+        net loss was $185.56 million.</p>\n<p>President and CEO Adam Selipsky sold
+        21,300 shares for $121.23 per share on Nov. 29. Since then, the stock price
+        has increased by 2.81%. Director A Brooke Seawell sold 649 shares for $118.54
+        per share on Nov. 28. Since then, the stock price has increased by 5.15%.
+        Director William Bosworth sold 324 shares for $111.32 per share on Nov. 26.
+        Since then, the stock price has increased by 11.97%. Co-Founder and Technical
+        Advisor Chris Stolte sold 95,000 shares for $110.96 per share on Nov. 26.
+        Since then, the stock price has increased by 12.33%.</p>\n<p><strong>Facebook
+        Inc. (<a class=\"stocks_tp\" target=\"_blank\" title=\"\" href=\"/stock/FB\">NASDAQ:FB</a>):
+        CFO David M. Wehner sold 4,761 shares</strong></p>\n<p>CFO David M. Wehner
+        sold 4,761 shares for $141.1 per share on Nov. 16. Since then, the stock price
+        has decreased by 0.35%. Facebook Inc. has a market cap of $404.08 billion
+        and its shares were traded around $140.61. The company has a P/E ratio of
+        21.21 and P/S ratio of 7.96. Over the past 5 years, Facebook Inc. had an annual
+        average earnings growth of 63.50%.</p>\n<p>Facebook announced its third-quarter
+        results with revenue of $13.73 billion and gross profit of $11.31 billion,
+        while the net income was $5.14 billion. The 2017 total revenue was $40.65
+        billion, a 47% increase from 2016. The 2017 gross profit was $35.20 billion,
+        a 48% increase from the year prior. The 2017 net income was $15.93 billion.</p>\n<p>Chief
+        Accounting Officer Susan J.S. Taylor sold 2,268 shares for $135.81 per share
+        on Nov. 27. Since then, the stock price has increased by 3.53%. COO Sheryl
+        Sandberg sold 55,000 shares for $135.12 per share on Nov. 27. Since then,
+        the stock price has increased by 4.06%. Chief Technology Officer Michael Todd
+        Schroepfer sold 38,185 shares for $135.89 per share on Nov. 21. Since then,
+        the stock price has increased by 3.47%.</p>\n<p>Disclosure: None.</p>\n</body></html>\n</div><br
+        />\n<h4></h4>\n<script async type=\"text/javascript\" language=\"javascript\"
+        src=\"https://apis.gurufocus.com/ajaxstarrater/js/behavior.js\"></script>\n<script
+        async type=\"text/javascript\" language=\"javascript\" src=\"https://apis.gurufocus.com/ajaxstarrater/js/rating.js\"></script>\n\n<script
+        src='https://www.google.com/recaptcha/api.js'></script>\n<div>\n<table width=\"100%\"><tr><td
+        valign=\"top\"><div class=\"ratingblock\"><div id=\"unit_long779572\"> <ul
+        id=\"unit_ul779572\" class=\"unit-rating\" style=\"width:150px;list-style:none
+        outside none;\"> <li class=\"current-rating\" style=\"width:0px;\">Currently
+        0.00/5</li><li><a href=\"javascript:;\" onclick=\"popup_login();\" title=\"Please
+        login to vote\" class=\"r1-unit\">1</a></li><li><a href=\"javascript:;\" onclick=\"popup_login();\"
+        title=\"Please login to vote\" class=\"r2-unit\">2</a></li><li><a href=\"javascript:;\"
+        onclick=\"popup_login();\" title=\"Please login to vote\" class=\"r3-unit\">3</a></li><li><a
+        href=\"javascript:;\" onclick=\"popup_login();\" title=\"Please login to vote\"
+        class=\"r4-unit\">4</a></li><li><a href=\"javascript:;\" onclick=\"popup_login();\"
+        title=\"Please login to vote\" class=\"r5-unit\">5</a></li> </ul> <p class=\"voted\">Rating:
+        <strong> 0.0</strong>/5 (0 votes) </p></div></div></td><td width=\"74%\" valign=\"top\"></td></tr></table>\n</div>\n<div
+        class=\"control_links hide_for_print\" style=\"border-top: solid 2px #DDD;clear:both;\">\n<a
+        href=\"http://feedburner.google.com/fb/a/mailverify?uri=GurufocusArticles&amp;loc=en_US\"
+        target=\"_blank\"><img src=\"https://static.gurufocus.com/images/icons/gray/png/mail_icon&16.png\"
+        alt=\"Email Feeds\" />Subscribe\nvia Email</a>\n<a href=\"/rss.php\"><img
+        src=\"https://static.gurufocus.com/images/icons/gray/png/rss_icon&16.png\"
+        alt=\"RSS Feeds\" />Subscribe RSS</a>\n<div class=\"clear\"></div>\n</div>\n</div>\n</div>\n<a
+        name=\"comment\" id=\"comment\"></a>\n<h3>Comments</h3>\n<div></div>\n<div
+        class=\"clear\"></div><a name=\"addc\"></a>\n<div class=\"softcell_new hide_for_print\"><h4>Please
+        leave your comment:</h4><link media=\"screen\" rel=\"stylesheet\" href=\"https://apis.gurufocus.com/css/colorbox.css\"
+        />\n<textarea class=\"accessboxbig\" rows=\"4\" id=\"body_login\"></textarea>\n<input
+        type=\"button\" class=\"PhorumSubmit\" id=\"fake_submit\" value=\"Post Comment\"
+        />\n<script language=\"javascript\" src=\"https://apis.gurufocus.com/js/jquery.colorbox.js\"
+        type=\"text/javascript\"></script>\n<script>\n$(document).ready(function(){\n\t$('#body_login,
+        #watch, #follow, #fake_submit').click(function(){\n\t\tpopup_login();\n\t});\n});\n</script></div>\n<br>\n<div
+        class=\"hide_for_print\">\n<h3>More GuruFocus Links</h3>\n<table width=\"100%\"
+        cellspacing=\"0\" cellpadding=\"0\" style=\"text-align:left;\" id=\"keyfeatures\">\n<tbody>\n<tr>\n<td><a
+        href=\"/guru/latest-picks\" title=\"Latest Guru Picks\">Latest Guru Picks</a></td>\n<td><a
+        href=\"/stock_ideas.php\">Value Strategies</a></td>\n</tr>\n<tr>\n<td><a href=\"/guru/warren+buffett/stock-picks\">Warren
+        Buffett Portfolio</a></td>\n<td><a href=\"/screener/grahamncav\">Ben Graham
+        Net-Net</a></td>\n</tr>\n<tr>\n<td><a href=\"/guru/realtime-picks\" title=\"Real
+        Time Picks\">Real Time Picks</a></td>\n<td><a href=\"/screener/buffett-munger\"
+        title=\"Buffett-Munger Screener\">Buffett-Munger Screener</a></td>\n</tr>\n<tr>\n<td><a
+        href=\"/guru/aggregated-portfolio\">Aggregated Portfolio</a><a href=\"/gurutrac/real_time_picks.php\"
+        alt=\"Real Time Picks\" title=\"Real Time Picks\"></a></td>\n<td><a href=\"/screener/valuedcf\"
+        alt=\"Undervalued Predictable\" title=\"Undervalued Predictable\">Undervalued
+        Predictable</a></td>\n</tr>\n<tr>\n<td><a href=\"/guru/etfs\">ETFs</a>, <a
+        href=\"/options.php\">Options</a></td>\n<td><a href=\"/screener/lowps\" alt=\"Low
+        P/S Companies\" title=\"Low P/S Companies\">Low P/S Companies</a></td>\n</tr>\n<tr>\n<td><a
+        href=\"/insider/trend\">Insider Trends</a></td>\n<td><a href=\"/financials.php?symbol=WMT\">10-Year
+        Financials</a><a href=\"/newsletters.php\"></a></td>\n</tr>\n<tr>\n<td><a
+        href=\"/screener/52weeklow\">52-Week Lows</a></td>\n<td><a href=\"/chart.php\">Interactive
+        Charts</a></td>\n</tr>\n<tr>\n<td><a href=\"/model_portfolio.php\" title=\"Model
+        Portfolios\">Model Portfolios</a></td>\n<td><a href=\"/fair_value_dcf.php\">DCF
+        Calculator</a></td>\n</tr>\n<tr>\n<td><a href=\"/rss.php\" title=\"RSS Feed\">RSS
+        Feed</a><a href=\"/rss.php\" alt=\"RSS Feed\" title=\"RSS Feed\"> <img src=\"https://static.gurufocus.com/images/rss_large.gif\"></a></td>\n<td><a
+        href=\"/gurutrac/holding_stat.php\"></a><a href=\"/newsletters.php\">Monthly
+        Newsletters</a></td>\n</tr>\n<tr>\n<td><a href=\"/screener/\" title=\"Screener\">The
+        All-In-One Screener</a><a href=\"/screener/\" alt=\"Screener\" title=\"Screener\"></a></td>\n<td><a
+        href=\"/ic/space.php?do=portfolio&view=me\"></a><a href=\"/ic/space.php?do=portfolio&view=me\">Portfolio
+        Tracking Tool</a></td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"clear\"></div>\n</div>\n<div
+        class=\"news_sidebar right\" style=\"width: 335px;margin-top:0px;\">\n<div
+        class=\"bootstrap-iso\" style=\"text-align:center\">\n<a class=\"form-control
+        btn btn-primary btn-sm\" href=\"/news.php?id=70028\" style=\"width: 150px;font-size:14px\">Write
+        for GuruFocus</a>\n <a class=\"form-control btn btn-primary btn-sm\" href=\"/forum/post.php?4\"
+        style=\"width: 150px;font-size:14px\">Submit an article</a>\n</div>\n<br>\n<div
+        class=\"bootstrap-iso\">\n<div class=\"row\" style=\"background-color:red;padding:20px;\">\n<div
+        style=\"padding:8px;line-height: 28px;font-weight:bold;color:white;\">\n<a
+        href=\"/stock/TWTR/summary\" style=\"color:white;font-size:20px;text-decoration:
+        none;\">\nGuruFocus has detected 6 Warning Signs with Twitter Inc TWTR. </a>\n</div>\n<div
+        style=\"text-align:center\">\n<a href=\"/stock/TWTR/summary\" style=\"color:white;font-size:
+        22px;text-decoration: underline;font-weight: bold;\">Check it out</a>\n</div>\n</div>\n</div>\n<div
+        id=\"flarum_loader\" class=\"bootstrap-iso\"></div>\n<a id=\"port_link\" class=\"article_page_links\"
+        target=\"_blank\" href=\"#\"><h3><span style=\"float:right;\">\u2192</span>Performances
+        of the stocks mentioned by Myra Ramdenbourg</h3></a>\n<hr class=\"hr_sec\"
+        style=\"margin-bottom:0px;\">\n<div id=\"ap_container\" style=\"\">\n</div>\n<script
+        type=\"text/javascript\">\r\n\r\n                $( document ).ready(function()
+        {\r\n\r\n                    var get_pid_url = \"https://www.gurufocus.com/classes/screener/portfolio/article_port/performance/779572\";\r\n
+        \                   $.get(get_pid_url,function(data){\r\n                        if
+        (data == 'No record') {\r\n                            let portLink = document.getElementById(\"port_link\");\r\n
+        \                           portLink.remove();\r\n\r\n                        }
+        else {\r\n                            var get_port_url = \"https://www.gurufocus.com/classes/screener/home?url=user_portfolio_data&id=\"+data+\"&cache=clear\";\r\n
+        \                           $(\"#port_link\").attr(\"href\",\"/ic/space.php?do=portfolio&id=\"+data);\r\n
+        \                           $.get(get_port_url,function(response){\r\n                                console.log(get_port_url);\r\n
+        \                               $(\"#ap_container\").html(response);\r\n                                CreateToolTips($(\"#homepage_portfolio_overview\"));\r\n
+        \                           }).fail(function(error){\r\n                                        console.log(error);\r\n
+        \                                       $(\"#ap_container\").html(\"No Records\");\r\n
+        \                                   })\r\n                            }\r\n
+        \                   }).fail(function(error){\r\n                            console.log(error);\r\n
+        \                           $(\"#ap_container\").html(\"No Records\");\r\n
+        \                       })\r\n                });\r\n\r\n\r\n            </script>\n<a
+        class=\"article_page_links\" target=\"_blank\" href=\"/screener/\"><h3><span
+        style=\"float:right;\">\u2192</span>User\nGenerated Screeners</h3></a>\n<hr
+        class=\"hr_sec\" style=\"margin-bottom:0px;\">\n<table cellpadding=\"4\" style=\"font-size:12px;text-align:left;\"><tr><th><a
+        href=\"/ic/space.php?uid=103089&user_screener\">pjmason14</a></th><td><a href=\"http://www.gurufocus.com/screener/#&minProfitYearNum=8&recentInsiderBuyingDuration=20150801.20150831&minPriceChange24SP=100&minPercentAbove200DaySMA=5&minPriceChange24=100&minPercentAbove50DaySMA=5&includeOTC=0&minInterestCoverage=5&minMarketCap=500&screenPrivate=undefined&screen_id=0&screenName=Momentum&isCustomized2106=on&tab=9&page=1&sort=&dir=&stab=-&user_screener\"
+        target=\"_blank\">Momentum</a></td></tr><tr><th><a href=\"/ic/space.php?uid=485410&user_screener\">pascal.van.garsse</a></th><td><a
+        href=\"http://www.gurufocus.com/screener/#&screenName=High FCF-M2&screen_id=0&screenPrivate=undefined&minMarketCap=1000&minRevenue=1000&minFCFMargin=106&homeExchange=1&industry=-10211024-10211025-10218038-10319042-10320043-10320044-10320045-10320046-10320047-10320048-10320049-10320050-10320051-10320052-10323057-10324058-10325059-10326060-10326061-10427062-10427063-10428064-10428065-10428066-10428067-10428068-10428069-10428070-30946101-30947102-30948103-30949104-30950105-30951106-0&region=-DEU-FRA-SWE-ITA-LUX-CHE-BEL-NOR-ESP-DNK-NLD-FIN-AUT-PRT&recentInsiderBuyingDuration=20190201.20190231&tab=9&page=1&sort=&dir=&stab=-&user_screener\"
+        target=\"_blank\">High FCF-M2</a></td></tr><tr><th><a href=\"/ic/space.php?uid=529270&user_screener\">kosalmmuse</a></th><td><a
+        href=\"http://www.gurufocus.com/screener/#&screenName=6&screen_id=0&screenPrivate=undefined&maxMarketCap=1000&minFinancialStrength=60&maxDebtToEquity=4&minPredictability=10&maxPredictability=50&industry=10208014-10208015-10214030-20532078-20637087-20638088-20638089-31054109-31055110-31057113-31061118-31165131-31165132-31165133-31165134-31166135-31167136-31167137-31167140-31168144-0&region=-_Oceania-AUS&recentInsiderBuyingDuration=20190201.20190231&tab=9&page=1&sort=&dir=&stab=-&user_screener\"
+        target=\"_blank\">6</a></td></tr><tr><th><a href=\"/ic/space.php?uid=529270&user_screener\">kosalmmuse</a></th><td><a
+        href=\"http://www.gurufocus.com/screener/#&screenName=Best one1&screen_id=0&screenPrivate=undefined&maxMarketCap=1000&minFinancialStrength=10&maxDebtToEquity=4&minPredictability=10&maxPredictability=50&industry=10208014-10208015-10214030-20532078-20637087-20638088-20638089-31054109-31055110-31057113-31061118-31165131-31165132-31165133-31165134-31166135-31167136-31167137-31167140-31168144-0&region=-_Oceania-AUS&recentInsiderBuyingDuration=20190201.20190231&tab=9&page=1&sort=&dir=&stab=-&user_screener\"
+        target=\"_blank\">Best one1</a></td></tr><tr><th><a href=\"/ic/space.php?uid=24724&user_screener\">DBrizan</a></th><td><a
+        href=\"http://www.gurufocus.com/screener/#&screenName=all 2019Feb26&screen_id=0&screenPrivate=undefined&InSP=1&optionableStock=1&includeOTC=0&minDividendYear=1&industry=-10319042-10320043-10320044-10320045-10320046-10320047-10320048-10320049-10320050-10320051-10320052-10321053-10321054-10321055-10322056-10323057-10324058-10325059-10326060-10326061-0&country=USA-CAN-BMU-AIA-ATG-ABW-BHS-BRB-BLZ-CYM-CRI-CUB-DMA-DOM-SLV-GRD-GDL-GTM-HTI-HND-JMC-MRT-MEX-MSR-ATN-NCG-PNR-BAR-SCN-LCA-VCT-TRD-TCA-VRG-VIR-ARG-BOL-BRA-CHL-COL-EQA-GUF-GUY-PRG-PER-SPO-SUR-URG-VEN-PR-ALB-AND-AUT-BLR-BEL-BIH-BGR-HRV-CZE-DNK-EST-FIN-FRA-DEU-GRC-HUN-ISL-IRL-ITA-LVA-LIE-LTU-LUX-MKD-MLT-MDA-MCO-NLD-NOR-POL-PRT-ROM-RUS-SMR-SVK-SVN-ESP-SWE-CHE-UKR-CVA-GBR-DZA-AGO-BEN-BWA-BFA-BDI-CME-CPV-CAF-TCD-COG-COD-DJI-EGY-GNE-ERI-ETH-GAB-GMB-GHA-GLO-GUI-GNB-CTI-JDN-KEN-LSO-LBR-LBY-MDG-MWI-MLI-MTN-MAU-MYT-MAR-MOZ-NMB-NGR-NIG-REU-RRW-STP-SEN-SEY-SRL-SOM-ZAF-SDN-SWZ-TZA-TGO-TRO-TUN-UGA-AOE-ZMB-ZWE-TT-HKG-AFG-ARM-AZE-BHR-BGD-BTN-BRN-KHM-CHN-CYP-GEO-IND-IDN-IRN-IRQ-ISR-JPN-JOR-KAZ-KOR-KWT-KGZ-LAO-LBN-MYS-MLD-MNG-NPL-OMA-PAK-PHL-QAT-SAU-SGP-CLN-SYR-TJK-TWN-THA-TMP-TUR-TKM-ARE-UZB-VNM-YEM-AUS-NZL-0&recentInsiderBuyingDuration=20180801.20180831&minCustomized2983=1.7&minCustomized12271=39&minCustomized12265=1.81&maxCustomized12266=-2.22&minCustomized12267=4&minCustomized11760=15&maxCustomized12207=15&minCustomized11968=-999&minCustomized12206=0&minCustomized9371=0&minCustomized2970=0.1&maxCustomized2970=1.2&minCustomized11437=0&minCustomized2960=15&minCustomized3632=50&minCustomized11192=0&minCustomized11193=0&minCustomized13891=5&minCustomized13876=2.75&tab=9&page=1&sort=&dir=&stab=-&user_screener\"
+        target=\"_blank\">all 2019Feb26</a></td></tr><tr><th><a href=\"/ic/space.php?uid=529270&user_screener\">kosalmmuse</a></th><td><a
+        href=\"http://www.gurufocus.com/screener/#&screenName=Best one&screen_id=0&screenPrivate=undefined&maxMarketCap=1000&minFinancialStrength=60&maxDebtToEquity=4&minPredictability=10&maxPredictability=50&industry=10208014-10208015-10214030-20532078-20637087-20638088-20638089-31054109-31055110-31057113-31061118-31165131-31165132-31165133-31165134-31166135-31167136-31167137-31167140-31168144-0&region=-_Oceania-AUS&recentInsiderBuyingDuration=20190201.20190231&tab=9&page=1&sort=&dir=&stab=-&user_screener\"
+        target=\"_blank\">Best one</a></td></tr><tr><th><a href=\"/ic/space.php?uid=24724&user_screener\">DBrizan</a></th><td><a
+        href=\"http://www.gurufocus.com/screener/#&screenName=all 2019Feb25&screen_id=0&screenPrivate=undefined&InSP=1&optionableStock=1&includeOTC=0&minDividendYear=1&industry=-10319042-10320043-10320044-10320045-10320046-10320047-10320048-10320049-10320050-10320051-10320052-10321053-10321054-10321055-10322056-10323057-10324058-10325059-10326060-10326061-0&country=USA-CAN-BMU-AIA-ATG-ABW-BHS-BRB-BLZ-CYM-CRI-CUB-DMA-DOM-SLV-GRD-GDL-GTM-HTI-HND-JMC-MRT-MEX-MSR-ATN-NCG-PNR-BAR-SCN-LCA-VCT-TRD-TCA-VRG-VIR-ARG-BOL-BRA-CHL-COL-EQA-GUF-GUY-PRG-PER-SPO-SUR-URG-VEN-PR-ALB-AND-AUT-BLR-BEL-BIH-BGR-HRV-CZE-DNK-EST-FIN-FRA-DEU-GRC-HUN-ISL-IRL-ITA-LVA-LIE-LTU-LUX-MKD-MLT-MDA-MCO-NLD-NOR-POL-PRT-ROM-RUS-SMR-SVK-SVN-ESP-SWE-CHE-UKR-CVA-GBR-DZA-AGO-BEN-BWA-BFA-BDI-CME-CPV-CAF-TCD-COG-COD-DJI-EGY-GNE-ERI-ETH-GAB-GMB-GHA-GLO-GUI-GNB-CTI-JDN-KEN-LSO-LBR-LBY-MDG-MWI-MLI-MTN-MAU-MYT-MAR-MOZ-NMB-NGR-NIG-REU-RRW-STP-SEN-SEY-SRL-SOM-ZAF-SDN-SWZ-TZA-TGO-TRO-TUN-UGA-AOE-ZMB-ZWE-TT-HKG-AFG-ARM-AZE-BHR-BGD-BTN-BRN-KHM-CHN-CYP-GEO-IND-IDN-IRN-IRQ-ISR-JPN-JOR-KAZ-KOR-KWT-KGZ-LAO-LBN-MYS-MLD-MNG-NPL-OMA-PAK-PHL-QAT-SAU-SGP-CLN-SYR-TJK-TWN-THA-TMP-TUR-TKM-ARE-UZB-VNM-YEM-AUS-NZL-0&recentInsiderBuyingDuration=20180801.20180831&minCustomized2983=1.7&minCustomized12271=39&minCustomized12265=1.81&maxCustomized12266=-2.22&minCustomized12267=4&minCustomized11760=15&maxCustomized12207=15&minCustomized11968=-999&minCustomized12206=0&minCustomized9371=0&minCustomized2970=0.1&maxCustomized2970=1.2&minCustomized11437=0&minCustomized2960=15&minCustomized3632=50&minCustomized11192=0&minCustomized11193=0&minCustomized13891=5&minCustomized13876=2.75&tab=9&page=1&sort=&dir=&stab=-&user_screener\"
+        target=\"_blank\">all 2019Feb25</a></td></tr><tr><th><a href=\"/ic/space.php?uid=529270&user_screener\">kosalmmuse</a></th><td><a
+        href=\"http://www.gurufocus.com/screener/#&screenName=Nice&screen_id=0&screenPrivate=undefined&minMarketCap=5&maxMarketCap=500&minFinancialStrength=70&maxFinancialStrength=100&maxDebtToEquity=4&minPredictability=10&maxPredictability=50&industry=10101001-10102002-10103003-10103004-10104005-10105006-10105007-10106008-10106009-10106010-10106011-10106012-10107013-10208014-10208015-10209016-10209017-10209018-10209019-10209020-10212026-10212027-10212028-10213029-10214030-10215031-10216032-10217033-10217034-10217035-10217036-10217037-20530073-20531074-20531075-20531077-20532078-20533079-20533080-20533081-20533082-20635084-20636085-20636086-20637087-20638088-20638089-20639090-20640091-20641092-20642093-20743094-20744095-20744096-20744097-20744098-30845099-30845100-30946101-30947102-30948103-30949104-30950105-30951106-31053108-31054109-31055110-31056111-31056112-31057113-31058114-31058115-31059116-31060117-31061118-31061119-31061120-31061121-31061122-31062123-31062124-31062125-31062126-31062127-31063128-31064129-31165130-31165131-31165132-31165133-31165134-31166135-31167136-31167137-31167138-31167139-31167140-31167141-31167142-31167143-31168144-31169145-31169146-31169147-31169148-0&region=-_Oceania-AUS&recentInsiderBuyingDuration=20190201.20190231&tab=9&page=1&sort=&dir=&stab=-&user_screener\"
+        target=\"_blank\">Nice</a></td></tr><tr><th><a href=\"/ic/space.php?uid=529270&user_screener\">kosalmmuse</a></th><td><a
+        href=\"http://www.gurufocus.com/screener/#&screenName=han&screen_id=0&screenPrivate=undefined&minMarketCap=5&maxMarketCap=1000&minFinancialStrength=70&maxFinancialStrength=100&maxDebtToEquity=4&minPredictability=10&maxPredictability=50&maxPEG=r500&region=-_Oceania-AUS&recentInsiderBuyingDuration=20190201.20190231&tab=9&page=1&sort=&dir=&stab=-&user_screener\"
+        target=\"_blank\">han</a></td></tr><tr><th><a href=\"/ic/space.php?uid=519710&user_screener\">MsDale</a></th><td><a
+        href=\"http://www.gurufocus.com/screener/#&recentInsiderBuyingDuration=20190201.20190231&country=USA-0&industry=-10320048-0&maxPercentAbove52WeekLow=10&maxPriceChangeToday=105&screenNote=*52-Week
+        Low&screen_id=37778&screenPrivate=undefined&minMarketCap=200&minInterestCoverage=2&minBuyback3y=99&minBuyback1y=99&maxPFCF=26&minPrice=1&screenName=*52-Week
+        Low&tab=9&page=1&sort=&dir=&stab=-&user_screener\" target=\"_blank\">*52-Week
+        Low</a></td></tr></table>\n<div id=\"related\">\n<div style=\"margin-bottom:30px;\"><h3
+        style=\"margin-top:0px;\"><a class=\"article_page_links\" style=\"float:right;\"
+        href=\"/chart/TWTR\">\u2192</a>TWTR Price Chart</h3><hr class=\"hr_sec\" style=\"margin-bottom:0px;\">\n<div
+        style=\"float:left;border:1px solid #DDD;padding-left:2px;\">\n<div id=\"srchart\"
+        class=\"tour\" style=\"position:relative\">\n<div id=\"container_chart\" style=\"width:330px;height:170px;position:
+        relative; overflow: hidden;\">\n<img src=\"https://static.gurufocus.com/images/horizontal_loading.gif\"
+        alt=\"Loading\" style=\"margin:80px 80px\">\n</div>\n<div id=\"reporting\">$54.97
+        <font style=\"color:green\">(1y: +74%)</font></div>\n</div>\n<script type=\"text/javascript\">\n
+        \                   $(function() {\n                    \t// Loading scripts
+        anychronously\n                        //https://apis.gurufocus.com/js/highstock_1.3.3.js\n
+        \                   \t//$.getScript(\"https://www.gurufocus.com/apis/js/highstock_2.1.0.js\",
+        function() {\n                    var seriesOptions = [], yAxisOptions = [],
+        name = 'TWTR', display = '';dollar = '$';\n                            Highcharts.setOptions({\n
+        \                           global: {\n                            useUTC:
+        true\n                            }\n                            });\n                            var
+        d = new Date();\n                            $current_day = d.getDay();\n
+        \                           if ($current_day == 5 || $current_day == 0 ||
+        $current_day == 6){\n                    day = 4;\n                    } else{\n
+        \                   day = 7;\n                    }\n\n                    seriesOptions[0]
+        = {\n                    id : name,\n                            animation:false,\n
+        \                           color: '#4572A7',\n                            lineWidth:
+        1,\n                            name : name.toUpperCase() + ' stock price',\n
+        \                           threshold : null,\n                            data
+        :\n    [[1576648800000,31.68],[1576735200000,32.03],[1576821600000,32.13],[1577080800000,32.43],[1577167200000,32.5],[1577253600000,32.5],[1577340000000,32.63],[1577426400000,32.55],[1577685600000,32.03],[1577772000000,32.05],[1577858400000,32.05],[1577944800000,32.3],[1578031200000,31.52],[1578290400000,31.64],[1578376800000,32.54],[1578463200000,33.05],[1578549600000,33.22],[1578636000000,32.78],[1578895200000,32.69],[1578981600000,32.82],[1579068000000,33.23],[1579154400000,34.19],[1579240800000,34.22],[1579500000000,34.22],[1579586400000,34.09],[1579672800000,34.02],[1579759200000,33.89],[1579845600000,33.19],[1580104800000,32.78],[1580191200000,33.42],[1580277600000,33.63],[1580364000000,33.22],[1580450400000,32.48],[1580709600000,33.07],[1580796000000,33.96],[1580882400000,33.39],[1580968800000,38.41],[1581055200000,37.03],[1581314400000,35.96],[1581400800000,35.65],[1581487200000,36.79],[1581573600000,37.16],[1581660000000,36.91],[1581919200000,36.91],[1582005600000,38.06],[1582092000000,38.77],[1582178400000,39.05],[1582264800000,38.31],[1582524000000,35.89],[1582610400000,35.21],[1582696800000,34.63],[1582783200000,33.01],[1582869600000,33.2],[1583128800000,35.82],[1583215200000,34.93],[1583301600000,36],[1583388000000,34.97],[1583474400000,33.46],[1583730000000,32.46],[1583816400000,34.31],[1583902800000,31.3],[1583989200000,26.78],[1584075600000,29.29],[1584334800000,24.04],[1584421200000,24.48],[1584507600000,22],[1584594000000,24.13],[1584680400000,23.95],[1584939600000,24.69],[1585026000000,25.85],[1585112400000,25.97],[1585198800000,26.41],[1585285200000,25.29],[1585544400000,25.59],[1585630800000,24.56],[1585717200000,23.32],[1585803600000,23.02],[1585890000000,23.09],[1586149200000,24.93],[1586235600000,25.61],[1586322000000,27.86],[1586408400000,27.77],[1586494800000,27.77],[1586754000000,27.21],[1586840400000,27.94],[1586926800000,27.51],[1587013200000,26.55],[1587099600000,26.7],[1587358800000,27.01],[1587445200000,25.75],[1587531600000,28.44],[1587618000000,27.86],[1587704400000,28.74],[1587963600000,30],[1588050000000,28.79],[1588136400000,31.09],[1588222800000,28.68],[1588309200000,27.84],[1588568400000,28.23],[1588654800000,28.07],[1588741200000,27.68],[1588827600000,28.77],[1588914000000,29.93],[1589173200000,29.69],[1589259600000,29.15],[1589346000000,28.13],[1589432400000,28.56],[1589518800000,29],[1589778000000,29.64],[1589864400000,29.88],[1589950800000,32.23],[1590037200000,32.34],[1590123600000,32.62],[1590382800000,32.62],[1590469200000,34.01],[1590555600000,33.07],[1590642000000,31.6],[1590728400000,30.97],[1590987600000,31.89],[1591074000000,32.26],[1591160400000,34.88],[1591246800000,33.72],[1591333200000,34.87],[1591592400000,36.64],[1591678800000,35.92],[1591765200000,35.14],[1591851600000,33.03],[1591938000000,33.4],[1592197200000,34.11],[1592283600000,34.63],[1592370000000,34.34],[1592456400000,34.03],[1592542800000,33.41],[1592802000000,33.47],[1592888400000,32.91],[1592974800000,31.73],[1593061200000,31.37],[1593147600000,29.05],[1593406800000,29.49],[1593493200000,29.79],[1593579600000,30.81],[1593666000000,30.87],[1593752400000,30.87],[1594011600000,32.34],[1594098000000,32.99],[1594184400000,35.41],[1594270800000,35.72],[1594357200000,35.4],[1594616400000,33.82],[1594702800000,34.38],[1594789200000,35.67],[1594875600000,35.28],[1594962000000,35.81],[1595221200000,37.06],[1595307600000,37.01],[1595394000000,36.94],[1595480400000,38.44],[1595566800000,37.54],[1595826000000,36.85],[1595912400000,36.61],[1595998800000,37.16],[1596085200000,36.72],[1596171600000,36.4],[1596430800000,36.39],[1596517200000,36.35],[1596603600000,36.79],[1596690000000,37.69],[1596776400000,37.14],[1597035600000,37.44],[1597122000000,37.28],[1597208400000,37.44],[1597294800000,37.82],[1597381200000,37.9],[1597640400000,37.97],[1597726800000,38.01],[1597813200000,38.89],[1597899600000,38.96],[1597986000000,39.26],[1598245200000,40.49],[1598331600000,40.55],[1598418000000,41.08],[1598504400000,40.39],[1598590800000,41.07],[1598850000000,40.58],[1598936400000,41.15],[1599022800000,43.67],[1599109200000,41.63],[1599195600000,39.87],[1599454800000,39.87],[1599541200000,38.19],[1599627600000,39.56],[1599714000000,38.95],[1599800400000,38.93],[1600059600000,38.77],[1600146000000,39.09],[1600232400000,39.6],[1600318800000,39.35],[1600405200000,40.15],[1600664400000,39.9],[1600750800000,42.73],[1600837200000,45.33],[1600923600000,43.14],[1601010000000,43.84],[1601269200000,44.15],[1601355600000,44.74],[1601442000000,44.5],[1601528400000,46.7],[1601614800000,46.12],[1601874000000,47.31],[1601960400000,45.6],[1602046800000,45.87],[1602133200000,46.01],[1602219600000,45.9],[1602478800000,48.25],[1602565200000,47],[1602651600000,45.98],[1602738000000,46.03],[1602824400000,45.81],[1603083600000,45.82],[1603170000000,46.35],[1603256400000,50.24],[1603342800000,50.28],[1603429200000,50.44],[1603688400000,49],[1603774800000,51.27],[1603861200000,48.53],[1603947600000,52.43],[1604034000000,41.36],[1604296800000,39.47],[1604383200000,41.73],[1604469600000,42.76],[1604556000000,43.71],[1604642400000,43.12],[1604901600000,43.19],[1604988000000,42.41],[1605074400000,43.63],[1605160800000,42.81],[1605247200000,43.48],[1605506400000,42.73],[1605592800000,42.85],[1605679200000,43.33],[1605765600000,43.62],[1605852000000,44.68],[1606111200000,44.94],[1606197600000,45.23],[1606284000000,46.43],[1606370400000,46.43],[1606456800000,46.59],[1606716000000,46.51],[1606802400000,46.67],[1606888800000,47.23],[1606975200000,47.79],[1607061600000,47.73],[1607320800000,47.9],[1607407200000,47.43],[1607493600000,47.23],[1607580000000,51.21],[1607666400000,51.44],[1607925600000,52.02],[1608012000000,52.82],[1608098400000,54.03],[1608184800000,54.63],[1608313818000,54.97],[1608292862000,54.97]]
+        \                   };\n\n\n\n                            var reporting =
+        $('#reporting');\n                            Highcharts.setOptions({\n                            \tlang
+        : {\n\t\t\t\trangeSelectorZoom : '',\n\t\t\t\tmyButtonTitle: ''\n\t\t\t},\n\t\t\tcolors:
+        ['#0EB45A', '#0F22B1', '#FF0000', '#DDDF00', '#24CBE5', '#64E572', '#FF9655',
+        '#FFF263', '#6AF9C4'],\n\t\t\tchart: {\n\t            borderRadius : 0,\n\t\t\t\tborderWidth
+        : 0,\n\t\t\t\tbackgroundColor : '#FFF',\n\t\t\t\tplotBorderColor : '#FFF',\n\t\t\t\tplotBorderWidth
+        : 1,\n\t\t\t\tplotBackgroundColor: {\n\t\t            linearGradient: {\n\t
+        \                   x1: 0,\n\t                    y1: 0,\n\t                    x2:
+        0,\n\t                    y2: 1\n\t                },\n\t                stops:
+        [\n\t\t                [0, '#FFF'],\n\t\t                [1, '#FFF']\n\t\t
+        \           ]\n\t       \t\t}\n        \t},\n        \tyAxis : {\n        \t\ttickWidth
+        : 1,\n        \t\ttickColor: '#EEEEEE',\n        \t\tlineColor: '#EEEEEE',\n
+        \       \t\tgridLineColor : '#EEEEEE',\n        \t\tlabels : {\n\t\t\t\t\tstyle
+        : {\n\t\t\t\t\t\tcolor : '#000',\n\t\t\t\t\t\tfontSize : '11px'\n\t\t\t\t\t}\n\t\t\t\t}\n
+        \       \t},\n        \txAxis : {\n        \t\ttickColor: '#EEEEEE',\n        \t\tlineColor:
+        '#EEEEEE',\n        \t\tlabels : {\n\t\t\t\t\tstyle : {\n\t\t\t\t\t\tcolor
+        : '#000',\n\t\t\t\t\t\tfontSize : '11px'\n\t\t\t\t\t}\n\t\t\t\t}\n        \t}\n
+        \                           });\n                            var chart = new
+        Highcharts.StockChart({\n                            chart : {\n                            renderTo
+        : 'container_chart',\n                                    marginRight: 20,\n
+        \                                   borderRadius: 0,\n                                    events:
+        {\n                                    load: function () {\n\n                                    var
+        chart = this, axis = chart.xAxis[0], buttons = chart.rangeSelector.buttons;\n
+        \                                           function reset_all_buttons(){\n\t
+        \                                           $.each(chart.rangeSelector.buttons,
+        function(index, value) {\n\t                                            \tvalue.setState(0);\n\t
+        \                                           });\n                                                series
+        = chart.get('TWTR');\n                                                series.remove();\n
+        \                                           }\n\n\n\n                                            //1d\n
+        \                                       buttons[0].on('click', function (e)
+        {\n                                        chart.showLoading();\n                                                reset_all_buttons();\n
+        \                                               chart.rangeSelector.buttons[0].setState(2);\n
+        \                                               var extremes = axis.getExtremes();\n
+        \                                               $.getJSON('/modules/chart/price_chart_json.php?symbol=TWTR&ser=1d',
+        function(data) {\n\n                                                if (data
+        != null) {\n                                                var extremes =
+        axis.getExtremes();\n                                                        axis.setExtremes(data[1][0][0],
+        data[1][data[1].length - 1][0]);\n                                                        chart.addSeries({\n
+        \                                                       name : 'TWTR',\n                                                                id
+        \  : 'TWTR',\n                                                                color
+        : '#4572A7',\n                                                                data
+        : data[1]\n                                                        });\n                                                        //Add
+        text to tag\n                                                        if (data[0][1]
+        >= 0){\n                                                display = dollar +
+        data[0][0] + \" <font style=\\\"color:green\\\">(1D: +\" + data[0][1] + \"%)</font>\";\n
+        \                                                       reporting.html(display);\n
+        \                                               } else{\n                                                display
+        = dollar + data[0][0] + \" <font style=\\\"color:red\\\">(1D: \" + data[0][1]
+        + \"%)</font>\";\n                                                        reporting.html(display);\n
+        \                                               }\n                                                chart.hideLoading();\n
+        \                                               }\n\n                                                });\n
+        \                                       });\n        \n        \n                                    //5d\n
+        \                                   buttons[1].on('click', function (e) {\n
+        \                                   chart.showLoading();\n                                            reset_all_buttons();\n
+        \                                           chart.rangeSelector.buttons[1].setState(2);\n
+        \                                           var extremes = axis.getExtremes();\n
+        \                                           $.getJSON('/modules/chart/price_chart_json.php?symbol=TWTR&ser=5d',
+        function(data) {\n\n\n                                            if (data
+        != null) {\n                                    var extremes = axis.getExtremes();\n
+        \                                           axis.setExtremes(data[1][0][0],
+        data[1][data[1].length - 1][0]);\n                                            chart.addSeries({\n
+        \                                           name : 'TWTR',\n                                                    id
+        \  : 'TWTR',\n                                                    color :
+        '#4572A7',\n                                                    data : data[1]\n
+        \                                           });\n                                            //Add
+        text to tag\n                                            if (data[0][1] >=
+        0){\n                                    display = dollar + data[0][0] + \"
+        <font style=\\\"color:green\\\">(5D: +\" + data[0][1] + \"%)</font>\";\n                                            reporting.html(display);\n
+        \                                   } else{\n                                    display
+        = dollar + data[0][0] + \" <font style=\\\"color:red\\\">(5D: \" + data[0][1]
+        + \"%)</font>\";\n                                            reporting.html(display);\n
+        \                                   }\n                                    }\n
+        \                                   chart.hideLoading();\n                                    });\n
+        \                                   });\n                                    \n
+        \                                   \n//3m\n\n                                        buttons[2].on('click',
+        function (e) {\n                                    chart.showLoading();\n
+        \                                           reset_all_buttons();\n                                            chart.rangeSelector.buttons[2].setState(2);\n
+        \                                           var extremes = axis.getExtremes();\n
+        \                                           $.getJSON('/modules/chart/price_chart_json.php?symbol=TWTR&ser=3m',
+        function(data) {\n\n                                            if (data !=
+        null) {\n\t                                            var extremes = axis.getExtremes();\n\t
+        \                                                   axis.setExtremes(data[1][0][0],
+        data[1][data[1].length - 1][0]);\n\t                                                    chart.addSeries({\n\t
+        \                                                   name : 'TWTR',\n\t                                                            id
+        \  : 'TWTR',\n\t                                                            color
+        : '#4572A7',\n\t                                                            data
+        : data[1]\n\t                                                    });\n\t                                                    //Add
+        text to tag\n\t                                                    if (data[0][1]
+        >= 0){\n\t                                            display = dollar + data[0][0]
+        + \" <font style=\\\"color:green\\\">(3M: +\" + data[0][1] + \"%)</font>\";\n\t
+        \                                                   reporting.html(display);\n\t
+        \                                           } else{\n\t                                            display
+        = dollar + data[0][0] + \" <font style=\\\"color:red\\\">(3M: \" + data[0][1]
+        + \"%)</font>\";\n\t                                                    reporting.html(display);\n\t
+        \                                           }\n\t\n\t                                            chart.hideLoading();\n
+        \                                           }\n\n                                            });\n
+        \                                   });\n                                    \n
+        \                             \n//ytd\n                                        buttons[3].on('click',
+        function (e) {\n                                    chart.showLoading();\n
+        \                                           reset_all_buttons();\n                                            chart.rangeSelector.buttons[3].setState(2);\n
+        \                                           var extremes = axis.getExtremes();\n
+        \                                           $.getJSON('/modules/chart/price_chart_json.php?symbol=TWTR&ser=ytd',
+        function(data) {\n\n                                            if (data !=
+        null) {\n                                            var extremes = axis.getExtremes();\n
+        \                                                   axis.setExtremes(data[1][0][0],
+        data[1][data[1].length - 1][0]);\n                                                    chart.addSeries({\n
+        \                                                   name : 'TWTR',\n                                                            id
+        \  : 'TWTR',\n                                                            color
+        : '#4572A7',\n                                                            data
+        : data[1]\n                                                    });\n                                                    //Add
+        text to tag\n                                                    if (data[0][1]
+        >= 0){\n                                            display = dollar + data[0][0]
+        + \" <font style=\\\"color:green\\\">(YTD: +\" + data[0][1] + \"%)</font>\";\n
+        \                                                   reporting.html(display);\n
+        \                                           } else{\n                                            display
+        = dollar + data[0][0] + \" <font style=\\\"color:red\\\">(YTD: \" + data[0][1]
+        + \"%)</font>\";\n                                                    reporting.html(display);\n
+        \                                           }\n\n                                            chart.hideLoading();\n
+        \                                           }\n\n                                            });\n
+        \                                   });\n                                            //1
+        year\n                                        buttons[4].on('click', function
+        (e) {\n                                    chart.showLoading();\n                                            reset_all_buttons();\n
+        \                                           chart.rangeSelector.buttons[4].setState(2);\n
+        \                                           var extremes = axis.getExtremes();\n
+        \                                           $.getJSON('/modules/chart/price_chart_json.php?symbol=TWTR&ser=1y',
+        function(data) {\n\n                                            if (data !=
+        null) {\n                                            var extremes = axis.getExtremes();\n
+        \                                                   axis.setExtremes(data[1][0][0],
+        data[1][data[1].length - 1][0]);\n                                                    chart.addSeries({\n
+        \                                                   name : 'TWTR',\n                                                            id
+        \  : 'TWTR',\n                                                            color
+        : '#4572A7',\n                                                            data
+        : data[1]\n                                                    });\n                                                    //Add
+        text to tag\n                                                    if (data[0][1]
+        >= 0){\n                                            display = dollar + data[0][0]
+        + \" <font style=\\\"color:green\\\">(1Y: \" + data[0][1] + \"%)</font>\";\n
+        \                                                   reporting.html(display);\n
+        \                                           } else{\n                                            display
+        = dollar + data[0][0] + \" <font style=\\\"color:red\\\">(1Y: \" + data[0][1]
+        + \"%)</font>\";\n                                                    reporting.html(display);\n
+        \                                           }\n\n                                            chart.hideLoading();\n
+        \                                           }\n                                            });\n
+        \                                   });\n                                            //5
+        Year\n                                        buttons[5].on('click', function
+        (e) {\n                                    chart.showLoading();\n                                            reset_all_buttons();\n
+        \                                           chart.rangeSelector.buttons[5].setState(2);\n
+        \                                           $.getJSON('/modules/chart/price_chart_json.php?symbol=TWTR&ser=5y',
+        function(data) {\n\n                                            if (data !=
+        null) {\n                                            var extremes = axis.getExtremes();\n
+        \                                                   axis.setExtremes(data[1][0][0],
+        data[1][data[1].length - 1][0]);\n                                                    chart.addSeries({\n
+        \                                                   name : 'TWTR',\n                                                            id
+        \  : 'TWTR',\n                                                            color
+        : '#4572A7',\n                                                            data
+        : data[1]\n                                                    });\n                                                    //Add
+        text to tag\n                                                    if (data[0][1]
+        >= 0){\n                                            display = dollar + data[0][0]
+        + \" <font style=\\\"color:green\\\">(5Y: +\" + data[0][1] + \"%)</font>\";\n
+        \                                                   reporting.html(display);\n
+        \                                           } else{\n                                            display
+        = dollar + data[0][0] + \" <font style=\\\"color:red\\\">(5Y: \" + data[0][1]
+        + \"%)</font>\";\n                                                    reporting.html(display);\n
+        \                                           }\n\n                                            chart.hideLoading();\n
+        \                                           }\n\n                                            });\n
+        \                                   });\n                                            //10
+        Year\n                                        buttons[6].on('click', function
+        (e) {\n                                    chart.showLoading();\n                                            reset_all_buttons();\n
+        \                                           chart.rangeSelector.buttons[6].setState(2);\n
+        \                                           $.getJSON('/modules/chart/price_chart_json.php?symbol=TWTR&ser=10y',
+        function(data) {\n\n                                            if (data !=
+        null) {\n                                            var extremes = axis.getExtremes();\n
+        \                                                   axis.setExtremes(data[1][0][0],
+        data[1][data[1].length - 1][0]);\n                                                    chart.addSeries({\n
+        \                                                   name : 'TWTR',\n                                                            id
+        \  : 'TWTR',\n                                                            color
+        : '#4572A7',\n                                                            data
+        : data[1]\n                                                    });\n                                                    //Add
+        text to tag\n                                                    if (data[0][1]
+        >= 0){\n                                            display = dollar + data[0][0]
+        + \" <font style=\\\"color:green\\\">(10Y: +\" + data[0][1] + \"%)</font>\";\n
+        \                                                   reporting.html(display);\n
+        \                                           } else{\n                                            display
+        = dollar + data[0][0] + \" <font style=\\\"color:red\\\">(10Y: \" + data[0][1]
+        + \"%)</font>\";\n                                                    reporting.html(display);\n
+        \                                           }\n\n                                            chart.hideLoading();\n
+        \                                           }\n\n                                            });\n
+        \                                   });\n\n\n//All\n                                    buttons[7].on('click',
+        function (e) {\n                                    chart.showLoading();\n
+        \                                           reset_all_buttons();\n                                            chart.rangeSelector.buttons[7].setState(2);\n
+        \                                           $.getJSON('/modules/chart/price_chart_json.php?symbol=TWTR&ser=price',
+        function(data) {\n\n                                            if (data !=
+        null) {\n                                            var extremes = axis.getExtremes();\n
+        \                                                   axis.setExtremes(data[1][0][0],
+        data[1][data[1].length - 1][0]);\n                                                    chart.addSeries({\n
+        \                                                   name : 'TWTR',\n                                                            id
+        \  : 'TWTR',\n                                                            color
+        : '#4572A7',\n                                                            data
+        : data[1]\n                                                    });\n                                                    //Add
+        text to tag\n                                                    if (data[0][1]
+        >= 0){\n                                            display = dollar + data[0][0]
+        + \" <font style=\\\"color:green\\\">(10Y: +\" + data[0][1] + \"%)</font>\";\n
+        \                                                   reporting.html(display);\n
+        \                                           } else{\n                                            display
+        = dollar + data[0][0] + \" <font style=\\\"color:red\\\">(10Y: \" + data[0][1]
+        + \"%)</font>\";\n                                                    reporting.html(display);\n
+        \                                           }\n\n                                            chart.hideLoading();\n
+        \                                           }\n\n                                            });\n
+        \                                   });\n\n\n\n                                    }\n
+        \                                   }\n                                    },\n
+        \                                           credits : {\n                                            enabled
+        : false\n                                            },\n                                            scrollbar
+        : {\n                                            enabled : false\n                                            },\n
+        \   \n\n                                    navigator : {\n                                    enabled
+        : false\n                                    },\n                                            plotOptions:
+        {\n                                            area: {\n                                            fillColor:
+        {\n                                            linearGradient: [0, 0, 0, 150],\n
+        \                                                   stops: [\n                                                            [0,
+        '#A1B3C7'],\n                                                            [1,
+        '#EBF0F5']\n                                                    ]\n                                            },\n
+        \                                                   lineWidth: 1,\n                                                    marker:
+        {\n                                                    enabled: false\n                                                            ,
+        states: {\n                                                            hover:
+        {\n                                                            enabled: true,\n
+        \                                                                   radius:
+        5\n                                                            }\n                                                            }\n
+        \                                                   },\n                                                    shadow:
+        false,\n                                                    states: {\n                                                    hover:
+        {\n                                                    lineWidth: 1\n                                                    }\n
+        \                                                   }\n                                            },\n
+        \                                                   series: {\n                                                    animation:false,\n
+        \                                                           point: {\n                                                            events:
+        {\n                                                            mouseOver:
+        function() {\n                                                            if
+        (Highcharts.dateFormat('%H', this.x) == '00'){\n                                                            reporting.html(Highcharts.dateFormat('%b
+        %d, %Y', this.x) + ' ' + dollar + this.y.toFixed(2));\n                                                            }
+        else{\n                                                            reporting.html(Highcharts.dateFormat('%b
+        %d, %Y %H:%M', this.x) + ' ' + dollar + this.y.toFixed(2));\n                                                            }\n
+        \                                                           }\n                                                            }\n
+        \                                                           },\n                                                            events:
+        {\n                                                            mouseOut: function()
+        {\n\n                                                            reporting.html(display);\n
+        \                                                           }\n                                                            }\n
+        \                                                   }\n                                            },\n
+        \                                           rangeSelector : {\n                                            buttonTheme:
+        {\n                                            fill: 'none',\n                                                    stroke:
+        'none',\n                                                    style: {\n                                                    color:
+        '#666666',\n                                                            fontWeight:
+        'normal',\n                                                            fontSize:
+        '8px',\n                                                            textDecoration:
+        'none'\n                                                    },\n                                                    states:
+        {\n                                                    hover: {\n                                                    fill:
+        'white',\n                                                            stroke:
+        'none',\n                                                            style:
+        {\n                                                            fontWeight:
+        'bold',\n                                                                    color:
+        '#444',\n                                                                    textDecoration:
+        'underline',\n                                                                    cursor:
+        'pointer'\n                                                            }\n
+        \                                                   },\n                                                            select:
+        {\n                                                            fill: 'none',\n
+        \                                                                   stroke:
+        'none',\n                                                                    style:
+        {\n                                                                    fontWeight:
+        'bold',\n                                                                            color:
+        '#444'\n                                                                    }\n
+        \                                                           }\n                                                    }\n
+        \                                           },\n                                                    selected
+        : 4,\n                                                        buttons : [
+        {\n                                                        type : 'day',\n
+        \                                                               count : 1,\n
+        \                                                               text : '1D'\n
+        \                                                       }, {\n                                                        type
+        : 'day',\n                                                                count
+        : 5,\n                                                                text
+        : '5D'\n                                                        },{\n                                                        type
+        : 'month',\n                                                                count
+        : 3,\n                                                                text
+        : '3M'\n                                                        }, {\n                                                        type
+        : 'ytd',\n                                                                text
+        : 'YTD'\n                                                        }, {\n                                                        type
+        : 'year',\n                                                                count
+        : 1,\n                                                                text
+        : '1Y'\n                                                        }, {\n                                                        type
+        : 'year',\n                                                                count
+        : 5,\n                                                                text
+        : '5Y'\n                                                        }, {\n                                                        type
+        : 'year',\n                                                                count
+        : 10,\n                                                                text
+        : '10Y'\n                                                        }, {\n                                                                type:
+        'all',\n                                                                text:
+        'All'\n                                                        }],\n        \n
+        \                                           inputEnabled : false\n                                            },\n
+        \                                           xAxis : {\n                                            type:
+        \"datetime\",\n                                                    dateTimeLabelFormats:
+        {\n                                                    hour: ' ',\n                                                            day:
+        '%b %e'\n                                                    },\n                                                    labels:
+        {\n                                                    style: {\n                                                    fontSize:'9px'\n
+        \                                                   }\n                                                    },\n
+        \                                                   ordinal : true\n                                            },\n
+        \                                           yAxis: {\n                                            tickInterval:
+        null,\n                                                    gridLineColor:
+        '#EEEEEE',\n                                                    ordinal: false,\n
+        \                                                   opposite: true,\n                                                    labels:
+        {\n                                                    align: 'left',\n                                                            x:
+        1,\n                                                            y: 0,\n                                                            style:
+        {\n                                                            fontSize:'9px'\n
+        \                                                           }\n                                                    }\n
+        \                                           },\n                                            tooltip:
+        {\n                                                enabled:true,\n                                                valueDecimals:
+        2\n                                            },\n                                            series
+        : seriesOptions\n\n                                    }, function(chart)
+        {\n\n                                    });\n                                    //});\n
+        \                                   });\n        </script>\n</div>\n<div class=\"clear\"></div></div><script
+        async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n\n<ins
+        class=\"adsbygoogle\" style=\"display:inline-block;width:336px;height:280px\"
+        data-ad-client=\"ca-pub-4020868656364652\" data-ad-slot=\"7301743729\"></ins>\n<script>\n(adsbygoogle
+        = window.adsbygoogle || []).push({});\n</script>\n<div style='margin-bottom:30px;'><h3><a
+        class='article_page_links' style=\"float:right;\" href='/news.php?cat=column#allnews'>\u2192</a>Guru
+        News</h3><hr class=\"hr_sec\" style=\"margin-bottom:0px;\"><ul><li class='ll_bullet'><a
+        href=\"/news/1313829/andreas-halvorsens-top-5-health-care-positions-as-of-the-3rd-quarter\"
+        class=\"smalllink\">Andreas Halvorsen's Top 5 Health Care Positions as of
+        the 3rd Quarter</a><font class='date'> by <a href=\"/news.php?author=James
+        Li\">James Li</a></font></li><li class='ll_bullet'><a href=\"/news/1313756/general-mills-beats-estimates-with-strong-earnings\"
+        class=\"smalllink\">General Mills Beats Estimates With Strong Earnings</a><font
+        class='date'> by <a href=\"/news.php?author=Graham Griffin\">Graham Griffin</a></font></li><li
+        class='ll_bullet'><a href=\"/news/1313754/accentures-quarterly-results-surpass-all-expectations\"
+        class=\"smalllink\">Accenture's Quarterly Results Surpass All Expectations</a><font
+        class='date'> by <a href=\"/news.php?author=Margaret Moran\">Margaret Moran</a></font></li><li
+        class='ll_bullet'><a href=\"/news/1313752/steven-cohen-props-up-proptech-acquisition-stake\"
+        class=\"smalllink\">Steven Cohen Props Up PropTech Acquisition Stake</a><font
+        class='date'> by <a href=\"/news.php?author=Sydnee Gatewood\">Sydnee Gatewood</a></font></li></ul></div><div
+        style='margin-bottom:30px;'><h3><a class='article_page_links' style=\"float:right;\"
+        href='/news.php?cat=column#valueideas'>\u2192</a>Value Ideas</h3><hr class=\"hr_sec\"
+        style=\"margin-bottom:0px;\"><ul><li class='ll_bullet'><a href=\"/news/1313993/ecp-controlco-llc-buys-firstenergy-corp-sells-sunnova-energy-international-inc-harsco-corp\"
+        class=\"smalllink\">ECP ControlCo, LLC Buys FirstEnergy Corp, Sells Sunnova
+        Energy International Inc, Harsco Corp</a><font class='date'> by <a href=\"/news.php?author=insider\">insider</a></font></li><li
+        class='ll_bullet'><a href=\"/news/1313992/wedbush-morgan-securities-inc-buys-pimco-enhanced-short-maturity-active-exchangetrad-pacer-trendpilot-100-first-trust-dorsey-wright-focus-5-etf-sells-apple-inc-lululemon-athletica-inc-first-trust-enhanced-short-maturity-etf\"
+        class=\"smalllink\">Wedbush Morgan Securities Inc Buys PIMCO Enhanced Short
+        Maturity Active Exchange-Trad, Pacer Trendpilot 100, First Trust Dorsey Wright
+        Focus 5 ETF, Sells Apple Inc, Lululemon Athletica Inc, First Trust Enhanced
+        Short Maturity ETF</a><font class='date'> by <a href=\"/news.php?author=insider\">insider</a></font></li><li
+        class='ll_bullet'><a href=\"/news/1313984/g1-therapeutics-inc-gthx-president-and-ceo-mark-a-velleca-sold-585900-of-shares\"
+        class=\"smalllink\">G1 Therapeutics Inc (GTHX) President and CEO Mark A. Velleca
+        Sold $585,900 of Shares</a><font class='date'> by <a href=\"/news.php?author=insider\">insider</a></font></li><li
+        class='ll_bullet'><a href=\"/news/1313983/napco-security-technologies-inc-nssc-president-ceo-and-secretary-richard-soloway-sold-552-million-of-shares\"
+        class=\"smalllink\">Napco Security Technologies Inc (NSSC) President, CEO
+        and Secretary Richard Soloway Sold $55.2 million of Shares</a><font class='date'>
+        by <a href=\"/news.php?author=insider\">insider</a></font></li></ul></div><div
+        style=\"margin-bottom:30px;\"><h3><a class='article_page_links' style=\"float:right;\"
+        href='/news.php?author=Myra Ramdenbourg'>\u2192</a> More By Myra Ramdenbourg</h3><hr
+        class=\"hr_sec\" style=\"margin-bottom:0px;\"><ul><LI class='ll_bullet' style=''><a
+        href=\"/news/1158462/weekly-cfo-sells-highlight\">Weekly CFO Sells Highlight</a><font
+        class='date'> - Jun 09, 2020</font></LI>\n<LI class='ll_bullet' style=''><a
+        href=\"/news/1158460/weekly-cfo-buys-highlight\">Weekly CFO Buys Highlight</a><font
+        class='date'> - Jun 09, 2020</font></LI>\n<LI class='ll_bullet' style=''><a
+        href=\"/news/1120165/weekly-cfo-sells-highlight\">Weekly CFO Sells Highlight</a><font
+        class='date'> - Apr 29, 2020</font></LI>\n<LI class='ll_bullet' style=''><a
+        href=\"/news/1120162/weekly-cfo-buys-highlight\">Weekly CFO Buys Highlight</a><font
+        class='date'> - Apr 29, 2020</font></LI>\n</ul></div><div style='margin-bottom:30px;'><h3><a
+        class='article_page_links' style=\"float:right;\" href='/news.php?cat=column#qa'>\u2192</a>Guru
+        Interviews</h3><hr class=\"hr_sec\" style=\"margin-bottom:0px;\"><ul><li class='ll_bullet'><a
+        href=\"/news/1312781/value-investing-live-recap-jeff-auxier\" class=\"smalllink\">Value
+        Investing Live Recap: Jeff Auxier</a><font class='date'> by <a href=\"/news.php?author=Graham
+        Griffin\">Graham Griffin</a></font></li><li class='ll_bullet'><a href=\"/news/1312381/john-rogers-says-market-valuations-are-reminiscent-of-the-1970s\"
+        class=\"smalllink\">John Rogers Says Market Valuations Are Reminiscent of
+        the 1970s</a><font class='date'> by <a href=\"/news.php?author=Sydnee Gatewood\">Sydnee
+        Gatewood</a></font></li><li class='ll_bullet'><a href=\"/news/1311375/warren-buffett-calls-on-congress-to-help-small-businesses\"
+        class=\"smalllink\">Warren Buffett Calls on Congress to Help Small Businesses</a><font
+        class='date'> by <a href=\"/news.php?author=Sydnee Gatewood\">Sydnee Gatewood</a></font></li><li
+        class='ll_bullet'><a href=\"/news/1310867/bill-nygren-sees-value-in-ally-financial-capital-one-as-vaccines-spark-a-return-to-normalcy\"
+        class=\"smalllink\">Bill Nygren Sees Value in Ally Financial, Capital One
+        as Vaccines Spark a Return to Normalcy</a><font class='date'> by <a href=\"/news.php?author=Sydnee
+        Gatewood\">Sydnee Gatewood</a></font></li></ul></div><div style='margin-bottom:30px;'><h3><a
+        class='article_page_links' style=\"float:right;\" href='/news.php?cat=rank'>\u2192</a>Top
+        Ranked Articles</h3><hr class=\"hr_sec\" style=\"margin-bottom:0px;\"><ul><li
+        class='ll_bullet'><a href=\"/news/1304111/mohnish-pabrai-shares-insights-on-identifying-10-to-100baggers--part-1\"
+        class=\"smalllink\">Mohnish Pabrai Shares Insights on Identifying 10 to 100-Baggers
+        - Part 1</a><font class='date'> by <a href=\"/news.php?author=Grahamites\">Grahamites</a></font></li><li
+        class='ll_bullet'><a href=\"/news/1304775/mohnish-pabrai-shares-insights-on-identifying-10-to-100baggers--part-2\"
+        class=\"smalllink\">Mohnish Pabrai Shares Insights on Identifying 10 to 100-Baggers
+        - Part 2</a><font class='date'> by <a href=\"/news.php?author=Grahamites\">Grahamites</a></font></li><li
+        class='ll_bullet'><a href=\"/news/1300600/reminiscences-of-an-ebay-operator-\"
+        class=\"smalllink\">Reminiscences of an eBay Operator </a><font class='date'>
+        by <a href=\"/news.php?author=Smead Capital Management\">Smead Capital Management</a></font></li><li
+        class='ll_bullet'><a href=\"/news/1307020/mohnish-pabrai-shares-insights-on-identifying-10-to-100baggers--part-3\"
+        class=\"smalllink\">Mohnish Pabrai Shares Insights on Identifying 10 to 100-Baggers
+        - Part 3</a><font class='date'> by <a href=\"/news.php?author=Grahamites\">Grahamites</a></font></li></ul></div><div
+        id=\"scrolWrapper\">\n<div id=\"scrol\"><div style='margin-bottom:30px;'><h3><a
+        class='article_page_links' style='float:right;' href='/news.php?cat=column'>\u2192</a>You
+        May Also Like</h3><hr class=\"hr_sec\" style=\"margin-bottom:0px;\"><ul><li
+        class='ll_bullet'><a href=\"/news/1310878/srs-investment-management-llc-buys-twitter-inc-dynatrace-inc-altice-usa-inc-sells-citrix-systems-inc-facebook-inc-palo-alto-networks-inc\"
+        class=\"smalllink\">SRS Investment Management, LLC Buys Twitter Inc, Dynatrace
+        Inc, Altice USA Inc, Sells Citrix Systems Inc, Facebook Inc, Palo Alto Networks
+        Inc</a></li><li class='ll_bullet'><a href=\"/news/1306688/srs-investment-management-llc-buys-twitter-inc-dynatrace-inc-altice-usa-inc-sells-citrix-systems-inc-facebook-inc-palo-alto-networks-inc\"
+        class=\"smalllink\">SRS Investment Management, LLC Buys Twitter Inc, Dynatrace
+        Inc, Altice USA Inc, Sells Citrix Systems Inc, Facebook Inc, Palo Alto Networks
+        Inc</a></li><li class='ll_bullet'><a href=\"/news/1294006/srs-investment-management-llc-buys-twitter-inc-dynatrace-inc-altice-usa-inc-sells-citrix-systems-inc-facebook-inc-palo-alto-networks-inc\"
+        class=\"smalllink\">SRS Investment Management, LLC Buys Twitter Inc, Dynatrace
+        Inc, Altice USA Inc, Sells Citrix Systems Inc, Facebook Inc, Palo Alto Networks
+        Inc</a></li><li class='ll_bullet'><a href=\"/news/1293342/empirical-capital-management-llc-buys-walmart-inc-twitter-inc-nordstrom-inc-sells-rosetta-stone-inc-chuys-holdings-inc-comscore-inc\"
+        class=\"smalllink\">Empirical Capital Management, LLC Buys Walmart Inc, Twitter
+        Inc, Nordstrom Inc, Sells Rosetta Stone Inc, Chuy's Holdings Inc, comScore
+        Inc</a></li><li class='ll_bullet'><a href=\"/news/1290823/turiya-advisors-asia-ltd-buys-pure-storage-inc-twitter-inc-philip-morris-international-inc-sells-american-international-group-inc\"
+        class=\"smalllink\">Turiya Advisors Asia Ltd Buys Pure Storage Inc, Twitter
+        Inc, Philip Morris International Inc, Sells American International Group Inc</a></li></ul></div></div></div>
+        </div>\n<div class=\"clear\" id=\"t1\"></div>\n</div><div class=\"clear\"></div></div>\n<script
+        src=\"https://apis.gurufocus.com/js/ckeditor_new/ckeditor.js\"></script>\n<script
+        type=\"text/javascript\" src=\"https://apis.gurufocus.com/modules/js/get_forum_input_plain.js\"></script>\n<script
+        type=\"text/javascript\" src=\"https://apis.gurufocus.com/js/news.js?1.9.6\"></script>\n<link
+        rel=\"stylesheet\" type=\"text/css\" href=\"https://www.gurufocus.com/ajaxstarrater/css/rating.css?1\"
+        />\n<script src=\"https://static.gurufocus.com/js/share/selection-sharer.js\"></script>\n<script>\r\n
+        \       $('p').selectionSharer();\r\n    </script>\n<script src=\"https://apis.gurufocus.com/js/spam_control/spam_control.js\"></script>\n<script>\r\n
+        \       function reportSPAM($id) {\r\n            SpamControl.reportSPAM($id,
+        null);\r\n        }\r\n    </script>\n<div class=\"hidden\">\n<div id=\"watchlist-form\"
+        title=\"Add to portfolio\">\n<form id=\"watchlistform\">\n<p>Select portfolio(s):</p>\n<ul>\n<div
+        style=\"width:auto;max-height:400px;overflow-x:hidden;overflow-y:auto;\" id=\"userportfoliodiv\">\n<div
+        align=\"left\" id='stock_port_p'>\n<li><img src='https://static.gurufocus.com/images/horizontal_loading.gif'
+        alt='Loading...' /></li>\n</div>\n</div>\n<li>\n<label for=\"portid_0\"><INPUT
+        TYPE=\"checkbox\" NAME=\"selectportfolio\" id=\"portid_0\" VALUE=\"0\" />\nCreate
+        a new portfolio</label>\n<input type=\"text\" name=\"newportfolioname\" id=\"newportfolioname\"
+        size=\"20\" />\n</li>\n</ul>\n<p>Why you are interested?</p>\n<textarea rows=\"2\"
+        cols=\"45\" class=\"text ui-widget-content ui-corner-all\" id=\"watchlistnotes\"></textarea>\n</form>\n<p
+        class=\"validateTips\" align=\"left\" style=\"font-size:10px;\">\nYour selection
+        and notes will be stored in your <a href=\"/ic/space.php?do=portfolio&view=me\">portfolio</a>.\n</p>\n</div>\n<div
+        id=\"watch_area\">\n<div style='float:left; border: 1px solid #a0e47e; padding:
+        3px;background-color: #eeeeee'><a class='nav' href='/login_signup.php'>Login
+        to add portfolio</a></div>\n</div>\n<div id=\"guru-dialog-message1\" title=\"Guru
+        added\"></div>\n</div>\n<script type=\"text/javascript\" language=\"javascript\"
+        src=\"//cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.js\"></script>\n<script>\n\tfunction
+        CreateToolTips_4_Guru(selector)\n\t{\n\t\t//.gurus_tp 'a[href*=\"?GuruName=\"]'\n\t\t$(selector).qtip({\n\t\t\tposition:
+        {\n\t\t\t\teffect: false,\n\t\t\t\tviewport: $(window)\n\t\t\t},\n\t\t\tcontent:
+        {\n\t\t\t\ttext: function(event, api){\n\t\t\t\t\tif(($(this).attr('href')).indexOf(\"?GuruName=\")
+        > -1){\n\t\t\t\t\t\tvar pos = ($(this).attr('href')).indexOf(\"?GuruName=\");\n\t\t\t\t\t\tvar
+        guru = ($(this).attr('href')).substring(pos+10);\n\t\t\t\t\t\tif(guru.indexOf(\"&\")>-1)guru=guru.substring(0,
+        guru.indexOf(\"&\"));\n\t\t\t\t\t}else{\n\t\t\t\t\t\tvar guru = $(this).attr('title');\n\t\t\t\t\t}\n\t\t\t\t\t$.ajax({\n\t\t\t\t\t\turl:
+        '/modules/ajax/gurus_tp.php',\n\t\t\t\t\t\ttype: 'GET',\n\t\t\t\t\t\tdataType:
+        'json',\n\t\t\t\t\t\tdata: {\n\t\t\t\t\t\t\ts: guru\n\t\t\t\t\t\t}\n\t\t\t\t\t})\n\t\t\t\t\t.then(function(data){\n\t\t\t\t\t\t//<h2
+        style=\"line-height:120%\">\n\t\t\t\t\t\t       \n\t\t\t\t\t\tvar tp_dis =
+        '<div><table style=\"width:100%; border-spacing: 0px;\"><tbody><tr>';\n\t\t\t
+        \            \n\t\t\t\t\t\ttp_dis += '<td><table><tbody><tr><td><strong>'
+        + data.GuruName + '</strong></td></tr> ';\n\t\t\t\t\t\tvar gurufirm = data.firm;\n\t\t\t\t\t\ttp_dis
+        += '<tr><td>' + ((gurufirm.length>0) ? data.firm : data.GuruName) + '</td></tr>';
+        \      \n\t\t\t\t\t\ttp_dis += '<tr><td><p style=\"fontsize:6px;margin:0px;padding:0px;\"><a
+        href=\"javascript:;\" id=\"' + data.guru_id + \"_\" + data.GuruName + '\"
+        class=\"add_g\" value=\"' + guru + '\" title=\"Add to your default guru list\"><img
+        src=\"https://static.gurufocus.com/images/icons/gray/png/sq_plus_icon&amp;16.png\">Add
+        to Guru List</a></p></td></tr></tbody></table>';               \n\t\t\t\t\t\t//Add
+        to My Gurus                        \n                        if(data.Picture
+        && data.Picture.indexOf('/gurupics/1/') > 0)tp_dis += '</td><td><img src=\"'
+        + data.Picture + '\" class=\"pic\"></td>';\n\t\t\t\t        tp_dis += '</tr></tbody></table></div>';
+        \     \n\t\t\t\t           \n\t\t\t\t\t\ttp_dis += '<hr style=\"margin:6px
+        0;color:#CCC;\"><div style=\"font-weight:bold;text-align:center;\"><a href=\"/holdings.php?GuruName='
+        + data.GuruName + '&tps_gu\">Current Portfolio</a> | <a href=\"/StockBuy.php?GuruName='
+        + data.GuruName + '&tps_gu\">Stock Picks</a> | <a href=\"/holdings.php?GuruName='
+        + data.GuruName + '&tab=ptoph&tps_gu\">Past Top Holdings</a></div>';     \n
+        \                       // style=\"font-weight:bold;text-align:center;\n\t\t\t\t\t\ttp_dis
+        += '<hr style=\"margin:6px 0;color:#CCC;\"><table style=\"font-size:10px;width:100%;\">';
+        \n\t\t\t\t\t\ttp_dis += '<tr><td>Portfolio Date</td><th><font class=\"nav
+        modally\">' + data.portdate + '</font></th><td>Latest Update</td><th><font
+        class=\"nav modally\">' + data.last_update + '</font></th></tr>';\n\t\t\t\t\t\ttp_dis
+        += '<tr><td>No. of Stocks</td><th><font class=\"nav modally\">' + data.number_of_stocks
+        + '</font></th><td>Total Value</td><th><font class=\"nav modally\">$' + data.equity
+        + 'Mil</font></th></tr>';             \n\t\t\t\t\t\ttp_dis += '<tr><td>No.
+        of New Stocks</td><th><font class=\"nav modally\">' + data.num_new + '</font></th><td>Q/Q
+        Turnover</td><th><font class=\"nav modally\">' + data.turnover + '</font></th></tr>';\n\t\t\t\t\t\t\n\t\t\t\t\t\t
+        api.set('content.text', tp_dis);\n\t\t\t\t\t},function(xhr, status, error){\n\t\t\t\t\t\tapi.set('content.text',
+        'No information provided.');\n\t\t\t\t\t});\n\t\t\t\t\t\n\t\t\t\t\t       \n\t\t\t\t\t//Google
+        Analytics\n\t\t\t\t\t// ga('send', {\n\t\t\t\t\t// \thitType: 'event',\n\t\t\t\t\t//
+        \teventCategory: 'Tooltip',\n\t\t\t\t\t// \teventAction: 'open',\n\t\t\t\t\t//
+        \teventLabel: 'Tooltip for Guru'\n\t\t\t\t\t// });\n\t\t\t\t\t\n\t\t\t\t\treturn
+        'Loading...'\n\t\t\t\t}\n\t\t\t},\n\t\t\thide: {\n\t\t\t\tfixed: true,\n\t\t\t\tdelay:
+        500\n\t\t\t},\n\t\t\tstyle:{\n\t\t\t\tclasses: 'myCustomClass_guru'\n\t\t\t}\n\t\t});\n\t}\n\t$.each(['a[href*=\"StockBuy.php?GuruName=\"]',
+        'a[href*=\"holdings.php?GuruName=\"]', 'a[href*=\"ListGuru.php?GuruName\"]'],
+        function(key, value){\n\t\t//console.log(value);\n\t\tCreateToolTips_4_Guru(value);\n\t});\n\t$(document.body).on('click',
+        '.add_g', function(){\n\t\t//console.log('testclick');\n\t\tvar UserId = \"0\";\n\t\tvar
+        Ustatus = \"0\";\n\t\tvar Guru = $(this).attr('id');\n\t\tvar GuruId = Guru.substring(0,
+        Guru.indexOf('_'));\n\t\tvar GuruName = Guru.substring(Guru.indexOf('_')+1);\n\t\t$('.gurus_tp').qtip('hide');\n\t\t//addguru_list(GuruId,
+        UserId, GuruName, Ustatus);\n\t\tif(UserId>0 && Ustatus>=3){\n\t\t\t$.post('/modules/guru/guru_list.php?action=add_guru',
+        'id=' + GuruId, function(){\n\n\t\t\t\tvar txt = '<p><img src=\"https://static.gurufocus.com/images/icons/gray/png/checkmark_icon&16.png\">
+        ' + GuruName + ' has been successfully added into <a href=\"/ListGuru.php\">your
+        Personalized Guru List</a>.</p>';\n                    \n\t\t\t\t$(\"#guru-dialog-message1\").html(txt);
+        \      \n\t\t\t\t$(\"#guru-dialog-message1\").dialog({\n\t\t\t\t\tresizable:
+        false,\n\t\t\t\t\tmodal:true,\n\t\t\t\t\ttitle: \"Guru Added\",\n\t\t\t\t\theight:200,\n\t\t\t\t\twidth:
+        200        \t\t\t\t\t\n\t\t\t\t});\t\t\t\n\t\t\t});\n\t\t}else{\n\t\t\tvar
+        txt = 'This feature is only available for Premium Members, please sign up
+        for<a href=\"/membership/membership_upgrade.php\" class=\"articletitle\" target=\"_blank\">GuruFocus
+        Premium Membership</a><br><br><a href=\"/membership/upgrade.php?ref=mindex_oops\"
+        rel=\"nofollow\" class=\"trial\">7-Day Free Trial Now</a>';\n\t\t\t$(\"#guru-dialog-message1\").html(txt);
+        \n\t\t\t$(\"#guru-dialog-message1\").dialog({\n\t\t\t\t\tresizable: false,\n\t\t\t\t\tmodal:true,\n\t\t\t\t\ttitle:
+        \"Warning\",\n\t\t\t\t\theight:150,\n\t\t\t\t\twidth: 400   \n\t\t\t});\n\t\t}\n\n\t\t\n\t});\n\t\n</script>\n<script>\n\n\n//\nfunction
+        CreateToolTips(parent) {\n    //console.log(\"Inside function.\");\n    var
+        elements ;\n    if(parent){\n    \telements = parent.find('.stocks_tp');\n
+        \   }else{\n    \telements = $('.stocks_tp');\n    }\n    elements.qtip({\n
+        \   \tposition: {\n    \t  effect: false,\n      \t  viewport: $(window)\n
+        \   \t},\n\t\t  content: {\n\t        text: function(event, api) {\n\t        \tif(($(this).attr('href')).indexOf(\"/stock/\")
+        > -1){\n\t\t\t\t\t\t\tvar s = (($(this).attr('href')).substring(7));\n\t\t\t\t\t\t\tif
+        (s.indexOf(\"/summary\") > -1){\n\t\t\t\t\t\t\t\ts = s.replace('/summary',
+        '')\n\t\t\t\t\t\t\t}\n\t        \t}else{\n\t        \t\tvar s = $(this).attr('title');\n\t
+        \       \t}\n\t        \t\n\t        \tconsole.log(s);\n\t        \t\n\t            $.ajax({\n\t
+        \               url: '/modules/ajax/stocks_tp.php', // URL to the JSON file\n\t
+        \               type: 'GET', // POST or GET\n\t                dataType: 'json',
+        // Tell it we're retrieving JSON\n\t                data: {\n\t                    s:
+        s // Pass through the ID of the current element matched by '.selector'\n\t
+        \               },\n\t            })\n\t            .then(function(data) {\n\n\t
+        \               // Now we set the content manually (required!)\n\t                if(data.p_change>0){\n\t
+        \               \tvar chg = '<font style=\"color:green;font-size:14px;font-weight:bold;\">'+data.p_change
+        + '('+ data.p_pct_change +'%)</font>';\n\t                }else{\n\t                \tvar
+        chg = '<font style=\"color:red;font-size:14px;font-weight:bold;\">'+data.p_change
+        + '('+ data.p_pct_change +'%)</font>';\n\t                }\n\t                \n\t
+        \               var tp_dis = '<h4 style=\"border-top:none;margin-top:10px;margin-bottom:5px;padding:0px;\">'+data.company+'</h4><h4>'+data.symbol+'
+        - '+data.exchange+'&nbsp;<a href=\"javascript:;\" id=\"'+s+'\" class=\"add_p\"
+        value=\"'+s+'\" title=\"Add to your portfolio\"><img src=\"https://static.gurufocus.com/images/icons/gray/png/sq_plus_icon&amp;16.png\">
+        Add to portfolio</a></h4>'+\n\t                '<table style=\"margin-top:10px;clear:both;width:100%;font-size:12px;\"><tr><td
+        style=\"font-size:14px;font-weight:bold;\">'+data.currency_img+data.price
+        + '</td><td>Volume: '+data.volumn_dis+'</td></tr><tr><td>'+chg+'</td><td>'+data.date_dis+'</td></tr></table><hr
+        style=\"margin:6px 0;color:#CCC;\">';\n\t                 tp_dis += '<div
+        style=\"font-weight:bold;text-align:center;\"><a href=\"/stock.php?symbol='+s+'&tps\">Summary</a>
+        | <a href=\"/stock/'+s+'/chart\">Interactive Chart</a> | <a href=\"/valuations.php?symbol='+s+'&tps\">Valuations</a>
+        | <a href=\"/fair_value_dcf.php?symbol='+s+'&tps\">DCF</a></div>';\n\t                \n\t
+        \               \n\t                \t                //valuation \n\t                var
+        valuation_arr = [];\n\n\t\t\t\t\tif (data.EPV != 0) {\n\t\t\t\t\t\tvaluation_arr.push({'Earnings
+        Power Value':data.EPV});\n\t\t\t\t\t}\n\t\t\t\t\t\n\t\t\t\t\tif (data.ncav_real
+        != 0) {\n\t\t\t\t\t\tvaluation_arr.push({'Net Current Asset Value':data.ncav_real});\n\t\t\t\t\t}\n\t\t\t\t\t\n\t\t\t\t\tif
+        (data.tangible_book != 0) {\n\t\t\t\t\t\tvaluation_arr.push({'Tangible Book':data.tangible_book});\n\t\t\t\t\t}\n\t\t\t\t\t\n\t\t\t\t\tif
+        (data.iv_dcf_share != 0 ) {\n\t\t\t\t\t\tvaluation_arr.push({'Projected FCF':data.iv_dcf_share});\n\t\t\t\t\t}\n\t\t\t\t\t\n\t\t\t\t\tif
+        (data.medpsvalue != 0) {\n\t\t\t\t\t\tvaluation_arr.push({'Median P/S Value':data.medpsvalue
+        });\n\t\t\t\t\t}\n\t\t\t\t\t\n\t\t\t\t\tif (data.grahamnumber != 0) {\n\t\t\t\t\t\tvaluation_arr.push({'Graham
+        Number':data.grahamnumber});\n\t\t\t\t\t}\n\t\t\t\t\t\n\t\t\t\t\tif (data.lynchvalue
+        != 0) {\n\t\t\t\t\t\t\n\t\t\t\t\t\tvaluation_arr.push({'Peter Lynch Value':data.lynchvalue});\n\t\t\t\t\t\t\n\t\t\t\t\t}\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\tif
+        (data.iv_dcf != 0) {\n\t\t\t\t\t\t\n\t\t\t\t\t\tvaluation_arr.push({'DCF (FCF
+        Based)':data.iv_dcf});\n\t\t\t\t\t\t\n\t\t\t\t\t}\n\t\t\t\t\t\n\t\t\t\t\tif
+        (data.iv_dcEarning != 0) {\n\t\t\t\t\t\tvaluation_arr.push({'DCF (Earnings
+        Based)':data.iv_dcEarning});\n\t\t\t\t\t}\n\t\t\t\t\t\n\t\t\t\t\t/*\n\t\t\t\t\tvar
+        valuation_str = '';\n\t\t\t\t\t$.each(valuation_arr, function(key, value){\n\t\t\t\t\t\tvaluation_str+='<tr
+        class=\"tabletr\">';\n\t\t\t\t\t\tfor(var i in value){\n\t\t\t\t\t\t  valuation_str
+        += '<td>'+i+'</td>'+'<td>'+value[i]+'</td>';\n\t\t\t\t\t\t}\n\t\t\t\t\t\tvaluation_str+='</tr>';\n\t\t\t\t\t});*/\n\t\t\t\t\t\n\n\t
+        \                tp_dis += '<hr style=\"margin:6px 0;color:#CCC;\"><table
+        style=\"font-size:12px;width:100%;\"><tr><td>Market Cap</td><th><font class=\"nav
+        modally\">'+data.mktcap+'</font></th><td>P/E(ttm)</td><th><font class=\"nav
+        modally\">'+data.pettm+'</font></th></tr><tr><td>Enterprise Value</td><th><font
+        class=\"nav modally\">'+data.ev_morn+'</font></th><td>P/B</td><th><font class=\"nav
+        modally\">'+data.pb+'</font></th></tr></table>';\n\t                 \n\t
+        \                //tp_dis += '<hr style=\"margin:6px 0;color:#CCC;\"><table
+        style=\"font-size:12px;width:100%;\">'+valuation_str+'</table>';\n\t                 \n\t
+        \                if(data.good_sign_num>0||data.num_warning_signs_meidum>0
+        || data.num_warning_signs_severe>0){\n\t                  \ttp_dis += '<hr
+        style=\"margin:6px 0;color:#CCC;\">';\n\t                  }\n\t                  \n\t
+        \                 if(data.good_sign_num>0){\n\t                  \tvar ss
+        = '';\n\t                  \t\n\t                  \tif(data.good_sign_num>1){\n\t
+        \                 \t\tss = 's';\n\t                  \t}\n\t                  \ttp_dis
+        += '<a href=\"/analysis/'+s+'&subtab=signs&tps\" class=\"good_small\"  style=\"margin-top:1px;margin-left:4px;\">'+data.good_sign_num+'
+        Good Sign'+ss+'</a>';\n\t                  }\n\t                  \n\t                  if(data.num_warning_signs_meidum>0){\n\t
+        \                 \t\n\t                  \tvar ss = '';\n\t                  \t\n\t
+        \                 \tif(data.num_warning_signs_meidum>1){\n\t                  \t\tss
+        = 's';\n\t                  \t}\n\t                  \t\n\t                  \ttp_dis
+        += '<a href=\"/analysis/'+s+'&subtab=signs&tps\" class=\"medium_small\" style=\"margin-top:1px;margin-left:4px;\">'+data.num_warning_signs_meidum+'
+        Medium Warning Sign'+ss+'</a>';\n\t                  }\n\t                  \n\t
+        \                 \n\t                  if(data.num_warning_signs_severe>0){\n\t
+        \                 \t\n\t                  \tvar ss = '';\n\t                  \t\n\t
+        \                 \tif(data.num_warning_signs_severe>1){\n\t                  \t\tss
+        = 's';\n\t                  \t}\n\t                  \t\n\t                  \ttp_dis
+        += '<a href=\"/analysis/'+s+'&subtab=signs&tps\" class=\"severe_small\" style=\"margin-top:1px;margin-left:4px;\">'+data.num_warning_signs_severe+'
+        Severe Warning Sign'+ss+'</a>';\n\t                  }\n\t                  \n\t
+        \                \n\t                  var c_id = Math.floor((Math.random()
+        * 100) + 1);\n\t                  //chart comments\n\t                  tp_dis
+        += '<hr style=\"margin:6px 0;color:#CCC;\"><div id=\"c_'+s+c_id+'\" style=\"height:
+        120px\"></div>';\n\t                  tp_dis += '<hr style=\"margin:6px 0;color:#CCC;\">';\n\t
+        \                 \n\t                  tp_dis += '<div style=\"text-align:center;\"><a
+        href=\"/financials.php?symbol='+s+'&tps\" style=\"margin-top: 10px;\" target=\"_blank\"
+        class=\"bs_btn bs_btn-primary\">Click for '+data.symbol+' 30-Y Financials</a></div>';\n\t
+        \                 \n\t                api.set('content.text',tp_dis);\n\n\t
+        \               \n\t                //Charts data start\n\t                \n\t
+        \               var stock_price_now = data.price;\n\t                var stock_price_now_pos
+        = data.price;\n\t                if(stock_price_now_pos>data.max_num){\n\t
+        \               \tstock_price_now_pos = data.max_num+10;\n\t                }\n\t
+        \               \n\t                var valuation_cate_string = '';\n\t                var
+        valuation_data_string = '';\n\t                var min_num = data.min_num;\n\t
+        \               \n\t                \n\t                var currency_symbol=data.currency_img;\n\t
+        \             \nvar valuation_cate_arr = [];\nvar valuation_data_arr = [];\n\nif
+        (data.EPV != 0) {\n\tvaluation_cate_arr.push('Earnings Power Value');\n\tvaluation_data_arr.push({y:parseFloat(data.EPV),color:'#AFC8F8',url:'/term/EPV/'+s+'/Earnings%2BPower%2BValue%2B%2528EPV%2529/'+s});\n}\n\nif
+        (data.ncav_real != 0) {\n\tvaluation_cate_arr.push('Net Current Asset Value');\n\tvaluation_data_arr.push({y:parseFloat(data.ncav_real),color:'green',url:'/term/NCAV_real/'+s+'/Net+Current+Asset+Value+%28per+share%29/'+s});\n}\n\nif
+        (data.tangible_book != 0) {\n\tvaluation_cate_arr.push('Tangible Book');\n\tvaluation_data_arr.push({y:parseFloat(data.tangible_book),color:'#F6BD0F',url:'/term/Tangibles_book_per_share/'+s+'/Tangible%2BBook%2BValue%2Bper%2BShare/'+s});\n}\n\nif
+        (data.iv_dcf_share != 0 ) {\n\tvaluation_cate_arr.push('Projected FCF');\n\tvaluation_data_arr.push({y:parseFloat(data.iv_dcf_share),color:'#8BBA00',url:'/term/iv_dcf_share/'+s+'/Intrinsic%2BValue%2B%2528DCF%2BProjected%2529/'+s});\n}\n\nif
+        (data.medpsvalue != 0) {\n\tvaluation_cate_arr.push('Median P/S Value');\n\tvaluation_data_arr.push({y:parseFloat(data.medpsvalue),color:'#FF8E46',url:'/term/medpsvalue/'+s+'/Median%2BP%252FS%2BValue/'+s});\n}\n\nif
+        (data.grahamnumber != 0) {\n\tvaluation_cate_arr.push('Graham Number');\n\tvaluation_data_arr.push({y:parseFloat(data.grahamnumber),color:'#008E8E',url:'/term/grahamnumber/'+s+'/Graham%2BNumber/'+s});\n}\n\nif
+        (data.lynchvalue != 0) {\n\t\n\tvaluation_cate_arr.push('Peter Lynch Value');\n\tvaluation_data_arr.push({y:parseFloat(data.lynchvalue),color:'#D64646',url:'/term/lynchvalue/'+s+'/Peter%2BLynch%2BFair%2BValue/'+s});\n\t\n}\n\n\nif
+        (data.iv_dcf != 0) {\n\t\n\tvaluation_cate_arr.push('DCF (FCF Based)');\n\tvaluation_data_arr.push({y:parseFloat(data.iv_dcf),color:'#C1E6D0',url:'/term/Intrinsic%20Value%20(DCF)/'+s+'/Intrinsic%2BValue%253A%2BDCF%2B%2528FCF%2BBased%2529/'+s});\n\t\n}\n\nif
+        (data.iv_dcEarning != 0) {\n\tvaluation_cate_arr.push('DCF (Earnings Based)');\n\tvaluation_data_arr.push({y:parseFloat(data.iv_dcEarning),color:'#BFDC22',url:'/term/Intrinsic%20Value%20(DE)/'+s+'/Intrinsic%2BValue%253A%2BDCF%2B%2528Earnings%2BBased%2529/'+s});\n\t\n}\n\n\t
+        \             \n\t              //console.log(valuation_data_arr);\n\t              \n//valuation_cate_arr
+        = ['Earnings Power Value','Net Current Asset Value','Tangible Book','Projected
+        FCF','Median P/S Value','Graham Number','Peter Lynch Value'];\n//valuation_data_arr
+        = [{y:41.57,color:'#AFC8F8',url:'/term/EPV/MJN/Earnings%2BPower%2BValue%2B%2528EPV%2529/MJN'},{y:-4.180,color:'green',url:'/term/NCAV_real/MJN/Net+Current+Asset+Value+%28per+share%29/MJN'},{y:1.29,color:'#F6BD0F',url:'/term/Tangibles_book_per_share/MJN/Tangible%2BBook%2BValue%2Bper%2BShare/MJN'},{y:31.82,color:'#8BBA00',url:'/term/iv_dcf_share/MJN/Intrinsic%2BValue%2B%2528DCF%2BProjected%2529/MJN'},{y:85.03,color:'#FF8E46',url:'/term/medpsvalue/MJN/Median%2BP%252FS%2BValue/MJN'},{y:9.99,color:'#008E8E',url:'/term/grahamnumber/MJN/Graham%2BNumber/MJN'},{y:29.13,color:'#D64646',url:'/term/lynchvalue/MJN/Peter%2BLynch%2BFair%2BValue/MJN'}];\n\t
+        \     //charts data ends\n\n//charts start\n$.getScript(\"https://apis.gurufocus.com/js/highstock_1.3.3.js\",
+        function() {\t      \n\t      //Charts settings start\n\t      Highcharts.setOptions({\n
+        \                           \tlang : {\n\t\t\t\trangeSelectorZoom : '',\n\t\t\t\tmyButtonTitle:
+        ''\n\t\t\t},\n\t\t\tcolors: ['#0EB45A', '#0F22B1', '#FF0000', '#DDDF00', '#24CBE5',
+        '#64E572', '#FF9655', '#FFF263', '#6AF9C4'],\n\t\t\tchart: {\n\t            borderRadius
+        : 0,\n\t\t\t\tborderWidth : 0,\n\t\t\t\tbackgroundColor : '#FFF',\n\t\t\t\tplotBorderColor
+        : '#FFF',\n\t\t\t\tplotBorderWidth : 1,\n\t\t\t\tplotBackgroundColor: {\n\t\t
+        \           linearGradient: {\n\t                    x1: 0,\n\t                    y1:
+        0,\n\t                    x2: 0,\n\t                    y2: 1\n\t                },\n\t
+        \               stops: [\n\t\t                [0, '#FFF'],\n\t\t                [1,
+        '#FFF']\n\t\t            ]\n\t       \t\t}\n        \t},\n        \tyAxis
+        : {\n        \t\ttickWidth : 1,\n        \t\ttickColor: '#EEEEEE',\n        \t\tlineColor:
+        '#EEEEEE',\n        \t\tgridLineColor : '#EEEEEE',\n        \t\tlabels : {\n\t\t\t\t\tstyle
+        : {\n\t\t\t\t\t\tcolor : '#000',\n\t\t\t\t\t\tfontSize : '11px'\n\t\t\t\t\t}\n\t\t\t\t}\n
+        \       \t},\n        \txAxis : {\n        \t\ttickColor: '#EEEEEE',\n        \t\tlineColor:
+        '#EEEEEE',\n        \t\tlabels : {\n\t\t\t\t\tstyle : {\n\t\t\t\t\t\tcolor
+        : '#000',\n\t\t\t\t\t\tfontSize : '11px'\n\t\t\t\t\t}\n\t\t\t\t}\n        \t}\n
+        \                           });\n//Charts settings ends\n\n\t\n    \n\n                            \n\t\tvar
+        chart = new Highcharts.Chart({\n\t\t\tchart : {\n\t\t\t\trenderTo : 'c_'+s+c_id,\n\t\t\t\ttype
+        : 'bar',\n\t\t\t\tanimation : false\n\t\t\t},\n\t\t\ttitle : {\n\t\t\t\ttext
+        : null\n\t\t\t},\n\t\t\tlegend : {\n\t\t\t\tenabled : false\n\t\t\t},\n\t\t\texporting
+        : {\n\t\t\t\tbuttons : {\n\t\t\t\t\tprintButton : {\n\t\t\t\t\t\tenabled :
+        false\n\t\t\t\t\t},\n\t\t\t\t\texportButton : {\n\t\t\t\t\t\tenabled : false\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t},\n\t\t\tcredits
+        : {\n\t\t\t\tenabled : false\n\t\t\t},\n\t\t\txAxis : {\n\t\t\t\tlineWidth
+        : 0,\n\t\t\t\ttickLength : 0,\n\t\t\t\tcategories : valuation_cate_arr,\n\t\t\t\tlabels
+        : {\n\t\t\t\t\tstyle : {\n\t\t\t\t\t\tfontSize : '10px',\n\t\t\t\t\t\tcolor
+        : '#000',\n\t\t\t\t\t\twidth : '120px'\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t},\n\t\t\tyAxis
+        : {\n\t\t\t\t\n\t\t\t\tgridLineWidth : 0,\n\t\t\t\ttitle : {\n\t\t\t\t\ttext
+        : null\n\t\t\t\t},\n\t\t\t\t//minRange : stock_price_now_pos,\n\t\t\t\tmin
+        : min_num,\n\t\t\t\tplotLines : [{\n\t\t\t\t\tcolor : 'green',\n\t\t\t\t\twidth
+        : 1,\n\t\t\t\t\tzIndex : 5,\n\t\t\t\t\tlabel : {\n\t\t\t\t\t\ttext : 'Price
+        Now: ' + currency_symbol + stock_price_now,\n\t\t\t\t\t\tstyle : {\n\t\t\t\t\t\t\tfontSize
+        : '9px',\n\t\t\t\t\t\t\tcolor : 'green'\n\t\t\t\t\t\t},\n\t\t\t\t\t\talign
+        : 'center',\n\t\t\t\t\t\tverticalAlign : 'bottom',\n\t\t\t\t\t\trotation :
+        0,\n\t\t\t\t\t\tx : -5\n\t\t\t\t\t},\n\t\t\t\t\tvalue : stock_price_now,\n\t\t\t\t\tdashStyle
+        : 'Dash'\n\t\t\t\t}, {\n\t\t\t\t\tcolor : '#DDD',\n\t\t\t\t\twidth : 2,\n\t\t\t\t\tzIndex
+        : 5,\n\t\t\t\t\tvalue : 0,\n\t\t\t\t\tdashStyle : 'Solid'\n\t\t\t\t}],\n\t\t\t\tlabels
+        : {\n\t\t\t\t\tenabled : false\n\t\t\t\t}\n\t\t\t},\n\t\t\tplotOptions : {\n\t\t\t\tseries
+        : {\n\t\t\t\t\tanimation : false,\n\t\t\t\t\tborderColor : '#C0C0C0',\n\t\t\t\t\tshadow
+        : false,\n\t\t\t\t\tcursor : 'pointer',\n\t\t\t\t\tpoint : {\n\t\t\t\t\t\tevents
+        : {\n\t\t\t\t\t\t\tclick : function() {\n\t\t\t\t\t\t\t\twindow.open(this.options.url,
+        '_blank');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t},\n\t\t\ttooltip
+        : {\n\t\t\t\tbackgroundColor : '#FFFFFF',\n\t\t\t\tborderWidth : 0,\n\t\t\t\tborderRadius
+        : 0,\n\t\t\t\tstyle : {\n\t\t\t\t\tfontSize : '9px',\n\t\t\t\t\tcolor : 'blue'\n\t\t\t\t},\n\t\t\t\theaderFormat
+        : '{point.key} ',\n\t\t\t\tpointFormat : ': <b>' + currency_symbol + '{point.y}</b>',\n\t\t\t\tpositioner
+        : function() {\n\t\t\t\t\treturn {\n\t\t\t\t\t\tx : 100,\n\t\t\t\t\t\ty :
+        -11\n\t\t\t\t\t};\n\t\t\t\t},\n\t\t\t\tshadow : false\n\t\t\t},\n\t\t\tseries
+        : [{\n\t\t\t\tname : 'valuations',\n\t\t\t\tdata : valuation_data_arr\n\t\t\t}]\n\t\t},
+        function(chart) {\n\t\t});\n\t                \n\t    });\n\t    \n\t    //charts
+        end\n\t            }, function(xhr, status, error) {\n\t                //
+        Upon failure... set the tooltip content to the status and error value\n\t
+        \               //api.set('content.text', status + ': ' + error);\n\t                api.set('content.text',
+        'No information provided.');\n\t            });\n\t            \n\t            //google
+        analytics\n\t   //          ga('send', {\n\t\t\t\t//   hitType: 'event',\n\t\t\t\t//
+        \  eventCategory: 'Tooltip',\n\t\t\t\t//   eventAction: 'open',\n\t\t\t\t//
+        \  eventLabel: 'Tooltip for stock'\n\t\t\t\t// });\n\t\n\t            return
+        'Loading...' // Set some initial loading text\n\t        }\n\t    },\n\t    hide:
+        {\n\t    \tfixed: true,\n\t        delay: 500\n\t    },\n\t    style: {\n\t
+        \       classes: 'myCustomClass'\n\t    }\n\t});\n\t//click add_p\n\n}\n\n//\n$(document).ready(function
+        () {\n\n\tCreateToolTips();\n\n});\n</script>\n<script>\n// Add to portfolio\n\n\n
+        \   function updateTips(t) {\n        tips.text(t).addClass(\"ui-state-highlight\");\n
+        \       setTimeout(function() {\n            tips.removeClass(\"ui-state-highlight\",
+        1500);\n        }, 500);\n    }\n\n    function checkSelect(o, n) {\n        //alert(o);\n
+        \       //\n        if ( o.length==0) {\n            updateTips(\"You must
+        select a \" + n);\n            return false;\n        } else {\n            return
+        true;\n        }\n    }\n\n//\n\n\t$(\"#watch_area\").dialog({\n        autoOpen
+        : false,\n        resizable : false,\n        height : 'auto',\n        width
+        : 400,\n        modal : true,\n     });\n     \n    $(\"#watchlist-form\").dialog({\n
+        \       autoOpen : false,\n        resizable : false,\n        height : 'auto',\n
+        \       width : 400,\n        modal : true,\n        buttons : {\n            \"Submit\"
+        : function() {\n                var bValid = true;\n\n                // Get
+        which radio is selected\n                var port = [];\n                $('input[name=selectportfolio]:checked').each(function(){\n
+        \               \tport.push($(this).val()+'');\n                });\n\n                if(port.length>0){\n
+        \                   port=port.join(\"|\");\n                }\n\n                bValid
+        = bValid && checkSelect(port, \"portfolio\");\n\n                // If user
+        input is valid, submit stock notes to server.\n                if (bValid)
+        {\n\n                    var new_port_name = $('#newportfolioname').val();\n\n
+        \                   // Get Stock Notes\n                    var notes = jQuery.trim($('#watchlistnotes').val());\n
+        \                   \n                    var WatchSymbol = $(this).data('sym');\n\n
+        \                   // Add notes\n                    // Get thread_id\n                    var
+        message_id = '';\n                    if (notes != '') {\n                        var
+        sublength = notes.length;\n                        if (sublength > 20) {\n
+        \                           var subject = notes.substr(0, 20);\n                        }
+        else {\n                            var subject = notes;\n                        }\n
+        \                       var time1 = new Date().getTime();\n\n                        $.post(\"/modules/post/handle_forum_posts.php\",
+        \"id_out=1&body=<a href=\\\"http://www.gurufocus.com/stock/\" + WatchSymbol
+        + \"\\\">$\" + WatchSymbol + \"</a>: \" + notes + \"&subject=\" + subject
+        + \"&lasttime=\" + time1 + \"&parent_id=0&thread=0&forum_id=9&Submit=Submit&stocks=\"
+        + WatchSymbol, function(theResponse) {\n                            message_id
+        = theResponse;\n\n                            // Add symbol to portfolio\n
+        \                           //alert(message_id);\n                            $.post(\"/modules/post/watch_new.php\",
+        \"symbol=\" + escape(WatchSymbol) + \"&port_id=\" + port + \"&new_port_name=\"
+        + new_port_name + \"&notes=\" + message_id, function(theResponse) {\n                                $(\"#watch_area\").html(theResponse);\n
+        \                           });\n                        });\n                    }
+        else {\n                        // If no notes\n                        $.post(\"/modules/post/watch_new.php\",
+        \"symbol=\" + escape(WatchSymbol) + \"&port_id=\" + port + \"&new_port_name=\"
+        + new_port_name, function(theResponse) {\n                            $(\"#watch_area\").html(theResponse);\n
+        \                       });\n\n                    }\n\n                    //
+        Close the dialog\n                    $(this).dialog(\"close\");\n                }\n\n
+        \           },\n            Cancel : function() {\n                $(this).dialog(\"close\");\n
+        \           }\n        },\n        close : function() {\n            //allFields.val(
+        \"\" ).removeClass( \"ui-state-error\" );\n            //$(\"#watch_area\").html(\"<a
+        href='javascript:;' id='watch' style='addtoport'><img src='https://static.gurufocus.com/images/icons/gray/png/sq_plus_icon&16.png'
+        />Add to Portfolio</a>\");\n        }\n    });\n\n    \n  \n$(document.body).on('click',
+        '.add_p' ,function(){\n\t\n\tvar UserId = \"\";\n\t//Hide all tooltips\n\t$(\".stocks_tp\").qtip('hide');\n\t\n\t
+        if (UserId > 0) {//load Ajax javascript only if logged in.\n            //
+        put user's portfolio in stock_port_p\n            $.get('/modules/stock/get_port.php?user_id='+UserId,
+        function(data) {\n                $('#stock_port_p').html(data);\n            });\n
+        \           // open dialog\n            $(\"#watchlist-form\").data('sym',
+        $(this).attr('id')).dialog(\"open\");\n            $( \"#watchlist-form\"
+        ).dialog({position:{my:\"center center\",at:\"center top\", of:\"#newcontent\"}});\n
+        \           \n\n        } else {\n            $(\"#watch_area\").dialog(\"open\");\n
+        \           $( \"#watch_area\" ).dialog({position:{my:\"center center\",at:\"center
+        top+300\", of:\"#newcontent\"}});\n        }\n});\n\n</script>\n<div>\n<div
+        id=\"content3\" style=\"background-color: #FFF9E6;padding:3px;\">\n<div style=\"border:0px;padding:5px;margin:0
+        5px;text-align:center;\">\n<a href=\"/membership/AffiliateProgramFAQ.php#wp\">Get
+        WordPress Plugins</a> for easy affiliate links on Stock Tickers and Guru Names\n|
+        <a href=\"/news/220422/earn-affiliate-commissions-by-embedding-gurufocus-charts\">Earn
+        affiliate commissions by embedding GuruFocus Charts</a><br />\nGuruFocus Affiliate
+        Program: Earn up to $400 per referral. ( <a class=\"moremore\" href=\"https://www.gurufocus.com/membership/AffiliateProgramFAQ.php\"
+        style=\"float: none;color:#CC6600;\">Learn More</a>) <br />\n</div>\n</div>\n<div
+        id=\"premium_membership\">\n<div style=\"margin:0 auto;width:887px;margin-top:20px;\">\n<a
+        href=\"https://www.gurufocus.com/membership/upgrade.php?ref=bottom\"><img
+        style=\"\" src=\"https://static.gurufocus.com/images/new/guru_premium_mem.jpg\"></a>\n</div>\n</div>\n<div
+        class=\"clear\"></div>\n<div id=\"content3\" style=\"background-color: #F5F8FD;padding:3px;\">\n\n<div
+        class=\"clear\"></div>\n</div>\n\n</div>\n<div id=\"footer\">\n<div class=\"footergrid\">\n<ul
+        class=\"footerul\">\n<li class=\"footerli\">\n<a href=\"/\">Home</a>&nbsp;&nbsp;<a
+        href=\"/about.php\">About</a>&nbsp;&nbsp; <a href=\"/jobs.php\">Jobs</a>&nbsp;&nbsp;
+        <a href=\"/sponsor.php\">Advertise</a>&nbsp;&nbsp;&nbsp; <a href=\"/sitemap.php\">Site
+        Map</a>&nbsp;&nbsp;&nbsp; <a href=\"/Terms_of_use.php\" target=\"_blank\">Term
+        of Use</a>&nbsp;&nbsp;&nbsp; <a href=\"/Privacy_policy.htm\" target=\"_blank\">Privacy
+        Policy</a>&nbsp;&nbsp;&nbsp; <a href=\"/rss.php\" target=\"_blank\">&nbsp;RSS</a>&nbsp;&nbsp;&nbsp;
+        <a href=\"/app.php\" target=\"_blank\">Mobile App</a> &nbsp;&nbsp;&nbsp; <a
+        href=\"/subscribe.php\">Email Alerts</a>&nbsp;&nbsp;&nbsp; <a href=\"/user_referrals.php\">Referral
+        Program</a>&nbsp;&nbsp;&nbsp; <a href=\"/membership/AffiliateProgramFAQ.php\">Affiliate
+        Program</a>&nbsp;&nbsp;&nbsp; <a href=\"/faq.php\">FAQ</a>&nbsp;&nbsp;&nbsp;
+        <a href=\"/ticket/open.php\" target=\"_blank\">Contact Us</a>\n&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp; <a href=\"https://www.gurufocus.cn/\" target=\"_blank\">\u4E2D\u6587</a>
+        </li>\n<li class=\"footerli\">\n&copy; 2004-2020 GuruFocus.com, LLC. All Rights
+        Reserved.\n</li>\n<li class=\"footerli\">\n<p>\nDisclaimers: GuruFocus.com
+        is not operated by a broker, a dealer, or a registered investment adviser.
+        Under no circumstances does any information posted on GuruFocus.com represent
+        a recommendation to buy or sell a security. The information on this site,
+        and in its related newsletters, is not intended to be, nor does it constitute,
+        investment advice or recommendations. The gurus may buy and sell securities
+        before and after any particular article and report and information herein
+        is published, with respect to the securities discussed in any article and
+        report posted herein. In no event shall GuruFocus.com be liable to any member,
+        guest or third party for any damages of any kind arising out of the use of
+        any content or other material published or available on GuruFocus.com, or
+        relating to the use of, or inability to use, GuruFocus.com or any content,
+        including, without limitation, any investment losses, lost profits, lost opportunity,
+        special, incidental, indirect, consequential or punitive damages. Past performance
+        is a poor indicator of future performance. The information on this site, and
+        in its related newsletters, is not intended to be, nor does it constitute,
+        investment advice or recommendations. The information on this site is in no
+        way guaranteed for completeness, accuracy or in any other way. The gurus listed
+        in this website are not affiliated with GuruFocus.com, LLC.\nStock quotes
+        provided by InterActive Data. Fundamental company data provided by Morningstar,
+        updated daily.</p>\n</li>\n</ul>\n</div>\n</div>\n</div>\n<div id=\"fb-root\"></div>\n<link
+        media=\"screen\" rel=\"stylesheet\" href=\"//apis.gurufocus.com/css/colorbox.css\"
+        />\n<script async language=\"javascript\" src=\"//apis.gurufocus.com/js/jquery.colorbox.js\"
+        type=\"text/javascript\"></script>\n<script async type=\"text/javascript\"
+        src=\"//apis.gurufocus.com/js/jquery.form.js\"></script>\n<script async type=\"text/javascript\"
+        src=\"//apis.gurufocus.com/js/guru_common.js?2020.10.12\"></script>\n<script>\n\n$(document).ready(function(){\n\t//console.log(document.referrer);\n\tvar
+        uuser_id = 0;\n\tvar uuser_status = 0;\n\t$.post('/modules/user_impro_statistic.php',
+        {\n\t\ttype: 1,\n\t\turl: window.location.href,\n\t\treferrer: document.referrer,\n\t\tuser_id:
+        uuser_id,\n\t\tuser_status: uuser_status,\n\t    timestamp: 1608313818\t});\n\n});\n\t</script>\n<script>\njQuery(function(){\nvar
+        timer = setTimeout(function(){\njQuery.colorbox({innerWidth:\"600px\", innerHeight:\"500px\",
+        iframe:false,href:\"/modules/pop_register.php?s=TWTR\"});\n}, 1);\n\n});\n\n$(document).bind(\"cbox_complete\",
+        function(){\n    var href = $.colorbox.element().attr(\"href\");\n    if (href)
+        {\n        _gaq.push([\"_trackPageview\", href]);\n    }\n});\n\n</script>\n<script
+        type=\"text/javascript\" async=\"true\">\n    (function(d, s, id) {\n        var
+        js, fjs = d.getElementsByTagName(s)[0];\n        if (d.getElementById(id))\n
+        \           return;\n        js = d.createElement(s);\n        js.id = id;\n
+        \       js.src = \"//connect.facebook.net/en_US/all.js#xfbml=1\";\n        fjs.parentNode.insertBefore(js,
+        fjs);\n    }(document, 'script', 'facebook-jssdk'));\n</script>\n<script async
+        type=\"text/javascript\" src=\"//platform.linkedin.com/in.js\" async=\"true\">\n\n
+        \       api_key: 61zs5c03pdk4\n        authorize: true\n\n</script>\n\n<style>\n
+        \   .addthis-smartlayers{\n        z-index: 0 !important;\n        position:
+        fixed !important;\n    }\n</style>\n<script>\n    \n    // var def_body_width
+        = $(\".defBody\").css('width').replace(\"px\", \"\");\n    // var window_width
+        = $(\"#body\").css('width').replace(\"px\", \"\");\n    // if ((window_width
+        - def_body_width)/2 > 40) {\n    //     (function() {\n    //         var
+        po = document.createElement('script'); po.type = 'text/javascript'; po.async
+        = true;\n    //         po.src = '//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56007a16c06ae30a';\n
+        \   //         var s = document.getElementsByTagName('script')[0]; \n    //
+        \        s.parentNode.insertBefore(po, s);\n    //       })();\n    // } \n\n</script>\n</body>\n</html>\n"
+    headers:
+      CF-Cache-Status:
+      - DYNAMIC
+      CF-RAY:
+      - 603ab9b6d9e3c447-LED
+      Cache-Control:
+      - no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+      Connection:
+      - keep-alive
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Fri, 18 Dec 2020 17:50:18 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      NEL:
+      - '{"report_to":"cf-nel","max_age":604800}'
+      Pragma:
+      - no-cache
+      Report-To:
+      - '{"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=c51Fx6kyfj8VgLz6RkShpOWbs24rl18xdMJ9AvoGt4d36jNAwCvTJq3VWPDrCKDDspOt2tJGetqQCqrBhbh2gW5VGVfoLGiOElc72cWJuy%2BZWQ%3D%3D"}],"group":"cf-nel","max_age":604800}'
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d1eda63420fb53ca969203975f528466c1608313818; expires=Sun, 17-Jan-21
+        17:50:18 GMT; path=/; domain=.gurufocus.com; HttpOnly; SameSite=Lax; Secure
+      - PHPSESSID=r5ictl06e7h4dhio502r44rs00; path=/
+      - refsite=https%3A%2F%2Fwww.google.com%2F; expires=Sat, 18-Dec-2021 17:50:18
+        GMT; Max-Age=31536000; path=/
+      - refurl=779572; expires=Sat, 18-Dec-2021 17:50:18 GMT; Max-Age=31536000; path=/
+      Transfer-Encoding:
+      - chunked
+      X-Frame-Options:
+      - SAMEORIGIN
+      cf-request-id:
+      - 07189266490000c4475fb75000000001
+      content-length:
+      - '165622'
+    status:
+      code: 200
+      message: OK
+version: 1

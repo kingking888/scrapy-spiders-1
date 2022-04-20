@@ -1,0 +1,1232 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - soygrowers.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://soygrowers.com/news-media/news-releases/page/1/
+  response:
+    body:
+      string: '  '
+    headers:
+      Accept-Ranges:
+      - bytes
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Length:
+      - '2'
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Fri, 13 Nov 2020 02:56:06 GMT
+      Location:
+      - https://soygrowers.com/news-media/news-releases/
+      Pragma:
+      - no-cache
+      Referrer-Policy:
+      - no-referrer-when-downgrade
+      Server:
+      - Flywheel/5.1.0
+      X-Cache:
+      - HIT
+      X-Cache-Hits:
+      - '1'
+      X-Content-Type-Options:
+      - nosniff
+      X-FW-Dynamic:
+      - 'TRUE'
+      X-FW-Hash:
+      - 74sfrtlghd
+      X-FW-Serve:
+      - 'TRUE'
+      X-FW-Server:
+      - Flywheel/5.1.0
+      X-FW-Static:
+      - 'NO'
+      X-FW-Type:
+      - VISIT
+      X-FW-Version:
+      - 5.0.0
+      X-Redirect-By:
+      - WordPress
+      X-Served-By:
+      - cache-lga21976-LGA
+      X-Timer:
+      - S1605236166.084525,VS0,VE1
+      X-XSS-Protection:
+      - '1'
+    status:
+      code: 301
+      message: Moved Permanently
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - soygrowers.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://soygrowers.com/news-media/news-releases/
+  response:
+    body:
+      string: "  <!DOCTYPE html>\n<htmllang=&quot;en-US&quot; class=\"no-js\">\n<head>\n\
+        \    <!--\n          \u25B2\n         \u25E2\u25AE\u25E3          \u2588\u2588\
+        \u2588\u2588\u2588\u2588  \u2588\u2588\u2588\u2588\u2588\u2588\n    \u25E5\
+        \u25AE\u25AE\u25AE\u25AE\u25AE\u25AE\u25AE\u25AE\u25AE\u25AE\u25AE\u25E4 \
+        \    \u2588\u2588   \u2588\u2588      \u2588\u2588\n      \u25E5\u25AE\u25AE\
+        \u25AE\u25AE\u25AE\u25AE\u25AE\u25E4       \u2588\u2588\u2588\u2588\u2588\u2588\
+        \   \u2588\u2588\u2588\u2588\u2588\n      \u25E2\u25AE\u25AE\u25E4 \u25E5\u25AE\
+        \u25AE\u25E3       \u2588\u2588           \u2588\u2588\n     \u25E2\u25AE\u25E4\
+        \     \u25E5\u25AE\u25E3      \u2588\u2588      \u2588\u2588\u2588\u2588\u2588\
+        \u2588\n   Created By: propaganda3.com\n   -->\n    <meta charset=\"UTF-8\"\
+        >\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta\
+        \ name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1,\
+        \ user-scalable=no\">    <link rel=\"profile\" href=\"http://gmpg.org/xfn/11\"\
+        >\n    <title>News Releases | American Soybean Association</title>    <meta\
+        \ name=\"msapplication-TileColor\" content=\"#ffffff\">\n    <meta name=\"\
+        msapplication-TileImage\" content=\"https://soygrowers.com/wp-content/themes/tardigrade/images/ms-icon-144x144.png\"\
+        >    <meta name=\"theme-color\" content=\"#ffffff\">\n<!-- Google Tag Manager\
+        \ for WordPress by gtm4wp.com -->\n<script data-cfasync=\"false\" data-pagespeed-no-defer>//<![CDATA[\n\
+        \tvar gtm4wp_datalayer_name = \"dataLayer\";\n\tvar dataLayer = dataLayer\
+        \ || [];\n//]]>\n</script>\n<!-- End Google Tag Manager for WordPress by gtm4wp.com\
+        \ -->\n\t<!-- This site is optimized with the Yoast SEO plugin v15.2.1 - https://yoast.com/wordpress/plugins/seo/\
+        \ -->\n\t<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large,\
+        \ max-video-preview:-1\" />\n\t<link rel=\"canonical\" href=\"https://soygrowers.com/news-media/news-releases/\"\
+        \ />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"\
+        og:type\" content=\"article\" />\n\t<meta property=\"og:title\" content=\"\
+        News Releases | American Soybean Association\" />\n\t<meta property=\"og:url\"\
+        \ content=\"https://soygrowers.com/news-media/news-releases/\" />\n\t<meta\
+        \ property=\"og:site_name\" content=\"American Soybean Association\" />\n\t\
+        <meta property=\"article:publisher\" content=\"https://www.facebook.com/AmericanSoybeanAssociation\"\
+        \ />\n\t<meta property=\"article:modified_time\" content=\"2019-03-13T16:07:22+00:00\"\
+        \ />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\" />\n\t\
+        <meta name=\"twitter:creator\" content=\"@ASA_Soybeans\" />\n\t<meta name=\"\
+        twitter:site\" content=\"@ASA_Soybeans\" />\n\t<meta name=\"twitter:label1\"\
+        \ content=\"Written by\">\n\t<meta name=\"twitter:data1\" content=\"p3_admin\"\
+        >\n\t<meta name=\"twitter:label2\" content=\"Est. reading time\">\n\t<meta\
+        \ name=\"twitter:data2\" content=\"0 minutes\">\n\t<script type=\"application/ld+json\"\
+        \ class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\"\
+        :[{\"@type\":\"Organization\",\"@id\":\"https://soygrowers.com/#organization\"\
+        ,\"name\":\"American Soybean Association\",\"url\":\"https://soygrowers.com/\"\
+        ,\"sameAs\":[\"https://www.facebook.com/AmericanSoybeanAssociation\",\"https://www.instagram.com/americansoybeanassociation/\"\
+        ,\"https://www.youtube.com/user/americansoybeanassoc?feature=watch\",\"https://twitter.com/ASA_Soybeans\"\
+        ],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://soygrowers.com/#logo\"\
+        ,\"inLanguage\":\"en-US\",\"url\":\"https://soygrowers.com/wp-content/uploads/2019/03/ASA-logo-600ppi-x-313ppi.jpg\"\
+        ,\"width\":600,\"height\":313,\"caption\":\"American Soybean Association\"\
+        },\"image\":{\"@id\":\"https://soygrowers.com/#logo\"}},{\"@type\":\"WebSite\"\
+        ,\"@id\":\"https://soygrowers.com/#website\",\"url\":\"https://soygrowers.com/\"\
+        ,\"name\":\"American Soybean Association\",\"description\":\"Meeting the demands\
+        \ of a growing world\",\"publisher\":{\"@id\":\"https://soygrowers.com/#organization\"\
+        },\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://soygrowers.com/?s={search_term_string}\"\
+        ,\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"\
+        en-US\"},{\"@type\":\"WebPage\",\"@id\":\"https://soygrowers.com/news-media/news-releases/#webpage\"\
+        ,\"url\":\"https://soygrowers.com/news-media/news-releases/\",\"name\":\"\
+        News Releases | American Soybean Association\",\"isPartOf\":{\"@id\":\"https://soygrowers.com/#website\"\
+        },\"datePublished\":\"2019-01-15T16:22:48+00:00\",\"dateModified\":\"2019-03-13T16:07:22+00:00\"\
+        ,\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"\
+        target\":[\"https://soygrowers.com/news-media/news-releases/\"]}]}]}</script>\n\
+        \t<!-- / Yoast SEO plugin. -->\n\n\n<link rel='dns-prefetch' href='//cdnjs.cloudflare.com'\
+        \ />\n<link rel='dns-prefetch' href='//s.w.org' />\n\t\t<script type=\"text/javascript\"\
+        >\n\t\t\twindow._wpemojiSettings = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\\
+        /core\\/emoji\\/13.0.0\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\\
+        /\\/s.w.org\\/images\\/core\\/emoji\\/13.0.0\\/svg\\/\",\"svgExt\":\".svg\"\
+        ,\"source\":{\"concatemoji\":\"https:\\/\\/soygrowers.com\\/wp-includes\\\
+        /js\\/wp-emoji-release.min.js?ver=5.5.3\"}};\n\t\t\t!function(e,a,t){var r,n,o,i,p=a.createElement(\"\
+        canvas\"),s=p.getContext&&p.getContext(\"2d\");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var\
+        \ r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function\
+        \ l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline=\"top\",s.font=\"\
+        600 32px Arial\",e){case\"flag\":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case\"\
+        emoji\":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function\
+        \ d(e){var t=a.createElement(\"script\");t.src=e,t.defer=t.type=\"text/javascript\"\
+        ,a.getElementsByTagName(\"head\")[0].appendChild(t)}for(i=Array(\"flag\",\"\
+        emoji\"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],\"\
+        flag\"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener(\"\
+        DOMContentLoaded\",n,!1),e.addEventListener(\"load\",n,!1)):(e.attachEvent(\"\
+        onload\",n),a.attachEvent(\"onreadystatechange\",function(){\"complete\"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);\n\
+        \t\t</script>\n\t\t<style type=\"text/css\">\nimg.wp-smiley,\nimg.emoji {\n\
+        \tdisplay: inline !important;\n\tborder: none !important;\n\tbox-shadow: none\
+        \ !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin:\
+        \ 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground:\
+        \ none !important;\n\tpadding: 0 !important;\n}\n</style>\n\t<link rel='stylesheet'\
+        \ id='wp-block-library-css'  href='https://soygrowers.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='contact-form-7-css'\
+        \  href='https://soygrowers.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='p3-lity-css-css'\
+        \  href='https://soygrowers.com/wp-content/themes/tardigrade/css/libs/lity.min.css?ver=5.5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='p3-css-css' \
+        \ href='https://soygrowers.com/wp-content/themes/tardigrade/css/styles.min.css?ver=5.5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='p3-bootstrap-select-css-css'\
+        \  href='https://soygrowers.com/wp-content/themes/tardigrade/css/libs/bootstrap-select.min.css?ver=5.5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='p3-bootstrap-datepicker-css-css'\
+        \  href='https://soygrowers.com/wp-content/themes/tardigrade/css/libs/bootstrap-datepicker.min.css?ver=5.5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='timeline-reset-css-css'\
+        \  href='https://soygrowers.com/wp-content/themes/tardigrade/css/libs/timeline-reset.css?ver=5.5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='timeline-style-css-css'\
+        \  href='https://soygrowers.com/wp-content/themes/tardigrade/css/libs/timeline-style.css?ver=5.5.3'\
+        \ type='text/css' media='all' />\n<script type='text/javascript' src='https://soygrowers.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'\
+        \ id='jquery-core-js'></script>\n<script type='text/javascript' src='https://soygrowers.com/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.11.5'\
+        \ id='gtm4wp-form-move-tracker-js'></script>\n<script type='text/javascript'\
+        \ src='https://soygrowers.com/wp-content/themes/tardigrade/js/libs/snap.svg-min.js?ver=5.5.3'\
+        \ id='p3-snapsvg-js-js'></script>\n<script type='text/javascript' src='https://soygrowers.com/wp-content/themes/tardigrade/js/wpo.js?ver=5.5.3'\
+        \ id='p3-wpo-js-js'></script>\n<script type='text/javascript' src='https://soygrowers.com/wp-content/themes/tardigrade/js/wpo-settings.js?ver=5.5.3'\
+        \ id='p3-wpo-settings-js-js'></script>\n<script type='text/javascript' id='p3-wpo-settings-js-js-after'>\n\
+        WPO.Settings.setBlogUrl(\"https://soygrowers.com/\");\n</script>\n<script\
+        \ type='text/javascript' src='https://soygrowers.com/wp-content/themes/tardigrade/js/libs/modernizr.js?ver=5.5.3'\
+        \ id='modernizr-js-js'></script>\n<script type='text/javascript' src='https://soygrowers.com/wp-content/themes/tardigrade/js/libs/timeline-main.js?ver=5.5.3'\
+        \ id='timeline-main-js-js'></script>\n<link rel=\"https://api.w.org/\" href=\"\
+        https://soygrowers.com/wp-json/\" /><link rel=\"alternate\" type=\"application/json\"\
+        \ href=\"https://soygrowers.com/wp-json/wp/v2/pages/2895\" /><link rel=\"\
+        EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://soygrowers.com/xmlrpc.php?rsd\"\
+        \ />\n<link rel=\"wlwmanifest\" type=\"application/wlwmanifest+xml\" href=\"\
+        https://soygrowers.com/wp-includes/wlwmanifest.xml\" /> \n<meta name=\"generator\"\
+        \ content=\"WordPress 5.5.3\" />\n<link rel='shortlink' href='https://soygrowers.com/?p=2895'\
+        \ />\n<link rel=\"alternate\" type=\"application/json+oembed\" href=\"https://soygrowers.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsoygrowers.com%2Fnews-media%2Fnews-releases%2F\"\
+        \ />\n<link rel=\"alternate\" type=\"text/xml+oembed\" href=\"https://soygrowers.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsoygrowers.com%2Fnews-media%2Fnews-releases%2F&#038;format=xml\"\
+        \ />\n\n<!-- Google Tag Manager for WordPress by gtm4wp.com -->\n<script data-cfasync=\"\
+        false\" data-pagespeed-no-defer>//<![CDATA[\n\tvar dataLayer_content = {\"\
+        pagePostType\":\"page\",\"pagePostType2\":\"single-page\",\"pagePostAuthor\"\
+        :\"p3_admin\"};\n\tdataLayer.push( dataLayer_content );//]]>\n</script>\n\
+        <script data-cfasync=\"false\">//<![CDATA[\n(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n\
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n\
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);\n\
+        })(window,document,'script','dataLayer','GTM-5G66B3X');//]]>\n</script>\n\
+        <!-- End Google Tag Manager -->\n<!-- End Google Tag Manager for WordPress\
+        \ by gtm4wp.com -->        <!--Customizer CSS-->\n        <style type=\"text/css\"\
+        >\n            /*TESTOUT*/\n                    </style>\n        <!--/Customizer\
+        \ CSS-->\n        <link rel=\"icon\" href=\"https://soygrowers.com/wp-content/uploads/2019/01/cropped-asa_favicon-32x32.png\"\
+        \ sizes=\"32x32\" />\n<link rel=\"icon\" href=\"https://soygrowers.com/wp-content/uploads/2019/01/cropped-asa_favicon-192x192.png\"\
+        \ sizes=\"192x192\" />\n<link rel=\"apple-touch-icon\" href=\"https://soygrowers.com/wp-content/uploads/2019/01/cropped-asa_favicon-180x180.png\"\
+        \ />\n<meta name=\"msapplication-TileImage\" content=\"https://soygrowers.com/wp-content/uploads/2019/01/cropped-asa_favicon-270x270.png\"\
+        \ />\n\n</head>\n<body class=\"page-template-default page page-id-2895 page-child\
+        \ parent-pageid-2893\">\n<header>\n    <!--Start: Desktop Header-->\n    <div\
+        \ class=\"desktop-header\">\n        <div class=\"container-fluid\">\n   \
+        \         <div class=\"row\">\n                <!--Start: Logo-->\n      \
+        \          <div class=\"col-lg-2 relative logo-circle d-flex justify-content-center\"\
+        >\n                    <div class=\"logo-cont w-100 text-center\">\n     \
+        \                   <a class=\"h-100 w-100 absolute\" href=\"https://soygrowers.com\"\
+        ></a>\n                        <img class=\"header-logo\" src=\"https://soygrowers.com/wp-content/uploads/2019/02/asa-logo.svg\"\
+        >\n                    </div>\n                </div>\n                <div\
+        \ class=\"col-lg-10 remove-padding-x\">\n                    <!--Start: Utility\
+        \ Menu-->\n                    <div class=\"container-fluid bg-brand-color-1\
+        \ relative top-menu-container\">\n                        <div class=\"top-menu\"\
+        >\n                            <div class=\"row d-flex justify-content-start\
+        \ align-items-center align-content-center \"><!--inline-block--><div class=\"\
+        menu-top-menu-container\"><ul id=\"menu-top-menu\" class=\"nav row\"><li id=\"\
+        menu-item-27198\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-27198\"><a title=\"Soy Action Center\" href=\"https://soygrowers.com/soy-action-center/\"\
+        ><span>Soy Action Center</span></a></li>\n<li id=\"menu-item-2944\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-2944\"\
+        ><a title=\"SoyPAC\" href=\"https://soygrowers.com/soypac/\"><span>SoyPAC</span></a></li>\n\
+        <li id=\"menu-item-2945\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-2945\"><a title=\"Soy Ink Seal\" href=\"https://soygrowers.com/soy-ink-seal/\"\
+        ><span>Soy Ink Seal</span></a></li>\n<li id=\"menu-item-2946\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page menu-item-2946\"><a title=\"\
+        Events &#038; Registration\" href=\"https://soygrowers.com/events-registration/\"\
+        ><span>Events &#038; Registration</span></a></li>\n<li id=\"menu-item-24209\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-24209\"\
+        ><a title=\"Board &amp; State Portal\" href=\"https://soygrowers.com/homepage-portal/\"\
+        ><span>Board &#038; State Portal</span></a></li>\n<li id=\"menu-item-2947\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2947\"\
+        ><a title=\"Contact\" href=\"https://soygrowers.com/contact/\"><span>Contact</span></a></li>\n\
+        </ul></div>\n                                    <div class=\"socials relative\"\
+        >                                                    <a href=\"https://www.facebook.com/AmericanSoybeanAssociation\"\
+        \ target=\"_blank\"><i class=\"fab fa-facebook-f text-white\"></i></a>   \
+        \                                             <a href=\"https://twitter.com/ASA_Soybeans\"\
+        \ target=\"_blank\"><i class=\"fab fa-twitter text-white\"></i></a>      \
+        \                                          <a href=\"http://www.youtube.com/user/americansoybeanassoc?feature=watch\"\
+        \ target=\"_blank\"><i class=\"fab fa-youtube text-white\"></i></a>      \
+        \                                          <a href=\"https://www.instagram.com/americansoybeanassociation/\"\
+        \ target=\"_blank\"><i class=\"fab fa-instagram text-white\"></i></a>    \
+        \                                </div><form role=\"search\" method=\"get\"\
+        \ class=\"search-form  relative col\" action=\"https://soygrowers.com/\">\n\
+        \        <label>            <input type=\"search\" class=\"search-field\"\
+        \ placeholder=\"Search\" autocomplete=\"off\" value=\"\" name=\"s\" title=\"\
+        Search for:\" />\n         </label>\n    <button type=\"submit\" id=\"search-button\"\
+        \ class=\"search-submit\"><span class=\"\"><i class=\"fal fa-search\" aria-hidden=\"\
+        true\"></i></span></button></form>\n<script>\n    jQuery(document).ready(function(){\n\
+        \        jQuery('button.search-submit').on('mouseover', function() {\n   \
+        \         jQuery('input.search-field').addClass('expand-search');\n      \
+        \  });\n        jQuery('button.search-submit').on('mouseout', function() {\n\
+        \            jQuery('input.search-field').removeClass('expand-search');\n\
+        \        });\n        jQuery('input.search-field').on('focus', function()\
+        \ {\n            jQuery('input.search-field').addClass('expand-search');\n\
+        \        });\n        jQuery('input.search-field').on('blur', function() {\n\
+        \            jQuery('input.search-field').removeClass('expand-search');\n\
+        \        });\n    });\n</script>\n                            </div>\n   \
+        \                     </div>\n                    </div>\n               \
+        \     <nav class=\"main-menu\"><div class=\"menu-primary-menu-container\"\
+        >\n    <ul id=\"menu-primary-menu\" class=\"nav align-items-center row\">\
+        \        <li id=\"menu-item-3053\" class=\"top-level menu-item menu-item-type-post_type\
+        \ menu-item-object-page relative  menu-item-3053 menu-slug-about page-item-2769has-children\"\
+        >\n            <a class=\"top-level-link relative\" title=\"About\" href=\"\
+        https://soygrowers.com/about/\">About</a>            <div class=\"menu-column-wrap\
+        \ absolute dd-top relativeleft \">                <div class=\"non-image-sectioncol-8\
+        \ bg-white\">\n                    <ul role=\"menu\">                    \
+        \        <li id=\"menu-item-2949\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-2949 2895 2771 no-cols subpost\">\n    \
+        \                            <a title=\"Our History\" href=\"https://soygrowers.com/about/history/\"\
+        >Our History<i class=\"fas fa-angle-right\"></i></a>                     \
+        \       </li>                            <li id=\"menu-item-2993\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-2993 2895\
+        \ 2775 no-cols subpost\">\n                                <a title=\"Board\
+        \ of Directors\" href=\"https://soygrowers.com/about/board-of-directors/\"\
+        >Board of Directors<i class=\"fas fa-angle-right\"></i></a>              \
+        \              </li>                            <li id=\"menu-item-2994\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2994\
+        \ 2895 2777 no-cols subpost\">\n                                <a title=\"\
+        Governing Committee\" href=\"https://soygrowers.com/about/governing-committee/\"\
+        >Governing Committee<i class=\"fas fa-angle-right\"></i></a>             \
+        \               </li>                            <li id=\"menu-item-2951\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2951\
+        \ 2895 2779 no-cols subpost\">\n                                <a title=\"\
+        Staff\" href=\"https://soygrowers.com/about/asa-staff/\">Staff<i class=\"\
+        fas fa-angle-right\"></i></a>                            </li>           \
+        \                 <li id=\"menu-item-2952\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-2952 2895 2781 no-cols subpost\">\n    \
+        \                            <a title=\"Career Opportunities\" href=\"https://soygrowers.com/about/career-opportunities/\"\
+        >Career Opportunities<i class=\"fas fa-angle-right\"></i></a>            \
+        \                </li>                            <li id=\"menu-item-2953\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2953\
+        \ 2895 2783 no-cols subpost\">\n                                <a title=\"\
+        Sponsor Opportunities\" href=\"https://soygrowers.com/about/sponsor-opportunities/\"\
+        >Sponsor Opportunities<i class=\"fas fa-angle-right\"></i></a>           \
+        \                 </li>                            <li id=\"menu-item-2954\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2954\
+        \ 2895 2785 no-cols subpost\">\n                                <a title=\"\
+        Awards\" href=\"https://soygrowers.com/about/awards/\">Awards<i class=\"fas\
+        \ fa-angle-right\"></i></a>                                    <ul role=\"\
+        menu\">                                            <li id=\"menu-item-2995\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2995\
+        \ 2895 2787 no-cols sub-subpost\">\n                                     \
+        \            <a title=\"ASA Recognition Awards\" href=\"https://soygrowers.com/about/awards/asa-recognition-awards/\"\
+        >ASA Recognition Awards</a>\n                                            </li>\
+        \                                            <li id=\"menu-item-2996\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-2996 2895\
+        \ 2795 no-cols sub-subpost\">\n                                          \
+        \       <a title=\"Conservation Legacy\" href=\"https://soygrowers.com/about/awards/conservation-legacy/\"\
+        >Conservation Legacy</a>\n                                            </li>\
+        \                                            <li id=\"menu-item-2997\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-2997 2895\
+        \ 2797 no-cols sub-subpost\">\n                                          \
+        \       <a title=\"Soy Scholarship\" href=\"https://soygrowers.com/about/awards/soy-scholarship/\"\
+        >Soy Scholarship</a>\n                                            </li>  \
+        \                                  </ul>                            </li>\
+        \                    </ul>\n                </div>            <div class=\"\
+        callout-image col-4 bg-white \">                    <img src=\"https://soygrowers.com/wp-content/uploads/2019/02/Capital-USMCA.jpg\"\
+        \ alt=\"\" />            </div></li>        <li id=\"menu-item-2957\" class=\"\
+        top-level menu-item menu-item-type-post_type menu-item-object-page relative\
+        \  menu-item-2957 menu-slug-key-issues-initiatives page-item-2801has-children\"\
+        >\n            <a class=\"top-level-link relative\" title=\"Key Issues &#038;\
+        \ Initiatives\" href=\"https://soygrowers.com/key-issues-initiatives/\">Key\
+        \ Issues &#038; Initiatives</a>            <div class=\"menu-column-wrap absolute\
+        \ dd-top relativeleft \">                <div class=\"non-image-sectioncol-8\
+        \ bg-white\">\n                    <ul role=\"menu\">                    \
+        \        <li id=\"menu-item-2956\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-2956 2895 2803 no-cols subpost\">\n    \
+        \                            <a title=\"Key Issues\" href=\"https://soygrowers.com/key-issues-initiatives/key-issues/\"\
+        >Key Issues<i class=\"fas fa-angle-right\"></i></a>                      \
+        \              <ul role=\"menu\">                                        \
+        \    <li id=\"menu-item-3004\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-3004 2895 2805 no-cols sub-subpost\">\n\
+        \                                                 <a title=\"Biodiesel\" href=\"\
+        https://soygrowers.com/key-issues-initiatives/key-issues/biodiesel/\">Biodiesel</a>\n\
+        \                                            </li>                       \
+        \                     <li id=\"menu-item-3005\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-3005 2895 2807 no-cols sub-subpost\">\n\
+        \                                                 <a title=\"Biotechnology\"\
+        \ href=\"https://soygrowers.com/key-issues-initiatives/key-issues/biotechnology/\"\
+        >Biotechnology</a>\n                                            </li>    \
+        \                                        <li id=\"menu-item-3006\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-3006 2895\
+        \ 2809 no-cols sub-subpost\">\n                                          \
+        \       <a title=\"Farm Policy\" href=\"https://soygrowers.com/key-issues-initiatives/key-issues/farm-policy/\"\
+        >Farm Policy</a>\n                                            </li>      \
+        \                                      <li id=\"menu-item-3007\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-3007 2895\
+        \ 2811 no-cols sub-subpost\">\n                                          \
+        \       <a title=\"Regulatory\" href=\"https://soygrowers.com/key-issues-initiatives/key-issues/regulatory/\"\
+        >Regulatory</a>\n                                            </li>       \
+        \                                     <li id=\"menu-item-3008\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page menu-item-3008 2895 2813\
+        \ no-cols sub-subpost\">\n                                               \
+        \  <a title=\"Sustainability\" href=\"https://soygrowers.com/key-issues-initiatives/key-issues/sustainability/\"\
+        >Sustainability</a>\n                                            </li>   \
+        \                                         <li id=\"menu-item-3009\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-3009 2895\
+        \ 2815 no-cols sub-subpost\">\n                                          \
+        \       <a title=\"Trade\" href=\"https://soygrowers.com/key-issues-initiatives/key-issues/trade/\"\
+        >Trade</a>\n                                            </li>            \
+        \                                <li id=\"menu-item-3010\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page menu-item-3010 2895 2817\
+        \ no-cols sub-subpost\">\n                                               \
+        \  <a title=\"Transportation &#038; Infrastructure\" href=\"https://soygrowers.com/key-issues-initiatives/key-issues/transportation/\"\
+        >Transportation &#038; Infrastructure</a>\n                              \
+        \              </li>                                            <li id=\"\
+        menu-item-3011\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-3011 2895 2819 no-cols sub-subpost\">\n                      \
+        \                           <a title=\"Other\" href=\"https://soygrowers.com/key-issues-initiatives/key-issues/other/\"\
+        >Other</a>\n                                            </li>            \
+        \                        </ul>                            </li>          \
+        \                  <li id=\"menu-item-2959\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-2959 2895 2833 no-cols subpost\">\n    \
+        \                            <a title=\"Policy Resolutions\" href=\"https://soygrowers.com/key-issues-initiatives/policy-resolutions/\"\
+        >Policy Resolutions<i class=\"fas fa-angle-right\"></i></a>              \
+        \              </li>                            <li id=\"menu-item-2960\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2960\
+        \ 2895 2835 no-cols subpost\">\n                                <a title=\"\
+        Association Initiatives\" href=\"https://soygrowers.com/key-issues-initiatives/alliances-coalitions/association-initiatives/\"\
+        >Association Initiatives<i class=\"fas fa-angle-right\"></i></a>         \
+        \                           <ul role=\"menu\">                           \
+        \                 <li id=\"menu-item-2955\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-2955 2895 2799 no-cols sub-subpost\">\n\
+        \                                                 <a title=\"ASA Action Partnership\"\
+        \ href=\"https://soygrowers.com/key-issues-initiatives/alliances-coalitions/action-partnership/\"\
+        >ASA Action Partnership</a>\n                                            </li>\
+        \                                            <li id=\"menu-item-3013\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-3013 2895\
+        \ 2839 no-cols sub-subpost\">\n                                          \
+        \       <a title=\"Biodiesel Initiative\" href=\"https://soygrowers.com/key-issues-initiatives/alliances-coalitions/association-initiatives/biodiesel-initiative/\"\
+        >Biodiesel Initiative</a>\n                                            </li>\
+        \                                            <li id=\"menu-item-3012\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-3012 2895\
+        \ 2837 no-cols sub-subpost\">\n                                          \
+        \       <a title=\"Biotech Working Group\" href=\"https://soygrowers.com/key-issues-initiatives/alliances-coalitions/association-initiatives/biotech-working-group/\"\
+        >Biotech Working Group</a>\n                                            </li>\
+        \                                    </ul>                            </li>\
+        \                            <li id=\"menu-item-2961\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-2961 2895 2841 no-cols subpost\">\n    \
+        \                            <a title=\"Alliances &#038; Coalitions\" href=\"\
+        https://soygrowers.com/key-issues-initiatives/alliances-coalitions/\">Alliances\
+        \ &#038; Coalitions<i class=\"fas fa-angle-right\"></i></a>              \
+        \              </li>                    </ul>\n                </div>    \
+        \        <div class=\"callout-image col-4 bg-white \">                   \
+        \ <img src=\"https://soygrowers.com/wp-content/uploads/2019/02/ryxqNyd7.jpg\"\
+        \ alt=\"\" />            </div></li>        <li id=\"menu-item-2962\" class=\"\
+        top-level menu-item menu-item-type-post_type menu-item-object-page relative\
+        \  menu-item-2962 menu-slug-education-resources page-item-2843has-children\"\
+        >\n            <a class=\"top-level-link relative\" title=\"Education &#038;\
+        \ Resources\" href=\"https://soygrowers.com/education-resources/\">Education\
+        \ &#038; Resources</a>            <div class=\"menu-column-wrap absolute dd-top\
+        \ relativeleft \">                <div class=\"non-image-sectioncol-8 bg-white\"\
+        >\n                    <ul role=\"menu\">                            <li id=\"\
+        menu-item-2964\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-2964 2895 2845 no-cols subpost\">\n                          \
+        \      <a title=\"Grower Education\" href=\"https://soygrowers.com/education-resources/grower-education/\"\
+        >Grower Education<i class=\"fas fa-angle-right\"></i></a>                \
+        \                    <ul role=\"menu\">                                  \
+        \          <li id=\"menu-item-3014\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-3014 2895 2847 no-cols sub-subpost\">\n\
+        \                                                 <a title=\"Leadership Development\
+        \ Programs\" href=\"https://soygrowers.com/education-resources/grower-education/leadership-development-programs/\"\
+        >Leadership Development Programs</a>\n                                   \
+        \         </li>                                            <li id=\"menu-item-3018\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-3018\
+        \ 2895 2865 no-cols sub-subpost\">\n                                     \
+        \            <a title=\"Monarch Collaborative\" href=\"https://soygrowers.com/education-resources/grower-education/monarch-collaborative/\"\
+        >Monarch Collaborative</a>\n                                            </li>\
+        \                                            <li id=\"menu-item-3017\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-3017 2895\
+        \ 2863 no-cols sub-subpost\">\n                                          \
+        \       <a title=\"Soy Sustainability Assurance Protocol (SSAP)\" href=\"\
+        https://soygrowers.com/education-resources/grower-education/sustainability-assurance-protocol/\"\
+        >Soy Sustainability Assurance Protocol (SSAP)</a>\n                      \
+        \                      </li>                                            <li\
+        \ id=\"menu-item-3016\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-3016 2895 2861 no-cols sub-subpost\">\n                      \
+        \                           <a title=\"Webinars\" href=\"https://soygrowers.com/education-resources/grower-education/webinars/\"\
+        >Webinars</a>\n                                            </li>         \
+        \                                   <li id=\"menu-item-3015\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page menu-item-3015 2895 2859\
+        \ no-cols sub-subpost\">\n                                               \
+        \  <a title=\"Podcasts\" href=\"https://soygrowers.com/education-resources/grower-education/podcasts/\"\
+        >Podcasts</a>\n                                            </li>         \
+        \                                   <li id=\"menu-item-3019\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page menu-item-3019 2895 2867\
+        \ no-cols sub-subpost\">\n                                               \
+        \  <a title=\"Ag Data Transparency Evaluator\" href=\"https://soygrowers.com/education-resources/grower-education/ag-data-transparency-evaluator/\"\
+        >Ag Data Transparency Evaluator</a>\n                                    \
+        \        </li>                                    </ul>                  \
+        \          </li>                            <li id=\"menu-item-2965\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-2965 2895\
+        \ 2869 no-cols subpost\">\n                                <a title=\"Publications\"\
+        \ href=\"https://soygrowers.com/education-resources/publications/\">Publications<i\
+        \ class=\"fas fa-angle-right\"></i></a>                                  \
+        \  <ul role=\"menu\">                                            <li id=\"\
+        menu-item-3020\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-3020 2895 2871 no-cols sub-subpost\">\n                      \
+        \                           <a title=\"American Soybean Magazine\" href=\"\
+        https://soygrowers.com/education-resources/publications/american-soybean-magazine/\"\
+        >American Soybean Magazine</a>\n                                         \
+        \   </li>                                            <li id=\"menu-item-3028\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-3028\
+        \ 2895 2873 no-cols sub-subpost\">\n                                     \
+        \            <a title=\"Soy Stats\" href=\"https://soygrowers.com/education-resources/publications/soy-stats/\"\
+        >Soy Stats</a>\n                                            </li>        \
+        \                                    <li id=\"menu-item-3024\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page menu-item-3024 2895 2877\
+        \ no-cols sub-subpost\">\n                                               \
+        \  <a title=\"Soybean Success Report\" href=\"https://soygrowers.com/education-resources/publications/soybean-success-report/\"\
+        >Soybean Success Report</a>\n                                            </li>\
+        \                                            <li id=\"menu-item-3025\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-3025 2895\
+        \ 2879 no-cols sub-subpost\">\n                                          \
+        \       <a title=\"Directory &#038; Resolutions\" href=\"https://soygrowers.com/education-resources/publications/directory-resolutions/\"\
+        >Directory &#038; Resolutions</a>\n                                      \
+        \      </li>                                    </ul>                    \
+        \        </li>                            <li id=\"menu-item-2966\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-2966 2895\
+        \ 2881 no-cols subpost\">\n                                <a title=\"USB/Soy\
+        \ Checkoff\" href=\"https://soygrowers.com/education-resources/usb-soy-checkoff/\"\
+        >USB/Soy Checkoff<i class=\"fas fa-angle-right\"></i></a>                \
+        \            </li>                            <li id=\"menu-item-2967\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-2967 2895\
+        \ 2883 no-cols subpost\">\n                                <a title=\"Helpful\
+        \ Links\" href=\"https://soygrowers.com/education-resources/helpful-links/\"\
+        >Helpful Links<i class=\"fas fa-angle-right\"></i></a>                   \
+        \         </li>                            <li id=\"menu-item-2968\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-2968 2895\
+        \ 2885 no-cols subpost\">\n                                <a title=\"Consumer\
+        \ Q&#038;A\" href=\"https://soygrowers.com/education-resources/consumer-qa/\"\
+        >Consumer Q&#038;A<i class=\"fas fa-angle-right\"></i></a>               \
+        \             </li>                    </ul>\n                </div>     \
+        \       <div class=\"callout-image col-4 bg-white \">                    <img\
+        \ src=\"https://soygrowers.com/wp-content/uploads/2019/03/ag-voices.jpg\"\
+        \ alt=\"\" />            </div></li>        <li id=\"menu-item-2969\" class=\"\
+        top-level menu-item menu-item-type-post_type menu-item-object-page relative\
+        \  menu-item-2969 menu-slug-international-programs page-item-2887has-children\"\
+        >\n            <a class=\"top-level-link relative\" title=\"International\
+        \ Programs\" href=\"https://soygrowers.com/international-programs/\">International\
+        \ Programs</a>            <div class=\"menu-column-wrap absolute dd-top relativeleft\
+        \ \">                <div class=\"non-image-sectioncol-8 bg-white\">\n   \
+        \                 <ul role=\"menu\">                            <li id=\"\
+        menu-item-2970\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-2970 2895 2889 no-cols subpost\">\n                          \
+        \      <a title=\"WISHH\" href=\"https://soygrowers.com/international-programs/wishh/\"\
+        >WISHH<i class=\"fas fa-angle-right\"></i></a>                           \
+        \ </li>                            <li id=\"menu-item-2971\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page menu-item-2971 2895 2891\
+        \ no-cols subpost\">\n                                <a title=\"USSEC\" href=\"\
+        https://soygrowers.com/international-programs/ussec/\">USSEC<i class=\"fas\
+        \ fa-angle-right\"></i></a>                            </li>             \
+        \       </ul>\n                </div>            <div class=\"callout-image\
+        \ col-4 bg-white \">                    <img src=\"https://soygrowers.com/wp-content/uploads/2019/02/navThumb-international.jpg\"\
+        \ alt=\"\" />            </div></li>        <li id=\"menu-item-2972\" class=\"\
+        top-level menu-item menu-item-type-post_type menu-item-object-page relative\
+        \  menu-item-2972 menu-slug-news-media current-page-ancestor page-item-2893has-children\"\
+        >\n            <a class=\"top-level-link relative\" title=\"News &#038; Media\"\
+        \ href=\"https://soygrowers.com/news-media/\">News &#038; Media</a>      \
+        \      <div class=\"menu-column-wrap absolute dd-top relativeleft \">    \
+        \            <div class=\"non-image-sectioncol-8 bg-white\">\n           \
+        \         <ul role=\"menu\">                            <li id=\"menu-item-2973\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2973\
+        \ current-page no-cols subpost\">\n                                <a title=\"\
+        News Releases\" href=\"https://soygrowers.com/news-media/news-releases/\"\
+        >News Releases<i class=\"fas fa-angle-right\"></i></a>                   \
+        \         </li>                            <li id=\"menu-item-2974\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-2974 2895\
+        \ 2897 no-cols subpost\">\n                                <a title=\"eBean\
+        \ Newsletter\" href=\"https://soygrowers.com/news-media/ebean-newsletter/\"\
+        >eBean Newsletter<i class=\"fas fa-angle-right\"></i></a>                \
+        \            </li>                            <li id=\"menu-item-2976\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-2976 2895\
+        \ 2901 no-cols subpost\">\n                                <a title=\"Media\
+        \ Resources\" href=\"https://soygrowers.com/news-media/media-resources/\"\
+        >Media Resources<i class=\"fas fa-angle-right\"></i></a>                 \
+        \                   <ul role=\"menu\">                                   \
+        \         <li id=\"menu-item-5735\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-5735 2895 2903 no-cols sub-subpost\">\n\
+        \                                                 <a title=\"Logos\" href=\"\
+        https://soygrowers.com/news-media/media-resources/logos/\">Logos</a>\n   \
+        \                                         </li>                          \
+        \                  <li id=\"menu-item-3032\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-3032 2895 2909 no-cols sub-subpost\">\n\
+        \                                                 <a title=\"Soy Stats\" href=\"\
+        https://soygrowers.com/news-media/media-resources/soy-stats/\">Soy Stats</a>\n\
+        \                                            </li>                       \
+        \             </ul>                            </li>                    </ul>\n\
+        \                </div>            <div class=\"callout-image col-4 bg-white\
+        \ \">                    <img src=\"https://soygrowers.com/wp-content/uploads/2019/02/navThumb-news.jpg\"\
+        \ alt=\"\" />            </div></li>        <li id=\"menu-item-2977\" class=\"\
+        top-level menu-item menu-item-type-post_type menu-item-object-page relative\
+        \  menu-item-2977 menu-slug-states-membership page-item-2911has-children\"\
+        >\n            <a class=\"top-level-link relative\" title=\"States &#038;\
+        \ Membership\" href=\"https://soygrowers.com/states-membership/\">States &#038;\
+        \ Membership</a>            <div class=\"menu-column-wrap absolute dd-top\
+        \ relativeleft \">                <div class=\"non-image-sectioncol-8 bg-white\"\
+        >\n                    <ul role=\"menu\">                            <li id=\"\
+        menu-item-2978\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-2978 2895 2913 no-cols subpost\">\n                          \
+        \      <a title=\"State Affiliates\" href=\"https://soygrowers.com/states-membership/state-affiliates/\"\
+        >State Affiliates<i class=\"fas fa-angle-right\"></i></a>                \
+        \            </li>                            <li id=\"menu-item-2979\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-2979 2895\
+        \ 2915 no-cols subpost\">\n                                <a title=\"Member\
+        \ Benefits\" href=\"https://soygrowers.com/states-membership/member-benefits/\"\
+        >Member Benefits<i class=\"fas fa-angle-right\"></i></a>                 \
+        \           </li>                            <li id=\"menu-item-2980\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-2980 2895\
+        \ 2917 no-cols subpost\">\n                                <a title=\"Join/Renew\
+        \ Membership\" href=\"https://soygrowers.com/states-membership/join-renew-membership/\"\
+        >Join/Renew Membership<i class=\"fas fa-angle-right\"></i></a>           \
+        \                         <ul role=\"menu\">                             \
+        \               <li id=\"menu-item-3034\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-3034 2895 2919 no-cols sub-subpost\">\n\
+        \                                                 <a title=\"Request Login\
+        \ Credentials\" href=\"https://soygrowers.com/states-membership/join-renew-membership/request-login-credentials/\"\
+        >Request Login Credentials</a>\n                                         \
+        \   </li>                                            <li id=\"menu-item-3035\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-3035\
+        \ 2895 2923 no-cols sub-subpost\">\n                                     \
+        \            <a title=\"Online Membership Form\" href=\"https://soygrowers.com/states-membership/online-membership-form/\"\
+        >Online Membership Form</a>\n                                            </li>\
+        \                                    </ul>                            </li>\
+        \                            <li id=\"menu-item-24208\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page menu-item-24208 no-cols subpost\"\
+        >\n                                <a title=\"Board & State Portal\" href=\"\
+        https://soygrowers.com/homepage-portal/\">Board & State Portal<i class=\"\
+        fas fa-angle-right\"></i></a>                            </li>           \
+        \                 <li id=\"menu-item-5205\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-5205 no-cols subpost\">\n              \
+        \                  <a title=\"My Account\" href=\"https://members.soygrowers.com/iCore/Contacts/Sign_In.aspx?WebsiteKey=8b5cf9ef-f3f9-4237-9e6d-21ade027c1ef&amp;LoginRedirect=true&amp;returnurl=%2fASA%2fContact_Management%2fAccountPage.aspx%3fMy_Account%3d5#My_Account\"\
+        >My Account<i class=\"fas fa-angle-right\"></i></a>                      \
+        \      </li>                    </ul>\n                </div>            <div\
+        \ class=\"callout-image col-4 bg-white \">                    <img src=\"\
+        https://soygrowers.com/wp-content/uploads/2019/02/navThumb-states.jpg\" alt=\"\
+        \" />            </div></li></ul>\n</div>\n\n                    </nav>\n\
+        \                    </div>\n            </div>\n        </div>\n    </div>\n\
+        \    <!--End: Desktop Header-->\n    <!--Start: Mobile Header-->\n       \
+        \ <div class=\"row top-mobile-nav\">\n        <nav class=\"navbar fixed-top\
+        \ navbar-light bg-light remove-padding\">\n            <button class=\"navbar-toggler\
+        \ txt-brand-color-4\" type=\"button\" data-toggle=\"collapse\" data-target=\"\
+        #navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"\
+        false\" aria-label=\"Toggle navigation\">\n                <i class=\"fa fa-bars\"\
+        \ aria-hidden=\"true\"></i>\n            </button>\n            <a class=\"\
+        logo\" href=\"https://soygrowers.com\" alt=\"National Dairy Farm Program\"\
+        ><img class=\"mobile-nav-logo\" src=\"https://soygrowers.com/wp-content/uploads/2019/02/asa-logo.svg\"\
+        \ alt=\"American Soybean Association\"></a>\n            <div class=\"collapse\
+        \ navbar-collapse text-center\" id=\"navbarSupportedContent\"><div class=\"\
+        mobile-search-form add-padding-top mod-padding-half\"><form role=\"search\"\
+        \ method=\"get\" class=\"search-form  relative col\" action=\"https://soygrowers.com/\"\
+        >\n        <label>            <input type=\"search\" class=\"search-field\"\
+        \ placeholder=\"Search\" autocomplete=\"off\" value=\"\" name=\"s\" title=\"\
+        Search for:\" />\n         </label>\n    <button type=\"submit\" id=\"search-button\"\
+        \ class=\"search-submit\"><span class=\"\"><i class=\"fal fa-search\" aria-hidden=\"\
+        true\"></i></span></button></form>\n<script>\n    jQuery(document).ready(function(){\n\
+        \        jQuery('button.search-submit').on('mouseover', function() {\n   \
+        \         jQuery('input.search-field').addClass('expand-search');\n      \
+        \  });\n        jQuery('button.search-submit').on('mouseout', function() {\n\
+        \            jQuery('input.search-field').removeClass('expand-search');\n\
+        \        });\n        jQuery('input.search-field').on('focus', function()\
+        \ {\n            jQuery('input.search-field').addClass('expand-search');\n\
+        \        });\n        jQuery('input.search-field').on('blur', function() {\n\
+        \            jQuery('input.search-field').removeClass('expand-search');\n\
+        \        });\n    });\n</script></div><div class=\"menu-mobile-main-menu-container\"\
+        ><ul id=\"menu-mobile-main-menu\" class=\"nav row mobile-menu-1 remove-padding-bottom\"\
+        ><li id=\"menu-item-3990\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-has-children menu-item-3990 dropdown\"><a title=\"About\" href=\"\
+        https://soygrowers.com/about/\" aria-haspopup=\"true\"><span>About</span></a>\n\
+        \ <ul role=\"menu\" class=\"dropdown-menu\">\n\t<li id=\"menu-item-3999\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-3999\"\
+        ><a title=\"Our History\" href=\"https://soygrowers.com/about/history/\"><span>Our\
+        \ History</span></a></li>\n\t<li id=\"menu-item-4413\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-4413\"><a title=\"Board of Directors\" href=\"\
+        https://soygrowers.com/about/board-of-directors/\"><span>Board of Directors</span></a></li>\n\
+        \t<li id=\"menu-item-4412\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-4412\"><a title=\"Governing Committee\" href=\"https://soygrowers.com/about/governing-committee/\"\
+        ><span>Governing Committee</span></a></li>\n\t<li id=\"menu-item-4001\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-4001\"\
+        ><a title=\"Staff\" href=\"https://soygrowers.com/about/asa-staff/\"><span>Staff</span></a></li>\n\
+        \t<li id=\"menu-item-4002\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-4002\"><a title=\"Career Opportunities\" href=\"https://soygrowers.com/about/career-opportunities/\"\
+        ><span>Career Opportunities</span></a></li>\n\t<li id=\"menu-item-4003\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-4003\"\
+        ><a title=\"Sponsor Opportunities\" href=\"https://soygrowers.com/about/sponsor-opportunities/\"\
+        ><span>Sponsor Opportunities</span></a></li>\n\t<li id=\"menu-item-4004\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4004\"\
+        ><a title=\"Awards\" href=\"https://soygrowers.com/about/awards/\"><span>Awards</span></a></li>\n\
+        </ul>\n</li>\n<li id=\"menu-item-3991\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-has-children menu-item-3991 no-cols dropdown\"\
+        ><a title=\"Key Issues &#038; Initiatives\" href=\"https://soygrowers.com/key-issues-initiatives/\"\
+        \ aria-haspopup=\"true\"><span>Key Issues &#038; Initiatives</span></a>\n\
+        \ <ul role=\"menu\" class=\"dropdown-menu\">\n\t<li id=\"menu-item-4006\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4006\"\
+        ><a title=\"Key Issues\" href=\"https://soygrowers.com/key-issues-initiatives/key-issues/\"\
+        ><span>Key Issues</span></a></li>\n\t<li id=\"menu-item-23246\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page menu-item-23246\"><a title=\"\
+        Policy Resolutions\" href=\"https://soygrowers.com/key-issues-initiatives/policy-resolutions/\"\
+        ><span>Policy Resolutions</span></a></li>\n\t<li id=\"menu-item-4008\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-4008\"\
+        ><a title=\"Association Initiatives\" href=\"https://soygrowers.com/key-issues-initiatives/alliances-coalitions/association-initiatives/\"\
+        ><span>Association Initiatives</span></a></li>\n\t<li id=\"menu-item-4005\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4005\"\
+        ><a title=\"ASA Action Partnership\" href=\"https://soygrowers.com/key-issues-initiatives/alliances-coalitions/action-partnership/\"\
+        ><span>ASA Action Partnership</span></a></li>\n\t<li id=\"menu-item-4009\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4009\"\
+        ><a title=\"Alliances &#038; Coalitions\" href=\"https://soygrowers.com/key-issues-initiatives/alliances-coalitions/\"\
+        ><span>Alliances &#038; Coalitions</span></a></li>\n</ul>\n</li>\n<li id=\"\
+        menu-item-3992\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-has-children menu-item-3992 no-cols dropdown\"><a title=\"Education\
+        \ &#038; Resources\" href=\"https://soygrowers.com/education-resources/\"\
+        \ aria-haspopup=\"true\"><span>Education &#038; Resources</span></a>\n <ul\
+        \ role=\"menu\" class=\"dropdown-menu\">\n\t<li id=\"menu-item-4011\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-4011\"\
+        ><a title=\"Grower Education\" href=\"https://soygrowers.com/education-resources/grower-education/\"\
+        ><span>Grower Education</span></a></li>\n\t<li id=\"menu-item-4012\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-4012\"\
+        ><a title=\"Publications\" href=\"https://soygrowers.com/education-resources/publications/\"\
+        ><span>Publications</span></a></li>\n\t<li id=\"menu-item-4013\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-4013\"\
+        ><a title=\"USB/Soy Checkoff\" href=\"https://soygrowers.com/education-resources/usb-soy-checkoff/\"\
+        ><span>USB/Soy Checkoff</span></a></li>\n\t<li id=\"menu-item-4014\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-4014\"\
+        ><a title=\"Helpful Links\" href=\"https://soygrowers.com/education-resources/helpful-links/\"\
+        ><span>Helpful Links</span></a></li>\n\t<li id=\"menu-item-4017\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-4017\"\
+        ><a title=\"Consumer Q&#038;A\" href=\"https://soygrowers.com/education-resources/consumer-qa/\"\
+        ><span>Consumer Q&#038;A</span></a></li>\n</ul>\n</li>\n<li id=\"menu-item-3993\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children\
+        \ menu-item-3993 no-cols dropdown\"><a title=\"International Programs\" href=\"\
+        https://soygrowers.com/international-programs/\" aria-haspopup=\"true\"><span>International\
+        \ Programs</span></a>\n <ul role=\"menu\" class=\"dropdown-menu\">\n\t<li\
+        \ id=\"menu-item-4022\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-4022\"><a title=\"WISHH\" href=\"https://soygrowers.com/international-programs/wishh/\"\
+        ><span>WISHH</span></a></li>\n\t<li id=\"menu-item-4023\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page menu-item-4023\"><a title=\"\
+        USSEC\" href=\"https://soygrowers.com/international-programs/ussec/\"><span>USSEC</span></a></li>\n\
+        </ul>\n</li>\n<li id=\"menu-item-3994\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent\
+        \ current-page-parent current_page_parent current_page_ancestor menu-item-has-children\
+        \ menu-item-3994 no-cols dropdown\"><a title=\"News &#038; Media\" href=\"\
+        https://soygrowers.com/news-media/\" aria-haspopup=\"true\"><span>News &#038;\
+        \ Media</span></a>\n <ul role=\"menu\" class=\"dropdown-menu\">\n\t<li id=\"\
+        menu-item-4026\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ current-menu-item page_item page-item-2895 current_page_item menu-item-4026\
+        \ active\"><a title=\"News Releases\" href=\"https://soygrowers.com/news-media/news-releases/\"\
+        ><span>News Releases</span></a></li>\n\t<li id=\"menu-item-4025\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-4025\"\
+        ><a title=\"eBean Newsletter\" href=\"https://soygrowers.com/news-media/ebean-newsletter/\"\
+        ><span>eBean Newsletter</span></a></li>\n\t<li id=\"menu-item-4029\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-4029\"\
+        ><a title=\"Media Resources\" href=\"https://soygrowers.com/news-media/media-resources/\"\
+        ><span>Media Resources</span></a></li>\n</ul>\n</li>\n<li id=\"menu-item-3995\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children\
+        \ menu-item-3995 no-cols dropdown\"><a title=\"States &#038; Membership\"\
+        \ href=\"https://soygrowers.com/states-membership/\" aria-haspopup=\"true\"\
+        ><span>States &#038; Membership</span></a>\n <ul role=\"menu\" class=\"dropdown-menu\"\
+        >\n\t<li id=\"menu-item-4030\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-4030\"><a title=\"State Affiliates\" href=\"\
+        https://soygrowers.com/states-membership/state-affiliates/\"><span>State Affiliates</span></a></li>\n\
+        \t<li id=\"menu-item-4031\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-4031\"><a title=\"Member Benefits\" href=\"https://soygrowers.com/states-membership/member-benefits/\"\
+        ><span>Member Benefits</span></a></li>\n\t<li id=\"menu-item-4032\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-4032\"\
+        ><a title=\"Join/Renew Membership\" href=\"https://soygrowers.com/states-membership/join-renew-membership/\"\
+        ><span>Join/Renew Membership</span></a></li>\n\t<li id=\"menu-item-23247\"\
+        \ class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-23247\"\
+        ><a title=\"My Account\" href=\"https://members.soygrowers.com/iCore/Contacts/Sign_In.aspx?WebsiteKey=8b5cf9ef-f3f9-4237-9e6d-21ade027c1ef&#038;LoginRedirect=true&#038;returnurl=%2fASA%2fContact_Management%2fAccountPage.aspx%3fMy_Account%3d5#My_Account\"\
+        ><span>My Account</span></a></li>\n</ul>\n</li>\n</ul></div><div class=\"\
+        utility-menu-mobile\"><div class=\"menu-top-menu-container\"><ul id=\"menu-top-menu-1\"\
+        \ class=\"nav row mobile-menu-1 remove-padding-bottom\"><li class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page menu-item-27198\"><a title=\"\
+        Soy Action Center\" href=\"https://soygrowers.com/soy-action-center/\"><span>Soy\
+        \ Action Center</span></a></li>\n<li class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-2944\"><a title=\"SoyPAC\" href=\"https://soygrowers.com/soypac/\"\
+        ><span>SoyPAC</span></a></li>\n<li class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-2945\"><a title=\"Soy Ink Seal\" href=\"\
+        https://soygrowers.com/soy-ink-seal/\"><span>Soy Ink Seal</span></a></li>\n\
+        <li class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-2946\"\
+        ><a title=\"Events &#038; Registration\" href=\"https://soygrowers.com/events-registration/\"\
+        ><span>Events &#038; Registration</span></a></li>\n<li class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-24209\"><a title=\"Board &amp; State Portal\"\
+        \ href=\"https://soygrowers.com/homepage-portal/\"><span>Board &#038; State\
+        \ Portal</span></a></li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-2947\"><a title=\"Contact\" href=\"https://soygrowers.com/contact/\"\
+        ><span>Contact</span></a></li>\n</ul></div></div></div>\n        </nav>\n\
+        \    </div>\n    <!--End: Mobile Header-->\n</header>    <section class=\"\
+        body-content\">\r\n         <div class=\"hero-section relative hero-bg d-flex\
+        \ justify-content-center align-items-center\" style=\"background-image:url('https://soygrowers.com/wp-content/uploads/2019/02/asa-mag-hero.png');\
+        \ height: 250px!important;\"><div class=\"hero-image-overlay\"></div> <img\
+        \ class=\"hero-hidden-img\" src=\"https://soygrowers.com/wp-content/uploads/2019/02/asa-mag-hero.png\"\
+        > <div class=\"align-items-center txt-white container add-padding-top mod-padding-x3\
+        \ add-padding-bottom mod-padding-x2text-center\"><h1 class=\"hero-h1txt-white\"\
+        >News Releases</h1> <div class=\"row justify-content-center\"> <div></div>\
+        \ <div></div> </div> </div> </div> <div class=\"container-fluid\"> </div>\
+        \ <section> <div class=\"clearfix\"></div> <div class=\"container-fluid bg-soybean\"\
+        > <div class=\"container wide\"> <div class=\"add-padding-top mod-padding-half\"\
+        ></div> <div class=\"row add-padding-bottom mod-padding-x6\"> <div class=\"\
+        col-md-8 blog-list\"> <div class=\"blog-post add-margin-y mod-margin-x3\"\
+        > <div class=\"row\"> <div class=\"col-lg-2 col-md-0\"> </div> <div class=\"\
+        \ col-lg-9 col-md-12\"> <h2 class=\"text-left\"><a class=\"blog-title\" href=\"\
+        https://soygrowers.com/news-releases/new-cambodian-aquaculturist-association-catches-national-media-coverage/\"\
+        >New Cambodian Aquaculturist Association Catches National Media Coverage</a></h2>\
+        \ <p class=\"date no-p-margin\">November 12, 2020</p> <div class=\"copy add-padding-right\
+        \ mod-padding-x2\"><p>The ASA/WISHH-supported Cambodian Aquaculturist Association\
+        \ (CAA) is growing in stature, including capturing widespread attention from\
+        \ major Cambodian media outlets as well as social media. Launched on September\
+        \ 22, the young association has already enrolled 163 members of the aquaculture\
+        \ sector....</p> </div> <a class=\"btn-blog remove-margin-left\" href=\"https://soygrowers.com/news-releases/new-cambodian-aquaculturist-association-catches-national-media-coverage/\"\
+        >READ MORE</a> </div> </div> </div> <div class=\"blog-bar\"></div> <div class=\"\
+        blog-post add-margin-y mod-margin-x3\"> <div class=\"row\"> <div class=\"\
+        col-lg-2 col-md-0\"> </div> <div class=\" col-lg-9 col-md-12\"> <h2 class=\"\
+        text-left\"><a class=\"blog-title\" href=\"https://soygrowers.com/news-releases/soy-growers-appreciate-dicamba-to-remain-weed-control-option/\"\
+        >Soy Growers Appreciate Dicamba to Remain Weed Control Option</a></h2> <p\
+        \ class=\"date no-p-margin\">October 27, 2020</p> <div class=\"copy add-padding-right\
+        \ mod-padding-x2\"><p>Washington, D.C. Oct. 27, 2020. \_The American Soybean\
+        \ Association (ASA) appreciates that the Environmental Protection Agency (EPA)\
+        \ has announced it will reregister dicamba for 2021 and future use. The product\
+        \ is one of many tools integral to the success of...</p> </div> <a class=\"\
+        btn-blog remove-margin-left\" href=\"https://soygrowers.com/news-releases/soy-growers-appreciate-dicamba-to-remain-weed-control-option/\"\
+        >READ MORE</a> </div> </div> </div> <div class=\"blog-bar\"></div> <div class=\"\
+        blog-post add-margin-y mod-margin-x3\"> <div class=\"row\"> <div class=\"\
+        col-lg-2 col-md-0\"> </div> <div class=\" col-lg-9 col-md-12\"> <h2 class=\"\
+        text-left\"><a class=\"blog-title\" href=\"https://soygrowers.com/news-releases/wishh-releases-mini-documentary-on-inspiring-entrepreneurs-insights-for-protein-progress/\"\
+        >WISHH Releases Mini Documentary on Inspiring Entrepreneur\u2019s Insights\
+        \ for Protein Progress</a></h2> <p class=\"date no-p-margin\">October 15,\
+        \ 2020</p> <div class=\"copy add-padding-right mod-padding-x2\"><p>ASA/WISHH\
+        \ announces its first mini documentary to inspire and inform entrepreneurs\
+        \ about how WISHH works with its strategic partners, including to help them\
+        \ pivot their businesses that manufacture and market soy-based foods and feeds\
+        \ during COVID-19. WISHH is releasing the...</p> </div> <a class=\"btn-blog\
+        \ remove-margin-left\" href=\"https://soygrowers.com/news-releases/wishh-releases-mini-documentary-on-inspiring-entrepreneurs-insights-for-protein-progress/\"\
+        >READ MORE</a> </div> </div> </div> <div class=\"blog-bar\"></div> <div class=\"\
+        blog-post add-margin-y mod-margin-x3\"> <div class=\"row\"> <div class=\"\
+        col-lg-2 col-md-0\"> </div> <div class=\" col-lg-9 col-md-12\"> <h2 class=\"\
+        text-left\"><a class=\"blog-title\" href=\"https://soygrowers.com/news-releases/wishh-will-put-soy-on-center-stage-in-aquafeeds-in-africa-webinar/\"\
+        >WISHH Will Put Soy on Center Stage in Aquafeeds in Africa Webinar</a></h2>\
+        \ <p class=\"date no-p-margin\">October 15, 2020</p> <div class=\"copy add-padding-right\
+        \ mod-padding-x2\"><p>ASA/WISHH is delivering expert information on the role\
+        \ of soy in feeds through an October 22 webinar organized by the Aquaculture\
+        \ Africa Magazine. The publication recognizes aquafeeds are a major constraint\
+        \ to aquaculture development on the African continent and reports...</p> </div>\
+        \ <a class=\"btn-blog remove-margin-left\" href=\"https://soygrowers.com/news-releases/wishh-will-put-soy-on-center-stage-in-aquafeeds-in-africa-webinar/\"\
+        >READ MORE</a> </div> </div> </div> <div class=\"blog-bar\"></div> <div class=\"\
+        blog-post add-margin-y mod-margin-x3\"> <div class=\"row\"> <div class=\"\
+        col-lg-2 col-md-0\"> </div> <div class=\" col-lg-9 col-md-12\"> <h2 class=\"\
+        text-left\"><a class=\"blog-title\" href=\"https://soygrowers.com/news-releases/american-soybean-association-seeks-candidates-for-soy-scholarship-4/\"\
+        >American Soybean Association Seeks Candidates for Soy Scholarship</a></h2>\
+        \ <p class=\"date no-p-margin\">October 14, 2020</p> <div class=\"copy add-padding-right\
+        \ mod-padding-x2\"><p>St. Louis. Oct. 14, 2020. The American Soybean Association\
+        \ (ASA) wants to award a scholarship to an outstanding high school senior\
+        \ interested in pursuing agriculture. \_ The Soy Scholarship is a $5,000 one-time\
+        \ award presented to a high school senior...</p> </div> <a class=\"btn-blog\
+        \ remove-margin-left\" href=\"https://soygrowers.com/news-releases/american-soybean-association-seeks-candidates-for-soy-scholarship-4/\"\
+        >READ MORE</a> </div> </div> </div> <div class=\"blog-bar\"></div> <div class=\"\
+        blog-post add-margin-y mod-margin-x3\"> <div class=\"row\"> <div class=\"\
+        col-lg-2 col-md-0\"> </div> <div class=\" col-lg-9 col-md-12\"> <h2 class=\"\
+        text-left\"><a class=\"blog-title\" href=\"https://soygrowers.com/news-releases/seesoyharvest/\"\
+        >#SeeSoyHarvest</a></h2> <p class=\"date no-p-margin\">October 6, 2020</p>\
+        \ <div class=\"copy add-padding-right mod-padding-x2\"><p>Washington, D.C.\
+        \ Oct. 6, 2020. If farmers\_cannot come to\_the Hill, then\_the Hill\_must\
+        \ go to the\_field!\_ That\u2019s the philosophy of the American Soybean Association\
+        \ (ASA) this fall harvest season \u2013 and the grower group is offering free\
+        \ passage by way of...</p> </div> <a class=\"btn-blog remove-margin-left\"\
+        \ href=\"https://soygrowers.com/news-releases/seesoyharvest/\">READ MORE</a>\
+        \ </div> </div> </div> <div class=\"blog-bar\"></div> <div class=\"blog-post\
+        \ add-margin-y mod-margin-x3\"> <div class=\"row\"> <div class=\"col-lg-2\
+        \ col-md-0\"> </div> <div class=\" col-lg-9 col-md-12\"> <h2 class=\"text-left\"\
+        ><a class=\"blog-title\" href=\"https://soygrowers.com/news-releases/so-nice-hes-doing-it-twice-censky-returning-to-soy/\"\
+        >So Nice He\u2019s Doing It Twice: Censky Returning to Soy</a></h2> <p class=\"\
+        date no-p-margin\">September 18, 2020</p> <div class=\"copy add-padding-right\
+        \ mod-padding-x2\"><p>Washington, D.C. Sept. 18, 2020. After serving as the\
+        \ U.S. Deputy Secretary of Agriculture since October 2017, the man who led\
+        \ the American Soybean Association (ASA) for 21 years is returning to the\
+        \ helm of the grower group. Stephen Censky...</p> </div> <a class=\"btn-blog\
+        \ remove-margin-left\" href=\"https://soygrowers.com/news-releases/so-nice-hes-doing-it-twice-censky-returning-to-soy/\"\
+        >READ MORE</a> </div> </div> </div> <div class=\"blog-bar\"></div> <div class=\"\
+        blog-post add-margin-y mod-margin-x3\"> <div class=\"row\"> <div class=\"\
+        col-lg-2 col-md-0\"> </div> <div class=\" col-lg-9 col-md-12\"> <h2 class=\"\
+        text-left\"><a class=\"blog-title\" href=\"https://soygrowers.com/news-releases/wishhworks-campaign-wrap-ag-radio-tv-successfully-spotlight-wishhs-trade-development-work/\"\
+        >#WISHHworks Campaign Wrap: Ag Radio &#038; TV Successfully Spotlight WISHH\u2019\
+        s Trade Development Work</a></h2> <p class=\"date no-p-margin\">September\
+        \ 17, 2020</p> <div class=\"copy add-padding-right mod-padding-x2\"><p>At\
+        \ least 25 ag radio and television broadcasters, reaching thousands of people\
+        \ in more than 19 states, carried reports of how ASA and the World Initiative\
+        \ for Soy in Human Health (WISHH) Program are capitalizing on big trends for\
+        \ global...</p> </div> <a class=\"btn-blog remove-margin-left\" href=\"https://soygrowers.com/news-releases/wishhworks-campaign-wrap-ag-radio-tv-successfully-spotlight-wishhs-trade-development-work/\"\
+        >READ MORE</a> </div> </div> </div> <div class=\"blog-bar\"></div> <div class=\"\
+        blog-post add-margin-y mod-margin-x3\"> <div class=\"row\"> <div class=\"\
+        col-lg-2 col-md-0\"> </div> <div class=\" col-lg-9 col-md-12\"> <h2 class=\"\
+        text-left\"><a class=\"blog-title\" href=\"https://soygrowers.com/news-releases/asa-and-usb-partner-to-provide-educational-webinar-on-rural-broadband-challenges/\"\
+        >ASA and USB Partner to Provide Educational Webinar on Rural Broadband Challenges</a></h2>\
+        \ <p class=\"date no-p-margin\">August 20, 2020</p> <div class=\"copy add-padding-right\
+        \ mod-padding-x2\"><p>America\u2019s farms contribute $133 billion each year\
+        \ to our national gross domestic product.\_ However, an alarming 60 percent\
+        \ of farmers say they do not have enough connectivity to run their businesses,\
+        \ according to a recent soybean checkoff funded study. Through...</p> </div>\
+        \ <a class=\"btn-blog remove-margin-left\" href=\"https://soygrowers.com/news-releases/asa-and-usb-partner-to-provide-educational-webinar-on-rural-broadband-challenges/\"\
+        >READ MORE</a> </div> </div> </div> <div class=\"blog-bar\"></div> <div class=\"\
+        blog-post add-margin-y mod-margin-x3\"> <div class=\"row\"> <div class=\"\
+        col-lg-2 col-md-0\"> </div> <div class=\" col-lg-9 col-md-12\"> <h2 class=\"\
+        text-left\"><a class=\"blog-title\" href=\"https://soygrowers.com/news-releases/asa-5-big-reasons-why-wishhs-work-matters-right-now/\"\
+        >ASA: 5 Big Reasons Why WISHH\u2019s Work Matters Right Now</a></h2> <p class=\"\
+        date no-p-margin\">August 12, 2020</p> <div class=\"copy add-padding-right\
+        \ mod-padding-x2\"><p>St. Louis. Aug. 12, 2020. The COVID-19 pandemic makes\
+        \ 2020 a year of unprecedented challenges in global food supply chains.\_\
+        Even so, big trends in five new reports demonstrate the untapped potential\
+        \ that the American Soybean Association\u2019s (ASA) World Initiative for...</p>\
+        \ </div> <a class=\"btn-blog remove-margin-left\" href=\"https://soygrowers.com/news-releases/asa-5-big-reasons-why-wishhs-work-matters-right-now/\"\
+        >READ MORE</a> </div> </div> </div> <div class=\"blog-bar\"></div> </div>\
+        \ <div class=\"col-md-4 col-md-offset-1 sidebar-wrapper\"> <aside id=\"secondary\"\
+        \ class=\"sidebar widget-area pull-right\" role=\"complementary\"> <div class=\"\
+        panel panel-sidebar\"> <div class=\"panel-body\"> <h6 class=\"text-left\"\
+        >Topics</h6> <div class=\"divider-left\"></div> <ul class=\"list-unstyled\
+        \ remove-margin-bottom\"> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news-media/news-releases/\"\
+        >All</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/animal-ag/\"\
+        \ >Animal Ag</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/aquaculture/\"\
+        \ >Aquaculture</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/biobased-products/\"\
+        \ >Biobased Products</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/biodiesel/\"\
+        \ >Biodiesel</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/biotechnology/\"\
+        \ >Biotechnology</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/budget-appropriations/\"\
+        \ >Budget/Appropriations</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/farm-bill-farm-program/\"\
+        \ >Farm Bill/Farm Program</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/food-aid/\"\
+        \ >Food Aid</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/leaders/\"\
+        \ >Leaders</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/news-releases/\"\
+        \ >News Releases</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/regulatory/\"\
+        \ >Regulatory</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/soy-demand-markets/\"\
+        \ >Soy Demand &amp; Markets</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/soy-innovations-uses/\"\
+        \ >Soy Innovations &amp; Uses</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/staff/\"\
+        \ >Staff</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/sustainability/\"\
+        \ >Sustainability</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/tax-issues/\"\
+        \ >Tax Issues</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/trade/\"\
+        \ >Trade</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/transportation/\"\
+        \ >Transportation</a></li> <li class=\"cat-item\"><a href=\"https://soygrowers.com/news_release_category/wishh/\"\
+        \ >WISHH</a></li> </ul> </div> </div> <div class=\"panel panel-sidebar\">\
+        \ <div class=\"panel-body add-margin-top\"> <h6 class=\"text-left\">Archive</h6>\
+        \ <div class=\"divider-left\"></div> <select class=\"nr-archive\"> <option\
+        \ value=\"\">-- Select --</option> <option value='https://soygrowers.com/2020/?post_type=releases'>\
+        \ 2020 </option> <option value='https://soygrowers.com/2019/?post_type=releases'>\
+        \ 2019 </option> <option value='https://soygrowers.com/2018/?post_type=releases'>\
+        \ 2018 </option> <option value='https://soygrowers.com/2017/?post_type=releases'>\
+        \ 2017 </option> <option value='https://soygrowers.com/2016/?post_type=releases'>\
+        \ 2016 </option> <option value='https://soygrowers.com/2015/?post_type=releases'>\
+        \ 2015 </option> <option value='https://soygrowers.com/2014/?post_type=releases'>\
+        \ 2014 </option> <option value='https://soygrowers.com/2013/?post_type=releases'>\
+        \ 2013 </option> <option value='https://soygrowers.com/2012/?post_type=releases'>\
+        \ 2012 </option> <option value='https://soygrowers.com/2011/?post_type=releases'>\
+        \ 2011 </option> <option value='https://soygrowers.com/2010/?post_type=releases'>\
+        \ 2010 </option> <option value='https://soygrowers.com/2009/?post_type=releases'>\
+        \ 2009 </option> <option value='https://soygrowers.com/2008/?post_type=releases'>\
+        \ 2008 </option> <option value='https://soygrowers.com/2007/?post_type=releases'>\
+        \ 2007 </option> <option value='https://soygrowers.com/2006/?post_type=releases'>\
+        \ 2006 </option> <option value='https://soygrowers.com/2005/?post_type=releases'>\
+        \ 2005 </option> <option value='https://soygrowers.com/2004/?post_type=releases'>\
+        \ 2004 </option> <option value='https://soygrowers.com/2003/?post_type=releases'>\
+        \ 2003 </option> <option value='https://soygrowers.com/2002/?post_type=releases'>\
+        \ 2002 </option> <option value='https://soygrowers.com/2001/?post_type=releases'>\
+        \ 2001 </option> <option value='https://soygrowers.com/2000/?post_type=releases'>\
+        \ 2000 </option> <option value='https://soygrowers.com/1999/?post_type=releases'>\
+        \ 1999 </option> <option value='https://soygrowers.com/1998/?post_type=releases'>\
+        \ 1998 </option> <option value='https://soygrowers.com/1997/?post_type=releases'>\
+        \ 1997 </option> <option value='https://soygrowers.com/1996/?post_type=releases'>\
+        \ 1996 </option> <option value='https://soygrowers.com/208/?post_type=releases'>\
+        \ 208 </option> </select> </div> </div> </aside> </div> </div> <div class='blog-nav\
+        \ text-center'><span aria-current=\"page\" class=\"page-numbers current\"\
+        >1</span> <a class=\"page-numbers\" href=\"https://soygrowers.com/news-media/news-releases/page/2/\"\
+        >2</a> <a class=\"page-numbers\" href=\"https://soygrowers.com/news-media/news-releases/page/3/\"\
+        >3</a> <a class=\"page-numbers\" href=\"https://soygrowers.com/news-media/news-releases/page/4/\"\
+        >4</a> <a class=\"page-numbers\" href=\"https://soygrowers.com/news-media/news-releases/page/5/\"\
+        >5</a> <a class=\"page-numbers\" href=\"https://soygrowers.com/news-media/news-releases/page/6/\"\
+        >6</a> <span class=\"page-numbers dots\">&hellip;</span> <a class=\"page-numbers\"\
+        \ href=\"https://soygrowers.com/news-media/news-releases/page/11/\">11</a>\
+        \ <a class=\"next page-numbers\" href=\"https://soygrowers.com/news-media/news-releases/page/2/\"\
+        ><i class=\"fas fa-arrow-right\"></i></a> </div> </div> </div> <div class=\"\
+        \ add-padding-bottom mod-padding-x8\"></div> <script type=\"text/javascript\"\
+        > jQuery(document).ready(function() { if (jQuery( \"body\" ).hasClass( \"\
+        archive\" )) { jQuery( \"section\" ).addClass(\"body-content\"); console.log('adding\
+        \ class') } jQuery('.nr-archive').on('change', function(){ if(jQuery(this).val()\
+        \ != \"\"){ window.location.href = jQuery(this).val(); } }) }); </script>\
+        \ </section>    </section>\r\n<footer class=\"relative\">\n    <div class=\"\
+        container-fluid relative\">\n        <div class=\"cta-form bg-brand-color-2\
+        \ text-sm-center\">\n            <div class=\"row justify-content-center align-items-center\"\
+        >\n                <div class=\"footer-cta-message\">Sign up for the eBean\
+        \ newsletter</div>\n                <a class=\"btn\" href=\"https://soygrowers.com/news-media/ebean-newsletter/ebean-signup/\"\
+        \ >Sign Up Now</a>\n            </div>\n    </div>\n    </div>\n    <div class=\"\
+        container-fluid bg-img\" style=\"background-image: url('https://soygrowers.com/wp-content/uploads/2019/02/footer-img.png');\"\
+        >\n        <div class=\"container-fluid footer-content\">\n            <div\
+        \ class=\"row justify-content-center\">\n                <div class=\"footer-nav-width\
+        \ text-xs-center text-sm-center text-md-center text-lg-left\">\n         \
+        \           <nav><div class=\"menu-footer-main-menu-container\"><ul id=\"\
+        menu-footer-main-menu\" class=\"menu\"><li id=\"menu-item-2988\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children\
+        \ menu-item-2988\"><a title=\"About\" href=\"https://soygrowers.com/about/\"\
+        \ aria-haspopup=\"true\"><span>About</span></a>\n <ul role=\"menu\" class=\"\
+        \">\n\t<li id=\"menu-item-3074\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-3074\"><a title=\"Our History\" href=\"\
+        https://soygrowers.com/about/history/\"><span>Our History</span></a></li>\n\
+        \t<li id=\"menu-item-5915\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-5915\"><a title=\"Board of Directors\" href=\"https://soygrowers.com/about/board-of-directors/\"\
+        ><span>Board of Directors</span></a></li>\n\t<li id=\"menu-item-5916\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-5916\"\
+        ><a title=\"Governing Committee\" href=\"https://soygrowers.com/about/governing-committee/\"\
+        ><span>Governing Committee</span></a></li>\n\t<li id=\"menu-item-3076\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-3076\"\
+        ><a title=\"Staff\" href=\"https://soygrowers.com/about/asa-staff/\"><span>Staff</span></a></li>\n\
+        \t<li id=\"menu-item-3077\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-3077\"><a title=\"Career Opportunities\" href=\"https://soygrowers.com/about/career-opportunities/\"\
+        ><span>Career Opportunities</span></a></li>\n\t<li id=\"menu-item-3078\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-3078\"\
+        ><a title=\"Sponsor Opportunities\" href=\"https://soygrowers.com/about/sponsor-opportunities/\"\
+        ><span>Sponsor Opportunities</span></a></li>\n\t<li id=\"menu-item-3079\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-3079\"\
+        ><a title=\"Awards\" href=\"https://soygrowers.com/about/awards/\"><span>Awards</span></a></li>\n\
+        </ul>\n</li>\n<li id=\"menu-item-3069\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-has-children menu-item-3069 no-cols\"><a\
+        \ title=\"Key Issues &#038; Initiatives\" href=\"https://soygrowers.com/key-issues-initiatives/\"\
+        \ aria-haspopup=\"true\"><span>Key Issues &#038; Initiatives</span></a>\n\
+        \ <ul role=\"menu\" class=\"\">\n\t<li id=\"menu-item-3082\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page menu-item-3082\"><a title=\"\
+        Key Issues\" href=\"https://soygrowers.com/key-issues-initiatives/key-issues/\"\
+        ><span>Key Issues</span></a></li>\n\t<li id=\"menu-item-3121\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page menu-item-3121\"><a title=\"\
+        Policy Resolutions\" href=\"https://soygrowers.com/key-issues-initiatives/policy-resolutions/\"\
+        ><span>Policy Resolutions</span></a></li>\n\t<li id=\"menu-item-3122\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-3122\"\
+        ><a title=\"Association Initiatives\" href=\"https://soygrowers.com/key-issues-initiatives/alliances-coalitions/association-initiatives/\"\
+        ><span>Association Initiatives</span></a></li>\n\t<li id=\"menu-item-3123\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-3123\"\
+        ><a title=\"Alliances &#038; Coalitions\" href=\"https://soygrowers.com/key-issues-initiatives/alliances-coalitions/\"\
+        ><span>Alliances &#038; Coalitions</span></a></li>\n</ul>\n</li>\n<li id=\"\
+        menu-item-3070\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-has-children menu-item-3070 no-cols\"><a title=\"Education &#038;\
+        \ Resources\" href=\"https://soygrowers.com/education-resources/\" aria-haspopup=\"\
+        true\"><span>Education &#038; Resources</span></a>\n <ul role=\"menu\" class=\"\
+        \">\n\t<li id=\"menu-item-3124\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-3124\"><a title=\"Grower Education\" href=\"\
+        https://soygrowers.com/education-resources/grower-education/\"><span>Grower\
+        \ Education</span></a></li>\n\t<li id=\"menu-item-3125\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page menu-item-3125\"><a title=\"\
+        Publications\" href=\"https://soygrowers.com/education-resources/publications/\"\
+        ><span>Publications</span></a></li>\n\t<li id=\"menu-item-3126\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-3126\"\
+        ><a title=\"USB/Soy Checkoff\" href=\"https://soygrowers.com/education-resources/usb-soy-checkoff/\"\
+        ><span>USB/Soy Checkoff</span></a></li>\n\t<li id=\"menu-item-3127\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-3127\"\
+        ><a title=\"Helpful Links\" href=\"https://soygrowers.com/education-resources/helpful-links/\"\
+        ><span>Helpful Links</span></a></li>\n\t<li id=\"menu-item-3128\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-3128\"\
+        ><a title=\"Consumer Q&#038;A\" href=\"https://soygrowers.com/education-resources/consumer-qa/\"\
+        ><span>Consumer Q&#038;A</span></a></li>\n</ul>\n</li>\n<li id=\"menu-item-3071\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children\
+        \ menu-item-3071 no-cols\"><a title=\"International Programs\" href=\"https://soygrowers.com/international-programs/\"\
+        \ aria-haspopup=\"true\"><span>International Programs</span></a>\n <ul role=\"\
+        menu\" class=\"\">\n\t<li id=\"menu-item-3129\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-3129\"><a title=\"WISHH\" href=\"https://soygrowers.com/international-programs/wishh/\"\
+        ><span>WISHH</span></a></li>\n\t<li id=\"menu-item-3130\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page menu-item-3130\"><a title=\"\
+        USSEC\" href=\"https://soygrowers.com/international-programs/ussec/\"><span>USSEC</span></a></li>\n\
+        </ul>\n</li>\n<li id=\"menu-item-3072\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent\
+        \ current-page-parent current_page_parent current_page_ancestor menu-item-has-children\
+        \ menu-item-3072 no-cols\"><a title=\"News &#038; Media\" href=\"https://soygrowers.com/news-media/\"\
+        \ aria-haspopup=\"true\"><span>News &#038; Media</span></a>\n <ul role=\"\
+        menu\" class=\"\">\n\t<li id=\"menu-item-3131\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page current-menu-item page_item page-item-2895 current_page_item\
+        \ menu-item-3131 active\"><a title=\"News Releases\" href=\"https://soygrowers.com/news-media/news-releases/\"\
+        ><span>News Releases</span></a></li>\n\t<li id=\"menu-item-3132\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-3132\"\
+        ><a title=\"eBean Newsletter\" href=\"https://soygrowers.com/news-media/ebean-newsletter/\"\
+        ><span>eBean Newsletter</span></a></li>\n\t<li id=\"menu-item-3134\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-3134\"\
+        ><a title=\"Media Resources\" href=\"https://soygrowers.com/news-media/media-resources/\"\
+        ><span>Media Resources</span></a></li>\n</ul>\n</li>\n<li id=\"menu-item-3073\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children\
+        \ menu-item-3073 no-cols\"><a title=\"States &#038; Membership\" href=\"https://soygrowers.com/states-membership/\"\
+        \ aria-haspopup=\"true\"><span>States &#038; Membership</span></a>\n <ul role=\"\
+        menu\" class=\"\">\n\t<li id=\"menu-item-3136\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-3136\"><a title=\"State Affiliates\" href=\"\
+        https://soygrowers.com/states-membership/state-affiliates/\"><span>State Affiliates</span></a></li>\n\
+        \t<li id=\"menu-item-3137\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-3137\"><a title=\"Member Benefits\" href=\"https://soygrowers.com/states-membership/member-benefits/\"\
+        ><span>Member Benefits</span></a></li>\n\t<li id=\"menu-item-3138\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-3138\"\
+        ><a title=\"Join/Renew Membership\" href=\"https://soygrowers.com/states-membership/join-renew-membership/\"\
+        ><span>Join/Renew Membership</span></a></li>\n\t<li id=\"menu-item-5917\"\
+        \ class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-5917\"\
+        ><a title=\"My Account\" target=\"_blank\" href=\"https://members.soygrowers.com/iCore/Contacts/Sign_In.aspx?WebsiteKey=8b5cf9ef-f3f9-4237-9e6d-21ade027c1ef&#038;LoginRedirect=true&#038;returnurl=%2fASA%2fContact_Management%2fAccountPage.aspx%3fMy_Account%3d5#My_Account\"\
+        ><span>My Account</span></a></li>\n</ul>\n</li>\n</ul></div>\n           \
+        \         </nav>\n\n\n                </div>\n                <div class=\"\
+        social-utility-section\">\n                    <div class=\"social-section\
+        \ d-flex\">\n                    <div class=\"socials\">                 \
+        \                   <a href=\"https://www.facebook.com/AmericanSoybeanAssociation\"\
+        \ target=\"_blank\"><i class=\"fab fa-facebook-f  txt-brand-color-4\"></i></a>\
+        \                                    <a href=\"https://twitter.com/ASA_Soybeans\"\
+        \ target=\"_blank\"><i class=\"fab fa-twitter txt-brand-color-4\"></i></a>\
+        \                                    <a href=\"http://www.youtube.com/user/americansoybeanassoc?feature=watch\"\
+        \ target=\"_blank\"><i class=\"fab fa-youtube txt-brand-color-4\"></i></a>\
+        \                                    <a href=\"https://www.instagram.com/americansoybeanassociation/\"\
+        \ target=\"_blank\"><i class=\"fab fa-instagram txt-brand-color-4\"></i></a>\
+        \                        </div>\n                    </div>\n            \
+        \        <div class=\"text-center footer-utility-menu\"><nav><div class=\"\
+        menu-footer-utility-menu-container\"><ul id=\"menu-footer-utility-menu\" class=\"\
+        menu\"><li id=\"menu-item-3141\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-3141\"><a title=\"SoyPAC\" href=\"https://soygrowers.com/soypac/\"\
+        ><span>SoyPAC</span></a></li>\n<li id=\"menu-item-3142\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page menu-item-3142\"><a title=\"\
+        Soy Ink Seal\" href=\"https://soygrowers.com/soy-ink-seal/\"><span>Soy Ink\
+        \ Seal</span></a></li>\n<li id=\"menu-item-3143\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-3143\"><a title=\"Events &#038; Registration\"\
+        \ href=\"https://soygrowers.com/events-registration/\"><span>Events &#038;\
+        \ Registration</span></a></li>\n<li id=\"menu-item-3145\" class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom menu-item-3145\"><a title=\"\
+        Log In\" href=\"#\"><span>Log In</span></a></li>\n<li id=\"menu-item-3144\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-3144\"\
+        ><a title=\"Contact\" href=\"https://soygrowers.com/contact/\"><span>Contact</span></a></li>\n\
+        </ul></div></nav></div>\n                    <div class=\"social-section d-flex\"\
+        >\n                        <div class=\"socials\">                       \
+        \                 <a href=\"https://www.facebook.com/AmericanSoybeanAssociation\"\
+        \ target=\"_blank\"><i class=\"fab fa-facebook-f  txt-brand-color-4\"></i></a>\
+        \                                        <a href=\"https://twitter.com/ASA_Soybeans\"\
+        \ target=\"_blank\"><i class=\"fab fa-twitter txt-brand-color-4\"></i></a>\
+        \                                        <a href=\"http://www.youtube.com/user/americansoybeanassoc?feature=watch\"\
+        \ target=\"_blank\"><i class=\"fab fa-youtube txt-brand-color-4\"></i></a>\
+        \                                        <a href=\"https://www.instagram.com/americansoybeanassociation/\"\
+        \ target=\"_blank\"><i class=\"fab fa-instagram txt-brand-color-4\"></i></a>\
+        \                        </div>\n                    </div>\n            \
+        \    </div>\n            </div>\n        </div>\n        <div class=\"row\
+        \ justify-content-center\">\n            <a href=\"https://soygrowers.com\"\
+        \ class=\"add-padding-y mod-margin-x2\"><img class=\"footer-logo\" src=\"\
+        https://soygrowers.com/wp-content/uploads/2019/02/ASA-logo-bw-1.svg\"></a>\n\
+        \        </div>\n    </div>\n    <div class=\"container-fluid copyright-bg\
+        \ add-padding-y text-center\">\n        <p class=\"copyright\">&copy;2020\
+        \ American Soybean Association</p><a class=\"privacy-policy\" href=\"https://soygrowers.com/privacy-policy/\"\
+        >Privacy Policy</a>\n    </div>\n    <div class=\"newsletter-popup text-center\"\
+        >\n        <div class=\"row justify-content-end add-padding-x\">\n       \
+        \ <div class=\"close-popup d-inline text-right\"><i class=\"far fa-times\"\
+        ></i></div>\n        </div>\n        <h6 class=\"\">eBean Newsletter Signup</h6>\n\
+        \        <p class=\"txt-green\">Weekly soybean news in your inbox.</p>\n \
+        \       <a class=\"btn\" href=\"https://soygrowers.com/news-media/ebean-newsletter/ebean-signup/\"\
+        \ >Sign Up Now</a><br>\n\n    </div>\n    <script>\n        jQuery(document).ready(function()\
+        \ {\n            setTimeout(function() {\n            if (window.location.pathname\
+        \ === '/lookeast/asa/' || window.location.pathname === '/') {\n          \
+        \      jQuery('.newsletter-popup').addClass(\"show-popup\");\n           \
+        \ }\n            }, 10000);\n            jQuery('.close-popup').on('click',\
+        \ function() {\n                jQuery('.newsletter-popup').hide();\n    \
+        \        });\n        });\n    </script>\n</footer>\n<!-- Google Tag Manager\
+        \ (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-5G66B3X\"\
+        \nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n\
+        <!-- End Google Tag Manager (noscript) --><script type='text/javascript' id='contact-form-7-js-extra'>\n\
+        /* <![CDATA[ */\nvar wpcf7 = {\"apiSettings\":{\"root\":\"https:\\/\\/soygrowers.com\\\
+        /wp-json\\/contact-form-7\\/v1\",\"namespace\":\"contact-form-7\\/v1\"}};\n\
+        /* ]]> */\n</script>\n<script type='text/javascript' src='https://soygrowers.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3'\
+        \ id='contact-form-7-js'></script>\n<script type='text/javascript' src='https://soygrowers.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'\
+        \ id='jquery-ui-core-js'></script>\n<script type='text/javascript' src='https://soygrowers.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'\
+        \ id='jquery-ui-datepicker-js'></script>\n<script type='text/javascript' id='jquery-ui-datepicker-js-after'>\n\
+        jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({\"\
+        closeText\":\"Close\",\"currentText\":\"Today\",\"monthNames\":[\"January\"\
+        ,\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"\
+        September\",\"October\",\"November\",\"December\"],\"monthNamesShort\":[\"\
+        Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\",\"Jul\",\"Aug\",\"Sep\",\"Oct\"\
+        ,\"Nov\",\"Dec\"],\"nextText\":\"Next\",\"prevText\":\"Previous\",\"dayNames\"\
+        :[\"Sunday\",\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\"\
+        ,\"Saturday\"],\"dayNamesShort\":[\"Sun\",\"Mon\",\"Tue\",\"Wed\",\"Thu\"\
+        ,\"Fri\",\"Sat\"],\"dayNamesMin\":[\"S\",\"M\",\"T\",\"W\",\"T\",\"F\",\"\
+        S\"],\"dateFormat\":\"MM d, yy\",\"firstDay\":1,\"isRTL\":false});});\n</script>\n\
+        <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js?ver=5.5.3'\
+        \ id='p3-popper-js-js'></script>\n<script type='text/javascript' src='https://soygrowers.com/wp-content/themes/tardigrade/js/libs/bootstrap.min.js?ver=5.5.3'\
+        \ id='p3-bootstrap-js-js'></script>\n<script type='text/javascript' src='https://soygrowers.com/wp-content/themes/tardigrade/js/libs/lity.min.js?ver=5.5.3'\
+        \ id='p3-lity-js-js'></script>\n<script type='text/javascript' src='https://soygrowers.com/wp-content/themes/tardigrade/js/libs/bootstrap-select.min.js?ver=5.5.3'\
+        \ id='p3-bootstrap-select-js-js'></script>\n<script type='text/javascript'\
+        \ src='https://soygrowers.com/wp-content/themes/tardigrade/js/libs/bootstrap-datepicker.min.js?ver=5.5.3'\
+        \ id='p3-bootstrap-datepicker-js-js'></script>\n<script type='text/javascript'\
+        \ src='https://soygrowers.com/wp-content/themes/tardigrade/js/wpo-utility.js?ver=5.5.3'\
+        \ id='p3-wpo-utility-js-js'></script>\n<script type='text/javascript' src='https://soygrowers.com/wp-content/themes/tardigrade/js/extensions/wpo-snap-svg.js?ver=5.5.3'\
+        \ id='p3-wpo-extensions-snap-svg-js-js'></script>\n<script type='text/javascript'\
+        \ src='https://soygrowers.com/wp-content/themes/tardigrade/js/extensions/wpo-lazy-loader.js?ver=5.5.3'\
+        \ id='p3-wpo-extensions-lazy-loader-js-js'></script>\n<script type='text/javascript'\
+        \ src='https://soygrowers.com/wp-content/themes/tardigrade/js/wpo-common.js?ver=5.5.3'\
+        \ id='p3-common-js-js'></script>\n<script type='text/javascript' src='https://soygrowers.com/wp-includes/js/wp-embed.min.js?ver=5.5.3'\
+        \ id='wp-embed-js'></script>\n<script type='text/javascript' src='https://soygrowers.com/wp-content/themes/tardigrade/js/libs/slick.min.js?ver=5.5.3'\
+        \ id='p3-slick-js-js'></script>\n<script type='text/javascript' src='https://soygrowers.com/wp-content/themes/tardigrade/js/content/hero-section.js?ver=5.5.3'\
+        \ id='p3-hero-section-js-js'></script>\n</body>\n</html>\n"
+    headers:
+      Accept-Ranges:
+      - bytes
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Fri, 13 Nov 2020 02:56:06 GMT
+      Fastly-Restarts:
+      - '1'
+      Link:
+      - <https://soygrowers.com/wp-json/>; rel="https://api.w.org/"
+      - <https://soygrowers.com/wp-json/wp/v2/pages/2895>; rel="alternate"; type="application/json"
+      - <https://soygrowers.com/?p=2895>; rel=shortlink
+      Pragma:
+      - no-cache
+      Referrer-Policy:
+      - no-referrer-when-downgrade
+      Server:
+      - Flywheel/5.1.0
+      Vary:
+      - Accept-Encoding
+      X-Cache:
+      - HIT
+      X-Cache-Hits:
+      - '1'
+      X-Cacheable:
+      - NO:Not Cacheable
+      X-Content-Type-Options:
+      - nosniff
+      X-FW-Dynamic:
+      - 'TRUE'
+      X-FW-Hash:
+      - 74sfrtlghd
+      X-FW-Serve:
+      - 'TRUE'
+      X-FW-Server:
+      - Flywheel/5.1.0
+      X-FW-Static:
+      - 'NO'
+      X-FW-Type:
+      - VISIT
+      X-FW-Version:
+      - 5.0.0
+      X-Served-By:
+      - cache-lga21976-LGA
+      X-Timer:
+      - S1605236166.113263,VS0,VE1
+      X-XSS-Protection:
+      - '1'
+      content-length:
+      - '88379'
+    status:
+      code: 200
+      message: OK
+version: 1

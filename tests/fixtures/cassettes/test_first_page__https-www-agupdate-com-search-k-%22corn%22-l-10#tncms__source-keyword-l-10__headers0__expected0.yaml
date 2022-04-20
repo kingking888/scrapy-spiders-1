@@ -1,0 +1,2010 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.agupdate.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.agupdate.com/search/?k=%22corn%22&l=10
+  response:
+    body:
+      string: "\r\n  \n\n<!DOCTYPE html>\r\n        <html lang=\"en\">\r\n       \
+        \ <head>\n<base href=\"https://www.agupdate.com/content/tncms/live/\" />\n\
+        <meta name=\"keywords\" content=\"news, local, information, search, find,\
+        \ looking for\" />\n<meta name=\"description\" content=\"Search news and topics\
+        \ on AgUpdate.com\" />\n<meta name=\"author\" content=\"AgUpdate\" />\n<meta\
+        \ name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n\
+        <meta name=\"apple-mobile-web-app-capable\" content=\"yes\" />\n<meta name=\"\
+        apple-mobile-web-app-status-bar-style\" content=\"black-translucent\" />\n\
+        <meta property=\"og:type\" content=\"website\" />\n<meta property=\"og:url\"\
+        \ content=\"https://www.agupdate.com/search/\" />\n<meta property=\"og:title\"\
+        \ content=\"Search\" />\n<meta property=\"og:description\" content=\"Search\
+        \ news and topics on AgUpdate.com\" />\n<meta property=\"og:site_name\" content=\"\
+        AgUpdate\" />\n<meta property=\"og:section\" content=\"Ag UPDATE : A leader\
+        \ in agriculture and farming news\" />\n<link rel=\"stylesheet\" href=\"https://use.fontawesome.com/releases/v5.6.3/css/all.css\"\
+        />\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=Lato&amp;display=swap\"\
+        />\n<link rel=\"stylesheet preload\" as=\"style\" href=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/bootstrap/resources/styles/bootstrap.min.44f4ed00052aeaf66307fd409db0d101.css\"\
+        />\n<link rel=\"stylesheet preload\" as=\"style\" href=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/template/resources/styles/layout.5cfe8d2b6e902b79c4710d15b491c631.css\"\
+        />\n<link rel=\"stylesheet preload\" as=\"style\" href=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/styles/theme-basic.c9c732b035a293475d6df8121863ef5a.css\"\
+        />\n<link rel=\"stylesheet\" href=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/live/libraries/flex/components/lee_flex/resources/styles/lee.css?_dc=1606809603\"\
+        />\n<link rel=\"stylesheet\" href=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/live/global/resources/styles/site.css?_dc=1469033576\"\
+        />\n<link rel=\"stylesheet\" href=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/plugins/resources/styles/datepicker3.6423f5d46d07426001de8ef09929910f.css\"\
+        />\n<style>/*<![CDATA[*/ #block-1694930 .search-spinner { position: absolute;\
+        \ } #block-1694930 .input-group-btn:last-child > .btn, .input-group-btn:last-child\
+        \ > .btn-group { margin-left: 0; } #site-search-1694930 { margin-bottom: 0;\
+        \ } #site-search-1694930 .site-search-form { padding: 0; } #site-search-1694930\
+        \ #site-search-1694930-btn { outline: none; } #site-search-1694930 #site-search-1694930-term\
+        \ { border: 0; box-shadow: none; } #site-search-1694930 .site-search-form\
+        \ { box-shadow: none; } /* Marketplace --------------------------------------------------\
+        \ */ .mp-container{ } .mp-breakout { padding: 20px 10px; text-align: center;\
+        \ background-color: #F9F9F9; border-top: 1px solid #ddd; border-bottom: 1px\
+        \ solid #ddd; } .mp-container .container{ background: none !important; } .mp-container\
+        \ section.block{ margin-top: 20px !important; margin-bottom: 20px !important;\
+        \ } .mp-container .mp-title, .mp-container .mp-title a{ color: #ed1d24 !important;\
+        \ font-weight: 900; text-align: center; } .mp-breakout .block-title-inner\
+        \ { text-align: center !important; } .mp-breakout .block-title-inner h1, .mp-breakout\
+        \ .block-title-inner h2, .mp-breakout .block-title-inner h3 { background:\
+        \ #F9F9F9 !important; } .mp-container .mp-quick-links.list-inline>li{ padding-left:\
+        \ 15px; padding-right: 15px; font-weight: bold; font-size: 16px; } .mp-container\
+        \ .mp-quick-links.list-inline>li, .mp-container .mp-quick-links.list-inline>li>a\
+        \ { color: #ed1b24 !important; } #tncms-region-mobile-nav-bottom-left-region\
+        \ .mp-search { text-shadow: none; color: #666666; } .mp-container .mp-poweredby\
+        \ > a{ color: #ed1d24 !important; } .mp-container .block-title { border: 0;\
+        \ } .mp-container .block-title-inner { width: 100%; height: 12px; padding:\
+        \ 0px; text-align: left; border-color: #ed1b24 !important; } .mp-container\
+        \ .block-title-inner h1, .mp-container .block-title-inner h2, .mp-container\
+        \ .block-title-inner h3, .mp-container .block-title-inner h4{ display: inline-block;\
+        \ padding: 0 15px; margin: 0 30px; background: #fff; font-family: \"Lato\"\
+        , sans-serif; font-weight: 600 !important; text-transform: uppercase; font-size:\
+        \ 24px; } .mp-container .center-heading .block-title h1 { max-width: calc(100%\
+        \ - 60px); margin-left: auto; margin-right: auto; } .mp-container .center-heading\
+        \ .block-title-inner { text-align: center !important; } /* Blox Classified\
+        \ Marketplace Block --------------------------------------------------- */\
+        \ .mp-container .card-panel { box-shadow: 0 5px 10px rgba(0,0,0,0.3); } .mp-container\
+        \ .card-panel.panel:hover { transform: translate3d(0px, -5px, 0px); transition-duration:\
+        \ 0.75s; box-shadow: 0 10px 15px rgba(0,0,0,0.45); } .mp-container .card-panel\
+        \ .card-headline { margin-top: 15px; margin-bottom: 15px; } /* Transparensee\
+        \ Styles */ .mp-listings .rubric_widget .TileContainer .TileContainer_tile,\
+        \ .mp-listings .rubric_widget .TileContainer .TileContainer_items .TileContainer_item\
+        \ { margin-left: auto; margin-right: auto; } @media (max-width: 767px){ .mp-listings\
+        \ .rubric_widget .TileContainer .TileContainer_tile, .mp-listings .rubric_widget\
+        \ .TileContainer .TileContainer_items .TileContainer_item { margin-left: auto;\
+        \ margin-right: auto; width: 100% !important; max-width: 385px; } } /* agrisearch\
+        \ temporary styles (transparensee) */ .mp-listings-inasset .rubric_widget\
+        \ .TileContainer .TileContainer_items{ max-width: 100%; margin-left: 0; margin-right:\
+        \ 0; } .mp-listings-inasset .mp-xs .rubric_widget .TileContainer .TileContainer_items{\
+        \ max-width: 400px; margin-left: auto; margin-right: auto; } .mp-listings-inasset\
+        \ .mp-xs .rubric_widget .TileContainer .TileContainer_item, .mp-listings-inasset\
+        \ .mp-lg .rubric_widget .TileContainer .TileContainer_item{ width: 100%; }\
+        \ .mp-listings-inasset .mp-xs .rubric_widget .ListingTile > a, .mp-listings-inasset\
+        \ .mp-lg .rubric_widget .ListingTile > a{ float:left; width: 30%; } .mp-listings-inasset\
+        \ .mp-xs .rubric_widget .ListingTile > .ListingTile_info, .mp-listings-inasset\
+        \ .mp-lg .rubric_widget .ListingTile > .ListingTile_info{ margin-left: calc(30%\
+        \ + 10px); } .mp-listings-inasset .mp-xs .rubric_widget .ListingTile > .ListingTile_info\
+        \ > .ListingTile_info_title, .mp-listings-inasset .mp-lg .rubric_widget .ListingTile\
+        \ > .ListingTile_info > .ListingTile_info_title{ overflow: hidden; height:\
+        \ auto; max-height: 40px; margin: 0px; margin-right: 5px; padding: 0; border:\
+        \ 0; font-size: 14px; font-weight: bold; text-align: left; } .mp-listings-inasset\
+        \ .mp-xs .rubric_widget .ListingTile > .ListingTile_info > .ListingTile_info_body,\
+        \ .mp-listings-inasset .mp-sm .rubric_widget .ListingTile > .ListingTile_info\
+        \ > .ListingTile_info_body, .mp-listings-inasset .mp-lg .rubric_widget .ListingTile\
+        \ > .ListingTile_info > .ListingTile_info_body{ display:none; } .mp-listings-inasset\
+        \ .mp-xs .rubric_widget .ListingTile > .ListingTile_info > .ListingTile_info_stats,\
+        \ .mp-listings-inasset .mp-lg .rubric_widget .ListingTile > .ListingTile_info\
+        \ > .ListingTile_info_stats{ margin: 0; color: #777; text-align: left; font-size:\
+        \ 14px; } .mp-listings-inasset .mp-sm .rubric_widget .ListingTile > .ListingTile_info\
+        \ > .ListingTile_info_stats{ color: #777; font-size: 12px; } .mp-listings-inasset\
+        \ .mp-xs .rubric_widget .ListingTile > .ListingTile_info > .ListingTile_info_stats:before,\
+        \ .mp-listings-inasset .mp-lg .rubric_widget .ListingTile > .ListingTile_info\
+        \ > .ListingTile_info_stats:before{ margin: 0; padding: 0; border: 0; } /*\
+        \ end temporary styles */ #tncms-block-1694916 .tnt-prop-img { max-width:\
+        \ 1158px; } #site-logo-1694916 { color: #666; } #block-1694279 .block-title.dark\
+        \ > .block-title-inner > *, #block-1694279.block.dark .card .content-overlay\
+        \ * { color: rgba(0,0,0,1); } #block-1694279 .block-title.light > .block-title-inner\
+        \ > *, #block-1694279.block.light .card .content-overlay * { color: rgba(255,255,255,1);\
+        \ } /* Marketplace -------------------------------------------------- */ .mp-container{\
+        \ } .mp-breakout { padding: 20px 10px; text-align: center; background-color:\
+        \ #F9F9F9; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd; } .mp-container\
+        \ .container{ background: none !important; } .mp-container section.block{\
+        \ margin-top: 20px !important; margin-bottom: 20px !important; } .mp-container\
+        \ .mp-title, .mp-container .mp-title a{ color: #ed1d24 !important; font-weight:\
+        \ 900; text-align: center; } .mp-breakout .block-title-inner { text-align:\
+        \ center !important; } .mp-breakout .block-title-inner h1, .mp-breakout .block-title-inner\
+        \ h2, .mp-breakout .block-title-inner h3 { background: #F9F9F9 !important;\
+        \ } .mp-container .mp-quick-links.list-inline>li{ padding-left: 15px; padding-right:\
+        \ 15px; font-weight: bold; font-size: 16px; } .mp-container .mp-quick-links.list-inline>li,\
+        \ .mp-container .mp-quick-links.list-inline>li>a { color: #ed1b24 !important;\
+        \ } #tncms-region-mobile-nav-bottom-left-region .mp-search { text-shadow:\
+        \ none; color: #666666; } .mp-container .mp-poweredby > a{ color: #ed1d24\
+        \ !important; } .mp-container .block-title { border: 0; } .mp-container .block-title-inner\
+        \ { width: 100%; height: 12px; padding: 0px; text-align: left; border-color:\
+        \ #ed1b24 !important; } .mp-container .block-title-inner h1, .mp-container\
+        \ .block-title-inner h2, .mp-container .block-title-inner h3, .mp-container\
+        \ .block-title-inner h4{ display: inline-block; padding: 0 15px; margin: 0\
+        \ 30px; background: #fff; font-family: \"Lato\", sans-serif; font-weight:\
+        \ 600 !important; text-transform: uppercase; font-size: 24px; } .mp-container\
+        \ .center-heading .block-title h1 { max-width: calc(100% - 60px); margin-left:\
+        \ auto; margin-right: auto; } .mp-container .center-heading .block-title-inner\
+        \ { text-align: center !important; } /* Blox Classified Marketplace Block\
+        \ --------------------------------------------------- */ .mp-container .card-panel\
+        \ { box-shadow: 0 5px 10px rgba(0,0,0,0.3); } .mp-container .card-panel.panel:hover\
+        \ { transform: translate3d(0px, -5px, 0px); transition-duration: 0.75s; box-shadow:\
+        \ 0 10px 15px rgba(0,0,0,0.45); } .mp-container .card-panel .card-headline\
+        \ { margin-top: 15px; margin-bottom: 15px; } /* Transparensee Styles */ .mp-listings\
+        \ .rubric_widget .TileContainer .TileContainer_tile, .mp-listings .rubric_widget\
+        \ .TileContainer .TileContainer_items .TileContainer_item { margin-left: auto;\
+        \ margin-right: auto; } @media (max-width: 767px){ .mp-listings .rubric_widget\
+        \ .TileContainer .TileContainer_tile, .mp-listings .rubric_widget .TileContainer\
+        \ .TileContainer_items .TileContainer_item { margin-left: auto; margin-right:\
+        \ auto; width: 100% !important; max-width: 385px; } } /* agrisearch temporary\
+        \ styles (transparensee) */ .mp-listings-inasset .rubric_widget .TileContainer\
+        \ .TileContainer_items{ max-width: 100%; margin-left: 0; margin-right: 0;\
+        \ } .mp-listings-inasset .mp-xs .rubric_widget .TileContainer .TileContainer_items{\
+        \ max-width: 400px; margin-left: auto; margin-right: auto; } .mp-listings-inasset\
+        \ .mp-xs .rubric_widget .TileContainer .TileContainer_item, .mp-listings-inasset\
+        \ .mp-lg .rubric_widget .TileContainer .TileContainer_item{ width: 100%; }\
+        \ .mp-listings-inasset .mp-xs .rubric_widget .ListingTile > a, .mp-listings-inasset\
+        \ .mp-lg .rubric_widget .ListingTile > a{ float:left; width: 30%; } .mp-listings-inasset\
+        \ .mp-xs .rubric_widget .ListingTile > .ListingTile_info, .mp-listings-inasset\
+        \ .mp-lg .rubric_widget .ListingTile > .ListingTile_info{ margin-left: calc(30%\
+        \ + 10px); } .mp-listings-inasset .mp-xs .rubric_widget .ListingTile > .ListingTile_info\
+        \ > .ListingTile_info_title, .mp-listings-inasset .mp-lg .rubric_widget .ListingTile\
+        \ > .ListingTile_info > .ListingTile_info_title{ overflow: hidden; height:\
+        \ auto; max-height: 40px; margin: 0px; margin-right: 5px; padding: 0; border:\
+        \ 0; font-size: 14px; font-weight: bold; text-align: left; } .mp-listings-inasset\
+        \ .mp-xs .rubric_widget .ListingTile > .ListingTile_info > .ListingTile_info_body,\
+        \ .mp-listings-inasset .mp-sm .rubric_widget .ListingTile > .ListingTile_info\
+        \ > .ListingTile_info_body, .mp-listings-inasset .mp-lg .rubric_widget .ListingTile\
+        \ > .ListingTile_info > .ListingTile_info_body{ display:none; } .mp-listings-inasset\
+        \ .mp-xs .rubric_widget .ListingTile > .ListingTile_info > .ListingTile_info_stats,\
+        \ .mp-listings-inasset .mp-lg .rubric_widget .ListingTile > .ListingTile_info\
+        \ > .ListingTile_info_stats{ margin: 0; color: #777; text-align: left; font-size:\
+        \ 14px; } .mp-listings-inasset .mp-sm .rubric_widget .ListingTile > .ListingTile_info\
+        \ > .ListingTile_info_stats{ color: #777; font-size: 12px; } .mp-listings-inasset\
+        \ .mp-xs .rubric_widget .ListingTile > .ListingTile_info > .ListingTile_info_stats:before,\
+        \ .mp-listings-inasset .mp-lg .rubric_widget .ListingTile > .ListingTile_info\
+        \ > .ListingTile_info_stats:before{ margin: 0; padding: 0; border: 0; } /*\
+        \ end temporary styles */ #tncms-block-1695360 .tnt-prop-img { max-width:\
+        \ 200px; } .follow-links-1695359 li { margin-right: 1px; padding: 0; } .follow-links-1695359\
+        \ li a, .follow-links-1695359 li a:focus, .follow-links-1695359 li a:active\
+        \ { ; color: #ed1d24!important; font-size: 18px; margin-right: 10px; opacity:\
+        \ .8; padding:0; box-shadow: none; } .follow-links-1695359 li a:hover { text-decoration:\
+        \ none; opacity: 1; } .follow-links-1695359 li a.fb:hover { color: #3A59A5;\
+        \ } .follow-links-1695359 li a.tw:hover { color: #46C8F9; } .follow-links-1695356\
+        \ li { margin-right: 1px; padding: 0; } .follow-links-1695356 li a, .follow-links-1695356\
+        \ li a:focus, .follow-links-1695356 li a:active { ; color: #ffffff!important;\
+        \ font-size: 18px; margin-right: 10px; opacity: .8; padding:0; box-shadow:\
+        \ none; } .follow-links-1695356 li a:hover { text-decoration: none; opacity:\
+        \ 1; } .follow-links-1695356 li a.fb:hover { color: #3A59A5; } .follow-links-1695356\
+        \ li a.tw:hover { color: #46C8F9; } /*]]>*/</style>\n<script type=\"text/javascript\"\
+        >(function(){var tnsrc=window.location.hash.match(/[&#]tncms-source=([^&]+)/);var\
+        \ dl = window.dataLayer = window.dataLayer || [];dl.push({\"tncms\":{\"asset\"\
+        :{},\"page\":{\"app\":\"search\",\"skin\":\"flex-search\",\"theme\":\"flex\"\
+        ,\"http_status\":200},\"client\":{\"is_bot\":\"no\",\"noscript\":false,\"\
+        is_gdpr\":\"no\"},\"system\":{\"render_time\":266}}});if (tnsrc && tnsrc[1])\
+        \ {dl.push({'tncms.campaign.internal_source': tnsrc[1]});}window.addEventListener(\"\
+        DOMContentLoaded\", function(oEvent) {var oTest = document.createElement('div');oTest.innerHTML\
+        \ = '&nbsp;';oTest.className = 'adsbox';document.body.appendChild(oTest);var\
+        \ nTimeoutID = window.setTimeout(function() {if (oTest.offsetHeight === 0)\
+        \ {dl.push({'event': 'tncms.ad.blocked'});}document.body.removeChild(oTest);window.clearTimeout(nTimeoutID);},\
+        \ 100);});var nWidth=Math.max(document.documentElement.clientWidth, window.innerWidth\
+        \ || 0),aBPs=[[300,\"Extra small: Most smartphones.\"],[768,\"Small: Tablet\
+        \ devices.\"],[992,\"Medium: Laptops & landscape tablets.\"],[1200,\"Large:\
+        \ Desktop computers.\"]],i,c,aThisBP,aBP;for(i=0,c=aBPs.length;i<c;i++){aThisBP=aBPs[i];if(aBP===undefined||aThisBP[0]<=nWidth){aBP=aThisBP;}}if(aBP!==undefined){dl.push({'tncms.client.breakpoint':aBP[1]});}(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'tncms.start':new\
+        \ Date().getTime(),event:'tncms.start'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+\
+        \ '&gtm_auth=UaWpb3d_PDCaIVzoLRLRYA&gtm_preview=env-2&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PDQV3N');})();</script>\n\
+        <script src=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/jquery/resources/scripts/jquery.min.6edb5af3e93b0a377ec925c5f1c6ddde.js\"\
+        ></script>\n<script src=\"/shared-content/art/tncms/user/user.js\"></script>\n\
+        <script>/*<![CDATA[*/ TNCMS.User.restorePersistentSession(); /*]]>*/</script>\n\
+        <script src=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/bootstrap/resources/scripts/bootstrap.min.d457560d3dfbf1d56a225eb99d7b0702.js\"\
+        ></script>\n<script src=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/plugins/resources/scripts/common.5ee3960b4d37bc106988fa535b393865.js\"\
+        ></script>\n<script src=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/template/resources/scripts/tnt.1477faac295a3745e4796d2263e75f11.js\"\
+        ></script>\n<script src=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/template/resources/scripts/application.93d1db0a57d520951552a1dcd8fd9aeb.js\"\
+        ></script>\n<script src=\"https://polyfill.io/v3/polyfill.min.js?features=default,fetch,IntersectionObserver,NodeList.prototype.@@iterator,Element.prototype.classList|gated\"\
+        \ nomodule=\"nomodule\"></script>\n<script>/*<![CDATA[*/ var __tnt = __tnt\
+        \ || {};\n    __tnt.ads = __tnt.ads || {};\n    __tnt.ads.dfp = __tnt.ads.dfp\
+        \ || {};\n    __tnt.ads.dfp.slots = __tnt.ads.dfp.slots || {};\n    __tnt.ads.dfp.targeting\
+        \ = __tnt.ads.dfp.targeting || {};\n    __tnt.ads.dfp.targeting.k = [\"news\"\
+        ,\"local\",\"information\",\"search\",\"find\",\"looking for\"];\n    \n \
+        \   __tnt.ads.dfp.targeting.page=[\"index\",\"app-search\"];\n    if( typeof\
+        \ window.I10C != 'undefined' && typeof window.I10C.Morph != 'undefined' ){\n\
+        \        __tnt.ads.dfp.targeting.page.push('recover');\n    }\n    \n    __tnt.docWidth\
+        \ = window.innerWidth;\n    if( __tnt.docWidth > 1899 ){ \n        __tnt.docWidthBreakPoint\
+        \ = 'xl_screen';\n    } else if ( __tnt.docWidth > 1619 ){\n        __tnt.docWidthBreakPoint\
+        \ = 'lg_screen';\n    } else if ( __tnt.docWidth > 991 ){\n        __tnt.docWidthBreakPoint\
+        \ = 'md_screen';\n    } else if ( __tnt.docWidth > 767 ){\n        __tnt.docWidthBreakPoint\
+        \ = 'sm_screen';\n    } else {\n        __tnt.docWidthBreakPoint = 'xs_screen';\n\
+        \    }\n    __tnt.ads.dfp.targeting.page.push(__tnt.docWidthBreakPoint);\n\
+        \n    __tnt.ads.dfp.targeting.browser = __tnt.client.browser.name;\n    \n\
+        \    window.googletag = window.googletag || {};\n    window.googletag.cmd\
+        \ = window.googletag.cmd || [];\n\n    (function() {\n        var gads = document.createElement('script');\n\
+        \        gads.async = true;\n        gads.type = 'text/javascript';\n    \
+        \    var useSSL = 'https:' == document.location.protocol;\n        gads.src\
+        \ = (useSSL ? 'https:' : 'http:') + '//securepubads.g.doubleclick.net/tag/js/gpt.js';\n\
+        \        var node = document.getElementsByTagName('script')[0];\n        node.parentNode.insertBefore(gads,\
+        \ node);\n    })(); /*]]>*/</script>\n<script>/*<![CDATA[*/ window.APS_dfp_ads\
+        \ = [];\n    \n    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q(\"\
+        i\",arguments)},fetchBids:function(){q(\"f\",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}(\"\
+        apstag\",window,document,\"script\",\"//c.amazon-adsystem.com/aax2/apstag.js\"\
+        );\n    \n    apstag.init({\n        pubID: '3266',\n        adServer: 'googletag',\n\
+        \        params: {\n            sections: 'search'\n        }\n    }); /*]]>*/</script>\n\
+        <script async=\"async\" src=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/search/resources/scripts/tnt.followed.notifications.6600e99595fd219e961e9882c796e61c.js\"\
+        ></script>\n<script version=\"1\" src=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/plugins/resources/scripts/jquery.mark.a8fd3b5cc6e4268e189522e53afa4823.js\"\
+        ></script>\n<script src=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/ads/resources/scripts/tnt.ads.adverts.66a3812a7b5c12fde8cd998fd691ad7d.js\"\
+        ></script>\n<script src=\"/shared-content/art/tncms/tracking.js\"></script>\n\
+        <script src=\"https://cdn.cookielaw.org/scripttemplates/otSDKStub.js\" data-domain-script=\"\
+        c213d490-4e30-4007-a573-a539eb6fdbdc\"></script>\n\r\n            \r\n   \
+        \         <title>Search | agupdate.com</title><link rel=\"dns-prefetch\" href=\"\
+        https://bloximages.chicago2.vip.townnews.com\"/><link rel=\"dns-prefetch\"\
+        \ href=\"//33across-d.openx.net\"/><link rel=\"dns-prefetch\" href=\"//a.wishabi.com\"\
+        /><link rel=\"dns-prefetch\" href=\"//aax.amazon-adsystem.com\"/><link rel=\"\
+        dns-prefetch\" href=\"//ads.pubmatic.com\"/><link rel=\"dns-prefetch\" href=\"\
+        //amazon-tam-match.dotomi.com\"/><link rel=\"dns-prefetch\" href=\"//ap.lijit.com\"\
+        /><link rel=\"dns-prefetch\" href=\"//api.circularhub.com\"/><link rel=\"\
+        dns-prefetch\" href=\"//b.scorecardresearch.com\"/><link rel=\"dns-prefetch\"\
+        \ href=\"//b.wishabi.com\"/><link rel=\"dns-prefetch\" href=\"//bh.contextweb.com\"\
+        /><link rel=\"dns-prefetch\" href=\"//c.amazon-adsystem.com\"/><link rel=\"\
+        dns-prefetch\" href=\"//casper.iloveadeal.com\"/><link rel=\"dns-prefetch\"\
+        \ href=\"//cdn-sic.33across.com\"/><link rel=\"dns-prefetch\" href=\"//cdn.ampproject.org\"\
+        /><link rel=\"dns-prefetch\" href=\"//cdn.blueconic.net\"/><link rel=\"dns-prefetch\"\
+        \ href=\"//cdn.districtm.io\"/><link rel=\"dns-prefetch\" href=\"//cdn.tynt.com\"\
+        /><link rel=\"dns-prefetch\" href=\"//cdnjs.cloudflare.com\"/><link rel=\"\
+        dns-prefetch\" href=\"//cm.g.doubleclick.net\"/><link rel=\"dns-prefetch\"\
+        \ href=\"//cms-xch.33across.com\"/><link rel=\"dns-prefetch\" href=\"//connect.facebook.net\"\
+        /><link rel=\"dns-prefetch\" href=\"//contributor.google.com\"/><link rel=\"\
+        dns-prefetch\" href=\"//cookie.brealtime.com\"/><link rel=\"dns-prefetch\"\
+        \ href=\"//d1z2jf7jlzjs58.cloudfront.net\"/><link rel=\"dns-prefetch\" href=\"\
+        //dealperform-images.s3.amazonaws.com\"/><link rel=\"dns-prefetch\" href=\"\
+        //dsum.casalemedia.com\"/><link rel=\"dns-prefetch\" href=\"//eb2.3lift.com\"\
+        /><link rel=\"dns-prefetch\" href=\"//f.wishabi.net\"/><link rel=\"dns-prefetch\"\
+        \ href=\"//fonts.googleapis.com\"/><link rel=\"dns-prefetch\" href=\"//fonts.gstatic.com\"\
+        /><link rel=\"dns-prefetch\" href=\"//fundingchoicesmessages.google.com\"\
+        /><link rel=\"dns-prefetch\" href=\"//ib.adnxs.com\"/><link rel=\"dns-prefetch\"\
+        \ href=\"//idsync.rlcdn.com\"/><link rel=\"dns-prefetch\" href=\"//image2.pubmatic.com\"\
+        /><link rel=\"dns-prefetch\" href=\"//images.wishabi.net\"/><link rel=\"dns-prefetch\"\
+        \ href=\"//lee.blueconic.net\"/><link rel=\"dns-prefetch\" href=\"//match.adsrvr.org\"\
+        /><link rel=\"dns-prefetch\" href=\"//pixel.advertising.com\"/><link rel=\"\
+        dns-prefetch\" href=\"//pixel.rubiconproject.com\"/><link rel=\"dns-prefetch\"\
+        \ href=\"//pubads.g.doubleclick.net\"/><link rel=\"dns-prefetch\" href=\"\
+        //rtb-csync.smartadserver.com\"/><link rel=\"dns-prefetch\" href=\"//s.amazon-adsystem.com\"\
+        /><link rel=\"dns-prefetch\" href=\"//sb.scorecardresearch.com\"/><link rel=\"\
+        dns-prefetch\" href=\"//secure-assets.rubiconproject.com\"/><link rel=\"dns-prefetch\"\
+        \ href=\"//secure.adnxs.com\"/><link rel=\"dns-prefetch\" href=\"//sic.33across.com\"\
+        /><link rel=\"dns-prefetch\" href=\"//ssc-cms.33across.com\"/><link rel=\"\
+        dns-prefetch\" href=\"//ssc.33across.com\"/><link rel=\"dns-prefetch\" href=\"\
+        //staticxx.facebook.com\"/><link rel=\"dns-prefetch\" href=\"//survey.g.doubleclick.net\"\
+        /><link rel=\"dns-prefetch\" href=\"//sync.search.spotxchange.com\"/><link\
+        \ rel=\"dns-prefetch\" href=\"//t.myvisualiq.net\"/><link rel=\"dns-prefetch\"\
+        \ href=\"//tags.bluekai.com\"/><link rel=\"dns-prefetch\" href=\"//tapestry.tapad.com\"\
+        /><link rel=\"dns-prefetch\" href=\"//us-u.openx.net\"/><link rel=\"dns-prefetch\"\
+        \ href=\"//www.facebook.com\"/><link rel=\"dns-prefetch\" href=\"//www.flipp.com\"\
+        /><link rel=\"dns-prefetch\" href=\"//www.googletagservices.com\"/>\r\n  \
+        \          \r\n    <style>body { background-color: #ffffff; color: #333333;\
+        \ }a, a:hover, .pagination>li>a, .pagination>li>a:hover, .btn-link, .dropdown-menu>li>a,\
+        \ blockquote, blockquote p, .asset .asset-body blockquote p { color: #333;\
+        \ } #main-body-container .container, #main-body-container .container_fluid,\
+        \ .well-main { background-color: #ffffff; } .tnt-content-width-container >\
+        \ * { max-width: 1140px; margin-left: auto; margin-right: auto; } #site-navbar-container,\
+        \ #main-navigation { background-color: #fff; } .fixed-nav #main-navigation\
+        \ { background-color: #fff !important; } #site-top-nav-container, #site-top-nav\
+        \ { background-color: #ffffff; } #site-footer-container, #site-footer { background-color:\
+        \ #ffffff; color: #888888; } .navbar-default .navbar-nav>li>a, .navbar-default\
+        \ .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus, .navbar-default\
+        \ .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default\
+        \ .navbar-nav>.open>a:focus { color: #333; } .navbar-toggle .icon-bar { background-color:\
+        \ #333 !important; } .navbar-toggle .sr-only-show { color: #333 !important;\
+        \ } #site-top-nav .list-inline>li>a { color: #4175aa; } .asset .asset-body\
+        \ p, .asset #asset-content p { color: #444; } #site-header-container { background-color:\
+        \ #000; }/* full span block region */ #main-top-container.container-fullscreen-region.container-fluid\
+        \ { padding-left: 0px !important; padding-right: 0px !important; }/* full\
+        \ span block region */ #main-top-container.container-fullscreen-region.container-fluid\
+        \ { padding-left: 0px !important; padding-right: 0px !important; }@media (max-width:\
+        \ 991px){ .navbar-default .navbar-nav .open .dropdown-menu>li>a, .navbar-default\
+        \ .navbar-nav .open .dropdown-menu>li>a:hover, .navbar-default .navbar-nav\
+        \ .open .dropdown-menu>li>a:focus { color: #333; } }#site-copyright a, #site-footer\
+        \ a { color: #333333; }.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover,\
+        \ .nav-tabs>li.active>a:focus { border-top-color: #ed1b24; }#site-header-container{\
+        \ border-bottom: 3px solid #ed1b24; }#site-footer-container{ border-top: 3px\
+        \ solid #ed1b24; } .tnt-bg-accent { background-color: #ed1b24; } a .tnt-caret-down\
+        \ { color: #ed1b24; } .block-title .block-title-inner { border-color: #ed1b24;\
+        \ } a.thumbnail:hover, a.thumbnail:focus, a.thumbnail.active { border-color:\
+        \ #ed1b24; } .form-control:focus { border-bottom-color: #ed1b24; } html, body{\
+        \ font-family: 'Lato', sans-serif; } /* all headlines */ .ag-flex .card-container\
+        \ .card-headline h4, .card-summary .card-headline{ font-weight: bold; } /*\
+        \ Temporary fix for agriview widget override */ div#site-container a { color:\
+        \ #333; } /* Navbar -------------------------------------------------- */\
+        \ .navbar-collapse .pull-right{max-width: 200px;margin-top:15px;transition:\
+        \ all 0.3s ease;} .affix .navbar-collapse .pull-right{max-width: 160px;margin-top:8px}\
+        \ .navbar-brand img{transition: all 0.3s ease;} #site-navbar-container { border-bottom:\
+        \ 1px solid #f4f4f4; } #main-navigation .hamburger-desktop{ display: none\
+        \ !important; } #main-navigation .navbar-toggle.hamburger-desktop.ag-menu-btn,\
+        \ #main-navigation .navbar-toggle.ag-hamburger-desktop{ padding: 10px 15px;\
+        \ display: block !important; } button.ag-hamburger-desktop.navbar-default\
+        \ .navbar-toggle:focus, button.ag-hamburger-desktop.navbar-toggle:hover {\
+        \ background: none !important; } button.ag-hamburger-desktop > .icon-bar{\
+        \ background-color: #ed1b24 !important; width: 18px; height: 2px; } button.ag-hamburger-desktop\
+        \ > .icon-bar:last-child{ width: 8px; } .navbar-default .navbar-nav>li>a.tnt-section-marketplace\
+        \ { color: #ed1b24 !important; } .navbar-default .navbar-nav>li>a.tnt-section-marketplace\
+        \ .nav-label:before { content: \"\\f722 \"; font-family: \"Font Awesome 5\
+        \ Free\"; padding-right: 10px; } /* Block Title --------------------------------------------------\
+        \ */ #main-body-container .block-title { border: 0; } #main-body-container\
+        \ .block-title-inner { width: 100%; height: 12px; padding: 0px; text-align:\
+        \ left; } #main-body-container .block-title .block-title-inner{} #main-body-container\
+        \ .block-title-inner h1, #main-body-container .block-title-inner h2, #main-body-container\
+        \ .block-title-inner h3,#main-body-container .block-title-inner h4 { display:\
+        \ inline-block; padding: 0 15px; margin: 0 30px; background: #fff; font-family:\
+        \ 'Lato', sans-serif; font-weight: 600 !important; text-transform: uppercase;\
+        \ font-size: 24px; } #main-body-container .block-title-inner h4{font-size:15px;color:#333}\
+        \ #main-body-container .center-heading .block-title h1 { max-width: calc(100%\
+        \ - 60px); margin-left: auto; margin-right: auto; } #main-body-container .center-heading\
+        \ .block-title-inner { text-align: center !important; } #main-body-container\
+        \ .center-heading ul.list-inline.block-links.pos-bottom { border-top: 0; margin-top:\
+        \ -40px; z-index: 999; position: relative; text-align: center; overflow-x:\
+        \ auto; white-space: nowrap; } /* Navbar Drawer --------------------------------------------------\
+        \ */ .offcanvas-inner, .active-left .offcanvas-inner { position: relative;\
+        \ left: 0; } .offcanvas-drawer-left{ z-index: 1050; width: calc(100vw) !important;\
+        \ height: calc(100vh) !important; top: 0 !important; left: calc(-100vw); background-color:\
+        \ #222; color: #fff; overflow-y: auto; -webkit-overflow-scrolling: touch;\
+        \ } @media screen and (min-width: 992px){ .offcanvas-drawer-left > .container\
+        \ { max-width: 750px; } /* button.ag-menu-close { position: absolute; right:\
+        \ 20px; top: 10px; } */ } .offcanvas-drawer-left .offcanvas-close-btn.in-drawer\
+        \ { right: 0; } .offcanvas-close-btn.in-drawer { position: absolute; top:\
+        \ 0px; bottom: auto; height: 25px; line-height: 25px; width: 110px; padding:\
+        \ 0; font-size: 14px; border: 0; display: inline-block; background-color:\
+        \ transparent; } @media screen and (max-width: 991px){ .close-btn-container{\
+        \ height:30px; } } .active-left .offcanvas-drawer-left { left: 0 !important;\
+        \ } .offcanvas-drawer-left .tncms-region-nav > .navbar-nav { padding: 0 !important;\
+        \ margin-bottom: 40px; } .offcanvas-drawer-left .tncms-region-nav > .navbar-nav\
+        \ a{ color: #fff !important; } .offcanvas-drawer-left .tncms-region-nav >\
+        \ .navbar-nav .panel-title{ border: 0 !important; } .offcanvas-drawer-left\
+        \ .tncms-region-nav > .navbar-nav .panel-title a{ padding: 20px 10px !important;\
+        \ } .offcanvas-drawer-left .tncms-region-nav > .navbar-nav .panel{ border-bottom:\
+        \ 1px solid #343434 !important; border-top: 1px solid #272727 !important;\
+        \ } .offcanvas-drawer-left .tncms-region-nav > .navbar-nav .panel > ul { background:\
+        \ none !important; border: 0 !important; padding: 10px 0; } .offcanvas-drawer-left\
+        \ .tncms-region-nav > .navbar-nav .panel > ul > li{ border: 0 !important;\
+        \ } .offcanvas-drawer-left .tncms-region-nav > .navbar-nav .panel > ul > li\
+        \ > a { padding: 10px 10px 10px 30px !important; border: 0 !important; margin:\
+        \ 0 !important; font-size: 13px; } /* In Nav - Publications Nav */ @media\
+        \ screen and (min-width: 991px){ #tncms-region-nav-mobile-nav-left-below .panel\
+        \ > ul > li { float: left; width: 33%; } } /* In Nav - Marketplace */ #tncms-region-mobile-nav-bottom-left-region{\
+        \ background-color: #F9F9F9; } /* In Nav - Copyright */ .site-copyright {\
+        \ font-size: 14px; padding: 20px 10px; } .nav-copyright { text-align: center;\
+        \ color: #777 !important; text-shadow: none !important; } .nav-copyright a{\
+        \ color: #555; } @media screen and (min-width: 768px){ .site-copyright .copyright-row{\
+        \ display: inline-block; } } /* In Nav - Search Bar */ .offcanvas-drawer .search-form-container{\
+        \ background: none; border-bottom: 1px solid #343434 !important; border-top:\
+        \ 0 !important; padding: 0; } .offcanvas-drawer .search-form-container .site-search-form,\
+        \ .offcanvas-drawer .search-form-container .site-search-form .form-control\
+        \ { background: rgba(0,0,0,0); border: none; color: #fff !important; } .offcanvas-drawer\
+        \ .search-form-container .search-icon{ display: table-cell; vertical-align:\
+        \ middle; } /* Load More Button --------------------------------------------------\
+        \ */ .btn.tnt-load-more { background-color: #E8E8E9; border: 1px solid rgba(0,0,0,0.08);\
+        \ border-radius: 4px; color: #555; } .btn.tnt-load-more:hover, .btn.tnt-load-more:focus,\
+        \ .btn.tnt-load-more:active{ background-color: #f9f9f9; } /* Footer --------------------------------------------------\
+        \ */ #main-bottom-container { padding: 0; } #site-footer-container { border:\
+        \ 0 !important; } footer#site-footer { margin-bottom: 0; padding-top: 40px\
+        \ !important; padding-bottom: 30px !important; } footer .block-title { margin:\
+        \ 0 0 10px 10px; font-size: 0; } footer .block-title .block-title-inner {\
+        \ color: #ed1b24; border: none; } footer .block-title .block-title-inner h1,\
+        \ footer .block-title .block-title-inner h2, footer .block-title .block-title-inner\
+        \ h3, footer .block-title .block-title-inner h4 { font-size: 16px; font-weight:\
+        \ bold; } #site-copyright-container { background: #222222; } .footer-logo-container\
+        \ { margin-bottom: 20px; } .footer-logo-container a { display: block; width:\
+        \ 100%; max-width: 200px; margin-left: auto; margin-right: auto; } #footer-col-one\
+        \ .tncms-region-nav .panel-group .panel { position: relative; box-shadow:\
+        \ none; } #footer-col-one .tncms-region-nav .panel-group .panel .panel-collapse\
+        \ { position: absolute; bottom: 38px; z-index: 999; width: 100%; border: 1px\
+        \ solid #ddd; } #footer-col-one .tncms-region-nav .panel-group .panel .panel-collapse\
+        \ .list-group { height: 300px; overflow-y: auto; border-top: 0; background:\
+        \ #fff; } @media (max-width: 767px){ #footer-col-one .tncms-region-nav .panel-group{\
+        \ margin-left: 15px; margin-right: 15px; } } #footer-col-two, #footer-col-three{\
+        \ display: none; } .footer-follow-us .pull-right, .footer-follow-us .pull-left\
+        \ { float: none !important; text-align: center; } .footer-copyright{ float:\
+        \ left; color: #fff; text-align: left; } .footer-copyright a{ color: #ccc\
+        \ !important; } @media screen and (min-width: 768px){ footer#site-footer {\
+        \ padding: 40px; } #footer-col-two, #footer-col-three{ display: block; } .footer-logo-container\
+        \ a{ margin-left: 0; margin-right: 0; } #site-footer .nav-list { margin: 0;\
+        \ padding: 0; } #site-footer .nav-list > li { display: block; float: left;\
+        \ width: 50%; padding: 5px 10px; list-style: none; font-weight: bold; font-size:\
+        \ 12px; } .footer-copyright{ float: left; text-align: left; } .copyright-follow-us{\
+        \ float: right; padding: 15px 0 15px; } .copyright-follow-us ul.list-inline\
+        \ { margin-bottom: 0 !important; } } /* Top Stories --------------------------------------------------\
+        \ */ .top-story-block .card-lead { color: #777; } .top-story-block .card-headline\
+        \ .tnt-headline { font-weight: 600; } .top-story-block .card-headline h4.tnt-headline\
+        \ { font-size: 16px; } .top-story-block article { border-bottom: 1px solid\
+        \ #ddd; padding-bottom: 10px; } #tncms-region-front-topstory-center .top-story-block\
+        \ article { padding-bottom: 20px; } @media (min-width: 768px){ .top-story-left.top-story-grid\
+        \ .last-grid-item article, .top-story-right.top-story-grid .last-grid-item\
+        \ article{ border: 0; padding-bottom: 0; } } @media (min-width: 992px){ .top-story-block.top-story-summary\
+        \ article:last-child{ border: 0; padding-bottom: 0; } } /* Infinity Scroll\
+        \ fix -------------------------------------------------- */ @media (max-width:\
+        \ 767px){ .card-compact>.block-content-discovery>.page>.content>.card { width:\
+        \ auto; padding: 15px; margin: 0; box-shadow: none; border: 1px solid rgba(0,0,0,.1);\
+        \ border-width: 0 0 1px 0; } } /* Promo links --------------------------------------------------\
+        \ */ @media (max-width: 767px){ .promo-links.promo-sm .card-grid .row>div[class*=col-]{\
+        \ float: left; width: 50%; } .promo-links .card-grid .row.equal .recommendations-container>div[class*=col-],\
+        \ .promo-links .card-grid .row.equal>div[class*=col-]{ display: -webkit-flex\
+        \ !important; display: flex !important; -ms-flex: 0 1 auto !important; margin-right:\
+        \ -1px !important; } } /* Native Ads - Index --------------------------------------------------\
+        \ */ @media (max-width: 767px){ .ag-flex.index-native-ad article.card { border-width:\
+        \ 0 !important; padding-bottom: 0 !important; } } </style>\r\n    \r\n   \
+        \     <link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"https://www.agupdate.com/content/tncms/site/icon.ico\"\
+        \ />\r\n    \r\n        <link rel=\"preconnect\" href=\"//www.google.com\"\
+        >\r\n    \r\n        <link rel=\"preconnect\" href=\"//adservice.google.com\"\
+        >\r\n    \r\n        <link rel=\"preconnect\" href=\"//securepubads.g.doubleclick.net\"\
+        >\r\n    \r\n        <link rel=\"preconnect\" href=\"//stats.g.doubleclick.net\"\
+        >\r\n    \r\n        <link rel=\"preconnect\" href=\"//tpc.googlesyndication.com\"\
+        >\r\n    \r\n        <link rel=\"preconnect\" href=\"//pagead2.googlesyndication.com\"\
+        >\r\n    \r\n        <link rel=\"preconnect\" href=\"//s.yimg.com\">\r\n \
+        \   \r\n        <link rel=\"preconnect\" href=\"//cdn.taboola.com\">\r\n \
+        \   \r\n        <link rel=\"preconnect\" href=\"//www.googletagmanager.com\"\
+        >\r\n    \r\n        <link rel=\"preconnect\" href=\"//www.google-analytics.com\"\
+        >\r\n    <link rel=\"alternate\" type=\"application/rss+xml\" title=\"Search\
+        \ | agupdate.com\" href=\"http://www.agupdate.com/search/?f=rss&amp;t=article&amp;c=search&amp;l=50&amp;s=start_time&amp;sd=desc\"\
+        \ />\r\n    <link rel=\"canonical\" href=\"https://www.agupdate.com/search/\"\
+        \ />\r\n            <script src=\"https://cdn.cookielaw.org/opt-out/otCCPAiab.js\"\
+        \ charset=\"UTF-8\" ccpa-opt-out-ids=\"C0004\" ccpa-opt-out-geo=\"all\" ccpa-opt-out-lspa=\"\
+        false\" async></script><script defer src=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/plugins/resources/scripts/fontawesome.edd147e4c2830f416874012247117438.js\"\
+        ></script>\r\n            \r\n        </head>\r\n        <body class=\"fixed-scroll-nav\
+        \ app-search grid-mobile-pattern  section-search\" data-path=\"/search\">\n\
+        \t<script type='text/javascript' src='/shared-content/art/stats/common/tracker.js'></script>\n\
+        \t<script type='text/javascript'>\n\t<!--\n\tif (typeof(TNStats_Tracker) !==\
+        \ 'undefined' && typeof(TNTracker) === 'undefined') { TNTracker = new TNStats_Tracker('www.agupdate.com');\
+        \ TNTracker.trackPageView(); }\n\t// -->\n\t</script>\n\t<noscript><iframe\
+        \ src=\"https://www.googletagmanager.com/ns.html?id=GTM-PDQV3N&tncms.page.app=search&tncms.page.skin=flex-search&tncms.page.theme=flex&tncms.page.http_status=200&tncms.client.is_bot=no&tncms.client.noscript=yes&tncms.client.is_gdpr=no&tncms.system.render_time=266\"\
+        \ height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript><a\
+        \ href=\"https://www.agupdate.com/search/?k=%22corn%22&l=10#main-page-container\"\
+        \ class=\"sr-only sr-only-focusable\">Skip to main content</a>\r\n       \
+        \ \r\n        \r\n        <div class=\"tnt-ads-container text-center \"><div\
+        \ style=\"min-height:1px; min-width:2px;\" class=\"tnt-ads dfp-ad dfp-ad-lite\"\
+        \ data-dfp-adunit=\"/8438/agupdate.com/search\" data-dfp-custom-pos=\"fixed-impact-top,\
+        \ atf\" id=\"fixed-impact-top\" data-dfp-size=\"[2,1]\" data-subscriber=\"\
+        true\"></div></div>\n    <!-- Google Tag Manager -->\n    <script>\n     \
+        \   var dataLayer = window.dataLayer || [];\n        dataLayer.push({\"ga_ua\"\
+        :\"UA-54716522-2\",\"taxonomy_1\":\"search\",\"taxonomy_2\":null,\"taxonomy_3\"\
+        :null,\"taxonomy_4\":null,\"taxonomy_5\":null,\"blox_platform\":\"desktop\"\
+        ,\"blox_page_type\":\"index\",\"blox_domain\":\"agupdate.com\",\"blox_skin\"\
+        :\"flex-search\",\"blox_application\":\"search\",\"groups\":{\"content\":\"\
+        1\",\"advertising\":\"2\",\"utility\":\"3\"},\"content_group\":\"3\",\"content_group_id\"\
+        :\"search\",\"blox_sections\":\"search\",\"gcontent_group_id\":\"search\"\
+        ,\"weather_temp\":28,\"weather_conditions\":\"Fair\",\"subscription_max_views\"\
+        :0});\n        \n        \n        dataLayer.push(\n            {'user_id':\
+        \ __tnt.user.screenName},\n            {'user_state': __tnt.user.loggedIn\
+        \ ? 'logged in' : 'anonymous'},\n            {'user_subscription': __tnt.user.services\
+        \ ? 'Yes' : 'No'},\n            {'utm_label': __tnt.urlHash('utm_label')}\n\
+        \        );\n        \n        \n        if(__tnt.user.services){\n      \
+        \      var falcon_sub_name = Cookies.get('leefalcon_membership');\n      \
+        \      dataLayer.push({\n                'tncms': {\n                    'subscription':\
+        \ {\n                        'falcon_service': falcon_sub_name ? falcon_sub_name\
+        \ : '',\n                        'user_service_ids': __tnt.user.services\n\
+        \                    }\n                }\n            });\n            \n\
+        \            var lee_clus = Cookies.get('lee-clus');\n            if(!lee_clus){\n\
+        \                if(typeof Storage !== 'undefined'){\n                   \
+        \ var lee_ulli = new Date().toLocaleString('en-us', {year: 'numeric', month:\
+        \ '2-digit', day: '2-digit'}).replace(/(\\d+)\\/(\\d+)\\/(\\d+)/, '$3$1$2');\n\
+        \                    window.localStorage.setItem('lee_ulld', lee_ulli);\n\
+        \                }\n                var lee_clus = Cookies.set('lee-clus',\
+        \ 'true', {path:'/'});\n            }\n        }\n        \n        if(typeof\
+        \ Storage !== 'undefined'){\n            var lee_glus = window.localStorage.getItem('lee_ulld');\n\
+        \            if(lee_glus){\n                // IE hack\n                if(lee_glus.match('/')){\n\
+        \                    var lee_glusIE = lee_glus.split('/');\n             \
+        \       lee_glus = lee_glusIE[2]+lee_glusIE[0]+lee_glusIE[1];\n          \
+        \      }\n                dataLayer.push({'sub_last_login': lee_glus});\n\
+        \            }\n        }\n    </script>\n    <noscript><iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-TDWDC2\"\
+        \ height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n\
+        \    <script>\n        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n\
+        \        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n\
+        \        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n\
+        \        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n\
+        \        })(window,document,'script','dataLayer','GTM-TDWDC2');\n    </script>\n\
+        \n    <script>\n        __tnt.googleEvent = function(obj) {\n            dataLayer.push({\n\
+        \                'event': 'gaTriggerEvent',\n                'gaEventCategory':\
+        \ obj.category,\n                'gaEventAction': obj.action,\n          \
+        \      'gaEventLabel': obj.label,\n                'gaEventValue': obj.value\n\
+        \            });\n        }\n        __tnt.googleSocial = function(obj) {\n\
+        \            dataLayer.push({\n                'event': 'socialEvent',\n \
+        \               'socialNetwork': obj.network,\n                'socialAction':\
+        \ obj.socialAction,\n                'socialTarget': obj.url\n           \
+        \ });\n        }\n        __tnt.googlePageView = function(obj) {\n       \
+        \     var sURL = obj.url.replace(/^.*\\/\\/[^\\/]+/, '');\n            dataLayer.push({\n\
+        \                'event': 'VirtualPageview',\n                'virtualPageURL':\
+        \ sURL,\n                'virtualPageTitle': obj.title\n            });\n\
+        \        }\n    </script>\n    <!-- End Google Tag Manager -->\r\n       \
+        \ <script>\n            $(function(){\n                var bloxServiceIDs\
+        \ = [];\n                var bloxUserServiceIds = [];\n                var\
+        \ dataLayer = window.dataLayer || [];\n\n                \n              \
+        \  bloxServiceIDs.push();\n                \n\n                if (__tnt.user.services){\n\
+        \                    var bloxUserServiceIDs = __tnt.user.services.replace('%2C',',').split(',');\n\
+        \                }\n\n                // GTM tncms.subscription.paid_access_service_ids\n\
+        \                if(bloxServiceIDs){\n                    dataLayer.push({'tncms':{'subscription':{'access_service_ids':bloxServiceIDs.toString()}}});\n\
+        \                }\n\n                // GTM tncms.subscrption.user_service_ids\n\
+        \                if(bloxUserServiceIDs){\n                    dataLayer.push({'tncms':{'subscription':{'user_service_ids':bloxUserServiceIDs.toString()}}});\n\
+        \                }\n            });\n        </script>\r\n        \r\n   \
+        \     <div id=\"site-container\">\n\n    \n        \n            <aside class=\"\
+        hidden-print offcanvas-drawer offcanvas-drawer-left\">\n                <div\
+        \ id=\"tncms-region-mobile-nav-top-left-region\" class=\"tncms-region \"><div\
+        \ id=\"tncms-block-1694991\" class=\"tncms-block\"><div class=\"close-btn-container\
+        \ clearfix\">\n<button type=\"button\" class=\"fluid-header navbar-toggle\
+        \ ag-menu-close offcanvas-close-btn in-drawer\" data-toggle=\"offcanvas\"\
+        \ data-target=\"left\">\n    Close <i class=\"fas tnt-times-circle\"></i></button>\n\
+        </div></div><div id=\"tncms-block-1694930\" class=\"tncms-block\"><section\
+        \ id=\"block-1694930\" class=\"block emphasis-h3   \" >\r\n    <div class=\"\
+        clearfix\"></div>\r\n    <div id=\"search-form-1694930\" class=\"search-form-container\
+        \ card clearfix text-center hidden-print \">\r\n    <form id=\"site-search-1694930\"\
+        \ action=\"/search/\" method=\"GET\" >\r\n    <input type=\"hidden\" name=\"\
+        l\" value=\"25\">\r\n    \r\n        \r\n        <input type=\"hidden\" name=\"\
+        sort\" value=\"relevance\">\r\n    \r\n    \r\n    \r\n    \r\n    <input\
+        \ type=\"hidden\" name=\"f\" value=\"html\">\r\n    \r\n        \r\n     \
+        \   <input type=\"hidden\" name=\"t\" value=\"article,video,youtube,collection\"\
+        >\r\n    \r\n    <input type=\"hidden\" name=\"app\" value=\"editorial\">\r\
+        \n    <input type=\"hidden\" name=\"nsa\" value=\"eedition\">\r\n    <div\
+        \ class=\"site-search-form input-group default input-group-lg form-control\"\
+        >\r\n        <input id=\"site-search-1694930-term\" name=\"q\" title=\"Site\
+        \ Search\" type=\"text\" placeholder=\"Search...\" class=\"form-control\"\
+        \ autocomplete=\"off\">\r\n        <input type=\"submit\" class=\"hide\" value=\"\
+        Search\">\r\n        <span class=\"input-group-btn\">\r\n            <button\
+        \ id=\"site-search-1694930-btn\" class=\"btn btn-link\" aria-label=\"Submit\
+        \ Site Search\" type=\"submit\">\r\n                \r\n            </button>\r\
+        \n        </span>\r\n    </div>\r\n    <div class=\"clearfix\"></div>\r\n\
+        </form>\r\n        \r\n        \r\n        <div class=\"clearfix\"></div>\r\
+        \n    </div>\r\n    </section> \r\n\r\n<script>\r\n    $('#site-search-1694930-btn').on(__tnt.client.clickEvent,\
+        \ function(){\r\n        $('#site-search-1694930').submit();\r\n        return\
+        \ false;\r\n    });\r\n\r\n    $('#site-search-1694930').on('submit', function(){\r\
+        \n        // Filter query\r\n        var sQueryFiltered = $(\"#site-search-1694930\
+        \ input[name=q]\").val().replace(/\\?/g, '');\n    $(\"#site-search-1694930\
+        \ input[name=q]\").val( sQueryFiltered );\r\n\r\n        if( $('#site-search-1694930-term').val()\
+        \ ){\r\n            return true;\r\n        }else{\r\n            return false;\r\
+        \n        }\r\n    });</script>\r\n</div></div>\n                <div id=\"\
+        tncms-region-nav-mobile-nav-left\" class=\"tncms-region-nav\"><div id=\"mobile-nav-left_menu\"\
+        \ class=\"panel-group nav navbar-nav\" role=\"tablist\">\n            <div\
+        \ class=\"row nav-row\">\n                <div class=\"col-sm-4 nav-col-1\"\
+        >\n                        <div class=\"panel panel-default\" data-group-iter=\"\
+        1\" data-group=\"0\" data-group-max=\"3\">\n                            <div\
+        \ class=\"panel-heading\" role=\"tab\">\n                                <div\
+        \ class=\"panel-title\"><a data-toggle=\"collapse\" class=\"expand-children\
+        \ collapsed pull-right\" aria-expanded=\"false\" aria-controls=\"mobile-nav-left_menu-child-1\"\
+        \ data-target=\"#mobile-nav-left_menu-child-1\">\n                       \
+        \                     <i class=\"fas tnt-chevron-down\"></i>\n           \
+        \                             </a><a href=\"/crops/\"  class=\"nav-link tnt-section-crops\"\
+        >Crops</a>\n                                </div>\n                     \
+        \       </div><ul id=\"mobile-nav-left_menu-child-1\" class=\"collapse nav\
+        \ navbar-nav\"><li>\n                                            <a href=\"\
+        /crops/feed_grains/\"  class=\"nav-link tnt-section-feed-grains\">Feed Grains</a>\n\
+        \                                        </li><li>\n                     \
+        \                       <a href=\"/crops/oil_seed/\"  class=\"nav-link tnt-section-oilseed\"\
+        >Oilseed</a>\n                                        </li><li>\n        \
+        \                                    <a href=\"/crops/food_grains/\"  class=\"\
+        nav-link tnt-section-food-grains\">Food Grains</a>\n                     \
+        \                   </li><li>\n                                          \
+        \  <a href=\"/crops/forages/\"  class=\"nav-link tnt-section-forages\">Forages</a>\n\
+        \                                        </li><li>\n                     \
+        \                       <a href=\"/crops/pulse_crops/\"  class=\"nav-link\
+        \ tnt-section-pulse-crops\">Pulse Crops</a>\n                            \
+        \            </li><li>\n                                            <a href=\"\
+        /crops/other_crops/\"  class=\"nav-link tnt-section-other-crops\">Other Crops</a>\n\
+        \                                        </li></ul></div>\n              \
+        \          \n                        <div class=\"panel panel-default\" data-group-iter=\"\
+        2\" data-group=\"0\" data-group-max=\"3\">\n                            <div\
+        \ class=\"panel-heading\" role=\"tab\">\n                                <div\
+        \ class=\"panel-title\"><a data-toggle=\"collapse\" class=\"expand-children\
+        \ collapsed pull-right\" aria-expanded=\"false\" aria-controls=\"mobile-nav-left_menu-child-2\"\
+        \ data-target=\"#mobile-nav-left_menu-child-2\">\n                       \
+        \                     <i class=\"fas tnt-chevron-down\"></i>\n           \
+        \                             </a><a href=\"/livestock/\"  class=\"nav-link\
+        \ tnt-section-livestock\">Livestock</a>\n                                </div>\n\
+        \                            </div><ul id=\"mobile-nav-left_menu-child-2\"\
+        \ class=\"collapse nav navbar-nav\"><li>\n                               \
+        \             <a href=\"/livestock/beef/\"  class=\"nav-link tnt-section-beef\"\
+        >Beef</a>\n                                        </li><li>\n           \
+        \                                 <a href=\"/livestock/dairy/\"  class=\"\
+        nav-link tnt-section-dairy\">Dairy</a>\n                                 \
+        \       </li><li>\n                                            <a href=\"\
+        /livestock/swine/\"  class=\"nav-link tnt-section-swine\">Swine</a>\n    \
+        \                                    </li><li>\n                         \
+        \                   <a href=\"/livestock/poultry/\"  class=\"nav-link tnt-section-poultry\"\
+        >Poultry</a>\n                                        </li><li>\n        \
+        \                                    <a href=\"/livestock/other/\"  class=\"\
+        nav-link tnt-section-other-livestock\">Other Livestock</a>\n             \
+        \                           </li></ul></div>\n                        \n \
+        \                       <div class=\"panel panel-default\" data-group-iter=\"\
+        3\" data-group=\"0\" data-group-max=\"3\">\n                            <div\
+        \ class=\"panel-heading\" role=\"tab\">\n                                <div\
+        \ class=\"panel-title\"><a data-toggle=\"collapse\" class=\"expand-children\
+        \ collapsed pull-right\" aria-expanded=\"false\" aria-controls=\"mobile-nav-left_menu-child-3\"\
+        \ data-target=\"#mobile-nav-left_menu-child-3\">\n                       \
+        \                     <i class=\"fas tnt-chevron-down\"></i>\n           \
+        \                             </a><a href=\"/markets/\"  class=\"nav-link\
+        \ tnt-section-markets\">Markets</a>\n                                </div>\n\
+        \                            </div><ul id=\"mobile-nav-left_menu-child-3\"\
+        \ class=\"collapse nav navbar-nav\"><li>\n                               \
+        \             <a href=\"/markets/market_news/\"  class=\"nav-link tnt-section-market-news\"\
+        >Market News</a>\n                                        </li><li>\n    \
+        \                                        <a href=\"/markets/futures/\"  class=\"\
+        nav-link tnt-section-futures-prices\">Futures Prices</a>\n               \
+        \                         </li><li>\n                                    \
+        \        <a href=\"/markets/land/\"  class=\"nav-link tnt-section-ag-land-prices-value\"\
+        >Ag Land Prices & Value</a>\n                                        </li><li>\n\
+        \                                            <a href=\"/markets/commentary/\"\
+        \  class=\"nav-link tnt-section-ag-market-prices-commentary\">Ag Market Prices\
+        \ & Commentary</a>\n                                        </li></ul></div>\n\
+        \                        \n                            </div>\n          \
+        \                  <div class=\"col-sm-4 nav-col-2\">\n                  \
+        \      \n                        <div class=\"panel panel-default\" data-group-iter=\"\
+        1\" data-group=\"1\" data-group-max=\"3\">\n                            <div\
+        \ class=\"panel-heading\" role=\"tab\">\n                                <div\
+        \ class=\"panel-title\"><a href=\"/technology/\"  class=\"nav-link tnt-section-technology\"\
+        >Technology</a>\n                                </div>\n                \
+        \            </div></div>\n                        \n                    \
+        \    <div class=\"panel panel-default\" data-group-iter=\"2\" data-group=\"\
+        1\" data-group-max=\"3\">\n                            <div class=\"panel-heading\"\
+        \ role=\"tab\">\n                                <div class=\"panel-title\"\
+        ><a href=\"/business/\"  class=\"nav-link tnt-section-business\">Business</a>\n\
+        \                                </div>\n                            </div></div>\n\
+        \                        \n                        <div class=\"panel panel-default\"\
+        \ data-group-iter=\"3\" data-group=\"1\" data-group-max=\"3\">\n         \
+        \                   <div class=\"panel-heading\" role=\"tab\">\n         \
+        \                       <div class=\"panel-title\"><a href=\"/opinion/\" \
+        \ class=\"nav-link tnt-section-opinion\">Opinion</a>\n                   \
+        \             </div>\n                            </div></div>\n         \
+        \               \n                            </div>\n                   \
+        \         <div class=\"col-sm-4 nav-col-3\">\n                        \n \
+        \                       <div class=\"panel panel-default\" data-group-iter=\"\
+        1\" data-group=\"2\" data-group-max=\"3\">\n                            <div\
+        \ class=\"panel-heading\" role=\"tab\">\n                                <div\
+        \ class=\"panel-title\"><a href=\"/weather/\"  class=\"nav-link tnt-section-weather\"\
+        >Weather</a>\n                                </div>\n                   \
+        \         </div></div>\n                        \n                       \
+        \ <div class=\"panel panel-default\" data-group-iter=\"2\" data-group=\"2\"\
+        \ data-group-max=\"3\">\n                            <div class=\"panel-heading\"\
+        \ role=\"tab\">\n                                <div class=\"panel-title\"\
+        ><a href=\"/ads/\"  class=\"nav-link tnt-section-marketplace\">Marketplace</a>\n\
+        \                                </div>\n                            </div></div>\n\
+        \                        \n                        <div class=\"panel panel-default\"\
+        \ data-group-iter=\"3\" data-group=\"2\" data-group-max=\"3\">\n         \
+        \                   <div class=\"panel-heading\" role=\"tab\">\n         \
+        \                       <div class=\"panel-title\"><a href=\"/newsletters/\"\
+        \  class=\"nav-link tnt-section-newsletters\">Newsletters</a>\n          \
+        \                      </div>\n                            </div></div>\n\
+        \                        </div>\n            </div>\n        </div></div>\n\
+        \                \n                <div id=\"tncms-region-nav-mobile-nav-left-below\"\
+        \ class=\"tncms-region-nav\"><div id=\"mobile-nav-left-below_menu\" class=\"\
+        panel-group nav navbar-nav\" role=\"tablist\"><div class=\"panel panel-default\"\
+        >\r\n                    <div class=\"panel-heading\" role=\"tab\">\r\n  \
+        \                      <div class=\"panel-title\"><a data-toggle=\"collapse\"\
+        \ class=\"expand-children collapsed pull-right\" aria-expanded=\"false\" aria-controls=\"\
+        mobile-nav-left-below_menu-child-1\" data-target=\"#mobile-nav-left-below_menu-child-1\"\
+        >\r\n                                    <i class=\"fas tnt-chevron-down\"\
+        ></i>\r\n                                </a><a   class=\"nav-link tnt-section-ag-publications\"\
+        >Ag Publications</a>\r\n                        </div>\r\n               \
+        \     </div><ul id=\"mobile-nav-left-below_menu-child-1\" class=\"collapse\
+        \ nav navbar-nav\"><li>\r\n                                    <a href=\"\
+        /\"  class=\"nav-link tnt-section-ag-update\">Ag Update</a>\r\n          \
+        \                      </li><li>\r\n                                    <a\
+        \ href=\"http://agriview.com\"  target=\"_blank\" rel=\"noopener\" class=\"\
+        nav-link tnt-section-agri-view\">Agri-View</a>\r\n                       \
+        \         </li><li>\r\n                                    <a href=\"http://cattleseller.com\"\
+        \  target=\"_blank\" rel=\"noopener\" class=\"nav-link tnt-section-cattlesellercom\"\
+        >CattleSeller.com</a>\r\n                                </li><li>\r\n   \
+        \                                 <a href=\"http://farmandranchguide.com\"\
+        \  target=\"_blank\" rel=\"noopener\" class=\"nav-link tnt-section-farm-ranch-guide\"\
+        >Farm & Ranch Guide</a>\r\n                                </li><li>\r\n \
+        \                                   <a href=\"http://illinoisfarmertoday.com\"\
+        \  target=\"_blank\" rel=\"noopener\" class=\"nav-link tnt-section-illinois-farmer-today\"\
+        >Illinois Farmer Today</a>\r\n                                </li><li>\r\n\
+        \                                    <a href=\"http://iowafarmertoday.com\"\
+        \  target=\"_blank\" rel=\"noopener\" class=\"nav-link tnt-section-iowa-farmer-today\"\
+        >Iowa Farmer Today</a>\r\n                                </li><li>\r\n  \
+        \                                  <a href=\"http://livestockroundup.com\"\
+        \  target=\"_blank\" rel=\"noopener\" class=\"nav-link tnt-section-livestock-roundup\"\
+        >Livestock Roundup</a>\r\n                                </li><li>\r\n  \
+        \                                  <a href=\"http://midwestmarketer.com\"\
+        \  target=\"_blank\" rel=\"noopener\" class=\"nav-link tnt-section-midwest-marketer\"\
+        >Midwest Marketer</a>\r\n                                </li><li>\r\n   \
+        \                                 <a href=\"http://midwestmessenger.com\"\
+        \  target=\"_blank\" rel=\"noopener\" class=\"nav-link tnt-section-midwest-messenger\"\
+        >Midwest Messenger</a>\r\n                                </li><li>\r\n  \
+        \                                  <a href=\"http://midwestmessengerks.com\"\
+        \  target=\"_blank\" rel=\"noopener\" class=\"nav-link tnt-section-midwest-messenger-kansas\"\
+        >Midwest Messenger Kansas</a>\r\n                                </li><li>\r\
+        \n                                    <a href=\"http://minnesotafarmguide.com\"\
+        \  target=\"_blank\" rel=\"noopener\" class=\"nav-link tnt-section-minnesota-farm-guide\"\
+        >Minnesota Farm Guide</a>\r\n                                </li><li>\r\n\
+        \                                    <a href=\"http://missourifarmertoday.com\"\
+        \  target=\"_blank\" rel=\"noopener\" class=\"nav-link tnt-section-missouri-farmer-today\"\
+        >Missouri Farmer Today</a>\r\n                                </li><li>\r\n\
+        \                                    <a href=\"http://theprairiestar.com\"\
+        \  target=\"_blank\" rel=\"noopener\" class=\"nav-link tnt-section-the-prairie-star\"\
+        >The Prairie Star</a>\r\n                                </li><li>\r\n   \
+        \                                 <a href=\"http://tristateneighbor.com\"\
+        \  target=\"_blank\" rel=\"noopener\" class=\"nav-link tnt-section-tri-state-neighbor\"\
+        >Tri-State Neighbor</a>\r\n                                </li></ul></div></div></div>\n\
+        \                <div id=\"tncms-region-mobile-nav-bottom-left-region\" class=\"\
+        tncms-region \"><div id=\"tncms-block-1696035\" class=\"tncms-block\"><div\
+        \ class=\"mp-container mp-breakout block\" data-display-width=\"container\"\
+        \ data-display-fluid=\"true\">\n    <div class=\"container\">\n    <h4 class=\"\
+        mp-title\"><a href=\"/marketplace/\" target=\"_blank\"><i class=\"fas tnt-tractor\
+        \ fa fa-tractor\"></i> Marketplace</a></h4>\n    \n    \n        <div class=\"\
+        row mp-search\">\n            <div class=\"col-md-6 col-md-offset-3\">\n \
+        \              <section class=\"block text-center\">\n                   \
+        \ <div class=\"search-title\"><h4>Find the equipment you're looking for</h4></div>\n\
+        \                    <form class=\"agrisearch\">\n                       \
+        \ <div class=\"input-group input-group-lg\">\n                           \
+        \ <input type=\"text\" class=\"form-control search-text\" placeholder=\"Search\
+        \ by manufacturer, make, model, etc...\" />\n                            <span\
+        \ class=\"input-group-btn\">\n                                <button class=\"\
+        btn btn-default\" type=\"submit\">\n                                    <i\
+        \ class=\"fas fa-search tnt-search\"></i>\n                              \
+        \  </button>\n                            </span>\n                      \
+        \  </div>\n                    </form>\n                </section>\n     \
+        \       </div>\n        </div>\n    \n    \n    <div class=\"row\">\n    \
+        \    <div class=\"col-md-8 col-md-offset-2\">\n            <section class=\"\
+        block text-center\">\n                <ul class=\"mp-quick-links list-inline\"\
+        >\n                    \n                    <li><a href=\"/ads/farm_machinery/tractors/?l=25\"\
+        \ target=\"_blank\">Tractors</a></li>\n                    \n            \
+        \        <li><a href=\"/ads/farm_machinery/combines/?l=25\" target=\"_blank\"\
+        >Combines</a></li>\n                    \n                    <li><a href=\"\
+        /ads/farm_machinery/harvest_equipment/?l=25\" target=\"_blank\">Harvesters</a></li>\n\
+        \                    \n                    <li><a href=\"/ads/farm_machinery/planting_equipment/?l=25\"\
+        \ target=\"_blank\">Planting</a></li>\n                    \n            \
+        \        <li><a href=\"/ads/farm_machinery/miscellaneous_equipment/?l=25\"\
+        \ target=\"_blank\">Misc Equipment</a></li>\n                    \n      \
+        \              <li><a href=\"/ads/farm_machinery/haying_equipment/?l=25\"\
+        \ target=\"_blank\">Hay Equipment</a></li>\n                    \n       \
+        \             <li><a href=\"/ads/transportation/trailers/?l=25\" target=\"\
+        _blank\">Trailers</a></li>\n                    \n                    <li><a\
+        \ href=\"/ads/transportation/trucks/?l=25\" target=\"_blank\">Trucks</a></li>\n\
+        \                    \n                    <li><a href=\"/ads/livestock/?l=25\"\
+        \ target=\"_blank\">Livestock</a></li>\n                    \n           \
+        \         <li><a href=\"/ads/seed-feed-hay/feed-hay/?l=25\" target=\"_blank\"\
+        >Feed/Hay</a></li>\n                    \n                </ul>\n        \
+        \    </section>\n        </div>\n    </div>\n    \n    \n    </div>\n</div></div><div\
+        \ id=\"tncms-block-1695622\" class=\"tncms-block\"><div id=\"site-copyright-asset\"\
+        \ class=\"site-copyright nav-copyright small\">\n    <section><div class=\"\
+        copyright-row\">\n            \xA9 2019, Lee Agri-Media, a division of Lee\
+        \ Enterprises.\n        </div>\n        <div class=\"copyright-row\">\n  \
+        \          <span>All rights reserved</span>\n            <small>\_| <a href=\"\
+        /site/terms.html\">Terms of Use</a></small>\n            <small>\_| <a href=\"\
+        /site/privacy.html\">Privacy Policy</a></small>\n        </div>\n    </section>\n\
+        </div></div></div>\n            </aside>\n        \n        \n\n        <div\
+        \ class=\"offcanvas-inner\">\n            <div class=\"offcanvas-close-btn\"\
+        ></div>\n    \n\n    \n\n    <div id=\"tncms-region-global-skyline\" class=\"\
+        tncms-region \"></div>\n    \n\n    \n\n    \n\n    \n    \n        <div id=\"\
+        site-navbar-container\" class=\"hidden-print affix-top\">\n            \n\
+        \            <nav id=\"main-navigation\" class=\"navbar yamm navbar-default\
+        \ container\">\n                \n                \n                <div class=\"\
+        navbar-header\">\n                    \n                    \n           \
+        \             <button type=\"button\" class=\" hamburger-desktop fluid-header\
+        \ navbar-toggle pull-left\" data-toggle=\"offcanvas\" data-target=\"left\"\
+        >\n                            <span class=\"sr-only\">Toggle navigation</span>\n\
+        \                            <span class=\"icon-bar\"></span>\n          \
+        \                  <span class=\"icon-bar\"></span>\n                    \
+        \        <span class=\"icon-bar\"></span>\n                            <span\
+        \ class=\"visible-lg visible-md sr-only-show\">Menu</span>\n             \
+        \           </button>\n                    \n                    \n\n    \
+        \                \n                        <div class=\"navbar-brand pos_left\"\
+        >\n                            \n                                <div id=\"\
+        tncms-region-main-nav-brand\" class=\"tncms-region \"><div id=\"tncms-block-1694916\"\
+        \ class=\"tncms-block\"><div id=\"site-logo-1694916\" class=\"site-logo-container\
+        \ text-left\" >\n        <div class=\"logo-top\"></div>\n        <div class=\"\
+        logo-middle\">\n            <a  href=\"/\"><img \n            \n         \
+        \   src=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/custom/image/8230a11a-a993-11e9-a86f-731dc412391c.png?resize=200%2C47\"\
+        \ \n            srcset=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/custom/image/8230a11a-a993-11e9-a86f-731dc412391c.png?resize=200%2C47\
+        \ 200w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/custom/image/8230a11a-a993-11e9-a86f-731dc412391c.png?resize=300%2C70\
+        \ 300w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/custom/image/8230a11a-a993-11e9-a86f-731dc412391c.png?resize=400%2C94\
+        \ 400w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/custom/image/8230a11a-a993-11e9-a86f-731dc412391c.png?resize=540%2C127\
+        \ 540w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/custom/image/8230a11a-a993-11e9-a86f-731dc412391c.png?resize=750%2C176\
+        \ 750w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/custom/image/8230a11a-a993-11e9-a86f-731dc412391c.png\
+        \ 1200w\"\n            sizes=\"100vw\"\n            class=\" img-responsive\
+        \ lazyload tnt-prop-img\"\n            alt=\"site-logo\"></a>\n        </div>\n\
+        \        <div class=\"logo-bottom\"></div>\n    </div></div></div>\n     \
+        \                       \n                        </div>\n               \
+        \     \n\n                    \n                </div>\n\n               \
+        \ \n                    <div id=\"navbar-collapse\" class=\"navbar-collapse\
+        \ collapse\">\n                        \n                            <div\
+        \ class=\"pull-right\">\n                                <div id=\"tncms-region-main-nav-right-region\"\
+        \ class=\"tncms-region \"></div>\n                                \n     \
+        \                       </div>\n                        \n               \
+        \         <div class=\"navbar-left\">\n                            <div id=\"\
+        tncms-region-nav-main-nav\" class=\"tncms-region-nav\"><ul id=\"main-nav_menu\"\
+        \ class=\"nav navbar-nav\"><li class=\"dropdown\">\r\n                <a class=\"\
+        nav-link dropdown-toggle  tnt-section-crops\"  data-toggle=\"dropdown\" data-target=\"\
+        #\" data-hover=\"dropdown\" data-hover-delay=\"250\"  href=\"/crops/\" >\r\
+        \n                    <span class=\"nav-label\">Crops</span>\r\n         \
+        \       </a><ul id=\"main-nav_menu-child-1\" class=\"dropdown-menu\"><li>\r\
+        \n                <a class=\"nav-link  tnt-section-feed-grains\"  href=\"\
+        /crops/feed_grains/\" >\r\n                    <span class=\"nav-label\">Feed\
+        \ Grains</span>\r\n                </a></li><li>\r\n                <a class=\"\
+        nav-link  tnt-section-oilseed\"  href=\"/crops/oil_seed/\" >\r\n         \
+        \           <span class=\"nav-label\">Oilseed</span>\r\n                </a></li><li>\r\
+        \n                <a class=\"nav-link  tnt-section-food-grains\"  href=\"\
+        /crops/food_grains/\" >\r\n                    <span class=\"nav-label\">Food\
+        \ Grains</span>\r\n                </a></li><li>\r\n                <a class=\"\
+        nav-link  tnt-section-forages\"  href=\"/crops/forages/\" >\r\n          \
+        \          <span class=\"nav-label\">Forages</span>\r\n                </a></li><li>\r\
+        \n                <a class=\"nav-link  tnt-section-pulse-crops\"  href=\"\
+        /crops/pulse_crops/\" >\r\n                    <span class=\"nav-label\">Pulse\
+        \ Crops</span>\r\n                </a></li></ul></li><li>\r\n            \
+        \    <a class=\"nav-link  tnt-section-livestock\"  href=\"/livestock/\" >\r\
+        \n                    <span class=\"nav-label\">Livestock</span>\r\n     \
+        \           </a></li><li>\r\n                <a class=\"nav-link  tnt-section-weather\"\
+        \  href=\"/weather/\" >\r\n                    <span class=\"nav-label\">Weather</span>\r\
+        \n                </a></li><li>\r\n                <a class=\"nav-link  tnt-section-technology\"\
+        \  href=\"/technology/\" >\r\n                    <span class=\"nav-label\"\
+        >Technology</span>\r\n                </a></li><li>\r\n                <a\
+        \ class=\"nav-link  tnt-section-markets\"  href=\"/markets/\" >\r\n      \
+        \              <span class=\"nav-label\">Markets</span>\r\n              \
+        \  </a></li><li>\r\n                <a class=\"nav-link  tnt-section-opinion\"\
+        \  href=\"/opinion/\" >\r\n                    <span class=\"nav-label\">Opinion</span>\r\
+        \n                </a></li><li>\r\n                <a class=\"nav-link  tnt-section-marketplace\"\
+        \  href=\"/ads/\" >\r\n                    <span class=\"nav-label\">Marketplace</span>\r\
+        \n                </a></li></ul></div>\n                        </div>\n \
+        \                   </div>\n                \n\n                \n       \
+        \     </nav>\n            \n            \n        </div>\n        \n     \
+        \       \n                \n            \n        \n    \n    \n    <div id=\"\
+        main-body-container\">\n    <section id=\"main-top-container\" class=\"container-fullscreen-region\
+        \ container-fluid\">\n        \n        <div class=\"fullscreen-region\"><div\
+        \ id=\"tncms-region-global-container-top-fullscreen\" class=\"tncms-region\
+        \ \"></div></div>\n    </section>\n    <section id=\"main-page-container\"\
+        \ class=\"container\">\n        <div class=\"row\">\n        <div class=\"\
+        container-breakout \">\n        <div class=\"visible-lg visible-md\" data-slug=\"\
+        \" >\n<div class=\"tnt-ads-container text-center hidden-xs\"><div style=\"\
+        min-height:90px; min-width:728px;\" class=\"tnt-ads dfp-ad dfp-ad-lite\" data-dfp-adunit=\"\
+        /8438/agupdate.com/search\" data-dfp-custom-pos=\"fixed-leaderboard-top, atf,\
+        \ 50\" id=\"fixed-leaderboard-top\" data-dfp-size=\"[[728,90], [970,90], [970,250]]\"\
+        \ data-subscriber=\"true\"></div></div>\n    </div><div class=\"visible-sm\"\
+        ><div class=\"tnt-ads-container text-center hidden-xs\"><div style=\"min-height:90px;\
+        \ min-width:728px;\" class=\"tnt-ads dfp-ad dfp-ad-lite\" data-dfp-adunit=\"\
+        /8438/agupdate.com/search\" data-dfp-custom-pos=\"fixed-leaderboard-top, atf,\
+        \ 50\" id=\"fixed-leaderboard-top-tablet\" data-dfp-size=\"[728,90]\" data-subscriber=\"\
+        true\"></div></div>\n    </div><div class=\"tnt-ads-container text-center\
+        \ hidden-sm hidden-md hidden-lg\"><div style=\"min-height:50px; min-width:320px;\"\
+        \ class=\"tnt-ads dfp-ad dfp-ad-lite\" data-dfp-adunit=\"/8438/agupdate.com/search\"\
+        \ data-dfp-custom-pos=\"fixed-leaderboard-top, atf, 50\" id=\"fixed-leaderboard-top-mobile\"\
+        \ data-dfp-size=\"[[320,50],[300,50]]\" data-subscriber=\"true\"></div></div>\n\
+        \    \n       </div>\n            <div class=\"col-md-12\"><div id=\"tncms-region-global-container-top\"\
+        \ class=\"tncms-region \"><div id=\"tncms-block-1694279\" class=\"tncms-block\
+        \ block-section-row\"><section id=\"block-1694279\" class=\"block emphasis-h1\
+        \   \" ><div class=\"heading card\">\n    \n    \n    <div class=\"clearfix\"\
+        >\n    \n    <div class=\"block-title title-1694279 \">\n        <div class=\"\
+        block-title-inner\">\n            <h1>\n                \n               \
+        \     <a href=\"/search\">\n                \n                Search\n   \
+        \             \n                    </a>\n                \n            </h1>\n\
+        \        </div>\n    </div></div>\n    \n</div></section></div></div></div>\n\
+        \        </div><style>\n    .results-container .card.summary { border-top:\
+        \ 1px solid #f7f7f7; padding-top: 15px; }\n    .results-showing {font-size:\
+        \ 50%;line-height: 40px;color: inherit;}\n    .results-container .photo.layout-vertical\
+        \ { background-color: #222; }\n    .results-container .photo.layout-vertical\
+        \ img { max-height: 200px; margin: 0 auto; }\n</style>\n<div class=\"row\"\
+        >\n    <div class=\"main-content col-md-12\">\n    <div class=\"main-content-wrap\"\
+        >\n        \n       <h2>\n            Search\n            \n             \
+        \   <small>/ 7462 results found</small>\n                <small class=\"results-showing\
+        \ pull-right hidden-xs\">\n                    \n                        \n\
+        \                        Showing: <strong>1-10</strong> of <strong>7462</strong>\n\
+        \                    \n                </small>\n            \n        </h2><button\
+        \ id=\"follow-app-search\" class=\"followed-notify-btn btn btn-success btn-sm\"\
+        \ disabled data-params=\"?k=%22corn%22&amp;l=10\" data-subject=\"this search\"\
+        \ data-description=\"Whenever this search gets new results, you'll get an\
+        \ email delivered to your inbox with a link.\" data-name=\"quotcornquotsearch\
+        \ notification\" data-author-id=\"\" data-user-url=\"https://www.agupdate.com/users/\"\
+        >\n        <i class=\"fas tnt-star\"></i> Follow this search\n    </button><template\
+        \ id=\"follow-this-modal-logged-in\">\n            <div class=\"modal-dialog\"\
+        >\n                <div class=\"modal-content\">\n                    <div\
+        \ class=\"modal-header\">\n                        <button class=\"close\"\
+        \ type=\"button\" data-dismiss=\"modal\">\n                            <i\
+        \ class=\"fas tnt-times-circle\"></i>\n                            <span class=\"\
+        sr-only\">Close</span>\n                        </button>\n              \
+        \          <h4 class=\"modal-title\">Get email notifications on {{subject}}\
+        \ daily!</h4>\n                    </div>\n                    <div class=\"\
+        modal-body\">\n                        <div class=\"alert alert-success\"\
+        \ style=\"display:none;\">\n                            Your notification\
+        \ has been saved.\n                        </div>\n                      \
+        \  <div class=\"alert alert-danger\" style=\"display:none;\">\n          \
+        \                  There was a problem saving your notification.\n       \
+        \                 </div>\n                        <p class=\"notification-description\"\
+        >{{description}}</p>\n                        <p>Email notifications are only\
+        \ sent once a day, and only if there are new matching items.</p>\n       \
+        \                 <form id=\"follow-notify-form\" class=\"follow-notify-form\"\
+        \ action=\"{{action}}\" method=\"post\">\n                            <input\
+        \ class=\"input-notification-name\" type=\"hidden\" name=\"title\" value=\"\
+        {{title}}\">\n                            <div class=\"row\">\n          \
+        \                      <div class=\"col-sm-6\">\n                        \
+        \            <button class=\"btn btn-success btn-block follow-btn\" >\n  \
+        \                                      <i class=\"fas tnt-spinner tnt-pulse\"\
+        \ style=\"display:none;\"></i> Save\n                                    </button>\n\
+        \                                </div>\n                                <div\
+        \ class=\"col-sm-6\">\n                                    <a class=\"btn\
+        \ btn-default btn-block\" href=\"https://www.agupdate.com/users/admin/savedsearch/\"\
+        >Manage followed notifications</a>\n                                </div>\n\
+        \                            </div>\n                        </form>\n   \
+        \                 </div>\n                </div>\n            </div>\n   \
+        \     </template>\n\n        <template id=\"follow-this-modal-logged-out\"\
+        >\n            <div class=\"modal-dialog modal-sm\">\n                <div\
+        \ class=\"modal-content\">\n                    <div class=\"modal-header\"\
+        >\n                        <button class=\"close\" type=\"button\" data-dismiss=\"\
+        modal\">\n                            <i class=\"fas tnt-times-circle\"></i>\n\
+        \                            <span class=\"sr-only\">Close</span>\n      \
+        \                  </button>\n                        <h4 class=\"modal-title\"\
+        >Followed notifications</h4>\n                    </div>\n               \
+        \     <div class=\"modal-body\">\n                        <div class=\"user-login\
+        \ padding-bottom\">\n                            <h4>Please log in to use\
+        \ this feature</h4>\n                            <a class=\"btn btn-block\
+        \ btn-primary\" href=\"https://www.agupdate.com/users/login/?referer_url=https%3A%2F%2Fwww.agupdate.com%2Fsearch%2F%3Fk%3D%2522corn%2522%26l%3D10\"\
+        \ rel=\"nofollow\">Log In</a>\n                        </div>\n          \
+        \              <div class=\"user-signup\">\n                            <strong>Don't\
+        \ have an account?</strong> <a href=\"https://www.agupdate.com/users/signup/?referer_url=https%3A%2F%2Fwww.agupdate.com%2Fsearch%2F%3Fk%3D%2522corn%2522%26l%3D10\"\
+        \ rel=\"nofollow\">Sign Up Today</a>\n                        </div>\n   \
+        \                 </div>\n                </div>\n            </div>\n   \
+        \     </template>\n\n        <div id=\"follow-this-modal\" class=\"modal fade\
+        \ follow-this-modal\">\n            <div class=\"modal-dialog\"></div>\n \
+        \       </div><style>\n        .site-search-form {\n            margin-bottom:\
+        \ 15px;\n        }\n        .search-collapse-container {\n            padding-bottom:\
+        \ 15px;\n        }\n        .input-group-d1 {\n            margin-bottom:\
+        \ 15px;\n        }\n        @media screen and (min-width: 768px) {\n     \
+        \       .input-group-d1 {\n                margin-bottom: 0;\n           \
+        \ }\n        }\n    </style>\n    <div class=\"search-form-container well\"\
+        >\n        <form id=\"search-form\" class=\"form-horizontal\" action=\"/search/\"\
+        \ method=\"GET\">\n            <input type=\"hidden\" name=\"f\" value=\"\"\
+        >\n            \n            <div class=\"site-search-form input-group\">\n\
+        \                <input id=\"search-form-text\" title=\"Search\" name=\"q\"\
+        \ type=\"text\" placeholder=\"Search...\" class=\"form-control\" value=\"\"\
+        >\n                <input type=\"submit\" class=\"hide\" value=\"Search\"\
+        >\n                <span class=\"input-group-btn\">\n                    <button\
+        \ class=\"btn btn-primary btn-submit search-submit\" type=\"button\">\n  \
+        \                      <span class=\"fas tnt-search\"></span>\n          \
+        \              <span class=\"sr-only\">Search button</span>\n            \
+        \        </button>\n                </span>\n            </div>\n\n      \
+        \      <div id=\"search-form-collapse\" class=\"panel-collapse collapse in\"\
+        >\n                <div class=\"search-collapse-container\">\n           \
+        \         <div class=\"row\">\n                        <div class=\"col-sm-12\"\
+        >\n                            <div class=\"form-group\">\n              \
+        \                  <label class=\"col-sm-2 control-label\" for=\"input-d1\"\
+        >Dates</label>\n                                <div class=\"col-sm-5\">\n\
+        \                                    <div class=\"input-group input-group-d1\"\
+        >\n                                        <span class=\"input-group-addon\"\
+        >from</span>\n                                        <input class=\"form-control\"\
+        \ title=\"Search date start\" id=\"input-d1\" name=\"d1\" type=\"text\" value=\"\
+        \">\n                                    </div>\n                        \
+        \        </div>\n                                <div class=\"col-sm-5\">\n\
+        \                                    <div class=\"input-group input-group-d2\"\
+        >\n                                        <span class=\"input-group-addon\
+        \ input-group-addon-to\">to</span>\n                                     \
+        \   <input class=\"form-control\" title=\"Search date end\" id=\"input-d2\"\
+        \ name=\"d2\" type=\"text\" value=\"\">\n                                \
+        \    </div>\n                                </div>\n                    \
+        \        </div>\n                        </div>\n                    </div>\n\
+        \n                    <div class=\"row\">\n                        <div class=\"\
+        col-sm-6\">\n                            <div class=\"form-group\">\n    \
+        \                            <label class=\"col-sm-4 control-label\" for=\"\
+        select-s\">Sort by</label>\n                                <div class=\"\
+        col-sm-8\">\n                                    <select id=\"select-s\" class=\"\
+        form-control\" name=\"s\">\n                                        <option\
+        \ value=\"start_time\" selected>Start time</option>\n                    \
+        \                    <option value=\"title\">Title</option>\n            \
+        \                            <option value=\"\">Relevance</option>\n     \
+        \                               </select>\n                              \
+        \  </div>\n                            </div>\n\n                        \
+        \    <div class=\"form-group\">\n                                <label class=\"\
+        col-sm-4 control-label\" for=\"select-sd\">Order</label>\n               \
+        \                 <div class=\"col-sm-8\">\n                             \
+        \       <select id=\"select-sd\" class=\"form-control\" name=\"sd\">\n   \
+        \                                     <option value=\"desc\" >Descending</option>\n\
+        \                                        <option value=\"asc\" >Ascending</option>\n\
+        \                                    </select>\n                         \
+        \       </div>\n                            </div>\n\n                   \
+        \         <div class=\"form-group\">\n                                <label\
+        \ class=\"col-sm-7 control-label\" for=\"select-l\">Results per page</label>\n\
+        \                                <div class=\"col-sm-5\">\n              \
+        \                      <select id=\"select-l\" class=\"form-control\" name=\"\
+        l\">\n                                        <option value=\"10\" selected>10</option>\n\
+        \                                        <option value=\"25\" >25</option>\n\
+        \                                        <option value=\"50\" >50</option>\n\
+        \                                        <option value=\"75\" >75</option>\n\
+        \                                        <option value=\"100\" >100</option>\n\
+        \                                    </select>\n                         \
+        \       </div>\n                            </div>\n                     \
+        \   </div>\n                        <div class=\"col-sm-6\">\n           \
+        \                 <div class=\"form-group\">\n                           \
+        \     <label class=\"col-sm-4 control-label\">Include types</label>\n    \
+        \                            <div class=\"col-sm-8\">\n                  \
+        \                  <input id=\"input-t\" name=\"t\" type=\"hidden\" value=\"\
+        \">\n                                    <div class=\"checkbox\">\n      \
+        \                                  <label>\n                             \
+        \               <input id=\"input-type-articles\" class=\"input-type\" type=\"\
+        checkbox\" value=\"article\" >\n                                         \
+        \   <i class=\"far tnt-file-alt tnt-fw\"></i> Article\n                  \
+        \                      </label>\n                                    </div>\n\
+        \                                    <div class=\"checkbox\">\n          \
+        \                              <label>\n                                 \
+        \           <input id=\"input-type-collections\" class=\"input-type\" type=\"\
+        checkbox\" value=\"collection\" >\n                                      \
+        \      <i class=\"far tnt-copy tnt-fw\"></i> Collections &amp; galleries\n\
+        \                                        </label>\n                      \
+        \              </div>\n                                    <div class=\"checkbox\"\
+        >\n                                        <label>\n                     \
+        \                       <input id=\"input-type-videos\" class=\"input-type\"\
+        \ type=\"checkbox\" value=\"video,youtube\" >\n                          \
+        \                  <i class=\"fas tnt-video tnt-fw\"></i> Video\n        \
+        \                                </label>\n                              \
+        \      </div>\n                                    <div class=\"checkbox\"\
+        >\n                                        <label>\n                     \
+        \                       <input id=\"input-type-images\" class=\"input-type\"\
+        \ type=\"checkbox\" value=\"image\" >\n                                  \
+        \          <i class=\"fas tnt-camera tnt-fw\"></i> Images\n              \
+        \                          </label>\n                                    </div>\n\
+        \                                    <div class=\"checkbox\">\n          \
+        \                              <label>\n                                 \
+        \           <input id=\"input-type-documents\" class=\"input-type\" type=\"\
+        checkbox\" value=\"pdf\" >\n                                            <i\
+        \ class=\"far tnt-file-pdf tnt-fw\"></i> Documents (PDFs)\n              \
+        \                          </label>\n                                    </div>\n\
+        \                                    <div class=\"checkbox\">\n          \
+        \                              <label>\n                                 \
+        \           <input id=\"input-type-all\" class=\"input-type\" type=\"checkbox\"\
+        \ value=\"\"  checked>All\n                                        </label>\n\
+        \                                    </div>\n                            \
+        \    </div>\n                            </div>\n                        </div>\n\
+        \                    </div>\n                    \n                    \n\n\
+        \                    <div class=\"row\">\n                        <div class=\"\
+        col-sm-offset-9 col-sm-3\">\n                            <button class=\"\
+        btn btn-block btn-primary btn-submit search-submit\" type=\"button\">\n  \
+        \                              <span class=\"fas tnt-search\"></span> Search\n\
+        \                            </button>\n                        </div>\n \
+        \                   </div>\n                </div>\n            </div>\n\n\
+        \            <div class=\"advanced-toggle text-center\">\n               \
+        \ <a id=\"search-form-collapse-toggle\" href=\"#search-form-collapse\" data-toggle=\"\
+        collapse\" data-parent=\"#search-form\">\n                    <span class=\"\
+        advanced-text hide\"><span class=\"fas tnt-caret-down\"></span> Advanced Search</span>\n\
+        \                    <span class=\"close-text \"><span class=\"fas tnt-caret-up\"\
+        ></span> Close Search</span>\n                </a>\n            </div>\n \
+        \           <input type=\"hidden\" name=\"nsa\" value=\"eedition\">\n    \
+        \    </form>\n    </div>\n\n    <script>\n        $(function(){\n        \
+        \    /* handle automatic form expand */\n            $('#search-form-text').focus(function(){\n\
+        \                $('#search-form-collapse').collapse('show');\n          \
+        \      $('#search-form-collapse-toggle').toggleClass('collapsed');\n     \
+        \       });\n\n            $('#search-form-collapse').on('show.bs.collapse',\
+        \ function(){\n                $('#search-form-collapse-toggle .advanced-text').addClass('hide');\n\
+        \                $('#search-form-collapse-toggle .close-text').removeClass('hide');\n\
+        \            });\n\n            $('#search-form-collapse').on('hide.bs.collapse',\
+        \ function(){\n                $('#search-form-collapse-toggle .advanced-text').removeClass('hide');\n\
+        \                $('#search-form-collapse-toggle .close-text').addClass('hide');\n\
+        \            });\n\n            $('#input-type-all').change(function(){\n\
+        \                if(this.checked){\n                    $('#input-type-articles,#input-type-collections,#input-type-videos,#input-type-images,#input-type-documents').prop('checked',false);\n\
+        \                }\n            });\n            $('#input-type-articles,#input-type-collections,#input-type-videos,#input-type-images,#input-type-documents').change(function(){\n\
+        \                if( $('#input-type-all')[0].checked ){\n                \
+        \    $('#input-type-all').prop('checked',false);\n                }\n    \
+        \        });\n            $('.input-section-all').change(function(){\n   \
+        \             if(this.checked){\n                    $('.input-section').prop('checked',false);\n\
+        \                }\n            });\n            $('.input-section').change(function(){\n\
+        \                if( $('.input-section-all')[0].checked ){\n             \
+        \       $('.input-section-all').prop('checked',false);\n                }\n\
+        \            });\n\n            $('#input-d1, #input-d2').datepicker({\n \
+        \               startDate: '-100y',\n                format: 'yyyy-mm-dd',\n\
+        \                todayHighlight: true,\n                autoclose: 'true'\n\
+        \            }).on('show hide', function(e){\n                e.stopPropagation();\n\
+        \            });\n\n            $('#search-form').find('.search-submit').on(__tnt.client.clickEvent,\
+        \ function(){\n                $('#search-form').submit();\n            });\n\
+        \            \n\n            $('#search-form').on('submit', function(){\n\
+        \                // Filter query\n                var sQueryFiltered = $(\"\
+        #search-form input[name=q]\").val().replace(/\\?/g, '');\n    $(\"#search-form\
+        \ input[name=q]\").val( sQueryFiltered );\n                \n            \
+        \    // Define type and section values\n                var sTypeVals = $.map($('.input-type:checked'),\
+        \ function(n, i){\n                    return n.value;\n                }).join(',');\n\
+        \                if (!sTypeVals) sTypeVals = '*';\n                var sTypeValsSection\
+        \ = $.map($('.input-section:checked'), function(n, i){\n                 \
+        \   return n.value;\n                }).join(',');\n                $('#input-t').val(sTypeVals);\n\
+        \                $('#input-c').val(sTypeValsSection);\n                //\
+        \ Scrub empty inputs\n                $(this).find(':input').each(function(){\n\
+        \                    if ($(this).val() == '') $(this).attr(\"disabled\", \"\
+        disabled\");\n                });\n                // Sort by relevance patch\n\
+        \                $(this).find('#select-s option:selected')\n             \
+        \       .filter(function() {\n                        return !this.value ||\
+        \ $.trim(this.value).length == 0;\n                    })\n              \
+        \      .parent()\n                    .attr(\"disabled\", \"disabled\");\n\
+        \                $('#search-form').find('.search-submit').find('[data-fa-i2svg]').replaceWith('<i\
+        \ class=\"fas tnt-spinner tnt-spin\"></i>');\n            });\n        });\n\
+        \    </script>\n<div class=\"results-container\"><div id=\"tncms-region-search_top\"\
+        \ class=\"tncms-region hidden-print\"></div><article id=\"card-summary-ba145918-64ae-518d-bc38-da3942f97e5b\"\
+        \ class=\"tnt-asset-type-article clearfix card summary  letterbox-style-default\
+        \  tnt-section-rural-life\">\n            <div class=\"card-container\">\n\
+        \                \n                <div class=\"card-body\"><div class=\"\
+        card-labels\">\n            \n                \n                <div class=\"\
+        card-label-section text-muted\">\n                    <a href=\"/rural_life\"\
+        \ class=\"tnt-section-tag\">Rural Life</a>\n                </div>\n     \
+        \       \n            </div><div class=\"card-headline\"><h3 class=\"tnt-headline\
+        \ \">\n        \n             <a href=\"/rural_life/direct-federal-aid-to-farmers-predicted-to-more-than-double-in-2020-driving-forecast-of/article_ba145918-64ae-518d-bc38-da3942f97e5b.html\"\
+        \ class=\"tnt-asset-link\">\n        \n\n        \n            Direct federal\
+        \ aid to farmers predicted to more than double in 2020, driving forecast of\
+        \ 41.3% rise in net farm income</a></h3></div><div class=\"card-meta\">\n\
+        \            <ul class=\"list-inline\">\n                        <li class=\"\
+        card-byline text-muted\"><span  class=\"tnt-byline\">Heather Chapmanhttp://www.blogger.com/profile/09704934737688716772noreply@blogger.com</span></li><li\
+        \ class=\"card-date\"><span class=\"text-muted tnt-update-recent\">Updated\
+        \ </span>\r\n        <time datetime=\"2020-12-04T07:03:54-06:00\" class=\"\
+        tnt-date tnt-update-recent asset-date text-muted\">11 min ago</time>\r\n \
+        \   </li><li class=\"card-comment-count\"></li></ul>\n        </div>\n   \
+        \                 \n                    \n                    \n         \
+        \           \n                        \n                        \n       \
+        \                     <div class=\"card-lead\">\n                        \
+        \        <p class=\"tnt-summary\">The U.S. Department of Agriculture's Economic\
+        \ Research Service has published the last of three 2020 Farm Sector Income\
+        \ Forecasts. The forecast&hellip;</p>\n                            </div>\n\
+        \                        \n                    \n                    \n  \
+        \                  \n                    \n                    \n        \
+        \        </div>\n            </div>\n            <div class=\"clearfix\"></div>\n\
+        \        </article><article id=\"card-summary-53c4f446-3418-11eb-98f8-a3616a0adfbf\"\
+        \ class=\"tnt-asset-type-article clearfix card summary has-image  letterbox-style-default\
+        \  tnt-section-iowafarmertoday tnt-sub-section-markets tnt-sub-section-crop\"\
+        >\n            <div class=\"card-container\"><div class=\"card-image \">\n\
+        \                        <div class=\"media-preview-53c4f446-3418-11eb-98f8-a3616a0adfbf\
+        \ media-preview article-asset\" data-aspect=\"\"><figure class=\"photo layout-horizontal\
+        \ letterbox-style-default\">\n            <div class=\"image\" \n        \
+        \        >\n                \n                    <a href=\"/iowafarmertoday/markets/crop/grain-market-could-see-correction/article_53c4f446-3418-11eb-98f8-a3616a0adfbf.html\"\
+        \ class=\"tnt-asset-link\">\n                \n                \n        \
+        \        \n                \r\n        \r\n                        <img\r\n\
+        \                            src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAAEElEQVR42mM8U88ABowYDABAxQPltt5zqAAAAABJRU5ErkJggg==\"\
+        \r\n                            alt=\"Grain market could see correction\"\r\
+        \n                            class=\"img-responsive lazyload full default\"\
+        \r\n                            width=\"900\"\r\n                        \
+        \    height=\"506\"\r\n                            data-sizes=\"auto\"\r\n\
+        \                            data-srcset=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/2/b9/2b976d8e-0d8d-11eb-ace4-3b32d1f764ad/5f8604f053e9a.image.jpg?resize=200%2C112\
+        \ 200w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/2/b9/2b976d8e-0d8d-11eb-ace4-3b32d1f764ad/5f8604f053e9a.image.jpg?resize=300%2C169\
+        \ 300w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/2/b9/2b976d8e-0d8d-11eb-ace4-3b32d1f764ad/5f8604f053e9a.image.jpg?resize=400%2C225\
+        \ 400w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/2/b9/2b976d8e-0d8d-11eb-ace4-3b32d1f764ad/5f8604f053e9a.image.jpg?resize=540%2C304\
+        \ 540w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/2/b9/2b976d8e-0d8d-11eb-ace4-3b32d1f764ad/5f8604f053e9a.image.jpg?resize=750%2C422\
+        \ 750w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/2/b9/2b976d8e-0d8d-11eb-ace4-3b32d1f764ad/5f8604f053e9a.image.jpg?resize=900%2C506\
+        \ 1200w\" />\n                </a>\n                \n            </div>\n\
+        \            \n        </figure></div>\n                    </div>\n     \
+        \           \n                <div class=\"card-body\"><div class=\"card-labels\"\
+        >\n            \n                \n                <div class=\"card-label-section\
+        \ text-muted\">\n                    <a href=\"/iowafarmertoday/markets/crop\"\
+        \ class=\"tnt-section-tag\">Crop</a>\n                </div>\n           \
+        \ \n            </div><div class=\"card-headline\"><h3 class=\"tnt-headline\
+        \ \">\n        \n             <a href=\"/iowafarmertoday/markets/crop/grain-market-could-see-correction/article_53c4f446-3418-11eb-98f8-a3616a0adfbf.html\"\
+        \ class=\"tnt-asset-link\">\n        \n\n        \n            Grain market\
+        \ could see correction</a></h3></div><div class=\"card-meta\">\n         \
+        \   <ul class=\"list-inline\">\n                        <li class=\"card-byline\
+        \ text-muted\"><span id=\"author-792249ae-8fda-11e7-b803-7fff7a84b14e-asset-53c4f446-3418-11eb-98f8-a3616a0adfbf\"\
+        \ class=\"tnt-byline asset-byline\"  >Gene Lucht</span>\n                </li><li\
+        \ class=\"card-date\">\r\n        <time datetime=\"2020-12-03T09:00:00-06:00\"\
+        \ class=\"tnt-date asset-date text-muted\">22 hrs ago</time></li><li class=\"\
+        card-comment-count\"></li></ul>\n        </div>\n                    \n  \
+        \                  \n                    \n                    \n        \
+        \                \n                        \n                            <div\
+        \ class=\"card-lead\">\n                                <p class=\"tnt-summary\"\
+        >There is no question that the grain markets have been in full bull mode for\
+        \ the past few months, but bulls need to be fed, and right now it fe&hellip;</p>\n\
+        \                            </div>\n                        \n          \
+        \          \n                    \n                    \n                \
+        \    \n                    \n                </div>\n            </div>\n\
+        \            <div class=\"clearfix\"></div>\n        </article><article id=\"\
+        card-summary-91bf240e-3415-11eb-9536-b7a48cc4de5a\" class=\"tnt-asset-type-article\
+        \ clearfix card summary has-image  letterbox-style-default  tnt-section-iowafarmertoday\
+        \ tnt-sub-section-news tnt-sub-section-crop\">\n            <div class=\"\
+        card-container\"><div class=\"card-image \">\n                        <div\
+        \ class=\"media-preview-91bf240e-3415-11eb-9536-b7a48cc4de5a media-preview\
+        \ article-asset\" data-aspect=\"\"><figure class=\"photo layout-horizontal\
+        \ letterbox-style-default\">\n            <div class=\"image\" \n        \
+        \        >\n                \n                    <a href=\"/iowafarmertoday/news/crop/60-inch-corn-rows-work-in-certain-operations/article_91bf240e-3415-11eb-9536-b7a48cc4de5a.html\"\
+        \ class=\"tnt-asset-link\">\n                \n                \n        \
+        \        \n                \r\n        \r\n                        <img\r\n\
+        \                            src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAAEElEQVR42mM8U88ABowYDABAxQPltt5zqAAAAABJRU5ErkJggg==\"\
+        \r\n                            alt=\"60-inch corn rows work in certain operations\"\
+        \r\n                            class=\"img-responsive lazyload full default\"\
+        \r\n                            width=\"1200\"\r\n                       \
+        \     height=\"675\"\r\n                            data-sizes=\"auto\"\r\n\
+        \                            data-srcset=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/d/c5/dc556e06-3415-11eb-86bf-63da59eb348b/5fc6ab0fbce63.image.jpg?resize=200%2C113\
+        \ 200w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/d/c5/dc556e06-3415-11eb-86bf-63da59eb348b/5fc6ab0fbce63.image.jpg?resize=300%2C169\
+        \ 300w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/d/c5/dc556e06-3415-11eb-86bf-63da59eb348b/5fc6ab0fbce63.image.jpg?resize=400%2C225\
+        \ 400w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/d/c5/dc556e06-3415-11eb-86bf-63da59eb348b/5fc6ab0fbce63.image.jpg?resize=540%2C304\
+        \ 540w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/d/c5/dc556e06-3415-11eb-86bf-63da59eb348b/5fc6ab0fbce63.image.jpg?resize=750%2C422\
+        \ 750w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/d/c5/dc556e06-3415-11eb-86bf-63da59eb348b/5fc6ab0fbce63.image.jpg?resize=1200%2C675\
+        \ 1200w\" />\n                </a>\n                \n            </div>\n\
+        \            \n        </figure></div>\n                    </div>\n     \
+        \           \n                <div class=\"card-body\"><div class=\"card-labels\"\
+        >\n            \n                \n                <div class=\"card-label-section\
+        \ text-muted\">\n                    <a href=\"/iowafarmertoday/news/crop\"\
+        \ class=\"tnt-section-tag\">Crop</a>\n                </div>\n           \
+        \ \n            \n                <div class=\"card-label-flags\">\n     \
+        \               <span class=\"tnt-flag label label-flag label-flag-default\
+        \ label-flag-featured\">featured</span> \n                </div>\n       \
+        \     </div><div class=\"card-headline\"><h3 class=\"tnt-headline \">\n  \
+        \      \n             <a href=\"/iowafarmertoday/news/crop/60-inch-corn-rows-work-in-certain-operations/article_91bf240e-3415-11eb-9536-b7a48cc4de5a.html\"\
+        \ class=\"tnt-asset-link\">\n        \n\n        \n            60-inch corn\
+        \ rows work in certain operations</a></h3></div><div class=\"card-meta\">\n\
+        \            <ul class=\"list-inline\">\n                        <li class=\"\
+        card-byline text-muted\"><span id=\"author-28a275c6-9a79-11e8-ba40-47f600148e5a-asset-91bf240e-3415-11eb-9536-b7a48cc4de5a\"\
+        \ class=\"tnt-byline asset-byline\"  >Aaron Viner</span>\n               \
+        \ </li><li class=\"card-date\">\r\n        <time datetime=\"2020-12-03T07:00:00-06:00\"\
+        \ class=\"tnt-date asset-date text-muted\">Dec 3, 2020</time></li><li class=\"\
+        card-comment-count\"></li></ul>\n        </div>\n                    \n  \
+        \                  \n                    \n                    \n        \
+        \                \n                        \n                            <div\
+        \ class=\"card-lead\">\n                                <p class=\"tnt-summary\"\
+        >Bob Recker said using 60-inch rows for corn may sound a little out of left\
+        \ field. </p>\n                            </div>\n                      \
+        \  \n                    \n                    \n                    \n  \
+        \                  \n                    \n                </div>\n      \
+        \      </div>\n            <div class=\"clearfix\"></div>\n        </article><article\
+        \ id=\"card-summary-44e962df-7ec9-542f-8db9-b7e45561a15b\" class=\"tnt-asset-type-article\
+        \ clearfix card summary  letterbox-style-default  tnt-section-rural-life\"\
+        >\n            <div class=\"card-container\">\n                \n        \
+        \        <div class=\"card-body\"><div class=\"card-labels\">\n          \
+        \  \n                \n                <div class=\"card-label-section text-muted\"\
+        >\n                    <a href=\"/rural_life\" class=\"tnt-section-tag\">Rural\
+        \ Life</a>\n                </div>\n            \n            </div><div class=\"\
+        card-headline\"><h3 class=\"tnt-headline \">\n        \n             <a href=\"\
+        /rural_life/epa-misses-renewable-fuel-standard-deadline-may-punt-biofuel-blending-decision-to-biden-administration/article_44e962df-7ec9-542f-8db9-b7e45561a15b.html\"\
+        \ class=\"tnt-asset-link\">\n        \n\n        \n            EPA misses\
+        \ Renewable Fuel Standard deadline, may punt biofuel blending decision to\
+        \ Biden administration</a></h3></div><div class=\"card-meta\">\n         \
+        \   <ul class=\"list-inline\">\n                        <li class=\"card-byline\
+        \ text-muted\"><span  class=\"tnt-byline\">Heather Chapmanhttp://www.blogger.com/profile/09704934737688716772noreply@blogger.com</span></li><li\
+        \ class=\"card-date\"><span class=\"text-muted tnt-update-recent\">Updated\
+        \ </span>\r\n        <time datetime=\"2020-12-04T07:03:54-06:00\" class=\"\
+        tnt-date tnt-update-recent asset-date text-muted\">11 min ago</time>\r\n \
+        \   </li><li class=\"card-comment-count\"></li></ul>\n        </div>\n   \
+        \                 \n                    \n                    \n         \
+        \           \n                        \n                        \n       \
+        \                     <div class=\"card-lead\">\n                        \
+        \        <p class=\"tnt-summary\">The Environmental Protection Agency missed\
+        \ the Nov. 30 deadline to issue biofuel blending requirements for 2021 under\
+        \ the Renewable Fuel Stand&hellip;</p>\n                            </div>\n\
+        \                        \n                    \n                    \n  \
+        \                  \n                    \n                    \n        \
+        \        </div>\n            </div>\n            <div class=\"clearfix\"></div>\n\
+        \        </article><article id=\"card-summary-f6d0b8a6-2e9a-11eb-9a24-87e57059b3e9\"\
+        \ class=\"tnt-asset-type-article clearfix card summary has-image  letterbox-style-default\
+        \  tnt-section-midwestmessenger tnt-sub-section-news tnt-sub-section-crop\"\
+        >\n            <div class=\"card-container\"><div class=\"card-image \">\n\
+        \                        <div class=\"media-preview-f6d0b8a6-2e9a-11eb-9a24-87e57059b3e9\
+        \ media-preview article-asset\" data-aspect=\"\"><figure class=\"photo layout-horizontal\
+        \ letterbox-style-default\">\n            <div class=\"image\" \n        \
+        \        >\n                \n                    <a href=\"/midwestmessenger/news/crop/herbicides-for-corn-dry-bean-rotation-in-nebraska/article_f6d0b8a6-2e9a-11eb-9a24-87e57059b3e9.html\"\
+        \ class=\"tnt-asset-link\">\n                \n                \n        \
+        \        \n                \r\n        \r\n                        <img\r\n\
+        \                            src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAAEElEQVR42mM8U88ABowYDABAxQPltt5zqAAAAABJRU5ErkJggg==\"\
+        \r\n                            alt=\"Herbicides for corn, dry bean rotation\
+        \ in Nebraska\"\r\n                            class=\"img-responsive lazyload\
+        \ full default\"\r\n                            width=\"237\"\r\n        \
+        \                    height=\"170\"\r\n                            data-sizes=\"\
+        auto\"\r\n                            data-srcset=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/4/3e/43e04cc4-2e9b-11eb-9c8f-dfdde0b6a6eb/5fbd79dd6510c.image.jpg?crop=237%2C170%2C52%2C21&resize=200%2C143&order=crop%2Cresize\
+        \ 200w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/4/3e/43e04cc4-2e9b-11eb-9c8f-dfdde0b6a6eb/5fbd79dd6510c.image.jpg?crop=237%2C170%2C52%2C21&resize=237%2C170&order=crop%2Cresize\
+        \ 300w\" />\n                </a>\n                \n            </div>\n\
+        \            \n        </figure></div>\n                    </div>\n     \
+        \           \n                <div class=\"card-body\"><div class=\"card-labels\"\
+        >\n            \n                \n                <div class=\"card-label-section\
+        \ text-muted\">\n                    <a href=\"/midwestmessenger/news/crop\"\
+        \ class=\"tnt-section-tag\">Crop</a>\n                </div>\n           \
+        \ \n            </div><div class=\"card-headline\"><h3 class=\"tnt-headline\
+        \ \">\n        \n             <a href=\"/midwestmessenger/news/crop/herbicides-for-corn-dry-bean-rotation-in-nebraska/article_f6d0b8a6-2e9a-11eb-9a24-87e57059b3e9.html\"\
+        \ class=\"tnt-asset-link\">\n        \n\n        \n            Herbicides\
+        \ for corn, dry bean rotation in Nebraska</a></h3></div><div class=\"card-meta\"\
+        >\n            <ul class=\"list-inline\">\n                        <li class=\"\
+        card-byline text-muted\"><span  class=\"tnt-byline\">By Joshua Miranda Teo\
+        \ and Nevin Lawrence</span></li><li class=\"card-date\">\r\n        <time\
+        \ datetime=\"2020-11-30T15:21:00-06:00\" class=\"tnt-date asset-date text-muted\"\
+        >Nov 30, 2020</time></li><li class=\"card-comment-count\"></li></ul>\n   \
+        \     </div>\n                    \n                    \n               \
+        \     \n                    \n                        \n                 \
+        \       \n                            <div class=\"card-lead\">\n        \
+        \                        <p class=\"tnt-summary\">Herbicide options in dry\
+        \ beans are limited compared to other common row crops in Nebraska, such as\
+        \ corn or soybean. With the increasing preval&hellip;</p>\n              \
+        \              </div>\n                        \n                    \n  \
+        \                  \n                    \n                    \n        \
+        \            \n                </div>\n            </div>\n            <div\
+        \ class=\"clearfix\"></div>\n        </article><div id=\"tncms-region-search_middle\"\
+        \ class=\"tncms-region hidden-print\"></div><article id=\"card-summary-647910b8-2e89-11eb-972f-ab3bb290fd34\"\
+        \ class=\"tnt-asset-type-article clearfix card summary has-image  letterbox-style-default\
+        \  tnt-section-iowafarmertoday tnt-sub-section-news tnt-sub-section-crop\"\
+        >\n            <div class=\"card-container\"><div class=\"card-image \">\n\
+        \                        <div class=\"media-preview-647910b8-2e89-11eb-972f-ab3bb290fd34\
+        \ media-preview article-asset\" data-aspect=\"\"><figure class=\"photo layout-horizontal\
+        \ letterbox-style-default\">\n            <div class=\"image\" \n        \
+        \        >\n                \n                    <a href=\"/iowafarmertoday/news/crop/first-corn-shows-consistent-yields-outside-extreme-weather-zones/article_647910b8-2e89-11eb-972f-ab3bb290fd34.html\"\
+        \ class=\"tnt-asset-link\">\n                \n                \n        \
+        \        \n                \r\n        \r\n                        <img\r\n\
+        \                            src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAAEElEQVR42mM8U88ABowYDABAxQPltt5zqAAAAABJRU5ErkJggg==\"\
+        \r\n                            alt=\"FIRST corn shows consistent yields outside\
+        \ extreme weather zones\"\r\n                            class=\"img-responsive\
+        \ lazyload full default\"\r\n                            width=\"1200\"\r\n\
+        \                            height=\"675\"\r\n                          \
+        \  data-sizes=\"auto\"\r\n                            data-srcset=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/b/0f/b0fee94e-2e89-11eb-9373-132ecd164a3a/5fbd5c57e7324.image.jpg?resize=200%2C113\
+        \ 200w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/b/0f/b0fee94e-2e89-11eb-9373-132ecd164a3a/5fbd5c57e7324.image.jpg?resize=300%2C169\
+        \ 300w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/b/0f/b0fee94e-2e89-11eb-9373-132ecd164a3a/5fbd5c57e7324.image.jpg?resize=400%2C225\
+        \ 400w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/b/0f/b0fee94e-2e89-11eb-9373-132ecd164a3a/5fbd5c57e7324.image.jpg?resize=540%2C304\
+        \ 540w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/b/0f/b0fee94e-2e89-11eb-9373-132ecd164a3a/5fbd5c57e7324.image.jpg?resize=750%2C422\
+        \ 750w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/b/0f/b0fee94e-2e89-11eb-9373-132ecd164a3a/5fbd5c57e7324.image.jpg?resize=1200%2C675\
+        \ 1200w\" />\n                </a>\n                \n            </div>\n\
+        \            \n        </figure></div>\n                    </div>\n     \
+        \           \n                <div class=\"card-body\"><div class=\"card-labels\"\
+        >\n            \n                \n                <div class=\"card-label-section\
+        \ text-muted\">\n                    <a href=\"/iowafarmertoday/news/crop\"\
+        \ class=\"tnt-section-tag\">Crop</a>\n                </div>\n           \
+        \ \n            \n                <div class=\"card-label-flags\">\n     \
+        \               <span class=\"tnt-flag label label-flag label-flag-default\
+        \ label-flag-featured\">featured</span> \n                </div>\n       \
+        \     </div><div class=\"card-headline\"><h3 class=\"tnt-headline \">\n  \
+        \      \n             <a href=\"/iowafarmertoday/news/crop/first-corn-shows-consistent-yields-outside-extreme-weather-zones/article_647910b8-2e89-11eb-972f-ab3bb290fd34.html\"\
+        \ class=\"tnt-asset-link\">\n        \n\n        \n            FIRST corn\
+        \ shows consistent yields outside extreme weather zones</a></h3></div><div\
+        \ class=\"card-meta\">\n            <ul class=\"list-inline\">\n         \
+        \               <li class=\"card-byline text-muted\"><span id=\"author-28a275c6-9a79-11e8-ba40-47f600148e5a-asset-647910b8-2e89-11eb-972f-ab3bb290fd34\"\
+        \ class=\"tnt-byline asset-byline\"  >Aaron Viner</span>\n               \
+        \ </li><li class=\"card-date\">\r\n        <time datetime=\"2020-11-30T08:00:00-06:00\"\
+        \ class=\"tnt-date asset-date text-muted\">Nov 30, 2020</time></li><li class=\"\
+        card-comment-count\"></li></ul>\n        </div>\n                    \n  \
+        \                  \n                    \n                    \n        \
+        \                \n                        \n                            <div\
+        \ class=\"card-lead\">\n                                <p class=\"tnt-summary\"\
+        >Although there were challenges on Midwest farms in 2020, the corn crop stood\
+        \ tall for many farmers this harvest season, allowing for a good ra&hellip;</p>\n\
+        \                            </div>\n                        \n          \
+        \          \n                    \n                    \n                \
+        \    \n                    \n                </div>\n            </div>\n\
+        \            <div class=\"clearfix\"></div>\n        </article><article id=\"\
+        card-summary-68a868d6-2e7b-11eb-97a9-0f7c6dc117b7\" class=\"tnt-asset-type-article\
+        \ clearfix card summary has-image  letterbox-style-default  tnt-section-crops\"\
+        >\n            <div class=\"card-container\"><div class=\"card-image \">\n\
+        \                        <div class=\"media-preview-68a868d6-2e7b-11eb-97a9-0f7c6dc117b7\
+        \ media-preview article-asset\" data-aspect=\"\"><figure class=\"photo layout-horizontal\
+        \ letterbox-style-default\">\n            <div class=\"image\" \n        \
+        \        >\n                \n                    <a href=\"/crops/using-data-for-better-seed-selection/article_68a868d6-2e7b-11eb-97a9-0f7c6dc117b7.html\"\
+        \ class=\"tnt-asset-link\">\n                \n                \n        \
+        \        \n                \r\n        \r\n                        <img\r\n\
+        \                            src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAAEElEQVR42mM8U88ABowYDABAxQPltt5zqAAAAABJRU5ErkJggg==\"\
+        \r\n                            alt=\"Using data for better seed selection\"\
+        \r\n                            class=\"img-responsive lazyload full default\"\
+        \r\n                            width=\"1200\"\r\n                       \
+        \     height=\"675\"\r\n                            data-sizes=\"auto\"\r\n\
+        \                            data-srcset=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/c/e3/ce3f3ab2-2e7b-11eb-a05e-7389271fb034/5fbd4515effcd.image.jpg?resize=200%2C113\
+        \ 200w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/c/e3/ce3f3ab2-2e7b-11eb-a05e-7389271fb034/5fbd4515effcd.image.jpg?resize=300%2C169\
+        \ 300w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/c/e3/ce3f3ab2-2e7b-11eb-a05e-7389271fb034/5fbd4515effcd.image.jpg?resize=400%2C225\
+        \ 400w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/c/e3/ce3f3ab2-2e7b-11eb-a05e-7389271fb034/5fbd4515effcd.image.jpg?resize=540%2C304\
+        \ 540w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/c/e3/ce3f3ab2-2e7b-11eb-a05e-7389271fb034/5fbd4515effcd.image.jpg?resize=750%2C422\
+        \ 750w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/c/e3/ce3f3ab2-2e7b-11eb-a05e-7389271fb034/5fbd4515effcd.image.jpg?resize=1200%2C675\
+        \ 1200w\" />\n                </a>\n                \n            </div>\n\
+        \            \n        </figure></div>\n                    </div>\n     \
+        \           \n                <div class=\"card-body\"><div class=\"card-labels\"\
+        >\n            \n                \n                <div class=\"card-label-section\
+        \ text-muted\">\n                    <a href=\"/crops\" class=\"tnt-section-tag\"\
+        >Crops</a>\n                </div>\n            \n            \n         \
+        \       <div class=\"card-label-flags\">\n                    <span class=\"\
+        tnt-flag label label-flag label-flag-default label-flag-featured\">featured</span>\
+        \ \n                </div>\n            </div><div class=\"card-headline\"\
+        ><h3 class=\"tnt-headline \">\n        \n             <a href=\"/crops/using-data-for-better-seed-selection/article_68a868d6-2e7b-11eb-97a9-0f7c6dc117b7.html\"\
+        \ class=\"tnt-asset-link\">\n        \n\n        \n            Using data\
+        \ for better seed selection</a></h3></div><div class=\"card-meta\">\n    \
+        \        <ul class=\"list-inline\"><li class=\"card-date\">\r\n        <time\
+        \ datetime=\"2020-11-30T06:15:00-06:00\" class=\"tnt-date asset-date text-muted\"\
+        >Nov 30, 2020</time></li><li class=\"card-comment-count\"></li></ul>\n   \
+        \     </div>\n                    \n                    \n               \
+        \     \n                    \n                        \n                 \
+        \       \n                            <div class=\"card-lead\">\n        \
+        \                        <p class=\"tnt-summary\"><p>As harvest wraps up across\
+        \ the region, winter preparation and planning for next year begins.</p><p>Trying\
+        \ to choose the right variety to plant can be overwhelming, but keep in mind\
+        \ a few key characteristics to look for.</p></p>\n                       \
+        \     </div>\n                        \n                    \n           \
+        \         \n                    \n                    \n                 \
+        \   \n                </div>\n            </div>\n            <div class=\"\
+        clearfix\"></div>\n        </article><article id=\"card-summary-2509b81c-2e05-11eb-9481-832249348abf\"\
+        \ class=\"tnt-asset-type-article clearfix card summary has-image  letterbox-style-default\
+        \  tnt-section-farmandranchguide tnt-sub-section-markets tnt-sub-section-crop\"\
+        >\n            <div class=\"card-container\"><div class=\"card-image \">\n\
+        \                        <div class=\"media-preview-2509b81c-2e05-11eb-9481-832249348abf\
+        \ media-preview article-asset\" data-aspect=\"\"><figure class=\"photo layout-horizontal\
+        \ letterbox-style-default\">\n            <div class=\"image\" \n        \
+        \        >\n                \n                    <a href=\"/farmandranchguide/markets/crop/soybean-market-sees-nice-rally-ahead-of-thanksgiving/article_2509b81c-2e05-11eb-9481-832249348abf.html\"\
+        \ class=\"tnt-asset-link\">\n                \n                \n        \
+        \        \n                \r\n        \r\n                        <img\r\n\
+        \                            src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAAEElEQVR42mM8U88ABowYDABAxQPltt5zqAAAAABJRU5ErkJggg==\"\
+        \r\n                            alt=\"Soybean market sees nice rally ahead\
+        \ of Thanksgiving\"\r\n                            class=\"img-responsive\
+        \ lazyload full default\"\r\n                            width=\"900\"\r\n\
+        \                            height=\"506\"\r\n                          \
+        \  data-sizes=\"auto\"\r\n                            data-srcset=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/5/aa/5aad0794-2e05-11eb-84a5-0365e2b0476f/5fbc7e57b2753.image.jpg?resize=200%2C112\
+        \ 200w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/5/aa/5aad0794-2e05-11eb-84a5-0365e2b0476f/5fbc7e57b2753.image.jpg?resize=300%2C169\
+        \ 300w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/5/aa/5aad0794-2e05-11eb-84a5-0365e2b0476f/5fbc7e57b2753.image.jpg?resize=400%2C225\
+        \ 400w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/5/aa/5aad0794-2e05-11eb-84a5-0365e2b0476f/5fbc7e57b2753.image.jpg?resize=540%2C304\
+        \ 540w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/5/aa/5aad0794-2e05-11eb-84a5-0365e2b0476f/5fbc7e57b2753.image.jpg?resize=750%2C422\
+        \ 750w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/5/aa/5aad0794-2e05-11eb-84a5-0365e2b0476f/5fbc7e57b2753.image.jpg?resize=900%2C506\
+        \ 1200w\" />\n                </a>\n                \n            </div>\n\
+        \            \n        </figure></div>\n                    </div>\n     \
+        \           \n                <div class=\"card-body\"><div class=\"card-labels\"\
+        >\n            \n                \n                <div class=\"card-label-section\
+        \ text-muted\">\n                    <a href=\"/farmandranchguide/markets/crop\"\
+        \ class=\"tnt-section-tag\">Crop</a>\n                </div>\n           \
+        \ \n            </div><div class=\"card-headline\"><h3 class=\"tnt-headline\
+        \ \">\n        \n             <a href=\"/farmandranchguide/markets/crop/soybean-market-sees-nice-rally-ahead-of-thanksgiving/article_2509b81c-2e05-11eb-9481-832249348abf.html\"\
+        \ class=\"tnt-asset-link\">\n        \n\n        \n            Soybean market\
+        \ sees nice rally ahead of Thanksgiving</a></h3></div><div class=\"card-meta\"\
+        >\n            <ul class=\"list-inline\">\n                        <li class=\"\
+        card-byline text-muted\"><span id=\"author-50e1c222-801c-11e6-84db-2f7bb19d740e-asset-2509b81c-2e05-11eb-9481-832249348abf\"\
+        \ class=\"tnt-byline asset-byline\"  >By MARK CONLON, For Lee Agri-Media</span>\n\
+        \                </li><li class=\"card-date\"><span class=\"text-muted tnt-update-recent\"\
+        >Updated </span>\r\n        <time datetime=\"2020-12-01T09:41:05-06:00\" class=\"\
+        tnt-date tnt-update-recent asset-date text-muted\">Dec 1, 2020</time>\r\n\
+        \    </li><li class=\"card-comment-count\"></li></ul>\n        </div>\n  \
+        \                  \n                    \n                    \n        \
+        \            \n                        \n                        \n      \
+        \                      <div class=\"card-lead\">\n                       \
+        \         <p class=\"tnt-summary\">The stars have aligned, or at least certain\
+        \ factors have joined, to help bring a nice rally to soybean prices as Thanksgiving\
+        \ neared. </p>\n                            </div>\n                     \
+        \   \n                    \n                    \n                    \n \
+        \                   \n                    \n                </div>\n     \
+        \       </div>\n            <div class=\"clearfix\"></div>\n        </article><article\
+        \ id=\"card-summary-1aeeaec8-2e64-11eb-9dc8-c3bf708a2ee5\" class=\"tnt-asset-type-article\
+        \ clearfix card summary has-image  letterbox-style-default  tnt-section-iowafarmertoday\
+        \ tnt-sub-section-news tnt-sub-section-state-and-regional\">\n           \
+        \ <div class=\"card-container\"><div class=\"card-image \">\n            \
+        \            <div class=\"media-preview-1aeeaec8-2e64-11eb-9dc8-c3bf708a2ee5\
+        \ media-preview article-asset\" data-aspect=\"\"><figure class=\"photo layout-horizontal\
+        \ letterbox-style-default\">\n            <div class=\"image\" \n        \
+        \        >\n                \n                    <a href=\"/iowafarmertoday/news/state-and-regional/firefighters-farmers-curb-huge-field-fire/article_1aeeaec8-2e64-11eb-9dc8-c3bf708a2ee5.html\"\
+        \ class=\"tnt-asset-link\">\n                \n                \n        \
+        \            <div class=\"asset-icon\"><i class=\"fas tnt-camera tnt-fw\"\
+        \ title=\"Article with images\"></i> +3</div>\n                \n        \
+        \        \n                \r\n        \r\n                        <img\r\n\
+        \                            src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAAEElEQVR42mM8U88ABowYDABAxQPltt5zqAAAAABJRU5ErkJggg==\"\
+        \r\n                            alt=\"Firefighters, farmers curb huge field\
+        \ fire\"\r\n                            class=\"img-responsive lazyload full\
+        \ default\"\r\n                            width=\"1200\"\r\n            \
+        \                height=\"675\"\r\n                            data-sizes=\"\
+        auto\"\r\n                            data-srcset=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/a/98/a98f880a-2e64-11eb-97a9-3f33a9165b89/5fbd1f7f209eb.image.jpg?resize=200%2C113\
+        \ 200w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/a/98/a98f880a-2e64-11eb-97a9-3f33a9165b89/5fbd1f7f209eb.image.jpg?resize=300%2C169\
+        \ 300w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/a/98/a98f880a-2e64-11eb-97a9-3f33a9165b89/5fbd1f7f209eb.image.jpg?resize=400%2C225\
+        \ 400w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/a/98/a98f880a-2e64-11eb-97a9-3f33a9165b89/5fbd1f7f209eb.image.jpg?resize=540%2C304\
+        \ 540w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/a/98/a98f880a-2e64-11eb-97a9-3f33a9165b89/5fbd1f7f209eb.image.jpg?resize=750%2C422\
+        \ 750w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/a/98/a98f880a-2e64-11eb-97a9-3f33a9165b89/5fbd1f7f209eb.image.jpg?resize=1200%2C675\
+        \ 1200w\" />\n                </a>\n                \n            </div>\n\
+        \            \n        </figure></div>\n                    </div>\n     \
+        \           \n                <div class=\"card-body\"><div class=\"card-labels\"\
+        >\n            \n                \n                <div class=\"card-label-section\
+        \ text-muted\">\n                    <a href=\"/iowafarmertoday/news/state-and-regional\"\
+        \ class=\"tnt-section-tag\">State & Regional</a>\n                </div>\n\
+        \            \n            \n                <div class=\"card-label-flags\"\
+        >\n                    <span class=\"tnt-flag label label-flag label-flag-default\
+        \ label-flag-featured\">featured</span> \n                </div>\n       \
+        \     </div><div class=\"card-headline\"><h3 class=\"tnt-headline \">\n  \
+        \      \n             <a href=\"/iowafarmertoday/news/state-and-regional/firefighters-farmers-curb-huge-field-fire/article_1aeeaec8-2e64-11eb-9dc8-c3bf708a2ee5.html\"\
+        \ class=\"tnt-asset-link\">\n        \n\n        \n            Firefighters,\
+        \ farmers curb huge field fire</a></h3></div><div class=\"card-meta\">\n \
+        \           <ul class=\"list-inline\">\n                        <li class=\"\
+        card-byline text-muted\"><span id=\"author-a0c2ab16-8fda-11e7-8396-638e0d8283aa-asset-1aeeaec8-2e64-11eb-9dc8-c3bf708a2ee5\"\
+        \ class=\"tnt-byline asset-byline\"  >Jeff DeYoung</span>\n              \
+        \  </li><li class=\"card-date\">\r\n        <time datetime=\"2020-11-26T06:45:00-06:00\"\
+        \ class=\"tnt-date asset-date text-muted\">Nov 26, 2020</time></li><li class=\"\
+        card-comment-count\"></li></ul>\n        </div>\n                    \n  \
+        \                  \n                    \n                    \n        \
+        \                \n                        \n                            <div\
+        \ class=\"card-lead\">\n                                <p class=\"tnt-summary\"\
+        >ANTHON, Iowa \u2014 Joe Collins was running a combine 10 miles south of here\
+        \ when he got the page that a field fire was moving rapidly in the area. </p>\n\
+        \                            </div>\n                        \n          \
+        \          \n                    \n                    \n                \
+        \    \n                    \n                </div>\n            </div>\n\
+        \            <div class=\"clearfix\"></div>\n        </article><article id=\"\
+        card-summary-02790524-2e04-11eb-82c3-ffc0bf775c51\" class=\"tnt-asset-type-article\
+        \ clearfix card summary has-image  letterbox-style-default  tnt-section-farmandranchguide\
+        \ tnt-sub-section-markets tnt-sub-section-crop\">\n            <div class=\"\
+        card-container\"><div class=\"card-image \">\n                        <div\
+        \ class=\"media-preview-02790524-2e04-11eb-82c3-ffc0bf775c51 media-preview\
+        \ article-asset\" data-aspect=\"\"><figure class=\"photo layout-horizontal\
+        \ letterbox-style-default\">\n            <div class=\"image\" \n        \
+        \        >\n                \n                    <a href=\"/farmandranchguide/markets/crop/corn-market-reaches-rare-december-high/article_02790524-2e04-11eb-82c3-ffc0bf775c51.html\"\
+        \ class=\"tnt-asset-link\">\n                \n                \n        \
+        \        \n                \r\n        \r\n                        <img\r\n\
+        \                            src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAAEElEQVR42mM8U88ABowYDABAxQPltt5zqAAAAABJRU5ErkJggg==\"\
+        \r\n                            alt=\"Corn market reaches rare December high\"\
+        \r\n                            class=\"img-responsive lazyload full default\"\
+        \r\n                            width=\"900\"\r\n                        \
+        \    height=\"506\"\r\n                            data-sizes=\"auto\"\r\n\
+        \                            data-srcset=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/4/22/4229a1e2-2e04-11eb-a6b8-3fcd635bd3b0/5fbc7c965f50b.image.jpg?resize=200%2C112\
+        \ 200w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/4/22/4229a1e2-2e04-11eb-a6b8-3fcd635bd3b0/5fbc7c965f50b.image.jpg?resize=300%2C169\
+        \ 300w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/4/22/4229a1e2-2e04-11eb-a6b8-3fcd635bd3b0/5fbc7c965f50b.image.jpg?resize=400%2C225\
+        \ 400w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/4/22/4229a1e2-2e04-11eb-a6b8-3fcd635bd3b0/5fbc7c965f50b.image.jpg?resize=540%2C304\
+        \ 540w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/4/22/4229a1e2-2e04-11eb-a6b8-3fcd635bd3b0/5fbc7c965f50b.image.jpg?resize=750%2C422\
+        \ 750w, https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/assets/v3/editorial/4/22/4229a1e2-2e04-11eb-a6b8-3fcd635bd3b0/5fbc7c965f50b.image.jpg?resize=900%2C506\
+        \ 1200w\" />\n                </a>\n                \n            </div>\n\
+        \            \n        </figure></div>\n                    </div>\n     \
+        \           \n                <div class=\"card-body\"><div class=\"card-labels\"\
+        >\n            \n                \n                <div class=\"card-label-section\
+        \ text-muted\">\n                    <a href=\"/farmandranchguide/markets/crop\"\
+        \ class=\"tnt-section-tag\">Crop</a>\n                </div>\n           \
+        \ \n            </div><div class=\"card-headline\"><h3 class=\"tnt-headline\
+        \ \">\n        \n             <a href=\"/farmandranchguide/markets/crop/corn-market-reaches-rare-december-high/article_02790524-2e04-11eb-82c3-ffc0bf775c51.html\"\
+        \ class=\"tnt-asset-link\">\n        \n\n        \n            Corn market\
+        \ reaches rare December high</a></h3></div><div class=\"card-meta\">\n   \
+        \         <ul class=\"list-inline\">\n                        <li class=\"\
+        card-byline text-muted\"><span id=\"author-50e1c222-801c-11e6-84db-2f7bb19d740e-asset-02790524-2e04-11eb-82c3-ffc0bf775c51\"\
+        \ class=\"tnt-byline asset-byline\"  >By MARK CONLON, For Lee Agri-Media</span>\n\
+        \                </li><li class=\"card-date\"><span class=\"text-muted tnt-update-recent\"\
+        >Updated </span>\r\n        <time datetime=\"2020-12-01T09:40:41-06:00\" class=\"\
+        tnt-date tnt-update-recent asset-date text-muted\">Dec 1, 2020</time>\r\n\
+        \    </li><li class=\"card-comment-count\"></li></ul>\n        </div>\n  \
+        \                  \n                    \n                    \n        \
+        \            \n                        \n                        \n      \
+        \                      <div class=\"card-lead\">\n                       \
+        \         <p class=\"tnt-summary\">Something happened in the corn market that\
+        \ rarely happens: it reached a December high past harvest. </p>\n        \
+        \                    </div>\n                        \n                  \
+        \  \n                    \n                    \n                    \n  \
+        \                  \n                </div>\n            </div>\n        \
+        \    <div class=\"clearfix\"></div>\n        </article><div id=\"tncms-region-search_bottom\"\
+        \ class=\"tncms-region hidden-print\"></div></div>\n            \n       \
+        \         <div class=\"pagination-container\">\n                    <ul class=\"\
+        pagination\">\n                        <li class=\"prev disabled\">\n    \
+        \                        <a  rel=\"nofollow\">\n                         \
+        \       <i class=\"fas tnt-long-arrow-alt-left\"></i> Previous\n         \
+        \                   </a>\n                        </li>\n                \
+        \        <li class=\"next\">\n                            <a href=\"/search/?k=%22corn%22&l=10&app%5B0%5D=editorial&o=10\"\
+        \ rel=\"nofollow\">\n                                Next <i class=\"fas tnt-long-arrow-alt-right\"\
+        ></i>\n                            </a>\n                        </li>\n \
+        \                   </ul>\n                </div>\n            \n        </div>\n\
+        \    </div></div><div class=\"row\">\n                <div class=\"col-md-12\"\
+        ><div id=\"tncms-region-index-container-bottom\" class=\"tncms-region \"></div></div>\n\
+        \                <div class=\"col-md-12\"><div id=\"tncms-region-front-index-container-bottom\"\
+        \ class=\"tncms-region \"></div></div>\n            </div><div class=\"row\"\
+        >\n            <div class=\"col-md-12\"><div id=\"tncms-region-global-container-bottom\"\
+        \ class=\"tncms-region \"></div></div>\n        </div><div class=\"container-breakout\
+        \ \"><div class=\"visible-lg visible-md\"><div class=\"tnt-ads-container text-center\
+        \ hidden-xs\"><div style=\"min-height:90px; min-width:728px;\" class=\"tnt-ads\
+        \ dfp-ad\" data-dfp-adunit=\"/8438/agupdate.com/search\" data-dfp-custom-pos=\"\
+        fixed-leaderboard-bottom, btf\" id=\"fixed-leaderboard-bottom\" data-dfp-size=\"\
+        [[728,90], [970,90], [970,250]]\" data-lazy=\"true\"></div></div>\n    </div><div\
+        \ class=\"visible-sm\"><div class=\"tnt-ads-container text-center hidden-xs\"\
+        ><div style=\"min-height:90px; min-width:728px;\" class=\"tnt-ads dfp-ad\"\
+        \ data-dfp-adunit=\"/8438/agupdate.com/search\" data-dfp-custom-pos=\"fixed-leaderboard-bottom,\
+        \ btf\" id=\"fixed-leaderboard-bottom-tablet\" data-dfp-size=\"[728,90]\"\
+        \ data-lazy=\"true\"></div></div>\n    </div><div class=\"tnt-ads-container\
+        \ text-center hidden-sm hidden-md hidden-lg\"><div style=\"min-height:50px;\
+        \ min-width:320px;\" class=\"tnt-ads dfp-ad\" data-dfp-adunit=\"/8438/agupdate.com/search\"\
+        \ data-dfp-custom-pos=\"fixed-leaderboard-bottom, btf\" id=\"fixed-leaderboard-bottom-mobile\"\
+        \ data-dfp-size=\"[[320,50],[300,50]]\" data-lazy=\"true\"></div></div>\n\
+        \    </div></section>\n    <section id=\"main-bottom-container\" class=\"\
+        container-fullscreen-region container-fluid\">\n        <div class=\"fullscreen-region\"\
+        ><div id=\"tncms-region-global-container-bottom-fullscreen\" class=\"tncms-region\
+        \ \"><div id=\"tncms-block-1799627\" class=\"tncms-block lee-track-mp-widget-footer\"\
+        ><div class=\"mp-container mp-breakout block\" data-display-width=\"container\"\
+        \ data-display-fluid=\"true\">\n    <div class=\"container\">\n    <h4 class=\"\
+        mp-title\"><a href=\"/marketplace/\" target=\"_blank\"><i class=\"fas tnt-tractor\
+        \ fa fa-tractor\"></i> Marketplace</a></h4>\n    \n    \n        <div class=\"\
+        row mp-search\">\n            <div class=\"col-md-6 col-md-offset-3\">\n \
+        \              <section class=\"block text-center\">\n                   \
+        \ <div class=\"search-title\"><h4>Find the equipment you're looking for</h4></div>\n\
+        \                    <form class=\"agrisearch\">\n                       \
+        \ <div class=\"input-group input-group-lg\">\n                           \
+        \ <input type=\"text\" class=\"form-control search-text\" placeholder=\"Search\
+        \ by manufacturer, make, model, etc...\" />\n                            <span\
+        \ class=\"input-group-btn\">\n                                <button class=\"\
+        btn btn-default\" type=\"submit\">\n                                    <i\
+        \ class=\"fas fa-search tnt-search\"></i>\n                              \
+        \  </button>\n                            </span>\n                      \
+        \  </div>\n                    </form>\n                </section>\n     \
+        \       </div>\n        </div>\n    \n    \n    <div class=\"row\">\n    \
+        \    <div class=\"col-md-8 col-md-offset-2\">\n            <section class=\"\
+        block text-center\">\n                <ul class=\"mp-quick-links list-inline\"\
+        >\n                    \n                    <li><a href=\"/ads/farm_machinery/tractors/?l=25\"\
+        \ target=\"_blank\">Tractors</a></li>\n                    \n            \
+        \        <li><a href=\"/ads/farm_machinery/combines/?l=25\" target=\"_blank\"\
+        >Combines</a></li>\n                    \n                    <li><a href=\"\
+        /ads/farm_machinery/harvest_equipment/?l=25\" target=\"_blank\">Harvesters</a></li>\n\
+        \                    \n                    <li><a href=\"/ads/farm_machinery/planting_equipment/?l=25\"\
+        \ target=\"_blank\">Planting</a></li>\n                    \n            \
+        \        <li><a href=\"/ads/farm_machinery/miscellaneous_equipment/?l=25\"\
+        \ target=\"_blank\">Misc Equipment</a></li>\n                    \n      \
+        \              <li><a href=\"/ads/farm_machinery/haying_equipment/?l=25\"\
+        \ target=\"_blank\">Hay Equipment</a></li>\n                    \n       \
+        \             <li><a href=\"/ads/transportation/trailers/?l=25\" target=\"\
+        _blank\">Trailers</a></li>\n                    \n                    <li><a\
+        \ href=\"/ads/transportation/trucks/?l=25\" target=\"_blank\">Trucks</a></li>\n\
+        \                    \n                    <li><a href=\"/ads/livestock/?l=25\"\
+        \ target=\"_blank\">Livestock</a></li>\n                    \n           \
+        \         <li><a href=\"/ads/seed-feed-hay/seed/?l=25\" target=\"_blank\"\
+        >Seed</a></li>\n                    \n                    <li><a href=\"/ads/seed-feed-hay/feed-hay/?l=25\"\
+        \ target=\"_blank\">Feed/Hay</a></li>\n                    \n            \
+        \    </ul>\n            </section>\n        </div>\n    </div>\n    \n   \
+        \ \n    </div>\n</div></div></div></div>\n    </section><!-- / main-body-container\
+        \ -->\n    </div>\n    <div id=\"site-footer-container\" class=\"hidden-print\"\
+        >\n         \n\n        \n            <footer id=\"site-footer\" class=\"\
+        container well-main\">\n                \n                <div id=\"tncms-region-footer-top-col-full\"\
+        \ class=\"tncms-region \"></div>\n                <div class=\"row\">\n  \
+        \                  <div id=\"footer-col-one\" class=\"col-md-4 col-sm-4\"\
+        ><div id=\"tncms-region-footer-col-one\" class=\"tncms-region \"><div id=\"\
+        tncms-block-1695360\" class=\"tncms-block footer-logo-container\"><section\
+        \ id=\"block-1695360\" class=\"block emphasis-h3   \" ><div class=\"block\"\
+        ><a href=\"/\" rel=\"nofollow\" >\n            <img \n                \n \
+        \               src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAQAAAAe/WZNAAAAEElEQVR42mM8U88ABowYDABAxQPltt5zqAAAAABJRU5ErkJggg==\"\
+        \ \n                data-srcset=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/custom/image/a99ef294-3e29-11ea-b986-2744f50e92ca.png\"\
+        \ \n                data-sizes=\"auto\" \n                class=\" img-responsive\
+        \ lazyload tnt-prop-img\"\n                alt=\"Ag Update\"></a></div></section></div><div\
+        \ id=\"tncms-block-1695359\" class=\"tncms-block footer-follow-us visible-xs\"\
+        ><div class=\"follow-links-1695359 pull-right\">\n    \n    <section id=\"\
+        block-1695359\" class=\"block emphasis-h3   \" ><ul class=\"list-inline\"\
+        >\n        \n            <li>\n                <a href=\"https://www.facebook.com/agupdatecom\"\
+        \ title=\"Facebook\" target=\"_blank\" rel=\"noopener\" class=\"btn btn-xs\
+        \ btn-link fb\">\n                    <i class=\"fab tnt-facebook-f\"></i>\n\
+        \                    <span class=\"sr-only\">Facebook</span>\n           \
+        \     </a>\n            </li>\n        \n        \n            <li>\n    \
+        \            <a href=\"http://twitter.com/agupdatecom\" title=\"Twitter\"\
+        \ target=\"_blank\" rel=\"noopener\" class=\"btn btn-xs btn-link tw\">\n \
+        \                   <i class=\"fab tnt-twitter\"></i>\n                  \
+        \  <span class=\"sr-only\">Twitter</span>\n                </a>\n        \
+        \    </li>\n        \n        \n        \n        \n        \n        \n \
+        \       \n        \n        \n        \n        \n        \n        \n   \
+        \     \n        \n        \n    </ul>\n    </section>\n</div>\n<script type=\"\
+        application/ld+json\">\n{ \"@context\" : \"https://schema.org\",\n  \"@type\"\
+        \ : \"Organization\",\n  \"url\" : \"http://www.agupdate.com\",\n  \"sameAs\"\
+        \ : [\"https://www.facebook.com/agupdatecom\",\"http://twitter.com/agupdatecom\"\
+        ]\n}\n</script>\n<div class=\"clearfix\"></div></div></div><div id=\"tncms-region-nav-footer-col-one-nav\"\
+        \ class=\"tncms-region-nav\"><div id=\"nav-group-\" class=\"panel-group\"\
+        \ role=\"tablist\"><div class=\"panel\">\n                    <div class=\"\
+        panel-heading\" role=\"tab\" id=\"collapseListGroupHeading0-\">\n        \
+        \                <h4 class=\"panel-title publications\"><a data-toggle=\"\
+        collapse\" href=\"#collapseListGroup0-\" aria-expanded=\"false\" aria-controls=\"\
+        collapseListGroup0\" class=\"nav-toggle pull-right text-center\">\n      \
+        \                              <i class=\"fas tnt-chevron-up \"></i>\n   \
+        \                             </a><a data-toggle=\"collapse\" href=\"#collapseListGroup0-\"\
+        \ aria-expanded=\"false\" aria-controls=\"collapseListGroup0\" class=\"nav-link\
+        \ tnt-section-publications nav-toggle\">Publications</a>\n               \
+        \         </h4>\n                    </div><div id=\"collapseListGroup0-\"\
+        \ class=\"panel-collapse collapse \" role=\"tabpanel\" aria-labelledby=\"\
+        collapseListGroupHeading0-\" aria-expanded=\"false\">\n                  \
+        \          <div class=\"list-group\"><a href=\"/\" class=\"list-group-item\
+        \ \">AgUpdate</a><a href=\"/agriview/\" class=\"list-group-item \">Agri-View</a><a\
+        \ href=\"/cattleseller/\" class=\"list-group-item \">Cattleseller.com</a><a\
+        \ href=\"/farmandranchguide/\" class=\"list-group-item \">Farm & Ranch Guide</a><a\
+        \ href=\"/illinoisfarmertoday/\" class=\"list-group-item \">Illinois Farmer\
+        \ Today</a><a href=\"/iowafarmertoday/\" class=\"list-group-item \">Iowa Farmer\
+        \ Today</a><a href=\"/livestockroundup/\" class=\"list-group-item \">Livestockroundup</a><a\
+        \ href=\"/midwestmarketer/\" class=\"list-group-item \">Midwest Marketer</a><a\
+        \ href=\"/midwestmessenger/\" class=\"list-group-item \">Midwest Messenger</a><a\
+        \ href=\"/todaysproducer/\" class=\"list-group-item \">Midwest Producer</a><a\
+        \ href=\"/minnesotafarmguide/\" class=\"list-group-item \">Minnesota Farm\
+        \ Guide</a><a href=\"/missourifarmertoday/\" class=\"list-group-item \">Missouri\
+        \ Farmer Today</a><a href=\"/theprairiestar/\" class=\"list-group-item \"\
+        >The Prairie Star</a><a href=\"/tristateneighbor/\" class=\"list-group-item\
+        \ \">Tri-State Neighbor</a></div>\n                        </div></div></div>\n\
+        \        <style>\n            #sidebar-col .panel-title>a.nav-link {\n   \
+        \             display:block;\n                width:100%\n            }\n\
+        \            #sidebar-col a.nav-toggle{\n                margin: -5px -15px;\n\
+        \                width: 37px;\n                height: 37px;\n           \
+        \     padding-top: 5px;\n            }\n            #sidebar-col .list-group,\n\
+        \            #sidebar-drawer .list-group,\n            #sidebar-drawer .panel-group\
+        \ .panel+.panel{\n                margin: 0;\n            }\n            #sidebar-drawer\
+        \ .list-group-item,\n            #sidebar-col .list-group-item {\n       \
+        \         border-width: 1px 0 0;\n            }\n        </style>\n      \
+        \  <script>\n            /* Toggle nav arrows on show/hide */\n          \
+        \  $('#nav-group- .panel-collapse').on('show.bs.collapse hide.bs.collapse',\
+        \ function () {\n                //$(this).parent('.panel').find('[data-fa-i2svg]').attr('data-icon',\
+        \ $(this).parent('.panel').find('[data-fa-i2svg]').attr('data-icon') == 'caret-down'\
+        \ ? 'caret-up' : 'caret-down');\n                if( $(this).hasClass('in')\
+        \ ){\n                    $(this).parent('.panel').removeClass('in');\n  \
+        \                  $(this).parent('.panel').find('[data-fa-i2svg]').attr('data-icon','chevron-up');\n\
+        \                }else{\n                    $(this).parent('.panel').addClass('in');\n\
+        \                    $(this).parent('.panel').find('[data-fa-i2svg]').attr('data-icon','chevron-down');\n\
+        \               }\n            });\n        </script>\n    \n</div></div>\n\
+        \    <div id=\"footer-col-two\" class=\"col-md-4 col-sm-4\"><div id=\"tncms-region-footer-col-two\"\
+        \ class=\"tncms-region \"><div id=\"tncms-block-1695515\" class=\"tncms-block\
+        \ site-footer-heading\"><section id=\"block-1695515\" class=\"block emphasis-h4\
+        \   \" ><div class=\"clearfix\">\n    \n    <div class=\"block-title title-1695515\
+        \ \">\n        <div class=\"block-title-inner\">\n            <h4>\n     \
+        \           \n                News\n                \n            </h4>\n\
+        \        </div>\n    </div></div></section></div></div><div id=\"tncms-region-nav-footer-col-two-nav\"\
+        \ class=\"tncms-region-nav\"><ul id=\"footer-col-two-nav_menu\" class=\"bullet-nav\
+        \ nav-list\"><li>\r\n                <a class=\"nav-link  tnt-section-crops\"\
+        \  href=\"/crops/\" >\r\n                    <span class=\"nav-label\">Crops</span>\r\
+        \n                </a></li><li>\r\n                <a class=\"nav-link  tnt-section-livestock\"\
+        \  href=\"/livestock/\" >\r\n                    <span class=\"nav-label\"\
+        >Livestock</span>\r\n                </a></li><li>\r\n                <a class=\"\
+        nav-link  tnt-section-weather\"  href=\"/weather/\" >\r\n                \
+        \    <span class=\"nav-label\">Weather</span>\r\n                </a></li><li>\r\
+        \n                <a class=\"nav-link  tnt-section-technology\"  href=\"/technology/\"\
+        \ >\r\n                    <span class=\"nav-label\">Technology</span>\r\n\
+        \                </a></li><li>\r\n                <a class=\"nav-link  tnt-section-ag-markets\"\
+        \  href=\"/markets/\" >\r\n                    <span class=\"nav-label\">Ag\
+        \ Markets</span>\r\n                </a></li><li>\r\n                <a class=\"\
+        nav-link  tnt-section-opinion\"  href=\"/opinion/\" >\r\n                \
+        \    <span class=\"nav-label\">Opinion</span>\r\n                </a></li><li>\r\
+        \n                <a class=\"nav-link  tnt-section-business\"  href=\"/business/\"\
+        \ >\r\n                    <span class=\"nav-label\">Business</span>\r\n \
+        \               </a></li><li>\r\n                <a class=\"nav-link  tnt-section-newsletters\"\
+        \  href=\"/newsletters/\" >\r\n                    <span class=\"nav-label\"\
+        >Newsletters</span>\r\n                </a></li></ul></div></div>\n    <div\
+        \ id=\"footer-col-three\" class=\"col-md-4 col-sm-4\"><div id=\"tncms-region-footer-col-three\"\
+        \ class=\"tncms-region \"><div id=\"tncms-block-1695516\" class=\"tncms-block\
+        \ site-footer-heading\"><section id=\"block-1695516\" class=\"block emphasis-h4\
+        \   \" ><div class=\"clearfix\">\n    \n    <div class=\"block-title title-1695516\
+        \ \">\n        <div class=\"block-title-inner\">\n            <h4>\n     \
+        \           \n                Marketplace\n                \n            </h4>\n\
+        \        </div>\n    </div></div></section></div></div><div id=\"tncms-region-nav-footer-col-three-nav\"\
+        \ class=\"tncms-region-nav\"><ul id=\"footer-col-three-nav_menu\" class=\"\
+        bullet-nav nav-list\"><li>\r\n                <a class=\"nav-link  tnt-section-tractors\"\
+        \  href=\"/ads/farm_machinery/tractors/?l=25\" >\r\n                    <span\
+        \ class=\"nav-label\">Tractors</span>\r\n                </a></li><li>\r\n\
+        \                <a class=\"nav-link  tnt-section-combines\"  href=\"/ads/farm_machinery/combines/?l=25\"\
+        \ >\r\n                    <span class=\"nav-label\">Combines</span>\r\n \
+        \               </a></li><li>\r\n                <a class=\"nav-link  tnt-section-harvesters\"\
+        \  href=\"/ads/farm_machinery/harvest_equipment/?l=25\" >\r\n            \
+        \        <span class=\"nav-label\">Harvesters</span>\r\n                </a></li><li>\r\
+        \n                <a class=\"nav-link  tnt-section-planting\"  href=\"/ads/farm_machinery/planting_equipment/?l=25\"\
+        \ >\r\n                    <span class=\"nav-label\">Planting</span>\r\n \
+        \               </a></li><li>\r\n                <a class=\"nav-link  tnt-section-hay-equipment\"\
+        \  href=\"/ads/farm_machinery/haying_equipment/?l=25\" >\r\n             \
+        \       <span class=\"nav-label\">Hay Equipment</span>\r\n               \
+        \ </a></li><li>\r\n                <a class=\"nav-link  tnt-section-trucks-trailers\"\
+        \  href=\"/ads/transportation/?l=25\" >\r\n                    <span class=\"\
+        nav-label\">Trucks & Trailers</span>\r\n                </a></li><li>\r\n\
+        \                <a class=\"nav-link  tnt-section-livestock\"  href=\"/ads/livestock/?l=25\"\
+        \ >\r\n                    <span class=\"nav-label\">Livestock</span>\r\n\
+        \                </a></li><li>\r\n                <a class=\"nav-link  tnt-section-seed-feed-hay\"\
+        \  href=\"/ads/seed-feed-hay/?l=25\" >\r\n                    <span class=\"\
+        nav-label\">Seed, Feed, & Hay</span>\r\n                </a></li></ul></div></div>\n\
+        \                </div>\n                <div id=\"tncms-region-footer-bottom-col-full\"\
+        \ class=\"tncms-region \"></div>\n                \n            </footer>\n\
+        \        \n\n        <div id=\"site-copyright-container\" class=\"container\"\
+        >\n            <div id=\"tncms-region-footer-copyright\" class=\"tncms-region\
+        \ \"><div id=\"tncms-block-1695625\" class=\"tncms-block\"><div id=\"site-copyright-footer\"\
+        \ class=\"site-copyright footer-copyright small\">\n    <section><div class=\"\
+        copyright-row\">\n            \xA9 2019, Lee Agri-Media, a division of Lee\
+        \ Enterprises.\n        </div>\n        <div class=\"copyright-row\">\n  \
+        \          <span>All rights reserved</span>\n            <small>\_| <a href=\"\
+        /site/terms.html\">Terms of Use</a></small>\n            <small>\_| <a href=\"\
+        /site/privacy.html\">Privacy Policy</a></small>\n        </div>\n    </section>\n\
+        </div></div><div id=\"tncms-block-1695356\" class=\"tncms-block copyright-follow-us\
+        \ hidden-xs\"><div class=\"follow-links-1695356 pull-right\">\n    \n    <section\
+        \ id=\"block-1695356\" class=\"block emphasis-h3   \" ><ul class=\"list-inline\"\
+        >\n        \n            <li>\n                <a href=\"https://www.facebook.com/agupdatecom\"\
+        \ title=\"Facebook\" target=\"_blank\" rel=\"noopener\" class=\"btn btn-xs\
+        \ btn-link fb\">\n                    <i class=\"fab tnt-facebook-f\"></i>\n\
+        \                    <span class=\"sr-only\">Facebook</span>\n           \
+        \     </a>\n            </li>\n        \n        \n            <li>\n    \
+        \            <a href=\"http://twitter.com/agupdatecom\" title=\"Twitter\"\
+        \ target=\"_blank\" rel=\"noopener\" class=\"btn btn-xs btn-link tw\">\n \
+        \                   <i class=\"fab tnt-twitter\"></i>\n                  \
+        \  <span class=\"sr-only\">Twitter</span>\n                </a>\n        \
+        \    </li>\n        \n        \n        \n        \n        \n        \n \
+        \       \n        \n        \n        \n        \n        \n        \n   \
+        \     \n        \n        \n    </ul>\n    </section>\n</div>\n<script type=\"\
+        application/ld+json\">\n{ \"@context\" : \"https://schema.org\",\n  \"@type\"\
+        \ : \"Organization\",\n  \"url\" : \"http://www.agupdate.com\",\n  \"sameAs\"\
+        \ : [\"https://www.facebook.com/agupdatecom\",\"http://twitter.com/agupdatecom\"\
+        ]\n}\n</script>\n<div class=\"clearfix\"></div></div></div>\n        </div>\n\
+        \    </div>\n    \n    \n        </div><!-- / offcanvas close  -->\n    \n\
+        \n    \n    \n    <!-- / site-container close -->\n    </div>\n    \n    \n\
+        \    <script>\n        window.__tnt = window.__tnt || {};\n        __tnt.compatibility\
+        \ = __tnt.compatibility || {};\n\n        __tnt.compatibility.status = '';\n\
+        \        __tnt.compatibility.check = function() {\n            if (typeof\
+        \ __tnt.advertisements == 'undefined') {\n                __tnt.compatibility.status\
+        \ = 'FAIL: object 0 undefined';\n                return false;\n         \
+        \   }\n            return true;\n        };\n        __tnt.compatibility.notification\
+        \ = function() {\n            if (!document.getElementById('notification-area'))\
+        \ {\n                    var el = document.createElement('div');\n       \
+        \             el.id = 'notification-area';\n                    document.querySelector('#asset-content\
+        \ .asset-body').appendChild(el);\n                }\n                __tnt.template(\n\
+        \                    document.getElementById('template-blox-message-incompatible'),\n\
+        \                    document.getElementById('notification-area'),\n     \
+        \               true,\n                    [],\n                    function(el)\
+        \ {\n                        setTimeout(function() {\n                   \
+        \         var message = document.getElementById('blox-message-incompatible');\n\
+        \                            var authStatusCls = (__tnt.user.authToken) ?\
+        \ 'logged-in' : 'not-logged-in';\n                                Array.from(message.getElementsByClassName(authStatusCls)).forEach(function(el)\
+        \ {\n                                    el.style.display = 'block';\n   \
+        \                             });\n                            \n        \
+        \                    if (__tnt.user.services) {\n                        \
+        \        message.parentNode.removeChild(message);\n                      \
+        \      } else {\n                                message.style.display = 'block';\n\
+        \                                }\n                        }, 100);\n   \
+        \                 }\n                );\n            };\n        (function()\
+        \ {\n            function compatibilityCheck() {\n                if (!__tnt.compatibility.check())\
+        \ {\n                    __tnt.trackEvent({\n                        'category':'subscription',\n\
+        \                        'action':'adblock',\n                        'label':'adblock\
+        \ detected',\n                        'value':'1'\n                    });\n\
+        \                    }\n            }\n\n            if (document.readyState\
+        \ != 'loading') {\n                compatibilityCheck();\n            } else\
+        \ {\n                document.addEventListener('DOMContentLoaded', compatibilityCheck);\n\
+        \            }\n        })();\n    </script>\n    <template id=\"template-blox-message-incompatible\"\
+        >\n            </template>\n    \n    \r\n    <script>\r\n        jQuery(function()\
+        \ {\r\n            if(typeof TNCMS.Tracking != 'undefined'){\r\n         \
+        \       jQuery(TNCMS.Tracking.trackDeclarativeEvents);\r\n            }});\r\
+        \n    </script>\r\n\n    <script>\n        __tnt.trackEvent = function(obj)\
+        \ {\n            if (typeof obj === 'object') {\n                    if (obj.category\
+        \ && obj.action) {\n                        __tnt.googleEvent(obj);\n    \
+        \                } else if (obj.network && obj.socialAction) {\n         \
+        \               __tnt.googleSocial(obj);\n                    } else if (obj.url)\
+        \ {\n                        __tnt.googlePageView(obj);\n                \
+        \    }\n                    if (typeof TNCMS.Tracking != 'undefined' && obj.metric)\
+        \ {\n                        TNCMS.Tracking.addEvent({\n                 \
+        \           app: obj.app,\n                            metric: obj.metric,\n\
+        \                            id: obj.uuid\n                        });\n \
+        \                   }\n            }\n        };\n\n        if (__tnt.trackEventLater.length\
+        \ > 0) {\n            __tnt.trackEventLater.forEach(function(obj) {\n    \
+        \            __tnt.trackEvent(obj);\n            });\n        }\n\n      \
+        \  Array.from(document.querySelectorAll('body [data-track]')).forEach(function(el)\
+        \ {\n            el.addEventListener(__tnt.client.clickEvent, function() {\n\
+        \                __tnt.trackEvent(JSON.parse(el.dataset.track));\n       \
+        \     });\n        });\n        Array.from(document.querySelectorAll('body\
+        \ [data-tncms-track-event]')).forEach(function(el) {\n            el.addEventListener(__tnt.client.clickEvent,\
+        \ function() {\n                __tnt.trackEvent(JSON.parse(el.dataset.tncmsTrackEvent));\n\
+        \            });\n        });\n        \n    </script>\n    \n        <script\
+        \ type=\"text/plain\" class=\"optanon-category-C0004\">\n            \n  \
+        \      Array.from(document.querySelectorAll('body [data-tncms-track-dmp]')).forEach(function(el)\
+        \ {\n            el.addEventListener(__tnt.client.clickEvent, function() {\n\
+        \                var dmpData = el.dataset.tncmsTrackDmp;\n               \
+        \ \n            });\n        });\n    \n        </script>\n    \n    \n<script>/*<![CDATA[*/\
+        \ // create right menu button\n        $('#main-navigation').prepend('<button\
+        \ type=\"button\" class=\"ag-hamburger-desktop fluid-header navbar-toggle\
+        \ pull-right\" data-toggle=\"offcanvas\" data-target=\"left\"><span class=\"\
+        icon-bar\"></span><span class=\"icon-bar\"></span><span class=\"icon-bar\"\
+        ></span></button>');\n\n        $(document).ready(function(){        \n  \
+        \          // add container div to drawer content\n            $leftDrawer_cont\
+        \ = $('<div/>').addClass('container');\n            $leftDrawer_reg1 = $('#tncms-region-mobile-nav-top-left-region');\n\
+        \            $leftDrawer_nav1 = $('#tncms-region-nav-mobile-nav-left');\n\
+        \            $leftDrawer_nav2 = $('#tncms-region-nav-mobile-nav-left-below');\n\
+        \            $leftDrawer_cont.append($leftDrawer_reg1, $leftDrawer_nav1, $leftDrawer_nav2);\n\
+        \            $('.offcanvas-drawer-left').prepend($leftDrawer_cont);\n    \
+        \        \n            // search icon to drawer search bar\n            $('.offcanvas-drawer-left\
+        \ .site-search-form').prepend('<div class=\"search-icon\"><i class=\"fas tnt-search\
+        \ fa fa-search\"></i></div>');\n            \n            // make copyright\
+        \ container a fluid container\n            $('#site-copyright-container').attr('class','container-fluid');\n\
+        \            \n            // change \"Load more\" to \"View more\"\n    \
+        \        $('.tnt-load-more .more-text').html('View more');\n\n           \
+        \ $('.agrisearch').on('submit', function(event){\n                var searchText\
+        \ = $('.search-text',this).val();\n                if(searchText){\n     \
+        \               //var url = 'http://agrisearch.com/search/text='+encodeURIComponent(searchText);\n\
+        \                    var url = '/ads/search/?l=25&q='+encodeURIComponent(searchText);\n\
+        \                    window.open(url);\n                }\n              \
+        \  event.preventDefault();\n            });            \n        }); /*]]>*/</script>\n\
+        <script>/*<![CDATA[*/ \n        if( __tnt.user.services ){\n            jQuery('body').addClass('has-service');\n\
+        \            jQuery('body').removeClass('no-service');\n        } else {\n\
+        \            jQuery('body').addClass('no-service');\n            jQuery('body').removeClass('has-service');\n\
+        \        }\n     /*]]>*/</script>\n<script>/*<![CDATA[*/ jQuery(document).ready(function($){\n\
+        \        var oAmazonUrls = $(\"a[href*='amazon.com']\");\n        if( oAmazonUrls.length\
+        \ > 0 ){\n            var sTrkId = 'tracking_id=leeenter0889-20';\n      \
+        \      $(oAmazonUrls).each(function(i,e){\n                var sHref = this.href;\n\
+        \                if ( !sHref.match(/[?&]tracking_id/) ) {\n              \
+        \      sHref += ((sHref.indexOf('?') > -1) ? '&' : '?') + sTrkId;\n      \
+        \              $(this).attr('href',sHref).attr('target','_blank');\n     \
+        \           }\n            });\n        }\n    }); /*]]>*/</script>\n<script>/*<![CDATA[*/\
+        \ jQuery(document).ready(function($){\n        var sTrackingPattern = 'lee-track-';\n\
+        \        var oTrackBlocks = $('div[class*=\"'+sTrackingPattern+'\"]');\n \
+        \       var sTrackVal;\n        function lee_trkLinkSrc(o, src){\n       \
+        \     var src = 'tracking-source='+src;\n            $(o).find('a').each(function(){\n\
+        \                var sHref = this.href;\n                var sOg = $(this).attr('href');\n\
+        \                if (!sHref.match(/[#&]tracking-source/) && sHref != '' &&\
+        \ sHref != '#' && sOg.charAt(0) == '/') {\n                    sHref += ((sHref.indexOf('#')\
+        \ > -1) ? '&' : '#') + src;\n                    $(this).attr('href', sHref);\n\
+        \                }\n            });\n        }\n        if( oTrackBlocks.length\
+        \ > 0 ){\n            $(oTrackBlocks).each(function(){\n                var\
+        \ sTrackClass = $(this)[0].classList;\n                $(sTrackClass).each(function(i,c){\n\
+        \                    if( c.match(sTrackingPattern) ){\n                  \
+        \      sTrackVal = c.replace(sTrackingPattern, '');\n                    \
+        \    return false;\n                    }\n                });\n         \
+        \       lee_trkLinkSrc(this, sTrackVal);\n            });\n        }\n   \
+        \     lee_trkLinkSrc('#main-nav_menu', 'main-nav');\n        lee_trkLinkSrc('#mobile-nav-left_menu,#mobile-nav-left-below_menu',\
+        \ 'menu-nav');\n    }); /*]]>*/</script>\n<script>/*<![CDATA[*/ !function(t,i,n){var\
+        \ e,a,s,o,c,d={init:function(){a=i.getElementById(\"site-navbar-container\"\
+        ),n.client.platform.ios?a.classList.add(\"affix-sticky\"):(e=i.getElementById(\"\
+        main-body-container\"),s=a.offsetHeight||a.clientHeight,o=!1,c=0,t.addEventListener(\"\
+        scroll\",d.navPosition,!1),t.addEventListener(\"mousewheel\",d.navPosition,!1))},navPosition:function(){o||(o=!0,setTimeout(function(){var\
+        \ n=a.getBoundingClientRect(),d=t.pageYOffset||i.documentElement.scrollTop,f=n.top+d;d>=f&&d>c?a.classList.contains(\"\
+        affix\")||(c=f,a.classList.add(\"affix\"),a.classList.remove(\"affix-top\"\
+        ),e.style.marginTop=s+\"px\"):a.classList.contains(\"affix-top\")||(a.classList.remove(\"\
+        affix\"),a.classList.add(\"affix-top\"),e.style.marginTop=\"0px\"),o=!1},25))}};\"\
+        loading\"==i.readyState?i.addEventListener(\"DOMContentLoaded\",d.init,!1):d.init()}(window,document,__tnt);\
+        \ /*]]>*/</script>\n<script src=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/plugins/resources/scripts/bootstrap-datepicker.2b28bee684315ebcadec4a6b63cc146d.js\"\
+        ></script>\n<script>/*<![CDATA[*/ $(\".results-container\").mark(\"\"); /*]]>*/</script>\n\
+        <script>/*<![CDATA[*/ function agriSearchWidget(target,opt){\n    \n     \
+        \ // set defaults\n      var opt = $.extend({\n        type: 'listings',\n\
+        \        defaults: {},\n        breakpoints: {\n          lg: {},\n      \
+        \    md: {},\n          sm: {},\n          xs: {}\n        }\n      }, opt\
+        \ );\n      \n      // ag publications\n      var publications = [\n     \
+        \     'agriview',\n      'cattleseller',\n      'farmandranchguide',\n   \
+        \   'illinoisfarmertoday',\n      'iowafarmertoday',\n      'midwestmarketer',\n\
+        \      'midwestmessenger',\n      'todaysproducer',\n      'minnesotafarmguide',\n\
+        \      'missourifarmertoday',\n      'theprairiestar',\n      'tristateneighbor',\n\
+        \      'community/burt_county',\n      'livestockroundup'\n      ];\n    \
+        \      \n      // get breakpoint\n      var $breakpoints = { 1200: \"lg\"\
+        , 992: \"md\", 768: \"sm\" }\n      var w = Math.max(document.documentElement.clientWidth,\
+        \ window.innerWidth || 0);\n      var bp = \"xs\";\n      $.each( $breakpoints,\
+        \ function( bWidth, bSize ) {\n         if( w >= bWidth ) bp = bSize;\n  \
+        \    });\n      \n      // get params based on breakpoint\n      var par =\
+        \ opt.defaults;\n      var parTemp = opt.breakpoints[bp];\n      if( !parTemp\
+        \ && bp == \"lg\" ) parTemp = opt.breakpoints.md;\n      if( !parTemp && (bp\
+        \ == \"lg\" || bp == \"md\")) parTemp = opt.breakpoints.sm;\n      if( !parTemp\
+        \ ) parTemp = opt.breakpoints.xs;\n      par = $.extend(par,parTemp);\n  \
+        \    \n      // set dynamic categories\n      var mpCats = {\n          crops\
+        \ : [\"tractor\",\"harvesters\",\"planting\",\"tillage\",\"headers\",\"hay\
+        \ equipment\",\"grain handling\",\"chemical applicators\",\"irrigation\"],\n\
+        \          livestock : [\"hay equipment\",\"grain handling\",\"livestock equipment\"\
+        ,\"trailer::horse trailers\",\"manure handling\"],\n          weather : [\"\
+        skid steer\",\"other equipment\",\"attachments::snow equipment\"],\n     \
+        \     technology : [\"construction equipment\",\"gps-guidance\",\"truck\"\
+        ],\n          markets : [\"tractor\",\"harvesters\",\"planting\",\"tillage\"\
+        ,\"headers\",\"hay equipment\",\"grain handling\",\"chemical applicators\"\
+        ,\"irrigation\",\"livestock equipment\",\"trailer::horse trailers\",\"manure\
+        \ handling\"],\n      }\n      var aPath = window.location.pathname.split('/');\n\
+        \      var pathOffset = aPath[1] == \"agupdate.com\" ? 10 : 1;\n      if(\
+        \ publications.includes(aPath[pathOffset]) ) pathOffset++;\n      if( aPath[pathOffset]\
+        \ == 'news' ) pathOffset++;\n      thisCat = aPath[pathOffset].replace('crop_news','crops').replace('crop','crops').replace('livestock_news','livestock');\n\
+        \      if( !par.hasOwnProperty('category') && mpCats.hasOwnProperty(aPath[pathOffset])\
+        \ ){\n          par[\"category\"] = mpCats[aPath[pathOffset]];\n         \
+        \ console.log(\"section category: \"+aPath[pathOffset]);\n          console.log(\"\
+        category: \"+JSON.stringify(par[\"category\"]));\n      }\n      \n      //\
+        \ set refresh_seconds to 0;\n      par.refresh_seconds = 0;\n      \n    \
+        \  // render widget\n      $('#'+target).addClass('mp-'+bp);\n      (function(w,e,n,p){w?w.renderWidget(n,e,p):console.error(\"\
+        Widget failed to load.\");})(window.rubric,document.getElementById(target),opt.type,{parameters:par});\n\
+        \    } /*]]>*/</script>\n<script src=\"https://bloximages.chicago2.vip.townnews.com/agupdate.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.min.js?_dc=1606291203\"\
+        ></script></body>\n</html>"
+    headers:
+      Accept-Ranges:
+      - bytes
+      Age:
+      - '687'
+      Cache-Control:
+      - public, max-age=10
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Fri, 04 Dec 2020 13:15:32 GMT
+      ETag:
+      - W/9bc179dcf750997fa473ba84027cae1b
+      Last-Modified:
+      - Fri, 04 Dec 2020 13:15:31 GMT
+      Link:
+      - <https://bloximages.chicago2.vip.townnews.com>; rel=preconnect dns-prefetch;
+        crossorigin
+      - <https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/jquery/resources/scripts/jquery.min.6edb5af3e93b0a377ec925c5f1c6ddde.js>;
+        rel=preload; as=script
+      - </shared-content/art/tncms/user/user.js>; rel=preload; as=script
+      - <https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/bootstrap/resources/scripts/bootstrap.min.d457560d3dfbf1d56a225eb99d7b0702.js>;
+        rel=preload; as=script
+      - <https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/plugins/resources/scripts/common.5ee3960b4d37bc106988fa535b393865.js>;
+        rel=preload; as=script
+      - <https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/template/resources/scripts/tnt.1477faac295a3745e4796d2263e75f11.js>;
+        rel=preload; as=script
+      - <https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/template/resources/scripts/application.93d1db0a57d520951552a1dcd8fd9aeb.js>;
+        rel=preload; as=script
+      - <https://cdn.cookielaw.org/scripttemplates/otSDKStub.js>; rel=preload; as=script
+      Vary:
+      - X-IPCountry, X-Townnews-Now-API-Version, Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Loop:
+      - '1'
+      X-Robots-Tag:
+      - noarchive
+      X-TNCMS:
+      - 1.54.10; app19; 0.27s; 5.3M
+      X-UA-Compatible:
+      - IE=edge
+      X-VCache:
+      - HIT
+      X-XSS-Protection:
+      - 1; mode=block
+      content-length:
+      - '156930'
+    status:
+      code: 200
+      message: OK
+version: 1

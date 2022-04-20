@@ -1,0 +1,534 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.marketwatch.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.marketwatch.com/investing/stock/AMZN/moreheadlines?channel=MarketWatch&pageNumber=0
+  response:
+    body:
+      string: "\n\n\n        \n            <mw-scrollable-news-v2 natural class=\"collection
+        collection--moreHeadlines j-scrollViewport\">\n            <div class=\"column
+        column--primary j-moreHeadlineWrapper\" data-source=\"ChartingSymbol\" data-channel=\"MarketWatch\"
+        data-channel-id=\"\" data-realtimefeed=\"\" data-layout-position=\"\" data-tracking=\"\">\n
+        \               <div class=\"collection__elements j-scrollElement\">\n\r\n\r\n\r\n\r\n\r\n
+        \   <div data-timestamp=\"1625687700000\" data-docid=\"\" data-msgid=\"\"
+        data-guid=\"20c05575-04d4-b545-7503-610fa42be716\" class=\"element element--article
+        \  \">\n            <figure class=\"article__figure\">\n                \n
+        \               <a class=\"figure__image\" data-video-guid=\"\" href=\"https://www.marketwatch.com/story/the-jedi-reboot-allows-u-s-to-correct-its-mistake-11625687703\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.mktw.net/im-258235?size=1.777777777777778&amp;width=220
+        220w,https://images.mktw.net/im-258235?size=1.777777777777778&amp;width=300
+        300w,https://images.mktw.net/im-258235?size=1.777777777777778&amp;width=460
+        460w,https://images.mktw.net/im-258235?size=1.777777777777778&amp;width=800
+        800w,https://images.mktw.net/im-258235?size=1.777777777777778&amp;width=920
+        920w,https://images.mktw.net/im-258235?size=1.777777777777778&amp;width=1240
+        1240w,https://images.mktw.net/im-258235?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            <span
+        class=\"article__label opinion\">\nOpinion            </span>\n                    <h3
+        class=\"article__headline\">\n                        <a class=\"link\" href=\"https://www.marketwatch.com/story/the-jedi-reboot-allows-u-s-to-correct-its-mistake-11625687703\">\n
+        \                           \n                            The JEDI reboot
+        allows U.S. to correct its mistake\n                        </a>\n                    </h3>\n
+        \           \n\n            \n            <div class=\"article__details\">\n
+        \               <span class=\"article__timestamp\" data-est=\"2021-07-07T15:55:00\">Jul.
+        7, 2021 at 3:55 p.m. ET</span>\n\n                    <span class=\"article__author\">by
+        Therese Poletti</span>\n                \n            </div>\n        </div>\n\n
+        \   </div>\n\r\n\r\n\r\n    <div data-timestamp=\"1625592540000\" data-docid=\"\"
+        data-msgid=\"\" data-guid=\"20c05575-04d4-b545-74f6-2763fd84291c\" class=\"element
+        element--article   \">\n            <figure class=\"article__figure\">\n                \n
+        \               <a class=\"figure__image\" data-video-guid=\"\" href=\"https://www.marketwatch.com/story/zevia-ipo-5-things-to-know-about-the-zero-calorie-beverage-company-before-it-goes-public-11625592545\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.mktw.net/im-363912?size=1.777777777777778&amp;width=220
+        220w,https://images.mktw.net/im-363912?size=1.777777777777778&amp;width=300
+        300w,https://images.mktw.net/im-363912?size=1.777777777777778&amp;width=460
+        460w,https://images.mktw.net/im-363912?size=1.777777777777778&amp;width=800
+        800w,https://images.mktw.net/im-363912?size=1.777777777777778&amp;width=920
+        920w,https://images.mktw.net/im-363912?size=1.777777777777778&amp;width=1240
+        1240w,https://images.mktw.net/im-363912?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            \n
+        \                   <h3 class=\"article__headline\">\n                        <a
+        class=\"link\" href=\"https://www.marketwatch.com/story/zevia-ipo-5-things-to-know-about-the-zero-calorie-beverage-company-before-it-goes-public-11625592545\">\n
+        \                           \n                            Zevia IPO: 5 things
+        to know about the zero-calorie beverage company before it goes public\n                        </a>\n
+        \                   </h3>\n            \n\n            \n            <div
+        class=\"article__details\">\n                <span class=\"article__timestamp\"
+        data-est=\"2021-07-06T13:29:00\">Jul. 6, 2021 at 1:29 p.m. ET</span>\n\n                    <span
+        class=\"article__author\">by Tonya Garcia</span>\n                \n            </div>\n
+        \       </div>\n\n    </div>\n\r\n\r\n\r\n    <div data-timestamp=\"1625743080000\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"20c05575-04d4-b545-7507-005398c148f7\"
+        class=\"element element--article   \">\n            <figure class=\"article__figure\">\n
+        \               \n                <a class=\"figure__image\" data-video-guid=\"\"
+        href=\"https://www.marketwatch.com/story/why-economists-think-bond-yields-are-falling-slamming-the-s-p-500-and-the-dow-as-the-likes-of-amazon-benefit-11625743122\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.mktw.net/im-366162?size=1.777777777777778&amp;width=220
+        220w,https://images.mktw.net/im-366162?size=1.777777777777778&amp;width=300
+        300w,https://images.mktw.net/im-366162?size=1.777777777777778&amp;width=460
+        460w,https://images.mktw.net/im-366162?size=1.777777777777778&amp;width=800
+        800w,https://images.mktw.net/im-366162?size=1.777777777777778&amp;width=920
+        920w,https://images.mktw.net/im-366162?size=1.777777777777778&amp;width=1240
+        1240w,https://images.mktw.net/im-366162?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            \n
+        \                   <h3 class=\"article__headline\">\n                        <a
+        class=\"link\" href=\"https://www.marketwatch.com/story/why-economists-think-bond-yields-are-falling-slamming-the-s-p-500-and-the-dow-as-the-likes-of-amazon-benefit-11625743122\">\n
+        \                           \n                            Why economists think
+        bond yields are falling, slamming the S&amp;P 500 and the Dow as the likes
+        of Amazon benefit\n                        </a>\n                    </h3>\n
+        \           \n\n            \n            <div class=\"article__details\">\n
+        \               <span class=\"article__timestamp\" data-est=\"2021-07-08T07:18:00\">Jul.
+        8, 2021 at 7:18 a.m. ET</span>\n\n                    <span class=\"article__author\">by
+        Jack Denton</span>\n                \n            </div>\n        </div>\n\n
+        \   </div>\n\r\n\r\n\r\n    <div data-timestamp=\"1625689800000\" data-docid=\"\"
+        data-msgid=\"\" data-guid=\"7403e520-edca-40f0-bf9a-f0fba6484bae\" class=\"element
+        element--article   \">\n            <figure class=\"article__figure\">\n                \n
+        \               <a class=\"figure__image\" data-video-guid=\"\" href=\"https://www.marketwatch.com/story/amazon-com-inc-stock-outperforms-market-on-strong-trading-day-01625689840-541041c9ce32\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.mktw.net/im-215086?size=1.777777777777778&amp;width=220
+        220w,https://images.mktw.net/im-215086?size=1.777777777777778&amp;width=300
+        300w,https://images.mktw.net/im-215086?size=1.777777777777778&amp;width=460
+        460w,https://images.mktw.net/im-215086?size=1.777777777777778&amp;width=800
+        800w,https://images.mktw.net/im-215086?size=1.777777777777778&amp;width=920
+        920w,https://images.mktw.net/im-215086?size=1.777777777777778&amp;width=1240
+        1240w,https://images.mktw.net/im-215086?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            \n
+        \                   <h3 class=\"article__headline\">\n                        <a
+        class=\"link\" href=\"https://www.marketwatch.com/story/amazon-com-inc-stock-outperforms-market-on-strong-trading-day-01625689840-541041c9ce32\">\n
+        \                           \n                            Amazon.com Inc.
+        stock outperforms market on strong trading day\n                        </a>\n
+        \                   </h3>\n            \n\n            \n            <div
+        class=\"article__details\">\n                <span class=\"article__timestamp\"
+        data-est=\"2021-07-07T16:30:00\">Jul. 7, 2021 at 4:30 p.m. ET</span>\n\n                    <span
+        class=\"article__author\">by MarketWatch Automation</span>\n                \n
+        \           </div>\n        </div>\n\n    </div>\n\r\n\r\n\r\n    <div data-timestamp=\"1625257860000\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"c9495c14-daa5-11eb-a6a9-059580e78174\"
+        class=\"element element--article    BarronsOnline\">\n            <figure
+        class=\"article__figure\">\n                \n                <a class=\"figure__image\"
+        data-video-guid=\"\" href=\"https://www.marketwatch.com/articles/big-tech-stocks-risk-funds-51625257865\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.barrons.com/im-363609/?size=1.777777777777778&amp;width=220
+        220w,https://images.barrons.com/im-363609/?size=1.777777777777778&amp;width=300
+        300w,https://images.barrons.com/im-363609/?size=1.777777777777778&amp;width=460
+        460w,https://images.barrons.com/im-363609/?size=1.777777777777778&amp;width=800
+        800w,https://images.barrons.com/im-363609/?size=1.777777777777778&amp;width=920
+        920w,https://images.barrons.com/im-363609/?size=1.777777777777778&amp;width=1240
+        1240w,https://images.barrons.com/im-363609/?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            <span
+        class=\"article__label barrons\">\nBarron&#x27;s            </span>\n                    <h3
+        class=\"article__headline\">\n                        <a class=\"link\" href=\"https://www.marketwatch.com/articles/big-tech-stocks-risk-funds-51625257865\">\n
+        \                           \n                            When Big Tech Stumbles,
+        the Market Can Fall Hard. These 5 Funds Can Help.\n                        </a>\n
+        \                   </h3>\n            \n\n            \n            <div
+        class=\"article__details\">\n                <span class=\"article__timestamp\"
+        data-est=\"2021-07-02T16:31:00\">Jul. 2, 2021 at 4:31 p.m. ET</span>\n\n                    <span
+        class=\"article__author\">by Barron&apos;s</span>\n                \n            </div>\n
+        \       </div>\n\n    </div>\n\r\n\r\n\r\n    <div data-timestamp=\"1625661720000\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"20a05575-0424-1521-4dea-d296d65128bb\"
+        class=\"element element--article   \">\n            <figure class=\"article__figure\">\n
+        \               \n                <a class=\"figure__image\" data-video-guid=\"\"
+        href=\"https://www.marketwatch.com/articles/amc-didi-big-tech-stock-market-today-51625661767\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.barrons.com/im-272944?size=1.777777777777778&amp;width=220
+        220w,https://images.barrons.com/im-272944?size=1.777777777777778&amp;width=300
+        300w,https://images.barrons.com/im-272944?size=1.777777777777778&amp;width=460
+        460w,https://images.barrons.com/im-272944?size=1.777777777777778&amp;width=800
+        800w,https://images.barrons.com/im-272944?size=1.777777777777778&amp;width=920
+        920w,https://images.barrons.com/im-272944?size=1.777777777777778&amp;width=1240
+        1240w,https://images.barrons.com/im-272944?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            <span
+        class=\"article__label barrons\">\nBarron&#x27;s            </span>\n                    <h3
+        class=\"article__headline\">\n                        <a class=\"link\" href=\"https://www.marketwatch.com/articles/amc-didi-big-tech-stock-market-today-51625661767\">\n
+        \                           \n                            AMC Stock Is Dropping,
+        Apple Is Trading a Record High, and Big Tech&#x2019;s Comeback Is Gathering
+        Steam\n                        </a>\n                    </h3>\n            \n\n
+        \           \n            <div class=\"article__details\">\n                <span
+        class=\"article__timestamp\" data-est=\"2021-07-07T08:42:00\">Jul. 7, 2021
+        at 8:42 a.m. ET</span>\n\n                    <span class=\"article__author\">by
+        Barron&apos;s</span>\n                \n            </div>\n        </div>\n\n
+        \   </div>\n\r\n\r\n\r\n    <div data-timestamp=\"1625658840000\" data-docid=\"\"
+        data-msgid=\"\" data-guid=\"18f9a414-deaa-11eb-808f-058b4a9ac977\" class=\"element
+        element--article    BarronsOnline\">\n            <figure class=\"article__figure\">\n
+        \               \n                <a class=\"figure__image\" data-video-guid=\"\"
+        href=\"https://www.marketwatch.com/articles/things-to-know-today-51625658757\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.barrons.com/im-286921/?size=1.777777777777778&amp;width=220
+        220w,https://images.barrons.com/im-286921/?size=1.777777777777778&amp;width=300
+        300w,https://images.barrons.com/im-286921/?size=1.777777777777778&amp;width=460
+        460w,https://images.barrons.com/im-286921/?size=1.777777777777778&amp;width=800
+        800w,https://images.barrons.com/im-286921/?size=1.777777777777778&amp;width=920
+        920w,https://images.barrons.com/im-286921/?size=1.777777777777778&amp;width=1240
+        1240w,https://images.barrons.com/im-286921/?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            <span
+        class=\"article__label barrons\">\nBarron&#x27;s            </span>\n                    <h3
+        class=\"article__headline\">\n                        <a class=\"link\" href=\"https://www.marketwatch.com/articles/things-to-know-today-51625658757\">\n
+        \                           \n                            Amazon&#x2019;s
+        Jeff Bezos Is Getting Richer&#x2014;and You Can Too\n                        </a>\n
+        \                   </h3>\n            \n\n            \n            <div
+        class=\"article__details\">\n                <span class=\"article__timestamp\"
+        data-est=\"2021-07-07T07:54:00\">Jul. 7, 2021 at 7:54 a.m. ET</span>\n\n                    \n
+        \               \n            </div>\n        </div>\n\n    </div>\n\r\n\r\n\r\n
+        \   <div data-timestamp=\"1625605920000\" data-docid=\"\" data-msgid=\"\"
+        data-guid=\"20a05575-0424-1521-4d24-b1036b64bc08\" class=\"element element--article
+        \  \">\n            <figure class=\"article__figure\">\n                \n
+        \               <a class=\"figure__image\" data-video-guid=\"\" href=\"https://www.marketwatch.com/articles/the-dow-dropped-200-points-tuesday-dont-blame-didi-and-opec-51625605922\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.barrons.com/im-361181?size=1.777777777777778&amp;width=220
+        220w,https://images.barrons.com/im-361181?size=1.777777777777778&amp;width=300
+        300w,https://images.barrons.com/im-361181?size=1.777777777777778&amp;width=460
+        460w,https://images.barrons.com/im-361181?size=1.777777777777778&amp;width=800
+        800w,https://images.barrons.com/im-361181?size=1.777777777777778&amp;width=920
+        920w,https://images.barrons.com/im-361181?size=1.777777777777778&amp;width=1240
+        1240w,https://images.barrons.com/im-361181?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            <span
+        class=\"article__label barrons\">\nBarron&#x27;s            </span>\n                    <h3
+        class=\"article__headline\">\n                        <a class=\"link\" href=\"https://www.marketwatch.com/articles/the-dow-dropped-200-points-tuesday-dont-blame-didi-and-opec-51625605922\">\n
+        \                           \n                            The Dow Dropped
+        200 Points Tuesday. Don&#x2019;t Blame Didi and OPEC.\n                        </a>\n
+        \                   </h3>\n            \n\n            \n            <div
+        class=\"article__details\">\n                <span class=\"article__timestamp\"
+        data-est=\"2021-07-06T17:12:00\">Jul. 6, 2021 at 5:12 p.m. ET</span>\n\n                    <span
+        class=\"article__author\">by Barron&apos;s</span>\n                \n            </div>\n
+        \       </div>\n\n    </div>\n\r\n\r\n\r\n    <div data-timestamp=\"1625570760000\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"20c05575-04d4-b545-74fb-a76aa02203cb\"
+        class=\"element element--article   \">\n            <figure class=\"article__figure\">\n
+        \               \n                <a class=\"figure__image\" data-video-guid=\"\"
+        href=\"https://www.marketwatch.com/story/stock-futures-pause-for-breath-with-s-p-500-nasdaq-at-records-11625570766\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.mktw.net/im-364786?size=1.777777777777778&amp;width=220
+        220w,https://images.mktw.net/im-364786?size=1.777777777777778&amp;width=300
+        300w,https://images.mktw.net/im-364786?size=1.777777777777778&amp;width=460
+        460w,https://images.mktw.net/im-364786?size=1.777777777777778&amp;width=800
+        800w,https://images.mktw.net/im-364786?size=1.777777777777778&amp;width=920
+        920w,https://images.mktw.net/im-364786?size=1.777777777777778&amp;width=1240
+        1240w,https://images.mktw.net/im-364786?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            \n
+        \                   <h3 class=\"article__headline\">\n                        <a
+        class=\"link\" href=\"https://www.marketwatch.com/story/stock-futures-pause-for-breath-with-s-p-500-nasdaq-at-records-11625570766\">\n
+        \                           \n                            U.S. stocks end
+        mostly lower Tuesday, Nasdaq rises to new peak after fall in ISM service sector
+        gauge\n                        </a>\n                    </h3>\n            \n\n
+        \           \n            <div class=\"article__details\">\n                <span
+        class=\"article__timestamp\" data-est=\"2021-07-06T07:26:00\">Jul. 6, 2021
+        at 7:26 a.m. ET</span>\n\n                    <span class=\"article__author\">by
+        William Watts</span>\n                \n            </div>\n        </div>\n\n
+        \   </div>\n\r\n\r\n\r\n    <div data-timestamp=\"1625603400000\" data-docid=\"\"
+        data-msgid=\"\" data-guid=\"1dff266f-e916-4b26-933d-ba124af7950b\" class=\"element
+        element--article   \">\n            <figure class=\"article__figure\">\n                \n
+        \               <a class=\"figure__image\" data-video-guid=\"\" href=\"https://www.marketwatch.com/story/amazon-com-inc-stock-outperforms-market-on-strong-trading-day-01625603436-a81d102a7466\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.mktw.net/im-215086?size=1.777777777777778&amp;width=220
+        220w,https://images.mktw.net/im-215086?size=1.777777777777778&amp;width=300
+        300w,https://images.mktw.net/im-215086?size=1.777777777777778&amp;width=460
+        460w,https://images.mktw.net/im-215086?size=1.777777777777778&amp;width=800
+        800w,https://images.mktw.net/im-215086?size=1.777777777777778&amp;width=920
+        920w,https://images.mktw.net/im-215086?size=1.777777777777778&amp;width=1240
+        1240w,https://images.mktw.net/im-215086?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            \n
+        \                   <h3 class=\"article__headline\">\n                        <a
+        class=\"link\" href=\"https://www.marketwatch.com/story/amazon-com-inc-stock-outperforms-market-on-strong-trading-day-01625603436-a81d102a7466\">\n
+        \                           \n                            Amazon.com Inc.
+        stock outperforms market on strong trading day\n                        </a>\n
+        \                   </h3>\n            \n\n            \n            <div
+        class=\"article__details\">\n                <span class=\"article__timestamp\"
+        data-est=\"2021-07-06T16:30:00\">Jul. 6, 2021 at 4:30 p.m. ET</span>\n\n                    <span
+        class=\"article__author\">by MarketWatch Automation</span>\n                \n
+        \           </div>\n        </div>\n\n    </div>\n\r\n\r\n\r\n    <div data-timestamp=\"1625602140000\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"20c05575-04d4-b545-74ff-7f6c8ecca061\"
+        class=\"element element--article   \">\n            <figure class=\"article__figure\">\n
+        \               \n                <a class=\"figure__image\" data-video-guid=\"\"
+        href=\"https://www.marketwatch.com/story/amazon-stock-rides-to-record-as-jedi-deal-gets-cancelled-on-new-ceos-first-day-11625602173\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.mktw.net/im-294344?size=1.777777777777778&amp;width=220
+        220w,https://images.mktw.net/im-294344?size=1.777777777777778&amp;width=300
+        300w,https://images.mktw.net/im-294344?size=1.777777777777778&amp;width=460
+        460w,https://images.mktw.net/im-294344?size=1.777777777777778&amp;width=800
+        800w,https://images.mktw.net/im-294344?size=1.777777777777778&amp;width=920
+        920w,https://images.mktw.net/im-294344?size=1.777777777777778&amp;width=1240
+        1240w,https://images.mktw.net/im-294344?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            \n
+        \                   <h3 class=\"article__headline\">\n                        <a
+        class=\"link\" href=\"https://www.marketwatch.com/story/amazon-stock-rides-to-record-as-jedi-deal-gets-cancelled-on-new-ceos-first-day-11625602173\">\n
+        \                           \n                            Amazon stock rides
+        to record as JEDI deal gets canceled on new CEO&#x2019;s first day\n                        </a>\n
+        \                   </h3>\n            \n\n            \n            <div
+        class=\"article__details\">\n                <span class=\"article__timestamp\"
+        data-est=\"2021-07-06T16:09:00\">Jul. 6, 2021 at 4:09 p.m. ET</span>\n\n                    <span
+        class=\"article__author\">by Emily Bary</span>\n                \n            </div>\n
+        \       </div>\n\n    </div>\n\r\n\r\n\r\n    <div data-timestamp=\"1625596620000\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"20a05575-0424-1521-4c4f-a66a62f78876\"
+        class=\"element element--article   \">\n            <figure class=\"article__figure\">\n
+        \               \n                <a class=\"figure__image\" data-video-guid=\"\"
+        href=\"https://www.marketwatch.com/articles/microsoft-jedi-defense-contract-amazon-51625596606\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.barrons.com/im-365078?size=1.777777777777778&amp;width=220
+        220w,https://images.barrons.com/im-365078?size=1.777777777777778&amp;width=300
+        300w,https://images.barrons.com/im-365078?size=1.777777777777778&amp;width=460
+        460w,https://images.barrons.com/im-365078?size=1.777777777777778&amp;width=800
+        800w,https://images.barrons.com/im-365078?size=1.777777777777778&amp;width=920
+        920w,https://images.barrons.com/im-365078?size=1.777777777777778&amp;width=1240
+        1240w,https://images.barrons.com/im-365078?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            <span
+        class=\"article__label barrons\">\nBarron&#x27;s            </span>\n                    <h3
+        class=\"article__headline\">\n                        <a class=\"link\" href=\"https://www.marketwatch.com/articles/microsoft-jedi-defense-contract-amazon-51625596606\">\n
+        \                           \n                            Microsoft&#x2019;s
+        &#x2018;JEDI&#x2019; Contract Canceled in Big Win for Amazon\n                        </a>\n
+        \                   </h3>\n            \n\n            \n            <div
+        class=\"article__details\">\n                <span class=\"article__timestamp\"
+        data-est=\"2021-07-06T14:37:00\">Jul. 6, 2021 at 2:37 p.m. ET</span>\n\n                    <span
+        class=\"article__author\">by Barron&apos;s</span>\n                \n            </div>\n
+        \       </div>\n\n    </div>\n\r\n\r\n\r\n    <div data-timestamp=\"1625585100000\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"20a05575-0424-1521-4b56-ed37241cb101\"
+        class=\"element element--article   \">\n            <figure class=\"article__figure\">\n
+        \               \n                <a class=\"figure__image\" data-video-guid=\"\"
+        href=\"https://www.marketwatch.com/articles/amazon-stock-all-time-high-51625585152\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.barrons.com/im-364888?size=1.777777777777778&amp;width=220
+        220w,https://images.barrons.com/im-364888?size=1.777777777777778&amp;width=300
+        300w,https://images.barrons.com/im-364888?size=1.777777777777778&amp;width=460
+        460w,https://images.barrons.com/im-364888?size=1.777777777777778&amp;width=800
+        800w,https://images.barrons.com/im-364888?size=1.777777777777778&amp;width=920
+        920w,https://images.barrons.com/im-364888?size=1.777777777777778&amp;width=1240
+        1240w,https://images.barrons.com/im-364888?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            <span
+        class=\"article__label barrons\">\nBarron&#x27;s            </span>\n                    <h3
+        class=\"article__headline\">\n                        <a class=\"link\" href=\"https://www.marketwatch.com/articles/amazon-stock-all-time-high-51625585152\">\n
+        \                           \n                            Amazon Stock Hits
+        a New All-Time High as Jassy Takes Over From Bezos as CEO\n                        </a>\n
+        \                   </h3>\n            \n\n            \n            <div
+        class=\"article__details\">\n                <span class=\"article__timestamp\"
+        data-est=\"2021-07-06T11:25:00\">Jul. 6, 2021 at 11:25 a.m. ET</span>\n\n
+        \                   <span class=\"article__author\">by Barron&apos;s</span>\n
+        \               \n            </div>\n        </div>\n\n    </div>\n\r\n\r\n\r\n
+        \   <div data-timestamp=\"1625588820000\" data-docid=\"\" data-msgid=\"\"
+        data-guid=\"20a05575-0424-1521-4b70-e397e92fe13f\" class=\"element element--article
+        \  \">\n            <figure class=\"article__figure\">\n                \n
+        \               <a class=\"figure__image\" data-video-guid=\"\" href=\"https://www.marketwatch.com/articles/alphabet-stock-discount-51625588865\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.barrons.com/im-364892?size=1.777777777777778&amp;width=220
+        220w,https://images.barrons.com/im-364892?size=1.777777777777778&amp;width=300
+        300w,https://images.barrons.com/im-364892?size=1.777777777777778&amp;width=460
+        460w,https://images.barrons.com/im-364892?size=1.777777777777778&amp;width=800
+        800w,https://images.barrons.com/im-364892?size=1.777777777777778&amp;width=920
+        920w,https://images.barrons.com/im-364892?size=1.777777777777778&amp;width=1240
+        1240w,https://images.barrons.com/im-364892?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            <span
+        class=\"article__label barrons\">\nBarron&#x27;s            </span>\n                    <h3
+        class=\"article__headline\">\n                        <a class=\"link\" href=\"https://www.marketwatch.com/articles/alphabet-stock-discount-51625588865\">\n
+        \                           \n                            Alphabet Stock Can
+        Be Had for a Discount. Here&#x2019;s How.\n                        </a>\n
+        \                   </h3>\n            \n\n            \n            <div
+        class=\"article__details\">\n                <span class=\"article__timestamp\"
+        data-est=\"2021-07-06T12:27:00\">Jul. 6, 2021 at 12:27 p.m. ET</span>\n\n
+        \                   <span class=\"article__author\">by Barron&apos;s</span>\n
+        \               \n            </div>\n        </div>\n\n    </div>\n\r\n\r\n\r\n
+        \   <div data-timestamp=\"1625590860000\" data-docid=\"\" data-msgid=\"\"
+        data-guid=\"20c05575-04d4-b545-74fe-1917fb8272cc\" class=\"element element--article
+        \  \">\n            <figure class=\"article__figure\">\n                \n
+        \               <a class=\"figure__image\" data-video-guid=\"\" href=\"https://www.marketwatch.com/story/pentagon-abruptly-cancels-10-billion-jedi-cloud-contract-11625590861\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.mktw.net/im-365077?size=1.777777777777778&amp;width=220
+        220w,https://images.mktw.net/im-365077?size=1.777777777777778&amp;width=300
+        300w,https://images.mktw.net/im-365077?size=1.777777777777778&amp;width=460
+        460w,https://images.mktw.net/im-365077?size=1.777777777777778&amp;width=800
+        800w,https://images.mktw.net/im-365077?size=1.777777777777778&amp;width=920
+        920w,https://images.mktw.net/im-365077?size=1.777777777777778&amp;width=1240
+        1240w,https://images.mktw.net/im-365077?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            \n
+        \                   <h3 class=\"article__headline\">\n                        <a
+        class=\"link\" href=\"https://www.marketwatch.com/story/pentagon-abruptly-cancels-10-billion-jedi-cloud-contract-11625590861\">\n
+        \                           \n                            Pentagon abruptly
+        cancels $10 billion JEDI cloud contract\n                        </a>\n                    </h3>\n
+        \           \n\n            \n            <div class=\"article__details\">\n
+        \               <span class=\"article__timestamp\" data-est=\"2021-07-06T13:01:00\">Jul.
+        6, 2021 at 1:01 p.m. ET</span>\n\n                    <span class=\"article__author\">by
+        Jon Swartz</span>\n                \n            </div>\n        </div>\n\n
+        \   </div>\n\r\n\r\n\r\n    <div data-timestamp=\"1625586224150\" data-docid=\"\"
+        data-msgid=\"\" data-guid=\"4a131d4f-a144-4568-a47c-47bfd0a5ef45\" class=\"element
+        element--article no-image   \">\n            <figure class=\"article__figure\">\n
+        \               \n                <a class=\"figure__image\" data-video-guid=\"\"
+        href=\"https://www.marketwatch.com/story/amazon-adds-more-than-100-billion-in-market-cap-in-2-days-2021-07-06\">\n
+        \                   \n                    \n                </a>\n                \n
+        \               \n            </figure>\n        <div class=\"article__content\">\n
+        \           \n                    <h3 class=\"article__headline\">\n                        <a
+        class=\"link\" href=\"https://www.marketwatch.com/story/amazon-adds-more-than-100-billion-in-market-cap-in-2-days-2021-07-06\">\n
+        \                           \n                            Amazon adds more
+        than $100 billion in market cap in 2 days\n                        </a>\n
+        \                   </h3>\n            <p class=\"article__summary\"></p>\n\n
+        \           \n            <div class=\"article__details\">\n                <span
+        class=\"article__timestamp\" data-est=\"2021-07-06T11:43:44\">Jul. 6, 2021
+        at 11:43 a.m. ET</span>\n\n                    <span class=\"article__author\">by
+        Tomi Kilgore</span>\n                \n            </div>\n        </div>\n\n
+        \   </div>\n\r\n\r\n\r\n    <div data-timestamp=\"1625253960000\" data-docid=\"\"
+        data-msgid=\"\" data-guid=\"55cee704-dabe-11eb-a6a9-059580e78174\" class=\"element
+        element--article    BarronsOnline\">\n            <figure class=\"article__figure\">\n
+        \               \n                <a class=\"figure__image\" data-video-guid=\"\"
+        href=\"https://www.marketwatch.com/articles/amazon-ceo-jeff-bezos-andy-jassy-51625253171\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.barrons.com/im-363801/?size=1.777777777777778&amp;width=220
+        220w,https://images.barrons.com/im-363801/?size=1.777777777777778&amp;width=300
+        300w,https://images.barrons.com/im-363801/?size=1.777777777777778&amp;width=460
+        460w,https://images.barrons.com/im-363801/?size=1.777777777777778&amp;width=800
+        800w,https://images.barrons.com/im-363801/?size=1.777777777777778&amp;width=920
+        920w,https://images.barrons.com/im-363801/?size=1.777777777777778&amp;width=1240
+        1240w,https://images.barrons.com/im-363801/?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            <span
+        class=\"article__label barrons\">\nBarron&#x27;s            </span>\n                    <h3
+        class=\"article__headline\">\n                        <a class=\"link\" href=\"https://www.marketwatch.com/articles/amazon-ceo-jeff-bezos-andy-jassy-51625253171\">\n
+        \                           \n                            Jeff Bezos Steps
+        Down as CEO on Monday. Here&#x2019;s What It Means for Amazon&#x2019;s Stock.\n
+        \                       </a>\n                    </h3>\n            \n\n
+        \           \n            <div class=\"article__details\">\n                <span
+        class=\"article__timestamp\" data-est=\"2021-07-02T15:26:00\">Jul. 2, 2021
+        at 3:26 p.m. ET</span>\n\n                    <span class=\"article__author\">by
+        Barron&apos;s</span>\n                \n            </div>\n        </div>\n\n
+        \   </div>\n\r\n\r\n\r\n    <div data-timestamp=\"1625558400000\" data-docid=\"\"
+        data-msgid=\"\" data-guid=\"20a05575-0424-1521-3f74-9d79e0136d60\" class=\"element
+        element--article   \">\n            <figure class=\"article__figure\">\n                \n
+        \               <a class=\"figure__image\" data-video-guid=\"\" href=\"https://www.marketwatch.com/articles/levi-strauss-earnings-51625259738\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.barrons.com/im-361654?size=1.777777777777778&amp;width=220
+        220w,https://images.barrons.com/im-361654?size=1.777777777777778&amp;width=300
+        300w,https://images.barrons.com/im-361654?size=1.777777777777778&amp;width=460
+        460w,https://images.barrons.com/im-361654?size=1.777777777777778&amp;width=800
+        800w,https://images.barrons.com/im-361654?size=1.777777777777778&amp;width=920
+        920w,https://images.barrons.com/im-361654?size=1.777777777777778&amp;width=1240
+        1240w,https://images.barrons.com/im-361654?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            <span
+        class=\"article__label barrons\">\nBarron&#x27;s            </span>\n                    <h3
+        class=\"article__headline\">\n                        <a class=\"link\" href=\"https://www.marketwatch.com/articles/levi-strauss-earnings-51625259738\">\n
+        \                           \n                            Levi&#x2019;s Earnings
+        Are Coming. What to Expect.\n                        </a>\n                    </h3>\n
+        \           \n\n            \n            <div class=\"article__details\">\n
+        \               <span class=\"article__timestamp\" data-est=\"2021-07-06T04:00:00\">Jul.
+        6, 2021 at 4:00 a.m. ET</span>\n\n                    \n                \n
+        \           </div>\n        </div>\n\n    </div>\n\r\n\r\n\r\n    <div data-timestamp=\"1625572620000\"
+        data-docid=\"\" data-msgid=\"\" data-guid=\"f90fadec-ddaf-11eb-808f-058b4a9ac977\"
+        class=\"element element--article    BarronsOnline\">\n            <figure
+        class=\"article__figure\">\n                \n                <a class=\"figure__image\"
+        data-video-guid=\"\" href=\"https://www.marketwatch.com/articles/things-to-know-today-51625572525\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://images.barrons.com/im-286920/?size=1.777777777777778&amp;width=220
+        220w,https://images.barrons.com/im-286920/?size=1.777777777777778&amp;width=300
+        300w,https://images.barrons.com/im-286920/?size=1.777777777777778&amp;width=460
+        460w,https://images.barrons.com/im-286920/?size=1.777777777777778&amp;width=800
+        800w,https://images.barrons.com/im-286920/?size=1.777777777777778&amp;width=920
+        920w,https://images.barrons.com/im-286920/?size=1.777777777777778&amp;width=1240
+        1240w,https://images.barrons.com/im-286920/?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            <span
+        class=\"article__label barrons\">\nBarron&#x27;s            </span>\n                    <h3
+        class=\"article__headline\">\n                        <a class=\"link\" href=\"https://www.marketwatch.com/articles/things-to-know-today-51625572525\">\n
+        \                           \n                            Didi Stock Is Getting
+        Crushed. It&#x2019;s Starting to Look Like a Buying Opportunity.\n                        </a>\n
+        \                   </h3>\n            \n\n            \n            <div
+        class=\"article__details\">\n                <span class=\"article__timestamp\"
+        data-est=\"2021-07-06T07:57:00\">Jul. 6, 2021 at 7:57 a.m. ET</span>\n\n                    \n
+        \               \n            </div>\n        </div>\n\n    </div>\n\r\n\r\n\r\n
+        \   <div data-timestamp=\"1505510040000\" data-docid=\"\" data-msgid=\"\"
+        data-guid=\"a72774a8-9a4a-11e7-a1ff-05779d39118b\" class=\"element element--article
+        \   BarronsOnline\">\n            <figure class=\"article__figure\">\n                \n
+        \               <a class=\"figure__image\" data-video-guid=\"\" href=\"http://www.marketwatch.com/articles/amazon-thursday-night-football-nfl-1505509977\">\n
+        \                   <img class=\"lazyload\" data-sizes=\"auto\" alt=\"Read
+        full story\" data-srcset=\"https://s.wsj.net/public/resources/images/ON-CC267_AMAZON_NS_20170420130040.png?size=1.777777777777778&amp;width=220
+        220w,https://s.wsj.net/public/resources/images/ON-CC267_AMAZON_NS_20170420130040.png?size=1.777777777777778&amp;width=300
+        300w,https://s.wsj.net/public/resources/images/ON-CC267_AMAZON_NS_20170420130040.png?size=1.777777777777778&amp;width=460
+        460w,https://s.wsj.net/public/resources/images/ON-CC267_AMAZON_NS_20170420130040.png?size=1.777777777777778&amp;width=800
+        800w,https://s.wsj.net/public/resources/images/ON-CC267_AMAZON_NS_20170420130040.png?size=1.777777777777778&amp;width=920
+        920w,https://s.wsj.net/public/resources/images/ON-CC267_AMAZON_NS_20170420130040.png?size=1.777777777777778&amp;width=1240
+        1240w,https://s.wsj.net/public/resources/images/ON-CC267_AMAZON_NS_20170420130040.png?size=1.777777777777778&amp;width=1240
+        1240w\">\n                    \n                </a>\n                \n                \n
+        \           </figure>\n        <div class=\"article__content\">\n            <span
+        class=\"article__label barrons\">\nBarron&#x27;s            </span>\n                    <h3
+        class=\"article__headline\">\n                        <a class=\"link\" href=\"http://www.marketwatch.com/articles/amazon-thursday-night-football-nfl-1505509977\">\n
+        \                           \n                            Now We Know Why
+        The NFL Wanted Amazon to Stream Its Games\n                        </a>\n
+        \                   </h3>\n            \n\n            \n            <div
+        class=\"article__details\">\n                <span class=\"article__timestamp\"
+        data-est=\"2017-09-15T17:14:00\">Sep. 15, 2017 at 5:14 p.m. ET</span>\n\n
+        \                   <span class=\"article__author\">by Barron&apos;s</span>\n
+        \               \n            </div>\n        </div>\n\n    </div>\n                </div>\n
+        \               \n                \n            </div>\n            </mw-scrollable-news-v2>\n
+        \       <template id=\"moreHeadlineTemplate\">\n            <div data-timestamp
+        data-msgid data-guid class=\"element element--article\">\n                <figure
+        class=\"article__figure\">\n                    <a class=\"figure__image\"
+        data-video-guid target=\"_blank\" href=\"#\">\n                        <img
+        class=\"lazyload\" alt=\"Read full story\"/>\n                    </a>\n                </figure>\n
+        \               <div class=\"article__content\">\n                    <span
+        class=\"article__label\"></span>\n                    <h3 class=\"article__headline\">\n
+        \                       <a class=\"link\" target=\"_blank\" href=\"#\"></a>\n
+        \                   </h3>\n                    <p class=\"article__summary\"></p>\n
+        \                   <div class=\"content--secondary\">\n                        <div
+        class=\"group group--tickers\">\n                            <a class=\"ticker\">\n
+        \                               <span class=\"ticker__symbol\"></span>\n                                <bg-quote
+        class=\"ticker__change\" field=\"percentchange\" format=\"0,0.00%\" channel></bg-quote>\n
+        \                               <i class=\"icon\"></i>\n                            </a>\n
+        \                       </div>\n                    </div>\n                    <ul
+        class=\"article__details\">\n                        <li class=\"article__timestamp\"></li>\n
+        \                       <li class=\"article__author\"></li>\n                    </ul>\n
+        \               </div>\n            </div>\n        </template>\n        <template
+        id=\"headlineListItemDianomiTemplate\">\n            <div class=\"lazyload
+        element element--article dianomi\">\n                <div class=\"dianomi_context
+        w100\"></div>\n            </div>\n        </template>\n"
+    headers:
+      Connection:
+      - keep-alive
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Thu, 08 Jul 2021 11:36:34 GMT
+      Server:
+      - Kestrel
+      Set-Cookie:
+      - mw_loc=%7B%22Region%22%3A%22%22%2C%22Country%22%3A%22UA%22%2C%22Continent%22%3A%22EU%22%2C%22ApplicablePrivacy%22%3A0%7D;
+        expires=Wed, 14 Jul 2021 23:59:59 GMT; domain=.marketwatch.com; path=/
+      - gdprApplies=false; domain=.marketwatch.com; path=/
+      Transfer-Encoding:
+      - chunked
+      Via:
+      - 1.1 3dd91613764eafe7ad199013ce202443.cloudfront.net (CloudFront)
+      X-Amz-Cf-Id:
+      - n-Jki1xK7gWh3VCtPqQEgQza2cVAumYPLjeRhUrc0noAlY3HVbRL9Q==
+      X-Amz-Cf-Pop:
+      - FRA56-C1
+      X-Cache:
+      - Miss from cloudfront
+      X-Frame-Options:
+      - SAMEORIGIN
+      content-length:
+      - '40495'
+    status:
+      code: 200
+      message: OK
+version: 1

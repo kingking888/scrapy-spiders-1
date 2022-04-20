@@ -1,0 +1,164 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - soybeansandcorn.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: http://soybeansandcorn.com/news/Nov9_20-Brazil-Importing-US-Soybeans
+  response:
+    body:
+      string: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\r\n\t\"\
+        http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\r\n\r\n<html xmlns=\"\
+        http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\r\n<head>\r\n\t\
+        <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/>\r\
+        \n\r\n  \t<title>Soybean And Corn Advisor</title>\r\n  \t<link rel=\"stylesheet\"\
+        \ href=\"../style.css\" type=\"text/css\" charset=\"utf-8\" />\r\n  \r\n\t\
+        <link rel=\"stylesheet\" type=\"text/css\" href=\"../niftyCorners.css\">\r\
+        \n  \t<link rel=\"stylesheet\" type=\"text/css\" href=\"../niftyLayout.css\"\
+        \ media=\"print\">\r\n  \t<script type=\"text/javascript\" src=\"../niftycube.js\"\
+        ></script>\r\n  \t<script type=\"text/javascript\" src=\"../niftylayou.js\"\
+        ></script>\r\n  \t<script type=\"text/javascript\">\r\n\t\twindow.onload=function()\r\
+        \n\t\t{\r\n\t\t\tNifty(\"#sddm li a\",\"transparent top\");\r\n\t\t}\r\n\t\
+        </script>\r\n\r\n  \n\t<script type=\"text/javascript\">\n\t\tvar str = \"\
+        \";\n\t\tvar used = new Array()\n\t\tfunction getRand(){\n\t\t\tvar n = Math.floor(Math.random()\
+        \ * 249) + 1;\n\t\t\tvar i;\n\t\t\tfor (i = 0; i < used.length; i ++){\n\t\
+        \t\t\twhile (n == used[i]){\n\t\t\t\t\tn = Math.floor(Math.random() * 249)\
+        \ + 1;\n\t\t\t\t}\n\t\t\t}\n\t\t\tvar str = \"\";\n\t\t\tif (n < 10)\n\t\t\
+        \t\t{str = \"00\"};\n\t\t\tif (n < 100 && n > 9)\n\t\t\t\t{str = \"0\";}\n\
+        \t\t\tstr = str+n;\n\t\t\treturn str;\n\t\t}\n\t\tfunction showpic(){\n\t\t\
+        \tstr = getRand();\n\t\t\tused[0] = str;\n\t\t\tvar l1 = \"<a href=/photo3/\"\
+        +str+\".JPG><img width=200 src=/photo3/\"+str+\"sm.jpg></a><br/><br/>\";\n\
+        \t\t\tstr = getRand();\n\t\t\tused[1] = str;\n\t\t\tvar l2 = \"<a href=/photo3/\"\
+        +str+\".JPG><img width=200 src=/photo3/\"+str+\"sm.jpg></a><br/><br/>\";\n\
+        \t\t\tstr = getRand();\n\t\t\tused[2] = str;\n\t\t\tvar l3 = \"<a href=/photo3/\"\
+        +str+\".JPG><img width=200 src=/photo3/\"+str+\"sm.jpg></a><br/><br/>\";\n\
+        \t\t\tstr = getRand();\n\t\t\tused[3] = str;\n\t\t\tvar l4 = \"<a href=/photo3/\"\
+        +str+\".JPG><img width=200 src=/photo3/\"+str+\"sm.jpg></a><br/><br/>\";\n\
+        \t\t\tdocument.getElementById('pics').innerHTML=l1+l2+l3+l4;\n\t\t\tt=setTimeout('showpic()',15000);\n\
+        \t\t}\n\t</script>\n\n\t\r\n<script>\r\n\t// Copyright 2006-2007 javascript-array.com\r\
+        \n\tvar timeout\t= 500;\r\n\tvar closetimer\t= 0;\r\n\tvar ddmenuitem\t= 0;\r\
+        \n\t\r\n\t// open hidden layer\r\n\tfunction mopen(id)\r\n\t{\t\r\n\t\t//\
+        \ cancel close timer\r\n\t\tmcancelclosetime();\r\n\t\r\n\t\t// close old\
+        \ layer\r\n\t\tif(ddmenuitem) ddmenuitem.style.visibility = 'hidden';\r\n\t\
+        \r\n\t\t// get new layer and show it\r\n\t\tddmenuitem = document.getElementById(id);\r\
+        \n\t\tddmenuitem.style.visibility = 'visible';\r\n\t\r\n\t}\r\n\t// close\
+        \ showed layer\r\n\tfunction mclose()\r\n\t{\r\n\t\tif(ddmenuitem) ddmenuitem.style.visibility\
+        \ = 'hidden';\r\n\t}\r\n\t\r\n\t// go close timer\r\n\tfunction mclosetime()\r\
+        \n\t{\r\n\t\tclosetimer = window.setTimeout(mclose, timeout);\r\n\t}\r\n\t\
+        \r\n\t// cancel close timer\r\n\tfunction mcancelclosetime()\r\n\t{\r\n\t\t\
+        if(closetimer)\r\n\t\t{\r\n\t\t\twindow.clearTimeout(closetimer);\r\n\t\t\t\
+        closetimer = null;\r\n\t\t}\r\n\t}\r\n\t\r\n\t// close layer when click-out\r\
+        \n\tdocument.onclick = mclose; \r\n</script>\r\n\t\r\n\r\n</head>\r\n\r\n\
+        <body onload=\"showpic()\">\r\n  <div id=\"header\"></div>\r\n  <div id=\"\
+        wrapper\">\r\n    \r\n\n<div id=\"menu\">\n<ul id=\"sddm\">\n    <li><a href=\"\
+        ../index\">Home</a></li>\n    <li><a href=\"../About-Us\">About Us</a></li>\n\
+        \t<li><a href=\"../News\">News</a></li>\n    <li><a onmouseover=\"mopen('m1')\"\
+        \ onmouseout=\"mclosetime()\">Brazilian Agriculture</a>\n        <div id=\"\
+        m1\" onmouseover=\"mcancelclosetime()\" onmouseout=\"mclosetime()\">\n   \
+        \     \t<a href=\"../Brazil-Crop-Acreage\">Brazil Crop Acereage</a>\n    \
+        \    \t<a href=\"../Brazil-Crop-Cycles\">Brazil Month-By-Month Crop Cycle</a>\n\
+        \        \t<a href=\"../Brazil-Land-Utilization\">Brazil Land Utilization</a>\n\
+        \        \t<a href=\"../Brazilian-Infrastructure\">Brazilian Infrastructure</a>\n\
+        \        \t<a href=\"../Mato-Grosso-Railroad\">Mato Grosso Railroad</a>\n\
+        \        </div>\n    </li>\n    <li><a onmouseover=\"mopen('m2')\" onmouseout=\"\
+        mclosetime()\">South American Agriculture</a>\n        <div id=\"m2\" onmouseover=\"\
+        mcancelclosetime()\" onmouseout=\"mclosetime()\">\n        \t<a href=\"../Argentina-Crop-Acreage\"\
+        >Argentina Crop Acreage</a>\n        \t<a href=\"../Argentina-Crop-Cycles\"\
+        >Argentina Month-By-Month Crop Cycle</a>\n        \t<a href=\"../Paraguay-Bolivia-Crop-Acreage\"\
+        >Paraguay and Bolivia Crop Acreage</a>\n        </div>\n    </li>\n\t<li><a\
+        \ onmouseover=\"mopen('m3')\" onmouseout=\"mclosetime()\">PhotoGallery</a>\n\
+        \        <div id=\"m3\" onmouseover=\"mcancelclosetime()\" onmouseout=\"mclosetime()\"\
+        >\n        \t<a href=\"../Photo-Gallery-1/1\">Classic Brazilian Photos</a>\n\
+        \        \t<a href=\"../Photo-Gallery-2/1\">Photos of Brazilian Ag 2010</a>\n\
+        \        \t<a href=\"../Photo-Gallery-3/1\">Photos of Brazilian Ag 2011</a>\n\
+        \        </div>\n    </li>\n    \n    \n    <li><a onmouseover=\"mopen('m4')\"\
+        \ onmouseout=\"mclosetime()\">Brazilian Biofuels</a>\n        <div id=\"m4\"\
+        \ onmouseover=\"mcancelclosetime()\" onmouseout=\"mclosetime()\">\n      \
+        \  \t<a href=\"../Brazil-Sugarcane-Ethanol-Industries\">Brazil Sugarcane and\
+        \ Ethanol Industries</a>\n        \t<a href=\"../Brazil-US-Ethanol-Production\"\
+        >Brazil vs. U.S. Ethanol</a>\n        \t<a href=\"../How-Brazil-Created-The-International-Ethanol-Boom\"\
+        >How Brazil Created The International Ethanol Boom</a>\n        \t<a href=\"\
+        ../Tri-Flex-Car\">Tri-Flex Car</a>\n        </div>\n    </li>\n    <li><a\
+        \ href=\"../Frequently-Asked-Questions\">FAQ</a></li>\n\t<li><a href=\"../Contact-Us\"\
+        >Contact Us</a></li>\n</ul>\n</div>\n<div style=\"clear:both\"></div>\n\r\n\
+        \    \r\n\t<div id=\"pics\">\r\n\t\t\r\n\t</div>\r\n    <div id=\"content\"\
+        >\r\n      <div id=\"section\">\r\n\t  \t\t\n<a href=\"../News\">Back</a><br/>\n\
+        <h5>November 9, 2020\n</h5>\n<h3>Brazil Importing U.S. Soybeans\n</h3>\n<h5>Author:\
+        \  Michael Cordonnier/Soybean & Corn Advisor, Inc.</h5>\n<p>\n\tBrazil is\
+        \ the world's largest producer and exporter of soybeans and yet it was announced\
+        \ last week that Brazil is importing soybeans from the United States to meet\
+        \ domestic demands.  A maritime agency announced last week that a vessel was\
+        \ being loaded in Louisiana with 38,000 tons of soybeans destined to arrive\
+        \ at the Port of Paranagua in southern Brazil on November 20th.  There are\
+        \ additional reports of more sales of U.S. soybeans to Brazil.\n</p>\n<p>\n\
+        \tThese sales already represent the largest since 1997 when Brazil imported\
+        \ more than 600,000 tons of U.S. soybeans.  These imports have occurred after\
+        \ the Brazilian government temporarily suspended the 8% tariff for grain imported\
+        \ from non-Mercosul countries.  The suspension will remain in place for soybeans\
+        \ until January 15th and for corn until March 31st.\n</p>\n<p>\n\tThere were\
+        \ concerns that it would be difficult to import soybeans into Brazil because\
+        \ bulk shipments of soybeans from then U.S. might contain GMO soybean varieties\
+        \ that have not been approved in Brazil.  That issue was resolved when the\
+        \ Brazilian Minister of Agriculture issued a decree that Brazil would accept\
+        \ GMO varieties approved in the U.S.\n</p>\n<p>\n\tDomestic soybean prices\
+        \ in Brazil are at record high levels due to the very tight domestic supplies.\
+        \  Brazil exported record amounts of soybeans earlier this year due to a 35%\
+        \ devaluation of the Brazilian currency which made Brazilian soybeans very\
+        \ competitive in the world market.  Additionally, China focused their attention\
+        \ on Brazilian soybeans in the midst of a trade dispute with the U.S.  Of\
+        \ the soybeans imported by China between April and September of this year,\
+        \ 86% was from Brazil.\n</p>\n<p>\n\tThe start of the 2020/21 soybean planting\
+        \ in Brazil was delayed due to dry weather, so that means the soybean harvest\
+        \ will be delayed as well.  As a result, there may be additional imports of\
+        \ U.S. soybeans into Brazil enabling crushers to keep operating until the\
+        \ Brazilian soybean harvest starts next February.\n\t</p>\n\n\t\t</div>\r\n\
+        \    </div>\r\n    <div id=\"footer\">\r\n      <h1>Copyright Soybean and\
+        \ Corn Advisor, Inc. 2009-2020</h1>\r\n    </div>\r\n  </div>      \r\n\t\
+        <script type=\"text/javascript\">\r\n\t\tvar gaJsHost = ((\"https:\" == document.location.protocol)\
+        \ ? \"https://ssl.\" : \"http://www.\");\r\n\t\tdocument.write(unescape(\"\
+        %3Cscript src='\" + gaJsHost + \"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E\"\
+        ));\r\n\t</script>\r\n\t<script type=\"text/javascript\">\r\n\t\ttry {\r\n\
+        \t\t\tvar pageTracker = _gat._getTracker(\"UA-3543383-2\");\r\n\t\t\tpageTracker._trackPageview();\r\
+        \n\t\t} catch(err) {}</script>                               \r\n</body> \
+        \                                      \r\n</html>                       \
+        \                \r\n"
+    headers:
+      Cache-Control:
+      - no-cache
+      Connection:
+      - Keep-Alive
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Sun, 06 Dec 2020 16:28:36 GMT
+      Keep-Alive:
+      - timeout=5, max=100
+      Pragma:
+      - no-cache
+      Server:
+      - PasteWSGIServer/0.5 Python/2.7.6
+      Vary:
+      - Accept-Encoding
+      content-length:
+      - '8125'
+    status:
+      code: 200
+      message: OK
+version: 1

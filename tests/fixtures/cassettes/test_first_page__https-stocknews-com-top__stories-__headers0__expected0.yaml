@@ -1,0 +1,1579 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - stocknews.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://stocknews.com/top-stories/
+  response:
+    body:
+      string: "<!doctype html>\n<!--[if lt IE 7 ]> <html class=\"no-js ie6\" lang=\"\
+        en-US\"> <![endif]-->\n<!--[if IE 7 ]>    <html class=\"no-js ie7\" lang=\"\
+        en-US\"> <![endif]-->\n<!--[if IE 8 ]>    <html class=\"no-js ie8\" lang=\"\
+        en-US\"> <![endif]-->\n<!--[if (gte IE 9)|!(IE)]><!--> <html class=\"no-js\"\
+        \ lang=\"en-US\"> <!--<![endif]-->\n<head><style>@supports (-webkit-overflow-scrolling:touch){}@supports\
+        \ ((position:-webkit-sticky) or (position:sticky)){}@supports ((position:-webkit-sticky)\
+        \ or (position:sticky)){}@supports ((position:-webkit-sticky) or (position:sticky)){}@supports\
+        \ ((position:-webkit-sticky) or (position:sticky)){}@media (min-width:600px){@supports\
+        \ (-ms-ime-align:auto){}@supports (-ms-ime-align:auto){}@supports (-ms-ime-align:auto){}@supports\
+        \ (-ms-ime-align:auto){}@supports (-ms-ime-align:auto){}@supports (-ms-ime-align:auto){}}@supports\
+        \ ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none){}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;line-height:.68;font-weight:100;margin:.05em\
+        \ .1em 0 0;text-transform:uppercase;font-style:normal}@supports ((position:-webkit-sticky)\
+        \ or (position:sticky)){}   small { font-size: 85%; } .text-center { text-align:\
+        \ center; } .text-right { text-align: right; } .img-rounded { -webkit-border-radius:\
+        \ 6px; -moz-border-radius: 6px; border-radius: 6px; }  hr { background:#ddd;\
+        \ border:none; clear:both; color:#ddd; float:none; height:.1em; margin:0 0\
+        \ 1.45em; width:100%; }  html {  } body { }  p { word-wrap:break-word; } em\
+        \ { font-style:italic; } strong { font-weight:700; } small { font-size:85%;\
+        \ }  img { height:auto; max-width:100%; } input { cursor:pointer; } input:focus\
+        \ { background:#fff; } input[type='text'] { cursor:text; }  table {   width:100%;\
+        \ } th, td {   }  ul { list-style-type:disc; } ul ul { list-style-type:square;\
+        \ }   hr, p, ul, table, form { } h1 {  } h3 {  } th, td { } input {  } a {\
+        \  } ul {  } form div {  }  #footer { clear:both; padding:10px 20px 0 20px;\
+        \   } #footer-wrapper { margin:0; padding:0; } #content { margin-bottom:20px;\
+        \ }   .post-meta { clear:both; color:#9f9f9f; font-size:13px; margin-bottom:10px;\
+        \ } .post-meta a { padding-right: 5px; } #footer { } #footer a { } #footer\
+        \ a:hover { } .clearfix:after { clear:both; content:\"\\0020\"; display:block;\
+        \ height:0; max-height:0; overflow:hidden; visibility:hidden; } .clearfix\
+        \ { display:inline-block; } *html .clearfix { height:1%; } .clearfix { display:block;\
+        \ }   @media print {   h1 {   page-break-before:always;   }   h1, h3 {   page-break-after:avoid;\
+        \   }   ul {   page-break-before:avoid;   } } @media screen and (max-width:\
+        \ 980px) {   body {   }   #footer{   } } @media (min-width: 768px) {  #logo\
+        \ {  float: left; margin-right: 5px; margin-left: -15px; }  } @media screen\
+        \ and (max-width: 650px) {   body {   } #footer {   text-align:center;  }\
+        \ } @media screen and (max-width: 480px) {   body {   } #footer {   text-align:center;\
+        \   } } html {   font-family: sans-serif;   -webkit-text-size-adjust: 100%;\
+        \   -ms-text-size-adjust: 100% } body {   margin: 0 } article, footer, header,\
+        \ nav, section {   display: block } a {   background-color: transparent }\
+        \ a:active, a:hover {   outline: 0 } strong {   font-weight: 700 } h1 {  \
+        \ margin: .67em 0;   font-size: 2em } small {   font-size: 80% } img {   border:\
+        \ 0 } hr {   height: 0;   -webkit-box-sizing: content-box;   -moz-box-sizing:\
+        \ content-box;   box-sizing: content-box } button, input {   margin: 0;  \
+        \ font: inherit;   color: inherit } button {   overflow: visible } button\
+        \ {   text-transform: none } button {   -webkit-appearance: button;   cursor:\
+        \ pointer } button::-moz-focus-inner, input::-moz-focus-inner {   padding:\
+        \ 0;   border: 0 } input {   line-height: normal } table {   border-spacing:\
+        \ 0;   border-collapse: collapse } td, th {   padding: 0 } @media print {\
+        \   *,   :after,   :before {  color: #000!important;  text-shadow: none!important;\
+        \  background: 0 0!important;  -webkit-box-shadow: none!important;  box-shadow:\
+        \ none!important   }   a,   a:visited {  text-decoration: underline   }  \
+        \ a[href]:after {  content: \" (\" attr(href) \")\"   }   a[href^=\"#\"]:after\
+        \ {  content: \"\"   }   thead {  display: table-header-group   }   img, \
+        \  tr {  page-break-inside: avoid   }   img {  max-width: 100%!important \
+        \  }   h3,   p {  orphans: 3;  widows: 3   }   h3 {  page-break-after: avoid\
+        \   }   .navbar {  display: none   }   .table {  border-collapse: collapse!important\
+        \   }   .table td,   .table th {  background-color: #fff!important   } } \
+        \ .glyphicon {   position: relative;   top: 1px;   display: inline-block;\
+        \   font-family: 'Glyphicons Halflings';   font-style: normal;   font-weight:\
+        \ 400;   line-height: 1;   -webkit-font-smoothing: antialiased;   -moz-osx-font-smoothing:\
+        \ grayscale } .glyphicon-lock:before {   content: \"\\e033\" } .glyphicon-chevron-left:before\
+        \ {   content: \"\\e079\" } .glyphicon-question-sign:before {   content: \"\
+        \\e085\" } * {   -webkit-box-sizing: border-box;   -moz-box-sizing: border-box;\
+        \   box-sizing: border-box } :after, :before {   -webkit-box-sizing: border-box;\
+        \   -moz-box-sizing: border-box;   box-sizing: border-box } html {   font-size:\
+        \ 10px;   -webkit-tap-highlight-color: rgba(0, 0, 0, 0) } body {   font-family:\
+        \ \"Helvetica Neue\", Helvetica, Arial, sans-serif;   font-size: 14px;   line-height:\
+        \ 1.42857143;   color: #333;   background-color: #fff } button, input {  \
+        \ font-family: inherit;   font-size: inherit;   line-height: inherit } a {\
+        \   color: #337ab7;   text-decoration: none } a:focus, a:hover {   color:\
+        \ #23527c;   text-decoration: underline } a:focus {   outline: thin dotted;\
+        \   outline: 5px auto -webkit-focus-ring-color;   outline-offset: -2px } img\
+        \ {   vertical-align: middle } .img-rounded {   border-radius: 6px } hr {\
+        \   margin-top: 20px;   margin-bottom: 20px;   border: 0;   border-top: 1px\
+        \ solid #eee } .sr-only {   position: absolute;   width: 1px;   height: 1px;\
+        \   padding: 0;   margin: -1px;   overflow: hidden;   clip: rect(0, 0, 0,\
+        \ 0);   border: 0 } h1, h3 {   font-family: inherit;   font-weight: 500; \
+        \  line-height: 1.1;   color: inherit } h1, h3 {   margin-top: 20px;   margin-bottom:\
+        \ 10px } h1 {   font-size: 36px } h3 {   font-size: 24px } p {   margin: 0\
+        \ 0 30px } small {   font-size: 85% } .text-right {   text-align: right }\
+        \ .text-center {   text-align: center } ul {   margin-top: 0;   margin-bottom:\
+        \ 10px } ul ul {   margin-bottom: 0 } .container {   padding-right: 15px;\
+        \   padding-left: 15px;   margin-right: auto;   margin-left: auto } @media\
+        \ (min-width:768px) {   .container {  width: 750px   } } @media (min-width:992px)\
+        \ {   .container {  width: 970px   } } @media (min-width:1200px) {   .container\
+        \ {  width: 1170px   } } .container-fluid {   padding-right: 15px;   padding-left:\
+        \ 15px;   margin-right: auto;   margin-left: auto } .row {   margin-right:\
+        \ -15px;   margin-left: -15px } .col-lg-4, .col-lg-6, .col-lg-8, .col-md-5,\
+        \ .col-md-6, .col-md-7, .col-sm-6 {   position: relative;   min-height: 1px;\
+        \   padding-right: 15px;   padding-left: 15px } @media (min-width:768px) {\
+        \   .col-sm-6 {  float: left   }   .col-sm-6 {  width: 50%   } } @media (min-width:992px)\
+        \ {   .col-md-5,   .col-md-6,   .col-md-7 {  float: left   }   .col-md-7 {\
+        \  width: 58.33333333%   }   .col-md-6 {  width: 50%   }   .col-md-5 {  width:\
+        \ 41.66666667%   } } @media (min-width:1200px) {   .col-lg-4,   .col-lg-6,\
+        \   .col-lg-8 {  float: left   }   .col-lg-8 {  width: 66.66666667%   }  \
+        \ .col-lg-6 {  width: 50%   }   .col-lg-4 {  width: 33.33333333%   } } table\
+        \ {   background-color: transparent } th {   text-align: left } .table { \
+        \  width: 100%;   max-width: 100%;   margin-bottom: 20px } .table>tbody>tr>td,\
+        \ .table>thead>tr>th {   padding: 8px;   line-height: 1.42857143;   vertical-align:\
+        \ top;   border-top: 1px solid #ddd } .table>thead>tr>th {   vertical-align:\
+        \ bottom;   border-bottom: 2px solid #ddd } .table>thead:first-child>tr:first-child>th\
+        \ {   border-top: 0 } .table-striped>tbody>tr:nth-of-type(odd) {   background-color:\
+        \ #f9f9f9 } .form-control {   display: block;   width: 100%;   height: 34px;\
+        \   padding: 6px 12px;   font-size: 14px;   line-height: 1.42857143;   color:\
+        \ #555;   background-color: #fff;   background-image: none;   border: 1px\
+        \ solid #ccc;   border-radius: 4px;   -webkit-box-shadow: inset 0 1px 1px\
+        \ rgba(0, 0, 0, .075);   box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);\
+        \   -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow\
+        \ ease-in-out .15s;   -o-transition: border-color ease-in-out .15s, box-shadow\
+        \ ease-in-out .15s;   transition: border-color ease-in-out .15s, box-shadow\
+        \ ease-in-out .15s } .form-control:focus {   border-color: #66afe9;   outline:\
+        \ 0;   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(102,\
+        \ 175, 233, .6);   box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px\
+        \ rgba(102, 175, 233, .6) } .form-control::-moz-placeholder {   color: #999;\
+        \   opacity: 1 } .form-control:-ms-input-placeholder {   color: #999 } .form-control::-webkit-input-placeholder\
+        \ {   color: #999 } .btn {   display: inline-block;   padding: 6px 12px; \
+        \  margin-bottom: 0;   font-size: 14px;   font-weight: 400;   line-height:\
+        \ 1.42857143;   text-align: center;   white-space: nowrap;   vertical-align:\
+        \ middle;   -ms-touch-action: manipulation;   touch-action: manipulation;\
+        \   cursor: pointer;   -webkit-user-select: none;   -moz-user-select: none;\
+        \   -ms-user-select: none;   user-select: none;   background-image: none;\
+        \   border: 1px solid transparent;   border-radius: 4px } .btn:active:focus,\
+        \ .btn:focus {   outline: thin dotted;   outline: 5px auto -webkit-focus-ring-color;\
+        \   outline-offset: -2px } .btn:focus, .btn:hover {   color: #333;   text-decoration:\
+        \ none } .btn:active {   background-image: none;   outline: 0;   -webkit-box-shadow:\
+        \ inset 0 3px 5px rgba(0, 0, 0, .125);   box-shadow: inset 0 3px 5px rgba(0,\
+        \ 0, 0, .125) } .btn-default {   color: #333;   background-color: #fff;  \
+        \ border-color: #ccc } .btn-default:active, .btn-default:focus, .btn-default:hover\
+        \ {   color: #333;   background-color: #e6e6e6;   border-color: #adadad }\
+        \ .btn-default:active {   background-image: none } .btn-success {   color:\
+        \ #fff;   background-color: #5cb85c;   border-color: #4cae4c } .btn-success:active,\
+        \ .btn-success:focus, .btn-success:hover {   color: #fff;   background-color:\
+        \ #449d44;   border-color: #398439 } .btn-success:active {   background-image:\
+        \ none } .btn-warning {   color: #fff;   background-color: #f0ad4e;   border-color:\
+        \ #eea236 } .btn-warning:active, .btn-warning:focus, .btn-warning:hover {\
+        \   color: #fff;   background-color: #ec971f;   border-color: #d58512 } .btn-warning:active\
+        \ {   background-image: none } .collapse {   display: none } .caret {   display:\
+        \ inline-block;   width: 0;   height: 0;   margin-left: 2px;   vertical-align:\
+        \ middle;   border-top: 4px dashed;   border-right: 4px solid transparent;\
+        \   border-left: 4px solid transparent } .dropdown {   position: relative\
+        \ } .dropdown-toggle:focus {   outline: 0 } .dropdown-menu {   position: absolute;\
+        \   top: 100%;   left: 0;   z-index: 1000;   display: none;   float: left;\
+        \   min-width: 160px;   padding: 5px 0;   margin: 2px 0 0;   font-size: 14px;\
+        \   text-align: left;   list-style: none;   background-color: #fff;   -webkit-background-clip:\
+        \ padding-box;   background-clip: padding-box;   border: 1px solid #ccc; \
+        \  border: 1px solid rgba(0, 0, 0, .15);   border-radius: 4px;   -webkit-box-shadow:\
+        \ 0 6px 12px rgba(0, 0, 0, .175);   box-shadow: 0 6px 12px rgba(0, 0, 0, .175)\
+        \ } .dropdown-menu>li>a {   display: block;   padding: 3px 20px;   clear:\
+        \ both;   font-weight: 400;   line-height: 1.42857143;   color: #333;   white-space:\
+        \ nowrap } .dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {   color:\
+        \ #262626;   text-decoration: none;   background-color: #f5f5f5 } .input-group\
+        \ {   position: relative;   display: table;   border-collapse: separate }\
+        \ .input-group .form-control {   position: relative;   z-index: 2;   float:\
+        \ left;   width: 100%;   margin-bottom: 0 } .input-group .form-control, .input-group-btn\
+        \ {   display: table-cell } .input-group-btn {   width: 1%;   white-space:\
+        \ nowrap;   vertical-align: middle } .input-group .form-control:first-child\
+        \ {   border-top-right-radius: 0;   border-bottom-right-radius: 0 } .input-group-btn:last-child>.btn\
+        \ {   border-top-left-radius: 0;   border-bottom-left-radius: 0 } .input-group-btn\
+        \ {   position: relative;   font-size: 0;   white-space: nowrap } .input-group-btn>.btn\
+        \ {   position: relative } .input-group-btn>.btn:active, .input-group-btn>.btn:focus,\
+        \ .input-group-btn>.btn:hover {   z-index: 2 } .input-group-btn:last-child>.btn\
+        \ {   margin-left: -1px } .nav {   padding-left: 0;   margin-bottom: 0;  \
+        \ list-style: none } .nav>li {   position: relative;   display: block } .nav>li>a\
+        \ {   position: relative;   display: block;   padding: 10px 15px } .nav>li>a:focus,\
+        \ .nav>li>a:hover {   text-decoration: none;   background-color: #eee } .navbar\
+        \ {   position: relative;   min-height: 50px;   margin-bottom: 20px;   border:\
+        \ 1px solid transparent } @media (min-width:768px) {   .navbar {  border-radius:\
+        \ 4px   } } @media (min-width:768px) {   .navbar-header {  float: left   }\
+        \ } .navbar-collapse {   padding-right: 15px;   padding-left: 15px;   overflow-x:\
+        \ visible;   -webkit-overflow-scrolling: touch;   border-top: 1px solid transparent;\
+        \   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .1);   box-shadow:\
+        \ inset 0 1px 0 rgba(255, 255, 255, .1) } @media (min-width:768px) {   .navbar-collapse\
+        \ {  width: auto;  border-top: 0;  -webkit-box-shadow: none;  box-shadow:\
+        \ none   }   .navbar-collapse.collapse {  display: block!important;  height:\
+        \ auto!important;  padding-bottom: 0;  overflow: visible!important   }   .navbar-static-top\
+        \ .navbar-collapse {  padding-right: 0;  padding-left: 0   } } .container-fluid>.navbar-collapse,\
+        \ .container-fluid>.navbar-header, .container>.navbar-collapse {   margin-right:\
+        \ -15px;   margin-left: -15px } @media (min-width:768px) {   .container-fluid>.navbar-collapse,\
+        \   .container-fluid>.navbar-header,   .container>.navbar-collapse {  margin-right:\
+        \ 0;  margin-left: 0   } } .navbar-static-top {   z-index: 1000;   border-width:\
+        \ 0 0 1px } @media (min-width:768px) {   .navbar-static-top {  border-radius:\
+        \ 0   } } .navbar-toggle {   position: relative;   float: right;   padding:\
+        \ 9px 10px;   margin-top: 8px;   margin-right: 15px;   margin-bottom: 8px;\
+        \   background-color: transparent;   background-image: none;   border: 1px\
+        \ solid transparent;   border-radius: 4px } .navbar-toggle:focus {   outline:\
+        \ 0 } @media (min-width:768px) {   .navbar-toggle {  display: none   } } .navbar-nav\
+        \ {   margin: 7.5px -15px } .navbar-nav>li>a {   padding-top: 10px;   padding-bottom:\
+        \ 10px;   line-height: 20px } @media (min-width:768px) {   .navbar-nav { \
+        \ float: left;  margin: 0   }   .navbar-nav>li {  float: left   }   .navbar-nav>li>a\
+        \ {  padding-top: 15px;  padding-bottom: 15px   } } .navbar-form {   padding:\
+        \ 10px 15px;   margin-top: 8px;   margin-right: -15px;   margin-bottom: 8px;\
+        \   margin-left: -15px;   border-top: 1px solid transparent;   border-bottom:\
+        \ 1px solid transparent;   -webkit-box-shadow: inset 0 1px 0 rgba(255, 255,\
+        \ 255, .1), 0 1px 0 rgba(255, 255, 255, .1);   box-shadow: inset 0 1px 0 rgba(255,\
+        \ 255, 255, .1), 0 1px 0 rgba(255, 255, 255, .1) } @media (min-width:768px)\
+        \ {   .navbar-form .form-control {  display: inline-block;  width: auto; \
+        \ vertical-align: middle   }   .navbar-form .input-group {  display: inline-table;\
+        \  vertical-align: middle   }   .navbar-form .input-group .form-control, \
+        \  .navbar-form .input-group .input-group-btn {  width: auto   }   .navbar-form\
+        \ .input-group>.form-control {  width: 100%   } } @media (min-width:768px)\
+        \ {   .navbar-form {  width: auto;  padding-top: 0;  padding-bottom: 0;  margin-right:\
+        \ 0;  margin-left: 0;  border: 0;  -webkit-box-shadow: none;  box-shadow:\
+        \ none   } } .navbar-nav>li>.dropdown-menu {   margin-top: 0;   border-top-left-radius:\
+        \ 0;   border-top-right-radius: 0 } .navbar-btn {   margin-top: 8px;   margin-bottom:\
+        \ 8px } @media (min-width:768px) {   .navbar-right {  float: right!important;\
+        \  margin-right: -15px   }   .navbar-right~.navbar-right {  margin-right:\
+        \ 0   } } .navbar-inverse {   background-color: #222;   border-color: #080808\
+        \ } .navbar-inverse .navbar-nav>li>a {   color: #9d9d9d } .navbar-inverse\
+        \ .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {   color:\
+        \ #fff;   background-color: transparent } .navbar-inverse .navbar-toggle {\
+        \   border-color: #333 } .navbar-inverse .navbar-toggle:focus, .navbar-inverse\
+        \ .navbar-toggle:hover {   background-color: #333 } .navbar-inverse .navbar-collapse,\
+        \ .navbar-inverse .navbar-form {   border-color: #101010 } .panel {   margin-bottom:\
+        \ 20px;   background-color: #fff;   border: 1px solid transparent;   border-radius:\
+        \ 4px;   -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);   box-shadow: 0\
+        \ 1px 1px rgba(0, 0, 0, .05) } .panel>.table {   margin-bottom: 0 } .panel>.table:first-child\
+        \ {   border-top-left-radius: 3px;   border-top-right-radius: 3px } .panel>.table:first-child>thead:first-child>tr:first-child\
+        \ {   border-top-left-radius: 3px;   border-top-right-radius: 3px } .panel>.table:first-child>thead:first-child>tr:first-child\
+        \ th:first-child {   border-top-left-radius: 3px } .panel>.table:first-child>thead:first-child>tr:first-child\
+        \ th:last-child {   border-top-right-radius: 3px } .panel>.table:last-child\
+        \ {   border-bottom-right-radius: 3px;   border-bottom-left-radius: 3px }\
+        \ .panel>.table:last-child>tbody:last-child>tr:last-child {   border-bottom-right-radius:\
+        \ 3px;   border-bottom-left-radius: 3px } .panel>.table:last-child>tbody:last-child>tr:last-child\
+        \ td:first-child {   border-bottom-left-radius: 3px } .panel>.table:last-child>tbody:last-child>tr:last-child\
+        \ td:last-child {   border-bottom-right-radius: 3px } .panel-default {   border-color:\
+        \ #ddd } .clearfix:after, .clearfix:before, .container-fluid:after, .container-fluid:before,\
+        \ .container:after, .container:before, .nav:after, .nav:before, .navbar-collapse:after,\
+        \ .navbar-collapse:before, .navbar-header:after, .navbar-header:before, .navbar:after,\
+        \ .navbar:before, .row:after, .row:before {   display: table;   content: \"\
+        \ \" } .clearfix:after, .container-fluid:after, .container:after, .nav:after,\
+        \ .navbar-collapse:after, .navbar-header:after, .navbar:after, .row:after\
+        \ {   clear: both } .pull-left {   float: left!important } @-ms-viewport {\
+        \   width: device-width } @media (max-width:767px) {   .hidden-xs {  display:\
+        \ none!important   } } @media (min-width:768px)and (max-width:991px) {   .hidden-sm\
+        \ {  display: none!important   } } @media (min-width:992px)and (max-width:1199px)\
+        \ {   .hidden-md {  display: none!important   } } @media (min-width:1200px)\
+        \ {   .hidden-lg {  display: none!important   } }  button::-moz-focus-inner\
+        \ {  padding: 0;  border: 0; }   @media screen and (max-width: 800px) and\
+        \ (orientation: landscape), screen and (max-height: 300px) { }  body {  background:\
+        \ #f0f0f0;   font-family: 'Open Sans', sans-serif;  font-size: 16px !important;\
+        \  background: #fff; } h1,h3{  font-family: 'Open Sans', sans-serif;  font-weight:normal;\
+        \  line-height:1.1;  color:inherit } h1 {  font-weight: 600; } h3 {  font-weight:\
+        \ 400; } article {  background: #fff;  padding-bottom: 10px; } .post-meta\
+        \ {  padding-left: 20px;  padding-right: 20px; } .btn {  font-family:\"Raleway\"\
+        ,\"Helvetica Neue\",Helvetica,Arial,sans-serif; } .btn-default {  background:\
+        \ #f0f0f0; } #logo {  padding-top: 7px;  padding-left: 10px; } .navbar, .navbar-inverse\
+        \ {  margin-bottom: 0 !important;  border:none; } .post-meta {  letter-spacing:\
+        \ 1px;  font-weight: bold;  color:#333; } .post-meta a {  color:#777; } hr\
+        \ {  border-top: 1px solid #ddd; }  .light-gray {  color: #ddd; } .medium-gray\
+        \ {  color: #999; } .white {  color: #fff !important; } .black {  color: #000;\
+        \ } #footer {  color: #999; } .margin-top {  margin-top: 25px !important;\
+        \ } .margin-bottom {  margin-bottom: 25px !important; } .bold {  font-weight:\
+        \ bold !important; } .zero-margins {  padding: 0 !important;  margin: 0 !important;\
+        \ }   .grade-locked {  background: #f2b658 !important;  text-shadow: none;\
+        \ } .grade-locked a {  color: #fff !important; } .grade-1 {  background:#00fd00\
+        \ !important; } .bb-2 {  border-left:10px solid #666; }  .pad-left {  padding-left:\
+        \ 10px !important; } .zero-padding {  padding: 0 !important; } .pad-top {\
+        \  padding-top: 10px !important; } .pad-bot {  padding-bottom: 10px !important;\
+        \ } .pad-bottom {  padding-bottom: 20px !important; } .pad-right {  padding-right:15px;\
+        \ } .width-full {  display: block;  width:100% !important; } .fourteen { \
+        \ font-size:14px; }  table.simple tr th {  border-bottom:1px solid #ddd; \
+        \ border-top:none;  font-weight: normal !important; } table.simple tr td {\
+        \ } table.table-movers th {   border-bottom: 1px solid #e1e1e1; } @table-bg-accent:\
+        \ #f0f0f0; @media only screen and (max-width: 768px) {  } table.table-movers\
+        \ thead {  background:#f6f6f6 !important;  color:#000 !important;  border-bottom:1px\
+        \ solid #e1e1e1 !important;  font-weight: normal !important; }   .social-wrapper\
+        \ {  opacity: 0.7; } .btn-twitter {   background: #00acee;   border-radius:\
+        \ 0;   color: #fff } .btn-twitter:link, .btn-twitter:visited {   color: #fff\
+        \ } .btn-twitter:active, .btn-twitter:hover {   background: #0087bd;   color:\
+        \ #fff } .btn-facebook {   background: #3b5998;   border-radius: 0;   color:\
+        \ #fff } .btn-facebook:link, .btn-facebook:visited {   color: #fff } .btn-facebook:active,\
+        \ .btn-facebook:hover {   background: #30477a;   color: #fff } .btn-linkedin\
+        \ {   background: #0e76a8;   border-radius: 0;   color: #fff } .btn-linkedin:link,\
+        \ .btn-linkedin:visited {   color: #fff } .btn-linkedin:active, .btn-linkedin:hover\
+        \ {   background: #0b6087;   color: #fff }   @media screen and (min-width:\
+        \ 768px) {  #logo {   margin-left: -7px;  } }   input {  cursor: auto !important;\
+        \ } @media (max-width: 767px) {  .nav > li > a:hover, .nav > li > a:focus\
+        \  { background:none; border:none;  }  .sm-logo {   padding-left: 15px;  }\
+        \  .sm-margin-top {   margin-top: 15px;  } }  @media (max-width: 991px) {\
+        \  .navbar-header { float: none;  }  .navbar-toggle { display: block;  } \
+        \ .navbar-collapse { border-top: 1px solid transparent; box-shadow: inset\
+        \ 0 1px 0 rgba(255,255,255,0.1);  }  .navbar-collapse.collapse { display:\
+        \ none!important;  }  .navbar-nav { float: none!important; margin: 7.5px -15px;\
+        \  }  .navbar-nav>li { float: none;  }  .navbar-nav>li>a { padding-top: 10px;\
+        \ padding-bottom: 10px;  }  }  .wrapper {  background-color: transparent;\
+        \  border: none;  margin: 0 auto 20px auto;  padding: 0; } @media only screen\
+        \ and (max-width: 992px) {  .sm-margin-top {   margin-top: 15px;  } } @media\
+        \ only screen and (max-width: 768px) {  .no-mobile-pull {   float: none !important;\
+        \  }  .margin-top-mobile {   margin-top: 25px !important;  } } a {  color:\
+        \ #0028b5; } a:hover {  color: #1032ee; } .three-hundo {  width: 300px;  height:\
+        \ auto; } .overflow-fix {  overflow: hidden; }  @media (min-width: 768px)\
+        \ {  .navbar.navbar-lower .navbar-nav { } }  .dropdown:hover .dropdown-menu\
+        \ {  display: block; } .navbar .dropdown-menu {  margin-top: 0; }  .headerstick\
+        \ { position: fixed; z-index: 999; margin-left:auto; margin-right:auto; width:100%;\
+        \ margin-top: 0 !important; } .table td,.table th{box-sizing:border-box}.table\
+        \ td,.table th{vertical-align:middle} </style>\n\n<!--Session Page view: \
+        \ -->\n<meta charset=\"UTF-8\" />\n<meta name=\"viewport\" content=\"width=device-width,\
+        \ user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0\"\
+        >\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\" />\n\
+        <meta name=\"google-site-verification\" content=\"DaNWVY0maeaUOhfiAFFy8wvW4ukJs_U0JDO8am8J-ps\"\
+        \ />\n\n<title>Top Stock News Stories --  Page 1.</title>\n<!--| StockNews.com-->\n\
+        <link rel=\"icon\" type=\"image/png\" href=\"\" />\n\n<link rel=\"amphtml\"\
+        \ href=\"https://stocknews.com/top-stories/amp/\" /><meta name=\"generator\"\
+        \ content=\"AMP for WP 1.0.68.1\"/><link rel='dns-prefetch' href='//www.google.com'\
+        \ />\n<link rel='dns-prefetch' href='//s.w.org' />\n<meta name=\"description\"\
+        \ content=\"View our in-depth articles about the biggest news that\u2019s\
+        \ moving the markets right now.\"/>\n\t\t<script type=\"lazyload_ext\">\n\t\
+        \t\twindow._wpemojiSettings = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\\
+        /core\\/emoji\\/12.0.0-1\\/72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\\
+        /\\/s.w.org\\/images\\/core\\/emoji\\/12.0.0-1\\/svg\\/\",\"svgExt\":\".svg\"\
+        ,\"source\":{\"concatemoji\":\"https:\\/\\/stocknews.com\\/wp-includes\\/js\\\
+        /wp-emoji-release.min.js\"}};\n\t\t\t/*! This file is auto-generated */\n\t\
+        \t\t!function(e,a,t){var r,n,o,i,p=a.createElement(\"canvas\"),s=p.getContext&&p.getContext(\"\
+        2d\");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var\
+        \ r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function\
+        \ l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline=\"top\",s.font=\"\
+        600 32px Arial\",e){case\"flag\":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case\"\
+        emoji\":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function\
+        \ d(e){var t=a.createElement(\"script\");t.src=e,t.defer=t.type=\"text/javascript\"\
+        ,a.getElementsByTagName(\"head\")[0].appendChild(t)}for(i=Array(\"flag\",\"\
+        emoji\"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],\"\
+        flag\"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener(\"\
+        DOMContentLoaded\",n,!1),e.addEventListener(\"load\",n,!1)):(e.attachEvent(\"\
+        onload\",n),a.attachEvent(\"onreadystatechange\",function(){\"complete\"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);\n\
+        \t\t</script>\n\t\t<style>\nimg.wp-smiley,\nimg.emoji {\n\tdisplay: inline\
+        \ !important;\n\tborder: none !important;\n\tbox-shadow: none !important;\n\
+        \theight: 1em !important;\n\twidth: 1em !important;\n\tmargin: 0 .07em !important;\n\
+        \tvertical-align: -0.1em !important;\n\tbackground: none !important;\n\tpadding:\
+        \ 0 !important;\n}\n</style>\n\t\n\n\n\n\n<link rel='stylesheet' id='font-awesome-css'\
+        \  href=\"data:text/css;charset=utf-8;base64,LypibGFuayov\" data-href='https://stocknews.com/wp-content/themes/strappress/css/font-awesome.min.css'\
+        \ type='text/css' media='all' />\n\n<link rel=\"stylesheet\" href=\"data:text/css;charset=utf-8;base64,LypibGFuayov\"\
+        \ data-href=\"https://stocknews.com/wp-content/cache/wnw-cache/all-css/d14fd6e8c628fe10d3299400e0c0ce7a.css\"\
+        \ />\n\n\n<script src=\"https://stocknews.com/wp-content/themes/strappress/js/responsive-modernizr.js\"\
+        \ ></script>\n\n\n<link rel='https://api.w.org/' href='https://stocknews.com/wp-json/'\
+        \ />\n<link rel=\"alternate\" type=\"application/json+oembed\" href=\"https://stocknews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstocknews.com%2Ftop-stories%2F\"\
+        \ />\n<link rel=\"alternate\" type=\"text/xml+oembed\" href=\"https://stocknews.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstocknews.com%2Ftop-stories%2F&#038;format=xml\"\
+        \ />\n<meta name=\"framework\" content=\"Redux 4.1.23\" />    <script type=\"\
+        lazyload_ext\">\n    // <![CDATA[\n    jQuery(document).ready(function($){\n\
+        \        $(\"a[rel='magnific']\").magnificPopup({\n                type:'image'\n\
+        \        });\n    });  \n    // ]]>\n    </script>\n\t\t<style id=\"wp-custom-css\"\
+        >\n\t\t\t@media (max-width:1199px) and (min-width:992px) {\n    .responsive_head_fix\
+        \ {\n        margin-top: 65px;\n    }\n}\n\n.mobileShow {\n  display: none;\n\
+        }\n\n/* full width of parent */\n.mobileShow img{\n    width: 100%;\n}\n\n\
+        /* Smartphone Portrait and Landscape */\n@media only screen and (min-device-width:\
+        \ 320px) and (max-device-width: 480px) {\n  .mobileShow {\n    /*position:\
+        \ fixed; bottom: 0;z-index: 111;display:block;left:10%;padding-bottom:12px;*/\n\
+        \    max-width:320px;\n    width:90%;\n    position: fixed;\n    bottom:0;\n\
+        \    z-index:111;\n    display:block;\n    left:0;\n    padding-bottom:12px;\n\
+        \    right:0;\n    margin:0 auto;\n\n  }\n}\n.close_btn::before\n{\ncontent:\
+        \ '\u2716';\n  color: #000;\n  font-weight: 600;\n  font-family: Arial, sans-serif;\n\
+        \  float:right;\n  opacity: 0.5;\n  font-size:10px;\n}\t\t</style>\n\t\t\n\
+        \n<!-- Respond.js IE8 support of HTML5 elements and media queries -->\n  \
+        \  <!--[if lt IE 9]>\n      <script src=\"https://stocknews.com/wp-content/themes/strappress/js/respond.min.js\"\
+        ></script>\n<![endif]-->\n\n<link rel=\"stylesheet\" href=\"data:text/css;charset=utf-8;base64,LypibGFuayov\"\
+        \ data-href=\"https://stocknews.com/wp-content/cache/wnw-cache/all-css/a17e1639349ea0d738b93844e11b6863.css\"\
+        \ />\n\n<!--\n<script src=\"//ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js\"\
+        ></script>\n-->\n\n\n\n\n<link rel=\"stylesheet\" href=\"data:text/css;charset=utf-8;base64,LypibGFuayov\"\
+        \ data-href=\"https://stocknews.com/wp-content/cache/wnw-cache/all-css/ad4ded43a5d153d639c31ad8ffcc008f.css\"\
+        \ />\n\n\n\n<!--\n<script src=\"//ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js\"\
+        ></script>\n-->\n\n\n\n\n\n\n\n\n<script type=\"lazyload\">\n  jQuery(document).ready(function($){\n\
+        \    $('a.sn_pop').on('click', function(e) {e.preventDefault(); return true;});\n\
+        \    $( \".ticker-search\" ).autocomplete({\n      source: '//stocknews.com/wp-content/themes/strappress-child/autocomplete-search.php',\n\
+        \      minLength: 1,\n      focus: function( event, ui ) {\n        $( \"\
+        .ticker-search\" ).val( ui.item.label );\n        return false;\n      },\n\
+        \      select: function (event, ui) {\n            window.location = \"/stock/\"\
+        +ui.item.value+\"/\";\n        }\n    })\n    .autocomplete( \"instance\"\
+        \ )._renderItem = function( ul, item ) {\n      return $( \"<li>\" )\n   \
+        \     .append( '<a href=\"/stock/'+item.value+'/\"><strong class=\"sixteen\"\
+        >' + item.label + '</strong><br><span class=\"medium-gray\">' + item.desc\
+        \ + '</span></a>' )\n        .appendTo( ul );\n    };\n    $( \".ticker-search-big\"\
+        \ ).autocomplete({\n      source: '//stocknews.com/wp-content/themes/strappress-child/autocomplete-search.php',\n\
+        \      minLength: 1,\n      focus: function( event, ui ) {\n        $( \"\
+        .ticker-search\" ).val( ui.item.label );\n        return false;\n      },\n\
+        \      select: function (event, ui) {\n            window.location = \"/stock/\"\
+        +ui.item.value+\"/\";\n        }\n    })\n    .autocomplete( \"instance\"\
+        \ )._renderItem = function( ul, item ) {\n      return $( \"<li>\" )\n   \
+        \     .append( '<a href=\"/stock/'+item.value+'/\"><strong class=\"sixteen\"\
+        >' + item.label + '</strong><br><span class=\"medium-gray\">' + item.desc\
+        \ + '</span></a>' )\n        .appendTo( ul );\n    };\n\n  });\n</script>\n\
+        <script type=\"lazyload_ext\">\n\tjQuery(document).ready(function($){\n\t\t\
+        $('[data-toggle=\"popover\"]').popover({html: true, trigger: 'focus'});\n\t\
+        });\n</script>\n\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n\
+        \  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n\
+        \  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n\
+        \  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\
+        \n  ga('create', 'UA-64545224-1', 'auto');\n  ga('send', 'pageview');\n</script>\n\
+        \n\n\n\n\n\n\n\n<!-- Google Tag Manager -->\n<script type=\"lazyload_ext\"\
+        async=\"\">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew\
+        \ Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n\
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n\
+        })(window,document,'script','dataLayer','GTM-MR8XMKP');</script>\n<!-- End\
+        \ Google Tag Manager -->\n\n\n\n\n\n\n<!-- google ads 072120 -->\n    <script\
+        \ defer=\"defer\" data-ad-client=\"ca-pub-6654551967172224\" async=\"\" data-src=\"\
+        https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\" type=\"lazyload_int\"\
+        \ ></script>\n\n\n\n\n\n\n\n\n\n\n\n\n    <script async=\"\" data-src=\"https://securepubads.g.doubleclick.net/tag/js/gpt.js\"\
+        \ type=\"lazyload_int\" ></script>\n\n    \n\n\n\n\n\n\n\n\n\n\n\n   \n\n\n\
+        \n\n\n\n   \n\n\n\n\n\n\n\n\n<style id=\"w3speedup-custom-css\"> .fa {   font:\
+        \ normal normal normal 14px/1 FontAwesome;   font-size: inherit;} .fa-search:before\
+        \ {   content: \\\"\\\\f002\\\"; } .fa-navicon:before, .fa-reorder:before,\
+        \ .fa-bars:before {   content: \\\"\\\\f0c9\\\"; } .fa-twitter:before {  \
+        \ content: \\\"\\\\f099\\\"; } .fa-facebook-f:before, .fa-facebook:before\
+        \ {   content: \\\"\\\\f09a\\\"; } .fa-linkedin:before {   content: \\\"\\\
+        \\f0e1\\\"; } .fa-flag:before {   content: \\\"\\\\f024\\\"; } .synved-social-resolution-single\
+        \ { display: inline-block; } .synved-social-resolution-normal { display: inline-block;\
+        \ } .synved-social-resolution-hidef { display: none; } @media only screen\
+        \ and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio:\
+        \ 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and\
+        \ (min-device-pixel-ratio: 2), only screen and (min-resolution: 2dppx), only\
+        \ screen and (min-resolution: 192dpi) { .synved-social-resolution-normal {\
+        \ display: none; } .synved-social-resolution-hidef { display: inline-block;\
+        \ } } @media (max-width:991px){ .navbar-header .fa.fa-bars:before, .navbar-header\
+        \ .fa.fa-bars:after {   content: '';   position: absolute;   width: 15px;\
+        \   height: 2px;   background: #fff; right: 0; } .navbar-header .fa.fa-bars:before\
+        \ {   top: -5px;  }  .navbar-header .fa.fa-bars:after {   top: 5px; } button.navbar-toggle\
+        \ {   width: 35px;   height: 42px; } .navbar-header span.fa.fa-bars {   background:\
+        \ #fff;   width: 15px;   height: 2px;   position: absolute;   left: 0;   right:\
+        \ 0;   margin: auto; } .navbar-header span.fa.fa-search {   width: 13px; \
+        \  height: 13px;   border: 2px solid #fff;   border-radius: 25px;   display:\
+        \ block;   position: relative;   margin-top: -2px;   margin-left: -1px; }\
+        \ .navbar-header span.fa.fa-search:before {   content: '';   position: absolute;\
+        \   width: 2px;   height: 6px;   right: -2px;   bottom: -5px;   background:\
+        \ #fff;   transform: rotate(141deg);  } } @font-face {  font-family: 'Open\
+        \ Sans';  font-style: normal;  font-weight: 700;  font-display: swap;  src:\
+        \ url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN7rgOUuhpKKSTjw.woff2)\
+        \ format('woff2');  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC,\
+        \ U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193,\
+        \ U+2212, U+2215, U+FEFF, U+FFFD; } @font-face {  font-family: 'Open Sans';\
+        \  font-style: normal;  font-weight: 400;  font-display: swap;  src: url(https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFVZ0b.woff2)\
+        \ format('woff2');  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC,\
+        \ U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193,\
+        \ U+2212, U+2215, U+FEFF, U+FFFD; } @font-face {  font-family: 'Open Sans';\
+        \  font-style: normal;  font-weight: 600;  font-display: swap;  src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UNirkOUuhp.woff2)\
+        \ format('woff2');  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC,\
+        \ U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193,\
+        \ U+2212, U+2215, U+FEFF, U+FFFD; } @font-face {  font-family: 'Open Sans';\
+        \  font-style: normal;  font-weight: 300;  font-display: swap;  src: url(https://fonts.gstatic.com/s/opensans/v18/mem5YaGs126MiZpBA-UN_r8OUuhp.woff2)\
+        \ format('woff2');  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC,\
+        \ U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193,\
+        \ U+2212, U+2215, U+FEFF, U+FFFD; } .red-text {   color: #a04339; } .green-text\
+        \ {   color: #62a06c !important; } #trending-bar .glyphicon-arrow-down { \
+        \  height: 0px;   border: 4px solid;   border-color: #a04339 #a04339 transparent\
+        \ transparent;   transform: rotate(135deg);   margin: 0 5px 1px; } #trending-bar\
+        \ .glyphicon-arrow-up {   height: 0px;   border: 4px solid;   border-color:\
+        \ #62a06c #62a06c transparent transparent;   transform: rotate(-45deg);  \
+        \ margin: 0 5px 3px; } #trending-bar .glyphicon-arrow-down:before, #trending-bar\
+        \ .glyphicon-arrow-up:before{   content: '';   position: absolute;   top:\
+        \ 0px;   display: block;   height: 4px;   width: 10px;   transform: rotate(-45deg)\
+        \ translate(-5px, -5px);   left: 0;   right: 0;   margin: auto; } #trending-bar\
+        \ .glyphicon-arrow-down:before {   background-color: #a04339; } #trending-bar\
+        \ .glyphicon-arrow-up:before {  background-color: #62a06c; } header .glyphicon-lock\
+        \ {   background: white;   width: 13px;   height: 9px;   position: relative;\
+        \   border-radius: 1px;   margin-right: 1px; } header .glyphicon-lock:before\
+        \ {   content: '';   position: absolute;   left: 0px;   right: 0;   margin:\
+        \ auto;   width: 8px;   height: 8px;   border: 2px solid #ffff;   top: -5px;\
+        \   border-bottom: 0px;   border-radius: 2px; } #primisPlayerContainerDiv\
+        \ #primis_container_div iframe:last-child #skinContent td.contentTd, #primisPlayerContainerDiv\
+        \ tr#skinContentTr > td.contentTd:first-child {   display: none !important;\
+        \ } #primisPlayerContainerDiv .relatedItemsWrapper {   max-width: 360px !important;\
+        \   float: left !important; } #primisPlayerContainerDiv #primis_container_div\
+        \ iframe:last-child {   width: 360px !important;   min-width: 360px !important;\
+        \   top: 278px !important;  } #primisPlayerContainerDiv #adContainerDiv {\
+        \   width: 100% !important;   object-fit: cover !important; } #primisPlayerContainerDiv\
+        \ tr#skinContentTr > td.contentTd:first-child {   display: none !important;\
+        \ } .page-template-all-blog-posts-php .pull-left.no-mobile-pull.pad-right\
+        \ {   min-height: 200px; } .news-event p { font-style: italic; }@keyframes\
+        \ fadeIn {  to {    opacity: 1;  }}.fade-in {  opacity: 0;  animation: fadeIn\
+        \ .5s ease-in 1 forwards;}.is-paused {  animation-play-state: paused;}</style></head>\n\
+        \n<body class=\"page-template page-template-all-blog-posts page-template-all-blog-posts-php\
+        \ page page-id-250\">\n\t<!-- Google Tag Manager (noscript) -->\n<noscript><iframe\
+        \ src=\"https://www.googletagmanager.com/ns.html?id=GTM-MR8XMKP\"\nheight=\"\
+        0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n\
+        <!-- End Google Tag Manager (noscript) -->\n\n\n\n        <header>\n\n   \
+        \ \n\n<div style=\"background:#333;\"  class=\"headerstick\">\n<div class=\"\
+        container\">\n<div id=\"logo\" class=\"hidden-sm hidden-xs\"><a href=\"https://stocknews.com/\"\
+        \ title=\"StockNews.com\" rel=\"home\">\n    <img src=\"/img/sn-green.png\"\
+        \ alt=\"StockNews.com\" style=\"width:360px;height:auto\" />\n</a></div>\n\
+        \n\n<nav class=\"navbar-collapse collapse navbar-responsive-collapse\">\n\n\
+        <ul class=\"nav navbar-bav navbar-right\">\n    <li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom\">\n    <p class=\"navbar-btn\"><a href=\"https://stocknews.com/members/login\"\
+        \ class=\"btn btn-warning\">Login</a> <a href=\"https://stocknews.com/registration/free/\"\
+        \ class=\"btn btn-warning\">\n        Join\n      </a>\n    </p>\n  </li>\n\
+        \  </ul>\n\n<form class=\"navbar-form navbar-right\" role=\"search\" method=\"\
+        post\" id=\"searchform\" action=\"https://stocknews.com/\">\n  <div class=\"\
+        input-group\">\n    <input name=\"ticker\" id=\"ticker\" type=\"text\" class=\"\
+        form-control ticker-search\" placeholder=\"Ticker or Company\" size=\"17\"\
+        >\n    <div class=\"input-group-btn\">\n      <button type=\"submit\" class=\"\
+        btn btn-success\">Search</button>\n    </div>\n  </div>\n  <input type=\"\
+        hidden\" id=\"symbol_search\" name=\"symbol_search\" value=\"cd25813cf4\"\
+        \ /><input type=\"hidden\" name=\"_wp_http_referer\" value=\"/top-stories/\"\
+        \ /></form>\n\n</nav>\n\n<nav class=\"navbar navbar-inverse navbar-static-top\
+        \ navbar-lower sm-margin-top\" style=\"background:#222;border-radius:5px 5px\
+        \ 0 0\">\n  <div class=\"container-fluid\">\n\n    <div class=\"navbar-header\"\
+        >\n      <div class=\"hidden-lg hidden-md sm-logo\" style=\"float:left; padding-top:10px\"\
+        ><a href=\"https://stocknews.com/\" title=\"StockNews.com\" rel=\"home\">\n\
+        \        <img src=\"/img/sn-green.png\" style=\"width:220px;height:auto\"\
+        \ alt=\"StockNews.com\" />\n    </a></div>\n      <button type=\"button\"\
+        \ class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"\
+        #navbar\" aria-expanded=\"false\"> <span class=\"sr-only\">Toggle navigation</span>\n\
+        \        <span class=\"fa fa-bars\" style=\"color:#fff !important;\"></span>\n\
+        \      </button>\n      <button type=\"button\" class=\"navbar-toggle collapsed\"\
+        \ data-toggle=\"collapse\" data-target=\"#navbar-search\" aria-expanded=\"\
+        false\"> <span class=\"sr-only\">Toggle navigation</span>\n        <span class=\"\
+        fa fa-search\" style=\"color: #fff !important;\"></span>\n      </button>\n\
+        \    </div>\n\n    <div class=\"collapse navbar-collapse\" id=\"navbar\">\n\
+        \      <ul id=\"menu-top-nav\" class=\"nav navbar-nav\">\n        <li class=\"\
+        menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children\
+        \ dropdown\">\n          <a class=\"dropdown-toggle\" aria-expanded=\"false\"\
+        >\n            News<span class=\"caret\"></span>\n          </a>\n       \
+        \   <ul class=\"dropdown-menu\">\n            <li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom\">\n              <a href=\"/top-stories/\">\n \
+        \               Top Stories\n              </a>\n            </li>\n\n   \
+        \          <li class=\"menu-item menu-item-type-custom menu-item-object-custom\"\
+        >\n              <a href=\"/video-news/\">\n                Video News\n \
+        \             </a>\n            </li>\n\n              <li class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom\">\n                  <a href=\"\
+        https://pr.stocknews.com\">\n                      Press Releases\n      \
+        \            </a>\n              </li>\n            <!--<li class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom\">\n              <a href=\"\
+        /featured-articles/\">\n                Featured Articles\n              </a>\n\
+        \            </li>-->\n          </ul>\n        </li>\n        <li class=\"\
+        menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children\
+        \ dropdown\">\n          <a class=\"dropdown-toggle\" aria-expanded=\"false\"\
+        >\n            Best Stocks<span class=\"caret\"></span>\n          </a>\n\
+        \          <ul class=\"dropdown-menu\">\n            <li class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom\">\n              <a href=\"\
+        /best-stocks/\">\n                \"A\" Rated Stocks\n              </a>\n\
+        \            </li>\n            <li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom\">\n              <a href=\"/powr-upgrades-downgrades/\"\
+        >\n                Upgrades/Downgrades\n              </a>\n            </li>\n\
+        \            <li class=\"menu-item menu-item-type-custom menu-item-object-custom\"\
+        >\n              <a href=\"/high-yield-dividend-stocks/\">\n             \
+        \   High Yield Dividend Stocks\n              </a>\n            </li>\n  \
+        \          <li class=\"menu-item menu-item-type-custom menu-item-object-custom\"\
+        >\n              <a href=\"/stock-screener/\">\n                Stock Screener\n\
+        \              </a>\n            </li>\n              <li class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom\">\n                  <a href=\"\
+        /top-dividend-discount-model/\">\n                      Dividend Discount\
+        \ Model Stock Valuation\n                  </a>\n              </li>\n   \
+        \          <li class=\"menu-item menu-item-type-custom menu-item-object-custom\"\
+        >\n              <a href=\"/stocks/\">\n                Industry Rank\n  \
+        \            </a>\n            </li>\n          <!--  <li class=\"divider\"\
+        ></li>\n            <li class=\"menu-item menu-item-type-custom menu-item-object-custom\"\
+        >\n              <a href=\"/powr-ratings/\">\n                POWR Ratings&trade;\n\
+        \              </a>\n            </li> -->\n\n          </ul>\n        </li>\n\
+        \        <li class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-has-children dropdown\">\n          <a class=\"dropdown-toggle\"\
+        \ aria-expanded=\"false\">\n            Best ETFs <span class=\"caret\"></span>\n\
+        \          </a>\n          <ul class=\"dropdown-menu\">\n            <li class=\"\
+        menu-item menu-item-type-custom menu-item-object-custom\">\n             \
+        \ <a href=\"/best-etfs/\">\n                \"A\" Rated ETFs\n           \
+        \   </a>\n            </li>\n            <li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom\">\n              <a href=\"/etfs/\">\n        \
+        \        Best ETF Categories\n              </a>\n            </li>\n    \
+        \        <li class=\"menu-item menu-item-type-custom menu-item-object-custom\"\
+        >\n              <a href=\"/high-yield-etfs/\">\n                High Yield\
+        \ ETFs\n              </a>\n            </li>\n              <li class=\"\
+        menu-item menu-item-type-custom menu-item-object-custom\">\n             \
+        \     <a href=\"https://report.stocknews.com/7-best-etfs-for-the-next-bull-market/?lead_source=sn-best_etfs_menu&medium=spons-txt&campaign=7etfs\"\
+        >\n                      7 Best ETFs\n                  </a>\n           \
+        \   </li>\n          </ul>\n        </li>\n        <li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom\">\n          <a href=\"/powr-ratings/\">\n    \
+        \        POWR Ratings&trade;\n          </a>\n        </li>\n        <li class=\"\
+        menu-item menu-item-type-custom menu-item-object-custom\">\n          <a href=\"\
+        /powr-upgrades-downgrades/\">\n            Upgrades/Downgrades<!--<span class=\"\
+        hidden-md\"> <span class=\"badge\">New</span></span>-->\n          </a>\n\
+        \        </li>\n        <li class=\"menu-item menu-item-type-custom menu-item-object-custom\"\
+        >\n          <a href=\"/watchlist/\">\n            Watchlist<!--<span class=\"\
+        hidden-md\"> <span class=\"badge\">New</span></span>-->\n          </a>\n\
+        \        </li>\n\n        <li class=\"menu-item menu-item-type-custom menu-item-object-custom\"\
+        >\n          <a href=\"/stock-screener/\">\n            Screener\n       \
+        \   </a>\n        </li>\n         <li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-has-children dropdown\">\n          <a\
+        \ class=\"dropdown-toggle\" aria-expanded=\"false\">\n            Services\
+        \ <span class=\"caret\"></span>\n          </a>\n          <ul class=\"dropdown-menu\"\
+        >\n            <li class=\"menu-item menu-item-type-custom menu-item-object-custom\"\
+        >\n              <a href=\"https://members.stocknews.com\" target=\"_blank\"\
+        >\n                Services Home\n              </a>\n            </li>\n\
+        \            <li class=\"menu-item menu-item-type-custom menu-item-object-custom\"\
+        >\n              <a href=\"https://members.stocknews.com/reitmeister-total-return/\"\
+        \ target=\"_blank\">\n                Reitmeister Total Return\n         \
+        \     </a>\n            </li>\n              <li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom\">\n                  <a href=\"https://members.stocknews.com/powr-charts/\"\
+        \ target=\"_blank\">\n                      POWR Charts\n                \
+        \  </a>\n              </li>\n            <li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom\">\n              <a href=\"https://members.stocknews.com/service/powr-trends/\"\
+        \ target=\"_blank\">\n                POWR Trends\n              </a>\n  \
+        \          </li>\n            <li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom\">\n              <a href=\"https://stocknews.com/powr-ratings/\"\
+        \ target=\"_blank\">\n                Premium\n              </a>\n      \
+        \      </li>\n\n          </ul>\n\n\n        <!--\n        <li class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown\"\
+        >\n          <a href=\"/screeners/\" class=\"dropdown-toggle\" data-toggle=\"\
+        dropdown\" aria-expanded=\"false\">\n            Screeners <span class=\"\
+        caret\"></span>\n          </a>\n          <ul class=\"dropdown-menu\">\n\
+        \            <li class=\"menu-item menu-item-type-custom menu-item-object-custom\"\
+        >\n              <a href=\"/stock-screener/\">\n                Stock Screener\n\
+        \              </a>\n            </li>\n            <li class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom\">\n              <a href=\"\
+        /etf-screener/\">\n                ETF Screener\n              </a>\n    \
+        \        </li>\n          </ul>\n        </li>\n        -->\n      </ul>\n\
+        \      <ul class=\"nav navbar-nav hidden-lg hidden-md\">\n               \
+        \  <li class=\"menu-item menu-item-type-custom menu-item-object-custom\">\n\
+        \    <p class=\"navbar-btn\"><a href=\"https://stocknews.com/members/login\"\
+        \ class=\"btn btn-warning\">Login</a> <a href=\"https://stocknews.com/registration/free/\"\
+        \ class=\"btn btn-warning\">\n        Join\n      </a>\n    </p>\n  </li>\n\
+        \              </ul>\n    </div>\n    <div class=\"collapse navbar-collapse\"\
+        \ id=\"navbar-search\"> <form class=\"navbar-form hidden-lg hidden-md\" role=\"\
+        search\" method=\"post\" id=\"searchform2\" action=\"https://stocknews.com/\"\
+        >\n          <div class=\"input-group\">\n            <input name=\"ticker\"\
+        \ id=\"ticker\" type=\"text\" class=\"form-control ticker-search\" placeholder=\"\
+        Ticker or Company\" size=\"17\">\n            <div class=\"input-group-btn\"\
+        >\n              <button type=\"submit\" class=\"btn btn-success\">Search</button>\n\
+        \            </div>\n          </div>\n         <input type=\"hidden\" id=\"\
+        symbol_search\" name=\"symbol_search\" value=\"cd25813cf4\" /><input type=\"\
+        hidden\" name=\"_wp_http_referer\" value=\"/top-stories/\" />      </form></div>\n\
+        \  </div>\n</nav>\n</div>\n</div>\n\n    <!--nada -->\n\n\n</header><!-- end\
+        \ of header -->\n\n\n<br><br><br><br>\n  <!--  <div class=\"text-center center-block\"\
+        \ style=\"background-color:#f0f0f0; padding-bottom:5px; min-height:130px;\
+        \ text-align:center !important; padding-top:110px;\"> -->\n <!-- <div id=\"\
+        StockNews_ROS_Top_Leaderboard\" class=\"text-center\">\n    <script>\n   \
+        \ apntag.anq.push(function() {\n        apntag.showTag('StockNews_ROS_Top_Leaderboard');\n\
+        \    });\n    </script>\n</div>\n</div> -->\n\n\n\n\n<div class=\"container\"\
+        >\n  <div class=\"clearfix wrapper\">\n\n      <div id=\"content\">\n    <article>\n\
+        \n      <div class=\"row\">\n        <div class=\"col-lg-8 col-md-7\">\n\n\
+        \n\n\n\n\n\n\n\n\n\n\n          <div class=\"row\">\n                    \
+        \  <div class=\"col-lg-8 col-md-7\">\n                        <h1>Most Popular\
+        \ Stories</h1>\n                        <!--<p>Below you'll find a listing\
+        \ of our top stock news articles written by our team of expert stock analysts.\
+        \ For a full listing of all the latest news items, check out our <a href=\"\
+        /news/\">Stock News Stream</a>.</p> -->\n                       <!-- <div\
+        \ id=\"StockNews_ROS_Textlink\" class=\"text-center\">\n    <script>\n   \
+        \ apntag.anq.push(function() {\n        apntag.showTag('StockNews_ROS_Textlink');\n\
+        \    });\n    </script>\n</div>\n -->\n                      </div>\n    \
+        \                  <div class=\"col-lg-4 col-md-5 text-center margin-top\"\
+        >\n                                                <small class=\"medium-gray\"\
+        >Share This Page</small><br>\n                                    <div class=\"\
+        social-wrapper\">\n              <!-- Twitter -->\n              <a href=\"\
+        https://twitter.com/intent/tweet?text=%24+Top+Stock+News+Stories+--+%7C+Page+1.StockNews.com&amp;url=https://stocknews.com/top-stories/&amp;via=stocknewsdotcom\"\
+        \ title=\"Share on Twitter\" class=\"sn-social-share btn btn-twitter\" target=\"\
+        _blank\"><i class=\"fa fa-twitter\"></i></a>\n              <!-- Facebook\
+        \ -->\n              <a href=\"https://www.facebook.com/sharer/sharer.php?u=https://stocknews.com/top-stories/\"\
+        \ title=\"Share on Facebook\" target=\"_blank\" class=\"sn-social-share btn\
+        \ btn-facebook\"><i class=\"fa fa-facebook\"></i></a>\n              <!--\
+        \ Google+ \n              <a href=\"https://plus.google.com/share?url=https://stocknews.com/top-stories/\"\
+        \ title=\"Share on Google+\" target=\"_blank\" class=\"sn-social-share btn\
+        \ btn-googleplus\"><i class=\"fa fa-google-plus\"></i></a> -->\n         \
+        \     <!-- LinkedIn -->\n              <a href=\"https://www.linkedin.com/shareArticle?mini=true&url=https://stocknews.com/top-stories/&title=Top+Stock+News+Stories+--+%7C+Page+1.StockNews.com&summary=\"\
+        \ title=\"Share on LinkedIn\" target=\"_blank\" class=\"sn-social-share btn\
+        \ btn-linkedin\"><i class=\"fa fa-linkedin\"></i></a>\n            </div>\n\
+        \            <script type=\"lazyload\">\n              jQuery(document).ready(function($){\n\
+        \                jQuery(\"a.sn-social-share\").click(function() {\n      \
+        \            window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=300,width=600');\n\
+        \                  return false;\n                });\n              });\n\
+        \            </script>                      </div>\n                    </div>\n\
+        \n                    <hr>\n\n                    \n\n\n\n\n\n  <div class=\"\
+        margin-bottom\">\n\t<div class=\"pull-left no-mobile-pull pad-right\">\n\t\
+        \  <a href=\"/news/spy-inx-dia-iwm-qqq-is-this-another-stock-market-bubble/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2019/09/balloon.jpg\"\
+        \ alt=\": SPY |  News, Ratings, and Charts\"></a>\n\t</div>\n\t<div class=\"\
+        overflow-fix margin-top-mobile\">\n\t  <div class=\"pad-left pad-top bb-2\"\
+        >\t  <h3 class=\"bold zero-margins pad-bot pad-top\">\n\t\t<a href=\"/news/spy-inx-dia-iwm-qqq-is-this-another-stock-market-bubble/\"\
+        \ class=\"black\">Is This ANOTHER Stock Market Bubble?</a>\n\t\t\t  </h3>\n\
+        \t  More and more experts are pointing to the stock market (SPY) being well\
+        \ above historical valuation levels. Then when you see the movement of stocks\
+        \ like Tesla its hard not to think of the tech bubble of 1999. So let\u2019\
+        s review if this is indeed a bubble. And if so, then provide a game plan for\
+        \ how investors should ride it up and then parachute out before its too late.\
+        \ Read on below for more\u2026\t  <section class=\"post-meta zero-padding\
+        \ pad-bottom margin-top\">\n\t\t<a href=\"\">Jan 13, 2021</a> <span class=\"\
+        light-gray\">|</span> 12:53pm\t  </section>\n\t  </div>\n\t</div>\n\t<div\
+        \ class=\"clearfix\"></div>\n  </div>\n  <hr>\n\n\n\n\n\n\n\n\n\n\n  <div\
+        \ class=\"margin-bottom\">\n\t<div class=\"pull-left no-mobile-pull pad-right\"\
+        >\n\t  <a href=\"/news/fan-tan-aces-ylco-4-renewable-energy-etfs-to-thrive-under-biden/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/shutterstock_1007816836-scaled.jpg\"\
+        \ alt=\": FAN |  News, Ratings, and Charts\"></a>\n\t</div>\n\t<div class=\"\
+        overflow-fix margin-top-mobile\">\n\t  <div class=\"pad-left pad-top bb-2\"\
+        >\t  <h3 class=\"bold zero-margins pad-bot pad-top\">\n\t\t<a href=\"/news/fan-tan-aces-ylco-4-renewable-energy-etfs-to-thrive-under-biden/\"\
+        \ class=\"black\">4 Renewable Energy ETFs to thrive under Biden</a>\n\t\t\t\
+        \  </h3>\n\t  Because the incoming Biden administration is expected to shape\
+        \ the economy with a significant focus on clean energy, ETFs such as First\
+        \ Trust ISE Global Wind Energy Index Fund (FAN), Invesco Solar (TAN), ALPS\
+        \ Clean Energy (APES) and Global X YieldCo & Renewable Energy Income (YLCO)\
+        \ that invest in renewable energy holdings should fare well over the long\
+        \ term.\t  <section class=\"post-meta zero-padding pad-bottom margin-top\"\
+        >\n\t\t<a href=\"\">Jan 13, 2021</a> <span class=\"light-gray\">|</span> 4:22pm\t\
+        \  </section>\n\t  </div>\n\t</div>\n\t<div class=\"clearfix\"></div>\n  </div>\n\
+        \  <hr>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <div class=\"margin-bottom\">\n\t\
+        <div class=\"pull-left no-mobile-pull pad-right\">\n\t  <a href=\"/news/nio-gp-better-buy-nio-vs-greenpower-motor/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/Vs.-4.jpg\"\
+        \ alt=\": NIO |  News, Ratings, and Charts\"></a>\n\t</div>\n\t<div class=\"\
+        overflow-fix margin-top-mobile\">\n\t  <div class=\"pad-left pad-top bb-2\"\
+        >\t  <h3 class=\"bold zero-margins pad-bot pad-top\">\n\t\t<a href=\"/news/nio-gp-better-buy-nio-vs-greenpower-motor/\"\
+        \ class=\"black\">Better Buy: NIO vs. GreenPower Motor</a>\n\t\t\t  </h3>\n\
+        \t  NIO (NIO) and GreenPower Motor (GP) were the two electric vehicle manufacturers\
+        \ which saw the highest gains in 2020. Which stock is a better buy for 2021?\t\
+        \  <section class=\"post-meta zero-padding pad-bottom margin-top\">\n\t\t\
+        <a href=\"\">Jan 13, 2021</a> <span class=\"light-gray\">|</span> 10:31am\t\
+        \  </section>\n\t  </div>\n\t</div>\n\t<div class=\"clearfix\"></div>\n  </div>\n\
+        \  <hr>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <div class=\"margin-bottom\">\n\t<div\
+        \ class=\"pull-left no-mobile-pull pad-right\">\n\t  <a href=\"/news/hele-tsla-the-stock-of-the-week-is/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/Question-Mark-9-1-19.png\"\
+        \ alt=\": HELE |  News, Ratings, and Charts\"></a>\n\t</div>\n\t<div class=\"\
+        overflow-fix margin-top-mobile\">\n\t  <div class=\"pad-left pad-top bb-2\"\
+        >\t  <h3 class=\"bold zero-margins pad-bot pad-top\">\n\t\t<a href=\"/news/hele-tsla-the-stock-of-the-week-is/\"\
+        \ class=\"black\">The Stock of the Week is ???</a>\n\t\t\t  </h3>\n\t  Helen\
+        \ of Troy (HELE) is one of the most consistent growth companies around in\
+        \ the consumer goods space. Their earnings announcement last week reminded\
+        \ everyone that there is plenty of growth on hand and Wall Street is taking\
+        \ note. Read on for more...\t  <section class=\"post-meta zero-padding pad-bottom\
+        \ margin-top\">\n\t\t<a href=\"\">Jan 11, 2021</a> <span class=\"light-gray\"\
+        >|</span> 4:31pm\t  </section>\n\t  </div>\n\t</div>\n\t<div class=\"clearfix\"\
+        ></div>\n  </div>\n  <hr>\n\n\n\n\n\n\n\n\n\n\n\n\n  <div class=\"margin-bottom\"\
+        >\n\t<div class=\"pull-left no-mobile-pull pad-right\">\n\t  <a href=\"/news/nio-gp-better-buy-nio-vs-greenpower-motor/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/shutterstock_227495947-scaled.jpg\"\
+        \ alt=\": RPAY |  News, Ratings, and Charts\"></a>\n\t</div>\n\t<div class=\"\
+        overflow-fix margin-top-mobile\">\n\t  <div class=\"pad-left pad-top bb-2\"\
+        >\t  <h3 class=\"bold zero-margins pad-bot pad-top\">\n\t\t<a href=\"/news/rpay-uctt-idex-3-small-cap-tech-stocks-to-own-in-2021-repay-ultra/\"\
+        \ class=\"black\">3 Small-Cap Tech Stocks to Own in 2021: Repay, Ultra Clean,\
+        \ and Ideanomics</a>\n\t\t\t  </h3>\n\t  Because most tech stocks are trading\
+        \ at sky-high valuations, investors should now keep a keen eye open for small-cap\
+        \ technology stocks that have the potential to outperform the broader market.\
+        \ Companies like Repay Holdings (RPAY), Ultra Clean Holdings (UCTT), and Ideanomics\
+        \ (IDEX) are disrupting their markets and, as such, we think should generate\
+        \ substantial returns this year.\t  <section class=\"post-meta zero-padding\
+        \ pad-bottom margin-top\">\n\t\t<a href=\"\">Jan 13, 2021</a> <span class=\"\
+        light-gray\">|</span> 11:04am\t  </section>\n\t  </div>\n\n\t</div>\n\t<div\
+        \ class=\"clearfix\"></div>\n  </div>\n  <hr>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+        \n\n\n\n\n          <div class=\"row\">\n            <div class=\"col-lg-8\
+        \ col-md-7\">\n              <h1>Top Stories</h1>\n              <!--<p>Below\
+        \ you'll find a listing of our top stock news articles written by our team\
+        \ of expert stock analysts. For a full listing of all the latest news items,\
+        \ check out our <a href=\"/news/\">Stock News Stream</a>.</p> -->\n      \
+        \       <!-- <div id=\"StockNews_ROS_Textlink\" class=\"text-center\">\n \
+        \   <script>\n    apntag.anq.push(function() {\n        apntag.showTag('StockNews_ROS_Textlink');\n\
+        \    });\n    </script>\n</div>\n -->\n            </div>\n            <div\
+        \ class=\"col-lg-4 col-md-5 text-center margin-top\">\n\n            </div>\n\
+        \          </div>\n\n          <hr>\n\n                                  <div\
+        \ class=\"margin-bottom\">\n              <div class=\"pull-left no-mobile-pull\
+        \ pad-right\">\n                <a href=\"/news/khc-ally-2-value-stocks-rated-strong-buy-kraft-heinz-and-ally/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/shutterstock_114650083-1-scaled.jpg\"\
+        \ alt=\"NASDAQ: KHC | The Kraft Heinz Company News, Ratings, and Charts\"\
+        ></a>\n              </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-2\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/khc-ally-2-value-stocks-rated-strong-buy-kraft-heinz-and-ally/\" class=\"\
+        black\">2 Value Stocks Rated Strong Buy: Kraft Heinz and Ally Financial</a>\n\
+        \                                  </h3>\n                The stocks of Kraft\
+        \ Heinz (KHC) and Ally Financial (ALLY) have delivered impressive results\
+        \ amid the COVID-19 pandemic through strategic business partnerships and strong\
+        \ corporate management. Currently trading at discounts to their peers, these\
+        \ stocks we believe are solid bets now because the expected economic recovery\
+        \ is causing a rotation by investors away from growth stocks and into value\
+        \ stocks.                <section class=\"post-meta zero-padding pad-bottom\
+        \ margin-top\">\n                  <a href=\"\">Jan 14, 2021</a> <span class=\"\
+        light-gray\">|</span> 5:16pm                </section>\n                </div>\
+        \                <!--\n                <section class=\"post-meta zero-padding\
+        \ zero-margins\">\n                  <a class=\"green-text\" href=\"/stock/KHC/\"\
+        >KHC</a>\n                  <span class=\"medium-gray unbold\">Jan 14, 2021</span>\n\
+        \                </section>\n                -->\n              </div>\n \
+        \             <div class=\"clearfix\"></div>\n            </div>\n       \
+        \     <hr>\n                                  <div class=\"margin-bottom\"\
+        >\n              <div class=\"pull-left no-mobile-pull pad-right\">\n    \
+        \            <a href=\"/news/unp-cni-csx-nsc-its-full-steam-ahead-in-2021-for-these-4-railroad/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/shutterstock_1051507007-1-scaled.jpg\"\
+        \ alt=\"NYSE: UNP | Union Pacific Corporation  News, Ratings, and Charts\"\
+        ></a>\n              </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-2\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/unp-cni-csx-nsc-its-full-steam-ahead-in-2021-for-these-4-railroad/\"\
+        \ class=\"black\">It's Full Steam Ahead in 2021 for These 4 Railroad Stocks</a>\n\
+        \                                  </h3>\n                The railroad industry\
+        \ has witnessed a significant decrease in rail traffic in the wake of the\
+        \ COVID-19 pandemic. However, because a V-shaped economic recovery is expected\
+        \ this year, we think companies like Union Pacific (UNP), Canadian National\
+        \ Railway (CNI), CSX (CSX) and Norfolk Southern (NSC) should deliver stellar\
+        \ results.                <section class=\"post-meta zero-padding pad-bottom\
+        \ margin-top\">\n                  <a href=\"\">Jan 14, 2021</a> <span class=\"\
+        light-gray\">|</span> 4:52pm                </section>\n                </div>\
+        \                <!--\n                <section class=\"post-meta zero-padding\
+        \ zero-margins\">\n                  <a class=\"green-text\" href=\"/stock/UNP/\"\
+        >UNP</a>\n                  <span class=\"medium-gray unbold\">Jan 14, 2021</span>\n\
+        \                </section>\n                -->\n              </div>\n \
+        \             <div class=\"clearfix\"></div>\n            </div>\n       \
+        \     <hr>\n                                  <div class=\"margin-bottom\"\
+        >\n              <div class=\"pull-left no-mobile-pull pad-right\">\n    \
+        \            <a href=\"/news/nflx-should-you-buy-netflix-stock-before-it-releases-earnings-next/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/shutterstock_729647704-scaled.jpg\"\
+        \ alt=\"NASDAQ: NFLX | Netflix, Inc. News, Ratings, and Charts\"></a>\n  \
+        \            </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-2\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/nflx-should-you-buy-netflix-stock-before-it-releases-earnings-next/\"\
+        \ class=\"black\">Should you Buy Netflix Stock Before it Releases Earnings\
+        \ Next Week?</a>\n                                  </h3>\n              \
+        \  Investor optimism over a potential economic recovery this year drove the\
+        \ Dow Jones Industrial Average (DJIA) gain last week. Netflix (NFLX) has been\
+        \ capitalizing on this market uptrend and enhancing its market reach through\
+        \ new media releases and strategic entry into emerging markets. With the COVID-19\
+        \ inspired remote lifestyle of the last 10 months expected to continue in\
+        \ 2021, we think the stock should deliver significant returns on investment.\
+        \                <section class=\"post-meta zero-padding pad-bottom margin-top\"\
+        >\n                  <a href=\"\">Jan 14, 2021</a> <span class=\"light-gray\"\
+        >|</span> 4:22pm                </section>\n                </div>       \
+        \         <!--\n                <section class=\"post-meta zero-padding zero-margins\"\
+        >\n                  <a class=\"green-text\" href=\"/stock/NFLX/\">NFLX</a>\n\
+        \                  <span class=\"medium-gray unbold\">Jan 14, 2021</span>\n\
+        \                </section>\n                -->\n              </div>\n \
+        \             <div class=\"clearfix\"></div>\n            </div>\n       \
+        \     <hr>\n                                  <div class=\"margin-bottom\"\
+        >\n              <div class=\"pull-left no-mobile-pull pad-right\">\n    \
+        \            <a href=\"/news/pbw-fxl-xlb-3-etfs-to-buy-now-to-capitalize-on-for-the/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/shutterstock_1390542512-scaled.jpg\"\
+        \ alt=\"NYSE: PBW | Invesco WilderHill Clean Energy ETF News, Ratings, and\
+        \ Charts\"></a>\n              </div>\n              <div class=\"overflow-fix\
+        \ margin-top-mobile\">\n                <div class=\"pad-left pad-top bb-2\"\
+        >                <h3 class=\"bold zero-margins pad-bot pad-top\">\n      \
+        \            <a href=\"/news/pbw-fxl-xlb-3-etfs-to-buy-now-to-capitalize-on-for-the/\"\
+        \ class=\"black\">3 ETFs to Buy Now to Capitalize on the Coming Blue Wave</a>\n\
+        \                                  </h3>\n                The installation\
+        \ of President-elect Joe Biden\u2019s administration on January 20 is expected\
+        \ to lead to huge fiscal stimulus packages that will benefit the clean-energy\
+        \ and infrastructure industries. Also, with Biden\u2019s well-known opposition\
+        \ to monopolistic market practices, the nation\u2019s technology giants are\
+        \ expected to eventually have to surrender at least some of their market share\
+        \ to relatively smaller but fundamentally sound industry participants. ETFs\
+        \ such as Invesco WilderHill Clean Energy (PBW), First Trust Technology AlphaDEX\
+        \ (FXL), and Materials Select Sector SPDR (XLB) provide perfect exposure to\
+        \ these industries and as such, we think, should be solid long-term bets.\
+        \                <section class=\"post-meta zero-padding pad-bottom margin-top\"\
+        >\n                  <a href=\"\">Jan 14, 2021</a> <span class=\"light-gray\"\
+        >|</span> 3:47pm                </section>\n                </div>       \
+        \         <!--\n                <section class=\"post-meta zero-padding zero-margins\"\
+        >\n                  <a class=\"green-text\" href=\"/stock/PBW/\">PBW</a>\n\
+        \                  <span class=\"medium-gray unbold\">Jan 14, 2021</span>\n\
+        \                </section>\n                -->\n              </div>\n \
+        \             <div class=\"clearfix\"></div>\n            </div>\n       \
+        \     <hr>\n                                  <div class=\"margin-bottom\"\
+        >\n              <div class=\"pull-left no-mobile-pull pad-right\">\n    \
+        \            <a href=\"/news/jmia-is-jumia-a-stock-to-avoid-or-buy-on-the/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/shutterstock_190592735-scaled.jpg\"\
+        \ alt=\": JMIA | Jumia Technologies AG ADR News, Ratings, and Charts\"></a>\n\
+        \              </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-2\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/jmia-is-jumia-a-stock-to-avoid-or-buy-on-the/\" class=\"black\">Is Jumia\
+        \ a Stock to Avoid or Buy on the Dip?</a>\n                              \
+        \    </h3>\n                Often referred to as the \u201CAmazon of Africa,\u201D\
+        \ Jumia Technologies (JMIA) stands as one of the better vehicles for investors\
+        \ looking to tap into online retail expansion in emerging economies like Africa.\
+        \ The stock had an incredible run last year thanks to accelerated continent-wide\
+        \ e-commerce adoption amid the COVID-19 pandemic. Hence, any market pullback\
+        \ or profit-taking by current investors could present an excellent opportunity\
+        \ to buy the stock. Let\u2019s take a closer look.                <section\
+        \ class=\"post-meta zero-padding pad-bottom margin-top\">\n              \
+        \    <a href=\"\">Jan 14, 2021</a> <span class=\"light-gray\">|</span> 3:06pm\
+        \                </section>\n                </div>                <!--\n\
+        \                <section class=\"post-meta zero-padding zero-margins\">\n\
+        \                  <a class=\"green-text\" href=\"/stock/JMIA/\">JMIA</a>\n\
+        \                  <span class=\"medium-gray unbold\">Jan 14, 2021</span>\n\
+        \                </section>\n                -->\n              </div>\n \
+        \             <div class=\"clearfix\"></div>\n            </div>\n       \
+        \     <hr>\n                                  <div class=\"margin-bottom\"\
+        >\n              <div class=\"pull-left no-mobile-pull pad-right\">\n    \
+        \            <a href=\"/news/jnj-johnson-johnson-a-top-notch-healthcare-stock-to-buy-and/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/shutterstock_133900220-scaled.jpg\"\
+        \ alt=\"NYSE: JNJ | Johnson & Johnson  News, Ratings, and Charts\"></a>\n\
+        \              </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-2\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/jnj-johnson-johnson-a-top-notch-healthcare-stock-to-buy-and/\" class=\"\
+        black\">Johnson & Johnson: A Top-Notch Healthcare Stock to Buy and Hold in\
+        \ 2021</a>\n                                  </h3>\n                Johnson\
+        \ & Johnson (JNJ) posted impressive results in the third quarter driven by\
+        \ growth in consumer healthcare spending, a sustained recovery in medical\
+        \ device demand, and continued strength in the pharmaceuticals sector. As\
+        \ the world awaits the approval of JNJ\u2019s COVID-19 vaccine candidate,\
+        \ we think it is wise to invest in the stock now to secure solid gains in\
+        \ the future.                <section class=\"post-meta zero-padding pad-bottom\
+        \ margin-top\">\n                  <a href=\"\">Jan 14, 2021</a> <span class=\"\
+        light-gray\">|</span> 2:38pm                </section>\n                </div>\
+        \                <!--\n                <section class=\"post-meta zero-padding\
+        \ zero-margins\">\n                  <a class=\"green-text\" href=\"/stock/JNJ/\"\
+        >JNJ</a>\n                  <span class=\"medium-gray unbold\">Jan 14, 2021</span>\n\
+        \                </section>\n                -->\n              </div>\n \
+        \             <div class=\"clearfix\"></div>\n            </div>\n       \
+        \     <hr>\n                                  <div class=\"margin-bottom\"\
+        >\n              <div class=\"pull-left no-mobile-pull pad-right\">\n    \
+        \            <a href=\"/news/wow-should-investors-tune-into-wideopenwest/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/wow-scaled.jpg\"\
+        \ alt=\": WOW | WideOpenWest, Inc.  News, Ratings, and Charts\"></a>\n   \
+        \           </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-2\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/wow-should-investors-tune-into-wideopenwest/\" class=\"black\">Should\
+        \ Investors Tune into WideOpenWest?</a>\n                                \
+        \  </h3>\n                While some cable providers are struggling with cord-cutting,\
+        \ others are expanding their offerings to take advantage of the newest trends.\
+        \ One such company is WideOpenWest Inc. (WOW). Will the company's efforts\
+        \ boost its stock price? Read more to find out.                <section class=\"\
+        post-meta zero-padding pad-bottom margin-top\">\n                  <a href=\"\
+        \">Jan 14, 2021</a> <span class=\"light-gray\">|</span> 2:16pm           \
+        \     </section>\n                </div>                <!--\n           \
+        \     <section class=\"post-meta zero-padding zero-margins\">\n          \
+        \        <a class=\"green-text\" href=\"/stock/WOW/\">WOW</a>\n          \
+        \        <span class=\"medium-gray unbold\">Jan 14, 2021</span>\n        \
+        \        </section>\n                -->\n              </div>\n         \
+        \     <div class=\"clearfix\"></div>\n            </div>\n            <hr>\n\
+        \                                  <div class=\"margin-bottom\">\n       \
+        \       <div class=\"pull-left no-mobile-pull pad-right\">\n             \
+        \   <a href=\"/news/lb-el-gps-tif-is-l-brands-stock-a-good-buy/\"><img class=\"\
+        img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2020/10/nkla-tsla-tm-wkhs-scaled.jpg\"\
+        \ alt=\"NYSE: LB | L Brands, Inc. News, Ratings, and Charts\"></a>\n     \
+        \         </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-2\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/lb-el-gps-tif-is-l-brands-stock-a-good-buy/\" class=\"black\">Is L Brands\
+        \ Stock a Good Buy?</a>\n                                  </h3>\n       \
+        \         Driven by record results in its Bath & Body works segment and strong\
+        \ 2020 holiday sales, L Brands (LB) has been able to rebound from its pandemic-driven\
+        \ lows. This, along with the company\u2019s cost-containment measures, should,\
+        \ we believe, help the stock keep advancing in the near term.            \
+        \    <section class=\"post-meta zero-padding pad-bottom margin-top\">\n  \
+        \                <a href=\"\">Jan 14, 2021</a> <span class=\"light-gray\"\
+        >|</span> 1:38pm                </section>\n                </div>       \
+        \         <!--\n                <section class=\"post-meta zero-padding zero-margins\"\
+        >\n                  <a class=\"green-text\" href=\"/stock/LB/\">LB</a>\n\
+        \                  <span class=\"medium-gray unbold\">Jan 14, 2021</span>\n\
+        \                </section>\n                -->\n              </div>\n \
+        \             <div class=\"clearfix\"></div>\n            </div>\n       \
+        \     <hr>\n                                  <div class=\"margin-bottom\"\
+        >\n              <div class=\"pull-left no-mobile-pull pad-right\">\n    \
+        \            <a href=\"/news/dkng-docu-2-high-growth-tech-stocks-to-buy-the-dips/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/ko-2-scaled.jpg\"\
+        \ alt=\": DKNG | DraftKings Inc. Cl A News, Ratings, and Charts\"></a>\n \
+        \             </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-2\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/dkng-docu-2-high-growth-tech-stocks-to-buy-the-dips/\" class=\"black\"\
+        >2 High-Growth Tech Stocks to Buy the Dips</a>\n                         \
+        \         </h3>\n                Tech stocks outperformed in 2020. With expectations\
+        \ of faster economic growth, many expect the sector to lag in 2021. However,\
+        \ Taylor Dart gives two tech stocks that he believes will continue outperforming.\
+        \                <section class=\"post-meta zero-padding pad-bottom margin-top\"\
+        >\n                  <a href=\"\">Jan 14, 2021</a> <span class=\"light-gray\"\
+        >|</span> 1:22pm                </section>\n                </div>       \
+        \         <!--\n                <section class=\"post-meta zero-padding zero-margins\"\
+        >\n                  <a class=\"green-text\" href=\"/stock/DKNG/\">DKNG</a>\n\
+        \                  <span class=\"medium-gray unbold\">Jan 14, 2021</span>\n\
+        \                </section>\n                -->\n              </div>\n \
+        \             <div class=\"clearfix\"></div>\n            </div>\n       \
+        \     <hr>\n                                  <div class=\"margin-bottom\"\
+        >\n              <div class=\"pull-left no-mobile-pull pad-right\">\n    \
+        \            <a href=\"/news/plug-why-is-plug-power-skyrocketing/\"><img class=\"\
+        img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/shutterstock_176639813-1-scaled.jpg\"\
+        \ alt=\"NASDAQ: PLUG | Plug Power, Inc. News, Ratings, and Charts\"></a>\n\
+        \              </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-2\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/plug-why-is-plug-power-skyrocketing/\" class=\"black\">Why is Plug Power\
+        \ Skyrocketing?</a>\n                                  </h3>\n           \
+        \     Shares of Plug Power (PLUG) have been soaring as the company continues\
+        \ to make progress on its green hydrogen network. The company\u2019s recent\
+        \ partnerships have provided additional support to the stock's upward movement.\
+        \ Let us take a closer look at the factors at work.                <section\
+        \ class=\"post-meta zero-padding pad-bottom margin-top\">\n              \
+        \    <a href=\"\">Jan 14, 2021</a> <span class=\"light-gray\">|</span> 1:10pm\
+        \                </section>\n                </div>                <!--\n\
+        \                <section class=\"post-meta zero-padding zero-margins\">\n\
+        \                  <a class=\"green-text\" href=\"/stock/PLUG/\">PLUG</a>\n\
+        \                  <span class=\"medium-gray unbold\">Jan 14, 2021</span>\n\
+        \                </section>\n                -->\n              </div>\n \
+        \             <div class=\"clearfix\"></div>\n            </div>\n       \
+        \     <hr>\n                                  <div class=\"margin-bottom\"\
+        >\n              <div class=\"pull-left no-mobile-pull pad-right\">\n    \
+        \            <a href=\"/news/nvda-qcom-nvidia-vs-qualcomm-which-5g-stock-is-a-better-buy/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/shutterstock_1181988958-scaled.jpg\"\
+        \ alt=\"NASDAQ: NVDA | NVIDIA Corporation News, Ratings, and Charts\"></a>\n\
+        \              </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-2\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/nvda-qcom-nvidia-vs-qualcomm-which-5g-stock-is-a-better-buy/\" class=\"\
+        black\">NVIDIA vs. Qualcomm: Which 5G Stock is a Better Buy?</a>\n       \
+        \                           </h3>\n                As more 5G wireless networks\
+        \ are deployed and more smartphones hit the market in 2021, chipmakers such\
+        \ as NVIDIA (NVDA) and Qualcomm (QCOM) are strategically positioned to benefit.\
+        \ Fueled by a growing demand for chips for advanced devices, these two popular\
+        \ stocks should continue outperforming the broader market. But let\u2019s\
+        \ find out which of these stocks is a better buy now.                <section\
+        \ class=\"post-meta zero-padding pad-bottom margin-top\">\n              \
+        \    <a href=\"\">Jan 14, 2021</a> <span class=\"light-gray\">|</span> 12:46pm\
+        \                </section>\n                </div>                <!--\n\
+        \                <section class=\"post-meta zero-padding zero-margins\">\n\
+        \                  <a class=\"green-text\" href=\"/stock/NVDA/\">NVDA</a>\n\
+        \                  <span class=\"medium-gray unbold\">Jan 14, 2021</span>\n\
+        \                </section>\n                -->\n              </div>\n \
+        \             <div class=\"clearfix\"></div>\n            </div>\n       \
+        \     <hr>\n                                    <div style=\"width:100%; padding:5px;\"\
+        >\n        <div id=\"stocknews_articles_belowpost_1\" class=\"text-center\"\
+        >\n\n    </div>\n      </div>            <hr>\n                        <div\
+        \ class=\"margin-bottom\">\n              <div class=\"pull-left no-mobile-pull\
+        \ pad-right\">\n                <a href=\"/news/sh-psq-dog-rwm-think-the-market-is-due-for-a-pullback-buy-these/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/shutterstock_1107347423-scaled.jpg\"\
+        \ alt=\"NYSE: SH | ProShares Short S&P500 News, Ratings, and Charts\"></a>\n\
+        \              </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-2\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/sh-psq-dog-rwm-think-the-market-is-due-for-a-pullback-buy-these/\" class=\"\
+        black\">Think the Market is Due for a Pullback? Buy These 4 ETFs</a>\n   \
+        \                               </h3>\n                The stock market has\
+        \ recovered and leapt ahead at a remarkable pace since its correction last\
+        \ March. But according to many analysts, the market\u2019s rally could prove\
+        \ to be a bubble and, as such, another correction could be in the offing in\
+        \ the near term. Thus, we think investors should prepare for a market pullback\
+        \ by betting on \u201Cinverse ETFs\u201D such as ProShares Short S&P500 (SH),\
+        \ ProShares Short QQQ (PSQ), ProShares Short Dow30 (DOG) and ProShares Short\
+        \ Russell2000 (RWM), which, we think, should help protect their portfolios\
+        \ from losses. Let\u2019s look closer at why.                <section class=\"\
+        post-meta zero-padding pad-bottom margin-top\">\n                  <a href=\"\
+        \">Jan 14, 2021</a> <span class=\"light-gray\">|</span> 12:20pm          \
+        \      </section>\n                </div>                <!--\n          \
+        \      <section class=\"post-meta zero-padding zero-margins\">\n         \
+        \         <a class=\"green-text\" href=\"/stock/SH/\">SH</a>\n           \
+        \       <span class=\"medium-gray unbold\">Jan 14, 2021</span>\n         \
+        \       </section>\n                -->\n              </div>\n          \
+        \    <div class=\"clearfix\"></div>\n            </div>\n            <hr>\n\
+        \                                  <div class=\"margin-bottom\">\n       \
+        \       <div class=\"pull-left no-mobile-pull pad-right\">\n             \
+        \   <a href=\"/news/mj-msos-yolo-thcx-4-cannabis-etfs-to-buy-before-biden-takes-office/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/shutterstock_1237077832-scaled.jpg\"\
+        \ alt=\": MJ | ETFMG Alternative Harvest ETF News, Ratings, and Charts\"></a>\n\
+        \              </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-2\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/mj-msos-yolo-thcx-4-cannabis-etfs-to-buy-before-biden-takes-office/\"\
+        \ class=\"black\">4 Cannabis ETFs to Buy Before Biden Takes Office</a>\n \
+        \                                 </h3>\n                As Joe Biden prepares\
+        \ to take over the U.S. Presidential reins, the cannabis industry in the U.S.\
+        \ is basking in optimism. Following indications by New York\u2019s governor\
+        \ that he will support the legalization of recreational marijuana usage in\
+        \ the state, the industry is hopeful other states will take the same position.\
+        \ Democratic legislators have been supportive of recreational marijuana decriminalization.\
+        \ We think, therefore, that it is wise to bet on ETFMG Alternative Harvest\
+        \ (MJ), AdvisorShares Pure US Cannabis (MSOS), AdvisorShares Pure Cannabis\
+        \ (YOLO), and The Cannabis ETF (THCX) before the new administration takes\
+        \ charge. Let\u2019s discuss.                <section class=\"post-meta zero-padding\
+        \ pad-bottom margin-top\">\n                  <a href=\"\">Jan 14, 2021</a>\
+        \ <span class=\"light-gray\">|</span> 11:41am                </section>\n\
+        \                </div>                <!--\n                <section class=\"\
+        post-meta zero-padding zero-margins\">\n                  <a class=\"green-text\"\
+        \ href=\"/stock/MJ/\">MJ</a>\n                  <span class=\"medium-gray\
+        \ unbold\">Jan 14, 2021</span>\n                </section>\n             \
+        \   -->\n              </div>\n              <div class=\"clearfix\"></div>\n\
+        \            </div>\n            <hr>\n                                  <div\
+        \ class=\"margin-bottom\">\n              <div class=\"pull-left no-mobile-pull\
+        \ pad-right\">\n                <a href=\"/news/tsla-nasdaq-the-best-way-to-get-rich-investing-in-tesla/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2019/04/tesla.jpeg\"\
+        \ alt=\"NASDAQ: TSLA | Tesla, Inc. News, Ratings, and Charts\"></a>\n    \
+        \          </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/tsla-nasdaq-the-best-way-to-get-rich-investing-in-tesla/\" class=\"\
+        black\">The Best Way to Get Rich Investing In Tesla</a>\n                \
+        \                  </h3>\n                Today's Part 2 of 2 article features\
+        \ TSLA & the NASDAQ and covers the best way you can get rich investing in\
+        \ Tesla. Read on for details.                <section class=\"post-meta zero-padding\
+        \ pad-bottom margin-top\">\n                  <a href=\"\">Jan 14, 2021</a>\
+        \ <span class=\"light-gray\">|</span> 11:22am                </section>\n\
+        \                </div>                <!--\n                <section class=\"\
+        post-meta zero-padding zero-margins\">\n                  <a class=\"green-text\"\
+        \ href=\"/stock/TSLA/\">TSLA</a>\n                  <span class=\"medium-gray\
+        \ unbold\">Jan 14, 2021</span>\n                </section>\n             \
+        \   -->\n              </div>\n              <div class=\"clearfix\"></div>\n\
+        \            </div>\n            <hr>\n                                  <div\
+        \ class=\"margin-bottom\">\n              <div class=\"pull-left no-mobile-pull\
+        \ pad-right\">\n                <a href=\"/news/nbev-should-newage-inc-be-in-your-portfolio/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/shutterstock_1085204132-scaled.jpg\"\
+        \ alt=\": NBEV | New Age Beverages Corporation News, Ratings, and Charts\"\
+        ></a>\n              </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-2\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/nbev-should-newage-inc-be-in-your-portfolio/\" class=\"black\">Should\
+        \ NewAge Inc. Be in Your Portfolio?</a>\n                                \
+        \  </h3>\n                Formerly New Age Beverages Corp., NewAge Inc.(NBEV)\
+        \ underwent significant restructuring in the second half of 2020. Its stock\
+        \ has material upside and the expected loosening of regulations surrounding\
+        \ cannabis could be a catalyst.                <section class=\"post-meta\
+        \ zero-padding pad-bottom margin-top\">\n                  <a href=\"\">Jan\
+        \ 14, 2021</a> <span class=\"light-gray\">|</span> 10:59am               \
+        \ </section>\n                </div>                <!--\n               \
+        \ <section class=\"post-meta zero-padding zero-margins\">\n              \
+        \    <a class=\"green-text\" href=\"/stock/NBEV/\">NBEV</a>\n            \
+        \      <span class=\"medium-gray unbold\">Jan 14, 2021</span>\n          \
+        \      </section>\n                -->\n              </div>\n           \
+        \   <div class=\"clearfix\"></div>\n            </div>\n            <hr>\n\
+        \                                  <div class=\"margin-bottom\">\n       \
+        \       <div class=\"pull-left no-mobile-pull pad-right\">\n             \
+        \   <a href=\"/news/fmc-kar-rvlv-3-must-own-growth-stocks-for-a-bull-market-in-2021/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/shutterstock_185865011-scaled.jpg\"\
+        \ alt=\"NYSE: FMC | FMC Corporation  News, Ratings, and Charts\"></a>\n  \
+        \            </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-2\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/fmc-kar-rvlv-3-must-own-growth-stocks-for-a-bull-market-in-2021/\" class=\"\
+        black\">3 Must-Own Growth Stocks for a Bull Market in 2021: FMC, KAR Auction\
+        \ Services, and Revolve</a>\n                                  </h3>\n   \
+        \             Growth stocks are likely to continue performing well this year,\
+        \ riding a bull market that will be buoyed by a vaccine-driven economic recovery.\
+        \ So, companies such as FMC Corporation (FMC), KAR Auction Services, Inc.\
+        \ (KAR), and Revolve Group, Inc. (RVLV), that are growing their businesses\
+        \ by continuously upgrading their products and services, should keep climbing.\
+        \                <section class=\"post-meta zero-padding pad-bottom margin-top\"\
+        >\n                  <a href=\"\">Jan 14, 2021</a> <span class=\"light-gray\"\
+        >|</span> 10:51am                </section>\n                </div>      \
+        \          <!--\n                <section class=\"post-meta zero-padding zero-margins\"\
+        >\n                  <a class=\"green-text\" href=\"/stock/FMC/\">FMC</a>\n\
+        \                  <span class=\"medium-gray unbold\">Jan 14, 2021</span>\n\
+        \                </section>\n                -->\n              </div>\n \
+        \             <div class=\"clearfix\"></div>\n            </div>\n       \
+        \     <hr>\n                                  <div class=\"margin-bottom\"\
+        >\n              <div class=\"pull-left no-mobile-pull pad-right\">\n    \
+        \            <a href=\"/news/mos-why-mosaic-stock-can-outperform-in-2021/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/mos-scaled.jpg\"\
+        \ alt=\"NYSE: MOS | Mosaic Company (The)  News, Ratings, and Charts\"></a>\n\
+        \              </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-2\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/mos-why-mosaic-stock-can-outperform-in-2021/\" class=\"black\">Why Mosaic\
+        \ Stock Can Outperform in 2021</a>\n                                  </h3>\n\
+        \                After a recent Analyst upgrade, agriculture stock Mosaic\
+        \ (MOS) has received some investor attention, but is it time to Buy? Patrick\
+        \ Ryan evaluates the company's prospects and whether you should consider buying\
+        \ it. Read more for his insights.                <section class=\"post-meta\
+        \ zero-padding pad-bottom margin-top\">\n                  <a href=\"\">Jan\
+        \ 14, 2021</a> <span class=\"light-gray\">|</span> 10:50am               \
+        \ </section>\n                </div>                <!--\n               \
+        \ <section class=\"post-meta zero-padding zero-margins\">\n              \
+        \    <a class=\"green-text\" href=\"/stock/MOS/\">MOS</a>\n              \
+        \    <span class=\"medium-gray unbold\">Jan 14, 2021</span>\n            \
+        \    </section>\n                -->\n              </div>\n             \
+        \ <div class=\"clearfix\"></div>\n            </div>\n            <hr>\n \
+        \                                 <div class=\"margin-bottom\">\n        \
+        \      <div class=\"pull-left no-mobile-pull pad-right\">\n              \
+        \  <a href=\"/news/nke-sbux-tgt-tjx-cmg-5-top-rated-consumer-discretionary-stocks-for-2021/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/shutterstock_608952965-scaled.jpg\"\
+        \ alt=\"NYSE: NKE | Nike, Inc.  News, Ratings, and Charts\"></a>\n       \
+        \       </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-2\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/nke-sbux-tgt-tjx-cmg-5-top-rated-consumer-discretionary-stocks-for-2021/\"\
+        \ class=\"black\">5 Top-Rated Consumer Discretionary Stocks for 2021</a>\n\
+        \                                  </h3>\n                Consumer discrtionary\
+        \ stocks are likely to be very strong in the second half of the year. Patrick\
+        \ Ryan gives his take on why investors should consider buying Nike (NKE),\
+        \ Starbux (SBUX), Target (TGT), TJX (TJX), and Chipotle Mexican Grill (CMG).\
+        \                <section class=\"post-meta zero-padding pad-bottom margin-top\"\
+        >\n                  <a href=\"\">Jan 14, 2021</a> <span class=\"light-gray\"\
+        >|</span> 10:48am                </section>\n                </div>      \
+        \          <!--\n                <section class=\"post-meta zero-padding zero-margins\"\
+        >\n                  <a class=\"green-text\" href=\"/stock/NKE/\">NKE</a>\n\
+        \                  <span class=\"medium-gray unbold\">Jan 14, 2021</span>\n\
+        \                </section>\n                -->\n              </div>\n \
+        \             <div class=\"clearfix\"></div>\n            </div>\n       \
+        \     <hr>\n                                  <div class=\"margin-bottom\"\
+        >\n              <div class=\"pull-left no-mobile-pull pad-right\">\n    \
+        \            <a href=\"/news/gld-gdx-kl-auy-agi-3-gold-miners-to-buy-on-dips-yamana-gold-kirkland/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/j-pwr-eme-scaled.jpg\"\
+        \ alt=\"NYSE: GLD | SPDR Gold Trust News, Ratings, and Charts\"></a>\n   \
+        \           </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-2\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/gld-gdx-kl-auy-agi-3-gold-miners-to-buy-on-dips-yamana-gold-kirkland/\"\
+        \ class=\"black\">3 Gold Miners to Buy on Dips: Yamana Gold, Kirkland Lake\
+        \ Gold, and Alomos Gold</a>\n                                  </h3>\n   \
+        \             Gold has had a rough start to 2021. In part, it's due to the\
+        \ improving economic outlook. Real interest rates are also rising as there's\
+        \ more optimism about the economic recovery.                <section class=\"\
+        post-meta zero-padding pad-bottom margin-top\">\n                  <a href=\"\
+        \">Jan 14, 2021</a> <span class=\"light-gray\">|</span> 10:40am          \
+        \      </section>\n                </div>                <!--\n          \
+        \      <section class=\"post-meta zero-padding zero-margins\">\n         \
+        \         <a class=\"green-text\" href=\"/stock/GLD/\">GLD</a>\n         \
+        \         <span class=\"medium-gray unbold\">Jan 14, 2021</span>\n       \
+        \         </section>\n                -->\n              </div>\n        \
+        \      <div class=\"clearfix\"></div>\n            </div>\n            <hr>\n\
+        \                                  <div class=\"margin-bottom\">\n       \
+        \       <div class=\"pull-left no-mobile-pull pad-right\">\n             \
+        \   <a href=\"/news/tsla-beem-tesla-vs-beam-global-which-electric-vehicle-charging-stock-is/\"\
+        ><img class=\"img-rounded three-hundo\" data-class=\"LazyLoad\" src=\"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        \ data-src=\"https://stocknews.com/wp-content/uploads/2021/01/shutterstock_642243406-1-scaled.jpg\"\
+        \ alt=\"NASDAQ: TSLA | Tesla, Inc. News, Ratings, and Charts\"></a>\n    \
+        \          </div>\n              <div class=\"overflow-fix margin-top-mobile\"\
+        >\n                <div class=\"pad-left pad-top bb-2\">                <h3\
+        \ class=\"bold zero-margins pad-bot pad-top\">\n                  <a href=\"\
+        /news/tsla-beem-tesla-vs-beam-global-which-electric-vehicle-charging-stock-is/\"\
+        \ class=\"black\">Tesla vs. Beam Global: Which Electric Vehicle Charging Stock\
+        \ is a Better Buy?</a>\n                                  </h3>\n        \
+        \        The increasing shift to electric vehicles (EVs), which is at least\
+        \ in-part being driven by the lowering of recurring expenses and higher efficiency\
+        \ associated with these vehicles, is expected to create immense growth opportunities\
+        \ for EV charging infrastructure. This, along with favorable government incentives,\
+        \ we think bodes well for two prominent players in this space \u2014 Tesla\
+        \ (TSLA) and Beam Global (BEEM). But let\u2019s find out which of these stocks\
+        \ is a better buy now.                <section class=\"post-meta zero-padding\
+        \ pad-bottom margin-top\">\n                  <a href=\"\">Jan 14, 2021</a>\
+        \ <span class=\"light-gray\">|</span> 10:25am                </section>\n\
+        \                </div>                <!--\n                <section class=\"\
+        post-meta zero-padding zero-margins\">\n                  <a class=\"green-text\"\
+        \ href=\"/stock/TSLA/\">TSLA</a>\n                  <span class=\"medium-gray\
+        \ unbold\">Jan 14, 2021</span>\n                </section>\n             \
+        \   -->\n              </div>\n              <div class=\"clearfix\"></div>\n\
+        \            </div>\n            <hr>\n          \n          <div class=\"\
+        row\">\n                        <div class=\"col-lg-6 col-md-6 col-sm-6\"\
+        >\n              <a href=\"/top-stories/?pg=2\" class=\"btn btn-default width-full\"\
+        ><span class=\"glyphicon glyphicon-chevron-left\" aria-hidden=\"true\"></span>\
+        \ Older Posts</a>\n            </div>\n                                  </div>\n\
+        \n        </div>\n\n\n\n\n\n\n\n\n        <!-- end of column -->\n       \
+        \ <div class=\"col-lg-4 col-md-5 margin-top\">\n\n          <div class=\"\
+        text-center\">\n              <div style=\"min-height:250px\">\n        <div\
+        \ id=\"StockNews_ROS_RightRail_1\" class=\"text-center\">\n        <script\
+        \ type=\"lazyload_ext\">\n        apntag.anq.push(function() {\n         \
+        \   apntag.showTag('StockNews_ROS_RightRail_1');\n        });\n        </script>\n\
+        \    </div>\n      </div>          </div>\n\n          <div class=\"margin-top\"\
+        >\n                        <h3>\n              Top Rated Stocks\n        \
+        \      <a href=\"/best-stocks/\" class=\"btn btn-default\">View All</a>\n\
+        \            </h3>\n            <div class=\"panel panel-default\">\n    \
+        \          <table class=\"table fourteen simple table-striped table-movers\"\
+        >\n                <thead>\n                  <tr>\n                    <th>Sym</th>\n\
+        \                    <th class=\"hidden-md hidden-sm hidden-xs\">Company</th>\n\
+        \                    <th class=\"text-center\">POWR Rating&trade; <a class=\"\
+        sn_pop\" href=\"#\" data-placement=\"bottom\" data-toggle=\"popover\"\n  \
+        \              title=\"POWR Rating\"\n                data-content=\"<p>An\
+        \ equity's Performance Optimized Weighted Rating (POWR) is based upon its\
+        \ recent price performance, technical levels, analyst sentiment, performance\
+        \ vs. peers, industry rank, and more.</p>\n                <p><a href='/powr-ratings/'>More\
+        \ about POWR Ratings &raquo;</a></p>\"><span class=\"glyphicon glyphicon-question-sign\"\
+        ></span></a></th>\n                  </tr>\n                </thead>\n   \
+        \             <tbody>\n                                    <tr>\n        \
+        \            <td><strong><a href=\"/stock/AAPL/\">AAPL</a></strong></td>\n\
+        \                    <td><a href=\"/stock/AAPL/\">Apple Inc.</a></td>\n  \
+        \                  <td class=\"text-center grade-2\">\n                  \
+        \    <strong>A</strong><br>\n                    </td>\n                 \
+        \ </tr>\n                                    <tr>\n                    <td><strong><a\
+        \ href=\"/stock/MSFT/\">MSFT</a></strong></td>\n                    <td><a\
+        \ href=\"/stock/MSFT/\">Microsoft Corporation</a></td>\n                 \
+        \   <td class=\"text-center grade-2\">\n                      <strong>A</strong><br>\n\
+        \                    </td>\n                  </tr>\n                    \
+        \                <tr>\n                    <td><strong><a href=\"/stock/GOOG/\"\
+        >GOOG</a></strong></td>\n                    <td><a href=\"/stock/GOOG/\"\
+        >Alphabet Inc. </a></td>\n                    <td class=\"text-center grade-1\"\
+        >\n                      <strong>A</strong><br>\n                    </td>\n\
+        \                  </tr>\n                                    <tr>\n     \
+        \               <td class=\"grade-locked\"><a href=\"/members/signup\" class=\"\
+        width-full\"><span class=\"glyphicon glyphicon-lock white\" aria-hidden=\"\
+        true\"></span></td>\n                    <td class=\"grade-locked\"><a href=\"\
+        /members/signup\" class=\"width-full\"><span class=\"glyphicon glyphicon-lock\
+        \ white\" aria-hidden=\"true\"></span> Unlock Now</td>\n                 \
+        \   <td class=\"grade-locked text-center\"><a href=\"/members/signup\" class=\"\
+        width-full\"><span class=\"glyphicon glyphicon-lock white\" aria-hidden=\"\
+        true\"></span></td>\n                  </tr>\n                           \
+        \         <tr>\n                    <td class=\"grade-locked\"><a href=\"\
+        /members/signup\" class=\"width-full\"><span class=\"glyphicon glyphicon-lock\
+        \ white\" aria-hidden=\"true\"></span></td>\n                    <td class=\"\
+        grade-locked\"><a href=\"/members/signup\" class=\"width-full\"><span class=\"\
+        glyphicon glyphicon-lock white\" aria-hidden=\"true\"></span> Unlock Now</td>\n\
+        \                    <td class=\"grade-locked text-center\"><a href=\"/members/signup\"\
+        \ class=\"width-full\"><span class=\"glyphicon glyphicon-lock white\" aria-hidden=\"\
+        true\"></span></td>\n                  </tr>\n                           \
+        \       </tbody>\n              </table>\n            </div><!-- end of panel\
+        \ -->\n            <a href=\"/best-stocks/\" class=\"btn btn-default width-full\"\
+        >View All Top Rated Stocks</a>\n          </div>\n\n        <div class=\"\
+        text-center margin-top\">\n            <div style=\"min-height:500px\">\n\
+        \    \n    \n\t        <div id=\"StockNews_ROS_RightRail\" class=\"text-center\"\
+        >\n    \t<script language=\"javascript\" data-src=\"https://live.sekindo.com/live/liveView.php?s=98943&cbuster=[CACHE_BUSTER]&pubUrl=[PAGE_URL_ENCODED]&x=[WIDTH]&y=[HEIGHT]&vp_content=plembed1277xghnqwrs&vp_template=5268&subId=[SUBID_ENCODED]\"\
+        \ type=\"lazyload_int\" ></script>\n\n\n\n          </div>\n\n\n\n  </div>\n\
+        \n        </div>\n\n      </div>\n\n    </article>\n\n  </div><!-- end of\
+        \ content -->\nPage generated in 0.0568 seconds.        </div><!-- end of\
+        \ wrapper-->\n\n\n</div><!-- end of container -->\n\n<footer id=\"footer\"\
+        \ class=\"clearfix\">\n  <div class=\"container\">\n    <hr>\n    <div id=\"\
+        footer-wrapper\">\n      <div class=\"row margin-bottom\">\n        <div class=\"\
+        col-lg-6\">\n          \xA92021 StockNews.com                </div><!-- end\
+        \ column -->\n                      <div class=\"col-lg-6 text-right\">\n\
+        \          <a href=\"/about/\">About Us</a> | <a href=\"/contact/\">Contact\
+        \ Us</a> | <a href=\"/privacy/\">Privacy Policy</a> | <a href=\"/legal/\"\
+        >Terms of Use</a>\n        </div>\n              </div><!-- end row -->\n\
+        \            <div class=\"row\">\n        <div class=\"col-lg-6\">\n     \
+        \     <p><small>Copyright \xA9 2021. Market data provided is at least 10-minutes\
+        \ delayed and hosted by <a href=\"https://www.barchart.com/solutions\" target=\"\
+        _blank\">Barchart Solutions</a>.<br>Information is provided 'as-is' and solely\
+        \ for informational purposes, not for trading purposes or advice, and is delayed.\
+        \ To see all exchange delays and terms of use, please see <a href=\"http://www.barchart.com/solutions/company/terms-and-privacy\"\
+        >disclaimer</a>.</small></p>\n        </div>\n        <div class=\"col-lg-6\"\
+        \n          <p><small>Automated Insights by <a href=\"https://sixjupiter.com\"\
+        \  target=\"_blank\">SixJupiter</a>.\n          <br><br>\n          <em>This\
+        \ site is protected by reCAPTCHA and the Google <a href=\"https://policies.google.com/privacy\"\
+        \ rel=\"nofollow\">Privacy Policy</a> and <a href=\"https://policies.google.com/terms\"\
+        \ rel=\"nofollow\">Terms of Service</a>\_apply.</em></small>\n          </p>\n\
+        \        </div>\n      </div>\n          </div><!-- end #footer-wrapper -->\n\
+        \  </div> <!-- end container -->\n</footer><!-- end #footer -->\n\n\n<script\
+        \ type=\"lazyload_ext\"async=\"\">(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='d1a293004a063000b79b40002eed8d007d2680005842eb00f4865000f034f400';j.dataset.sumoPlatform='wordpress';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>\
+        \    <script type=\"lazyload\">\r\n      var ajaxurl = \"https://stocknews.com/wp-admin/admin-ajax.php\"\
+        ;\r\n\r\n      function sumo_add_woocommerce_coupon(code) {\r\n        jQuery.post(ajaxurl,\
+        \ {\r\n          action: 'sumo_add_woocommerce_coupon',\r\n          code:\
+        \ code,\r\n        });\r\n      }\r\n\r\n      function sumo_remove_woocommerce_coupon(code)\
+        \ {\r\n        jQuery.post(ajaxurl, {\r\n          action: 'sumo_remove_woocommerce_coupon',\r\
+        \n          code: code,\r\n        });\r\n      }\r\n\r\n      function sumo_get_woocommerce_cart_subtotal(callback)\
+        \ {\r\n        jQuery.ajax({\r\n          method: 'POST',\r\n          url:\
+        \ ajaxurl,\r\n          dataType: 'html',\r\n          data: {\r\n       \
+        \     action: 'sumo_get_woocommerce_cart_subtotal',\r\n          },\r\n  \
+        \        success: function(subtotal) {\r\n            return callback(null,\
+        \ subtotal);\r\n          },\r\n          error: function(err) {\r\n     \
+        \       return callback(err, 0);\r\n          }\r\n        });\r\n      }\r\
+        \n    </script>\r\n    \t\t<script>\n\t\t/* <![CDATA[ */\n\t\tif(document.querySelector('#dow-label')\
+        \ != null){\n\t\t\tsetTimeout(function(){\n\t\t\t\tvar xmlhttp = new XMLHttpRequest();\n\
+        \t\t\t\txmlhttp.onreadystatechange = function() {\n\t\t\t\t  if (this.readyState\
+        \ == 4 && this.status == 200) {\n\t\t\t\t\tvar json = JSON.parse(this.responseText);\n\
+        \t\t\t\t\tdocument.querySelector(\"#dow-label\").innerHTML ='<strong class=\"\
+        dark-gray\">DIA</strong> ';\n\t\t\t\t\tdocument.querySelector(\"#dow-price\"\
+        ).innerHTML = '<span class=\"medium-gray\">' + json.results[0].price_formatted\
+        \ +'</span>';\n\t\t\t\t\tdocument.querySelector(\"#dow-quote\").innerHTML\
+        \ = '<span class=\"' + json.results[0].change_class + '-text\"><span class=\"\
+        ' + json.results[0].arrow_class + '\"></span> ' + json.results[0].abs_change\
+        \ + '<span class=\"hidden-xs\"> (' + json.results[0].pct_change + '%)</span></span>';\n\
+        \t\t\t\t\tdocument.querySelector(\"#spx-label\").innerHTML = '<strong class=\"\
+        dark-gray\">SPY</strong> ';\n\t\t\t\t\tdocument.querySelector(\"#spx-price\"\
+        ).innerHTML = '<span class=\"medium-gray\">' + json.results[1].price_formatted\
+        \ +'</span>';\n\t\t\t\t\tdocument.querySelector(\"#spx-quote\").innerHTML\
+        \ = '<span class=\"' + json.results[1].change_class + '-text\"><span class=\"\
+        ' + json.results[1].arrow_class + '\"></span> ' + json.results[1].abs_change\
+        \ + '<span class=\"hidden-xs\"> (' + json.results[1].pct_change + '%)</span></span>';\n\
+        \t\t\t\t\tdocument.querySelector(\"#nas-label\").innerHTML = '<strong class=\"\
+        dark-gray\">QQQ</strong> ';\n\t\t\t\t\tdocument.querySelector(\"#nas-price\"\
+        ).innerHTML = '<span class=\"medium-gray\">' + json.results[2].price_formatted\
+        \ +'</span>';\n\t\t\t\t\tdocument.querySelector(\"#nas-quote\").innerHTML\
+        \ = '<span class=\"' + json.results[2].change_class + '-text\"><span class=\"\
+        ' + json.results[2].arrow_class + '\"></span> ' + json.results[2].abs_change\
+        \ + '<span class=\"hidden-xs\">  (' + json.results[2].pct_change + '%)</span></span>';\n\
+        \t\t\t\t  }\n\t\t\t\t};\n\t\t\t\txmlhttp.open(\"GET\", \"//stocknews.com/wp-content/themes/strappress-child/includes/price-json.json?648fb52fa4e9eb765286911ed9d1e6cc\"\
+        , true);\n\t\t\t\txmlhttp.send();\n\t\t\t},1500)\n\t\t}\n\t\t/* ]]> */\n\t\
+        \t</script>\n<script>\n/* <![CDATA[ */\nvar wpcf7 = {\"apiSettings\":{\"root\"\
+        :\"https:\\/\\/stocknews.com\\/wp-json\\/contact-form-7\\/v1\",\"namespace\"\
+        :\"contact-form-7\\/v1\"}};\n/* ]]> */\n</script>\n<script type=\"lazyload_int\"\
+        \ data-src=\"https://stocknews.com/wp-content/cache/wnw-cache/all-js/50bcf510a2ea748ecf02959a76604cb1.js\"\
+        ></script>\n<script data-src=\"https://www.google.com/recaptcha/api.js?render=6LchJtYUAAAAAEElEanUrnd4BKqz0D3BgliK1AKc\"\
+        \ type=\"lazyload_ext\" ></script>\n<script>\n/* <![CDATA[ */\nvar wpcf7_recaptcha\
+        \ = {\"sitekey\":\"6LchJtYUAAAAAEElEanUrnd4BKqz0D3BgliK1AKc\",\"actions\"\
+        :{\"homepage\":\"homepage\",\"contactform\":\"contactform\"}};\n/* ]]> */\n\
+        </script>\n\n\n\n\n\n<!-- AST \u2013 IMS - [StockNews_PopUp] -->\n<div id=\"\
+        StockNews_PopUp_PopUp\" class=\"text-center\">\n  <!--<script>\n  apntag.anq.push(function()\
+        \ {\n    apntag.showTag('StockNews_PopUp_PopUp');\n  });\n  </script>-->\n\
+        </div>\n<!-- End AST \u2013 IMS - [StockNews_PopUp] -->\n\n\n<!-- Push Monkey\
+        \ code  -->\n\n<!-- dfp script-->\n<script type=\"lazyload_ext\"defer=\"defer\"\
+        data-cfasync=\"false\"> (function() { window.advBidxc = window.advBidxc ||\
+        \ {}; window.advBidxc.startTime = new Date().getTime(); function loadScript(tagSrc)\
+        \ { var scriptTag = document.createElement('script'), placeTag = document.getElementsByTagName(\"\
+        script\")[0]; scriptTag.type = 'text/javascript'; scriptTag.async = true;\
+        \ scriptTag.src = tagSrc; placeTag.parentNode.insertBefore(scriptTag, placeTag);\
+        \ } var mnSrc = '//hbx.media.net/bidexchange.js?cid=8CU2C156D&version=5.1'\
+        \ + '&dn=' + window.location.hostname; loadScript(mnSrc); })(); </script>\n\
+        <!-- dfp script -->\n\n<!-- pardot script -->\n<script type=\"lazyload_ext\"\
+        >\npiAId = '890453';\npiCId = '1072';\npiHostname = 'pi.pardot.com';\n\n(function()\
+        \ {\n\tfunction async_load(){\n\t\tvar s = document.createElement('script');\
+        \ s.type = 'text/javascript';\n\t\ts.src = ('https:' == document.location.protocol\
+        \ ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';\n\t\tvar c = document.getElementsByTagName('script')[0];\
+        \ c.parentNode.insertBefore(s, c);\n\t}\n\tif(window.attachEvent) { window.attachEvent('onload',\
+        \ async_load); }\n\telse { window.addEventListener('load', async_load, false);\
+        \ }\n})();\n</script>\n\n<!-- pardot script -->\n<div class=\"mobileShow\"\
+        \ id=\"mobileShow\">\n\t<span class=\"close_btn\" onclick=\"document.getElementById('mobileShow').style.display='none'\"\
+        ></span>\n<div id='stocknews-com-mobile-sticky'>\n  <script type=\"lazyload_ext\"\
+        >\n    googletag.cmd.push(function() { googletag.display('stocknews-com-mobile-sticky');\
+        \ });\n  </script>\n</div>\n</div>\n\n<script type=\"lazyload_int\" data-src=\"\
+        https://stocknews.com/wp-content/cache/wnw-cache/all-js/c24478dea36d6aa2a2b748f26e29515a.js\"\
+        ></script><script>var lazy_load_by_px=200;var internal_js_delay_load = 9000;var\
+        \ js_delay_load = 10000;var internal_css_delay_load = 8000;var google_fonts_delay_load\
+        \ = 5000;var lazy_load_css=[];var googlefont=[\"https:\\/\\/fonts.googleapis.com\\\
+        /css?display=swap&family=Open+Sans%3A300%2C300i%2C400%2C400i%2C600%2C600i%2C700%2C700i%2C800%2C800i\"\
+        ];blank_image_webp_url = \"https://stocknews.com/wp-content/uploads/blank.pngw3.webp\"\
+        ;var upload_path=\"/wp-content\";var webp_path=\"/wp-content/w3-webp\";var\
+        \ wnw_first_js=false;var wnw_int_first_js=false;var wnw_first_inner_js=false;var\
+        \ wnw_first_css=false;var wnw_first_google_css=false;var wnw_first=false;var\
+        \ external_single_loaded=1;var internal_js=document.querySelectorAll(\"script[type=lazyload_int]\"\
+        );var inline_js=document.querySelectorAll(\"script[type=lazyload]\");var mousemoveloadimg=false;var\
+        \ page_is_scrolled=false;function fixwebp(){if(!hasWebP){var elementNames=[\"\
+        *\"];var elementImg=document.querySelectorAll(\"img[src$='w3.webp']\");for(var\
+        \ ig=0;ig<elementImg.length;ig++){if(elementImg[ig].getAttribute(\"data-src\"\
+        )!=null&&elementImg[ig].getAttribute(\"data-src\")!=\"\"){var datasrc=elementImg[ig].getAttribute(\"\
+        data-src\");elementImg[ig].setAttribute(\"data-src\",datasrc.replace(\"w3.webp\"\
+        ,\"\").replace(webp_path,upload_path));}\nif(elementImg[ig].getAttribute(\"\
+        data-srcset\")!=null&&elementImg[ig].getAttribute(\"data-srcset\")!=\"\"){var\
+        \ datasrcset=elementImg[ig].getAttribute(\"data-srcset\");elementImg[ig].setAttribute(\"\
+        data-srcset\",datasrcset.replace(/w3.webp/g,\"\").split(webp_path).join(upload_path));}\n\
+        if(elementImg[ig].src!=null&&elementImg[ig].src!=\"\"){var src=elementImg[ig].src;elementImg[ig].src=src.replace(\"\
+        w3.webp\",\"\").replace(webp_path,upload_path);}\nif(elementImg[ig].srcset!=null&&elementImg[ig].srcset!=\"\
+        \"){var srcset=elementImg[ig].srcset;elementImg[ig].srcset=srcset.replace(/w3.webp/g,\"\
+        \").split(webp_path).join(upload_path);}}\nelementNames.forEach(function(tagName){var\
+        \ tags=document.getElementsByTagName(tagName);var numTags=tags.length;for(var\
+        \ i=0;i<numTags;i++){var tag=tags[i];var style=tag.currentStyle||window.getComputedStyle(tag,false);var\
+        \ bg=style.backgroundImage;if(bg.match(\"w3.webp\")){if(document.all){tag.style.setAttribute(\"\
+        cssText\",\";background-image: \"+bg.replace(\"w3.webp\",\"\").replace(webp_path,upload_path)+\"\
+        \ !important;\");}else{tag.setAttribute(\"style\",tag.getAttribute(\"style\"\
+        )+\";background-image: \"+bg.replace(\"w3.webp\",\"\").replace(webp_path,upload_path)+\"\
+        \ !important;\");}}}});}}\nfunction w3_change_webp(){if(bg.match(\"w3.webp\"\
+        )){if(document.all){tag.style.setAttribute(\"cssText\",\"background-image:\
+        \ \"+bg.replace(\"w3.webp\",\"\").replace(webp_path,upload_path)+\" !important\"\
+        );var style1=tag.currentStyle||window.getComputedStyle(tag,false);}else{tag.setAttribute(\"\
+        style\",\"background-image: \"+bg.replace(\"w3.webp\",\"\").replace(webp_path,upload_path)+\"\
+        \ !important\");var style1=tag.currentStyle||window.getComputedStyle(tag,false);}}}\n\
+        var hasWebP=false;(function(){var img=new Image();img.onload=function(){hasWebP=!!(img.height>0&&img.width>0);};img.onerror=function(){hasWebP=false;fixwebp();};img.src=blank_image_webp_url;})();setTimeout(function(){load_googlefont();},google_fonts_delay_load);window.addEventListener(\"\
+        DOMContentLoaded\",function(event){setTimeout(function(){load_intJS_main();},internal_js_delay_load);setTimeout(function(){load_extJS();},js_delay_load);setTimeout(function(){load_extCss();},internal_css_delay_load);lazyloadimages(0);if(document.getElementById(\"\
+        main-js\")!==null){load_all_js();}});window.addEventListener(\"scroll\",function(event){load_googlefont();var\
+        \ top=this.scrollY;lazyloadimages(top);lazyloadiframes(top);js_delay_load=500;load_all_js();load_extCss();},{passive:true});window.addEventListener(\"\
+        mousemove\",function(){load_googlefont();js_delay_load=500;load_all_js();load_extCss();},{passive:true});window.addEventListener(\"\
+        touchstart\",function(){load_googlefont();js_delay_load=500;load_all_js();load_extCss();},{passive:true});function\
+        \ load_all_js(){load_intJS_main();setTimeout(function(){load_extJS();},js_delay_load);if(mousemoveloadimg==false){var\
+        \ top=this.scrollY;lazyloadimages(top);mousemoveloadimg=true;}}\nfunction\
+        \ insertAfter(newNode,referenceNode){referenceNode.parentNode.insertBefore(newNode,referenceNode.nextSibling);}\n\
+        var inner_js_counter=-1;var s={};function load_extJS(){if(wnw_first_js){return;}\n\
+        if(!wnw_int_first_js){setTimeout(function(){load_extJS();},1000);return;}\n\
+        wnw_first_js=true;var static_script=document.querySelectorAll(\"script[type=lazyload_ext]\"\
+        );for(i=0;i<static_script.length;i++){if(static_script[i].getAttribute(\"\
+        data-src\")!==null){w3_load_js_uri(static_script[i]);}else{w3_load_inline_js_single(static_script[i]);}}}\n\
+        function load_extJS(){if(wnw_first_js){return;}\nif(!wnw_int_first_js){setTimeout(function(){load_extJS();},1000);return;}\n\
+        wnw_first_js=true;load_extJS_execute();}\nfunction load_extJS_execute(){var\
+        \ static_script=document.querySelectorAll(\"script[type=lazyload_ext]\");if(static_script.length<1){return;}\n\
+        if(static_script[0].getAttribute(\"data-src\")!==null){var js_obj=w3_load_js_uri(static_script[0]);js_obj.onload=function(){load_extJS_execute();}\n\
+        js_obj.onerror=function(){load_extJS_execute();}}else{w3_load_inline_js_single(static_script[0]);load_extJS_execute();}}\n\
+        function w3_load_js_uri(static_script){var ext_js_element=document.createElement(\"\
+        script\");ext_js_element.async=true;if(typeof(static_script.attributes)!=\"\
+        undefined\"){for(var att,i3=0,atts=static_script.attributes,n3=atts.length;i3<n3;i3++){att=atts[i3];if(att.nodeName!=\"\
+        data-src\"&&att.nodeName!=\"type\"){ext_js_element.setAttribute(att.nodeName,att.nodeValue);}}}\n\
+        ext_js_element.src=static_script.getAttribute(\"data-src\");var godefer2=document.getElementsByTagName(\"\
+        head\")[0];godefer2.appendChild(ext_js_element);delete static_script.dataset.src;delete\
+        \ static_script.type;static_script.parentNode.removeChild(static_script);return\
+        \ ext_js_element;}\nvar internal_js_loaded=false;var internal_js_called=false;var\
+        \ inner_js_counter1=-1;var s1={};function load_intJS_main(){if(internal_js_called){return;}\n\
+        internal_js_called=true;load_intJS();}\nfunction load_intJS(){if(wnw_int_first_js){return;}\n\
+        if(inner_js_counter1+1<internal_js.length){inner_js_counter1++;var script=internal_js[inner_js_counter1];if(script.getAttribute(\"\
+        type\")!==null&&script.getAttribute(\"type\")==\"lazyload_int\"){if(script.getAttribute(\"\
+        data-src\")!=null){var s=w3_load_js_uri(script);s.onload=function(){external_single_loaded=1;load_intJS();};s.onerror=function(){external_single_loaded=1;load_intJS();w3_redirect_resource_404(this.src);}}}else{load_intJS();}}else{w3_load_inline_js();}}\n\
+        function w3_load_inline_js_single(script){console.log(\"single\",external_single_loaded);if(!external_single_loaded){setTimeout(function(){w3_load_inline_js_single(script);},200);return\
+        \ false;}\nvar s=document.createElement(\"script\");for(var i2=0;i2<script.attributes.length;i2++){var\
+        \ attrib=script.attributes[i2];if(attrib.name!=\"type\"){s.setAttribute(attrib.name,attrib.value);}}\n\
+        s.innerHTML=script.innerHTML;insertAfter(s,script);script.parentNode.removeChild(script);}\n\
+        function w3_load_inline_js(){for(var i3=0;i3<inline_js.length;i3++){var script=inline_js[i3];w3_load_inline_js_single(script);}\n\
+        wnw_int_first_js=true;internal_js_loaded=1;var element=document.getElementsByTagName(\"\
+        html\")[0];setTimeout(function(){element.classList.add(\"w3_js\");},1000);}\n\
+        function w3_redirect_resource_404(js_src){if(js_src.indexOf(\"wnw-cache\"\
+        )!=-1){var new_url=new URL(window.document.location);var url_query=new URLSearchParams(window.location.search);if(url_query.get(\"\
+        ver\")!=\"true\"){url_query.append(\"ver\",\"true\");window.location.href=new_url.origin+new_url.pathname+\"\
+        ?\"+url_query.toString();}}}\nfunction load_googlefont(){if(wnw_first_google_css==false&&typeof\
+        \ googlefont!=undefined&&googlefont!=null&&googlefont.length>0){googlefont.forEach(function(src){var\
+        \ load_css=document.createElement(\"link\");load_css.rel=\"stylesheet\";load_css.href=src;load_css.type=\"\
+        text/css\";var godefer2=document.getElementsByTagName(\"link\")[0];if(godefer2==undefined){document.getElementsByTagName(\"\
+        head\")[0].appendChild(load_css);}else{godefer2.parentNode.insertBefore(load_css,godefer2);}});wnw_first_google_css=true;}}\n\
+        var exclude_lazyload=null;var win_width=screen.availWidth;function w3_load_css_uri(static_css){var\
+        \ css_element=document.createElement(\"link\");css_element.href=static_css.getAttribute(\"\
+        data-href\");css_element.rel=\"stylesheet\";delete static_css.dataset.href;static_css.parentNode.insertBefore(css_element,static_css);static_css.parentNode.removeChild(static_css);}\n\
+        function load_extCss(){if(wnw_first_css==false){lazyloadimages(0);lazyloadiframes(0);var\
+        \ static_css=document.querySelectorAll(\"link[data-href]\");for(i=0;i<static_css.length;i++){if(static_css[i].getAttribute(\"\
+        data-href\")!==null){w3_load_css_uri(static_css[i]);}}\nwnw_first_css=true;}}\n\
+        setInterval(function(){lazyloadiframes(top);},8000);setInterval(function(){lazyloadimages(0);fixwebp();},3000);document.addEventListener(\"\
+        click\",function(){lazyloadimages(0);});function lazyload_img(imgs,bodyRect,window_height,win_width){for(i=0;i<imgs.length;i++){if(imgs[i].getAttribute(\"\
+        data-class\")==\"LazyLoad\"){var elemRect=imgs[i].getBoundingClientRect(),offset=elemRect.top-bodyRect.top;if(elemRect.top!=0&&elemRect.top-window_height<lazy_load_by_px){compStyles=window.getComputedStyle(imgs[i]);if(compStyles.getPropertyValue(\"\
+        opacity\")==0){continue;}\nvar src=imgs[i].getAttribute(\"data-src\")?imgs[i].getAttribute(\"\
+        data-src\"):imgs[i].src;var srcset=imgs[i].getAttribute(\"data-srcset\")?imgs[i].getAttribute(\"\
+        data-srcset\"):\"\";imgs[i].src=src;if(imgs[i].srcset!=null&imgs[i].srcset!=\"\
+        \"){imgs[i].srcset=srcset;}\ndelete imgs[i].dataset.class;imgs[i].setAttribute(\"\
+        data-done\",\"Loaded\");}}}}\nfunction lazyload_video(imgs,top,window_height,win_width){for(i=0;i<imgs.length;i++){var\
+        \ elemRect=imgs[i].getBoundingClientRect();if(typeof(imgs[i].getElementsByTagName(\"\
+        source\")[0])==\"undefined\"){lazyload_video_source(imgs[i],top,window_height,win_width);}else{var\
+        \ sources=imgs[i].getElementsByTagName(\"source\");for(j=0;j<sources.length;j++){var\
+        \ source=sources[j];lazyload_video_source(source,top,window_height,win_width,elemRect);}}}}\n\
+        function lazyload_video_source(source,top,window_height,win_width,elemRect){if(typeof\
+        \ source!=\"undefined\"&&source.getAttribute(\"data-class\")==\"LazyLoad\"\
+        ){if(elemRect.top-window_height<0&&(top>0||internal_js_loaded==1)){var src=source.getAttribute(\"\
+        data-src\")?source.getAttribute(\"data-src\"):source.src;var srcset=source.getAttribute(\"\
+        data-srcset\")?source.getAttribute(\"data-srcset\"):\"\";if(source.srcset!=null&source.srcset!=\"\
+        \"){source.srcset=srcset;}\ndelete source.dataset.class;source.setAttribute(\"\
+        data-done\",\"Loaded\");}}}\nfunction lazyloadimages(top){var imgs=document.getElementsByTagName(\"\
+        img\");var ads=document.getElementsByClassName(\"lazyload-ads\");var sources=document.getElementsByTagName(\"\
+        video\");var bodyRect=document.body.getBoundingClientRect();var window_height=window.innerHeight;var\
+        \ win_width=screen.availWidth;lazyload_img(imgs,bodyRect,window_height,win_width);lazyload_video(sources,top,window_height,win_width);}\n\
+        lazyloadimages(0);function lazyloadiframes(top){var bodyRect=document.body.getBoundingClientRect();var\
+        \ window_height=window.innerHeight;var win_width=screen.availWidth;var iframes=document.getElementsByTagName(\"\
+        iframe\");lazyload_img(iframes,bodyRect,window_height,win_width);}</script></body>\n\
+        </html>"
+    headers:
+      CF-Cache-Status:
+      - BYPASS
+      CF-RAY:
+      - 611b3b21bbc3ea72-IAD
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Thu, 14 Jan 2021 23:45:30 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Link:
+      - <https://stocknews.com/wp-json/>; rel="https://api.w.org/", <https://stocknews.com/?p=250>;
+        rel=shortlink
+      Pragma:
+      - no-cache
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d3248f9d2ccfb91831d1cc27d7afb1d391610667929; expires=Sat, 13-Feb-21
+        23:45:29 GMT; path=/; domain=.stocknews.com; HttpOnly; SameSite=Lax
+      - PHPSESSID=9ah2r6fg6opplssh1jaqa6irc1; path=/
+      - sn_first_timer=0; expires=Wed, 14-Apr-2021 22:45:42 GMT; Max-Age=7772400
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Powered-By:
+      - PHP/7.0.12
+      cf-request-id:
+      - 07a4e349170000ea7291aa8000000001
+      content-length:
+      - '120130'
+    status:
+      code: 200
+      message: OK
+version: 1

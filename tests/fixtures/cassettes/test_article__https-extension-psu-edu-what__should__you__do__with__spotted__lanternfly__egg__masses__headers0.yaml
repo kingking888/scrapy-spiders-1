@@ -1,0 +1,1767 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - extension.psu.edu
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://extension.psu.edu/what-should-you-do-with-spotted-lanternfly-egg-masses
+  response:
+    body:
+      string: "<!DOCTYPE html><!--[if lt IE 7 ]><html lang=\"en\" id=\"top\" class=\"\
+        no-js ie6\"> <![endif]--> <!--[if IE 7 ]><html lang=\"en\" id=\"top\" class=\"\
+        no-js ie7\"> <![endif]--> <!--[if IE 8 ]><html lang=\"en\" id=\"top\" class=\"\
+        no-js ie8\"> <![endif]--> <!--[if IE 9 ]><html lang=\"en\" id=\"top\" class=\"\
+        no-js ie9\"> <![endif]--> <!--[if (gt IE 9)|!(IE)]><!--><html lang=\"en\"\
+        \ id=\"top\" class=\"no-js\"> <!--<![endif]--><head><meta http-equiv=\"Content-Type\"\
+        \ content=\"text/html; charset=utf-8\" /><title>What Should You Do With Spotted\
+        \ Lanternfly Egg Masses?</title><meta name=\"description\" content=\"Information\
+        \ about locating, identifying, and treating egg masses.\" /><meta name=\"\
+        keywords\" content=\"Penn State Extension, Agriculture, Dairy, Beef, Crops,\
+        \ Food Safety, Nutrition, Business Management, Natural Gas, Renewable Energy,\
+        \ Forest Management, Water, Cooperative Extension, University Park, Pennsylvania\"\
+        \ /><meta name=\"robots\" content=\"INDEX,FOLLOW\" /><link rel=\"icon\" href=\"\
+        https://extension.psu.edu/media/favicon/default/favicon.png\" type=\"image/x-icon\"\
+        \ /><link rel=\"shortcut icon\" href=\"https://extension.psu.edu/media/favicon/default/favicon.png\"\
+        \ type=\"image/x-icon\" /><link rel=\"stylesheet\" type=\"text/css\" media=\"\
+        all\" href=\"https://extension.psu.edu/media/po_compressor/f023b01a25192483d872e2f7280ea19c.css\"\
+        \ /><link rel=\"stylesheet\" type=\"text/css\" media=\"print\" href=\"https://extension.psu.edu/media/po_compressor/3885bdc9b0a0682961e48e8bf480e532.css\"\
+        \ /><link rel=\"stylesheet\" type=\"text/css\" media=\"all\" href=\"//use.fontawesome.com/d05020ce4a.css\"\
+        \ /><link rel=\"canonical\" href=\"https://extension.psu.edu/what-should-you-do-with-spotted-lanternfly-egg-masses\"\
+        \ /> <!--[if (lte IE 8) & (!IEMobile)]><link rel=\"stylesheet\" type=\"text/css\"\
+        \ media=\"all\" href=\"https://extension.psu.edu/media/po_compressor/90f6b395fcdda0b20646dedfcc98129b.css\"\
+        \ /><![endif]--> <!--[if (gte IE 9) | (IEMobile)]><!--><link rel=\"stylesheet\"\
+        \ type=\"text/css\" media=\"all\" href=\"https://extension.psu.edu/media/po_compressor/071d707da3e0f5abfaa75f4c064c71cd.css\"\
+        \ /> <!--<![endif]--><meta name=\"viewport\" content=\"initial-scale=1.0,\
+        \ width=device-width\" /><meta property=\"og:title\" content=\"What Should\
+        \ You Do With Spotted Lanternfly Egg Masses?\" /><meta property=\"og:site_name\"\
+        \ content=\"Penn State Extension\" /><meta property=\"og:description\" content=\"\
+        Information about locating, identifying, and treating egg masses.\" /><meta\
+        \ property=\"og:url\" content=\"https://extension.psu.edu/what-should-you-do-with-spotted-lanternfly-egg-masses\"\
+        \ /><meta property=\"og:image\" content=\"https://extension.psu.edu/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/i/m/image_3777_1_2_1_262_1_23_1_28_2_11_2_2_2_38_1_94_7_2_24_46_6_414_49_21_45_2_25_15_1_9_1_18_9_6_5_1_21_3_29_8_2_1_13_5_1_6735.jpg\"\
+        \ /><meta property=\"og:type\" content=\"product\" /><meta property=\"og:image:width\"\
+        \ content=\"443\" /><meta property=\"og:image:height\" content=\"295\" /><meta\
+        \ name=\"twitter:card\" content=\"summary\" /><meta name=\"twitter:url\" content=\"\
+        https://extension.psu.edu/what-should-you-do-with-spotted-lanternfly-egg-masses\"\
+        \ /><meta name=\"twitter:title\" content=\"What Should You Do With Spotted\
+        \ Lanternfly Egg Masses?\" /><meta name=\"twitter:description\" content=\"\
+        Information about locating, identifying, and treating egg masses.\" /><meta\
+        \ name=\"twitter:image\" content=\"https://extension.psu.edu/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/i/m/image_3777_1_2_1_262_1_23_1_28_2_11_2_2_2_38_1_94_7_2_24_46_6_414_49_21_45_2_25_15_1_9_1_18_9_6_5_1_21_3_29_8_2_1_13_5_1_6735.jpg\"\
+        \ /><link rel=\"image_src\" href=\"https://extension.psu.edu/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/i/m/image_3777_1_2_1_262_1_23_1_28_2_11_2_2_2_38_1_94_7_2_24_46_6_414_49_21_45_2_25_15_1_9_1_18_9_6_5_1_21_3_29_8_2_1_13_5_1_6735.jpg\"\
+        \ type=\"image/jpeg\" title=\"Penn State Extension\" /><meta name=\"google-site-verification\"\
+        \ content=\"jG4FIBQg6f8wTpfP4xyiJCIDQq810Yv9VwMmAnbPvhQ\" /><meta name=\"\
+        p:domain_verify\" content=\"bc1a3386e32c14f7f0daa08d42181d8b\"/></head><body\
+        \ class=\" catalog-product-view extensions product-2columns-right catalog-product-view\
+        \ product-what-should-you-do-with-spotted-lanternfly-egg-masses\"><div class=\"\
+        wrapper\"> <noscript><div class=\"global-site-notice noscript\"><div class=\"\
+        notice-inner\"><p> <strong>JavaScript seems to be disabled in your browser.</strong><br\
+        \ /> You must have JavaScript enabled in your browser to utilize the functionality\
+        \ of this website.</p></div></div> </noscript><div class=\"page\"> <header\
+        \ id=\"header\" class=\"page-header fixed-position\"><div class=\"page-header-container\"\
+        ><div class=\"top-header clearer\"> <a class=\"logo\" href=\"https://extension.psu.edu/\"\
+        > <img data-retina='' data-at2x='https://extension.psu.edu/media/featurednews/default/desktop-logo-retina_1.png'\
+        \ src=\"https://extension.psu.edu/skin/frontend/extensions/default/images/logo.png\"\
+        \ alt=\"Penn State Extension\" class=\"large\" /> <img data-retina='' data-at2x='https://extension.psu.edu/media/featurednews/default/mobile-logo-retina_1.png'\
+        \ src=\"https://extension.psu.edu/skin/frontend/extensions/default/images/logo-mobile.png\"\
+        \ alt=\"Penn State Extension\" class=\"small\" /> <img data-retina='' data-at2x='https://extension.psu.edu/media/featurednews/default/desktop-fixed-logo-retina_1.png'\
+        \ src=\"https://extension.psu.edu/media/featurednews/default/fixed-logo.png\"\
+        \ alt=\"Penn State Extension\" class=\"fixed\" /> <img data-retina='' data-at2x='https://extension.psu.edu/media/featurednews/default/mobile-fixed-logo-retina_1.png'\
+        \ src=\"https://extension.psu.edu/media/featurednews/default/fixed-logo-mobile.png\"\
+        \ alt=\"Penn State Extension\" class=\"mobile-fixed\" /> </a><div class=\"\
+        skip-links clearer\"><div class=\"header-nav-block\"> <a href=\"#header-nav\"\
+        \ class=\"skip-link skip-nav\"> <span class=\"icon\"></span> <span class=\"\
+        label\">Menu</span> </a><div id=\"header-nav\" class=\"skip-content header-nav\"\
+        > <!--{MENU_BLOCK_90929d6e97ba0f4c6d46cf82ee730dae}--> <nav id=\"nav\" role=\"\
+        navigaton\" aria-label=\"Primary\" class=\"clearer\"><ol class=\"nav-primary\
+        \ navigation-tab before\"><li class=\"level0 nav-1 first parent\"><a href=\"\
+        https://extension.psu.edu/animals-and-livestock\" class=\"level0 has-children\
+        \ \">Animals and Livestock</a><i class=\"fa fa-angle-right open-submenu\"\
+        ></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"child child-1\
+        \ navigation-tab\"><ul class=\"level0\"><li class=\"category-label level1\"\
+        ><span class=\"text\">Animals and Livestock</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level1 nav-1-1 first parent\"><a href=\"https://extension.psu.edu/animals-and-livestock/dairy\"\
+        \ class=\"level1 has-children \">Dairy</a><i class=\"fa fa-angle-right open-submenu\"\
+        ></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"child child-2\
+        \ navigation-tab\"><ul class=\"level1\"><li class=\"category-label level2\"\
+        ><span class=\"text\">Dairy</span><a class=\"back\" href=\"#\">Back</a></li><li\
+        \ class=\"level2 nav-1-1-1 first\"><a href=\"https://extension.psu.edu/animals-and-livestock/dairy/product-quality\"\
+        \ class=\"level2 \">Product Quality</a></li><li class=\"level2 nav-1-1-2\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/dairy/nutrition-and-feeding\"\
+        \ class=\"level2 \">Nutrition and Feeding</a></li><li class=\"level2 nav-1-1-3\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/dairy/health-and-care\"\
+        \ class=\"level2 \">Health and Care</a></li><li class=\"level2 nav-1-1-4\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/dairy/reproduction-and-genetics\"\
+        \ class=\"level2 \">Reproduction and Genetics</a></li><li class=\"level2 nav-1-1-5\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/dairy/manure-and-nutrient-management\"\
+        \ class=\"level2 \">Manure and Nutrient Management</a></li><li class=\"level2\
+        \ nav-1-1-6\"><a href=\"https://extension.psu.edu/animals-and-livestock/dairy/facilities-and-technology\"\
+        \ class=\"level2 \">Facilities and Technology</a></li><li class=\"level2 nav-1-1-7\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/dairy/personal-safety\"\
+        \ class=\"level2 \">Personal Safety </a></li><li class=\"level2 nav-1-1-8\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/dairy/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-1-1-9\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/animals-and-livestock/dairy/see-all-dairy\"\
+        \ class=\"level2 \">See All Dairy</a></li></ul></nav></li><li class=\"level1\
+        \ nav-1-2 parent\"><a href=\"https://extension.psu.edu/animals-and-livestock/poultry\"\
+        \ class=\"level1 has-children \">Poultry</a><i class=\"fa fa-angle-right open-submenu\"\
+        ></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"child child-2\
+        \ navigation-tab\"><ul class=\"level1\"><li class=\"category-label level2\"\
+        ><span class=\"text\">Poultry</span><a class=\"back\" href=\"#\">Back</a></li><li\
+        \ class=\"level2 nav-1-2-1 first\"><a href=\"https://extension.psu.edu/animals-and-livestock/poultry/production-and-management\"\
+        \ class=\"level2 \">Production and Management</a></li><li class=\"level2 nav-1-2-2\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/poultry/product-quality\"\
+        \ class=\"level2 \">Product Quality</a></li><li class=\"level2 nav-1-2-3\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/poultry/nutrition-and-feeding\"\
+        \ class=\"level2 \">Nutrition and Feeding</a></li><li class=\"level2 nav-1-2-4\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/poultry/health-and-care\"\
+        \ class=\"level2 \">Health and Care</a></li><li class=\"level2 nav-1-2-5\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/poultry/reproduction-and-genetics\"\
+        \ class=\"level2 \">Reproduction and Genetics</a></li><li class=\"level2 nav-1-2-6\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/poultry/manure-and-nutrient-management\"\
+        \ class=\"level2 \">Manure and Nutrient Management</a></li><li class=\"level2\
+        \ nav-1-2-7\"><a href=\"https://extension.psu.edu/animals-and-livestock/poultry/facilities-and-technology\"\
+        \ class=\"level2 \">Facilities and Technology</a></li><li class=\"level2 nav-1-2-8\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/poultry/personal-safety\"\
+        \ class=\"level2 \">Personal Safety </a></li><li class=\"level2 nav-1-2-9\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/poultry/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-1-2-10\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/animals-and-livestock/poultry/see-all-poultry\"\
+        \ class=\"level2 \">See All Poultry</a></li></ul></nav></li><li class=\"level1\
+        \ nav-1-3 parent\"><a href=\"https://extension.psu.edu/animals-and-livestock/beef-cattle\"\
+        \ class=\"level1 has-children \">Beef Cattle</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Beef Cattle</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level2 nav-1-3-1 first\"><a href=\"https://extension.psu.edu/animals-and-livestock/beef-cattle/production-and-management\"\
+        \ class=\"level2 \">Production and Management</a></li><li class=\"level2 nav-1-3-2\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/beef-cattle/product-quality\"\
+        \ class=\"level2 \">Product Quality</a></li><li class=\"level2 nav-1-3-3\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/beef-cattle/nutrition-and-feeding\"\
+        \ class=\"level2 \">Nutrition and Feeding</a></li><li class=\"level2 nav-1-3-4\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/beef-cattle/health-and-care\"\
+        \ class=\"level2 \">Health and Care</a></li><li class=\"level2 nav-1-3-5\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/beef-cattle/reproduction-and-genetics\"\
+        \ class=\"level2 \">Reproduction and Genetics</a></li><li class=\"level2 nav-1-3-6\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/beef-cattle/manure-and-nutrient-management\"\
+        \ class=\"level2 \">Manure and Nutrient Management</a></li><li class=\"level2\
+        \ nav-1-3-7\"><a href=\"https://extension.psu.edu/animals-and-livestock/beef-cattle/facilities-and-technology\"\
+        \ class=\"level2 \">Facilities and Technology</a></li><li class=\"level2 nav-1-3-8\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/beef-cattle/personal-safety\"\
+        \ class=\"level2 \">Personal Safety </a></li><li class=\"level2 nav-1-3-9\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/beef-cattle/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-1-3-10\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/animals-and-livestock/beef-cattle/see-all-beef-cattle\"\
+        \ class=\"level2 \">See All Beef Cattle</a></li></ul></nav></li><li class=\"\
+        level1 nav-1-4 parent\"><a href=\"https://extension.psu.edu/animals-and-livestock/equine\"\
+        \ class=\"level1 has-children \">Equine</a><i class=\"fa fa-angle-right open-submenu\"\
+        ></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"child child-2\
+        \ navigation-tab\"><ul class=\"level1\"><li class=\"category-label level2\"\
+        ><span class=\"text\">Equine</span><a class=\"back\" href=\"#\">Back</a></li><li\
+        \ class=\"level2 nav-1-4-1 first\"><a href=\"https://extension.psu.edu/animals-and-livestock/equine/pasture-and-environment-management\"\
+        \ class=\"level2 \">Pasture and Environment Management</a></li><li class=\"\
+        level2 nav-1-4-2\"><a href=\"https://extension.psu.edu/animals-and-livestock/equine/nutrition-and-feeding\"\
+        \ class=\"level2 \">Nutrition and Feeding</a></li><li class=\"level2 nav-1-4-3\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/equine/health-and-care\"\
+        \ class=\"level2 \">Health and Care</a></li><li class=\"level2 nav-1-4-4\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/equine/reproduction-and-genetics\"\
+        \ class=\"level2 \">Reproduction and Genetics</a></li><li class=\"level2 nav-1-4-5\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/equine/manure-and-nutrient-management\"\
+        \ class=\"level2 \">Manure and Nutrient Management</a></li><li class=\"level2\
+        \ nav-1-4-6\"><a href=\"https://extension.psu.edu/animals-and-livestock/equine/facilities-and-technology\"\
+        \ class=\"level2 \">Facilities and Technology</a></li><li class=\"level2 nav-1-4-7\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/equine/personal-safety\"\
+        \ class=\"level2 \">Personal Safety </a></li><li class=\"level2 nav-1-4-8\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/equine/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-1-4-9\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/animals-and-livestock/equine/see-all-equine\"\
+        \ class=\"level2 \">See All Equine</a></li></ul></nav></li><li class=\"level1\
+        \ nav-1-5 parent\"><a href=\"https://extension.psu.edu/animals-and-livestock/swine\"\
+        \ class=\"level1 has-children \">Swine</a><i class=\"fa fa-angle-right open-submenu\"\
+        ></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"child child-2\
+        \ navigation-tab\"><ul class=\"level1\"><li class=\"category-label level2\"\
+        ><span class=\"text\">Swine</span><a class=\"back\" href=\"#\">Back</a></li><li\
+        \ class=\"level2 nav-1-5-1 first\"><a href=\"https://extension.psu.edu/animals-and-livestock/swine/production-and-management\"\
+        \ class=\"level2 \">Production and Management</a></li><li class=\"level2 nav-1-5-2\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/swine/product-quality\"\
+        \ class=\"level2 \">Product Quality</a></li><li class=\"level2 nav-1-5-3\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/swine/nutrition-and-feeding\"\
+        \ class=\"level2 \">Nutrition and Feeding</a></li><li class=\"level2 nav-1-5-4\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/swine/health-and-care\"\
+        \ class=\"level2 \">Health and Care</a></li><li class=\"level2 nav-1-5-5\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/swine/reproduction-and-genetics\"\
+        \ class=\"level2 \">Reproduction and Genetics</a></li><li class=\"level2 nav-1-5-6\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/swine/manure-and-nutrient-management\"\
+        \ class=\"level2 \">Manure and Nutrient Management</a></li><li class=\"level2\
+        \ nav-1-5-7\"><a href=\"https://extension.psu.edu/animals-and-livestock/swine/facilities-and-technology\"\
+        \ class=\"level2 \">Facilities and Technology</a></li><li class=\"level2 nav-1-5-8\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/swine/personal-safety\"\
+        \ class=\"level2 \">Personal Safety </a></li><li class=\"level2 nav-1-5-9\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/swine/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-1-5-10\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/animals-and-livestock/swine/see-all-swine\"\
+        \ class=\"level2 \">See All Swine</a></li></ul></nav></li><li class=\"level1\
+        \ nav-1-6 parent\"><a href=\"https://extension.psu.edu/animals-and-livestock/goats\"\
+        \ class=\"level1 has-children \">Goats</a><i class=\"fa fa-angle-right open-submenu\"\
+        ></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"child child-2\
+        \ navigation-tab\"><ul class=\"level1\"><li class=\"category-label level2\"\
+        ><span class=\"text\">Goats</span><a class=\"back\" href=\"#\">Back</a></li><li\
+        \ class=\"level2 nav-1-6-1 first\"><a href=\"https://extension.psu.edu/animals-and-livestock/goats/production-and-management\"\
+        \ class=\"level2 \">Production and Management</a></li><li class=\"level2 nav-1-6-2\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/goats/product-quality\"\
+        \ class=\"level2 \">Product Quality</a></li><li class=\"level2 nav-1-6-3\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/goats/nutrition-and-feeding\"\
+        \ class=\"level2 \">Nutrition and Feeding</a></li><li class=\"level2 nav-1-6-4\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/goats/health-and-care\"\
+        \ class=\"level2 \">Health and Care</a></li><li class=\"level2 nav-1-6-5\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/goats/reproduction-and-genetics\"\
+        \ class=\"level2 \">Reproduction and Genetics</a></li><li class=\"level2 nav-1-6-6\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/goats/manure-and-nutrient-management\"\
+        \ class=\"level2 \">Manure and Nutrient Management</a></li><li class=\"level2\
+        \ nav-1-6-7\"><a href=\"https://extension.psu.edu/animals-and-livestock/goats/facilities-and-technology\"\
+        \ class=\"level2 \">Facilities and Technology</a></li><li class=\"level2 nav-1-6-8\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/goats/personal-safety\"\
+        \ class=\"level2 \">Personal Safety </a></li><li class=\"level2 nav-1-6-9\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/goats/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-1-6-10\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/animals-and-livestock/goats/see-all-goats\"\
+        \ class=\"level2 \">See All Goats</a></li></ul></nav></li><li class=\"level1\
+        \ nav-1-7 parent\"><a href=\"https://extension.psu.edu/animals-and-livestock/sheep\"\
+        \ class=\"level1 has-children \">Sheep</a><i class=\"fa fa-angle-right open-submenu\"\
+        ></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"child child-2\
+        \ navigation-tab\"><ul class=\"level1\"><li class=\"category-label level2\"\
+        ><span class=\"text\">Sheep</span><a class=\"back\" href=\"#\">Back</a></li><li\
+        \ class=\"level2 nav-1-7-1 first\"><a href=\"https://extension.psu.edu/animals-and-livestock/sheep/production-and-management\"\
+        \ class=\"level2 \">Production and Management</a></li><li class=\"level2 nav-1-7-2\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/sheep/product-quality\"\
+        \ class=\"level2 \">Product Quality</a></li><li class=\"level2 nav-1-7-3\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/sheep/nutrition-and-feeding\"\
+        \ class=\"level2 \">Nutrition and Feeding</a></li><li class=\"level2 nav-1-7-4\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/sheep/health-and-care\"\
+        \ class=\"level2 \">Health and Care</a></li><li class=\"level2 nav-1-7-5\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/sheep/reproduction-and-genetics\"\
+        \ class=\"level2 \">Reproduction and Genetics</a></li><li class=\"level2 nav-1-7-6\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/sheep/manure-and-nutrient-management\"\
+        \ class=\"level2 \">Manure and Nutrient Management</a></li><li class=\"level2\
+        \ nav-1-7-7\"><a href=\"https://extension.psu.edu/animals-and-livestock/sheep/facilities-and-technology\"\
+        \ class=\"level2 \">Facilities and Technology</a></li><li class=\"level2 nav-1-7-8\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/sheep/personal-safety\"\
+        \ class=\"level2 \">Personal Safety</a></li><li class=\"level2 nav-1-7-9\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/sheep/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-1-7-10\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/animals-and-livestock/sheep/see-all-sheep\"\
+        \ class=\"level2 \">See All Sheep</a></li></ul></nav></li><li class=\"level1\
+        \ nav-1-8 last parent\"><a href=\"https://extension.psu.edu/animals-and-livestock/llamas-and-alpacas\"\
+        \ class=\"level1 has-children \">Llamas and Alpacas</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Llamas and Alpacas</span><a class=\"back\"\
+        \ href=\"#\">Back</a></li><li class=\"level2 nav-1-8-1 first\"><a href=\"\
+        https://extension.psu.edu/animals-and-livestock/llamas-and-alpacas/nutrition-and-feeding\"\
+        \ class=\"level2 \">Nutrition and Feeding</a></li><li class=\"level2 nav-1-8-2\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/llamas-and-alpacas/health-and-care\"\
+        \ class=\"level2 \">Health and Care</a></li><li class=\"level2 nav-1-8-3\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/llamas-and-alpacas/manure-and-nutrient-management\"\
+        \ class=\"level2 \">Manure and Nutrient Management</a></li><li class=\"level2\
+        \ nav-1-8-4\"><a href=\"https://extension.psu.edu/animals-and-livestock/llamas-and-alpacas/facilities-and-technology\"\
+        \ class=\"level2 \">Facilities and Technology</a></li><li class=\"level2 nav-1-8-5\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/llamas-and-alpacas/personal-safety\"\
+        \ class=\"level2 \">Personal Safety </a></li><li class=\"level2 nav-1-8-6\"\
+        ><a href=\"https://extension.psu.edu/animals-and-livestock/llamas-and-alpacas/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-1-8-7\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/animals-and-livestock/llamas-and-alpacas/see-all-llamas-and-alpacas\"\
+        \ class=\"level2 \">See All Llamas and Alpacas</a></li></ul></nav></li></ul></nav></li><li\
+        \ class=\"level0 nav-2 parent\"><a href=\"https://extension.psu.edu/forage-and-food-crops\"\
+        \ class=\"level0 has-children \">Forage and Food Crops </a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-1 navigation-tab\"><ul class=\"level0\"><li class=\"category-label\
+        \ level1\"><span class=\"text\">Forage and Food Crops </span><a class=\"back\"\
+        \ href=\"#\">Back</a></li><li class=\"level1 nav-2-1 first parent\"><a href=\"\
+        https://extension.psu.edu/forage-and-food-crops/agronomic-crops\" class=\"\
+        level1 has-children \">Agronomic Crops</a><i class=\"fa fa-angle-right open-submenu\"\
+        ></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"child child-2\
+        \ navigation-tab\"><ul class=\"level1\"><li class=\"category-label level2\"\
+        ><span class=\"text\">Agronomic Crops</span><a class=\"back\" href=\"#\">Back</a></li><li\
+        \ class=\"level2 nav-2-1-1 first\"><a href=\"https://extension.psu.edu/forage-and-food-crops/agronomic-crops/production-and-harvesting\"\
+        \ class=\"level2 \">Production and Harvesting</a></li><li class=\"level2 nav-2-1-2\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/agronomic-crops/species-and-varieties\"\
+        \ class=\"level2 \">Species and Varieties</a></li><li class=\"level2 nav-2-1-3\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/agronomic-crops/soil-fertility-and-management\"\
+        \ class=\"level2 \">Soil Fertility and Management </a></li><li class=\"level2\
+        \ nav-2-1-4\"><a href=\"https://extension.psu.edu/forage-and-food-crops/agronomic-crops/pests-and-diseases\"\
+        \ class=\"level2 \">Pests and Diseases</a></li><li class=\"level2 nav-2-1-5\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/agronomic-crops/weed-management\"\
+        \ class=\"level2 \">Weed Management</a></li><li class=\"level2 nav-2-1-6\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/agronomic-crops/organic-production\"\
+        \ class=\"level2 \">Organic Production</a></li><li class=\"level2 nav-2-1-7\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/agronomic-crops/sustainable-agriculture\"\
+        \ class=\"level2 \">Sustainable Agriculture</a></li><li class=\"level2 nav-2-1-8\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/agronomic-crops/personal-safety\"\
+        \ class=\"level2 \">Personal Safety</a></li><li class=\"level2 nav-2-1-9\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/agronomic-crops/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-2-1-10\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/forage-and-food-crops/agronomic-crops/see-all-agronomic-crops\"\
+        \ class=\"level2 \">See All Agronomic Crops</a></li></ul></nav></li><li class=\"\
+        level1 nav-2-2 parent\"><a href=\"https://extension.psu.edu/forage-and-food-crops/cover-crops\"\
+        \ class=\"level1 has-children \">Cover Crops</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Cover Crops</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level2 nav-2-2-1 first\"><a href=\"https://extension.psu.edu/forage-and-food-crops/cover-crops/production-and-harvesting\"\
+        \ class=\"level2 \">Production and Harvesting</a></li><li class=\"level2 nav-2-2-2\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/cover-crops/species-and-varieties\"\
+        \ class=\"level2 \">Species and Varieties</a></li><li class=\"level2 nav-2-2-3\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/cover-crops/soil-fertility-and-management\"\
+        \ class=\"level2 \">Soil Fertility and Management </a></li><li class=\"level2\
+        \ nav-2-2-4\"><a href=\"https://extension.psu.edu/forage-and-food-crops/cover-crops/pests-and-diseases\"\
+        \ class=\"level2 \">Pests and Diseases</a></li><li class=\"level2 nav-2-2-5\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/cover-crops/weed-management\"\
+        \ class=\"level2 \">Weed Management</a></li><li class=\"level2 nav-2-2-6\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/cover-crops/organic-production\"\
+        \ class=\"level2 \">Organic Production</a></li><li class=\"level2 nav-2-2-7\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/cover-crops/sustainable-agriculture\"\
+        \ class=\"level2 \">Sustainable Agriculture</a></li><li class=\"level2 nav-2-2-8\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/cover-crops/personal-safety\"\
+        \ class=\"level2 \">Personal Safety</a></li><li class=\"level2 nav-2-2-9\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/cover-crops/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-2-2-10\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/forage-and-food-crops/cover-crops/see-all-cover-crops\"\
+        \ class=\"level2 \">See All Cover Crops</a></li></ul></nav></li><li class=\"\
+        level1 nav-2-3 parent\"><a href=\"https://extension.psu.edu/forage-and-food-crops/forages\"\
+        \ class=\"level1 has-children \">Forages</a><i class=\"fa fa-angle-right open-submenu\"\
+        ></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"child child-2\
+        \ navigation-tab\"><ul class=\"level1\"><li class=\"category-label level2\"\
+        ><span class=\"text\">Forages</span><a class=\"back\" href=\"#\">Back</a></li><li\
+        \ class=\"level2 nav-2-3-1 first\"><a href=\"https://extension.psu.edu/forage-and-food-crops/forages/production-and-harvesting\"\
+        \ class=\"level2 \">Production and Harvesting</a></li><li class=\"level2 nav-2-3-2\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/forages/species-and-varieties\"\
+        \ class=\"level2 \">Species and Varieties</a></li><li class=\"level2 nav-2-3-3\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/forages/soil-fertility-and-management\"\
+        \ class=\"level2 \">Soil Fertility and Management </a></li><li class=\"level2\
+        \ nav-2-3-4\"><a href=\"https://extension.psu.edu/forage-and-food-crops/forages/forage-quality-and-testing\"\
+        \ class=\"level2 \">Forage Quality and Testing</a></li><li class=\"level2\
+        \ nav-2-3-5\"><a href=\"https://extension.psu.edu/forage-and-food-crops/forages/pests-and-diseases\"\
+        \ class=\"level2 \">Pests and Diseases</a></li><li class=\"level2 nav-2-3-6\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/forages/weed-management\"\
+        \ class=\"level2 \">Weed Management</a></li><li class=\"level2 nav-2-3-7\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/forages/organic-production\"\
+        \ class=\"level2 \">Organic Production</a></li><li class=\"level2 nav-2-3-8\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/forages/sustainable-agriculture\"\
+        \ class=\"level2 \">Sustainable Agriculture</a></li><li class=\"level2 nav-2-3-9\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/forages/personal-safety\"\
+        \ class=\"level2 \">Personal Safety</a></li><li class=\"level2 nav-2-3-10\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/forages/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-2-3-11\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/forage-and-food-crops/forages/see-all-forages\"\
+        \ class=\"level2 \">See All Forages</a></li></ul></nav></li><li class=\"level1\
+        \ nav-2-4 parent\"><a href=\"https://extension.psu.edu/forage-and-food-crops/fruit\"\
+        \ class=\"level1 has-children \">Fruit</a><i class=\"fa fa-angle-right open-submenu\"\
+        ></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"child child-2\
+        \ navigation-tab\"><ul class=\"level1\"><li class=\"category-label level2\"\
+        ><span class=\"text\">Fruit</span><a class=\"back\" href=\"#\">Back</a></li><li\
+        \ class=\"level2 nav-2-4-1 first\"><a href=\"https://extension.psu.edu/forage-and-food-crops/fruit/production-and-harvesting\"\
+        \ class=\"level2 \">Production and Harvesting</a></li><li class=\"level2 nav-2-4-2\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/fruit/cultivars-and-rootstocks\"\
+        \ class=\"level2 \">Cultivars and Rootstocks</a></li><li class=\"level2 nav-2-4-3\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/fruit/soil-fertility-and-management\"\
+        \ class=\"level2 \">Soil Fertility and Management </a></li><li class=\"level2\
+        \ nav-2-4-4\"><a href=\"https://extension.psu.edu/forage-and-food-crops/fruit/pests-and-diseases\"\
+        \ class=\"level2 \">Pests and Diseases</a></li><li class=\"level2 nav-2-4-5\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/fruit/weed-management\"\
+        \ class=\"level2 \">Weed Management</a></li><li class=\"level2 nav-2-4-6\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/fruit/organic-production\"\
+        \ class=\"level2 \">Organic Production</a></li><li class=\"level2 nav-2-4-7\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/fruit/sustainable-agriculture\"\
+        \ class=\"level2 \">Sustainable Agriculture</a></li><li class=\"level2 nav-2-4-8\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/fruit/personal-safety\"\
+        \ class=\"level2 \">Personal Safety</a></li><li class=\"level2 nav-2-4-9\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/fruit/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-2-4-10\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/forage-and-food-crops/fruit/see-all-fruit\"\
+        \ class=\"level2 \">See All Fruit</a></li></ul></nav></li><li class=\"level1\
+        \ nav-2-5 parent\"><a href=\"https://extension.psu.edu/forage-and-food-crops/vegetables\"\
+        \ class=\"level1 has-children \">Vegetables</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Vegetables</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level2 nav-2-5-1 first\"><a href=\"https://extension.psu.edu/forage-and-food-crops/vegetables/production-and-harvesting\"\
+        \ class=\"level2 \">Production and Harvesting</a></li><li class=\"level2 nav-2-5-2\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/vegetables/species-and-varieties\"\
+        \ class=\"level2 \">Species and Varieties</a></li><li class=\"level2 nav-2-5-3\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/vegetables/soil-fertility-and-management\"\
+        \ class=\"level2 \">Soil Fertility and Management </a></li><li class=\"level2\
+        \ nav-2-5-4\"><a href=\"https://extension.psu.edu/forage-and-food-crops/vegetables/pests-and-diseases\"\
+        \ class=\"level2 \">Pests and Diseases</a></li><li class=\"level2 nav-2-5-5\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/vegetables/weed-management\"\
+        \ class=\"level2 \">Weed Management</a></li><li class=\"level2 nav-2-5-6\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/vegetables/organic-production\"\
+        \ class=\"level2 \">Organic Production</a></li><li class=\"level2 nav-2-5-7\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/vegetables/sustainable-agriculture\"\
+        \ class=\"level2 \">Sustainable Agriculture</a></li><li class=\"level2 nav-2-5-8\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/vegetables/personal-safety\"\
+        \ class=\"level2 \">Personal Safety</a></li><li class=\"level2 nav-2-5-9\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/vegetables/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-2-5-10\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/forage-and-food-crops/vegetables/see-all-vegetables\"\
+        \ class=\"level2 \">See All Vegetables</a></li></ul></nav></li><li class=\"\
+        level1 nav-2-6 last parent\"><a href=\"https://extension.psu.edu/forage-and-food-crops/mushrooms\"\
+        \ class=\"level1 has-children \">Mushrooms</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Mushrooms</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level2 nav-2-6-1 first\"><a href=\"https://extension.psu.edu/forage-and-food-crops/mushrooms/production-and-harvesting\"\
+        \ class=\"level2 \">Production and Harvesting</a></li><li class=\"level2 nav-2-6-2\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/mushrooms/substrate-management\"\
+        \ class=\"level2 \">Substrate Management</a></li><li class=\"level2 nav-2-6-3\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/mushrooms/pests-and-diseases\"\
+        \ class=\"level2 \">Pests and Diseases</a></li><li class=\"level2 nav-2-6-4\"\
+        ><a href=\"https://extension.psu.edu/forage-and-food-crops/mushrooms/food-safety\"\
+        \ class=\"level2 \">Food Safety</a></li><li class=\"level2 nav-2-6-5\"><a\
+        \ href=\"https://extension.psu.edu/forage-and-food-crops/mushrooms/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-2-6-6\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/forage-and-food-crops/mushrooms/see-all-mushrooms\"\
+        \ class=\"level2 \">See All Mushrooms</a></li></ul></nav></li></ul></nav></li><li\
+        \ class=\"level0 nav-3 parent\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping\"\
+        \ class=\"level0 has-children \">Trees, Lawns, and Landscaping</a><i class=\"\
+        fa fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-1 navigation-tab\"><ul class=\"level0\"><li\
+        \ class=\"category-label level1\"><span class=\"text\">Trees, Lawns, and Landscaping</span><a\
+        \ class=\"back\" href=\"#\">Back</a></li><li class=\"level1 nav-3-1 first\
+        \ parent\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/trees-and-shrubs\"\
+        \ class=\"level1 has-children \">Trees and Shrubs</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Trees and Shrubs</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level2 nav-3-1-1 first\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/trees-and-shrubs/production\"\
+        \ class=\"level2 \">Production</a></li><li class=\"level2 nav-3-1-2\"><a href=\"\
+        https://extension.psu.edu/trees-lawns-and-landscaping/trees-and-shrubs/species-and-varieties\"\
+        \ class=\"level2 \">Species and Varieties</a></li><li class=\"level2 nav-3-1-3\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/trees-and-shrubs/soil-management\"\
+        \ class=\"level2 \">Soil Management</a></li><li class=\"level2 nav-3-1-4\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/trees-and-shrubs/pests-and-diseases\"\
+        \ class=\"level2 \">Pests and Diseases</a></li><li class=\"level2 nav-3-1-5\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/trees-and-shrubs/weed-management\"\
+        \ class=\"level2 \">Weed Management</a></li><li class=\"level2 nav-3-1-6\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/trees-and-shrubs/facilities-and-technology\"\
+        \ class=\"level2 \">Facilities and Technology</a></li><li class=\"level2 nav-3-1-7\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/trees-and-shrubs/personal-safety\"\
+        \ class=\"level2 \">Personal Safety</a></li><li class=\"level2 nav-3-1-8\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/trees-and-shrubs/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-3-1-9\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/trees-and-shrubs/see-all-trees-and-shrubs\"\
+        \ class=\"level2 \">See All Trees and Shrubs</a></li></ul></nav></li><li class=\"\
+        level1 nav-3-2 parent\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/turfgrass-and-lawn-care\"\
+        \ class=\"level1 has-children \">Turfgrass and Lawn Care</a><i class=\"fa\
+        \ fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-2 navigation-tab\"><ul class=\"level1\"><li\
+        \ class=\"category-label level2\"><span class=\"text\">Turfgrass and Lawn\
+        \ Care</span><a class=\"back\" href=\"#\">Back</a></li><li class=\"level2\
+        \ nav-3-2-1 first\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/turfgrass-and-lawn-care/species-and-cultivars\"\
+        \ class=\"level2 \">Species and Cultivars</a></li><li class=\"level2 nav-3-2-2\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/turfgrass-and-lawn-care/establishment-and-renovation\"\
+        \ class=\"level2 \">Establishment and Renovation</a></li><li class=\"level2\
+        \ nav-3-2-3\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/turfgrass-and-lawn-care/soil-fertility-and-management\"\
+        \ class=\"level2 \">Turfgrass Fertility and Soil Management </a></li><li class=\"\
+        level2 nav-3-2-4\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/turfgrass-and-lawn-care/cultural-practices\"\
+        \ class=\"level2 \">Cultural Practices</a></li><li class=\"level2 nav-3-2-5\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/turfgrass-and-lawn-care/pests-and-diseases\"\
+        \ class=\"level2 \">Pests and Diseases</a></li><li class=\"level2 nav-3-2-6\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/turfgrass-and-lawn-care/weed-management\"\
+        \ class=\"level2 \">Weed Identification and Management</a></li><li class=\"\
+        level2 nav-3-2-7\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/turfgrass-and-lawn-care/athletic-fields-and-sports-turf\"\
+        \ class=\"level2 \">Athletic Fields and Sports Turf</a></li><li class=\"level2\
+        \ nav-3-2-8\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/turfgrass-and-lawn-care/golf-course-turf\"\
+        \ class=\"level2 \">Golf Course Turf</a></li><li class=\"level2 nav-3-2-9\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/turfgrass-and-lawn-care/testing-services\"\
+        \ class=\"level2 \">Testing Services</a></li><li class=\"level2 nav-3-2-10\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/turfgrass-and-lawn-care/personal-safety\"\
+        \ class=\"level2 \">Personal Safety</a></li><li class=\"level2 nav-3-2-11\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/turfgrass-and-lawn-care/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-3-2-12\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/turfgrass-and-lawn-care/see-all-turfgrass-and-lawn-care\"\
+        \ class=\"level2 \">See all Turfgrass and Lawn Care</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-3-3 parent\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/ornamentals-and-floriculture\"\
+        \ class=\"level1 has-children \">Ornamentals and Floriculture</a><i class=\"\
+        fa fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-2 navigation-tab\"><ul class=\"level1\"><li\
+        \ class=\"category-label level2\"><span class=\"text\">Ornamentals and Floriculture</span><a\
+        \ class=\"back\" href=\"#\">Back</a></li><li class=\"level2 nav-3-3-1 first\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/ornamentals-and-floriculture/production\"\
+        \ class=\"level2 \">Production</a></li><li class=\"level2 nav-3-3-2\"><a href=\"\
+        https://extension.psu.edu/trees-lawns-and-landscaping/ornamentals-and-floriculture/species-and-varieties\"\
+        \ class=\"level2 \">Species and Varieties</a></li><li class=\"level2 nav-3-3-3\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/ornamentals-and-floriculture/soil-management\"\
+        \ class=\"level2 \">Soil Management</a></li><li class=\"level2 nav-3-3-4\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/ornamentals-and-floriculture/pests-and-diseases\"\
+        \ class=\"level2 \">Pests and Diseases</a></li><li class=\"level2 nav-3-3-5\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/ornamentals-and-floriculture/weed-management\"\
+        \ class=\"level2 \">Weed Management</a></li><li class=\"level2 nav-3-3-6\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/ornamentals-and-floriculture/facilities-and-technology\"\
+        \ class=\"level2 \">Facilities and Technology</a></li><li class=\"level2 nav-3-3-7\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/ornamentals-and-floriculture/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-3-3-8\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/ornamentals-and-floriculture/see-all-ornamentals-and-floriculture\"\
+        \ class=\"level2 \">See All Ornamentals and Floriculture</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-3-4 parent\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/aquatic-plants-and-algae\"\
+        \ class=\"level1 has-children \">Aquatic Plants and Algae</a><i class=\"fa\
+        \ fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-2 navigation-tab\"><ul class=\"level1\"><li\
+        \ class=\"category-label level2\"><span class=\"text\">Aquatic Plants and\
+        \ Algae</span><a class=\"back\" href=\"#\">Back</a></li><li class=\"level2\
+        \ nav-3-4-1 first\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/aquatic-plants-and-algae/species-and-varieties\"\
+        \ class=\"level2 \">Species and Varieties</a></li><li class=\"level2 nav-3-4-2\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/aquatic-plants-and-algae/pests-and-diseases\"\
+        \ class=\"level2 \">Pests and Diseases</a></li><li class=\"level2 nav-3-4-3\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/aquatic-plants-and-algae/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-3-4-4\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/aquatic-plants-and-algae/see-all-aquatic-plants-and-algae\"\
+        \ class=\"level2 \">See All Aquatic Plants and Algae</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-3-5 parent\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/home-gardening\"\
+        \ class=\"level1 has-children \">Home Gardening</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Home Gardening</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level2 nav-3-5-1 first\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/home-gardening/planting-and-growing\"\
+        \ class=\"level2 \">Planting and Growing</a></li><li class=\"level2 nav-3-5-2\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/home-gardening/species-and-varieties\"\
+        \ class=\"level2 \">Species and Varieties</a></li><li class=\"level2 nav-3-5-3\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/home-gardening/soil-management\"\
+        \ class=\"level2 \">Soil Management</a></li><li class=\"level2 nav-3-5-4\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/home-gardening/pests-and-diseases\"\
+        \ class=\"level2 \">Pests and Diseases</a></li><li class=\"level2 nav-3-5-5\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/home-gardening/weed-management\"\
+        \ class=\"level2 \">Weed Management</a></li><li class=\"level2 nav-3-5-6\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/home-gardening/eco-friendly-gardening\"\
+        \ class=\"level2 \">Eco-Friendly Gardening</a></li><li class=\"level2 nav-3-5-7\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/home-gardening/pollination-and-bees\"\
+        \ class=\"level2 \">Pollination and Bees</a></li><li class=\"level2 nav-3-5-8\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/home-gardening/landscaping-for-wildlife\"\
+        \ class=\"level2 \">Landscaping for Wildlife</a></li><li class=\"level2 nav-3-5-9\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/home-gardening/animal-control\"\
+        \ class=\"level2 \">Animal Control</a></li><li class=\"level2 nav-3-5-10 last\
+        \ education-by-type\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/home-gardening/see-all-home-gardening\"\
+        \ class=\"level2 \">See All Home Gardening</a></li></ul></nav></li><li class=\"\
+        level1 nav-3-6 last parent\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/christmas-trees\"\
+        \ class=\"level1 has-children \">Christmas Trees</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Christmas Trees</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level2 nav-3-6-1 first\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/christmas-trees/production-and-harvesting\"\
+        \ class=\"level2 \">Production and Harvesting</a></li><li class=\"level2 nav-3-6-2\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/christmas-trees/pests-and-diseases\"\
+        \ class=\"level2 \">Pests and Diseases</a></li><li class=\"level2 nav-3-6-3\"\
+        ><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/christmas-trees/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-3-6-4\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/trees-lawns-and-landscaping/christmas-trees/see-all-christmas-trees\"\
+        \ class=\"level2 \">See All Christmas Trees</a></li></ul></nav></li></ul></nav></li><li\
+        \ class=\"level0 nav-4 parent\"><a href=\"https://extension.psu.edu/insects-pests-and-diseases\"\
+        \ class=\"level0 has-children \">Insects, Pests, and Diseases</a><i class=\"\
+        fa fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-1 navigation-tab\"><ul class=\"level0\"><li\
+        \ class=\"category-label level1\"><span class=\"text\">Insects, Pests, and\
+        \ Diseases</span><a class=\"back\" href=\"#\">Back</a></li><li class=\"level1\
+        \ nav-4-1 first parent\"><a href=\"https://extension.psu.edu/insects-pests-and-diseases/pest-disease-and-weed-identification\"\
+        \ class=\"level1 has-children \">Pest, Disease and Weed Identification</a><i\
+        \ class=\"fa fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-2 navigation-tab\"><ul class=\"level1\"><li\
+        \ class=\"category-label level2\"><span class=\"text\">Pest, Disease and Weed\
+        \ Identification</span><a class=\"back\" href=\"#\">Back</a></li><li class=\"\
+        level2 nav-4-1-1 first\"><a href=\"https://extension.psu.edu/insects-pests-and-diseases/pest-disease-and-weed-identification/insect-identification-and-control\"\
+        \ class=\"level2 \">Insect Identification and Control</a></li><li class=\"\
+        level2 nav-4-1-2\"><a href=\"https://extension.psu.edu/insects-pests-and-diseases/pest-disease-and-weed-identification/weed-identification-and-control\"\
+        \ class=\"level2 \">Weed Identification and Control</a></li><li class=\"level2\
+        \ nav-4-1-3\"><a href=\"https://extension.psu.edu/insects-pests-and-diseases/pest-disease-and-weed-identification/plant-disease-identification-and-control\"\
+        \ class=\"level2 \">Plant Disease Identification and Control</a></li><li class=\"\
+        level2 nav-4-1-4 last education-by-type\"><a href=\"https://extension.psu.edu/insects-pests-and-diseases/pest-disease-and-weed-identification/see-all-pest-disease-and-weed-identification\"\
+        \ class=\"level2 \">See All Pest, Disease and Weed Identification</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-4-2 parent\"><a href=\"https://extension.psu.edu/insects-pests-and-diseases/pesticide-applicators\"\
+        \ class=\"level1 has-children \">Pesticide Applicators</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Pesticide Applicators</span><a class=\"back\"\
+        \ href=\"#\">Back</a></li><li class=\"level2 nav-4-2-1 first\"><a href=\"\
+        https://extension.psu.edu/insects-pests-and-diseases/pesticide-applicators/certification-and-study-materials\"\
+        \ class=\"level2 \">Certification and Study Materials</a></li><li class=\"\
+        level2 nav-4-2-2\"><a href=\"https://extension.psu.edu/insects-pests-and-diseases/pesticide-applicators/recertification\"\
+        \ class=\"level2 \">Recertification</a></li><li class=\"level2 nav-4-2-3\"\
+        ><a href=\"https://extension.psu.edu/insects-pests-and-diseases/pesticide-applicators/resources-and-best-practices\"\
+        \ class=\"level2 \">Resources and Best Practices</a></li><li class=\"level2\
+        \ nav-4-2-4 last education-by-type\"><a href=\"https://extension.psu.edu/insects-pests-and-diseases/pesticide-applicators/see-all-pesticide-applicators\"\
+        \ class=\"level2 \">See All Pesticide Applicators</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-4-3 parent\"><a href=\"https://extension.psu.edu/insects-pests-and-diseases/pest-management-and-education\"\
+        \ class=\"level1 has-children \">Pest Management and Education</a><i class=\"\
+        fa fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-2 navigation-tab\"><ul class=\"level1\"><li\
+        \ class=\"category-label level2\"><span class=\"text\">Pest Management and\
+        \ Education</span><a class=\"back\" href=\"#\">Back</a></li><li class=\"level2\
+        \ nav-4-3-1 first\"><a href=\"https://extension.psu.edu/insects-pests-and-diseases/pest-management-and-education/agriculture\"\
+        \ class=\"level2 \">Agriculture</a></li><li class=\"level2 nav-4-3-2\"><a\
+        \ href=\"https://extension.psu.edu/insects-pests-and-diseases/pest-management-and-education/public-homeowners\"\
+        \ class=\"level2 \">Public/Homeowners</a></li><li class=\"level2 nav-4-3-3\"\
+        ><a href=\"https://extension.psu.edu/insects-pests-and-diseases/pest-management-and-education/educators-and-teachers\"\
+        \ class=\"level2 \">Educators and Teachers</a></li><li class=\"level2 nav-4-3-4\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/insects-pests-and-diseases/pest-management-and-education/see-all-pest-management-and-education\"\
+        \ class=\"level2 \">See All Pest Management and Education</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-4-4 last parent\"><a href=\"https://extension.psu.edu/insects-pests-and-diseases/pollinators\"\
+        \ class=\"level1 has-children \">Pollinators</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Pollinators</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level2 nav-4-4-1 first\"><a href=\"https://extension.psu.edu/insects-pests-and-diseases/pollinators/beekeeping\"\
+        \ class=\"level2 \">Beekeeping</a></li><li class=\"level2 nav-4-4-2\"><a href=\"\
+        https://extension.psu.edu/insects-pests-and-diseases/pollinators/habitat-and-landscape\"\
+        \ class=\"level2 \">Habitat and Landscape</a></li><li class=\"level2 nav-4-4-3\"\
+        ><a href=\"https://extension.psu.edu/insects-pests-and-diseases/pollinators/identification-and-biology\"\
+        \ class=\"level2 \">Identification and Biology</a></li><li class=\"level2\
+        \ nav-4-4-4\"><a href=\"https://extension.psu.edu/insects-pests-and-diseases/pollinators/pesticides\"\
+        \ class=\"level2 \">Pesticides</a></li><li class=\"level2 nav-4-4-5\"><a href=\"\
+        https://extension.psu.edu/insects-pests-and-diseases/pollinators/pollination-services\"\
+        \ class=\"level2 \">Pollination Services</a></li><li class=\"level2 nav-4-4-6\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/insects-pests-and-diseases/pollinators/see-all-pollinators\"\
+        \ class=\"level2 \">See all Pollinators</a></li></ul></nav></li></ul></nav></li><li\
+        \ class=\"level0 nav-5 parent\"><a href=\"https://extension.psu.edu/forests-and-wildlife\"\
+        \ class=\"level0 has-children \">Forests and Wildlife</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-1 navigation-tab\"><ul class=\"level0\"><li class=\"category-label\
+        \ level1\"><span class=\"text\">Forests and Wildlife</span><a class=\"back\"\
+        \ href=\"#\">Back</a></li><li class=\"level1 nav-5-1 first parent\"><a href=\"\
+        https://extension.psu.edu/forests-and-wildlife/forest-management\" class=\"\
+        level1 has-children \">Forest Management</a><i class=\"fa fa-angle-right open-submenu\"\
+        ></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"child child-2\
+        \ navigation-tab\"><ul class=\"level1\"><li class=\"category-label level2\"\
+        ><span class=\"text\">Forest Management</span><a class=\"back\" href=\"#\"\
+        >Back</a></li><li class=\"level2 nav-5-1-1 first\"><a href=\"https://extension.psu.edu/forests-and-wildlife/forest-management/management-practices\"\
+        \ class=\"level2 \">Management Practices</a></li><li class=\"level2 nav-5-1-2\"\
+        ><a href=\"https://extension.psu.edu/forests-and-wildlife/forest-management/invasive-and-competing-plants\"\
+        \ class=\"level2 \">Invasive and Competing Plants</a></li><li class=\"level2\
+        \ nav-5-1-3\"><a href=\"https://extension.psu.edu/forests-and-wildlife/forest-management/pests-and-diseases\"\
+        \ class=\"level2 \">Pests and Diseases</a></li><li class=\"level2 nav-5-1-4\"\
+        ><a href=\"https://extension.psu.edu/forests-and-wildlife/forest-management/legacy-planning\"\
+        \ class=\"level2 \">Legacy Planning</a></li><li class=\"level2 nav-5-1-5 last\
+        \ education-by-type\"><a href=\"https://extension.psu.edu/forests-and-wildlife/forest-management/see-all-forest-management\"\
+        \ class=\"level2 \">See All Forest Management</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-5-2 parent\"><a href=\"https://extension.psu.edu/forests-and-wildlife/forestry-business-and-economics\"\
+        \ class=\"level1 has-children \">Forestry Business and Economics</a><i class=\"\
+        fa fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-2 navigation-tab\"><ul class=\"level1\"><li\
+        \ class=\"category-label level2\"><span class=\"text\">Forestry Business and\
+        \ Economics</span><a class=\"back\" href=\"#\">Back</a></li><li class=\"level2\
+        \ nav-5-2-1 first\"><a href=\"https://extension.psu.edu/forests-and-wildlife/forestry-business-and-economics/timber-market-report\"\
+        \ class=\"level2 \">Timber Market Report</a></li><li class=\"level2 nav-5-2-2\"\
+        ><a href=\"https://extension.psu.edu/forests-and-wildlife/forestry-business-and-economics/county-forest-economic-data\"\
+        \ class=\"level2 \">County Forest Economic Data</a></li><li class=\"level2\
+        \ nav-5-2-3\"><a href=\"https://extension.psu.edu/forests-and-wildlife/forestry-business-and-economics/policy-and-ordinances\"\
+        \ class=\"level2 \">Policy and Ordinances</a></li><li class=\"level2 nav-5-2-4\"\
+        ><a href=\"https://extension.psu.edu/forests-and-wildlife/forestry-business-and-economics/agroforestry\"\
+        \ class=\"level2 \">Agroforestry</a></li><li class=\"level2 nav-5-2-5 last\
+        \ education-by-type\"><a href=\"https://extension.psu.edu/forests-and-wildlife/forestry-business-and-economics/see-all-forestry-business-and-economics\"\
+        \ class=\"level2 \">See All Forestry Business and Economics</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-5-3 parent\"><a href=\"https://extension.psu.edu/forests-and-wildlife/forest-products\"\
+        \ class=\"level1 has-children \">Forest Products</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Forest Products</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level2 nav-5-3-1 first\"><a href=\"https://extension.psu.edu/forests-and-wildlife/forest-products/wood-products\"\
+        \ class=\"level2 \">Wood Products</a></li><li class=\"level2 nav-5-3-2\"><a\
+        \ href=\"https://extension.psu.edu/forests-and-wildlife/forest-products/biofuels\"\
+        \ class=\"level2 \">Biofuels</a></li><li class=\"level2 nav-5-3-3\"><a href=\"\
+        https://extension.psu.edu/forests-and-wildlife/forest-products/maple-syrup\"\
+        \ class=\"level2 \">Maple Syrup</a></li><li class=\"level2 nav-5-3-4\"><a\
+        \ href=\"https://extension.psu.edu/forests-and-wildlife/forest-products/botanicals\"\
+        \ class=\"level2 \">Botanicals</a></li><li class=\"level2 nav-5-3-5 last education-by-type\"\
+        ><a href=\"https://extension.psu.edu/forests-and-wildlife/forest-products/see-all-forest-products\"\
+        \ class=\"level2 \">See All Forest Products</a></li></ul></nav></li><li class=\"\
+        level1 nav-5-4 last parent\"><a href=\"https://extension.psu.edu/forests-and-wildlife/wildlife\"\
+        \ class=\"level1 has-children \">Wildlife</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Wildlife</span><a class=\"back\" href=\"#\"\
+        >Back</a></li><li class=\"level2 nav-5-4-1 first\"><a href=\"https://extension.psu.edu/forests-and-wildlife/wildlife/habitat-management\"\
+        \ class=\"level2 \">Habitat Management</a></li><li class=\"level2 nav-5-4-2\"\
+        ><a href=\"https://extension.psu.edu/forests-and-wildlife/wildlife/landscaping-for-wildlife\"\
+        \ class=\"level2 \">Landscaping for Wildlife</a></li><li class=\"level2 nav-5-4-3\"\
+        ><a href=\"https://extension.psu.edu/forests-and-wildlife/wildlife/wildlife-nuisance-and-damage\"\
+        \ class=\"level2 \">Wildlife Nuisance and Damage</a></li><li class=\"level2\
+        \ nav-5-4-4 last education-by-type\"><a href=\"https://extension.psu.edu/forests-and-wildlife/wildlife/see-all-wildlife\"\
+        \ class=\"level2 \">See All Wildlife</a></li></ul></nav></li></ul></nav></li><li\
+        \ class=\"level0 nav-6 parent\"><a href=\"https://extension.psu.edu/food-safety-and-quality\"\
+        \ class=\"level0 has-children \">Food Safety and Quality</a><i class=\"fa\
+        \ fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-1 navigation-tab\"><ul class=\"level0\"><li\
+        \ class=\"category-label level1\"><span class=\"text\">Food Safety and Quality</span><a\
+        \ class=\"back\" href=\"#\">Back</a></li><li class=\"level1 nav-6-1 first\
+        \ parent\"><a href=\"https://extension.psu.edu/food-safety-and-quality/commercial-food-processing\"\
+        \ class=\"level1 has-children \">Commercial Food Processing</a><i class=\"\
+        fa fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-2 navigation-tab\"><ul class=\"level1\"><li\
+        \ class=\"category-label level2\"><span class=\"text\">Commercial Food Processing</span><a\
+        \ class=\"back\" href=\"#\">Back</a></li><li class=\"level2 nav-6-1-1 first\"\
+        ><a href=\"https://extension.psu.edu/food-safety-and-quality/commercial-food-processing/good-manufacturing-practices\"\
+        \ class=\"level2 \">Good Manufacturing Practices</a></li><li class=\"level2\
+        \ nav-6-1-2\"><a href=\"https://extension.psu.edu/food-safety-and-quality/commercial-food-processing/regulations\"\
+        \ class=\"level2 \">Regulations</a></li><li class=\"level2 nav-6-1-3\"><a\
+        \ href=\"https://extension.psu.edu/food-safety-and-quality/commercial-food-processing/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-6-1-4\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/food-safety-and-quality/commercial-food-processing/see-all-commercial-food-processing\"\
+        \ class=\"level2 \">See All Commercial Food Processing</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-6-2 parent\"><a href=\"https://extension.psu.edu/food-safety-and-quality/dairy-food-processing\"\
+        \ class=\"level1 has-children \">Dairy Food Processing</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Dairy Food Processing</span><a class=\"back\"\
+        \ href=\"#\">Back</a></li><li class=\"level2 nav-6-2-1 first\"><a href=\"\
+        https://extension.psu.edu/food-safety-and-quality/dairy-food-processing/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-6-2-2\"\
+        ><a href=\"https://extension.psu.edu/food-safety-and-quality/dairy-food-processing/production-and-processing\"\
+        \ class=\"level2 \">Production and Processing</a></li><li class=\"level2 nav-6-2-3\"\
+        ><a href=\"https://extension.psu.edu/food-safety-and-quality/dairy-food-processing/regulations\"\
+        \ class=\"level2 \">Regulations</a></li><li class=\"level2 nav-6-2-4\"><a\
+        \ href=\"https://extension.psu.edu/food-safety-and-quality/dairy-food-processing/safety-and-sanitation\"\
+        \ class=\"level2 \">Safety and Sanitation</a></li><li class=\"level2 nav-6-2-5\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/food-safety-and-quality/dairy-food-processing/see-all-dairy-food-processing\"\
+        \ class=\"level2 \">See All Dairy Food Processing</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-6-3 parent\"><a href=\"https://extension.psu.edu/food-safety-and-quality/farm-food-safety\"\
+        \ class=\"level1 has-children \">Farm Food Safety</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Farm Food Safety</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level2 nav-6-3-1 first\"><a href=\"https://extension.psu.edu/food-safety-and-quality/farm-food-safety/good-agricultural-practices\"\
+        \ class=\"level2 \">Good Agricultural Practices</a></li><li class=\"level2\
+        \ nav-6-3-2\"><a href=\"https://extension.psu.edu/food-safety-and-quality/farm-food-safety/regulations\"\
+        \ class=\"level2 \">Regulations</a></li><li class=\"level2 nav-6-3-3 last\
+        \ education-by-type\"><a href=\"https://extension.psu.edu/food-safety-and-quality/farm-food-safety/see-all-farm-food-safety\"\
+        \ class=\"level2 \">See All Farm Food Safety</a></li></ul></nav></li><li class=\"\
+        level1 nav-6-4 parent\"><a href=\"https://extension.psu.edu/food-safety-and-quality/food-service-and-retail\"\
+        \ class=\"level1 has-children \">Food Service and Retail</a><i class=\"fa\
+        \ fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-2 navigation-tab\"><ul class=\"level1\"><li\
+        \ class=\"category-label level2\"><span class=\"text\">Food Service and Retail</span><a\
+        \ class=\"back\" href=\"#\">Back</a></li><li class=\"level2 nav-6-4-1 first\"\
+        ><a href=\"https://extension.psu.edu/food-safety-and-quality/food-service-and-retail/food-service-safety\"\
+        \ class=\"level2 \">Food Service Safety</a></li><li class=\"level2 nav-6-4-2\"\
+        ><a href=\"https://extension.psu.edu/food-safety-and-quality/food-service-and-retail/regulations\"\
+        \ class=\"level2 \">Regulations</a></li><li class=\"level2 nav-6-4-3\"><a\
+        \ href=\"https://extension.psu.edu/food-safety-and-quality/food-service-and-retail/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-6-4-4\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/food-safety-and-quality/food-service-and-retail/see-all-food-service-and-retail\"\
+        \ class=\"level2 \">See All Food Service and Retail</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-6-5 parent\"><a href=\"https://extension.psu.edu/food-safety-and-quality/home-food-safety\"\
+        \ class=\"level1 has-children \">Home Food Safety</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Home Food Safety</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level2 nav-6-5-1 first\"><a href=\"https://extension.psu.edu/food-safety-and-quality/home-food-safety/food-preservation\"\
+        \ class=\"level2 \">Food Preservation</a></li><li class=\"level2 nav-6-5-2\"\
+        ><a href=\"https://extension.psu.edu/food-safety-and-quality/home-food-safety/food-safety\"\
+        \ class=\"level2 \">Food Safety</a></li><li class=\"level2 nav-6-5-3 last\
+        \ education-by-type\"><a href=\"https://extension.psu.edu/food-safety-and-quality/home-food-safety/see-all-home-food-safety\"\
+        \ class=\"level2 \">See All Home Food Safety</a></li></ul></nav></li><li class=\"\
+        level1 nav-6-6 parent\"><a href=\"https://extension.psu.edu/food-safety-and-quality/wine-production\"\
+        \ class=\"level1 has-children \">Wine Production</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Wine Production</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level2 nav-6-6-1 first\"><a href=\"https://extension.psu.edu/food-safety-and-quality/wine-production/production\"\
+        \ class=\"level2 \">Production</a></li><li class=\"level2 nav-6-6-2\"><a href=\"\
+        https://extension.psu.edu/food-safety-and-quality/wine-production/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-6-6-3\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/food-safety-and-quality/wine-production/see-all-wine-production\"\
+        \ class=\"level2 \">See All Wine Production</a></li></ul></nav></li><li class=\"\
+        level1 nav-6-7 last parent\"><a href=\"https://extension.psu.edu/food-safety-and-quality/beer-hard-cider-and-distilled-spirits\"\
+        \ class=\"level1 has-children \">Beer, Hard Cider, and Distilled Spirits</a><i\
+        \ class=\"fa fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-2 navigation-tab\"><ul class=\"level1\"><li\
+        \ class=\"category-label level2\"><span class=\"text\">Beer, Hard Cider, and\
+        \ Distilled Spirits</span><a class=\"back\" href=\"#\">Back</a></li><li class=\"\
+        level2 nav-6-7-1 first\"><a href=\"https://extension.psu.edu/food-safety-and-quality/beer-hard-cider-and-distilled-spirits/production\"\
+        \ class=\"level2 \">Production</a></li><li class=\"level2 nav-6-7-2\"><a href=\"\
+        https://extension.psu.edu/food-safety-and-quality/beer-hard-cider-and-distilled-spirits/business-management\"\
+        \ class=\"level2 \">Business Management</a></li><li class=\"level2 nav-6-7-3\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/food-safety-and-quality/beer-hard-cider-and-distilled-spirits/see-all-beer-hard-cider-and-distilled-spirits\"\
+        \ class=\"level2 \">See All Beer, Hard Cider, and Distilled Spirits</a></li></ul></nav></li></ul></nav></li><li\
+        \ class=\"level0 nav-7 parent\"><a href=\"https://extension.psu.edu/water\"\
+        \ class=\"level0 has-children \">Water</a><i class=\"fa fa-angle-right open-submenu\"\
+        ></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"child child-1\
+        \ navigation-tab\"><ul class=\"level0\"><li class=\"category-label level1\"\
+        ><span class=\"text\">Water</span><a class=\"back\" href=\"#\">Back</a></li><li\
+        \ class=\"level1 nav-7-1 first parent\"><a href=\"https://extension.psu.edu/water/drinking-and-residential-water\"\
+        \ class=\"level1 has-children \">Drinking and Residential Water</a><i class=\"\
+        fa fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-2 navigation-tab\"><ul class=\"level1\"><li\
+        \ class=\"category-label level2\"><span class=\"text\">Drinking and Residential\
+        \ Water</span><a class=\"back\" href=\"#\">Back</a></li><li class=\"level2\
+        \ nav-7-1-1 first\"><a href=\"https://extension.psu.edu/water/drinking-and-residential-water/water-quality\"\
+        \ class=\"level2 \">Water Quality </a></li><li class=\"level2 nav-7-1-2\"\
+        ><a href=\"https://extension.psu.edu/water/drinking-and-residential-water/supply-and-conservation\"\
+        \ class=\"level2 \">Supply and Conservation</a></li><li class=\"level2 nav-7-1-3\"\
+        ><a href=\"https://extension.psu.edu/water/drinking-and-residential-water/private-water-systems\"\
+        \ class=\"level2 \">Private Water Systems</a></li><li class=\"level2 nav-7-1-4\"\
+        ><a href=\"https://extension.psu.edu/water/drinking-and-residential-water/testing-and-treatment\"\
+        \ class=\"level2 \">Testing and Treatment</a></li><li class=\"level2 nav-7-1-5\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/water/drinking-and-residential-water/see-all-drinking-and-residential-water\"\
+        \ class=\"level2 \">See All Drinking and Residential Water</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-7-2 parent\"><a href=\"https://extension.psu.edu/water/pond-management\"\
+        \ class=\"level1 has-children \">Pond Management</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Pond Management</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level2 nav-7-2-1 first\"><a href=\"https://extension.psu.edu/water/pond-management/water-quality\"\
+        \ class=\"level2 \">Water Quality</a></li><li class=\"level2 nav-7-2-2\"><a\
+        \ href=\"https://extension.psu.edu/water/pond-management/construction-maintenance-ecology\"\
+        \ class=\"level2 \">Construction, Maintenance, Ecology</a></li><li class=\"\
+        level2 nav-7-2-3\"><a href=\"https://extension.psu.edu/water/pond-management/aquatic-plants\"\
+        \ class=\"level2 \">Aquatic Plants</a></li><li class=\"level2 nav-7-2-4\"\
+        ><a href=\"https://extension.psu.edu/water/pond-management/invasive-species\"\
+        \ class=\"level2 \">Invasive Species</a></li><li class=\"level2 nav-7-2-5\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/water/pond-management/see-all-pond-management\"\
+        \ class=\"level2 \">See All Pond Management</a></li></ul></nav></li><li class=\"\
+        level1 nav-7-3 parent\"><a href=\"https://extension.psu.edu/water/stormwater-management\"\
+        \ class=\"level1 has-children \">Stormwater Management</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Stormwater Management</span><a class=\"back\"\
+        \ href=\"#\">Back</a></li><li class=\"level2 nav-7-3-1 first\"><a href=\"\
+        https://extension.psu.edu/water/stormwater-management/water-quality\" class=\"\
+        level2 \">Water Quality</a></li><li class=\"level2 nav-7-3-2\"><a href=\"\
+        https://extension.psu.edu/water/stormwater-management/flood-control\" class=\"\
+        level2 \">Flood Control</a></li><li class=\"level2 nav-7-3-3\"><a href=\"\
+        https://extension.psu.edu/water/stormwater-management/design-and-construction\"\
+        \ class=\"level2 \">Design and Construction</a></li><li class=\"level2 nav-7-3-4\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/water/stormwater-management/see-all-stormwater-management\"\
+        \ class=\"level2 \">See All Stormwater Management</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-7-4 parent\"><a href=\"https://extension.psu.edu/water/wastewater-management\"\
+        \ class=\"level1 has-children \">Wastewater Management</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Wastewater Management</span><a class=\"back\"\
+        \ href=\"#\">Back</a></li><li class=\"level2 nav-7-4-1 first\"><a href=\"\
+        https://extension.psu.edu/water/wastewater-management/private-septic-systems\"\
+        \ class=\"level2 \">Private Septic Systems</a></li><li class=\"level2 nav-7-4-2\"\
+        ><a href=\"https://extension.psu.edu/water/wastewater-management/industrial\"\
+        \ class=\"level2 \">Industrial</a></li><li class=\"level2 nav-7-4-3 last education-by-type\"\
+        ><a href=\"https://extension.psu.edu/water/wastewater-management/see-all-wastewater-management\"\
+        \ class=\"level2 \">See All Wastewater Management</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-7-5 last parent\"><a href=\"https://extension.psu.edu/water/water-for-agriculture\"\
+        \ class=\"level1 has-children \">Water for Agriculture</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Water for Agriculture</span><a class=\"back\"\
+        \ href=\"#\">Back</a></li><li class=\"level2 nav-7-5-1 first\"><a href=\"\
+        https://extension.psu.edu/water/water-for-agriculture/water-quality\" class=\"\
+        level2 \">Water Quality</a></li><li class=\"level2 nav-7-5-2\"><a href=\"\
+        https://extension.psu.edu/water/water-for-agriculture/supply-and-conservation\"\
+        \ class=\"level2 \">Supply and Conservation</a></li><li class=\"level2 nav-7-5-3\"\
+        ><a href=\"https://extension.psu.edu/water/water-for-agriculture/testing-and-treatment\"\
+        \ class=\"level2 \">Testing and Treatment</a></li><li class=\"level2 nav-7-5-4\"\
+        ><a href=\"https://extension.psu.edu/water/water-for-agriculture/nutrient-management\"\
+        \ class=\"level2 \">Nutrient Management</a></li><li class=\"level2 nav-7-5-5\"\
+        ><a href=\"https://extension.psu.edu/water/water-for-agriculture/chesapeake-bay\"\
+        \ class=\"level2 \">Chesapeake Bay</a></li><li class=\"level2 nav-7-5-6 last\
+        \ education-by-type\"><a href=\"https://extension.psu.edu/water/water-for-agriculture/see-all-water-for-agriculture\"\
+        \ class=\"level2 \">See All Water for Agriculture</a></li></ul></nav></li></ul></nav></li><li\
+        \ class=\"level0 nav-8 parent\"><a href=\"https://extension.psu.edu/energy\"\
+        \ class=\"level0 has-children \">Energy </a><i class=\"fa fa-angle-right open-submenu\"\
+        ></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"child child-1\
+        \ navigation-tab\"><ul class=\"level0\"><li class=\"category-label level1\"\
+        ><span class=\"text\">Energy </span><a class=\"back\" href=\"#\">Back</a></li><li\
+        \ class=\"level1 nav-8-1 first parent\"><a href=\"https://extension.psu.edu/energy/marcellus-shale-and-natural-gas\"\
+        \ class=\"level1 has-children \">Marcellus Shale and Natural Gas</a><i class=\"\
+        fa fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-2 navigation-tab\"><ul class=\"level1\"><li\
+        \ class=\"category-label level2\"><span class=\"text\">Marcellus Shale and\
+        \ Natural Gas</span><a class=\"back\" href=\"#\">Back</a></li><li class=\"\
+        level2 nav-8-1-1 first\"><a href=\"https://extension.psu.edu/energy/marcellus-shale-and-natural-gas/landowner-leasing-and-royalties\"\
+        \ class=\"level2 \">Landowner Leasing and Royalties</a></li><li class=\"level2\
+        \ nav-8-1-2\"><a href=\"https://extension.psu.edu/energy/marcellus-shale-and-natural-gas/environmental-impacts\"\
+        \ class=\"level2 \">Environmental Impacts</a></li><li class=\"level2 nav-8-1-3\"\
+        ><a href=\"https://extension.psu.edu/energy/marcellus-shale-and-natural-gas/municipality-and-government-impacts\"\
+        \ class=\"level2 \">Municipality and Government Impacts</a></li><li class=\"\
+        level2 nav-8-1-4\"><a href=\"https://extension.psu.edu/energy/marcellus-shale-and-natural-gas/economic-and-business-impacts\"\
+        \ class=\"level2 \">Economic and Business Impacts</a></li><li class=\"level2\
+        \ nav-8-1-5 last education-by-type\"><a href=\"https://extension.psu.edu/energy/marcellus-shale-and-natural-gas/see-all-marcellus-shale-and-natural-gas\"\
+        \ class=\"level2 \">See All Marcellus Shale and Natural Gas</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-8-2 last parent\"><a href=\"https://extension.psu.edu/energy/renewable-and-alternative-energy\"\
+        \ class=\"level1 has-children \">Renewable and Alternative Energy</a><i class=\"\
+        fa fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-2 navigation-tab\"><ul class=\"level1\"><li\
+        \ class=\"category-label level2\"><span class=\"text\">Renewable and Alternative\
+        \ Energy</span><a class=\"back\" href=\"#\">Back</a></li><li class=\"level2\
+        \ nav-8-2-1 first\"><a href=\"https://extension.psu.edu/energy/renewable-and-alternative-energy/energy-use-and-efficiency\"\
+        \ class=\"level2 \">Energy Use and Efficiency</a></li><li class=\"level2 nav-8-2-2\"\
+        ><a href=\"https://extension.psu.edu/energy/renewable-and-alternative-energy/biofuels\"\
+        \ class=\"level2 \">Biofuels</a></li><li class=\"level2 nav-8-2-3\"><a href=\"\
+        https://extension.psu.edu/energy/renewable-and-alternative-energy/renewable-energy-resources\"\
+        \ class=\"level2 \">Renewable Energy Resources</a></li><li class=\"level2\
+        \ nav-8-2-4 last education-by-type\"><a href=\"https://extension.psu.edu/energy/renewable-and-alternative-energy/see-all-renewable-and-alternative-energy\"\
+        \ class=\"level2 \">See All Renewable and Alternative Energy</a></li></ul></nav></li></ul></nav></li><li\
+        \ class=\"level0 nav-9 parent\"><a href=\"https://extension.psu.edu/business-and-operations\"\
+        \ class=\"level0 has-children \">Business and Operations</a><i class=\"fa\
+        \ fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-1 navigation-tab\"><ul class=\"level0\"><li\
+        \ class=\"category-label level1\"><span class=\"text\">Business and Operations</span><a\
+        \ class=\"back\" href=\"#\">Back</a></li><li class=\"level1 nav-9-1 first\
+        \ parent\"><a href=\"https://extension.psu.edu/business-and-operations/starting-a-farm\"\
+        \ class=\"level1 has-children \">Starting a Farm</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Starting a Farm</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level2 nav-9-1-1 first\"><a href=\"https://extension.psu.edu/business-and-operations/starting-a-farm/exploring-farming\"\
+        \ class=\"level2 \">Exploring Farming</a></li><li class=\"level2 nav-9-1-2\"\
+        ><a href=\"https://extension.psu.edu/business-and-operations/starting-a-farm/starting-a-business\"\
+        \ class=\"level2 \">Starting a Business</a></li><li class=\"level2 nav-9-1-3\"\
+        ><a href=\"https://extension.psu.edu/business-and-operations/starting-a-farm/introduction-to-agronomy\"\
+        \ class=\"level2 \">Introduction to Agronomy</a></li><li class=\"level2 nav-9-1-4\"\
+        ><a href=\"https://extension.psu.edu/business-and-operations/starting-a-farm/introduction-to-horticulture\"\
+        \ class=\"level2 \">Introduction to Horticulture</a></li><li class=\"level2\
+        \ nav-9-1-5\"><a href=\"https://extension.psu.edu/business-and-operations/starting-a-farm/introduction-to-livestock\"\
+        \ class=\"level2 \">Introduction to Livestock</a></li><li class=\"level2 nav-9-1-6\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/business-and-operations/starting-a-farm/see-all-getting-started\"\
+        \ class=\"level2 \">See All Starting a Farm</a></li></ul></nav></li><li class=\"\
+        level1 nav-9-2 parent\"><a href=\"https://extension.psu.edu/business-and-operations/business-management\"\
+        \ class=\"level1 has-children \">Business Management</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Business Management</span><a class=\"back\"\
+        \ href=\"#\">Back</a></li><li class=\"level2 nav-9-2-1 first\"><a href=\"\
+        https://extension.psu.edu/business-and-operations/business-management/financial-management\"\
+        \ class=\"level2 \">Financial</a></li><li class=\"level2 nav-9-2-2\"><a href=\"\
+        https://extension.psu.edu/business-and-operations/business-management/marketing\"\
+        \ class=\"level2 \">Marketing and Sales</a></li><li class=\"level2 nav-9-2-3\"\
+        ><a href=\"https://extension.psu.edu/business-and-operations/business-management/insurance\"\
+        \ class=\"level2 \">Risk Management and Insurance</a></li><li class=\"level2\
+        \ nav-9-2-4\"><a href=\"https://extension.psu.edu/business-and-operations/business-management/transition-and-succession-planning\"\
+        \ class=\"level2 \">Transition and Succession Planning</a></li><li class=\"\
+        level2 nav-9-2-5 last education-by-type\"><a href=\"https://extension.psu.edu/business-and-operations/business-management/see-all-business-management\"\
+        \ class=\"level2 \">See All Business Management</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-9-3 parent\"><a href=\"https://extension.psu.edu/business-and-operations/human-resources\"\
+        \ class=\"level1 has-children \">Human Resources</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Human Resources</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level2 nav-9-3-1 first\"><a href=\"https://extension.psu.edu/business-and-operations/human-resources/labor-relations\"\
+        \ class=\"level2 \">Labor Relations</a></li><li class=\"level2 nav-9-3-2\"\
+        ><a href=\"https://extension.psu.edu/business-and-operations/human-resources/professional-development\"\
+        \ class=\"level2 \">Professional Development</a></li><li class=\"level2 nav-9-3-3\"\
+        ><a href=\"https://extension.psu.edu/business-and-operations/human-resources/workforce-development\"\
+        \ class=\"level2 \">Workforce Development</a></li><li class=\"level2 nav-9-3-4\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/business-and-operations/human-resources/see-all-human-resources\"\
+        \ class=\"level2 \">See All Human Resources</a></li></ul></nav></li><li class=\"\
+        level1 nav-9-4 parent\"><a href=\"https://extension.psu.edu/business-and-operations/land-and-equipment\"\
+        \ class=\"level1 has-children \">Land and Equipment</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Land and Equipment</span><a class=\"back\"\
+        \ href=\"#\">Back</a></li><li class=\"level2 nav-9-4-1 first\"><a href=\"\
+        https://extension.psu.edu/business-and-operations/land-and-equipment/acquisition-and-leasing\"\
+        \ class=\"level2 \">Acquisition and Leasing</a></li><li class=\"level2 nav-9-4-2\"\
+        ><a href=\"https://extension.psu.edu/business-and-operations/land-and-equipment/emerging-technology\"\
+        \ class=\"level2 \">Emerging Technology</a></li><li class=\"level2 nav-9-4-3\"\
+        ><a href=\"https://extension.psu.edu/business-and-operations/land-and-equipment/maintenance\"\
+        \ class=\"level2 \">Maintenance</a></li><li class=\"level2 nav-9-4-4 last\
+        \ education-by-type\"><a href=\"https://extension.psu.edu/business-and-operations/land-and-equipment/see-all-land-and-equipment\"\
+        \ class=\"level2 \">See All Land and Equipment</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-9-5 parent\"><a href=\"https://extension.psu.edu/business-and-operations/farm-markets\"\
+        \ class=\"level1 has-children \">Farm Markets</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Farm Markets</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level2 nav-9-5-1 first\"><a href=\"https://extension.psu.edu/business-and-operations/farm-markets/getting-started\"\
+        \ class=\"level2 \">Getting Started</a></li><li class=\"level2 nav-9-5-2\"\
+        ><a href=\"https://extension.psu.edu/business-and-operations/farm-markets/management\"\
+        \ class=\"level2 \">Management</a></li><li class=\"level2 nav-9-5-3\"><a href=\"\
+        https://extension.psu.edu/business-and-operations/farm-markets/marketing\"\
+        \ class=\"level2 \">Marketing</a></li><li class=\"level2 nav-9-5-4 last education-by-type\"\
+        ><a href=\"https://extension.psu.edu/business-and-operations/farm-markets/see-all-farm-markets\"\
+        \ class=\"level2 \">See All Farm Markets</a></li></ul></nav></li><li class=\"\
+        level1 nav-9-6 last parent\"><a href=\"https://extension.psu.edu/business-and-operations/farm-safety\"\
+        \ class=\"level1 has-children \">Farm Safety</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Farm Safety</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level2 nav-9-6-1 first\"><a href=\"https://extension.psu.edu/business-and-operations/farm-safety/animal-handling\"\
+        \ class=\"level2 \">Animal Handling</a></li><li class=\"level2 nav-9-6-2\"\
+        ><a href=\"https://extension.psu.edu/business-and-operations/farm-safety/farm-emergency-training\"\
+        \ class=\"level2 \">Farm Emergency Training</a></li><li class=\"level2 nav-9-6-3\"\
+        ><a href=\"https://extension.psu.edu/business-and-operations/farm-safety/farm-equipment-and-structures\"\
+        \ class=\"level2 \">Farm Equipment and Structures</a></li><li class=\"level2\
+        \ nav-9-6-4\"><a href=\"https://extension.psu.edu/business-and-operations/farm-safety/protective-gear\"\
+        \ class=\"level2 \">Protective Gear</a></li><li class=\"level2 nav-9-6-5\"\
+        ><a href=\"https://extension.psu.edu/business-and-operations/farm-safety/youth-safety\"\
+        \ class=\"level2 \">Youth Safety</a></li><li class=\"level2 nav-9-6-6\"><a\
+        \ href=\"https://extension.psu.edu/business-and-operations/farm-safety/disaster-preparedness\"\
+        \ class=\"level2 \">Disaster Preparedness</a></li><li class=\"level2 nav-9-6-7\"\
+        ><a href=\"https://extension.psu.edu/business-and-operations/farm-safety/agrability\"\
+        \ class=\"level2 \">AgrAbility</a></li><li class=\"level2 nav-9-6-8 last education-by-type\"\
+        ><a href=\"https://extension.psu.edu/business-and-operations/farm-safety/see-all-farm-safety\"\
+        \ class=\"level2 \">See All Farm Safety</a></li></ul></nav></li></ul></nav></li><li\
+        \ class=\"level0 nav-10 parent\"><a href=\"https://extension.psu.edu/community-development\"\
+        \ class=\"level0 has-children \">Community Development</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-1 navigation-tab\"><ul class=\"level0\"><li class=\"category-label\
+        \ level1\"><span class=\"text\">Community Development</span><a class=\"back\"\
+        \ href=\"#\">Back</a></li><li class=\"level1 nav-10-1 first parent\"><a href=\"\
+        https://extension.psu.edu/community-development/community-planning-and-engagement\"\
+        \ class=\"level1 has-children \">Community Planning and Engagement</a><i class=\"\
+        fa fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-2 navigation-tab\"><ul class=\"level1\"><li\
+        \ class=\"category-label level2\"><span class=\"text\">Community Planning\
+        \ and Engagement</span><a class=\"back\" href=\"#\">Back</a></li><li class=\"\
+        level2 nav-10-1-1 first\"><a href=\"https://extension.psu.edu/community-development/community-planning-and-engagement/broadband\"\
+        \ class=\"level2 \">Broadband</a></li><li class=\"level2 nav-10-1-2\"><a href=\"\
+        https://extension.psu.edu/community-development/community-planning-and-engagement/community-development\"\
+        \ class=\"level2 \">Community Development</a></li><li class=\"level2 nav-10-1-3\"\
+        ><a href=\"https://extension.psu.edu/community-development/community-planning-and-engagement/leadership\"\
+        \ class=\"level2 \">Leadership</a></li><li class=\"level2 nav-10-1-4\"><a\
+        \ href=\"https://extension.psu.edu/community-development/community-planning-and-engagement/local-government\"\
+        \ class=\"level2 \">Local Government</a></li><li class=\"level2 nav-10-1-5\"\
+        ><a href=\"https://extension.psu.edu/community-development/community-planning-and-engagement/volunteer-management\"\
+        \ class=\"level2 \">Volunteer Management</a></li><li class=\"level2 nav-10-1-6\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/community-development/community-planning-and-engagement/see-all-community-planning-and-engagement\"\
+        \ class=\"level2 \">See All Community Planning and Engagement</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-10-2 parent\"><a href=\"https://extension.psu.edu/community-development/economic-development\"\
+        \ class=\"level1 has-children \">Economic Development</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Economic Development</span><a class=\"back\"\
+        \ href=\"#\">Back</a></li><li class=\"level2 nav-10-2-1 first last education-by-type\"\
+        ><a href=\"https://extension.psu.edu/community-development/economic-development/see-all-economic-development\"\
+        \ class=\"level2 \">See All Economic Development</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-10-3 parent\"><a href=\"https://extension.psu.edu/community-development/land-use\"\
+        \ class=\"level1 has-children \">Land Use</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Land Use</span><a class=\"back\" href=\"#\"\
+        >Back</a></li><li class=\"level2 nav-10-3-1 first last education-by-type\"\
+        ><a href=\"https://extension.psu.edu/community-development/land-use/see-all-land-use\"\
+        \ class=\"level2 \">See All Land Use</a></li></ul></nav></li><li class=\"\
+        level1 nav-10-4 last parent\"><a href=\"https://extension.psu.edu/community-development/urban-forestry\"\
+        \ class=\"level1 has-children \">Urban Forestry</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Urban Forestry</span><a class=\"back\" href=\"\
+        #\">Back</a></li><li class=\"level2 nav-10-4-1 first last education-by-type\"\
+        ><a href=\"https://extension.psu.edu/community-development/urban-forestry/see-all-urban-forestry\"\
+        \ class=\"level2 \">See All Urban Forestry</a></li></ul></nav></li></ul></nav></li><li\
+        \ class=\"level0 nav-11 parent\"><a href=\"https://extension.psu.edu/youth-family-and-health\"\
+        \ class=\"level0 has-children \">Youth, Family, and Health</a><i class=\"\
+        fa fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-1 navigation-tab\"><ul class=\"level0\"><li\
+        \ class=\"category-label level1\"><span class=\"text\">Youth, Family, and\
+        \ Health</span><a class=\"back\" href=\"#\">Back</a></li><li class=\"level1\
+        \ nav-11-1 first parent\"><a href=\"https://extension.psu.edu/youth-family-and-health/nutrition-diet-and-health\"\
+        \ class=\"level1 has-children \">Nutrition, Diet, and Health</a><i class=\"\
+        fa fa-angle-right open-submenu\"></i><nav role=\"navigaton\" aria-label=\"\
+        Secondary\" class=\"child child-2 navigation-tab\"><ul class=\"level1\"><li\
+        \ class=\"category-label level2\"><span class=\"text\">Nutrition, Diet, and\
+        \ Health</span><a class=\"back\" href=\"#\">Back</a></li><li class=\"level2\
+        \ nav-11-1-1 first\"><a href=\"https://extension.psu.edu/youth-family-and-health/nutrition-diet-and-health/nutrition-and-food\"\
+        \ class=\"level2 \">Nutrition and Food</a></li><li class=\"level2 nav-11-1-2\"\
+        ><a href=\"https://extension.psu.edu/youth-family-and-health/nutrition-diet-and-health/chronic-disease\"\
+        \ class=\"level2 \">Chronic Disease</a></li><li class=\"level2 nav-11-1-3\"\
+        ><a href=\"https://extension.psu.edu/youth-family-and-health/nutrition-diet-and-health/food-allergies\"\
+        \ class=\"level2 \">Food Allergies</a></li><li class=\"level2 nav-11-1-4\"\
+        ><a href=\"https://extension.psu.edu/youth-family-and-health/nutrition-diet-and-health/fitness-and-exercise\"\
+        \ class=\"level2 \">Fitness and Exercise</a></li><li class=\"level2 nav-11-1-5\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/youth-family-and-health/nutrition-diet-and-health/see-all-nutrition-diet-and-health\"\
+        \ class=\"level2 \">See All Nutrition, Diet, and Health</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-11-2 parent\"><a href=\"https://extension.psu.edu/youth-family-and-health/children-and-families\"\
+        \ class=\"level1 has-children \">Children and Families</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-2 navigation-tab\"><ul class=\"level1\"><li class=\"category-label\
+        \ level2\"><span class=\"text\">Children and Families</span><a class=\"back\"\
+        \ href=\"#\">Back</a></li><li class=\"level2 nav-11-2-1 first\"><a href=\"\
+        https://extension.psu.edu/youth-family-and-health/children-and-families/child-care\"\
+        \ class=\"level2 \">Child Care</a></li><li class=\"level2 nav-11-2-2\"><a\
+        \ href=\"https://extension.psu.edu/youth-family-and-health/children-and-families/alcohol-and-drug-prevention\"\
+        \ class=\"level2 \">Alcohol and Drug Prevention</a></li><li class=\"level2\
+        \ nav-11-2-3\"><a href=\"https://extension.psu.edu/youth-family-and-health/children-and-families/family-resiliency\"\
+        \ class=\"level2 \">Family Resiliency</a></li><li class=\"level2 nav-11-2-4\
+        \ last education-by-type\"><a href=\"https://extension.psu.edu/youth-family-and-health/children-and-families/see-all-children-and-families\"\
+        \ class=\"level2 \">See All Children and Families</a></li></ul></nav></li><li\
+        \ class=\"level1 nav-11-3 last\"><a href=\"https://extension.psu.edu/youth-family-and-health/4-h-youth-development\"\
+        \ class=\"level1 \">4-H Youth Development</a></li></ul></nav></li><li class=\"\
+        level0 nav-12 last parent\"><a href=\"#nav-12\" class=\"level0 has-children\
+        \ browse-by-format\">Browse All by Education Format</a><i class=\"fa fa-angle-right\
+        \ open-submenu\"></i><nav role=\"navigaton\" aria-label=\"Secondary\" class=\"\
+        child child-1 navigation-tab\"><ul class=\"level0\"><li class=\"category-label\
+        \ level1\"><span class=\"text\">Browse All by Education Format</span><a class=\"\
+        back\" href=\"#\">Back</a></li><li class=\"level1\"><a class=\"level1\" href=\"\
+        https://extension.psu.edu/shopby/articles\">Articles</a></li><li class=\"\
+        level1\"><a class=\"level1\" href=\"https://extension.psu.edu/shopby/conferences\"\
+        >Conferences</a></li><li class=\"level1\"><a class=\"level1\" href=\"https://extension.psu.edu/shopby/news\"\
+        >News</a></li><li class=\"level1\"><a class=\"level1\" href=\"https://extension.psu.edu/shopby/online-courses\"\
+        >Online Courses</a></li><li class=\"level1\"><a class=\"level1\" href=\"https://extension.psu.edu/shopby/guides-and-publications\"\
+        >Guides and Publications</a></li><li class=\"level1\"><a class=\"level1\"\
+        \ href=\"https://extension.psu.edu/shopby/videos\">Videos</a></li><li class=\"\
+        level1\"><a class=\"level1\" href=\"https://extension.psu.edu/shopby/webinars\"\
+        >Webinars</a></li><li class=\"level1\"><a class=\"level1\" href=\"https://extension.psu.edu/shopby/workshops\"\
+        >Workshops</a></li></ul></nav></li></ol></nav><!--/{MENU_BLOCK_90929d6e97ba0f4c6d46cf82ee730dae}--></div></div><div\
+        \ class=\"header-search-block\"> <a href=\"#header-search\" class=\"skip-link\
+        \ skip-search\"> <span class=\"icon\"></span> </a><div id=\"header-search\"\
+        \ class=\"skip-content\"><form id=\"search_mini_form\" action=\"https://extension.psu.edu/catalogsearch/result/\"\
+        \ method=\"get\"><div class=\"input-box\"> <label for=\"search\">Search:</label>\
+        \ <input id=\"search\" type=\"search\" name=\"q\" value=\"\" class=\"input-text\
+        \ required-entry\" maxlength=\"128\" placeholder=\"Search\" /> <button type=\"\
+        submit\" title=\"Search\" class=\"button search-button\"></button></div><div\
+        \ id=\"search_autocomplete\" class=\"search-autocomplete\"></div></form><form\
+        \ id=\"search_mini_form_fixed\" action=\"https://extension.psu.edu/catalogsearch/result/\"\
+        \ method=\"get\"><div class=\"input-box\"> <label for=\"search_fixed\">Search:</label>\
+        \ <input id=\"search_fixed\" class=\"search\" type=\"search\" name=\"q\" value=\"\
+        \" class=\"input-text required-entry\" maxlength=\"128\" placeholder=\"Search\"\
+        \ /> <button type=\"submit\" title=\"Search\" class=\"button search-button\"\
+        ></button></div><div id=\"search_autocomplete_fixed\" class=\"search-autocomplete\"\
+        ></div></form></div></div><div class=\"account-cart-wrapper\"><div class=\"\
+        header-account-parent\"> <a href=\"https://extension.psu.edu/customer/account/\"\
+        \ data-target-element=\"#header-account\" class=\"skip-link skip-account\"\
+        > <span class=\"icon\"><strong class=\"fa fa-user\"></strong></span> <span\
+        \ class=\"label\">Account</span> </a><div id=\"header-account\" class=\"skip-content\"\
+        > <button data-target-element=\"#header-account\" class=\"skip-link\" title=\"\
+        Close\"><strong class=\"fa fa-close\"></strong></button> <!--{IWD_ACCLINKS_e31b3d84f51bf56d676dfcc22c0dcfab}--><div\
+        \ class=\"links\"><ul><li class=\"first\" ><a href=\"https://extension.psu.edu/checkout/cart/\"\
+        \ title=\"My Cart\" class=\"top-link-cart\">My Cart</a></li><li ><a href=\"\
+        https://extension.psu.edu/onepage/\" title=\"Checkout\" class=\"top-link-checkout\"\
+        >Checkout</a></li><li ><a href=\"https://extension.psu.edu/customer/account/login/referer/aHR0cHM6Ly9leHRlbnNpb24ucHN1LmVkdS93aGF0LXNob3VsZC15b3UtZG8td2l0aC1zcG90dGVkLWxhbnRlcm5mbHktZWdnLW1hc3Nlcw,,/\"\
+        \ title=\"Register\" class=\"signin-modal-register\">Register</a></li><li\
+        \ class=\" last\" ><a href=\"https://extension.psu.edu/customer/account/login/referer/aHR0cHM6Ly9leHRlbnNpb24ucHN1LmVkdS93aGF0LXNob3VsZC15b3UtZG8td2l0aC1zcG90dGVkLWxhbnRlcm5mbHktZWdnLW1hc3Nlcw,,/\"\
+        \ title=\"Log In\" class=\"signin-modal-login signin-modal\">Log In</a></li></ul></div>\
+        \ <!--/{IWD_ACCLINKS_e31b3d84f51bf56d676dfcc22c0dcfab}--></div></div><div\
+        \ class=\"header-minicart\"><a href=\"https://extension.psu.edu/checkout/cart/\"\
+        \ data-target-element=\"#header-cart\" class=\"skip-link skip-cart no-count\"\
+        > <span class=\"icon\"></span> <span class=\"label\">Cart</span> <span class=\"\
+        count\">0</span> </a><div id=\"header-cart\" class=\"block block-cart skip-content\"\
+        > <!--{CART_SIDEBAR_8346ea55d1924fc1a8f1a9063f8e6410}--><div id=\"minicart-error-message\"\
+        \ class=\"minicart-message\"></div><div id=\"minicart-success-message\" class=\"\
+        minicart-message\"></div><div class=\"minicart-wrapper\"><p class=\"block-subtitle\"\
+        > Recently added item(s) <button class=\"close skip-link-close\" title=\"\
+        Close\"><strong class=\"fa fa-close\"></strong></button></p><p class=\"empty\"\
+        >You have no items in your shopping cart.</p></div> <!--/{CART_SIDEBAR_8346ea55d1924fc1a8f1a9063f8e6410}--></div></div></div></div></div></div><div\
+        \ class=\"z-block-header\"><div class=\"zblock zblock-header_bottom\" id=\"\
+        zblock-121\"><div class=\"zblock-item\"><style type=\"text/css\" media=\"\
+        all\">@media only screen and (max-width : 300px){.flyIcon{display:none}.zblock\n\
+        img{display:none}}@media only screen and (min-width : 301px) and (max-width\
+        \ : 400px){.flyIcon{display:none}.zblock\nimg{display:none}}@media only screen\
+        \ and (min-width : 401px) and (max-width : 500px){.flyIcon{display:none}.zblock\n\
+        img{display:none}}@media only screen and (min-width : 501px) and (max-width\
+        \ : 600px){.flyIcon{left:3%}.zblock\nimg{display:none}}@media only screen\
+        \ and (min-width : 601px) and (max-width : 700px){.flyIcon{left:9%}.zblock\n\
+        img{display:none}}@media only screen and (min-width : 701px) and (max-width\
+        \ : 800px){.flyIcon{left:19%}}@media only screen and (min-width : 801px) and\
+        \ (max-width : 900px){.flyIcon{left:21%}}@media only screen and (min-width\
+        \ : 901px) and (max-width : 1000px){.flyIcon{left:24%}}@media only screen\
+        \ and (min-width : 1001px) and (max-width : 1100px){.flyIcon{left:24%}}@media\
+        \ only screen and (min-width : 1101px) and (max-width : 1200px){.flyIcon{left:28%}}@media\
+        \ only screen and (min-width : 1201px) and (max-width : 1300px){.flyIcon{left:30%}}@media\
+        \ only screen and (min-width : 1301px) and (max-width : 1400px){.flyIcon{left:31%}}@media\
+        \ only screen and (min-width : 1401px) and (max-width : 1500px){.flyIcon{left:33%}}@media\
+        \ only screen and (min-width : 1501px) and (max-width : 1600px){.flyIcon{left:34%}}@media\
+        \ only screen and (min-width : 1601px) and (max-width : 1700px){.flyIcon{left:34%}}@media\
+        \ only screen and (min-width : 1701px) and (max-width : 1800px){.flyIcon{left:35%}}@media\
+        \ only screen and (min-width :1801px){.flyIcon{left:36%}}.z-block-header{background-color:#74c7ce!important}.slf{padding:8px;text-align:center;line-height:22px;color:#02458d;font-size:14.14px;letter-spacing:0.4px;font-weight:800}a.slf:link,a.slf:visited{color:##02458d;text-decoration:none}.slf\
+        \ a:after{content:\"\\f105\";font-family:'FontAwesome';color:#ad452d;font-size:19.19px;padding:0\n\
+        0 0 11px}</style><img style=\"position:absolute;width:60px;margin-top:-3px;margin-left:-60px;\"\
+        \ class=\"flyIcon\" id=\"flyicon\" src=\"https://extension.psu.edu/media/wysiwyg/media-assets/lanternfly.png\"\
+        \ alt=\"Spotted Lanternfly\"><div style=\"z-index:100;\" id=\"slfzblock\"\
+        ><p class=\"slf\"><a class=\"slf\" href=\"https://extension.psu.edu/spotted-lanternfly\"\
+        >LEARN HOW TO STOP THE INVASIVE SPOTTED LANTERNFLY</a></p></div></div></div><div\
+        \ class=\"zblock zblock-header_bottom\" id=\"zblock-126\"><div class=\"zblock-item\"\
+        ><style type=\"text/css\" media=\"all\">.cor{padding:8px;text-align:center;line-height:22px;color:#02458d;font-size:14.14px;letter-spacing:0.4px;font-weight:800;text-transform:uppercase}a.cor:link,a.slf:visited{color:##02458d;text-decoration:none}.cor\
+        \ a:after{content:\"\\f105\";font-family:'FontAwesome';color:#ad452d;font-size:19.19px;padding:0\n\
+        0 0 11px}</style><div style=\"z-index:100;background-color:#ffdc23!important;\"\
+        \ id=\"coronaviruszblock\"><p class=\"cor\"><a class=\"cor\" href=\"https://extension.psu.edu/coronavirus\"\
+        >Coronavirus: Information and resources for the Extension Community</a></p></div></div></div></div>\
+        \ </header><div class=\"main-container col2-right-layout\" itemscope itemtype=\"\
+        http://schema.org/Article\"><div class=\"main\"><div class=\"breadcrumbs\"\
+        ><ul><li class=\"home\"> <a href=\"https://extension.psu.edu/\" title=\"Go\
+        \ to Home Page\">Home</a> <span>| </span></li><li class=\"product\"> <strong>What\
+        \ Should You Do With Spotted Lanternfly Egg Masses?</strong></li></ul></div><div\
+        \ class=\"col-main\"><div id=\"messages_product_view\"></div><div class=\"\
+        product-view downloadable oos\"><div class=\"product-essential\"><div class=\"\
+        product-name\"><h1 itemprop=\"headline\">What Should You Do With Spotted Lanternfly\
+        \ Egg Masses?</h1></div><div class=\"short-description\"><div class=\"std\"\
+        >Information about locating, identifying, and treating egg masses.</div></div><div\
+        \ class=\"discussing clearer\"><p class=\"additional-block\"> <a class=\"\
+        pdf-link\" href=\"https://extension.psu.edu/downloadable/download/sample/sample_id/4043/\"\
+        \ download><span class=\"fa fa-arrow-down\"></span><strong>Download PDF</strong></a>\
+        \ <a class=\"wishlist-link\" href=\"https://extension.psu.edu/wishlist/index/add/product/30665/form_key/wC8e8rpGDE9Aebhk/\"\
+        \ onclick=\"productAddToCartForm.submitLight(this, this.href); return false;\"\
+        \ ><span class=\"fa fa-plus-circle\"></span><strong>Save For Later</strong></a>\
+        \ <a class=\"print-link\" href=\"javascript:void(0)\" onClick=\"window.print()\"\
+        ><span class=\"fa fa-print\"></span><strong>Print</strong></a></p></div><div\
+        \ class=\"product-details clearer\"><div class=\"product-type\"> <img src=\"\
+        https://extension.psu.edu/media/amshopby/featured_product125.png\" alt=\"\
+        What Should You Do With Spotted Lanternfly Egg Masses? - Articles\" data-at2x=\"\
+        https://extension.psu.edu/media/amshopby/featured_product_retina268.png\"\
+        \ data-retina=\"\"> <label>Articles</label></div><p class=\"updated-date\"\
+        ><span>Updated: </span><span itemprop=\"datePublished\">November 3, 2020</span></p><meta\
+        \ itemprop=\"dateModified\" content=\"November 4, 2020\" /><meta itemprop=\"\
+        mainEntityOfPage\" content=\"true\" /><meta itemprop=\"articleSection\" content=\"\
+        Fruit\" /><meta itemprop=\"articleSection\" content=\"Trees and Shrubs\" /><meta\
+        \ itemprop=\"articleSection\" content=\"Pest, Disease and Weed Identification\"\
+        \ /><meta itemprop=\"articleSection\" content=\"Forest Management\" /><meta\
+        \ itemprop=\"articleSection\" content=\"[External] Spotted Lanternfly\" /></div><form\
+        \ action=\"https://extension.psu.edu/checkout/cart/add/uenc/aHR0cHM6Ly9leHRlbnNpb24ucHN1LmVkdS93aGF0LXNob3VsZC15b3UtZG8td2l0aC1zcG90dGVkLWxhbnRlcm5mbHktZWdnLW1hc3Nlcw,,/product/30665/form_key/wC8e8rpGDE9Aebhk/\"\
+        \ method=\"post\" id=\"product_addtocart_form\"> <input name=\"form_key\"\
+        \ type=\"hidden\" value=\"wC8e8rpGDE9Aebhk\" /><div class=\"no-display\">\
+        \ <input type=\"hidden\" name=\"product\" value=\"30665\" /> <input type=\"\
+        hidden\" name=\"related_product\" id=\"related-products-field\" value=\"\"\
+        \ /></div><div class=\"product-shop clearer\"><div class=\"std \"><div class=\"\
+        article-image\" itemscope itemtype=\"http://schema.org/ImageObject\" itemprop=\"\
+        image\"> <img src=\"https://extension.psu.edu/media/catalog/product/cache/2/image/463x/17f82f742ffe127f42dca9de82fb58b1/i/m/image_3777_1_2_1_262_1_23_1_28_2_11_2_2_2_38_1_94_7_2_24_46_6_414_49_21_45_2_25_15_1_9_1_18_9_6_5_1_21_3_29_8_2_1_13_5_1_6735.jpg\"\
+        \ alt=\"What Should You Do With Spotted Lanternfly Egg Masses?\" itemprop=\"\
+        url\" /><meta itemprop=\"height\" content=\"308\"/><meta itemprop=\"width\"\
+        \ content=\"463\"/></div> <span itemprop=\"publisher\" itemscope itemtype=\"\
+        http://schema.org/Organization\"><meta itemprop=\"name\" content=\"Penn State\
+        \ Extension\"/> <span itemprop=\"logo\" itemscope itemtype=\"http://schema.org/ImageObject\"\
+        ><meta itemprop=\"url\" content=\"https://extension.psu.edu/media/featurednews/default/fixed-logo.png\"\
+        /> </span> </span><div itemprop=\"articleBody\"><p>Spotted lanternfly (SLF)\
+        \ egg masses are laid in the late summer and into the early winter, with the\
+        \ majority of egg mass deposition occurring in October. These egg masses survive\
+        \ winter and hatch into SLF nymphs in the spring. Each egg mass contains an\
+        \ average of 30-50 eggs, and an individual female can lay at least 2 egg masses.\
+        \ These egg masses are the only stationary stage of the SLF, making them an\
+        \ easy target for removal. However, there are a few things you should know\
+        \ before you proceed to squash and scrape!</p><h2>Identifying Egg Masses</h2><p>SLF\
+        \ egg masses are usually about 1.5 inches long and colored brown/grey; however\
+        \ there can be a lot of variation among them! All egg masses contain rows\
+        \ of small eggs, roughly the size of a sharpened pencil point. Rows can vary\
+        \ in length, with some being longer than others in the same egg mass. Eggs\
+        \ within the egg mass can vary in color from a yellow to brown. After the\
+        \ female lays the eggs, she covers them with a substance believed to help\
+        \ them survive winter conditions and protect them from predation. When this\
+        \ substance is first deposited, it is white and glossy. After a few hours,\
+        \ the substance becomes duller and dries to a darker grey/brown color. Some\
+        \ egg masses do not get covered, often because the female SLF was disturbed\
+        \ by outside factors such as humans, other SLF, or potential predators. We\
+        \ have found that egg masses without a covering have a 10% lower hatch rate\
+        \ on average, though they can still hatch. Egg masses that have not been laid\
+        \ by the female will not hatch \u2013 if you kill an adult female SLF that\
+        \ is full of eggs, you need not do more!</p><p> <a class=\"light-box image-inline\"\
+        \ href=\"https://extension.psu.edu/media/wysiwyg/extensions/catalog_product/0/b/c3789d40e64c92acd3359d23532fad/eggmasses-jp5fa2bea85e5cb.jpeg\"\
+        \ data-lightbox=\"show\" title=\"\"> <img src=\"https://extension.psu.edu/media/wysiwyg/extensions/catalog_product/0/b/c3789d40e64c92acd3359d23532fad/eggmasses-jp5fa2bea85e5cb.jpeg\"\
+        \ class=\"image-inline\" /> </a></p><p class=\"discreet\">Variations in spotted\
+        \ lanternfly egg masses including color (yellow, gray, brown) and covering.\
+        \ Photo Heather Leach.</p><p>Egg mass cases that were laid up to 2 years ago\
+        \ can still be found on trees and other structures \u2013 the easiest way\
+        \ to distinguish a fresh egg mass from an old one is to (1) check for the\
+        \ presence of the covering on the top of the egg mass and (2) check for the\
+        \ presence of emergence holes. The covering fades with time and while it is\
+        \ often still present in the spring, it may look dry and cracked. After the\
+        \ eggs hatch in the spring, the remnants of the egg mass weather even more,\
+        \ making the covering often disappear altogether. Additionally, each egg mass\
+        \ is equipped with a top \u201Chatch door\u201D that nymphs use to escape\
+        \ out of in the spring. These emergence holes are a perfect oval at the top\
+        \ of each egg. If these are present, the egg mass is old and nymphs have already\
+        \ hatched from it.</p><p> <a class=\"light-box image-inline\" href=\"https://extension.psu.edu/media/wysiwyg/extensions/catalog_product/0/b/c3789d40e64c92acd3359d23532fad/woodenpost-jp5fa2bea860774.jpeg\"\
+        \ data-lightbox=\"show\" title=\"\"> <img src=\"https://extension.psu.edu/media/wysiwyg/extensions/catalog_product/0/b/c3789d40e64c92acd3359d23532fad/woodenpost-jp5fa2bea860774.jpeg\"\
+        \ class=\"image-inline\" /> </a></p><p class=\"discreet\">A wooden post abundant\
+        \ with spotted lanternfly egg masses. Spotted lanternfly females prefer to\
+        \ lay eggs next to already existing egg masses. Photo Heather Leach.</p><h2>Locating\
+        \ the Egg Masses</h2><p>Female SLF will lay their eggs in a variety of places,\
+        \ most commonly on trees next to their feeding site. Often, the hosts preferred\
+        \ by SLF in the late season is red maple, silver maple, and willows - this\
+        \ is an excellent place to start looking for egg masses! However, SLF will\
+        \ also lay eggs on trees they do not heavily feed on, including black cherry\
+        \ and pine trees. It is important to keep in mind that you will not be able\
+        \ to reach all of the egg masses deposited on a tree; in fact, on average\
+        \ less than 2% of the egg masses laid on a tree are at a reachable distance\
+        \ (0-10ft) on the tree, leaving 98% of the egg masses above reach. Note that\
+        \ these numbers were taken from maples between 30-40 feet high and may differ\
+        \ for other tree species or different sized trees. We do not recommend using\
+        \ ladders or climbing trees to get to the unreachable distance. Keep in mind\
+        \ that each egg mass killed can remove up to 50 SLF from next year\u2019s\
+        \ generation, but you are unlikely to get them all. Continued management strategies\
+        \ on nymphs and adults next year, such as tree traps, may be necessary. Read\
+        \ more about other management strategies for SLF here: \" <a href=\"https://extension.psu.edu/spotted-lanternfly-management-for-residents\"\
+        \ target=\"_blank\">Spotted Lanternfly Management for Residents</a>&nbsp;.\"\
+        </p><p>SLF prefer to lay egg masses in protected areas such as the undersides\
+        \ of tree limbs, picnic tables, and other outdoor surfaces that are horizontal\
+        \ or angled toward the ground. Currently, we are trying to determine which\
+        \ substrates they prefer to lay on the most. Interestingly, we have found\
+        \ that SLF females prefer to lay eggs near other SLF egg masses, so you will\
+        \ often see SLF egg masses clumped together. We are currently carrying out\
+        \ trials to determine what makes these egg masses attractive.</p><h2>Reporting\
+        \ Egg Masses</h2><p>SLF egg masses found in areas within most areas of the\
+        \ current quarantine zone do not need to be reported. However, if you find\
+        \ an egg mass within quarantined counties newly added in 2020 (Beaver, Allegheny,\
+        \ Blair, Huntingdon, Mifflin, Juniata, Perry, Cumberland, York, Northumberland,\
+        \ Columbia, and Luzerne), it is helpful to management and monitoring efforts\
+        \ if you destroy and report these. If you find a SLF egg masses outside of\
+        \ the quarantine zone, it should be reported immediately and destroyed. Follow\
+        \ the guidelines below for how to properly destroy it. If possible, take a\
+        \ picture of the egg mass before destroying it so that officials can confirm\
+        \ the sighting. You can report your find the Penn State Extension <a class=\"\
+        external-link\" href=\"https://extension.psu.edu/spotted-lanternfly\" title=\"\
+        \">Spotted Lanternfly website</a> or by calling our hotline 1-888-422-3359.\
+        \ Any egg mass found on plants or outdoor equipment that will be transported\
+        \ (e.g. camping equipment, vehicles) should be removed and inspected thoroughly\
+        \ before moving them. The SLF checklist for residents, found at the <a class=\"\
+        external-link\" href=\"https://extension.psu.edu/spotted-lanternfly\" title=\"\
+        \">Spotted Lanternfly website</a><span class=\"external-link\">,</span> can\
+        \ help guide you through this inspection process. If you are a business transporting\
+        \ any vehicles or conveyances with the SLF quarantine zone, a SLF permit issued\
+        \ by the PA Department of Agriculture is required. To obtain the required\
+        \ training and permit, you can visit the Penn State Extension <a class=\"\
+        external-link\" href=\"https://extension.psu.edu/spotted-lanternfly\" title=\"\
+        \">Spotted Lanternfly website</a><span class=\"external-link\">.</span></p><h2>Scraping\
+        \ or Smashing Egg Masses</h2><p> <a class=\"light-box image-inline\" href=\"\
+        https://extension.psu.edu/media/wysiwyg/extensions/catalog_product/0/b/c3789d40e64c92acd3359d23532fad/scraping-jp5fa2bea862c59.jpeg\"\
+        \ data-lightbox=\"show\" title=\"\"> <img src=\"https://extension.psu.edu/media/wysiwyg/extensions/catalog_product/0/b/c3789d40e64c92acd3359d23532fad/scraping-jp5fa2bea862c59.jpeg\"\
+        \ class=\"image-inline\" /> </a></p><p class=\"discreet\">Scraping spotted\
+        \ lanternfly egg masses into a plastic bag from a cinder block. Photo Nancy\
+        \ Bosold.</p><p>If you find egg masses on your property from September to\
+        \ May, you can scrape them off using a plastic card or putty knife. Scrape\
+        \ them into a bag or container filled with rubbing alcohol or hand sanitizer\
+        \ and keep them in this solution permanently. Egg masses that are scraped\
+        \ to the ground can still hatch, so it is important to follow all steps! Egg\
+        \ masses can also be smashed, but be sure to apply even and forceful pressure\
+        \ to the entire egg mass. A properly smashed egg will burst open. You can\
+        \ learn more about this method by watching our how-to video: \" <a href=\"\
+        https://extension.psu.edu/how-to-remove-spotted-lanternfly-eggs\" target=\"\
+        _blank\">How To Remove Spotted Lanternfly Eggs</a>&nbsp;.\" Remember that\
+        \ some eggs will be very difficult or even unreachable at the tops of trees,\
+        \ in other well-hidden areas, and they may be present throughout your neighborhood\
+        \ and community. Be aware that this method may reduce the number of nymph\
+        \ or adult SLF you see later in the year but most likely will not eliminate\
+        \ the population completely from your area.</p><h2>Using Ovicides on Egg Masses</h2><p>Based\
+        \ on studies done in 2018 and 2019, our results suggest some insecticides\
+        \ have ovicidal action against SLF eggs. All studies were done on intact egg\
+        \ masses (with covering) between February and April. Although many synthetic\
+        \ insecticides were tested against SLF eggs, the most effective products tested\
+        \ were paraffinic and/or mineral oils such as JMS Stylet oil, Damoil and Lesco\
+        \ Horticultural oil, commonly used in fruit systems as insecticides to control\
+        \ soft bodied insects. Many of these oils are also available to residents\
+        \ at local garden centers. When oils were applied at a solution of at least\
+        \ 3 percent, they were effective in killing up to 75 percent of treated eggs.\
+        \ One of the most important parts to getting effective control is to make\
+        \ sure you have good coverage and apply the oil solution directly to the egg\
+        \ masses. The only plant-based oil, soybean oil, had similar control of SLF\
+        \ egg masses when applied at a 50% concentration. Oils, when applied at the\
+        \ correct time and with good coverage, can offer some control of egg masses\
+        \ and have very little non-target effects. The use of oils provides not only\
+        \ a safe, environmentally friendly option but also provides control to some\
+        \ egg masses that are not accessible for physical removal or smashing. However,\
+        \ for egg masses that are within a reachable area, smashing or scraping the\
+        \ egg masses will provide greater efficacy than the ovicides currently available.\
+        \ We are actively researching other ovicides that could provide increased\
+        \ control and encourage you to stay up to date on our progress!</p></div></div></div></form></div><div\
+        \ class=\"product-collateral toggle-content tabs\" id=\"product-collateral\"\
+        ><h2 class=\"hidden\">Overview</h2><div class=\"iwd-featured-ajax-loader\"\
+        ><div id=\"floatingCirclesG_featured\"><div id=\"frotateG1_01_featured\" class=\"\
+        f_circleG_featured\"></div><div id=\"frotateG1_02_featured\" class=\"f_circleG_featured\"\
+        ></div><div id=\"frotateG1_03_featured\" class=\"f_circleG_featured\"></div><div\
+        \ id=\"frotateG1_04_featured\" class=\"f_circleG_featured\"></div><div id=\"\
+        frotateG1_05_featured\" class=\"f_circleG_featured\"></div><div id=\"frotateG1_06_featured\"\
+        \ class=\"f_circleG_featured\"></div><div id=\"frotateG1_07_featured\" class=\"\
+        f_circleG_featured\"></div><div id=\"frotateG1_08_featured\" class=\"f_circleG_featured\"\
+        ></div></div></div><div id=\"collateral-tabs\" class=\"collateral-tabs\"><div\
+        \ class=\"tabs-slide tab-first\"><div class=\"tab-container\" id=\"authors-tab-block\"\
+        ><h3 class=\"tab authors-tab\"><span>Authors</span></h3><div class=\"tab-content\"\
+        ><div class=\"author-list clearer\" itemprop=\"author\"><div class =\"item-line\
+        \ clearer\"><div itemscope itemtype=\"http://schema.org/Person\" itemprop=\"\
+        author\" class=\"item clearer\"><div class=\"photo\"> <a href=\"https://extension.psu.edu/heather-l-leach\"\
+        \ title=\"Heather L Leach\" class=\"product-image canvas\"> <img id=\"product-collection-image-20350\"\
+        \ class=\"grayscale\" src=\"https://extension.psu.edu/media/catalog/product/cache/2/small_image/170x260/9df78eab33525d08d6e5fb8d27136e95/i/m/image_3777_1_2_1_262_1_23_1_28_2_11_2_2_2_38_1_94_7_2_24_46_6_414_49_21_45_2_25_15_1_9_1_18_9_6_5_1_21_3_29_8_2_1_13_5_1_3620.jpg\"\
+        \ alt=\"Heather L Leach\" /> </a></div><div class=\"info \"><div class=\"\
+        product-name\"> <a href=\"https://extension.psu.edu/heather-l-leach\"><span\
+        \ itemprop=\"name\">Heather L Leach</span></a></div><div class=\"author-info\"\
+        > <label> Extension Associate </label></div><div class=\"expertise\"> <label\
+        \ class=\"expertise-title\">Expertise</label><div class=\"expertise-content\"\
+        ><div class=\"ul\"> <span>Spotted Lanternfly</span></div></div></div><h3>More\
+        \ by Heather L Leach&nbsp;<i class=\"fa fa-angle-right\"></i></h3><div class=\"\
+        author-more-by-list hidden\"><ul><li> <label class=\"type\">Articles</label>\
+        \ <a href=\"https://extension.psu.edu/spotted-lanternfly-management-for-residents\"\
+        >Spotted Lanternfly Management for Residents</a></li><li> <label class=\"\
+        type\">Articles</label> <a href=\"https://extension.psu.edu/spotted-lanternfly-management-in-vineyards\"\
+        >Spotted Lanternfly Management in Vineyards</a></li><li> <label class=\"type\"\
+        >Articles</label> <a href=\"https://extension.psu.edu/avoid-home-remedies-to-control-spotted-lanternfly\"\
+        >Avoid Home Remedies to Control Spotted Lanternfly</a></li></ul> <a class=\"\
+        view-all-articles\" target=\"_blank\" href=\"https://extension.psu.edu/shopby?authors=hll50\"\
+        >View All</a></div></div></div><div itemscope itemtype=\"http://schema.org/Person\"\
+        \ itemprop=\"author\" class=\"item clearer\"><div class=\"photo\"> <a href=\"\
+        https://extension.psu.edu/grzegorz-greg-krawczyk-ph-d\" title=\"Grzegorz (Greg)\
+        \ Krawczyk, Ph.D.\" class=\"product-image canvas\"> <img id=\"product-collection-image-1296\"\
+        \ class=\"grayscale\" src=\"https://extension.psu.edu/media/catalog/product/cache/2/small_image/170x260/9df78eab33525d08d6e5fb8d27136e95/i/m/image_103.jpg\"\
+        \ alt=\"Grzegorz (Greg) Krawczyk, Ph.D.\" /> </a></div><div class=\"info \"\
+        ><div class=\"product-name\"> <a href=\"https://extension.psu.edu/grzegorz-greg-krawczyk-ph-d\"\
+        ><span itemprop=\"name\">Grzegorz (Greg) Krawczyk, Ph.D.</span></a></div><div\
+        \ class=\"author-info\"> <label> Extension Tree Fruit Entomologist </label></div><div\
+        \ class=\"expertise\"> <label class=\"expertise-title\">Expertise</label><div\
+        \ class=\"expertise-content\"><div class=\"ul\"> <span>Insect plant interactions</span>\
+        \ <span>Integrated pest management</span> <span>Biological control</span>\
+        \ <span>Tree fruit insect pests</span> <span>Insects rearing</span> <span>Laboratory\
+        \ and field bioassays</span> <span>Invasive insect pests</span> <span>Pesticide\
+        \ resistance</span></div></div></div><h3>More by Grzegorz (Greg) Krawczyk,\
+        \ Ph.D.&nbsp;<i class=\"fa fa-angle-right\"></i></h3><div class=\"author-more-by-list\
+        \ hidden\"><ul><li> <label class=\"type\">Articles</label> <a href=\"https://extension.psu.edu/orchard-ipm-insect-monitoring\"\
+        >Orchard IPM - Insect Monitoring</a></li><li> <label class=\"type\">Articles</label>\
+        \ <a href=\"https://extension.psu.edu/orchard-precision-sensor-technologies-and-weather-modeling\"\
+        >Orchard Precision - Sensor Technologies and Weather Modeling</a></li><li>\
+        \ <label class=\"type\">Articles</label> <a href=\"https://extension.psu.edu/orchard-ipm-integrated-pest-management-an-overview\"\
+        >Orchard IPM (Integrated Pest Management) - An Overview</a></li></ul> <a class=\"\
+        view-all-articles\" target=\"_blank\" href=\"https://extension.psu.edu/shopby?authors=gxk13\"\
+        >View All</a></div></div></div></div><div class =\"item-line clearer\"><div\
+        \ itemscope itemtype=\"http://schema.org/Person\" itemprop=\"author\" class=\"\
+        item clearer no-margin\"><div class=\"info full-width\"><div class=\"product-name\"\
+        > <a href=\"https://extension.psu.edu/lauren-briggs\"><span itemprop=\"name\"\
+        >Lauren Briggs</span></a></div><div class=\"author-info\"> <label> Research\
+        \ Technologist </label></div></div></div><div itemscope itemtype=\"http://schema.org/Person\"\
+        \ itemprop=\"author\" class=\"item clearer no-margin\"><div class=\"photo\"\
+        > <a href=\"https://extension.psu.edu/dennis-calvin\" title=\"Dennis Calvin\"\
+        \ class=\"product-image canvas\"> <img id=\"product-collection-image-1987\"\
+        \ class=\"grayscale\" src=\"https://extension.psu.edu/media/catalog/product/cache/2/small_image/170x260/9df78eab33525d08d6e5fb8d27136e95/i/m/image_551.jpg\"\
+        \ alt=\"Dennis Calvin\" /> </a></div><div class=\"info \"><div class=\"product-name\"\
+        > <a href=\"https://extension.psu.edu/dennis-calvin\"><span itemprop=\"name\"\
+        >Dennis Calvin</span></a></div><div class=\"author-info\"> <label> Associate\
+        \ Dean and Director of Special Programs </label></div><h3>More by Dennis Calvin&nbsp;<i\
+        \ class=\"fa fa-angle-right\"></i></h3><div class=\"author-more-by-list hidden\"\
+        ><ul><li> <label class=\"type\">Articles</label> <a href=\"https://extension.psu.edu/considerations-for-double-cropping-corn-following-hay-in-pennsylvania\"\
+        >Considerations for Double-cropping Corn Following Hay in Pennsylvania</a></li><li>\
+        \ <label class=\"type\">Articles</label> <a href=\"https://extension.psu.edu/tree-fruit-insect-pest-potato-leafhopper\"\
+        >Tree Fruit Insect Pest - Potato Leafhopper</a></li></ul> <a class=\"view-all-articles\"\
+        \ target=\"_blank\" href=\"https://extension.psu.edu/shopby?authors=ifa\"\
+        >View All</a></div></div></div></div></div></div></div></div></div></div></div></div><div\
+        \ class=\"col-right sidebar\"><div class=\"zblock zblock-product-sidebar-right-top\"\
+        \ id=\"zblock-124\"><div class=\"zblock-item\"><style type=\"text/css\" media=\"\
+        all\">@media (max-width: 700px){.modal-content{position:fixed;background-color:#fefefe;bottom:0%;padding:0px\n\
+        0px;width:100%;text-align:center;border:1px\nsolid #000;right:-1000px;z-index:1000000001;bottom:0px}.close{display:none;color:#000;float:right;font-size:28px;font-weight:bold;padding:0px\n\
+        6px;margin:0px}.close2{display:block;color:#000;float:right;font-size:18px;font-weight:bold;padding:0px\n\
+        6px;margin:0px}.close:hover,.close:focus{color:black;text-decoration:none;cursor:pointer}.close2:hover,.close:focus{color:black;text-decoration:none;cursor:pointer}p.eModal{color:#000;font-family:'Open\
+        \ Sans',sans-serif;font-size:.9em;font-weight:600;text-align:center;margin:6px\n\
+        0px;display:inline;line-height:100%}p.eModalDis{1px solid blackfont-family:\
+        \ 'Open Sans',sans-serif;font-size:.7em;font-weight:300;text-align:center;color:#000;margin:6px\n\
+        0px;line-height:100%}a.eModalDis:link,a.eModalDis:visited{color:#000;text-decoration:underline}h1.eModal{color:#000;font-family:'Open\
+        \ Sans',sans-serif;font-size:1.5em;font-weight:400;text-align:center;margin:0px\n\
+        0px;margin-bottom:0px!important;display:none;line-height:100%}.eSpacer{display:none}.eSpacer2{display:none}.popupInput{height:30px!important;border:1px\n\
+        solid #000;width:155px!important;position:relative!important;top:0px!important;margin:2px\n\
+        0px;line-height:20px!important;display:block}.popupInput2{height:30px!important;border:1px\n\
+        solid #000;width:155px!important;position:relative!important;top:0px!important;margin:2px\n\
+        0px;line-height:20px!important;display:inline}.modalForm{text-align:center;margin:8px;font-family:'Open\
+        \ Sans',sans-serif}.fsSubmitButton{background-color:#f7901e;color:#fff;cursor:pointer;font-weight:400;position:relative!important;border:none;padding:4px\n\
+        16px;font-size:14px;margin-top:1px}.tooltip2:hover\n.tooltiptext2{visibility:hidden}.tooltip2{display:none;visibility:hidden}}@media\
+        \ (min-width: 701px){.modal-content{position:fixed;border:1px\nsolid #000;background-color:#fefefe;padding:0px\n\
+        0px;max-width:575px;text-align:center;background-image:url(\"https://extension.psu.edu/media/wysiwyg/media-assets/grassBgDark.jpg\"\
+        );right:-1000px;z-index:100000001;bottom:0px}.close{color:#000;float:right;font-size:28px;padding:0px\n\
+        6px;margin:0px}.close2{display:none;color:#000;float:right;font-size:28px;padding:0px\n\
+        6px;margin:0px}.close:hover,.close:focus{color:black;text-decoration:none;cursor:pointer}.close2:hover,.close:focus{color:black;text-decoration:none;cursor:pointer}p.eModal{font-family:'Open\
+        \ Sans',sans-serif;font-size:1.08em;font-weight:400;text-align:center;color:#000;margin-top:-8px;!important}p.eModalDis{line-height:110%;font-family:'Open\
+        \ Sans',sans-serif;font-size:.95em;font-weight:700;text-align:left;color:#fff;margin:6px\n\
+        41px}a.eModalDis:link,a.eModalDis:visited{color:#fff;text-decoration:underline}h1.eModal{font-family:'Open\
+        \ Sans',sans-serif;text-align:center;font-size:3.6em;line-height:100%;font-weight:400;color:#000;display:inline}.eSpacer{height:12px}.eSpacer10{height:9px}.popupInput{display:block;height:31px!important;border:1px\n\
+        solid #a9d15d;width:225px!important;position:relative!important;top:0px!important;line-height:31px!important;display;block;margin-left:1px;margin-bottom:4px}.popupInput2{display:inlne;height:31px!important;border:1px\n\
+        solid #a9d15d;width:225px!important;position:relative!important;top:0px!important;line-height:31px!important;display;block;margin-left:1px;margin-bottom:4px}.popupInputPost{height:31px!important;border:1px\n\
+        solid #a9d15d;width:225px!important;position:relative!important;margin:8px\n\
+        0px;line-height:31px!important;top:0px!important;margin-left:1px;margin-bottom:4px}.modalForm{text-align:center;margin:8px;font-family:'Open\
+        \ Sans',sans-serif}.fsSubmitButton{padding:10px\n45px;background-color:#f7901e;color:#fff;cursor:pointer;font-weight:600;height:67px!important;position:relative!important;border:none;font-size:24px;margin-top:2px;margin-left:-45px}.tooltip2:hover\n\
+        .tooltiptext2{visibility:visible}.tooltip2{position:relative;background-color:#fff;color:#000;font-weight:500}}</style><div\
+        \ id=\"emailModal2\" class=\"modal-content\"><span id=\"close\" onclick=\"\
+        closeIt()\" class=\"close\">&times;</span><div class=\"eSpacer\"></div><div\
+        \ class=\"eSpacer\"></div><div class=\"eSpacer10\"></div><h1 class=\"eModal\"\
+        >Let's Stay Connected.</h1><div class=\"eSpacer\"></div> <span class=\"close2\"\
+        \ onclick=\"closeIt()\">&times;</span><div class=\"eSpacer2\"></div><p class=\"\
+        eModal\">Get notified when we have news, courses, or events of interest to\
+        \ you.</p><div class=\"eSpacer\"></div><form class=\"modalForm\" action=\"\
+        https://cl.exct.net/DEManager.aspx\" name=\"subscribeForm\" method=\"post\"\
+        \ style=\"text-align:left;\" onsubmit=\"myButton.disabled = true; return true;\"\
+        > <input type=\"hidden\" name=\"_clientID\" value=\"7234940\" /> <input type=\"\
+        hidden\" name=\"_deExternalKey\" value=\"5pxtuxeklvh6gehitnx0lv5311v2\" />\
+        \ <input type=\"hidden\" name=\"_action\" value=\"add\" /> <input type=\"\
+        hidden\" name=\"_returnXML\" value=\"0\" /> <input type=\"hidden\" name=\"\
+        _successURL\" value=\"/thank-you\"/> <input type=\"hidden\" name=\"_errorURL\"\
+        \ value=\"/thank-you\" /> <input name=\"urlSource\" id=\"urlSource\" value=\"\
+        /thank-you\" type=\"hidden\"> <input name=\"TimeStamp\" id=\"TimeStamp\" value=\"\
+        \" type=\"hidden\"> <input name=\"TimeStampNew\" id=\"TimeStampNew\" value=\"\
+        \" type=\"hidden\"><div class=\"modalForm\"><div style=\"display: flex;margin:0\
+        \ auto;text-align:center;\"><div style=\"margin:0 auto;text-align:center;\"\
+        > <input class=\"popupInput\" type=\"hidden\" name=\"GeneralOptIn\" value=\"\
+        True\" checked> <input type=\"email\" id=\"email\" class=\"popupInput\" name=\"\
+        E-mail\" placeholder=\"Email address\" required> <input type=\"text\" class=\"\
+        popupInput2\" name=\"ZipCode\" placeholder=\"Postal code\" required maxlength=\"\
+        20\"> <span style=\"left:-22px;\" class=\"tooltip2\"><i class=\"fa fa-question-circle\"\
+        ></i> <span class=\"tooltiptext2\">Why do we need this? Entering your postal\
+        \ code will help us provide news or event updates for your area.</span></span><style\
+        \ type=\"text/css\" media=\"all\">.tooltip2\n.tooltiptext2{visibility:hidden;width:300px;background-color:#a9d15d;color:#fff;text-align:center;border-radius:6px;padding:10px\n\
+        10px;position:absolute;z-index:1;top:100%;left:50%;margin-left:-100px}</style></div><div\
+        \ style=\"margin:0 auto;text-align:center;\"> <input type=\"submit\" name=\"\
+        myButton\" value=\"START NOW\" class=\"fsSubmitButton\"></div></div></div></form><div\
+        \ class=\"eSpacer\"></div><div class=\"eSpacer\"></div><p class=\"eModalDis\"\
+        >By entering your email, you consent to receive communications&nbsp;from&nbsp;Penn&nbsp;State&nbsp;Extension.&nbsp;View&nbsp;our&nbsp;<a\
+        \ class=\"eModalDis\" target=\"_blank\" href=\"http://www.psu.edu/web-privacy-statement\"\
+        >privacy&nbsp;policy</a>.</p></div><style type=\"text/css\" media=\"all\"\
+        >.saveAlert{display:none;z-index:100000;text-align:center;font-style:italic;font-family:\"\
+        Gotham A\",\"Gotham B\";background:#3DC480;color:#fff;font-size:1.5rem;padding:7px\n\
+        0;position:fixed;top:0;right:0;left:0}.save-msg{z-index:100000;text-align:center;font-style:italic;font-family:\"\
+        Gotham A\",\"Gotham B\";background:#3DC480;color:#fff;font-size:1.5rem;padding:7px\n\
+        0;position:fixed;top:0;right:0;left:0}</style><div id=\"div2\" class=\"saveAlert\"\
+        ><p class=\"save-msg\"><span style=\"display:block;height:5px;\"></span>Thank\
+        \ you for your submission!<br/></p></div></html></div></div><div class=\"\
+        featured-products\"><div class=\"inner\"><div id=\"iwd-auto-related-products-block-article\"\
+        \ class=\"iwd-auto-related-products-block iwd-auto-related-products-block-article\"\
+        ><div class=\"block-title\"> <strong class=\"title\">Related Products</strong></div><div\
+        \ id=\"iwd-auto-related-products-slider\" class=\"iwd-auto-related-products-slider\
+        \ iwd-related-products slides clearer\"><div class=\"item\"><div class=\"\
+        item-inner clearer\"> <a href=\"https://extension.psu.edu/powderpost-beetles\"\
+        \ title=\"Powderpost Beetles\" class=\"product-image\"> <img data-productid=\"\
+        3078\" class=\"wee_product_img\" src=\"https://extension.psu.edu/media/catalog/product/cache/2/small_image/97x67/9df78eab33525d08d6e5fb8d27136e95/i/m/image_1497.jpg\"\
+        \ alt=\"Powderpost Beetles\" width=\"97px\" height=\"67px\" /> </a><div class=\"\
+        info\"><h3 class=\"product-name\"> <a href=\"https://extension.psu.edu/powderpost-beetles\"\
+        \ title=\"Powderpost Beetles\"> Powderpost Beetles </a></h3> <span class=\"\
+        product-type\"> <img src=\"https://extension.psu.edu/media/amshopby/featured_product125.png\"\
+        \ alt=\"Powderpost Beetles - Articles\" data-at2x=\"https://extension.psu.edu/media/amshopby/featured_product125.png\"\
+        \ data-retina=\"\"> Articles </span></div></div></div><div class=\"item\"\
+        ><div class=\"item-inner clearer\"> <a href=\"https://extension.psu.edu/woody-ornamental-insect-mite-and-disease-management\"\
+        \ title=\"Woody Ornamental Insect, Mite, and Disease Management\" class=\"\
+        product-image\"> <img data-productid=\"5698\" class=\"wee_product_img\" src=\"\
+        https://extension.psu.edu/media/catalog/product/cache/2/small_image/97x67/9df78eab33525d08d6e5fb8d27136e95/i/m/image_268.png\"\
+        \ alt=\"Woody Ornamental Insect, Mite, and Disease Management\" width=\"97px\"\
+        \ height=\"67px\" /> </a><div class=\"info\"><h3 class=\"product-name\"> <a\
+        \ href=\"https://extension.psu.edu/woody-ornamental-insect-mite-and-disease-management\"\
+        \ title=\"Woody Ornamental Insect, Mite, and Disease Management\"> Woody Ornamental\
+        \ Insect, Mite, and Disease Management </a></h3> <span class=\"product-type\"\
+        > <img src=\"https://extension.psu.edu/media/amshopby/featured_product126.png\"\
+        \ alt=\"Woody Ornamental Insect, Mite, and Disease Management - Guides and\
+        \ Publications\" data-at2x=\"https://extension.psu.edu/media/amshopby/featured_product126.png\"\
+        \ data-retina=\"\"> Guides and Publications </span></div></div></div><div\
+        \ class=\"item\"><div class=\"item-inner clearer\"> <a href=\"https://extension.psu.edu/wood-destroying-pests\"\
+        \ title=\"Wood-destroying Pests\" class=\"product-image\"> <img data-productid=\"\
+        6156\" class=\"wee_product_img\" src=\"https://extension.psu.edu/media/catalog/product/cache/2/small_image/97x67/9df78eab33525d08d6e5fb8d27136e95/i/m/image_297.png\"\
+        \ alt=\"Wood-destroying Pests\" width=\"97px\" height=\"67px\" /> </a><div\
+        \ class=\"info\"><h3 class=\"product-name\"> <a href=\"https://extension.psu.edu/wood-destroying-pests\"\
+        \ title=\"Wood-destroying Pests\"> Wood-destroying Pests </a></h3> <span class=\"\
+        product-type\"> <img src=\"https://extension.psu.edu/media/amshopby/featured_product126.png\"\
+        \ alt=\"Wood-destroying Pests - Guides and Publications\" data-at2x=\"https://extension.psu.edu/media/amshopby/featured_product126.png\"\
+        \ data-retina=\"\"> Guides and Publications </span></div></div></div><div\
+        \ class=\"item\"><div class=\"item-inner clearer\"> <a href=\"https://extension.psu.edu/controlling-tree-of-heaven-why-it-matters\"\
+        \ title=\"Controlling Tree of Heaven: Why it Matters\" class=\"product-image\"\
+        > <img data-productid=\"22639\" class=\"wee_product_img\" src=\"https://extension.psu.edu/media/catalog/product/cache/2/small_image/97x67/9df78eab33525d08d6e5fb8d27136e95/i/m/image_3777_1_2_1_262_1_23_1_28_2_11_2_2_2_38_1_94_7_2_24_46_6_414_49_21_45_2_25_15_1_9_1_18_9_6_5_1_21_3_29_8_2_1_13_5_1_3160.jpg\"\
+        \ alt=\"Controlling Tree of Heaven: Why it Matters\" width=\"97px\" height=\"\
+        67px\" /> </a><div class=\"info\"><h3 class=\"product-name\"> <a href=\"https://extension.psu.edu/controlling-tree-of-heaven-why-it-matters\"\
+        \ title=\"Controlling Tree of Heaven: Why it Matters\"> Controlling Tree of\
+        \ Heaven: Why it Matters </a></h3> <span class=\"product-type\"> <img src=\"\
+        https://extension.psu.edu/media/amshopby/featured_product127.png\" alt=\"\
+        Controlling Tree of Heaven: Why it Matters - Videos\" data-at2x=\"https://extension.psu.edu/media/amshopby/featured_product127.png\"\
+        \ data-retina=\"\"> Videos </span></div></div></div><div class=\"item\"><div\
+        \ class=\"item-inner clearer\"> <a href=\"https://extension.psu.edu/spotted-lanternfly-permit-training\"\
+        \ title=\"Spotted Lanternfly Permit Training for Businesses: Pennsylvania\"\
+        \ class=\"product-image\"> <img data-productid=\"21080\" class=\"wee_product_img\"\
+        \ src=\"https://extension.psu.edu/media/catalog/product/cache/2/small_image/97x67/9df78eab33525d08d6e5fb8d27136e95/i/m/image_3777_1_2_1_262_1_23_1_28_2_11_2_2_2_38_1_94_7_2_24_46_6_414_49_21_45_2_25_15_1_9_1_18_9_6_5_1_21_3_29_8_2_1_13_5_1_2615.jpg\"\
+        \ alt=\"Spotted Lanternfly Permit Training for Businesses: Pennsylvania\"\
+        \ width=\"97px\" height=\"67px\" /> </a><div class=\"info\"><h3 class=\"product-name\"\
+        > <a href=\"https://extension.psu.edu/spotted-lanternfly-permit-training\"\
+        \ title=\"Spotted Lanternfly Permit Training for Businesses: Pennsylvania\"\
+        > Spotted Lanternfly Permit Training for Businesses: Pennsylvania </a></h3>\
+        \ <span class=\"product-type\"> <img src=\"https://extension.psu.edu/media/amshopby/featured_product128.png\"\
+        \ alt=\"Spotted Lanternfly Permit Training for Businesses: Pennsylvania -\
+        \ Online Courses\" data-at2x=\"https://extension.psu.edu/media/amshopby/featured_product128.png\"\
+        \ data-retina=\"\"> Online Courses </span></div></div></div></div></div></div></div><div\
+        \ id=\"related-please-wait\" class=\"please-wait\"> <span class=\"related-please-wait-message\"\
+        > Loading products... </span></div></div></div></div><div class=\"empty-footer\"\
+        ></div> <footer class=\"footer-container\"><div class=\"footer\"><div class=\"\
+        inner clearer\"><div class=\"item contact-block\"><a class=\"footer-logo\"\
+        \ href=\"https://extension.psu.edu/\"><img alt=\"Footer Penn State Extension\
+        \ Logo\" src=\"https://extension.psu.edu/media/wysiwyg/extensions/home_page/logo.png\"\
+        \ data-retina=\"\" data-at2x=\"https://extension.psu.edu/media/wysiwyg/extensions/home_page/logo@2x.png\"\
+        \ /></a><div class=\"contact-info\"><p><a href=\"http://agsci.psu.edu\"><strong>College\
+        \ of Agricultural Sciences</strong></a></p><p>The Pennsylvania State University<span>,</span>\
+        \ 323 Agricultural Administration Building<span>,</span> University Park,\
+        \ PA 16802</p></div><p class=\"map\"><a title=\"Map and Directions\" href=\"\
+        https://extension.psu.edu/county-offices\"><strong class=\"fa fa-map-marker\"\
+        ><span class=\"hidden\">Map &amp; Directions</span></strong>Map &amp; Directions</a></p></div><div\
+        \ class=\"item\"><h3>About Extension</h3><ul><li><a href=\"https://extension.psu.edu/about-us\"\
+        >About</a></li><li><a href=\"https://extension.psu.edu/extension-directory/leadership\"\
+        >Leadership</a></li><li><a href=\"https://extension.psu.edu/careers\">Careers</a></li><li><a\
+        \ href=\"https://extension.psu.edu/shopby?dir=desc&education_format=805&order=publish_date\"\
+        >Extension News</a></li><li><a href=\"https://extension.psu.edu/press\">Press</a></li><li><a\
+        \ href=\"https://extension.psu.edu/county-offices/\">County Offices</a></li></ul></div><div\
+        \ class=\"item\"><h3>Customer service</h3><ul><li><a href=\"https://extension.psu.edu/help\"\
+        >Help Center</a></li><li><a href=\"https://extension.psu.edu/customer/account/forgotpassword/\"\
+        >Login Problems</a></li><li><a href=\"https://extension.psu.edu/extevents/newsletter\"\
+        >Manage Email Preferences</a></li><li><a href=\"https://extension.psu.edu/contacts\"\
+        >Contact Us</a></li></ul></div><div class=\"item\"><h3>Other programs</h3><ul><li><a\
+        \ href=\"https://extension.psu.edu/programs/4-h\">Pennsylvania 4-H</a></li><li><a\
+        \ href=\"https://extension.psu.edu/programs/betterkidcare\">Better Kid Care</a></li><li><a\
+        \ href=\"https://extension.psu.edu/programs/master-gardener\">Master Gardeners</a></li></ul></div></div></div><div\
+        \ class=\"bottom-footer\"><div class=\"inner\"><ul><li><a href=\"https://extension.psu.edu/youth-safety\"\
+        >Youth Safety</a></li><li><a href=\"http://www.psu.edu/legal-statements\"\
+        \ target=\"_blank\">Privacy and Legal Statements</a></li><li><a href=\"https://extension.psu.edu/veterinary-advice-statement\"\
+        >Veterinary Advice Statement</a></li><li><a href=\"http://agsci.psu.edu/accessibility\"\
+        \ target=\"_blank\">Accessibility</a></li></ul></div></div><div class=\"copyright\"\
+        > <address>&copy; 2020<a href=\"https://extension.psu.edu\">Penn State Extension</a></address></div>\
+        \ </footer><div class=\"hidden\" id=\"wrrapper-ajaxcart-dropdown\"><div class=\"\
+        es-top-cart\"><div class=\"es-block\"><div class=\"es-top-cart-arrow\"></div><div\
+        \ class=\"block-content\"><p class=\"empty\">You have no items in your shopping\
+        \ cart.</p></div></div></div></div><div class=\"marketing-cloud\"></div><div\
+        \ id=\"wishlist_edit_action_container\"></div><meta property=\"og:type\" content=\"\
+        product\" /><meta property=\"og:title\" content=\"What Should You Do With\
+        \ Spotted Lanternfly Egg Masses?\" /><meta property=\"og:description\" content=\"\
+        Information about locating, identifying, and treating egg masses.\" /><meta\
+        \ property=\"og:url\" content=\"https://extension.psu.edu/what-should-you-do-with-spotted-lanternfly-egg-masses\"\
+        /><meta property=\"og:site_name\" content=\"Penn State Extension\" /><meta\
+        \ property=\"og:price:amount\" content=\"0\" /><meta property=\"og:price:currency\"\
+        \ content=\"USD\" /><meta property=\"og:availability\" content=\"outofstock\"\
+        \ /> <script type=\"application/ld+json\">{\"@context\":\"http:\\/\\/schema.org\"\
+        ,\"@type\":\"Product\",\"name\":\"What Should You Do With Spotted Lanternfly\
+        \ Egg Masses?\",\"sku\":\"ART-6773\",\"description\":\"Information about locating,\
+        \ identifying, and treating egg masses.\",\"image\":\"https:\\/\\/extension.psu.edu\\\
+        /media\\/catalog\\/product\\/cache\\/2\\/image\\/265x\\/9df78eab33525d08d6e5fb8d27136e95\\\
+        /i\\/m\\/image_3777_1_2_1_262_1_23_1_28_2_11_2_2_2_38_1_94_7_2_24_46_6_414_49_21_45_2_25_15_1_9_1_18_9_6_5_1_21_3_29_8_2_1_13_5_1_6735.jpg\"\
+        ,\"url\":\"https:\\/\\/extension.psu.edu\\/what-should-you-do-with-spotted-lanternfly-egg-masses\"\
+        ,\"offers\":[[],{\"@type\":\"Offer\",\"priceCurrency\":\"USD\",\"price\":0,\"\
+        availability\":\"http:\\/\\/schema.org\\/OutOfStock\",\"itemCondition\":\"\
+        http:\\/\\/schema.org\\/NewCondition\",\"seller\":{\"@type\":\"Organization\"\
+        ,\"name\":\"Penn State Extension\"}}]}</script><div class=\"iwd-qv-modal fade\"\
+        \ id=\"iwd-qv-modal\" tabindex=\"-1\" role=\"dialog\" aria-labelledby=\"\"\
+        \ aria-hidden=\"true\"><div class=\"iwd-qv-modal-dialog modal-dialog\"><div\
+        \ class=\"iwd-qv-modal-content\"><div class=\"iwd-qv-modal-header\"><a class=\"\
+        close\" data-dismiss=\"modal\" aria-label=\"Close\"><strong class=\"fa fa-times\"\
+        ></strong></a></div><div class=\"iwd-qv-modal-body\"><div id=\"iwd-qv-wrapper\"\
+        ></div><div class=\"iwd-qv-ajax-loader\"><div id=\"floatingCirclesG\"><div\
+        \ class=\"f_circleG\" id=\"frotateG1_01\"></div><div class=\"f_circleG\" id=\"\
+        frotateG1_02\"></div><div class=\"f_circleG\" id=\"frotateG1_03\"></div><div\
+        \ class=\"f_circleG\" id=\"frotateG1_04\"></div><div class=\"f_circleG\" id=\"\
+        frotateG1_05\"></div><div class=\"f_circleG\" id=\"frotateG1_06\"></div><div\
+        \ class=\"f_circleG\" id=\"frotateG1_07\"></div><div class=\"f_circleG\" id=\"\
+        frotateG1_08\"></div></div></div></div></div></div></div><div id=\"iwd-qv-additional-loader\"\
+        ><div class=\"iwd-qv-additional-loader-wrap\"><div class=\"iwd-qv-modal-header\"\
+        ><a class=\"close\" data-dismiss=\"modal\" aria-label=\"Close\"><strong class=\"\
+        fa fa-times\"></strong></a></div><div class=\"iwd-qv-additional-loader-wrap-wrap\"\
+        ><div id=\"floatingCirclesG\"><div class=\"f_circleG\" id=\"frotateG1_01\"\
+        ></div><div class=\"f_circleG\" id=\"frotateG1_02\"></div><div class=\"f_circleG\"\
+        \ id=\"frotateG1_03\"></div><div class=\"f_circleG\" id=\"frotateG1_04\"></div><div\
+        \ class=\"f_circleG\" id=\"frotateG1_05\"></div><div class=\"f_circleG\" id=\"\
+        frotateG1_06\"></div><div class=\"f_circleG\" id=\"frotateG1_07\"></div><div\
+        \ class=\"f_circleG\" id=\"frotateG1_08\"></div></div></div></div></div><div\
+        \ class=\"iwd-qv-global-backdrop\"></div></div></div><meta name=\"p:domain_verify\"\
+        \ content=\"f0d557cfcb69d1db2e7d8795b07d6f5d\"/><link rel=\"stylesheet\" type=\"\
+        text/css\" media=\"all\" href=\"https://cloud.typography.com/7375874/6602792/css/fonts.css\"\
+        \ /><meta name=\"p:domain_verify\" content=\"60be77851e5e0361e549523ee1690033\"\
+        /> <script type=\"text/javascript\">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n\
+        \                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n\
+        \                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,null)\n\
+        \            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');</script>\
+        \  <script id=\"cvent-linker\">ga('create', 'UA-100524345-2', 'auto', {allowLinker:\
+        \ true});\nga('require', 'linker');\nga('linker:autoLink', ['extension.psu.edu',\
+        \ 'cvent.com'], false, true);</script><!--[if lt IE 7]><script type=\"text/javascript\"\
+        >var BLANK_URL='https://extension.psu.edu/js/blank.html';var BLANK_IMG='https://extension.psu.edu/js/spacer.gif';</script><![endif]--><script\
+        \ type=\"text/javascript\" src=\"https://extension.psu.edu/media/po_compressor/8134b86eb93d09fd72503936b203db8e.js\"\
+        ></script><!--[if (lte IE 8) & (!IEMobile)]><script type=\"text/javascript\"\
+        \ src=\"https://extension.psu.edu/media/po_compressor/0458a4ec171bdfdd3cd16ea5f9c420a1.js\"\
+        ></script><![endif]--><script type=\"text/javascript\">Mage.Cookies.path='/';Mage.Cookies.domain='.extension.psu.edu';;optionalZipCountries=[];;ga('create','UA-100524345-2','auto');ga('set','contentGroup1','Article');ga('send','pageview');;var\
+        \ Translator=new Translate([]);;</script><script type=\"text/javascript\"\
+        \ src=\"https://www.googletagmanager.com/gtag/js?id=G-PEXHTKWVFE\"></script><script\
+        \ type=\"text/javascript\" src=\"https://extension.psu.edu/media/po_compressor/399240fb2649bbefdbbb8ceb2d9b5d31.js\"\
+        ></script><script type=\"text/javascript\" src=\"//s7.addthis.com/js/300/addthis_widget.js#pubid=agsciences\"\
+        ></script><script type=\"text/javascript\" src=\"https://extension.psu.edu/media/po_compressor/00a1e231e2a4e11934b3ebdf02ef22cc.js\"\
+        ></script></body></html>"
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Security-Policy:
+      - upgrade-insecure-requests;
+      Content-Security-Policy-Report-Only:
+      - 'font-src data: ''self'' cloud.typography.com fonts.gstatic.com maxcdn.bootstrapcdn.com
+        *.fontawesome.com db.onlinewebfonts.com;script-src ''self'' ''unsafe-inline''
+        ''unsafe-eval'' *.newrelic.com *.nr-data.net z.moatads.com *.addthis.com *.addthisedge.com
+        *.extension-dev.psu.edu *.extension.psu.edu connect.facebook.net www.googletagmanager.com
+        www.google-analytics.com *.googleadservices.com *.google.com *.amazonaws.com
+        *.inspectlet.com *.collect.igodigital.com googleads.g.doubleclick.net *.gstatic.com
+        *.googleapis.com *.authorize.net ; connect-src ''self'' *.extension-dev.psu.edu
+        *.extension.psu.edu *.authorize.net *.google-analytics.com stats.g.doubleclick.net
+        www.facebook.com *.inspectlet.com *.moatads.com; report-uri https://creamery.psu.edu/r/d/csp/'
+      - 'font-src data: ''self'' cloud.typography.com fonts.gstatic.com maxcdn.bootstrapcdn.com
+        *.fontawesome.com db.onlinewebfonts.com;script-src ''self'' ''unsafe-inline''
+        ''unsafe-eval'' *.newrelic.com *.nr-data.net z.moatads.com *.addthis.com *.addthisedge.com
+        *.extension-dev.psu.edu *.extension.psu.edu connect.facebook.net www.googletagmanager.com
+        www.google-analytics.com *.googleadservices.com *.google.com *.amazonaws.com
+        *.inspectlet.com *.collect.igodigital.com googleads.g.doubleclick.net *.gstatic.com
+        *.googleapis.com *.authorize.net ; connect-src ''self'' *.extension-dev.psu.edu
+        *.extension.psu.edu *.authorize.net *.google-analytics.com stats.g.doubleclick.net
+        www.facebook.com *.inspectlet.com *.moatads.com; report-uri https://creamery.psu.edu/r/d/csp/'
+      - 'font-src data: ''self'' cloud.typography.com fonts.gstatic.com maxcdn.bootstrapcdn.com
+        *.fontawesome.com db.onlinewebfonts.com;script-src ''self'' ''unsafe-inline''
+        ''unsafe-eval'' *.newrelic.com *.nr-data.net z.moatads.com *.addthis.com *.addthisedge.com
+        *.extension-dev.psu.edu *.extension.psu.edu connect.facebook.net www.googletagmanager.com
+        www.google-analytics.com *.googleadservices.com *.google.com *.amazonaws.com
+        *.inspectlet.com *.collect.igodigital.com googleads.g.doubleclick.net *.gstatic.com
+        *.googleapis.com *.authorize.net ; connect-src ''self'' *.extension-dev.psu.edu
+        *.extension.psu.edu *.authorize.net *.google-analytics.com stats.g.doubleclick.net
+        www.facebook.com *.inspectlet.com *.moatads.com; report-uri https://creamery.psu.edu/r/d/csp/'
+      - 'font-src data: ''self'' cloud.typography.com fonts.gstatic.com maxcdn.bootstrapcdn.com
+        *.fontawesome.com db.onlinewebfonts.com;script-src ''self'' ''unsafe-inline''
+        ''unsafe-eval'' *.newrelic.com *.nr-data.net z.moatads.com *.addthis.com *.addthisedge.com
+        *.extension-dev.psu.edu *.extension.psu.edu connect.facebook.net www.googletagmanager.com
+        www.google-analytics.com *.googleadservices.com *.google.com *.amazonaws.com
+        *.inspectlet.com *.collect.igodigital.com googleads.g.doubleclick.net *.gstatic.com
+        *.googleapis.com *.authorize.net ; connect-src ''self'' *.extension-dev.psu.edu
+        *.extension.psu.edu *.authorize.net *.google-analytics.com stats.g.doubleclick.net
+        www.facebook.com *.inspectlet.com *.moatads.com; report-uri https://creamery.psu.edu/r/d/csp/'
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Mon, 09 Nov 2020 00:06:46 GMT
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      P3p:
+      - CP="CAO PSA OUR"
+      Pragma:
+      - no-cache
+      Server:
+      - Sucuri/Cloudproxy
+      Set-Cookie:
+      - CACHED_FRONT_FORM_KEY=nbG70PpT60KIOFTx; path=/
+      - VIEWED_PRODUCT_IDS=30665; path=/
+      - frontend=svbkcm9o8nslg6s6d5s0t4r405; expires=Mon, 09-Nov-2020 03:06:46 GMT;
+        Max-Age=10800; path=/; domain=extension.psu.edu; HttpOnly
+      - frontend_cid=9wMYEbrpB4LLAimF; expires=Mon, 09-Nov-2020 03:06:46 GMT; Max-Age=10800;
+        path=/; domain=extension.psu.edu; secure; HttpOnly
+      - CUSTOMER_SEGMENT_IDS=4%2C10%2C11%2C20; expires=Mon, 09-Nov-2020 03:06:46 GMT;
+        Max-Age=10800; path=/; domain=extension.psu.edu; HttpOnly
+      - CUSTOMER=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/;
+        domain=extension.psu.edu; HttpOnly
+      - CUSTOMER_INFO=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/;
+        domain=extension.psu.edu; HttpOnly
+      - CUSTOMER_AUTH=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/;
+        domain=extension.psu.edu; HttpOnly
+      - CUSTOMER_RATES=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0;
+        path=/; domain=extension.psu.edu; HttpOnly
+      - NEWMESSAGE=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/;
+        domain=extension.psu.edu; HttpOnly
+      - NEWMESSAGE=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/;
+        domain=extension.psu.edu; HttpOnly
+      Transfer-Encoding:
+      - chunked
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - SAMEORIGIN
+      - SAMEORIGIN
+      X-Hostname:
+      - mce204-node3.nexcess.net
+      X-Sucuri-Cache:
+      - MISS
+      X-Sucuri-ID:
+      - '14014'
+      X-XSS-Protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+version: 1

@@ -1,0 +1,586 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.babypips.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.babypips.com/news
+  response:
+    body:
+      string: "<!DOCTYPE html>\n<html lang='en' locale='en-US' og='http://ogp.me/ns#'>\n\
+        <head>\n<title>Forex Market News - BabyPips.com</title>\n<meta content='Forex\
+        \ news you can use! Follow all the latest forex news at BabyPips.com.' name='Description'>\n\
+        <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>\n<meta\
+        \ content='width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0'\
+        \ name='viewport'>\n<link href='https://bpcdn.co' rel='preconnect'>\n<link\
+        \ href='https://cdn.ampproject.org' rel='preconnect'>\n<link href='https://fonts.googleapis.com'\
+        \ rel='preconnect'>\n<link href='https://pagead2.googlesyndication.com' rel='preconnect'>\n\
+        <link href='https://securepubads.g.doubleclick.net' rel='preconnect'>\n<link\
+        \ href='https://tpc.googlesyndication.com' rel='preconnect'>\n<link href='https://www.google.com'\
+        \ rel='preconnect'>\n<link href='https://www.googletagservices.com' rel='preconnect'>\n\
+        <link href='https://www.google-analytics.com' rel='preconnect'>\n<link rel=\"\
+        preload\" href=\"https://bpcdn.co/packs/media/fonts/vagrundschriftd-webfont-4bde6361fd7d00f157f46fca6b87664e.woff2\"\
+        \ as=\"font\" type=\"font/woff2\" crossorigin=\"anonymous\">\n<link rel=\"\
+        preload\" href=\"https://bpcdn.co/packs/media/fonts/vagrundschriftd-lig-webfont-9dc61996254af7f97008a18d0ebbd690.woff2\"\
+        \ as=\"font\" type=\"font/woff2\" crossorigin=\"anonymous\">\n<link rel=\"\
+        preload\" href=\"https://bpcdn.co/packs/js/polls-4d5992b1a7a18b5989bb.chunk.js\"\
+        \ as=\"script\" type=\"text/javascript\"><link rel=\"preload\" href=\"https://bpcdn.co/packs/js/application-ccf39f7c5e697e8e763a.chunk.js\"\
+        \ as=\"script\" type=\"text/javascript\">\n\n<script type=\"application/ld+json\"\
+        \ data-schema=\"WebSite\">{\"@context\":\"https://schema.org\",\"@type\":\"\
+        WebSite\",\"name\":\"BabyPips.com\",\"url\":\"https://www.babypips.com/\"\
+        ,\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://www.babypips.com/search?q={search_term_string}\"\
+        ,\"query-input\":\"required name=search_term_string\"}}</script>\n<script\
+        \ type=\"application/ld+json\" data-schema=\"Organization\">{\"@context\"\
+        :\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"BabyPips.com\"\
+        ,\"url\":\"https://www.babypips.com/\",\"logo\":\"https://bpcdn.co/packs/media/images/organization-logo-72f6ba47a56e8c7aa3a5c47880eb330b.png\"\
+        ,\"sameAs\":[\"https://facebook.com/babypips\",\"https://twitter.com/babypips\"\
+        ]}</script>\n<link rel=\"canonical\" href=\"https://www.babypips.com/news\"\
+        \ /><link rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS\" href=\"\
+        https://www.babypips.com/news/feed.rss\" /><link rel=\"alternate\" type=\"\
+        application/atom+xml\" title=\"ATOM\" href=\"https://www.babypips.com/news/feed.atom\"\
+        \ /><meta property=\"og:locale\" content=\"en_US\" /><meta property=\"og:site_name\"\
+        \ content=\"BabyPips.com\" /><meta property=\"og:url\" content=\"https://www.babypips.com/news\"\
+        \ /><meta property=\"og:title\" content=\"Forex Market News - BabyPips.com\"\
+        \ /><meta property=\"og:description\" content=\"Forex news you can use! Follow\
+        \ all the latest forex news at BabyPips.com.\" /><meta property=\"twitter:card\"\
+        \ content=\"summary\" /><meta property=\"twitter:site\" content=\"babypips\"\
+        \ /><meta property=\"twitter:title\" content=\"Forex Market News - BabyPips.com\"\
+        \ /><meta property=\"twitter:description\" content=\"Forex news you can use!\
+        \ Follow all the latest forex news at BabyPips.com.\" />\n<link rel=\"stylesheet\"\
+        \ media=\"screen\" href=\"https://bpcdn.co/packs/css/47-05ff7c1a.chunk.css\"\
+        \ />\n<link rel=\"stylesheet\" media=\"screen\" href=\"https://bpcdn.co/packs/css/application-3cb236c1.chunk.css\"\
+        \ />\n<script src=\"https://cookie-cdn.cookiepro.com/scripttemplates/otSDKStub.js\"\
+        \ type=\"text/javascript\" charset=\"UTF-8\" data-domain-script=\"10a211bf-7222-4f26-8d42-029eab9f8e26\"\
+        ></script>\n<script type=\"text/javascript\">\nfunction OptanonWrapper() {\
+        \ }\n</script>\n\n<link href='https://bpcdn.co/packs/assets/apple-touch-icon-57x57.png'\
+        \ rel='apple-touch-icon-precomposed' sizes='57x57'>\n<link href='https://bpcdn.co/packs/assets/apple-touch-icon-60x60.png'\
+        \ rel='apple-touch-icon-precomposed' sizes='60x60'>\n<link href='https://bpcdn.co/packs/assets/apple-touch-icon-72x72.png'\
+        \ rel='apple-touch-icon-precomposed' sizes='72x72'>\n<link href='https://bpcdn.co/packs/assets/apple-touch-icon-76x76.png'\
+        \ rel='apple-touch-icon-precomposed' sizes='76x76'>\n<link href='https://bpcdn.co/packs/assets/apple-touch-icon-114x114.png'\
+        \ rel='apple-touch-icon-precomposed' sizes='114x114'>\n<link href='https://bpcdn.co/packs/assets/apple-touch-icon-120x120.png'\
+        \ rel='apple-touch-icon-precomposed' sizes='120x120'>\n<link href='https://bpcdn.co/packs/assets/apple-touch-icon-144x144.png'\
+        \ rel='apple-touch-icon-precomposed' sizes='144x144'>\n<link href='https://bpcdn.co/packs/assets/apple-touch-icon-152x152.png'\
+        \ rel='apple-touch-icon-precomposed' sizes='152x152'>\n<link href='https://bpcdn.co/packs/assets/apple-touch-icon-167x167.png'\
+        \ rel='apple-touch-icon-precomposed' sizes='167x167'>\n<link href='https://bpcdn.co/packs/assets/apple-touch-icon-180x180.png'\
+        \ rel='apple-touch-icon-precomposed' sizes='180x180'>\n<link href='https://bpcdn.co/packs/assets/apple-touch-icon-1024x1024.png'\
+        \ rel='apple-touch-icon-precomposed' sizes='1024x1024'>\n<link href='https://bpcdn.co/packs/assets/favicon-16x16.png'\
+        \ rel='icon' sizes='16x16' type='image/png'>\n<link href='https://bpcdn.co/packs/assets/favicon-32x32.png'\
+        \ rel='icon' sizes='32x32' type='image/png'>\n<link href='https://bpcdn.co/packs/assets/favicon-96x96.png'\
+        \ rel='icon' sizes='96x96' type='image/png'>\n<link href='https://bpcdn.co/packs/assets/favicon-230x230.png'\
+        \ rel='icon' sizes='230x230' type='image/png'>\n<meta content='BabyPips.com'\
+        \ name='application-name'>\n<meta content='#ffffff' name='msapplication-TileColor'>\n\
+        <meta content='https://bpcdn.co/packs/assets/ms-icon-144x144.png' name='msapplication-TileImage'>\n\
+        <meta content='https://bpcdn.co/packs/assets/mstile-70x70.png' name='msapplication-square70x70logo'>\n\
+        <meta content='https://bpcdn.co/packs/assets/mstile-150x150.png' name='msapplication-square150x150logo'>\n\
+        <meta content='https://bpcdn.co/packs/assets/mstile-310x150.png' name='msapplication-wide310x150logo'>\n\
+        <meta content='https://bpcdn.co/packs/assets/mstile-310x310.png' name='msapplication-square310x310logo'>\n\
+        \n\n\n</head>\n<body class=''>\n<header class='site-header'>\n<div class='wrapper'>\n\
+        <h2 class='site-title'>\n<a href=\"https://www.babypips.com/\">BabyPips</a>\n\
+        </h2>\n<p class='site-tagline'>The beginner&#39;s guide to FX trading</p>\n\
+        <ul class='site-navigation' role='navigation'>\n<li class=\"news active\"\
+        ><a href=\"/news\">News</a></li><li class=\"trading\"><a href=\"/trading\"\
+        >Trading</a><div data-react-class=\"CategoryNavigation\" data-react-props=\"\
+        {&quot;category&quot;:{&quot;slug&quot;:&quot;trading&quot;,&quot;name&quot;:&quot;Trading&quot;,&quot;path&quot;:&quot;/trading&quot;,&quot;posts_path&quot;:&quot;/posts/latest/trading&quot;,&quot;children&quot;:[{&quot;slug&quot;:&quot;trading-systems&quot;,&quot;name&quot;:&quot;Trading\
+        \ Systems&quot;,&quot;path&quot;:&quot;/trading/trading-systems&quot;},{&quot;slug&quot;:&quot;psychology&quot;,&quot;name&quot;:&quot;Psychology&quot;,&quot;path&quot;:&quot;/trading/psychology&quot;},{&quot;slug&quot;:&quot;technical-analysis&quot;,&quot;name&quot;:&quot;Technical\
+        \ Analysis&quot;,&quot;path&quot;:&quot;/trading/technical-analysis&quot;},{&quot;slug&quot;:&quot;trade-ideas&quot;,&quot;name&quot;:&quot;Trade\
+        \ Ideas&quot;,&quot;path&quot;:&quot;/trading/trade-ideas&quot;}]}}\" data-react-cache-id=\"\
+        CategoryNavigation-0\" class=\"site-sub-navigation\"></div>\n</li>\n<li class=\"\
+        education\"><a href=\"/learn\">Education</a><div class='site-sub-navigation\
+        \ site-sub-single-navigation'>\n<ul>\n<li class=\"education school\"><a href=\"\
+        /learn/forex\"><span>How to Trade Forex</span></a></li>\n<li class=\"education\
+        \ quizzes\"><a href=\"/quizzes\"><span>Trading Quizzes</span></a></li>\n<li\
+        \ class=\"education glossary\"><a href=\"/forexpedia\"><span>Forex Glossary</span></a></li>\n\
+        </ul>\n</div>\n</li>\n<li class='forums'><a href=\"https://forums.babypips.com/\"\
+        >Forums</a></li>\n<li class=\"calendar\"><a href=\"/economic-calendar\">Calendar</a></li>\n\
+        <li class=\"tools\"><a href=\"/tools\">Tools</a></li>\n<li class='marketmilk'><a\
+        \ href=\"https://marketmilk.babypips.com/\">MarketMilk\u2122</a></li>\n</ul>\n\
+        <div data-react-class=\"SiteSearch\" data-react-props=\"{&quot;searchUrl&quot;:&quot;https://www.babypips.com/search&quot;}\"\
+        \ data-react-cache-id=\"SiteSearch-0\" class=\"site-search\"></div>\n<ul class='user-navigation'>\n\
+        <li class='auth'>\n<a class=\"sign-in\" href=\"/account/sign-in\">Sign In</a>\n\
+        |\n<a class=\"join\" href=\"/account/join\">Join</a>\n</li>\n</ul>\n<input\
+        \ id='mobile-navigation-button' type='checkbox'>\n<label for='mobile-navigation-button'\
+        \ id='mobile-navigation-button-label'>View Menu</label>\n<ul class='mobile-navigation'>\n\
+        <li class='auth'>\n<a href=\"/account/sign-in\">Sign In</a>\n/\n<a href=\"\
+        /account/join\">Join</a>\n</li>\n<li class=\"home\"><a href=\"/\">Home</a></li>\n\
+        <li class='marketmilk'><a href=\"https://marketmilk.babypips.com/\">MarketMilk\u2122\
+        </a></li>\n<li class=\"news active\"><a href=\"/news\">News</a></li><li class=\"\
+        trading\"><a href=\"/trading\">Trading</a><ul class='mobile-sub-navigation'>\n\
+        <li class=\"trading trade-ideas\"><a href=\"/trading/trade-ideas\">Trade Ideas</a></li>\n\
+        <li class=\"trading technical-analysis\"><a href=\"/trading/technical-analysis\"\
+        >Technical Analysis</a></li>\n<li class=\"trading psychology\"><a href=\"\
+        /trading/psychology\">Psychology</a></li>\n<li class=\"trading trading-systems\"\
+        ><a href=\"/trading/trading-systems\">Trading Systems</a></li>\n</ul>\n</li><li\
+        \ class=\"education\"><a href=\"/learn\">Education</a><ul class='mobile-sub-navigation'>\n\
+        <li class=\"education school\"><a href=\"/learn/forex\">How to Trade Forex</a></li>\n\
+        <li class=\"education glossary\"><a href=\"/forexpedia\">Forex Glossary</a></li>\n\
+        <li class=\"education quizzes\"><a href=\"/quizzes\">Trading Quizzes</a></li>\n\
+        </ul>\n</li><li class=\"forums\"><a href=\"https://forums.babypips.com/\"\
+        >Forums</a><ul class='mobile-sub-navigation'>\n<li class=\"forums category_a\"\
+        ><a href=\"https://forums.babypips.com/c/beginner-questions\">Beginner Questions</a></li>\n\
+        <li class=\"forums category_b\"><a href=\"https://forums.babypips.com/c/trading-systems\"\
+        >Trading Systems</a></li>\n</ul>\n</li><li class=\"calendar\"><a href=\"/economic-calendar\"\
+        >Calendar</a><ul class='mobile-sub-navigation'>\n<li class=\"calendar\"><a\
+        \ href=\"/economic-calendar\">Economic Calendar</a></li>\n</ul>\n</li><li\
+        \ class=\"tools\"><a href=\"/tools\">Tools</a><ul class='mobile-sub-navigation'>\n\
+        <li class=\"tools pivot_point\"><a href=\"/tools/pivot-point-calculator\"\
+        >Pivot Point Calculator</a></li>\n<li class=\"tools position_size\"><a href=\"\
+        /tools/position-size-calculator\">Position Size Calculator</a></li>\n<li class=\"\
+        tools gain_loss\"><a href=\"/tools/gain-loss-percentage-calculator\">Gain\
+        \ / Loss % Calculator</a></li>\n<li class=\"tools pip_value\"><a href=\"/tools/pip-value-calculator\"\
+        >Pip Value Calculator</a></li>\n<li class=\"tools regulatory\"><a href=\"\
+        /tools/forex-regulation\">Regulatory Organizations</a></li>\n</ul>\n</li></ul>\n\
+        \n</div>\n</header>\n\n<div data-react-class=\"SiteBanner\" data-react-props=\"\
+        {}\" data-react-cache-id=\"SiteBanner-0\" class=\"react-site-banner\"></div>\n\
+        <div class='site-content'><div data-react-class=\"Ads/AdUnit\" data-react-props=\"\
+        {&quot;unit_id&quot;:&quot;top_billboard&quot;}\" data-react-cache-id=\"Ads/AdUnit-0\"\
+        \ class=\"ad-unit top_billboard\"></div>\n<h2 class='page-title'>\n<span>News</span>\n\
+        </h2>\n<div class='layout layout-two-column-wide'>\n<section class='posts-collection'\
+        \ id='posts-index'>\n<div class='posts'>\n<article class='post-summary post-index'\
+        \ id='post-191921'>\n<div class='wrapper'>\n<figure>\n<div class='thumbnail'>\n\
+        <a href=\"/news/daily-us-watchlist-20210113\"><img class=\"darken lazyload\"\
+        \ data-src=\"https://bpcdn.co/images/2021/01/13111537/uswatchlist.20210113.audusd-360x182.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/daily-us-watchlist-20210113\"\
+        >Daily U.S. Session Watchlist: AUD/USD</a></h3>\n<p class='byline'><time class=\"\
+        timestamp\" datetime=\"2021-01-13T16:33:40Z\" data-relative=\"true\">5 minutes\
+        \ ago</time> by <a class=\"author\" rel=\"author\" href=\"/authors/pipdiddy\"\
+        >Pip Diddy</a></p>\n<div class='summary'>\n<p>With more Fed speak &amp; potential\
+        \ economic catalysts from Australia ahead, we\u2019re checking out the uptrend\
+        \ in AUD/USD for fresh short-term setups.\_</p>\n\n<a class=\"read-more\"\
+        \ href=\"/news/daily-us-watchlist-20210113\">Read More</a>\n</div>\n</div>\n\
+        </div>\n</article>\n\n<article class='post-summary post-index' id='post-191900'>\n\
+        <div class='wrapper'>\n<figure>\n<div class='thumbnail'>\n<a href=\"/news/daily-london-watchlist-20210113\"\
+        ><img class=\"darken lazyload\" data-src=\"https://bpcdn.co/images/2021/01/13011351/eurusd3-360x204.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/daily-london-watchlist-20210113\"\
+        >Daily London Session Watchlist: EUR/USD</a></h3>\n<p class='byline'><time\
+        \ class=\"timestamp\" datetime=\"2021-01-13T06:21:33Z\" data-relative=\"true\"\
+        >about 10 hours ago</time> by <a class=\"author\" rel=\"author\" href=\"/authors/pipdiddy\"\
+        >Pip Diddy</a></p>\n<div class='summary'>\n<p>A speech by ECB head Lagarde\
+        \ and the release of the euro zone industrial production report might be worth\
+        \ watching if you\u2019re trading this pair today.</p>\n\n<a class=\"read-more\"\
+        \ href=\"/news/daily-london-watchlist-20210113\">Read More</a>\n</div>\n</div>\n\
+        </div>\n</article>\n\n<div class='posts-index-sponsors mobile'>\n<div class='title-line'>\n\
+        <div class='title'>\n<span>Partner Center</span>\n<span class='subtitle'>Find\
+        \ a Broker</span>\n</div>\n</div>\n<div class='divider'></div>\n<div class='wrapper'>\n\
+        <div data-react-class=\"Ads/AdUnit\" data-react-props=\"{&quot;unit_id&quot;:&quot;mobile_post_index_sponsor&quot;,&quot;targets&quot;:{&quot;position&quot;:1}}\"\
+        \ data-react-cache-id=\"Ads/AdUnit-0\" class=\"ad-unit mobile_post_index_sponsor\"\
+        ></div>\n<div data-react-class=\"Ads/AdUnit\" data-react-props=\"{&quot;unit_id&quot;:&quot;mobile_post_index_sponsor&quot;,&quot;targets&quot;:{&quot;position&quot;:2}}\"\
+        \ data-react-cache-id=\"Ads/AdUnit-0\" class=\"ad-unit mobile_post_index_sponsor\"\
+        ></div>\n<div data-react-class=\"Ads/AdUnit\" data-react-props=\"{&quot;unit_id&quot;:&quot;mobile_post_index_sponsor&quot;,&quot;targets&quot;:{&quot;position&quot;:3}}\"\
+        \ data-react-cache-id=\"Ads/AdUnit-0\" class=\"ad-unit mobile_post_index_sponsor\"\
+        ></div>\n<div data-react-class=\"Ads/AdUnit\" data-react-props=\"{&quot;unit_id&quot;:&quot;mobile_post_index_sponsor&quot;,&quot;targets&quot;:{&quot;position&quot;:4}}\"\
+        \ data-react-cache-id=\"Ads/AdUnit-0\" class=\"ad-unit mobile_post_index_sponsor\"\
+        ></div>\n</div>\n\n</div>\n<article class='post-summary post-index' id='post-191857'>\n\
+        <div class='wrapper'>\n<figure>\n<div class='thumbnail'>\n<a href=\"/news/daily-us-watchlist-20210112\"\
+        ><img class=\"darken lazyload\" data-src=\"https://bpcdn.co/images/2021/01/12110942/uswatchlist.20210112.cadjpy-360x176.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/daily-us-watchlist-20210112\"\
+        >Daily U.S. Session Watchlist: CAD/JPY</a></h3>\n<p class='byline'><time class=\"\
+        timestamp\" datetime=\"2021-01-12T16:24:47Z\" data-relative=\"true\">1 day\
+        \ ago</time> by <a class=\"author\" rel=\"author\" href=\"/authors/pipdiddy\"\
+        >Pip Diddy</a></p>\n<div class='summary'>\n<p>CAD/JPY hits the top of our\
+        \ list for the session as it consolidates ahead of weekly oil data. Will the\
+        \ latest oil numbers be enough to spark a breakout?\_</p>\n\n<a class=\"read-more\"\
+        \ href=\"/news/daily-us-watchlist-20210112\">Read More</a>\n</div>\n</div>\n\
+        </div>\n</article>\n\n<article class='post-summary post-index' id='post-191832'>\n\
+        <div class='wrapper'>\n<figure>\n<div class='thumbnail'>\n<a href=\"/news/covid-19-pandemic-vaccine-race-2021\"\
+        ><img class=\"lazyload\" data-src=\"https://bpcdn.co/images/2021/01/12142502/Major-Economies-Vaccine-Race-HP-360x188.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/covid-19-pandemic-vaccine-race-2021\"\
+        >Which Major Economies Are Leading the COVID-19 Vaccine Race?</a></h3>\n<p\
+        \ class='byline'><time class=\"timestamp\" datetime=\"2021-01-12T10:59:57Z\"\
+        \ data-relative=\"true\">1 day ago</time> by <a class=\"author\" rel=\"author\"\
+        \ href=\"/authors/forexgump\">Forex Gump</a></p>\n<div class='summary'>\n\
+        <p>Which countries are faring better than their peers when it comes to their\
+        \ response to the pandemic? Here\u2019s what major economies are doing so\
+        \ far.</p>\n\n<a class=\"read-more\" href=\"/news/covid-19-pandemic-vaccine-race-2021\"\
+        >Read More</a>\n</div>\n</div>\n</div>\n</article>\n\n<article class='post-summary\
+        \ post-index' id='post-191834'>\n<div class='wrapper'>\n<figure>\n<div class='thumbnail'>\n\
+        <a href=\"/news/daily-london-watchlist-20210112\"><img class=\"darken lazyload\"\
+        \ data-src=\"https://bpcdn.co/images/2021/01/12010631/NZDUSD-360x203.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/daily-london-watchlist-20210112\"\
+        >Daily London Session Watchlist: NZD/USD</a></h3>\n<p class='byline'><time\
+        \ class=\"timestamp\" datetime=\"2021-01-12T06:42:28Z\" data-relative=\"true\"\
+        >1 day ago</time> by <a class=\"author\" rel=\"author\" href=\"/authors/pipdiddy\"\
+        >Pip Diddy</a></p>\n<div class='summary'>\n<p>We won\u2019t see major data\
+        \ releases during the early London session, so traders will likely look to\
+        \ broad market themes for direction. Will NZD/USD see more dollar strength?</p>\n\
+        \n<a class=\"read-more\" href=\"/news/daily-london-watchlist-20210112\">Read\
+        \ More</a>\n</div>\n</div>\n</div>\n</article>\n\n<div data-react-class=\"\
+        Ads/AdUnit\" data-react-props=\"{&quot;unit_id&quot;:&quot;in_stream&quot;,&quot;targets&quot;:{&quot;position&quot;:1}}\"\
+        \ data-react-cache-id=\"Ads/AdUnit-0\" class=\"ad-unit in_stream\"></div>\n\
+        <article class='post-summary post-index' id='post-191794'>\n<div class='wrapper'>\n\
+        <figure>\n<div class='thumbnail'>\n<a href=\"/news/daily-us-watchlist-20210111\"\
+        ><img class=\"darken lazyload\" data-src=\"https://bpcdn.co/images/2021/01/11111137/uswatchlist.20210111.audjpy-360x176.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/daily-us-watchlist-20210111\"\
+        >Daily U.S. Session Watchlist: AUD/JPY</a></h3>\n<p class='byline'><time class=\"\
+        timestamp\" datetime=\"2021-01-11T16:35:04Z\" data-relative=\"true\">2 days\
+        \ ago</time> by <a class=\"author\" rel=\"author\" href=\"/authors/pipdiddy\"\
+        >Pip Diddy</a></p>\n<div class='summary'>\n<p>AUD/JPY pulled back to start\
+        \ the week, bringing the market to technical levels to watch for several different\
+        \ short-term opportunities.\_</p>\n\n<a class=\"read-more\" href=\"/news/daily-us-watchlist-20210111\"\
+        >Read More</a>\n</div>\n</div>\n</div>\n</article>\n\n<article class='post-summary\
+        \ post-index' id='post-191754'>\n<div class='wrapper'>\n<figure>\n<div class='thumbnail'>\n\
+        <a href=\"/news/forex-market-outlook-210111\"><img class=\"lazyload\" data-src=\"\
+        https://bpcdn.co/images/2020/05/19100150/The-Week-Ahead-in-FX-2020-HP-360x188.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/forex-market-outlook-210111\"\
+        >The Week Ahead in FX \u2013 Central Bank Rhetoric and Political Issues in\
+        \ Play</a></h3>\n<p class='byline'><time class=\"timestamp\" datetime=\"2021-01-11T11:04:26Z\"\
+        \ data-relative=\"true\">2 days ago</time> by <a class=\"author\" rel=\"author\"\
+        \ href=\"/authors/forexgump\">Forex Gump</a></p>\n<div class='summary'>\n\
+        <p>Start your trading prep with an overview of catalysts coming up. I\u2019\
+        ve got some chart setups to keep tabs on, too!</p>\n\n<a class=\"read-more\"\
+        \ href=\"/news/forex-market-outlook-210111\">Read More</a>\n</div>\n</div>\n\
+        </div>\n</article>\n\n<article class='post-summary post-index' id='post-191728'>\n\
+        <div class='wrapper'>\n<figure>\n<div class='thumbnail'>\n<a href=\"/news/usd-weekly-forecast-20210111\"\
+        ><img class=\"lazyload\" data-src=\"https://bpcdn.co/images/2020/05/18144046/USD-Weekly-Forecast-HP-360x188.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/usd-weekly-forecast-20210111\"\
+        >USD Weekly Forecast \u2013 More Losses For The Dollar?</a></h3>\n<p class='byline'><time\
+        \ class=\"timestamp\" datetime=\"2021-01-11T10:00:34Z\" data-relative=\"true\"\
+        >2 days ago</time> by <a class=\"author\" rel=\"author\" href=\"/authors/pipdiddy\"\
+        >Pip Diddy</a></p>\n<div class='summary'>\n<p>Will the Greenback go back to\
+        \ its downtrend this week? Or can the bulls extend their party for a few more\
+        \ days?</p>\n\n<a class=\"read-more\" href=\"/news/usd-weekly-forecast-20210111\"\
+        >Read More</a>\n</div>\n</div>\n</div>\n</article>\n\n<article class='post-summary\
+        \ post-index' id='post-191727'>\n<div class='wrapper'>\n<figure>\n<div class='thumbnail'>\n\
+        <a href=\"/news/cad-weekly-forecast-20210111\"><img class=\"lazyload\" data-src=\"\
+        https://bpcdn.co/images/2020/05/18143828/CAD-Weekly-Forecast-2020-HP-360x188.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/cad-weekly-forecast-20210111\"\
+        >CAD Weekly Forecast \u2013 Get Ready For Mixed Results</a></h3>\n<p class='byline'><time\
+        \ class=\"timestamp\" datetime=\"2021-01-11T09:00:20Z\" data-relative=\"true\"\
+        >2 days ago</time> by <a class=\"author\" rel=\"author\" href=\"/authors/pipdiddy\"\
+        >Pip Diddy</a></p>\n<div class='summary'>\n<p>A light economic calendar means\
+        \ that Loonie traders will likely turn to countercurrency events and broad\
+        \ market themes for direction.</p>\n\n<a class=\"read-more\" href=\"/news/cad-weekly-forecast-20210111\"\
+        >Read More</a>\n</div>\n</div>\n</div>\n</article>\n\n<article class='post-summary\
+        \ post-index' id='post-191748'>\n<div class='wrapper'>\n<figure>\n<div class='thumbnail'>\n\
+        <a href=\"/news/gbp-weekly-forecast-mid-tier-data-mpc-speeches-lined\"><img\
+        \ class=\"lazyload\" data-src=\"https://bpcdn.co/images/2020/05/18143210/GBP-Weekly-Forecast-2020-HP-360x188.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/gbp-weekly-forecast-mid-tier-data-mpc-speeches-lined\"\
+        >GBP Weekly Forecast \u2013 Mid-Tier Data &amp; MPC Speeches Lined Up</a></h3>\n\
+        <p class='byline'><time class=\"timestamp\" datetime=\"2021-01-11T05:23:12Z\"\
+        \ data-relative=\"true\">2 days ago</time> by <a class=\"author\" rel=\"author\"\
+        \ href=\"/authors/pipdiddy\">Pip Diddy</a></p>\n<div class='summary'>\n<p>Sterling\
+        \ was off to a weak start for the year, as Brexit and a new wave of lockdown\
+        \ measures weighed on the British currency. Can it recover this week?</p>\n\
+        \n<a class=\"read-more\" href=\"/news/gbp-weekly-forecast-mid-tier-data-mpc-speeches-lined\"\
+        >Read More</a>\n</div>\n</div>\n</div>\n</article>\n\n<div data-react-class=\"\
+        Ads/AdUnit\" data-react-props=\"{&quot;unit_id&quot;:&quot;in_stream&quot;,&quot;targets&quot;:{&quot;position&quot;:2}}\"\
+        \ data-react-cache-id=\"Ads/AdUnit-0\" class=\"ad-unit in_stream\"></div>\n\
+        <article class='post-summary post-index' id='post-191742'>\n<div class='wrapper'>\n\
+        <figure>\n<div class='thumbnail'>\n<a href=\"/news/eur-chf-weekly-forecast-20210111\"\
+        ><img class=\"lazyload\" data-src=\"https://bpcdn.co/images/2020/05/18144722/EUR-CHF-Weekly-Forecast-HP-360x188.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/eur-chf-weekly-forecast-20210111\"\
+        >EUR &amp; CHF Weekly Forecast \u2013 ECB Rhetoric in Focus</a></h3>\n<p class='byline'><time\
+        \ class=\"timestamp\" datetime=\"2021-01-11T04:58:48Z\" data-relative=\"true\"\
+        >2 days ago</time> by <a class=\"author\" rel=\"author\" href=\"/authors/pipdiddy\"\
+        >Pip Diddy</a></p>\n<div class='summary'>\n<p>There\u2019s not much in the\
+        \ way of major reports from the region, but a fresh set of political troubles\
+        \ in Italy might keep things interesting.</p>\n\n<a class=\"read-more\" href=\"\
+        /news/eur-chf-weekly-forecast-20210111\">Read More</a>\n</div>\n</div>\n</div>\n\
+        </article>\n\n<article class='post-summary post-index' id='post-191726'>\n\
+        <div class='wrapper'>\n<figure>\n<div class='thumbnail'>\n<a href=\"/news/jpy-weekly-forecast-20210111\"\
+        ><img class=\"lazyload\" data-src=\"https://bpcdn.co/images/2020/05/18140007/JPY-Weekly-Forecast-2020-HP-360x188.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/jpy-weekly-forecast-20210111\"\
+        >JPY Weekly Forecast \u2013 Can The Bears Keep Up The Pressure?</a></h3>\n\
+        <p class='byline'><time class=\"timestamp\" datetime=\"2021-01-11T03:00:26Z\"\
+        \ data-relative=\"true\">3 days ago</time> by <a class=\"author\" rel=\"author\"\
+        \ href=\"/authors/pipdiddy\">Pip Diddy</a></p>\n<div class='summary'>\n<p>Positive\
+        \ risk sentiment tanked the safe-haven yen last week. Check out this week\u2019\
+        s potential catalysts to see if the bulls can sneak in a pip or two in the\
+        \ next few days!</p>\n\n<a class=\"read-more\" href=\"/news/jpy-weekly-forecast-20210111\"\
+        >Read More</a>\n</div>\n</div>\n</div>\n</article>\n\n<article class='post-summary\
+        \ post-index' id='post-191725'>\n<div class='wrapper'>\n<figure>\n<div class='thumbnail'>\n\
+        <a href=\"/news/aud-weekly-forecast-20210111\"><img class=\"lazyload\" data-src=\"\
+        https://bpcdn.co/images/2020/05/18135920/AUD-Weekly-Forecast-2020-HP-360x188.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/aud-weekly-forecast-20210111\"\
+        >AUD Weekly Forecast \u2013 More Gain$$$ Ahead?</a></h3>\n<p class='byline'><time\
+        \ class=\"timestamp\" datetime=\"2021-01-11T02:14:23Z\" data-relative=\"true\"\
+        >3 days ago</time> by <a class=\"author\" rel=\"author\" href=\"/authors/pipdiddy\"\
+        >Pip Diddy</a></p>\n<div class='summary'>\n<p>The Aussie started the year\
+        \ on the top of the forex heap last week. Can the bulls pull back-to-back\
+        \ wins?</p>\n\n<a class=\"read-more\" href=\"/news/aud-weekly-forecast-20210111\"\
+        >Read More</a>\n</div>\n</div>\n</div>\n</article>\n\n<article class='post-summary\
+        \ post-index' id='post-191723'>\n<div class='wrapper'>\n<figure>\n<div class='thumbnail'>\n\
+        <a href=\"/news/nzd-weekly-forecast-20210111\"><img class=\"lazyload\" data-src=\"\
+        https://bpcdn.co/images/2020/05/18135811/NZD-Weekly-Forecast-2020-HP-360x188.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/nzd-weekly-forecast-20210111\"\
+        >NZD Weekly Forecast \u2013 Light Data Calendar Ahead</a></h3>\n<p class='byline'><time\
+        \ class=\"timestamp\" datetime=\"2021-01-11T01:30:38Z\" data-relative=\"true\"\
+        >3 days ago</time> by <a class=\"author\" rel=\"author\" href=\"/authors/pipdiddy\"\
+        >Pip Diddy</a></p>\n<div class='summary'>\n<p>Not a lot going on in New Zealand\
+        \ over the next few days, which means NZD will likely take cues from countercurrencies\
+        \ and broad market themes.</p>\n\n<a class=\"read-more\" href=\"/news/nzd-weekly-forecast-20210111\"\
+        >Read More</a>\n</div>\n</div>\n</div>\n</article>\n\n<article class='post-summary\
+        \ post-index' id='post-191611'>\n<div class='wrapper'>\n<figure>\n<div class='thumbnail'>\n\
+        <a href=\"/news/forex-mechanical-systems-20210108\"><img class=\"lazyload\"\
+        \ data-src=\"https://bpcdn.co/images/2018/01/26093117/robopip-mech-system-360x203.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/forex-mechanical-systems-20210108\"\
+        >Forex Mechanical Systems Showcase (Jan. 8)</a></h3>\n<p class='byline'><time\
+        \ class=\"timestamp\" datetime=\"2021-01-10T21:00:22Z\" data-relative=\"true\"\
+        >3 days ago</time> by <a class=\"author\" rel=\"author\" href=\"/authors/forexninja\"\
+        >Forex Ninja</a></p>\n<div class='summary'>\n<p>I\u2019ve rounded up FOUR\
+        \ mechanical forex strategies right here to see how they performed recently.\
+        \ Take a look!</p>\n\n<a class=\"read-more\" href=\"/news/forex-mechanical-systems-20210108\"\
+        >Read More</a>\n</div>\n</div>\n</div>\n</article>\n\n<div data-react-class=\"\
+        Ads/AdUnit\" data-react-props=\"{&quot;unit_id&quot;:&quot;in_stream&quot;,&quot;targets&quot;:{&quot;position&quot;:3}}\"\
+        \ data-react-cache-id=\"Ads/AdUnit-0\" class=\"ad-unit in_stream\"></div>\n\
+        <article class='post-summary post-index' id='post-191563'>\n<div class='wrapper'>\n\
+        <figure>\n<div class='thumbnail'>\n<a href=\"/news/usd-weekly-review-20210108\"\
+        ><img class=\"lazyload\" data-src=\"https://bpcdn.co/images/2020/04/26195858/USD-Weekly-Review-2020-360x189.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/usd-weekly-review-20210108\"\
+        >USD Weekly Review (Jan. 4 \u2013 8)</a></h3>\n<p class='byline'><time class=\"\
+        timestamp\" datetime=\"2021-01-10T14:54:24Z\" data-relative=\"true\">3 days\
+        \ ago</time> by <a class=\"author\" rel=\"author\" href=\"/authors/pipdiddy\"\
+        >Pip Diddy</a></p>\n<div class='summary'>\n<p>USD traders were mixed as they\
+        \ tried to balance unprecedented political developments and terrible job numbers\
+        \ against positive business sentiment updates.\_</p>\n\n<a class=\"read-more\"\
+        \ href=\"/news/usd-weekly-review-20210108\">Read More</a>\n</div>\n</div>\n\
+        </div>\n</article>\n\n<article class='post-summary post-index' id='post-191562'>\n\
+        <div class='wrapper'>\n<figure>\n<div class='thumbnail'>\n<a href=\"/news/gbp-weekly-review-20210108\"\
+        ><img class=\"lazyload\" data-src=\"https://bpcdn.co/images/2020/04/26195817/GBP-Weekly-Review-2020-360x189.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/gbp-weekly-review-20210108\"\
+        >GBP Weekly Review (Jan. 4 \u2013 8)</a></h3>\n<p class='byline'><time class=\"\
+        timestamp\" datetime=\"2021-01-10T14:31:51Z\" data-relative=\"true\">3 days\
+        \ ago</time> by <a class=\"author\" rel=\"author\" href=\"/authors/pipdiddy\"\
+        >Pip Diddy</a></p>\n<div class='summary'>\n<p>The British pound starts off\
+        \ 2021 on the same foot as 2020\u2013a weak one that\u2019s likely due to\
+        \ renewed lockdown measure to battle the surge in coronavirus cases.</p>\n\
+        \n<a class=\"read-more\" href=\"/news/gbp-weekly-review-20210108\">Read More</a>\n\
+        </div>\n</div>\n</div>\n</article>\n\n<article class='post-summary post-index'\
+        \ id='post-191561'>\n<div class='wrapper'>\n<figure>\n<div class='thumbnail'>\n\
+        <a href=\"/news/eur-chf-weekly-review-20210108\"><img class=\"lazyload\" data-src=\"\
+        https://bpcdn.co/images/2020/04/26195731/EUR-CHF-Weekly-Review-2020-360x189.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/eur-chf-weekly-review-20210108\"\
+        >EUR &amp; CHF Weekly Review (Jan. 4 \u2013 8)</a></h3>\n<p class='byline'><time\
+        \ class=\"timestamp\" datetime=\"2021-01-09T13:22:41Z\" data-relative=\"true\"\
+        >4 days ago</time> by <a class=\"author\" rel=\"author\" href=\"/authors/pipdiddy\"\
+        >Pip Diddy</a></p>\n<div class='summary'>\n<p>Mixed week for the euro as traders\
+        \ priced in record cases, extended lockdowns &amp; disappointing economic\
+        \ news from Europe over positive vaccine news.\_</p>\n\n<a class=\"read-more\"\
+        \ href=\"/news/eur-chf-weekly-review-20210108\">Read More</a>\n</div>\n</div>\n\
+        </div>\n</article>\n\n<article class='post-summary post-index' id='post-191560'>\n\
+        <div class='wrapper'>\n<figure>\n<div class='thumbnail'>\n<a href=\"/news/cad-weekly-review-20210108\"\
+        ><img class=\"lazyload\" data-src=\"https://bpcdn.co/images/2020/04/26195647/CAD-Weekly-Review-2020-360x189.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/cad-weekly-review-20210108\"\
+        >CAD Weekly Review (Jan. 4 \u2013 8)</a></h3>\n<p class='byline'><time class=\"\
+        timestamp\" datetime=\"2021-01-09T12:54:19Z\" data-relative=\"true\">4 days\
+        \ ago</time> by <a class=\"author\" rel=\"author\" href=\"/authors/pipdiddy\"\
+        >Pip Diddy</a></p>\n<div class='summary'>\n<p>Mixed price action from the\
+        \ Loonie this week as traders tried to balance positive oil moves, geopolitical\
+        \ headlines, and net negative economic updates from Canada.\_</p>\n\n<a class=\"\
+        read-more\" href=\"/news/cad-weekly-review-20210108\">Read More</a>\n</div>\n\
+        </div>\n</div>\n</article>\n\n<article class='post-summary post-index' id='post-191559'>\n\
+        <div class='wrapper'>\n<figure>\n<div class='thumbnail'>\n<a href=\"/news/nzd-weekly-review-20210108\"\
+        ><img class=\"lazyload\" data-src=\"https://bpcdn.co/images/2020/04/26195542/NZD-Weekly-Review-2020-360x189.png\"\
+        \ src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></a>\n</div>\n<a class=\"category\" rel=\"tag\" href=\"/news\">News</a>\n\
+        </figure>\n<div class='content'>\n<a class=\"category\" rel=\"tag\" href=\"\
+        /news\">News</a>\n<h3 class='headline'><a href=\"/news/nzd-weekly-review-20210108\"\
+        >NZD Weekly Review (Jan. 4 \u2013 8)</a></h3>\n<p class='byline'><time class=\"\
+        timestamp\" datetime=\"2021-01-08T23:35:35Z\" data-relative=\"true\">5 days\
+        \ ago</time> by <a class=\"author\" rel=\"author\" href=\"/authors/pipdiddy\"\
+        >Pip Diddy</a></p>\n<div class='summary'>\n<p>With an extremely light calendar\
+        \ from New Zealand this week, it\u2019s likely the Kiwi\u2019s gains were\
+        \ mainly driven by positive broad risk sentiment &amp; positive news for the\
+        \ Aussie. </p>\n\n<a class=\"read-more\" href=\"/news/nzd-weekly-review-20210108\"\
+        >Read More</a>\n</div>\n</div>\n</div>\n</article>\n\n</div>\n<div class=\"\
+        posts-pagination\">\n  <div class=\"divider\"></div>\n  <nav>\n      <span\
+        \ class=\"pager disabled\">Prev</span>\n      <a class=\"pager\" rel=\"next\"\
+        \ href=\"/news/2\">Next</a>\n  </nav>\n</div>\n</section>\n<aside class='posts-index-sidebar'>\n\
+        <div data-react-class=\"Ads/AdUnit\" data-react-props=\"{&quot;unit_id&quot;:&quot;sidebar_med_rect&quot;}\"\
+        \ data-react-cache-id=\"Ads/AdUnit-0\" class=\"ad-unit sidebar_med_rect\"\
+        ></div>\n<div class='posts-sponsors'>\n<div class='title-line'>\n<div class='title'>\n\
+        <span>Partner Center</span>\n<span class='subtitle'>Find a Broker</span>\n\
+        </div>\n</div>\n<div class='divider'></div>\n<div class='wrapper'>\n<div data-react-class=\"\
+        Ads/AdUnit\" data-react-props=\"{&quot;unit_id&quot;:&quot;post_sponsor&quot;,&quot;targets&quot;:{&quot;position&quot;:1}}\"\
+        \ data-react-cache-id=\"Ads/AdUnit-0\" class=\"ad-unit post_sponsor\"></div>\n\
+        <div data-react-class=\"Ads/AdUnit\" data-react-props=\"{&quot;unit_id&quot;:&quot;post_sponsor&quot;,&quot;targets&quot;:{&quot;position&quot;:2}}\"\
+        \ data-react-cache-id=\"Ads/AdUnit-0\" class=\"ad-unit post_sponsor\"></div>\n\
+        <div data-react-class=\"Ads/AdUnit\" data-react-props=\"{&quot;unit_id&quot;:&quot;post_sponsor&quot;,&quot;targets&quot;:{&quot;position&quot;:3}}\"\
+        \ data-react-cache-id=\"Ads/AdUnit-0\" class=\"ad-unit post_sponsor\"></div>\n\
+        <div data-react-class=\"Ads/AdUnit\" data-react-props=\"{&quot;unit_id&quot;:&quot;post_sponsor&quot;,&quot;targets&quot;:{&quot;position&quot;:4}}\"\
+        \ data-react-cache-id=\"Ads/AdUnit-0\" class=\"ad-unit post_sponsor\"></div>\n\
+        </div>\n\n</div>\n<div data-react-class=\"Ads/AdUnit\" data-react-props=\"\
+        {&quot;unit_id&quot;:&quot;half_page&quot;,&quot;targets&quot;:{&quot;position&quot;:1}}\"\
+        \ data-react-cache-id=\"Ads/AdUnit-0\" class=\"ad-unit half_page\"></div>\n\
+        <div data-react-class=\"Polls/SidebarWidget\" data-react-props=\"{&quot;path&quot;:&quot;/polls/featured&quot;,&quot;locked&quot;:true}\"\
+        \ data-react-cache-id=\"Polls/SidebarWidget-0\"></div>\n\n<div data-react-class=\"\
+        Ads/AdUnit\" data-react-props=\"{&quot;unit_id&quot;:&quot;half_page&quot;,&quot;targets&quot;:{&quot;position&quot;:2},&quot;sticky&quot;:true}\"\
+        \ data-react-cache-id=\"Ads/AdUnit-0\" class=\"ad-unit half_page sticky\"\
+        ></div>\n</aside>\n</div>\n<div data-react-class=\"Ads/AdUnit\" data-react-props=\"\
+        {&quot;unit_id&quot;:&quot;mid_billboard&quot;}\" data-react-cache-id=\"Ads/AdUnit-0\"\
+        \ class=\"ad-unit mid_billboard\"></div>\n<section data-react-class=\"RelatedPosts\"\
+        \ data-react-props=\"{&quot;path&quot;:&quot;/posts/related/news&quot;,&quot;title&quot;:&quot;What\
+        \ to Read Next...&quot;}\" data-react-cache-id=\"RelatedPosts-0\" class=\"\
+        layout layout-one-column related-posts-section\"></section>\n\n<div data-react-class=\"\
+        Ads/AdUnit\" data-react-props=\"{&quot;unit_id&quot;:&quot;bottom_billboard&quot;}\"\
+        \ data-react-cache-id=\"Ads/AdUnit-0\" class=\"ad-unit bottom_billboard\"\
+        ></div>\n</div>\n<div class='site-quote'>\n<div class='divider'></div>\n<blockquote>\n\
+        <div class='quote'><p><span>We must combine the toughness of the serpent and\
+        \ the softness of the dove, a tough mind and a tender heart.</span><cite>Martin\
+        \ Luther King Jr. </cite></p></div>\n</blockquote>\n</div>\n<footer class='site-footer'>\n\
+        <div class='menus'>\n<div class='wrapper'>\n<div class='footer-menus'>\n<div\
+        \ class='menu menu-learn'>\n<div class='title'>Learn Forex</div>\n<ul>\n<li><a\
+        \ href=\"/learn/forex\">How to Trade Forex</a></li>\n<li><a href=\"/quizzes\"\
+        >Forex Quizzes</a></li>\n<li><a href=\"https://forums.babypips.com/\">Forex\
+        \ Forums</a></li>\n<li><a href=\"/forexpedia\">Forex Glossary</a></li>\n<li><a\
+        \ href=\"/learn/forex/what-is-margin-trading\">Forex Margin 101</a></li>\n\
+        <li><a href=\"/learn/forex/elementary\">Technical Analysis 101</a></li>\n\
+        <li><a href=\"/learn/forex/undergraduate-senior\">Risk Management 101</a></li>\n\
+        </ul>\n</div>\n<div class='menu menu-tools'>\n<div class='title'>Forex Tools</div>\n\
+        <ul>\n<li><a href=\"https://marketmilk.babypips.com/\">MarketMilk\u2122</a></li>\n\
+        <li><a href=\"/economic-calendar\">Economic Calendar</a></li>\n<li><a href=\"\
+        /learn/forex/which-trading-style-is-best-for-you\">Trader Personality Test</a></li>\n\
+        <li><a href=\"/tools/position-size-calculator\">Position Size Calculator</a></li>\n\
+        <li><a href=\"/tools/gain-loss-percentage-calculator\">&quot;Back to Breakeven&quot;\
+        \ Calculator</a></li>\n<li><a href=\"/tools/pip-value-calculator\">Pip Value\
+        \ Calculator</a></li>\n<li><a href=\"/tools/pivot-point-calculator\">Pivot\
+        \ Point Calculator</a></li>\n</ul>\n</div>\n<div class='menu menu-company'>\n\
+        <div class='title'>Company</div>\n<ul>\n<li><a href=\"/about\">About</a></li>\n\
+        <li><a href=\"/contact\">Contact</a></li>\n<li><a href=\"/advertise\">Advertise</a></li>\n\
+        <li><a href=\"/newsletter\">Newsletter</a></li>\n<li><a href=\"/testimonials\"\
+        >Testimonials</a></li>\n<li><a href=\"https://www.babypips.com/faq\">FAQ</a></li>\n\
+        </ul>\n</div>\n</div>\n<div class='footer-info'>\n<div class='title-line'>\n\
+        <div class='title'>BabyPips</div>\n<ul class='social'>\n<li class='facebook'><a\
+        \ target=\"_blank\" rel=\"noopener\" href=\"https://facebook.com/babypips\"\
+        >Facebook</a></li>\n<li class='instagram'><a target=\"_blank\" rel=\"noopener\"\
+        \ href=\"https://instagram.com/babypips\">Instagram</a></li>\n<li class='twitter'><a\
+        \ target=\"_blank\" rel=\"noopener\" href=\"https://twitter.com/babypips\"\
+        >Twitter</a></li>\n</ul>\n\n</div>\n<p class='heading'>BabyPips.com helps\
+        \ individual traders learn how to trade the forex market.</p>\n<p>We introduce\
+        \ people to the world of currency trading, and provide educational content\
+        \ to help them learn how to become profitable traders. We&#39;re also a community\
+        \ of traders that support each other on our daily trading journey.</p>\n</div>\n\
+        </div>\n</div>\n<div class='legal'>\n<div class='wrapper'>\n<p class='copyright'>Copyright\
+        \ \xA9 2021 BabyPips.com LLC. All rights reserved.</p>\n<ul>\n<li><a href=\"\
+        /privacy\">Privacy Policy</a></li>\n<li><a href=\"/risk-disclosure\">Risk\
+        \ Disclosure</a></li>\n<li><a href=\"/terms-of-use\">Terms of Use</a></li>\n\
+        <li>\n<button class='ot-sdk-show-settings' id='ot-sdk-btn'>Cookie Settings</button>\n\
+        </li>\n</ul>\n</div>\n</div>\n</footer>\n\n<div id='modal-root'></div>\n<script\
+        \ type='text/javascript'>\nwindow.bpAdTargets = {\"page\":\"news\",\"category\"\
+        :\"news\"};\n\n\n</script>\n<script src=\"https://bpcdn.co/packs/js/manifest-8e92bb5339055d7fcc81.js\"\
+        \ async=\"async\"></script>\n<script src=\"https://bpcdn.co/packs/js/vendor-dbd8911452fdddcf55f6.chunk.js\"\
+        \ async=\"async\"></script>\n<script src=\"https://bpcdn.co/packs/js/47-212a9f3599caaedf8bac.chunk.js\"\
+        \ async=\"async\"></script>\n<script src=\"https://bpcdn.co/packs/js/polls-4d5992b1a7a18b5989bb.chunk.js\"\
+        \ async=\"async\"></script>\n<script src=\"https://bpcdn.co/packs/js/2-f8dec8e74bcc6c3eca77.chunk.js\"\
+        \ async=\"async\"></script>\n<script src=\"https://bpcdn.co/packs/js/application-ccf39f7c5e697e8e763a.chunk.js\"\
+        \ async=\"async\"></script>\n\n</body>\n</html>\n"
+    headers:
+      Age:
+      - '39983'
+      Cache-Control:
+      - max-age=0, public, s-maxage=604800
+      Connection:
+      - keep-alive
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Thu, 14 Jan 2021 02:38:33 GMT
+      ETag:
+      - W/"a2e61f701463b02265fbf93024f51b91"
+      Referrer-Policy:
+      - strict-origin-when-cross-origin
+      Server:
+      - nginx
+      Strict-Transport-Security:
+      - max-age=15552000; includeSubDomains
+      Transfer-Encoding:
+      - chunked
+      Via:
+      - 1.1 f141d4a0b9a72779a9dd3a57c2c25f52.cloudfront.net (CloudFront)
+      X-Amz-Cf-Id:
+      - dlU0A66jZp7W7SR7U1bw0zEbuwsphhbhH8c9_Rqf3A12Pg0ngRIP2w==
+      X-Amz-Cf-Pop:
+      - JFK51-C1
+      X-Cache:
+      - Hit from cloudfront
+      X-Content-Digest:
+      - b12d61b10d40c9520b25593c9f416eb5a6b74c48
+      X-Content-Type-Options:
+      - nosniff
+      X-Download-Options:
+      - noopen
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Permitted-Cross-Domain-Policies:
+      - none
+      X-Xss-Protection:
+      - 1; mode=block
+      content-length:
+      - '42003'
+    status:
+      code: 200
+      message: OK
+version: 1

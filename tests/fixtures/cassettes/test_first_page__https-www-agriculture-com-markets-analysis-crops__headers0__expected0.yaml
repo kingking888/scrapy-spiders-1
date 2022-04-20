@@ -1,0 +1,1201 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.agriculture.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.agriculture.com/markets/analysis/crops
+  response:
+    body:
+      string: "<!DOCTYPE html>\n<!--[if lt IE 9 ]>    <html class=\"lt-ie9 no-js\"
+        \ lang=\"en\" dir=\"ltr\"> <![endif]-->\n<!--[if gte IE 9]><!--> <html class=\"no-js\"
+        \ lang=\"en\" dir=\"ltr\" > <!--<![endif]-->\n  <head>\n    <!--[if IE]><![endif]-->\n<link
+        rel=\"dns-prefetch\" href=\"//cdnjs.cloudflare.com\" />\n<link rel=\"dns-prefetch\"
+        href=\"//admin.brightcove.com\" />\n<link rel=\"dns-prefetch\" href=\"//cdn.cookielaw.org\"
+        />\n<link rel=\"dns-prefetch\" href=\"//geolocation.onetrust.com\" />\n<link
+        rel=\"dns-prefetch\" href=\"//community.agriculture.com\" />\n<link rel=\"dns-prefetch\"
+        href=\"//ajax.googleapis.com\" />\n<link rel=\"dns-prefetch\" href=\"//meredith-com.videoplayerhub.com\"
+        />\n<link rel=\"dns-prefetch\" href=\"//karma.mdpcdn.com\" />\n<meta charset=\"utf-8\"
+        />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" /><script type=\"text/javascript\">(window.NREUM||(NREUM={})).loader_config={licenseKey:\"55db0cb698\",applicationID:\"608121443\"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function
+        r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var
+        i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if(\"function\"==typeof
+        __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return
+        r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return
+        o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e(\"handle\"),a=e(6),c=e(7),f=e(\"ee\").get(\"tracer\"),u=e(\"loader\"),s=NREUM;\"undefined\"==typeof
+        window.newrelic&&(newrelic=s);var d=[\"setPageViewName\",\"setCustomAttribute\",\"setErrorHandler\",\"finished\",\"addToTrace\",\"inlineHit\",\"addRelease\"],p=\"api-\",l=p+\"ixn-\";a(d,function(e,t){s[t]=i(p+t,!0,\"api\")}),s.addPageAction=i(p+\"addPageAction\",!0),s.setCurrentRouteName=i(p+\"routeName\",!0),t.exports=newrelic,s.interaction=function(){return(new
+        r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i=\"function\"==typeof
+        t;return o(l+\"tracer\",[u.now(),e,n],r),function(){if(f.emit((i?\"\":\"no-\")+\"fn-start\",[u.now(),r,i],n),i)try{return
+        t.apply(this,arguments)}catch(e){throw f.emit(\"fn-err\",[arguments,this,e],n),e}finally{f.emit(\"fn-end\",[u.now()],n)}}}};a(\"actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get\".split(\",\"),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){\"string\"==typeof
+        e&&(e=new Error(e)),o(\"err\",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function
+        r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new
+        Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(8);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function
+        r(e,t){var n=e.getEntries();n.forEach(function(e){\"first-paint\"===e.name?d(\"timing\",[\"fp\",Math.floor(e.startTime)]):\"first-contentful-paint\"===e.name&&d(\"timing\",[\"fcp\",Math.floor(e.startTime)])})}function
+        i(e,t){var n=e.getEntries();n.length>0&&d(\"lcp\",[n[n.length-1]])}function
+        o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d(\"cls\",[e])})}function
+        a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d(\"timing\",[\"fi\",t,n])}}function
+        c(e){d(\"pageHide\",[p.now(),e])}if(!(\"init\"in NREUM&&\"page_view_timing\"in
+        NREUM.init&&\"enabled\"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var
+        f,u,s,d=e(\"handle\"),p=e(\"loader\"),l=e(5),m=NREUM.o.EV;if(\"PerformanceObserver\"in
+        window&&\"function\"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:[\"paint\"]})}catch(v){}u=new
+        PerformanceObserver(i);try{u.observe({entryTypes:[\"largest-contentful-paint\"]})}catch(v){}s=new
+        PerformanceObserver(o);try{s.observe({type:\"layout-shift\",buffered:!0})}catch(v){}}if(\"addEventListener\"in
+        document){var g=!1,y=[\"click\",\"keydown\",\"mousedown\",\"pointerdown\",\"touchstart\"];y.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],4:[function(e,t,n){function
+        r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var
+        n=o.split(\".\"),r=t.split(\".\"),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var
+        i=null,o=null,a=/Version\\/(\\S+)\\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf(\"Chrome\")===-1&&c.indexOf(\"Chromium\")===-1&&(i=\"Safari\",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],5:[function(e,t,n){function
+        r(e){function t(){e(a&&document[a]?document[a]:document[i]?\"hidden\":\"visible\")}\"addEventListener\"in
+        document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;\"undefined\"!=typeof
+        document.hidden?(i=\"hidden\",o=\"visibilitychange\",a=\"visibilityState\"):\"undefined\"!=typeof
+        document.msHidden?(i=\"msHidden\",o=\"msvisibilitychange\"):\"undefined\"!=typeof
+        document.webkitHidden&&(i=\"webkitHidden\",o=\"webkitvisibilitychange\",a=\"webkitVisibilityState\")},{}],6:[function(e,t,n){function
+        r(e,t){var n=[],r=\"\",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return
+        n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],7:[function(e,t,n){function
+        r(e,t,n){t||(t=0),\"undefined\"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return
+        o}t.exports=r},{}],8:[function(e,t,n){t.exports={exists:\"undefined\"!=typeof
+        window.performance&&window.performance.timing&&\"undefined\"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function
+        r(){}function i(e){function t(e){return e&&e instanceof r?e:e?f(e,c,o):o()}function
+        n(n,r,i,o){if(!p.aborted||o){e&&e(n,r,i);for(var a=t(i),c=v(n),f=c.length,u=0;u<f;u++)c[u].apply(a,r);var
+        d=s[w[n]];return d&&d.push([b,n,r,a]),a}}function l(e,t){h[e]=v(e).concat(t)}function
+        m(e,t){var n=h[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function
+        v(e){return h[e]||[]}function g(e){return d[e]=d[e]||i(n)}function y(e,t){u(e,function(e,n){t=t||\"feature\",w[n]=t,t
+        in s||(s[t]=[])})}var h={},w={},b={on:l,addEventListener:l,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:y,abort:a,aborted:!1};return
+        b}function o(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var
+        c=\"nr@context\",f=e(\"gos\"),u=e(6),s={},d={},p=t.exports=i();p.backlog=s},{}],gos:[function(e,t,n){function
+        r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return
+        Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return
+        e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function
+        r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e(\"ee\").get(\"handle\");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function
+        r(e){var t=typeof e;return!e||\"object\"!==t&&\"function\"!==t?-1:e===window?0:a(e,o,function(){return
+        i++})}var i=1,o=\"nr@id\",a=e(\"gos\");t.exports=r},{}],loader:[function(e,t,n){function
+        r(){if(!E++){var e=b.info=NREUM.info,t=p.getElementsByTagName(\"script\")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return
+        u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c(\"mark\",[\"onload\",n+b.offset],null,\"api\"),c(\"timing\",[\"load\",n]);var
+        r=p.createElement(\"script\");r.src=\"https://\"+e.agent,t.parentNode.insertBefore(r,t)}}function
+        i(){\"complete\"===p.readyState&&o()}function o(){c(\"mark\",[\"domContent\",a()+b.offset],null,\"api\")}var
+        a=e(2),c=e(\"handle\"),f=e(6),u=e(\"ee\"),s=e(4),d=window,p=d.document,l=\"addEventListener\",m=\"attachEvent\",v=d.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:v,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var
+        y=\"\"+location,h={beacon:\"bam.nr-data.net\",errorBeacon:\"bam.nr-data.net\",agent:\"js-agent.newrelic.com/nr-1184.min.js\"},w=v&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:w,userAgent:s};e(1),e(3),p[l]?(p[l](\"DOMContentLoaded\",o,!1),d[l](\"load\",r,!1)):(p[m](\"onreadystatechange\",i),d[m](\"onload\",r)),c(\"mark\",[\"firstbyte\",a.getLastTimestamp()],null,\"api\");var
+        E=0},{}],\"wrap-function\":[function(e,t,n){function r(e){return!(e&&e instanceof
+        Function&&e.apply&&!e[a])}var i=e(\"ee\"),o=e(7),a=\"nr@original\",c=Object.prototype.hasOwnProperty,f=!1;t.exports=function(e,t){function
+        n(e,t,n,i){function nrWrapper(){var r,a,c,f;try{a=this,r=o(arguments),c=\"function\"==typeof
+        n?n(r,a):n||{}}catch(u){p([u,\"\",[r,a,i],c])}s(t+\"start\",[r,a,i],c);try{return
+        f=e.apply(a,r)}catch(d){throw s(t+\"err\",[r,a,d],c),d}finally{s(t+\"end\",[r,a,f],c)}}return
+        r(e)?e:(t||(t=\"\"),nrWrapper[a]=e,d(e,nrWrapper),nrWrapper)}function u(e,t,i,o){i||(i=\"\");var
+        a,c,f,u=\"-\"===i.charAt(0);for(f=0;f<t.length;f++)c=t[f],a=e[c],r(a)||(e[c]=n(a,u?c+i:i,o,c))}function
+        s(n,r,i){if(!f||t){var o=f;f=!0;try{e.emit(n,r,i,t)}catch(a){p([a,n,r,i])}f=o}}function
+        d(e,t){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(e);return
+        n.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return
+        e[n]=t,t}})}),t}catch(r){p([r])}for(var i in e)c.call(e,i)&&(t[i]=e[i]);return
+        t}function p(t){try{e.emit(\"internal-error\",t)}catch(n){}}return e||(e=i),n.inPlace=u,n.flag=a,n}},{}]},{},[\"loader\"]);</script>\n<link
+        href=\"/sites/all/themes/custom/sfg/img/icons/apple/sfg-touch-icon-ipad-retina.png\"
+        rel=\"apple-touch-icon\" sizes=\"152x152\" />\n<link href=\"/sites/all/themes/custom/sfg/img/icons/apple/sfg-touch-icon-ipad.png\"
+        rel=\"apple-touch-icon\" sizes=\"76x76\" />\n<link href=\"/sites/all/themes/custom/sfg/img/icons/apple/sfg-touch-icon-iphone-retina.png\"
+        rel=\"apple-touch-icon\" sizes=\"120x120\" />\n<link href=\"/sites/all/themes/custom/sfg/img/icons/apple/sfg-touch-icon-iphone.png\"
+        rel=\"apple-touch-icon\" sizes=\"60x60\" />\n<meta property=\"fb:app_id\"
+        content=\"1545978839053740\" />\n<meta property=\"fb:pages\" content=\"116073665214311\"
+        />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"
+        />\n<link rel=\"shortcut icon\" href=\"https://www.agriculture.com/sites/all/themes/custom/sfg/favicon.ico\"
+        />\n<meta name=\"description\" content=\"Market analysts provide in-depth
+        analysis and forecasting for commodity prices, including corn, soybeans, and
+        wheat.\" />\n<meta name=\"generator\" content=\"Drupal 7 (http://drupal.org)\"
+        />\n<link rel=\"canonical\" href=\"https://www.agriculture.com/markets/analysis/crops\"
+        />\n<link rel=\"next\" href=\"https://www.agriculture.com/markets/analysis/crops?page=1\"
+        />\n<meta property=\"og:site_name\" content=\"Successful Farming\" />\n<meta
+        property=\"og:type\" content=\"article\" />\n<meta property=\"og:url\" content=\"https://www.agriculture.com/markets/analysis/crops\"
+        />\n<meta property=\"og:title\" content=\"Crop Markets\" />\n<meta property=\"og:description\"
+        content=\"Get the latest commentary from market analysts on the future of
+        commodity prices, including corn, soybeans, and wheat. This analysis looks
+        at marketing fundamentals as well as USDA reports and breaking news.\" />\n<meta
+        property=\"og:image:url\" content=\"https://www.agriculture.com/sites/all/themes/custom/sfg/img/logos/successful-farming-ag.jpg\"
+        />\n<script type=\"application/ld+json\">{\n    \"mainEntityOfPage\": {\n
+        \       \"@context\": \"http://schema.org\",\n        \"@type\": \"CollectionPage\",\n
+        \       \"@id\": \"https://www.agriculture.com/markets/analysis/crops\"\n
+        \   },\n    \"@context\": \"http://schema.org\",\n    \"@type\": \"ItemList\",\n
+        \   \"itemListElement\": [\n        {\n            \"@type\": \"ListItem\",\n
+        \           \"position\": 1,\n            \"url\": \"https://www.agriculture.com/markets/analysis/crops/is-the-bear-on-the-run\"\n
+        \       },\n        {\n            \"@type\": \"ListItem\",\n            \"position\":
+        2,\n            \"url\": \"https://www.agriculture.com/markets/analysis/crops/new-numbers-and-a-new-outlook-for-the-corn-and-soybean-markets\"\n
+        \       },\n        {\n            \"@type\": \"ListItem\",\n            \"position\":
+        3,\n            \"url\": \"https://www.agriculture.com/markets/analysis/crops/bullish-argument-for-corn\"\n
+        \       },\n        {\n            \"@type\": \"ListItem\",\n            \"position\":
+        4,\n            \"url\": \"https://www.agriculture.com/markets/analysis/crops/make-sales-and-re-own-on-paper\"\n
+        \       },\n        {\n            \"@type\": \"ListItem\",\n            \"position\":
+        5,\n            \"url\": \"https://www.agriculture.com/markets/analysis/crops/wheat-spreads-widen-further\"\n
+        \       },\n        {\n            \"@type\": \"ListItem\",\n            \"position\":
+        6,\n            \"url\": \"https://www.agriculture.com/news/business/despite-coronavirus-pandemic-farmers-plan-to-plant-a-record-corn-crop\"\n
+        \       }\n    ]\n}</script><script type=\"application/ld+json\">{\n    \"@context\":
+        \"http://schema.org\",\n    \"@type\": \"WebPage\",\n    \"name\": \"Crop
+        Markets\",\n    \"url\": \"https://www.agriculture.com/markets/analysis/crops\",\n
+        \   \"author\": \"\"\n}</script>    <title>Crop Markets | Successful Farming</title>\n
+        \   <style data-sort=\"sticky\">html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background:transparent}a:active,a:hover{outline:0}*:focus{outline:1
+        auto}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:700}dfn{font-style:italic}h1{font-size:2em;margin:.67em
+        0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em
+        40px}hr{box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html
+        input[type=\"button\"],input[type=\"reset\"],input[type=\"submit\"]{-webkit-appearance:button;cursor:pointer}button[disabled],html
+        input[disabled]{cursor:default;opacity:.5}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type=\"checkbox\"],input[type=\"radio\"]{box-sizing:border-box;padding:0}input[type=\"number\"]::-webkit-inner-spin-button,input[type=\"number\"]::-webkit-outer-spin-button{height:auto}input[type=\"search\"]{-webkit-appearance:textfield;box-sizing:border-box}input[type=\"search\"]::-webkit-search-cancel-button,input[type=\"search\"]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px
+        solid silver;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:700}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}*,*:before,*:after{box-sizing:border-box}img{max-width:100%;vertical-align:middle}.pane-node-body
+        .field-body>p:first-child:first-letter {font-family:\"Gravitas One\",serif;float:left;line-height:.74em;padding:8px
+        4px 0 0;font-size:47.5px;font-size:4.75rem}@media(min-width:31.25em){.pane-node-body
+        .field-body>p:first-child:first-letter {font-size:55px;font-size:5.5rem}}body{display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;-ms-flex-wrap:wrap;flex-wrap:wrap;padding:0;margin:0;width:100%
+        !important;height:100%;min-height:100vh;overflow-x:hidden}body.offcanvas-show{overflow:hidden;min-height:100%}@media(min-width:48em){body.offcanvas-show{overflow-x:hidden;overflow-x:auto;min-height:100vh}}.header-ad{margin-top:106px;margin-bottom:0;text-align:center;z-index:4}@media(min-width:48em){.header-ad{margin-top:auto;margin-bottom:auto}}.sticky-wrapper{z-index:3}#main{padding-top:0;overflow:hidden;z-index:2}@media(min-width:48em){#main{overflow:visible}}.no-sidebars
+        #main{max-width:1200px;margin:0 auto;padding-left:15px;padding-right:15px;width:100%}.no-sidebars
+        #main:after{content:\"\";display:table;clear:both}.site-header{max-width:1200px;width:100%;transform:translate3d(0,0,0)}.site-header:after{content:\"\";display:table;clear:both}.site-header
+        .header-ad .pane-mag-advertisements-karma{text-align:center;padding-bottom:10px}.site-header
+        .pane-page-site-name{position:absolute;float:left;top:35px;left:50%;transform:translate(-59%,-50%);width:20%;margin:0;width:180px}@media(min-width:23.75em){.site-header
+        .pane-page-site-name{transform:translate(-50%,-50%)}}@media(min-width:31.25em){.site-header
+        .pane-page-site-name{width:250px}}@media(min-width:48em){.site-header .pane-page-site-name{position:static;transform:none;float:left;width:19%}}@media(min-width:64em){.site-header
+        .pane-page-site-name{max-width:none;width:100%}\n}@media(min-width:48em){.site-header
+        .pane-menu-block-1{float:right;width:81%;margin-top:.75em}}@media(min-width:64em){.site-header
+        .pane-menu-block-1{width:100%}}.site-header ul.user-icons{float:left}@media(min-width:18.4375em){.site-header
+        ul.user-icons{float:right}}@media(min-width:48em){.site-header ul.user-icons{display:none}}.site-header
+        .top-bar{width:auto;clear:both}@media(min-width:0) and (max-width:48em){.site-header
+        .top-bar{width:100%}}@media(min-width:48em){.site-header .top-bar{display:-ms-flexbox;display:flex}}@media(min-width:64em){.site-header
+        .top-bar{width:auto}}@media(min-width:0) and (max-width:48em){.site-header
+        .top-bar .search{width:100%;float:none}}@media(min-width:48em){.site-header
+        .top-bar .search{float:right;width:200px}}.site-header .top-bar .pane-sfg-header-user-menu{margin-top:1px;float:left}@media(min-width:0)
+        and (max-width:48em){.site-header .top-bar .pane-sfg-header-user-menu{display:none}}@media(min-width:48em){.site-header
+        .top-bar .pane-sfg-header-user-menu{float:none;display:inline-block}}@media(min-width:48em){.site-header
+        .top-bar .pane-menu-header-browse-menu{float:none;margin:0 0 0 auto;display:inline-block}}.site-header.stuck{position:fixed;top:0;left:0;right:0}@media(min-width:48em){.site-header.stuck{display:-ms-flexbox;display:flex;-ms-flex-wrap:nowrap;flex-wrap:nowrap}}.site-header.stuck
+        .pane-page-site-name{width:180px;max-width:calc(100% - 80px);height:100%;margin-right:1em;box-sizing:border-box}@media(min-width:31.25em){.site-header.stuck
+        .pane-page-site-name{width:250px}}@media(min-width:48em){.site-header.stuck
+        .pane-page-site-name{width:auto}}.site-header.stuck .pane-menu-block-1{padding-top:.5em;margin-top:0;width:calc(100%
+        - 80px)}@media(min-width:48em){.site-header.stuck .pane-menu-block-1{padding-top:.66em}}@media(min-width:64em){.site-header.stuck
+        .pane-menu-block-1{padding-top:.9em}}.site-header.stuck .pane-menu-block-1
+        .menu{list-style:none;padding:0}@media(min-width:48em){.site-header.stuck
+        .pane-menu-block-1 .menu{padding:0}}.site-header.stuck .pane-menu-block-1
+        .menu-level-3{top:3em !important}.site-header.stuck .top-bar{width:auto;float:left;width:100%}.site-header.stuck
+        .top-bar .pane-sfg-header-user-menu{display:none}.site-header.stuck .top-bar
+        .search{width:100%;float:none}.site-header.stuck .top-bar .pane-sfg-header-user-menu,.site-header.stuck
+        .top-bar .pane-menu-header-browse-menu{float:left;width:100%;clear:left}@media(min-width:48em){.site-header.stuck
+        .top-bar{width:200px}}.community-forum.site-header{max-width:100%}html,body{font-family:Georgia,serif;line-height:1.4}html{font-size:62.5%}body{font-size:17px;font-size:1.7rem}@media(min-width:31.25em){body{font-size:19px;font-size:1.9rem}}p{margin:0
+        0 1.37em}li{margin:0 0 .74em}h1,h2,h3,h4,h5,h6{font-family:\"Work Sans\",sans-serif;text-transform:uppercase;line-height:1.2em;margin:0
+        0 .5em;font-weight:600}.view h1,.view h2,.view h3,.view h4,.view h5,.view
+        h6{text-transform:none}h1{font-family:\"Fjalla One\",sans-serif;color:#cc2229;font-size:32px;font-size:3.2rem;margin:0
+        0 .65em}@media(min-width:31.25em){h1{font-size:46px;font-size:4.6rem}}.subtitle{font-family:\"Work
+        Sans\",sans-serif;text-transform:uppercase;font-size:22px;font-size:2.2rem;margin:-.945em
+        0 .945em}@media(min-width:31.25em){.subtitle{font-size:24px;font-size:2.4rem;margin:-1.25em
+        0 1.25em}}h2{font-size:26px;font-size:2.6rem}@media(min-width:31.25em){h2{font-size:28px;font-size:2.8rem}}h3{color:#cc2229;font-size:22px;font-size:2.2rem}h4{text-transform:none;display:inline;margin:0
+        7.5px 0 0;font-size:17px;font-size:1.7rem}@media(min-width:31.25em){h4{font-size:24px;font-size:2.4rem}}h4+p{display:inline}h4+p:after{content:\"\";display:block;margin:0
+        0 1.37em;font-size:17px;font-size:1.7rem}@media(min-width:31.25em){h4+p:after{font-size:24px;font-size:2.4rem}}h5{text-transform:none;font-size:16px;font-size:1.6rem}@media(min-width:31.25em){h5{font-size:20px;font-size:2rem}}h6{font-size:14px;font-size:1.4rem}blockquote{font-family:\"Gravitas
+        One\",serif;font-size:22px;font-size:2.2rem;margin:1.18em 0}@media(min-width:31.25em){blockquote{font-size:26px;font-size:2.6rem}}@media(min-width:48em){blockquote{width:61.53846%;float:left;margin-right:-100%;margin-left:0;clear:none;margin:0
+        0 .55em;padding-right:1.69492%}}blockquote p:last-of-type{margin:0}blockquote
+        footer{background-color:#000;color:#fff;display:inline-block;font-family:\"Work
+        Sans\",sans-serif;margin:.74em 0 0;padding:7.5px 60px 7.5px 7.5px;font-size:17px;font-size:1.7rem}@media(min-width:31.25em){blockquote
+        footer{font-size:19px;font-size:1.9rem}}blockquote footer:before{content:\"-\";margin-right:7.5px}a,a:link,a:visited,a:active{text-decoration:none;color:#007eb2}li
+        a.active{color:#007eb2}a:hover{color:#027e9b}.more-link{font-size:16px;font-size:1.6rem;font-family:\"Work
+        Sans\",sans-serif;padding:15px 0;text-align:left}.pane-node-body{margin:30px
+        0}.pane-node-content .field-body>.leaderboard{margin-bottom:30px}button,.button,a.button,.offcanvas-toggle,input[type='submit']{display:inline-block;font-size:18px;font-size:1.8rem;font-family:\"Work
+        Sans\",sans-serif;text-transform:uppercase;text-decoration:none;margin-top:0;border:0;padding:15px
+        60px;line-height:1.618;text-align:center;color:#fff;cursor:pointer;transition:background-color
+        .2s,border-color .2s;will-change:background-color,border-color}.btn-blue{background-color:#00acec}.btn-blue:hover{background-color:#007eb2;color:#fff}.btn-green,input[type='submit']{background-color:#25883c}.btn-green:hover,input[type='submit']:hover{background-color:#1b7f2e;color:#fff}.btn-white{color:#007eb2;border:2px
+        solid #007eb2}.btn-white:hover{border-color:#027e9b}.btn-red{background-color:#cc2229}.btn-red:hover{background-color:#b61e25;color:#fff}.btn-small{padding:10px
+        30px;font-size:16px;font-size:1.6rem}\n.btn-xsmall{padding:10px;font-size:14px;font-size:1.4rem}input[type='submit']{font-size:17px;font-size:1.7rem;padding:10px
+        90px}#edit-cancel{margin-left:30px}.site-header{padding:0;background-color:#fff;margin:0
+        auto;z-index:3;height:60px;min-height:3.5em;position:fixed;top:0;left:0;right:0}.site-header:after{content:\"\";display:table;clear:both}@media(min-width:48em){.site-header{position:relative;top:auto;left:auto;right:auto;overflow:visible;height:auto;padding:.75em;border-bottom:1px
+        solid #5c5c5c;margin:0 auto 40px}}.js-megamenu-open .site-header{overflow:auto;height:100vh}.site-header.stuck{background-color:#fff;z-index:12602;padding-top:0;padding-bottom:0}.site-header.stuck+#main{padding-top:100px}@media(min-width:48em){.site-header{padding-top:10px}.admin-menu
+        .site-header{top:0}.site-header.stuck{top:0}.site-header.stuck+#main{padding-top:250px}}@media(min-width:64em){.admin-menu
+        .site-header{top:0}.admin-menu .site-header.stuck{top:29px}.admin-menu .site-header.stuck+#main{padding-top:270px}}.js-megamenu-open,.js-megamenu-open
+        body{position:relative;overflow:hidden;height:100%}.js-megamenu-open .adminimal-menu{height:auto}.site-footer
+        .panel-pane{margin:0 0 10px}@media(min-width:48em){.site-footer .panel-pane{margin:0}}@media(min-width:73.75em){.site-footer
+        .panel-pane{display:inline-block;margin:0 15px 0 0}}.site-footer .panel-pane:last-child{margin-right:0}@media(min-width:48em){.site-footer
+        .pane-menu-footer-legal-links,.site-footer .pane-mag-copyright-pane{margin:10px
+        0 0;padding-left:310px}}@media(min-width:51.875em){.site-footer .pane-menu-footer-legal-links,.site-footer
+        .pane-mag-copyright-pane{padding-left:380px}}@media(min-width:73.75em){.site-footer
+        .pane-menu-footer-legal-links,.site-footer .pane-mag-copyright-pane{padding-left:0}}@media(min-width:48em){.pane-meredith-agrimedia-logo{width:300px;position:absolute;left:15px;top:15px}}@media(min-width:51.875em){.pane-meredith-agrimedia-logo{width:auto}}@media(min-width:73.75em){.pane-meredith-agrimedia-logo{position:static}}.pane-menu-footer-legal-links{font-family:\"Work
+        Sans\",sans-serif;font-size:14px;font-size:1.4rem}.pane-menu-footer-legal-links
+        ul.menu{margin:0;padding:0}.pane-menu-footer-legal-links li.leaf{list-style-type:none;list-style-image:none;margin:0
+        0 5px;padding:0}@media(min-width:31.25em){.pane-menu-footer-legal-links li.leaf{display:inline;margin:0}}@media(min-width:31.25em){.pane-menu-footer-legal-links
+        li.leaf:after{content:\"|\";margin-left:4px}}.pane-menu-footer-legal-links
+        li.leaf:last-child:after{content:\"\"}.pane-menu-footer-legal-links a{text-decoration:none}.pane-mag-copyright-pane{font-size:14px;font-size:1.4rem}.menu.main-menu{display:none;padding:0;margin:0
+        auto;z-index:3;background-color:#fff;box-sizing:border-box;position:relative}@media(min-width:48em){.menu.main-menu{display:table;width:100%;padding:0}}.menu.main-menu::after{content:'';display:block;position:relative;width:100%;height:5.5em}@media(min-width:48em){.menu.main-menu::after{display:none}}.menu.main-menu.offcanvas-show{display:block;width:calc(100%
+        + 1em);padding-right:1em;padding-bottom:2em;min-height:calc(100vh - 69px);height:calc(100%
+        - 69px);position:absolute;left:0;top:0;margin-top:69px;overflow:auto;-webkit-overflow-scrolling:touch}@media(min-width:48em){.menu.main-menu.offcanvas-show{display:table;width:auto;position:relative;min-height:auto;left:auto;top:auto;margin-top:0}}.menu.main-menu
+        li{display:block;margin:0;padding:0;position:relative;white-space:nowrap;width:100vw;z-index:1}@media(min-width:48em){.menu.main-menu
+        li{position:relative;width:auto}}.menu.main-menu li.open{position:static}.menu.main-menu
+        li.open a+ul{top:69px}.menu.main-menu li.open>ul{max-height:none;height:calc(100vh
+        - (3em));opacity:1;background-color:#f5f5f5;visibility:visible;display:block;left:0;top:69px;position:fixed;overflow-y:auto;overflow-x:hidden;padding-top:69px;z-index:2}.menu.main-menu
+        li.open .menu-item-level-2+button{z-index:3}.menu.main-menu li.open .menu-item-level-3{top:0;height:100%;z-index:4}.menu.main-menu
+        li.open .menu-item-level-3+button{top:0;z-index:5}.menu.main-menu li.open>button{color:#fff;background-color:#007eb2;width:100%;min-height:69px;position:fixed;top:69px;z-index:2}.menu.main-menu
+        li.open>button i{float:left;line-height:1.5}.menu.main-menu li.open>button
+        span{display:inline}.menu.main-menu a,.menu.main-menu .subscribeHeader{font-size:15px;font-size:1.5rem;display:block;color:#000;font-family:\"Work
+        Sans\",sans-serif;padding:1em;transition:background-color 300ms,color 300ms}@media(min-width:48em){.menu.main-menu
+        a,.menu.main-menu .subscribeHeader{padding:.5em 1em}}.menu.main-menu a:hover,.menu.main-menu
+        a:focus,.menu.main-menu .subscribeHeader:hover,.menu.main-menu .subscribeHeader:focus{background-color:#007eb2;color:#fff}.menu.main-menu
+        .menu-item-placeholder.more{display:none;border:0}@media(min-width:48em){.menu.main-menu
+        .menu-item-placeholder.more{display:table-cell;width:1%}}@media(min-width:64em){.menu.main-menu
+        .menu-item-placeholder.more{display:none}}.menu.main-menu .menu-item-placeholder.more:hover,.menu.main-menu
+        .menu-item-placeholder.more:focus{border:0}.menu.main-menu .menu-item-placeholder.more:hover>a,.menu.main-menu
+        .menu-item-placeholder.more:focus>a{color:#007eb2;background-color:#fff}.menu.main-menu
+        .menu-item-placeholder.more>a,.menu.main-menu .menu-item-placeholder.more
+        .subscribeHeader{padding-right:1em;background:transparent url(//www.agriculture.com/sites/all/themes/custom/sfg/img/icons/#000/arrow-drop-down.svg)
+        no-repeat right center}.menu.main-menu .menu-item-placeholder.more>a:focus,.menu.main-menu
+        .menu-item-placeholder.more .subscribeHeader:focus{color:#007eb2;background-color:#fff}.menu.main-menu
+        .menu-item-placeholder.more ul{display:none}@media(min-width:48em){.menu.main-menu
+        .menu-item-placeholder.more ul{left:auto;right:-1px;display:block}}.menu.main-menu
+        .menu-item-placeholder.more button{display:none}.menu.main-menu .menu-item-placeholder.more
+        li:nth-last-child(-n+4){display:block}@media(min-width:48em){.menu.main-menu
+        .menu-item-placeholder.more li:nth-last-child(-n+4){display:none}\n}.menu.main-menu>li{border:1px
+        solid transparent;border-bottom:0;transition:border-color 300ms}@media(min-width:48em){.menu.main-menu>li{display:table-cell;text-align:center;width:1%}}.menu.main-menu>li.subscribeHeader-item{border-bottom:1px
+        solid transparent}@media(min-width:48em){.menu.main-menu>li:hover,.menu.main-menu>li:focus,.menu.main-menu>li:focus-within{border-color:#000}.menu.main-menu>li:hover.subscribeHeader-item,.menu.main-menu>li:focus.subscribeHeader-item,.menu.main-menu>li:focus-within.subscribeHeader-item{border-bottom:1px
+        solid #000}}.menu.main-menu>li:hover>.menu,.menu.main-menu>li:focus>.menu,.menu.main-menu>li:focus-within>.menu{max-height:100vh;opacity:1;visibility:visible}@media(min-width:48em){.menu.main-menu>li:hover>.menu,.menu.main-menu>li:focus>.menu,.menu.main-menu>li:focus-within>.menu{display:inline-block}}@media(min-width:48em){.menu.main-menu>li>a:focus+.menu{max-height:100vh;opacity:1;visibility:visible;display:inline-block}}@media(min-width:48em){.menu.main-menu>li:nth-child(n+7):not(.subscribeHeader-item){display:none}}@media(min-width:64em){.menu.main-menu>li:nth-child(n+7):not(.subscribeHeader-item){display:table-cell}}.menu.main-menu>li:nth-last-child(-n+4):not(.subscribeHeader-item){display:block}@media(min-width:48em){.menu.main-menu>li:nth-last-child(-n+4):not(.subscribeHeader-item){display:none}}@media(min-width:48em){.menu.main-menu>li:nth-last-child(-n+5)
+        ul{left:auto;right:-1px}}.menu.main-menu>li>a,.menu.main-menu>li .subscribeHeader{text-transform:uppercase;border-bottom:1px
+        solid #dcdcdc}@media(min-width:48em){.menu.main-menu>li>a,.menu.main-menu>li
+        .subscribeHeader{padding:.5em;border:0}}.menu.main-menu>li button{display:block;position:absolute;top:0;right:0;background-color:transparent;color:#000;padding:.6em
+        1em}@media(min-width:48em){.menu.main-menu>li button{display:none}}.menu.main-menu>li
+        button span{display:none}.menu.main-menu .menu-level-2,.menu.main-menu .menu-level-3{visibility:hidden;display:none;margin:0;padding:0;max-height:0;opacity:0;background-color:#fff;position:relative;top:138px;left:100%;width:100%;height:0;transform:translateZ(0);perspective:1000;transition:background-color
+        200ms,max-height 200ms,opacity 200ms}@media(min-width:48em){.menu.main-menu
+        .menu-level-2,.menu.main-menu .menu-level-3{background-color:#fff;border:1px
+        solid #000;top:calc(100% - 1px);left:-1px;width:auto;height:auto;position:absolute;overflow:hidden}}.menu.main-menu
+        .menu-level-2.open,.menu.main-menu .menu-level-3.open{z-index:4}.menu.main-menu
+        .menu-level-2 li,.menu.main-menu .menu-level-3 li{text-align:left}.menu.main-menu
+        .menu-level-2 a,.menu.main-menu .menu-level-3 a{padding:1em;width:100%}@media(min-width:48em){.menu.main-menu
+        .menu-level-2 a,.menu.main-menu .menu-level-3 a{padding:.25em 1em}}.menu.main-menu
+        .menu-level-3{display:block}@media(min-width:48em){.menu.main-menu .menu-level-3{display:none}}.offcanvas-toggle{background-color:transparent;text-transform:capitalize;color:#007eb2;position:absolute;left:0;padding:0
+        1em;height:60px;top:0;display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center}@media(min-width:48em){.offcanvas-toggle{display:none}}.offcanvas-toggle>i{font-size:30px;font-size:3rem;margin-right:.25em}.offcanvas-toggle
+        span{display:none}@media(min-width:23.75em){.offcanvas-toggle span{display:block}}.top-bar{clear:both;min-height:42px}@media(min-width:0)
+        and (max-width:48em){.top-bar{position:absolute;top:100%;display:block;left:0;right:0;bottom:0;background-color:#fff;padding:0
+        15px 10px}.top-bar .pane-menu-header-browse-menu,.top-bar .pane-system-user-menu{display:none}}@media(min-width:48em){.top-bar{background-color:transparent}}@media(min-width:48em){.top-bar
+        .pane-menu-header-browse-menu,.top-bar .pane-system-user-menu,.top-bar .search{display:inline-block}}.top-bar
+        .search{display:block}.stuck .top-bar{min-height:50px;display:block;position:absolute;bottom:0;right:0;top:100%;background-color:#fff}@media(min-width:0)
+        and (max-width:48em){.stuck .top-bar .search{display:block}}@media(min-width:48em){.stuck
+        .top-bar{position:absolute;top:100%;display:none;left:0;right:0;background-color:#fff;padding:10px
+        30px;min-height:50px}.stuck .top-bar .pane-menu-header-browse-menu,.stuck
+        .top-bar .pane-system-user-menu,.stuck .top-bar .search{display:none}}.top-bar.active:after{content:\"\";display:table;clear:both}@media(min-width:0)
+        and (max-width:48em){.top-bar.active{position:absolute;top:100%;display:block;right:0;bottom:0;background-color:#fff}.top-bar.active
+        .pane-menu-header-browse-menu,.top-bar.active .search{display:none}}@media(min-width:48em){.top-bar.active{background-color:transparent}}.stuck
+        .top-bar.active .pane-menu-header-browse-menu{display:none}@media(min-width:0)
+        and (max-width:48em){.stuck .top-bar.active .search{display:none}}@media(min-width:48em){.stuck
+        .top-bar.active .search{display:none}}@media(min-width:48em){.top-bar{display:block;position:relative}}.breadcrumb{color:#5c5c5c;font-family:\"Work
+        Sans\",sans-serif;margin-bottom:15px;font-size:14px;font-size:1.4rem}.breadcrumb
+        a{text-decoration:none}.breadcrumb span{display:none}@media(min-width:31.25em){.breadcrumb
+        span{display:inline}}.breadcrumb span.last{display:inline}ul.user-icons{display:inline-block;margin:0;padding:0;z-index:2}ul.user-icons
+        li{display:inline-block;margin:0;padding:0;vertical-align:middle}@media(min-width:0)
+        and (max-width:48em){ul.user-icons li{min-width:30px}}@media(min-width:31.25em){ul.user-icons
+        li{width:50%;float:left}}ul.user-icons a{font-weight:700}ul.user-icons .subscribeHeader{padding:0
+        1em;height:69px;display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;font-family:\"Work
+        Sans\",sans-serif}ul.user-icons .user-menu-icon{background-image:url(//www.agriculture.com/sites/all/themes/custom/sfg/img/icons/blue/person.svg);background-position:center
+        center}ul.user-icons .user-menu-icon.active{background-image:url(//www.agriculture.com/sites/all/themes/custom/sfg/img/icons/blue/times-circle.svg)}ul.user-icons
+        .search-icon{background-image:url(//www.agriculture.com/sites/all/themes/custom/sfg/img/icons/blue/search.svg);background-position:center
+        center}ul.user-icons .search-icon.search-active{background-image:url(//www.agriculture.com/sites/all/themes/custom/sfg/img/icons/blue/times-circle.svg)}\n.view-tips
+        h2{margin-bottom:1rem;text-transform:uppercase}.view-tips h3{font-size:1.8rem}.view-tips
+        h3.pane-title{text-transform:uppercase}.view-tips p{font-size:1.6rem;margin-top:1rem}.view-tips
+        p::after{content:'';clear:both}.view-tips p picture,.view-tips p img{display:block;height:auto;width:100%}.view-tips
+        p a:not(.views-more-link){display:block;width:100%;margin:0 0 15px}@media(min-width:48em){.view-tips
+        p a:not(.views-more-link){width:50%;float:right;margin:0 0 15px 15px}}.pane-page-site-name{min-width:60px;display:block;vertical-align:middle}@media(min-width:64em){.pane-page-site-name
+        .pane-content{margin:0 auto;width:68%}}.pane-page-site-name a{position:relative;display:block;margin:0;padding:0;text-indent:-1000px;overflow:hidden;height:0;padding-bottom:11.70569%}@media(min-width:64em){.pane-page-site-name
+        a{padding-bottom:10.89744%;width:100%}}.pane-page-site-name a:before{content:'';position:absolute;top:50%;left:0;width:100%;height:100%;transform:translate(0,-50%);background-size:contain;background-position:center
+        center;background-repeat:no-repeat;background-image:url(//www.agriculture.com/sites/all/themes/custom/sfg/img/logos/successful-farming-ag-small.svg)}@media(min-width:64em){.pane-page-site-name
+        a:before{background-image:url(//www.agriculture.com/sites/all/themes/custom/sfg/img/logos/successful-farming-ag.svg)}}@media(min-width:48em){.pane-page-site-name{margin:7.5px
+        1% 7.5px 0;padding-left:0}}.stuck .pane-page-site-name .pane-content{margin:0;width:auto;height:100%;padding:.25em
+        0}.stuck .pane-page-site-name a{height:100%;min-height:55px}@media(min-width:48em){.stuck
+        .pane-page-site-name a:before{background-image:url(//www.agriculture.com/sites/all/themes/custom/sfg/img/logos/logo-sf.png)}}.pane-sfg-header-user-menu,.pane-menu-header-browse-menu{padding:0;font-family:\"Work
+        Sans\",sans-serif;font-size:13px;font-size:1.3rem}@media(min-width:48em){.pane-sfg-header-user-menu,.pane-menu-header-browse-menu{padding:7.5px
+        10px}}@media(min-width:64em){.pane-sfg-header-user-menu,.pane-menu-header-browse-menu{font-size:14px;font-size:1.4rem}}.pane-sfg-header-user-menu
+        ul,.pane-menu-header-browse-menu ul{margin:0;padding:0}.pane-sfg-header-user-menu
+        li,.pane-sfg-header-user-menu li.leaf,.pane-sfg-header-user-menu li.collapsed,.pane-menu-header-browse-menu
+        li,.pane-menu-header-browse-menu li.leaf,.pane-menu-header-browse-menu li.collapsed{display:block;list-style:none;list-style-type:none;list-style-image:none;padding:.2em
+        .5em 0 0;margin:0}@media(min-width:0) and (max-width:48em){.pane-sfg-header-user-menu
+        li,.pane-sfg-header-user-menu li.leaf,.pane-sfg-header-user-menu li.collapsed,.pane-menu-header-browse-menu
+        li,.pane-menu-header-browse-menu li.leaf,.pane-menu-header-browse-menu li.collapsed{margin:0;padding:0;list-style:none;list-style-type:none;list-style-image:none}.pane-sfg-header-user-menu
+        li a,.pane-sfg-header-user-menu li.leaf a,.pane-sfg-header-user-menu li.collapsed
+        a,.pane-menu-header-browse-menu li a,.pane-menu-header-browse-menu li.leaf
+        a,.pane-menu-header-browse-menu li.collapsed a{display:block;background-color:#fff}}@media(min-width:48em){.pane-sfg-header-user-menu
+        li,.pane-sfg-header-user-menu li.leaf,.pane-sfg-header-user-menu li.collapsed,.pane-menu-header-browse-menu
+        li,.pane-menu-header-browse-menu li.leaf,.pane-menu-header-browse-menu li.collapsed{display:inline-block}}.pane-sfg-header-user-menu
+        a,.pane-sfg-header-user-menu a:link,.pane-sfg-header-user-menu a:visited,.pane-menu-header-browse-menu
+        a,.pane-menu-header-browse-menu a:link,.pane-menu-header-browse-menu a:visited{color:#5c5c5c;text-decoration:none}@media(min-width:0)
+        and (max-width:48em){.pane-sfg-header-user-menu a,.pane-sfg-header-user-menu
+        a:link,.pane-sfg-header-user-menu a:visited,.pane-menu-header-browse-menu
+        a,.pane-menu-header-browse-menu a:link,.pane-menu-header-browse-menu a:visited{padding:1em
+        1.5em}}.pane-sfg-header-user-menu a.active,.pane-sfg-header-user-menu a:hover,.pane-sfg-header-user-menu
+        a:focus,.pane-sfg-header-user-menu a:link.active,.pane-sfg-header-user-menu
+        a:link:hover,.pane-sfg-header-user-menu a:link:focus,.pane-sfg-header-user-menu
+        a:visited.active,.pane-sfg-header-user-menu a:visited:hover,.pane-sfg-header-user-menu
+        a:visited:focus,.pane-menu-header-browse-menu a.active,.pane-menu-header-browse-menu
+        a:hover,.pane-menu-header-browse-menu a:focus,.pane-menu-header-browse-menu
+        a:link.active,.pane-menu-header-browse-menu a:link:hover,.pane-menu-header-browse-menu
+        a:link:focus,.pane-menu-header-browse-menu a:visited.active,.pane-menu-header-browse-menu
+        a:visited:hover,.pane-menu-header-browse-menu a:visited:focus{color:#007eb2}@media(min-width:48em){.stuck
+        .pane-sfg-header-user-menu,.stuck .pane-menu-header-browse-menu{padding:0;background-color:rgba(255,255,255,0.95)}}.stuck
+        .pane-sfg-header-user-menu a.active,.stuck .pane-sfg-header-user-menu a:hover,.stuck
+        .pane-sfg-header-user-menu a:focus,.stuck .pane-sfg-header-user-menu a:link.active,.stuck
+        .pane-sfg-header-user-menu a:link:hover,.stuck .pane-sfg-header-user-menu
+        a:link:focus,.stuck .pane-sfg-header-user-menu a:visited.active,.stuck .pane-sfg-header-user-menu
+        a:visited:hover,.stuck .pane-sfg-header-user-menu a:visited:focus,.stuck .pane-menu-header-browse-menu
+        a.active,.stuck .pane-menu-header-browse-menu a:hover,.stuck .pane-menu-header-browse-menu
+        a:focus,.stuck .pane-menu-header-browse-menu a:link.active,.stuck .pane-menu-header-browse-menu
+        a:link:hover,.stuck .pane-menu-header-browse-menu a:link:focus,.stuck .pane-menu-header-browse-menu
+        a:visited.active,.stuck .pane-menu-header-browse-menu a:visited:hover,.stuck
+        .pane-menu-header-browse-menu a:visited:focus{color:#fff;background-color:#007eb2}.stuck
+        .pane-sfg-header-user-menu li,.stuck .pane-menu-header-browse-menu li{display:block;list-style:none;list-style-type:none;list-style-image:none;margin:0;padding:0}.top-bar
+        .search{position:relative}.top-bar .search .form-item-search-block-form,.top-bar
+        .search .view-public-site-search{width:100%;display:inline-block;float:right}.top-bar
+        .search .form-item{margin:0}.top-bar .search .views-exposed-form .views-exposed-widgets{margin:0}.top-bar
+        .search .views-exposed-form .views-exposed-widget{padding:0}.top-bar .search
+        .views-widget-filter-search_api_views_fulltext,.top-bar .search input.form-text{font-size:14px;font-size:1.4rem;display:inline-block;padding:0
+        2px 0 40px;height:33px;width:100%}@media(min-width:48em){.top-bar .search
+        .views-widget-filter-search_api_views_fulltext,.top-bar .search input.form-text{padding:2px
+        2px 2px 40px;height:40px}}.top-bar .search .form-actions,.top-bar .search
+        .views-submit-button{width:30px;position:absolute;top:2px;left:5px;float:none}@media(min-width:48em){.top-bar
+        .search .form-actions,.top-bar .search .views-submit-button{top:5px}}.top-bar
+        .search input.form-submit{display:block;height:30px;width:30px;margin:0}.top-bar
+        .search input[type=submit]{padding:0}.top-bar .search #edit-submit-public-site-search{background-image:url(//www.agriculture.com/sites/all/themes/custom/sfg/img/icons/blue/search.svg);display:block;text-indent:-1000px;overflow:hidden;cursor:pointer;background-size:24px;background-position:center
+        center;background-repeat:no-repeat;height:30px;width:30px;background-color:transparent}.stuck
+        .top-bar .search{max-width:100%;margin:0 auto;float:none}.stuck .top-bar .search
+        input.form-text{max-width:100%}.pane-menu-header-browse-menu{border-bottom:1px
+        solid #5c5c5c}@media(min-width:48em){.pane-menu-header-browse-menu{border-bottom:0}}.stuck
+        .pane-menu-header-browse-menu{border-bottom:1px solid #5c5c5c}.pane-homepage-content-featured-content{margin-top:15px;background-color:#fff}@media(min-width:48em){.pane-homepage-content-featured-content{margin-top:0}\n}@media(min-width:48em){.pane-homepage-content-featured-content
+        .view-content{display:-ms-flexbox;display:flex}}.pane-homepage-content-featured-content
+        .views-row{border:1px solid #5c5c5c;position:relative;margin:0 0 7.5px;padding-bottom:0}@media(min-width:48em){.pane-homepage-content-featured-content
+        .views-row{-ms-flex-flow:row wrap;flex-flow:row wrap;width:25%;margin:0 7.5px;padding-bottom:40px}}.pane-homepage-content-featured-content
+        .views-row.views-row-first{margin-left:0}.pane-homepage-content-featured-content
+        .views-row.views-row-last{margin-right:0}.pane-homepage-content-featured-content
+        .views-field{margin:0 15px}.pane-homepage-content-featured-content .views-field-title{padding-top:10px;font-family:\"Work
+        Sans\",sans-serif}@media(min-width:48em){.pane-homepage-content-featured-content
+        .views-field-title{padding-top:15px}}.pane-homepage-content-featured-content
+        .views-field-created{padding-bottom:10px;font-family:\"Work Sans\",sans-serif;position:relative;bottom:0;white-space:nowrap;font-size:1.6rem}@media(min-width:48em){.pane-homepage-content-featured-content
+        .views-field-created{padding-bottom:15px;position:absolute;bottom:0}}@media(min-width:64em){.pane-homepage-content-featured-content
+        .views-field-created{font-size:2rem}}.pane-homepage-content-featured-content
+        .field-image{display:none;padding:0}.pane-homepage-content-featured-content
+        .field-image img{width:100%}@media(min-width:48em){.pane-homepage-content-featured-content
+        .field-image{display:block}}.pane-homepage-content-featured-content .views-row-first
+        .field-image{display:block}.pane-homepage-content-featured-content .views-field-name{float:none;margin:6px
+        15px}.pane-homepage-content-panel-pane-4{display:none;margin-top:30px}@media(min-width:48em){.pane-homepage-content-panel-pane-4{display:inline-block}.pane-homepage-content-panel-pane-4
+        .views-field-title{font-family:\"Work Sans\",sans-serif;margin-top:15px}.pane-homepage-content-panel-pane-4
+        .views-field-title a{text-decoration:none}.pane-homepage-content-panel-pane-4
+        .views-row{float:left;width:31%;margin-right:3.5%}.pane-homepage-content-panel-pane-4
+        .views-row .views-field-field-image{position:relative}.pane-homepage-content-panel-pane-4
+        .views-row-last{margin-right:0}}.pane-homepage-content-panel-pane-4 .type-video{overflow:hidden;text-indent:-9000px;display:block;background:url(//www.agriculture.com/sites/all/themes/custom/sfg/img/icons/#fff/video.svg)
+        no-repeat scroll 0 0;position:absolute;background-size:85px;width:85px;height:85px;pointer-events:none;background-position:center;top:50%;left:50%;transform:translate(-50%,-50%)}</style>\n<script>(function(w,
+        d) {\n  'use strict';\n\n  var raf = w.requestAnimationFrame || w.mozRequestAnimationFrame
+        || w.webkitRequestAnimationFrame || w.msRequestAnimationFrame || false;\n
+        \ var f = [[\"https:\\/\\/cdnjs.cloudflare.com\\/ajax\\/libs\\/font-awesome\\/4.4.0\\/css\\/font-awesome.min.css\",\"all\"],[\"https:\\/\\/www.agriculture.com\\/sites\\/default\\/files\\/advagg_css\\/css__b7f4Y4cEq7wo_Bz2_FsyIrgAIOH2QBizz-ElaPR7ToA__hM1CbgvFXkIEtg56DMJZ1Wo9htH-xisoZIcKaEMd8Ao__iO5usVntQNhvAiNJ-o0V3dAXekZMy_R1Kv-fSTd8xOU.css\",\"all\"],[\"https:\\/\\/www.agriculture.com\\/sites\\/default\\/files\\/advagg_css\\/css__BF8W_blKQtPnbjQTY9x1jeMYAPMgw_DaHD_Jx-1OrhE__VgwyfQt-yRZrTCQFX_pOadE6PR9mZKmik_FgvfGFGJc__iO5usVntQNhvAiNJ-o0V3dAXekZMy_R1Kv-fSTd8xOU.css\",\"screen\"],[\"https:\\/\\/www.agriculture.com\\/sites\\/default\\/files\\/advagg_css\\/css__Aj4yhLZAp5EEWrzJ48nq2_Qg6GHlDOHNWEO7QyAG7rA__KGCJU9NUhejtMD36jRMMDcyD9jtIdx2PFwHUa2Q8r7c__iO5usVntQNhvAiNJ-o0V3dAXekZMy_R1Kv-fSTd8xOU.css\",\"all\"],[\"https:\\/\\/www.agriculture.com\\/sites\\/default\\/files\\/advagg_css\\/css__vIxjK4HDHDq4VdmJ08n3oLJFikfJ_2MRFNMKkLcZpyI__iHa0X2MiKbqRNYX9Ih7S-eVeM8pAGh_nePGj94fDCiM__iO5usVntQNhvAiNJ-o0V3dAXekZMy_R1Kv-fSTd8xOU.css\",\"print\"]];\n\n
+        \ function _loadCss(s) {\n    for (var i = 0; i < s.length; ++i) {\n      var
+        l = d.createElement('link');\n      l.rel = 'stylesheet';\n      l.href =
+        s[i][0];\n      l.media = s[i][1];\n\n      var h = d.getElementsByTagName('head')[0];\n
+        \     h.parentNode.insertBefore(l, h);\n    }\n  }\n\n  if (raf) {\n    raf(function()
+        {\n      _loadCss(f);\n    });\n  }\n  else {\n    setTimeout(function() {\n
+        \     _loadCss(f);\n    }, 0);\n  }\n}(this, this.document));</script>\n<noscript>\n<link
+        rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css\"
+        />\n</noscript><noscript>\n<link rel=\"stylesheet\" href=\"https://www.agriculture.com/sites/default/files/advagg_css/css__b7f4Y4cEq7wo_Bz2_FsyIrgAIOH2QBizz-ElaPR7ToA__hM1CbgvFXkIEtg56DMJZ1Wo9htH-xisoZIcKaEMd8Ao__iO5usVntQNhvAiNJ-o0V3dAXekZMy_R1Kv-fSTd8xOU.css\"
+        />\n</noscript><noscript>\n<link rel=\"stylesheet\" href=\"https://www.agriculture.com/sites/default/files/advagg_css/css__BF8W_blKQtPnbjQTY9x1jeMYAPMgw_DaHD_Jx-1OrhE__VgwyfQt-yRZrTCQFX_pOadE6PR9mZKmik_FgvfGFGJc__iO5usVntQNhvAiNJ-o0V3dAXekZMy_R1Kv-fSTd8xOU.css\"
+        media=\"screen\" />\n</noscript><noscript>\n<link rel=\"stylesheet\" href=\"https://www.agriculture.com/sites/default/files/advagg_css/css__Aj4yhLZAp5EEWrzJ48nq2_Qg6GHlDOHNWEO7QyAG7rA__KGCJU9NUhejtMD36jRMMDcyD9jtIdx2PFwHUa2Q8r7c__iO5usVntQNhvAiNJ-o0V3dAXekZMy_R1Kv-fSTd8xOU.css\"
+        />\n</noscript><noscript>\n<link rel=\"stylesheet\" href=\"https://www.agriculture.com/sites/default/files/advagg_css/css__vIxjK4HDHDq4VdmJ08n3oLJFikfJ_2MRFNMKkLcZpyI__iHa0X2MiKbqRNYX9Ih7S-eVeM8pAGh_nePGj94fDCiM__iO5usVntQNhvAiNJ-o0V3dAXekZMy_R1Kv-fSTd8xOU.css\"
+        media=\"print\" />\n</noscript>    <script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js\"></script>\n<script>;function
+        advagg_mod_1(){advagg_mod_1.count=++advagg_mod_1.count||1;try{if(advagg_mod_1.count<=40){window.jQuery||document.write(\"<script
+        src='/sites/all/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js'>\\x3C/script>\");advagg_mod_1.count=100}}catch(d){if(advagg_mod_1.count>=40){throw
+        d}\nelse{window.setTimeout(advagg_mod_1,250)}}};function advagg_mod_1_check(){if(window.jQuery&&window.Drupal&&window.Drupal.settings){advagg_mod_1()}\nelse{window.setTimeout(advagg_mod_1_check,250)}};advagg_mod_1_check();</script>\n<script
+        src=\"https://www.agriculture.com/sites/default/files/advagg_js/js__zFsEYrngTCijWa7VXnmBYQBsHcKRFfi_IFHcHBfE17M__ulENYEP4VZhPvQrQYJt8XxNARFAAxFCP9AILl76YTeI__iO5usVntQNhvAiNJ-o0V3dAXekZMy_R1Kv-fSTd8xOU.js\"></script>\n<script>window.karma
+        = window.karma || {};\n    window.karma.config = {\"apiVersion\":3,\"isMobile\":false,\"site\":\"ag.mdp.com\",\"targeting\":{\"id\":\"79\",\"type\":\"category\",\"channel\":\"Markets\",\"parent\":\"Markets
+        Analysis\",\"child\":\"Crop Markets\"}};\n    window.karma.config.callback
+        = window.karma.config.callback || [];\n    // Minified snippet supplied by
+        AD team.\n    !function(a,e){function m(){if(a.karma.vars=a.karma.vars||{},!(a.karma.vars.kismetReported||null!==e.querySelector('img[src$=\"kismet/spacer.png\"]'))){a.karma.vars.kismetReported=!0;var
+        r=e.createElement('img');r.src='/kismet/spacer.png',e.body.appendChild(r);var
+        z=e.createElement(\"script\");z.src=\"https://meredith-com.videoplayerhub.com/galleryloader.js\",z.onload=function(){BT.clearThrough([{parentElem:\"div-gpt-leaderboard-flex-1\",uid:\"bt-placementid-1\"},{parentElem:\"div-gpt-square-flex-1\",uid:\"bt-placementid-2\"},{parentElem:\"div-gpt-mob-adhesive-banner-fixed\",uid:\"bt.placementid-3\"},{parentElem:\"div-gpt-mob-square-flex-1\",uid:\"bt.placementid-4\"}])},e.head.appendChild(z)}};a.karma.cmd=a.karma.cmd||[],a.karma.config.go=function(){a.karma.cmd.push('go')};var
+        r=e.createElement('script');r.src='https://karma.mdpcdn.com/service/js-min/karma.js',r.onload=r.onreadystatechange=function(){var
+        a=this.readyState;a&&'complete'!=a&&'loaded'!=a&&m()},r.onerror=m;var o=e.getElementsByTagName('script')[0];o.parentNode.insertBefore(r,o)}(window,document);\n
+        \   </script>\n<script>jQuery.extend(Drupal.settings,{\"basePath\":\"\\/\",\"pathPrefix\":\"\",\"ajaxPageState\":{\"theme\":\"sfg\",\"theme_token\":\"ID2cqLtv63y2HWs9Pq6ZsBZu4b0PCGdyvXYAuZx7_y8\",\"jquery_version\":\"1.10\",\"css\":{\"https:\\/\\/cdnjs.cloudflare.com\\/ajax\\/libs\\/font-awesome\\/4.4.0\\/css\\/font-awesome.min.css\":1,\"modules\\/system\\/system.base.css\":1,\"modules\\/system\\/system.menus.css\":1,\"modules\\/system\\/system.messages.css\":1,\"modules\\/system\\/system.theme.css\":1,\"sites\\/all\\/libraries\\/chosen\\/chosen.css\":1,\"sites\\/all\\/modules\\/contrib\\/chosen\\/css\\/chosen-drupal.css\":1,\"sites\\/all\\/modules\\/contrib\\/picture\\/lazysizes\\/plugins\\/aspectratio\\/ls.aspectratio.css\":1,\"sites\\/all\\/modules\\/contrib\\/date\\/date_api\\/date.css\":1,\"sites\\/all\\/modules\\/contrib\\/date\\/date_popup\\/themes\\/datepicker.1.7.css\":1,\"modules\\/field\\/theme\\/field.css\":1,\"modules\\/node\\/node.css\":1,\"sites\\/all\\/modules\\/contrib\\/picture\\/picture_wysiwyg.css\":1,\"modules\\/user\\/user.css\":1,\"sites\\/all\\/modules\\/contrib\\/views\\/css\\/views.css\":1,\"sites\\/all\\/modules\\/contrib\\/ckeditor\\/css\\/ckeditor.css\":1,\"sites\\/all\\/modules\\/contrib\\/ctools\\/css\\/ctools.css\":1,\"sites\\/all\\/modules\\/contrib\\/panels\\/css\\/panels.css\":1,\"sites\\/all\\/modules\\/features\\/sfg_feature_reuters_connect\\/css\\/reuters-attribution.css\":1,\"sites\\/all\\/themes\\/custom\\/sfg\\/css\\/critical.css\":1,\"sites\\/all\\/themes\\/custom\\/sfg\\/css\\/style.css\":1,\"sites\\/all\\/themes\\/custom\\/sfg\\/css\\/print.css\":1},\"js\":{\"http:\\/\\/admin.brightcove.com\\/js\\/BrightcoveExperiences.js\":1,\"https:\\/\\/ajax.googleapis.com\\/ajax\\/libs\\/webfont\\/1.6.26\\/webfont.js\":1,\"misc\\/jquery-extend-3.4.0.js\":1,\"misc\\/jquery-html-prefilter-3.5.0-backport.js\":1,\"sites\\/all\\/modules\\/contrib\\/picture\\/lazysizes\\/lazysizes.min.js\":1,\"sites\\/all\\/modules\\/contrib\\/picture\\/lazysizes\\/plugins\\/aspectratio\\/ls.aspectratio.min.js\":1,\"sites\\/all\\/modules\\/contrib\\/jquery_update\\/replace\\/ui\\/external\\/jquery.cookie.js\":1,\"sites\\/all\\/modules\\/contrib\\/jquery_update\\/replace\\/misc\\/jquery.form.min.js\":1,\"sites\\/all\\/modules\\/contrib\\/jquery_update\\/js\\/jquery_update.js\":1,\"sites\\/all\\/libraries\\/chosen\\/chosen.jquery.min.js\":1,\"sites\\/all\\/modules\\/contrib\\/views\\/js\\/base.js\":1,\"misc\\/progress.js\":1,\"sites\\/all\\/modules\\/contrib\\/views\\/js\\/ajax_view.js\":1,\"sites\\/all\\/libraries\\/purl\\/purl.js\":1,\"sites\\/all\\/modules\\/contrib\\/better_exposed_filters\\/better_exposed_filters.js\":1,\"sites\\/all\\/libraries\\/waypoints\\/lib\\/jquery.waypoints.min.js\":1,\"sites\\/all\\/libraries\\/waypoints\\/lib\\/shortcuts\\/sticky.min.js\":1,\"sites\\/all\\/modules\\/contrib\\/chosen\\/chosen.js\":1,\"sites\\/all\\/themes\\/custom\\/sfg\\/js\\/toggle.js\":1,\"sites\\/all\\/themes\\/custom\\/sfg\\/js\\/script.js\":1,\"sites\\/all\\/themes\\/custom\\/sfg\\/js\\/mainmenu.js\":1,\"sites\\/all\\/themes\\/custom\\/sfg\\/js\\/category-menu.js\":1,\"sites\\/all\\/themes\\/custom\\/sfg\\/js\\/weather-menu.js\":1,\"sites\\/all\\/themes\\/custom\\/sfg\\/js\\/video.js\":1,\"sites\\/all\\/themes\\/custom\\/sfg\\/js\\/mdpShareBar.js\":1,\"sites\\/all\\/modules\\/mag\\/features\\/mag_feature_category\\/js\\/mag_feature_category_pagination.js\":1,\"https:\\/\\/community.agriculture.com\\/t5\\/activecast\\/latestthreadspage?profile.language=en\\u0026activecast.parent_element_id=lia-ac-lt-marketing\":1,\"sites\\/all\\/modules\\/mag\\/custom\\/mag_advertisements\\/js\\/lazy-load.js\":1,\"sites\\/all\\/modules\\/contrib\\/picture\\/picturefill2\\/picturefill.min.js\":1,\"sites\\/all\\/modules\\/contrib\\/picture\\/picture.min.js\":1,\"sites\\/all\\/libraries\\/onScreen\\/jquery.onscreen.min.js\":1,\"sites\\/all\\/modules\\/contrib\\/views_infinite_scroll\\/views-infinite-scroll.js\":1,\"sites\\/all\\/modules\\/custom\\/sfg_gtm\\/js\\/sfg_gtm_helper.js\":1,\"sites\\/all\\/modules\\/mag\\/custom\\/mag_gtm\\/js\\/mag_gtm.js\":1,\"\\/\\/ajax.googleapis.com\\/ajax\\/libs\\/jquery\\/1.10.2\\/jquery.min.js\":1,\"misc\\/jquery.once.js\":1,\"misc\\/drupal.js\":1,\"misc\\/ajax.js\":1}},\"better_exposed_filters\":{\"views\":{\"tips\":{\"displays\":{\"panel_pane_2\":{\"filters\":[]}}},\"category_content\":{\"displays\":{\"category_news\":{\"filters\":[]},\"category_recent_content_first_three\":{\"filters\":{\"field_category_tid\":{\"required\":false}}},\"featured_content\":{\"filters\":[]},\"category_recent_content_offset_three\":{\"filters\":{\"field_category_tid\":{\"required\":false}}}}}},\"datepicker\":false,\"slider\":false,\"settings\":[],\"autosubmit\":false},\"chosen\":{\"selector\":\"select.select-chosen:visible\",\"minimum_single\":0,\"minimum_multiple\":0,\"minimum_width\":200,\"options\":{\"disable_search\":true,\"disable_search_threshold\":0,\"search_contains\":false,\"placeholder_text_multiple\":\"Choose
+        some options\",\"placeholder_text_single\":\"Choose an option\",\"no_results_text\":\"No
+        results match\",\"inherit_select_classes\":true}},\"urlIsAjaxTrusted\":{\"https:\\/\\/www.agriculture.com\\/\":true,\"https:\\/\\/www.agriculture.com\\/views\\/ajax\":true,\"https:\\/\\/www.agriculture.com\\/search\":true},\"views\":{\"ajax_path\":\"https:\\/\\/www.agriculture.com\\/views\\/ajax\",\"ajaxViews\":{\"views_dom_id:07d8f7db93eefb3e448ff2af391b1b4d\":{\"view_name\":\"category_content\",\"view_display_id\":\"category_recent_content_first_three\",\"view_args\":\"79\",\"view_path\":\"taxonomy\\/term\\/79\",\"view_base_path\":null,\"view_dom_id\":\"07d8f7db93eefb3e448ff2af391b1b4d\",\"pager_element\":0},\"views_dom_id:566fdbd0eeb43353c430c1cb6837917c\":{\"view_name\":\"category_content\",\"view_display_id\":\"category_recent_content_offset_three\",\"view_args\":\"79\",\"view_path\":\"taxonomy\\/term\\/79\",\"view_base_path\":null,\"view_dom_id\":\"566fdbd0eeb43353c430c1cb6837917c\",\"pager_element\":0}}},\"views_infinite_scroll\":{\"img_path\":\"https:\\/\\/www.agriculture.com\\/sites\\/all\\/modules\\/contrib\\/views_infinite_scroll\\/images\\/ajax-loader.gif\",\"scroll_threshold\":200},\"picture\":{\"mappings\":[[\"Image
+        Embed | 1\\/2 Width\",\"image_embed_1_2_width\"],[\"Image Embed | 1\\/4 Width\",\"image_embed_1_4_width\"],[\"Image
+        Embed | 3\\/4 Width\",\"image_embed_3_4_width\"],[\"Image Embed | Full\",\"image_embed_full\"],[\"Not
+        Set\",\"not_set\"]],\"label\":\"Image size (required)\"},\"mag_gtm_helpers\":[\"sfg_gtm_mag_gtm_helper\"],\"mag_gtm\":{\"Channel\":\"Markets\",\"Category\":\"Markets:Markets
+        Analysis\",\"Subcategory\":\"Markets:Markets Analysis:Crop Markets\",\"Content
+        ID\":\"term:79\",\"Site Name\":\"ag\",\"Content Type\":\"category\",\"Commerce
+        Enabled?\":\"false\",\"Page Name\":\"category:Crop Markets\"}});</script>\n
+        \     </head>\n  <body class=\"html not-front not-logged-in no-sidebars page-taxonomy
+        page-taxonomy-term page-taxonomy-term- page-taxonomy-term-79 category-page
+        \ category-markets\" >\n        <div id=\"skip-link\">\n      <a href=\"#main\"
+        class=\"element-invisible element-focusable\" role=\"link\">Skip to main content</a>\n
+        \   </div>\n    \n<!-- Google Tag Manager -->\n<script>dataLayer = [{}];</script>\n<noscript><iframe
+        src=\"//www.googletagmanager.com/ns.html?id=GTM-KFQK2T\"\nheight=\"0\" width=\"0\"
+        style=\"display:none;visibility:hidden\"></iframe></noscript>\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew
+        Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-KFQK2T');</script>\n<!--
+        End Google Tag Manager -->\n    \n  <section class=\"header-ad\">\n    <div
+        class=\"panel-pane pane-mag-advertisements-karma karma-leaderboard-docking-element\"
+        \ >\n  \n      \n  \n  <div class=\"pane-content\">\n    <div data-tier=\"1\"
+        id=\"div-gpt-leaderboard-flex-1\" class=\"leaderboard\"></div>  </div>\n\n
+        \ \n  </div>\n  </section>\n\n  <header id=\"header\" role=\"banner\" class=\"site-header
+        karma-below-banner\">\n    <button data-toggle=\"collapse\" id=\"offcanvas-toggle\"
+        class=\"btn btn-navbar offcanvas-toggle\" type=\"button\" aria-label=\"Open
+        Main Menu\">\n      <i class=\"fa fa-bars\"></i>\n      <span class=\"menu-button-text\">Menu</span>\n
+        \   </button>\n          <section class=\"top-bar\">\n        <div class=\"panel-pane
+        pane-block pane-menu-header-browse-menu\"  >\n  \n      \n  \n  <div class=\"pane-content\">\n
+        \   <ul class=\"menu\"><li class=\"first leaf\"><a href=\"https://community.agriculture.com/\"
+        title=\"\">Talk</a></li>\n<li class=\"leaf\"><a href=\"https://www.agriculture.com/tv\"
+        title=\"\">TV</a></li>\n<li class=\"last leaf\"><a href=\"https://www.agriculture.com/radio\">Radio</a></li>\n</ul>
+        \ </div>\n\n  \n  </div>\n\n<div class=\"panel-pane pane-sfg-header-user-menu\"
+        \ >\n  \n      \n  \n  <div class=\"pane-content\">\n    <ul class=\"menu\"><li
+        class=\"first\"><a href=\"https://secure.agriculture.com/common/profile/login1.jsp?regSource=2544&amp;returnURL=https%3A//www.agriculture.com/markets/analysis/crops\"
+        id=\"headerLogin\" class=\"login\">Login</a></li>\n<li><a href=\"https://secure.agriculture.com/common/profile/regStep1.jsp?regSource=2544&amp;returnURL=https%3A//www.agriculture.com/markets/analysis/crops\"
+        class=\"join-now\" id=\"headerJoinNow\">Join</a></li>\n<li class=\"last\"><a
+        href=\"https://x.e.buysub.com/ats/show.aspx?cr=724&amp;fm=20\" class=\"newsletter\"
+        id=\"headerNewsletter\">Newsletter</a></li>\n</ul>  </div>\n\n  \n  </div>\n
+        \                 <section class=\"search\">\n            <div class=\"panel-pane
+        pane-block pane-views-0fd81fcb0846369d087f3390e8928891\"  >\n  \n      \n
+        \ \n  <div class=\"pane-content\">\n    <form action=\"https://www.agriculture.com/search\"
+        method=\"get\" id=\"views-exposed-form-public-site-search-search-pane\" accept-charset=\"UTF-8\"><div><div
+        class=\"views-exposed-form\">\n  <div class=\"views-exposed-widgets clearfix\">\n
+        \         <div id=\"edit-search-api-views-fulltext-wrapper\" class=\"views-exposed-widget
+        views-widget-filter-search_api_views_fulltext\">\n                        <div
+        class=\"views-widget\">\n          <div class=\"form-item form-type-textfield
+        form-item-search-api-views-fulltext\">\n <input aria-label=\"Site Search\"
+        placeholder=\"Search\" type=\"text\" id=\"edit-search-api-views-fulltext\"
+        name=\"search_api_views_fulltext\" value=\"\" size=\"30\" maxlength=\"128\"
+        class=\"form-text\" />\n</div>\n        </div>\n              </div>\n                    <div
+        class=\"views-exposed-widget views-submit-button\">\n      <input type=\"submit\"
+        id=\"edit-submit-public-site-search\" name=\"\" value=\"Search\" class=\"form-submit\"
+        />    </div>\n      </div>\n</div>\n</div></form>  </div>\n\n  \n  </div>\n
+        \         </section>\n              </section>\n    \n    <div class=\"panel-pane
+        pane-page-site-name\"  >\n  \n      \n  \n  <div class=\"pane-content\">\n
+        \   <a href=\"https://www.agriculture.com/\">Successful Farming</a>  </div>\n\n
+        \ \n  </div>\n\n          <ul class=\"user-icons\">\n        <li>\n          <a
+        href=\"#\" title=\"Subscribe\" role=\"menuitem\" class=\"subscribeHeader\"
+        id=\"subscribeHeader\">Subscribe</a>\n        </li>\n      </ul>\n    \n          <div
+        class=\"panel-pane pane-block pane-menu-block-1\"  >\n  \n      \n  \n  <div
+        class=\"pane-content\">\n    <ul id=\"menu-main-menu\" class=\"menu main-menu
+        menu-level-1\" role=\"menubar\" aria-label=\"main menu\"><li class=\"first
+        expanded menu-mlid-429\"><a href=\"https://www.agriculture.com/news\" title=\"News\"
+        role=\"menuitem\" aria-haspopup=\"true\" aria-expanded=\"false\" tabindex=\"0\"
+        class=\"menu-item-level-2\">News</a><button aria-label=\"Open Sub Menu\"><i
+        class=\"fa fa-arrow-right\"></i><span>Back to Main</span></button><ul class=\"menu
+        menu-level-2\" role=\"menu\" aria-label=\"News\"><li class=\"first leaf menu-mlid-430\"><a
+        href=\"https://www.agriculture.com/news/business\" title=\"Business News\"
+        role=\"menuitem\" tabindex=\"0\">Business News</a></li><li class=\"leaf menu-mlid-431\"><a
+        href=\"https://www.agriculture.com/news/crops\" title=\"Crops News\" role=\"menuitem\"
+        tabindex=\"0\">Crops News</a></li><li class=\"leaf menu-mlid-432\"><a href=\"https://www.agriculture.com/news/livestock\"
+        title=\"Livestock News\" role=\"menuitem\" tabindex=\"0\">Livestock News</a></li><li
+        class=\"leaf menu-mlid-433\"><a href=\"https://www.agriculture.com/news/machinery\"
+        title=\"Machinery News\" role=\"menuitem\" tabindex=\"0\">Machinery News</a></li><li
+        class=\"leaf menu-mlid-434\"><a href=\"https://www.agriculture.com/news/technology\"
+        title=\"Technology News\" role=\"menuitem\" tabindex=\"0\">Technology News</a></li><li
+        class=\"last leaf menu-mlid-654\"><a href=\"https://www.agriculture.com/news/sf-blog\"
+        title=\"SF Blog\" role=\"menuitem\" tabindex=\"0\">SF Blog</a></li></ul></li><li
+        class=\"expanded active-trail menu-mlid-435\"><a href=\"https://www.agriculture.com/markets\"
+        title=\"Markets\" role=\"menuitem\" aria-haspopup=\"true\" aria-expanded=\"false\"
+        tabindex=\"0\" class=\"menu-item-level-2\">Markets</a><button aria-label=\"Open
+        Sub Menu\"><i class=\"fa fa-arrow-right\"></i><span>Back to Main</span></button><ul
+        class=\"menu menu-level-2\" role=\"menu\" aria-label=\"Markets\"><li class=\"first
+        leaf menu-mlid-436\"><a href=\"https://www.agriculture.com/markets/commodity-prices\"
+        title=\"Commodity Prices\" role=\"menuitem\" tabindex=\"0\">Commodity Prices</a></li><li
+        class=\"leaf menu-mlid-437\"><a href=\"https://www.agriculture.com/markets/newswire\"
+        title=\"Newswire\" role=\"menuitem\" tabindex=\"0\">Newswire</a></li><li class=\"expanded
+        active-trail menu-mlid-438\"><a href=\"https://www.agriculture.com/markets/analysis\"
+        title=\"Markets Analysis\" role=\"menuitem\" aria-haspopup=\"true\" aria-expanded=\"false\"
+        tabindex=\"0\" class=\"menu-item-level-3\">Markets Analysis</a><button aria-label=\"Open
+        Sub Menu\"><i class=\"fa fa-arrow-right\"></i><span>Back to Markets Analysis</span></button><ul
+        class=\"menu menu-level-3\" role=\"menu\" aria-label=\"Markets Analysis\"><li
+        class=\"first leaf active-trail active menu-mlid-439\"><a href=\"https://www.agriculture.com/markets/analysis/crops\"
+        title=\"Crops\" role=\"menuitem\" tabindex=\"0\" class=\"active\">Crops</a></li><li
+        class=\"last leaf menu-mlid-440\"><a href=\"https://www.agriculture.com/markets/analysis/livestock\"
+        title=\"Livestock\" role=\"menuitem\" tabindex=\"0\">Livestock</a></li></ul></li><li
+        class=\"leaf menu-mlid-771\"><a href=\"https://www.agriculture.com/markets/successful-marketing\"
+        title=\"Successful Marketing\" role=\"menuitem\" tabindex=\"0\">Successful
+        Marketing</a></li><li class=\"last leaf menu-mlid-441\"><a href=\"https://www.agriculture.com/markets/your-world-in-agriculture\"
+        title=\"Your World in Agriculture\" role=\"menuitem\" tabindex=\"0\">Your
+        World in Agriculture</a></li></ul></li><li class=\"expanded menu-mlid-442\"><a
+        href=\"https://www.agriculture.com/weather/current-conditions\" title=\"Weather\"
+        role=\"menuitem\" aria-haspopup=\"true\" aria-expanded=\"false\" tabindex=\"0\"
+        class=\"menu-item-level-2\">Weather</a><button aria-label=\"Open Sub Menu\"><i
+        class=\"fa fa-arrow-right\"></i><span>Back to Main</span></button><ul class=\"menu
+        menu-level-2\" role=\"menu\" aria-label=\"Weather\"><li class=\"first leaf
+        menu-mlid-772\"><a href=\"https://www.agriculture.com/weather/current-conditions\"
+        title=\"Current Conditions\" role=\"menuitem\" tabindex=\"0\">Current Conditions</a></li><li
+        class=\"leaf menu-mlid-773\"><a href=\"https://www.agriculture.com/weather/future-conditions\"
+        title=\"Future Conditions\" role=\"menuitem\" tabindex=\"0\">Future Conditions</a></li><li
+        class=\"leaf menu-mlid-774\"><a href=\"https://www.agriculture.com/weather/severe-weather\"
+        title=\"Severe Weather\" role=\"menuitem\" tabindex=\"0\">Severe Weather</a></li><li
+        class=\"last leaf menu-mlid-443\"><a href=\"https://www.agriculture.com/weather/news\"
+        title=\"Weather News\" role=\"menuitem\" tabindex=\"0\">Weather News</a></li></ul></li><li
+        class=\"expanded menu-mlid-444\"><a href=\"https://www.agriculture.com/machinery\"
+        title=\"Machinery\" role=\"menuitem\" aria-haspopup=\"true\" aria-expanded=\"false\"
+        tabindex=\"0\" class=\"menu-item-level-2\">Machinery</a><button aria-label=\"Open
+        Sub Menu\"><i class=\"fa fa-arrow-right\"></i><span>Back to Main</span></button><ul
+        class=\"menu menu-level-2\" role=\"menu\" aria-label=\"Machinery\"><li class=\"first
+        leaf menu-mlid-447\"><a href=\"https://www.agriculture.com/machinery/all-around-the-farm\"
+        title=\"All Around the Farm\" role=\"menuitem\" tabindex=\"0\">All Around
+        the Farm</a></li><li class=\"leaf menu-mlid-449\"><a href=\"https://www.agriculture.com/machinery/atv-utv\"
+        title=\"ATV and UTV\" role=\"menuitem\" tabindex=\"0\">ATV and UTV</a></li><li
+        class=\"leaf menu-mlid-445\"><a href=\"https://www.agriculture.com/machinery/ageless-iron\"
+        title=\"Ageless Iron\" role=\"menuitem\" tabindex=\"0\">Ageless Iron</a></li><li
+        class=\"leaf menu-mlid-450\"><a href=\"https://www.agriculture.com/machinery/construction-equipment\"
+        title=\"Construction\" role=\"menuitem\" tabindex=\"0\">Construction</a></li><li
+        class=\"leaf menu-mlid-451\"><a href=\"https://www.agriculture.com/machinery/grain-handling-and-equipment\"
+        title=\"Grain Handling\" role=\"menuitem\" tabindex=\"0\">Grain Handling</a></li><li
+        class=\"leaf menu-mlid-452\"><a href=\"https://www.agriculture.com/machinery/harvesting\"
+        title=\"Harvesting\" role=\"menuitem\" tabindex=\"0\">Harvesting</a></li><li
+        class=\"leaf menu-mlid-453\"><a href=\"https://www.agriculture.com/machinery/hay-and-forage-equipment\"
+        title=\"Hay and Forage\" role=\"menuitem\" tabindex=\"0\">Hay and Forage</a></li><li
+        class=\"leaf menu-mlid-454\"><a href=\"https://www.agriculture.com/machinery/irrigation-equipment\"
+        title=\"Irrigation\" role=\"menuitem\" tabindex=\"0\">Irrigation</a></li><li
+        class=\"leaf menu-mlid-460\"><a href=\"https://www.agriculture.com/machinery/machinery-insider\"
+        title=\"Machinery Insider\" role=\"menuitem\" tabindex=\"0\">Machinery Insider</a></li><li
+        class=\"leaf menu-mlid-455\"><a href=\"https://www.agriculture.com/machinery/planting\"
+        title=\"Planting\" role=\"menuitem\" tabindex=\"0\">Planting</a></li><li class=\"leaf
+        menu-mlid-456\"><a href=\"https://www.agriculture.com/machinery/repair-maintenance\"
+        title=\"Repair and Maintenance\" role=\"menuitem\" tabindex=\"0\">Repair and
+        Maintenance</a></li><li class=\"leaf menu-mlid-457\"><a href=\"https://www.agriculture.com/machinery/spraying\"
+        title=\"Spraying\" role=\"menuitem\" tabindex=\"0\">Spraying</a></li><li class=\"leaf
+        menu-mlid-458\"><a href=\"https://www.agriculture.com/machinery/tillage\"
+        title=\"Tillage\" role=\"menuitem\" tabindex=\"0\">Tillage</a></li><li class=\"leaf
+        menu-mlid-1750\"><a href=\"https://www.agriculture.com/machinery/tools\" title=\"Tools\"
+        role=\"menuitem\" tabindex=\"0\">Tools</a></li><li class=\"leaf menu-mlid-448\"><a
+        href=\"https://www.agriculture.com/machinery/top-shops\" title=\"Top Shops\"
+        role=\"menuitem\" tabindex=\"0\">Top Shops</a></li><li class=\"leaf menu-mlid-459\"><a
+        href=\"https://www.agriculture.com/machinery/tractors\" title=\"Tractors\"
+        role=\"menuitem\" tabindex=\"0\">Tractors</a></li><li class=\"last leaf menu-mlid-446\"><a
+        href=\"https://www.agriculture.com/tv\" title=\"TV Show\" role=\"menuitem\"
+        tabindex=\"0\">TV Show</a></li></ul></li><li class=\"expanded menu-mlid-462\"><a
+        href=\"https://www.agriculture.com/crops\" title=\"Crops\" role=\"menuitem\"
+        aria-haspopup=\"true\" aria-expanded=\"false\" tabindex=\"0\" class=\"menu-item-level-2\">Crops</a><button
+        aria-label=\"Open Sub Menu\"><i class=\"fa fa-arrow-right\"></i><span>Back
+        to Main</span></button><ul class=\"menu menu-level-2\" role=\"menu\" aria-label=\"Crops\"><li
+        class=\"first leaf menu-mlid-463\"><a href=\"https://www.agriculture.com/agronomy-insider\"
+        title=\"Agronomy Insider\" role=\"menuitem\" tabindex=\"0\">Agronomy Insider</a></li><li
+        class=\"leaf menu-mlid-464\"><a href=\"https://www.agriculture.com/crops/conservation\"
+        title=\"Conservation\" role=\"menuitem\" tabindex=\"0\">Conservation</a></li><li
+        class=\"leaf menu-mlid-465\"><a href=\"https://www.agriculture.com/crops/corn\"
+        title=\"Corn\" role=\"menuitem\" tabindex=\"0\">Corn</a></li><li class=\"leaf
+        menu-mlid-466\"><a href=\"https://www.agriculture.com/crops/cover-crops\"
+        title=\"Cover Crops\" role=\"menuitem\" tabindex=\"0\">Cover Crops</a></li><li
+        class=\"leaf menu-mlid-467\"><a href=\"https://www.agriculture.com/crops/fertilizers\"
+        title=\"Fertilizers\" role=\"menuitem\" tabindex=\"0\">Fertilizers</a></li><li
+        class=\"leaf menu-mlid-1594\"><a href=\"https://www.agriculture.com/crops/hemp\"
+        title=\"Hemp\" role=\"menuitem\" tabindex=\"0\">Hemp</a></li><li class=\"leaf
+        menu-mlid-468\"><a href=\"https://www.agriculture.com/crops/pesticides\" title=\"Pesticides\"
+        role=\"menuitem\" tabindex=\"0\">Pesticides</a></li><li class=\"leaf menu-mlid-716\"><a
+        href=\"https://www.agriculture.com/crops/progress-maps\" title=\"Progress
+        Maps\" role=\"menuitem\" tabindex=\"0\">Progress Maps</a></li><li class=\"leaf
+        menu-mlid-1799\"><a href=\"https://www.agriculture.com/crops/soil-health\"
+        title=\"Soil Health\" role=\"menuitem\" tabindex=\"0\">Soil Health</a></li><li
+        class=\"leaf menu-mlid-469\"><a href=\"https://www.agriculture.com/crops/soybeans\"
+        title=\"Soybeans\" role=\"menuitem\" tabindex=\"0\">Soybeans</a></li><li class=\"last
+        leaf menu-mlid-470\"><a href=\"https://www.agriculture.com/crops/wheat\" title=\"Wheat\"
+        role=\"menuitem\" tabindex=\"0\">Wheat</a></li></ul></li><li class=\"expanded
+        menu-mlid-471\"><a href=\"https://www.agriculture.com/technology\" title=\"Technology\"
+        role=\"menuitem\" aria-haspopup=\"true\" aria-expanded=\"false\" tabindex=\"0\"
+        class=\"menu-item-level-2\">Technology</a><button aria-label=\"Open Sub Menu\"><i
+        class=\"fa fa-arrow-right\"></i><span>Back to Main</span></button><ul class=\"menu
+        menu-level-2\" role=\"menu\" aria-label=\"Technology\"><li class=\"first leaf
+        menu-mlid-473\"><a href=\"https://www.agriculture.com/technology/computers\"
+        title=\"Computers\" role=\"menuitem\" tabindex=\"0\">Computers</a></li><li
+        class=\"leaf menu-mlid-474\"><a href=\"https://www.agriculture.com/technology/crop-management\"
+        title=\"Crop Management\" role=\"menuitem\" tabindex=\"0\">Crop Management</a></li><li
+        class=\"leaf menu-mlid-475\"><a href=\"https://www.agriculture.com/technology/data\"
+        title=\"Data\" role=\"menuitem\" tabindex=\"0\">Data</a></li><li class=\"leaf
+        menu-mlid-476\"><a href=\"https://www.agriculture.com/technology/livestock\"
+        title=\"Livestock Technology\" role=\"menuitem\" tabindex=\"0\">Livestock
+        Technology</a></li><li class=\"leaf menu-mlid-477\"><a href=\"https://www.agriculture.com/technology/mobile\"
+        title=\"Mobile\" role=\"menuitem\" tabindex=\"0\">Mobile</a></li><li class=\"last
+        leaf menu-mlid-478\"><a href=\"https://www.agriculture.com/technology/robotics\"
+        title=\"Robotics\" role=\"menuitem\" tabindex=\"0\">Robotics</a></li></ul></li><li
+        class=\"expanded menu-mlid-479\"><a href=\"https://www.agriculture.com/farm-management\"
+        title=\"Farm Management\" role=\"menuitem\" aria-haspopup=\"true\" aria-expanded=\"false\"
+        tabindex=\"0\" class=\"menu-item-level-2\">Farm Management</a><button aria-label=\"Open
+        Sub Menu\"><i class=\"fa fa-arrow-right\"></i><span>Back to Main</span></button><ul
+        class=\"menu menu-level-2\" role=\"menu\" aria-label=\"Farm Management\"><li
+        class=\"first leaf menu-mlid-481\"><a href=\"https://www.agriculture.com/farm-management/business-planning\"
+        title=\"Business Planning\" role=\"menuitem\" tabindex=\"0\">Business Planning</a></li><li
+        class=\"leaf menu-mlid-482\"><a href=\"https://www.agriculture.com/farm-management/crop-insurance\"
+        title=\"Crop Insurance\" role=\"menuitem\" tabindex=\"0\">Crop Insurance</a></li><li
+        class=\"leaf menu-mlid-483\"><a href=\"https://www.agriculture.com/farm-management/estate-planning\"
+        title=\"Estate Planning\" role=\"menuitem\" tabindex=\"0\">Estate Planning</a></li><li
+        class=\"leaf menu-mlid-484\"><a href=\"https://www.agriculture.com/farm-management/farm-land\"
+        title=\"Farmland\" role=\"menuitem\" tabindex=\"0\">Farmland</a></li><li class=\"leaf
+        menu-mlid-485\"><a href=\"https://www.agriculture.com/farm-management/finances-accounting\"
+        title=\"Finances\" role=\"menuitem\" tabindex=\"0\">Finances</a></li><li class=\"last
+        leaf menu-mlid-486\"><a href=\"https://www.agriculture.com/farm-management/programs-and-policies\"
+        title=\"Programs and Policies\" role=\"menuitem\" tabindex=\"0\">Programs
+        and Policies</a></li></ul></li><li class=\"expanded menu-mlid-487\"><a href=\"https://www.agriculture.com/livestock\"
+        title=\"Livestock\" role=\"menuitem\" aria-haspopup=\"true\" aria-expanded=\"false\"
+        tabindex=\"0\" class=\"menu-item-level-2\">Livestock</a><button aria-label=\"Open
+        Sub Menu\"><i class=\"fa fa-arrow-right\"></i><span>Back to Main</span></button><ul
+        class=\"menu menu-level-2\" role=\"menu\" aria-label=\"Livestock\"><li class=\"first
+        leaf menu-mlid-488\"><a href=\"https://www.agriculture.com/livestock/cattle\"
+        title=\"Cattle\" role=\"menuitem\" tabindex=\"0\">Cattle</a></li><li class=\"leaf
+        menu-mlid-1531\"><a href=\"https://www.agriculture.com/livestock/dairy\" title=\"Dairy\"
+        role=\"menuitem\" tabindex=\"0\">Dairy</a></li><li class=\"leaf menu-mlid-489\"><a
+        href=\"https://www.agriculture.com/livestock/hogs\" title=\"Hogs\" role=\"menuitem\"
+        tabindex=\"0\">Hogs</a></li><li class=\"leaf menu-mlid-717\"><a href=\"https://www.agriculture.com/livestock/pork-powerhouses\"
+        title=\"Pork Powerhouses\" role=\"menuitem\" tabindex=\"0\">Pork Powerhouses</a></li><li
+        class=\"last leaf menu-mlid-490\"><a href=\"https://www.agriculture.com/livestock/poultry\"
+        title=\"Poultry\" role=\"menuitem\" tabindex=\"0\">Poultry</a></li></ul></li><li
+        class=\"expanded menu-mlid-491\"><a href=\"https://www.agriculture.com/family\"
+        title=\"Family\" role=\"menuitem\" aria-haspopup=\"true\" aria-expanded=\"false\"
+        tabindex=\"0\" class=\"menu-item-level-2\">Family</a><button aria-label=\"Open
+        Sub Menu\"><i class=\"fa fa-arrow-right\"></i><span>Back to Main</span></button><ul
+        class=\"menu menu-level-2\" role=\"menu\" aria-label=\"Family\"><li class=\"first
+        leaf menu-mlid-493\"><a href=\"https://www.agriculture.com/family/education\"
+        title=\"Education\" role=\"menuitem\" tabindex=\"0\">Education</a></li><li
+        class=\"leaf menu-mlid-495\"><a href=\"https://www.agriculture.com/family/farm-humor\"
+        title=\"Farm Humor\" role=\"menuitem\" tabindex=\"0\">Farm Humor</a></li><li
+        class=\"leaf menu-mlid-494\"><a href=\"https://www.agriculture.com/family/health-safety\"
+        title=\"Health and Safety\" role=\"menuitem\" tabindex=\"0\">Health and Safety</a></li><li
+        class=\"leaf menu-mlid-1762\"><a href=\"https://www.agriculture.com/family/living-the-country-life\"
+        title=\"Living the Country Life\" role=\"menuitem\" tabindex=\"0\">Living
+        the Country Life</a></li><li class=\"last leaf menu-mlid-492\"><a href=\"https://www.agriculture.com/family/women-in-agriculture\"
+        title=\"Women in Agriculture\" role=\"menuitem\" tabindex=\"0\">Women in Agriculture</a></li></ul></li><li
+        class=\"leaf menu-mlid-524\"><a href=\"https://www.agriculture.com/radio\"
+        title=\"Radio\" role=\"menuitem\" tabindex=\"0\">Radio</a></li><li class=\"leaf
+        menu-mlid-522 subscribeHeader-item\"><a href=\"https://w1.buysub.com/pubs/MR/SFG/Qualification-Page-7.jsp?cds_page_id=166174&amp;cds_mag_code=SFG&amp;id=1518545414171&amp;lsid=80441202089035428&amp;vid=4&amp;cds_response_key=I47GOON62\"
+        title=\"Subscribe\" role=\"menuitem\" class=\"subscribeHeader\" id=\"subscribeHeader\">Subscribe</a></li><li
+        class=\"leaf menu-mlid-523\"><a href=\"https://www.agriculture.com/tv\" title=\"TV\"
+        role=\"menuitem\" tabindex=\"0\">TV</a></li><li class=\"last leaf menu-mlid-521\"><a
+        href=\"http://community.agriculture.com/\" title=\"Talk\" role=\"menuitem\"
+        tabindex=\"0\">Talk</a></li></ul>  </div>\n\n  \n  </div>\n      </header>\n\n
+        \ <main id=\"main\" role=\"main\" class=\"karma-site-container\">\n    <div
+        class=\"panel-pane pane-page-content\"  >\n  \n      \n  \n  <div class=\"pane-content\">\n
+        \   <div class=\"sfg-category-page missing-sponsor-banner content\">\n\n  <section
+        class=\"top\">\n      <div class=\"panel-pane pane-page-breadcrumb\"  >\n
+        \ \n      \n  \n  <div class=\"pane-content\">\n    <nav aria-label=\"breadcrumbs\"><h2
+        class=\"element-invisible\">You are here</h2><div class=\"breadcrumb\"><span
+        class=\"inline odd first\"><a href=\"https://www.agriculture.com/\">Home</a></span>
+        <span class=\"delimiter\">\u25B8</span> <span class=\"inline even\"><a href=\"https://www.agriculture.com/markets\">Markets</a></span>
+        <span class=\"delimiter\">\u25B8</span> <span class=\"inline odd\"><a href=\"https://www.agriculture.com/markets/analysis\">Markets
+        Analysis</a></span> <span class=\"delimiter\">\u25B8</span> <span class=\"inline
+        even last\"><a href=\"https://www.agriculture.com/markets/analysis/crops\">Crop
+        Markets</a></span></div></nav>  </div>\n\n  \n  </div>\n\n<div class=\"panel-pane
+        pane-term-name\"  >\n  \n      \n  \n  <div class=\"pane-content\">\n    <h1>Crop
+        Markets</h1>\n  </div>\n\n  \n  </div>\n  </section>\n\n<section class=\"page
+        category-page-content clearfix\">\n\n      <div class=\"page-primary-content\"><div
+        class=\"panel-pane pane-entity-field-extra pane-taxonomy-term-description\"
+        \ >\n  \n      \n  \n  <div class=\"pane-content\">\n    <div class=\"taxonomy-term-description\"><p>Get
+        the latest commentary from market analysts on the future of commodity prices,
+        including corn, soybeans, and wheat. This analysis looks at marketing fundamentals
+        as well as USDA reports and breaking news.\_</p>\n</div>  </div>\n\n  \n  </div>\n\n<div
+        class=\"panel-pane pane-views-panes pane-category-content-category-recent-content-first-three\"
+        \ >\n  \n      \n  \n  <div class=\"pane-content\">\n    <div class=\"view
+        view-category-content view-id-category_content view-display-id-category_recent_content_first_three
+        view-dom-id-07d8f7db93eefb3e448ff2af391b1b4d\">\n        \n  \n  \n      <div
+        class=\"view-content\">\n        <article class=\"views-row views-row-1\">\n
+        \   <div class='recent-content-title-teaser'>\n\n  <h3><span class=\"field-content\"><a
+        href=\"https://www.agriculture.com/markets/analysis/crops/is-the-bear-on-the-run\">Is
+        the bear on the run?</a></span></h3>\n  <div class=\"_u-only-show-in-news\">\n
+        \         </div>\n  \n  <div class=\"field-body\">\n    Market activity over
+        the last three months has been dramatic in commodities and in equities.  </div>\n</div>\n
+        \ <div class='recent-content-hero-image'>\n    \n  <div class=\"field-image\">\n
+        \   <picture >\n<!--[if IE 9]><video style=\"display: none;\"><![endif]-->\n<source
+        data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2016/03/28/SoybeanFieldHarvest-MediumShot.jpg?timestamp=1550617786
+        1x\" media=\"(min-width: 1220px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2016/03/28/SoybeanFieldHarvest-MediumShot.jpg?timestamp=1550617786
+        1x\" media=\"(min-width: 1024px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___medium/s3/s3fs-public/image/2016/03/28/SoybeanFieldHarvest-MediumShot.jpg?timestamp=1550617786
+        1x\" media=\"(min-width: 768px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/s3fs-public/image/2016/03/28/SoybeanFieldHarvest-MediumShot.jpg?timestamp=1550617786
+        1x\" media=\"(min-width: 500px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/s3fs-public/image/2016/03/28/SoybeanFieldHarvest-MediumShot.jpg?timestamp=1550617786
+        1x\" media=\"(min-width: 0px)\" />\n<!--[if IE 9]></video><![endif]-->\n<!--[if
+        lt IE 9]>\n<img  class=\"lazyload\" src=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2016/03/28/SoybeanFieldHarvest-MediumShot.jpg?timestamp=1550617786\"
+        alt=\"A soybean field at harvest.\" title=\"\" />\n<![endif]-->\n<!--[if !lt
+        IE 9]><!-->\n<img  class=\"lazyload\" data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2016/03/28/SoybeanFieldHarvest-MediumShot.jpg?timestamp=1550617786
+        242w\" alt=\"A soybean field at harvest.\" title=\"\" />\n<!-- <![endif]-->\n</picture>
+        \ </div>\n      <div class=\"views-field-type\">\n        <span class=\" content-type
+        content-type-article\">\n          <span class=\"field-content\">Article</span>
+        \       </span>\n      </div>\n  </div>\n  </article>\n  <article class=\"views-row
+        views-row-2\">\n    <div class='recent-content-title-teaser'>\n\n  <h3><span
+        class=\"field-content\"><a href=\"https://www.agriculture.com/markets/analysis/crops/new-numbers-and-a-new-outlook-for-the-corn-and-soybean-markets\">New
+        numbers and a new outlook for the corn and soybean markets</a></span></h3>\n
+        \ <div class=\"_u-only-show-in-news\">\n          </div>\n  \n  <div class=\"field-body\">\n
+        \   The November USDA Supply and Demand report had major surprises for the
+        corn and soybean markets, and consequently, long-term availability of these
+        commodities is a potential concern.  </div>\n</div>\n  <div class='recent-content-hero-image'>\n
+        \   \n  <div class=\"field-image\">\n    <picture >\n<!--[if IE 9]><video
+        style=\"display: none;\"><![endif]-->\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2016/05/10/CornParana-CloseUp.jpg?timestamp=1550619009
+        1x\" media=\"(min-width: 1220px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2016/05/10/CornParana-CloseUp.jpg?timestamp=1550619009
+        1x\" media=\"(min-width: 1024px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___medium/s3/s3fs-public/image/2016/05/10/CornParana-CloseUp.jpg?timestamp=1550619009
+        1x\" media=\"(min-width: 768px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/s3fs-public/image/2016/05/10/CornParana-CloseUp.jpg?timestamp=1550619009
+        1x\" media=\"(min-width: 500px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/s3fs-public/image/2016/05/10/CornParana-CloseUp.jpg?timestamp=1550619009
+        1x\" media=\"(min-width: 0px)\" />\n<!--[if IE 9]></video><![endif]-->\n<!--[if
+        lt IE 9]>\n<img  class=\"lazyload\" src=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2016/05/10/CornParana-CloseUp.jpg?timestamp=1550619009\"
+        alt=\"Corn ear husks pulled back.\" title=\"\" />\n<![endif]-->\n<!--[if !lt
+        IE 9]><!-->\n<img  class=\"lazyload\" data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2016/05/10/CornParana-CloseUp.jpg?timestamp=1550619009
+        242w\" alt=\"Corn ear husks pulled back.\" title=\"\" />\n<!-- <![endif]-->\n</picture>
+        \ </div>\n      <div class=\"views-field-type\">\n        <span class=\" content-type
+        content-type-article\">\n          <span class=\"field-content\">Article</span>
+        \       </span>\n      </div>\n  </div>\n  </article>\n  <article class=\"views-row
+        views-row-3\">\n    <div class='recent-content-title-teaser'>\n\n  <h3><span
+        class=\"field-content\"><a href=\"https://www.agriculture.com/markets/analysis/crops/bullish-argument-for-corn\">Bullish
+        argument for corn</a></span></h3>\n  <div class=\"_u-only-show-in-news\">\n
+        \         </div>\n  \n  <div class=\"field-body\">\n    Corn prices are good
+        value to end users. What is good value?  </div>\n</div>\n  <div class='recent-content-hero-image'>\n
+        \   \n  <div class=\"field-image\">\n    <picture >\n<!--[if IE 9]><video
+        style=\"display: none;\"><![endif]-->\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2019/08/13/IMG_5402.JPG?timestamp=1565715698
+        1x\" media=\"(min-width: 1220px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2019/08/13/IMG_5402.JPG?timestamp=1565715698
+        1x\" media=\"(min-width: 1024px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___medium/s3/s3fs-public/image/2019/08/13/IMG_5402.JPG?timestamp=1565715698
+        1x\" media=\"(min-width: 768px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/s3fs-public/image/2019/08/13/IMG_5402.JPG?timestamp=1565715698
+        1x\" media=\"(min-width: 500px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/s3fs-public/image/2019/08/13/IMG_5402.JPG?timestamp=1565715698
+        1x\" media=\"(min-width: 0px)\" />\n<!--[if IE 9]></video><![endif]-->\n<!--[if
+        lt IE 9]>\n<img  class=\"lazyload\" src=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2019/08/13/IMG_5402.JPG?timestamp=1565715698\"
+        alt=\"Corn field in Illinois\" title=\"\" />\n<![endif]-->\n<!--[if !lt IE
+        9]><!-->\n<img  class=\"lazyload\" data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2019/08/13/IMG_5402.JPG?timestamp=1565715698
+        242w\" alt=\"Corn field in Illinois\" title=\"\" />\n<!-- <![endif]-->\n</picture>
+        \ </div>\n      <div class=\"views-field-type\">\n        <span class=\" content-type
+        content-type-article\">\n          <span class=\"field-content\">Article</span>
+        \       </span>\n      </div>\n  </div>\n  </article>\n    </div>\n  \n  \n
+        \ \n  \n  \n  \n</div>  </div>\n\n  \n  </div>\n\n<div class=\"panel-pane
+        pane-mag-advertisements-karma\"  >\n  \n      \n  \n  <div class=\"pane-content\">\n
+        \   <div data-tier=\"2\" id=\"karma-lazy-lazy-leaderboard-fixed-faef9db6\"
+        lazy=\"div-gpt-lazy-leaderboard-fixed\" class=\"leaderboard\"> </div>  </div>\n\n
+        \ \n  </div>\n\n<div class=\"panel-pane pane-views-panes pane-category-content-featured-content
+        pane-category-content-featured-content-first\"  >\n  \n      \n  \n  <div
+        class=\"pane-content\">\n    <div class=\"view view-category-content view-id-category_content
+        view-display-id-featured_content view-dom-id-7d541ef45b85d12a4bfb30030412723a\">\n
+        \       \n  \n  \n      <div class=\"view-content\">\n        <article class=\"views-row
+        views-row-1\">\n    <div class='featured-content-teaser-copy'>\n      <h3
+        class=\"featured-content-teaser-category\">\n      \n  <div class=\"field-category\">\n
+        \   Machinery Insider  </div>\n    </h3>\n        <h4 class=\"featured-content-teaser-title\">\n
+        \     <span class=\"field-content\"><a href=\"https://www.agriculture.com/machinery/machinery-insider/a-red-green-kind-of-tractor\">A
+        Red Green kind of tractor</a></span>    </h4>\n        <h5 class=\"featured-content-teaser-source\">\n
+        \     <span class=\"field-content\">By Machinery Insider</span>    </h5>\n
+        \       \n  <div class=\"field-body\">\n    Interesting Iron takes a look
+        at a \u201Ccan do\u201D tractor that was powerful and reliable \u2013 if not
+        real attractive.   </div>\n  </div>\n  <div class='featured-content-hero-image'>\n
+        \   \n  <div class=\"field-image\">\n    <picture >\n<!--[if IE 9]><video
+        style=\"display: none;\"><![endif]-->\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/image/2020/10/29/J.I.%20Case%201470TK.jpg?timestamp=1603985921
+        1x\" media=\"(min-width: 1220px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/image/2020/10/29/J.I.%20Case%201470TK.jpg?timestamp=1603985921
+        1x\" media=\"(min-width: 1024px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___medium/s3/image/2020/10/29/J.I.%20Case%201470TK.jpg?timestamp=1603985921
+        1x\" media=\"(min-width: 768px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/image/2020/10/29/J.I.%20Case%201470TK.jpg?timestamp=1603985921
+        1x\" media=\"(min-width: 500px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/image/2020/10/29/J.I.%20Case%201470TK.jpg?timestamp=1603985921
+        1x\" media=\"(min-width: 0px)\" />\n<!--[if IE 9]></video><![endif]-->\n<!--[if
+        lt IE 9]>\n<img  class=\"lazyload\" src=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/image/2020/10/29/J.I.%20Case%201470TK.jpg?timestamp=1603985921\"
+        alt=\"\" title=\"\" />\n<![endif]-->\n<!--[if !lt IE 9]><!-->\n<img  class=\"lazyload\"
+        data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/image/2020/10/29/J.I.%20Case%201470TK.jpg?timestamp=1603985921
+        242w\" alt=\"\" title=\"\" />\n<!-- <![endif]-->\n</picture>  </div>\n          <div
+        class=\"views-field-type\">\n        <span class=\" content-type content-type-article\">\n
+        \         <span class=\"field-content\">Article</span>        </span>\n      </div>\n
+        \     </div>\n  </article>\n    </div>\n  \n  \n  \n  \n  \n  \n</div>  </div>\n\n
+        \ \n  </div>\n\n<div class=\"panel-pane pane-views-panes pane-category-content-featured-content
+        div-sm-promoBox\"  >\n  \n      \n  \n  <div class=\"pane-content\">\n    <div
+        class=\"view view-category-content view-id-category_content view-display-id-featured_content
+        view-dom-id-fa9de11441887966537b14e0bf84ef65\">\n        \n  \n  \n      <div
+        class=\"view-content\">\n        <article class=\"views-row views-row-1\">\n
+        \   <div class='featured-content-teaser-copy'>\n      <h3 class=\"featured-content-teaser-category\">\n
+        \     \n  <div class=\"field-category\">\n    Ageless Iron  </div>\n    </h3>\n
+        \       <h4 class=\"featured-content-teaser-title\">\n      <span class=\"field-content\"><a
+        href=\"https://www.agriculture.com/video/restoring-a-1946-allis-chalmers-b\">Restoring
+        a 1946 Allis Chalmers B</a></span>    </h4>\n        <h5 class=\"featured-content-teaser-source\">\n
+        \     <span class=\"field-content\">By Ageless Iron</span>    </h5>\n        \n
+        \ <div class=\"field-body\">\n    FFA student Luke Wickett got a 1946 Allis
+        Chalmers B in rough shape. Here's the restoration story.  </div>\n  </div>\n
+        \ <div class='featured-content-hero-image'>\n    \n  <div class=\"field-image\">\n
+        \   <picture >\n<!--[if IE 9]><video style=\"display: none;\"><![endif]-->\n<source
+        data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/image/2020/10/23/Screen%20Shot%202020-10-23%20at%2012.15.29%20PM.png?timestamp=1603474208
+        1x\" media=\"(min-width: 1220px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/image/2020/10/23/Screen%20Shot%202020-10-23%20at%2012.15.29%20PM.png?timestamp=1603474208
+        1x\" media=\"(min-width: 1024px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___medium/s3/image/2020/10/23/Screen%20Shot%202020-10-23%20at%2012.15.29%20PM.png?timestamp=1603474208
+        1x\" media=\"(min-width: 768px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/image/2020/10/23/Screen%20Shot%202020-10-23%20at%2012.15.29%20PM.png?timestamp=1603474208
+        1x\" media=\"(min-width: 500px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/image/2020/10/23/Screen%20Shot%202020-10-23%20at%2012.15.29%20PM.png?timestamp=1603474208
+        1x\" media=\"(min-width: 0px)\" />\n<!--[if IE 9]></video><![endif]-->\n<!--[if
+        lt IE 9]>\n<img  class=\"lazyload\" src=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/image/2020/10/23/Screen%20Shot%202020-10-23%20at%2012.15.29%20PM.png?timestamp=1603474208\"
+        alt=\"Thumbnail image for 1946 Allis Chalmers B\" title=\"\" />\n<![endif]-->\n<!--[if
+        !lt IE 9]><!-->\n<img  class=\"lazyload\" data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/image/2020/10/23/Screen%20Shot%202020-10-23%20at%2012.15.29%20PM.png?timestamp=1603474208
+        242w\" alt=\"Thumbnail image for 1946 Allis Chalmers B\" title=\"\" />\n<!--
+        <![endif]-->\n</picture>  </div>\n          <div class=\"views-field-type\">\n
+        \       <span class=\" content-type content-type-video\">\n          <span
+        class=\"field-content\">Video</span>        </span>\n      </div>\n      </div>\n
+        \ </article>\n    </div>\n  \n  \n  \n  \n  \n  \n</div>  </div>\n\n  \n  </div>\n\n<div
+        class=\"panel-pane pane-views-panes pane-category-content-featured-content\"
+        \ >\n  \n      \n  \n  <div class=\"pane-content\">\n    <div class=\"view
+        view-category-content view-id-category_content view-display-id-featured_content
+        view-dom-id-4edd3112f86df5ce39bb13cc7b8418b5\">\n        \n  \n  \n      <div
+        class=\"view-content\">\n        <article class=\"views-row views-row-1\">\n
+        \   <div class='featured-content-teaser-copy'>\n      <h3 class=\"featured-content-teaser-category\">\n
+        \     \n  <div class=\"field-category\">\n    All Around the Farm  </div>\n
+        \   </h3>\n        <h4 class=\"featured-content-teaser-title\">\n      <span
+        class=\"field-content\"><a href=\"https://www.agriculture.com/machinery/all-around-the-farm/retractable-shop-stairs\">Retractable
+        shop stairs</a></span>    </h4>\n        <h5 class=\"featured-content-teaser-source\">\n
+        \     <span class=\"field-content\">By All Around the Farm</span>    </h5>\n
+        \       \n  <div class=\"field-body\">\n    Easy access to overhead storage
+        and more room on the floor to park equipment are options with stairs that
+        store close to the wall.   </div>\n  </div>\n  <div class='featured-content-hero-image'>\n
+        \   \n  <div class=\"field-image\">\n    <picture >\n<!--[if IE 9]><video
+        style=\"display: none;\"><![endif]-->\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/image/2020/10/22/collapsible%20stairs.jpg?timestamp=1603385762
+        1x\" media=\"(min-width: 1220px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/image/2020/10/22/collapsible%20stairs.jpg?timestamp=1603385762
+        1x\" media=\"(min-width: 1024px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___medium/s3/image/2020/10/22/collapsible%20stairs.jpg?timestamp=1603385762
+        1x\" media=\"(min-width: 768px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/image/2020/10/22/collapsible%20stairs.jpg?timestamp=1603385762
+        1x\" media=\"(min-width: 500px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/image/2020/10/22/collapsible%20stairs.jpg?timestamp=1603385762
+        1x\" media=\"(min-width: 0px)\" />\n<!--[if IE 9]></video><![endif]-->\n<!--[if
+        lt IE 9]>\n<img  class=\"lazyload\" src=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/image/2020/10/22/collapsible%20stairs.jpg?timestamp=1603385762\"
+        alt=\"November 2020 IOM image\" title=\"\" />\n<![endif]-->\n<!--[if !lt IE
+        9]><!-->\n<img  class=\"lazyload\" data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/image/2020/10/22/collapsible%20stairs.jpg?timestamp=1603385762
+        242w\" alt=\"November 2020 IOM image\" title=\"\" />\n<!-- <![endif]-->\n</picture>
+        \ </div>\n          <div class=\"views-field-type\">\n        <span class=\"
+        content-type content-type-article\">\n          <span class=\"field-content\">Article</span>
+        \       </span>\n      </div>\n      </div>\n  </article>\n    </div>\n  \n
+        \ \n  \n  \n  \n  \n</div>  </div>\n\n  \n  </div>\n\n<div class=\"panel-pane
+        pane-views-panes pane-category-content-category-recent-content-offset-three\"
+        \ >\n  \n      \n  \n  <div class=\"pane-content\">\n    <div class=\"view
+        view-category-content view-id-category_content view-display-id-category_recent_content_offset_three
+        view-dom-id-566fdbd0eeb43353c430c1cb6837917c\">\n        \n  \n  \n      <div
+        class=\"view-content\">\n        <article class=\"lazy-leaderboard-fixed-ad\">\n
+        \   <div data-tier=\"3\" id=\"karma-lazy-lazy-leaderboard-fixed-89494a00\"
+        lazy=\"div-gpt-lazy-leaderboard-fixed\" class=\"leaderboard\"> </div>  </article>\n
+        \ <article class=\"views-row views-row-1\">\n    <div class='recent-content-title-teaser'>\n\n
+        \ <h3><span class=\"field-content\"><a href=\"https://www.agriculture.com/markets/analysis/crops/make-sales-and-re-own-on-paper\">Make
+        sales and re-own on paper</a></span></h3>\n  <div class=\"_u-only-show-in-news\">\n
+        \         </div>\n  \n  <div class=\"field-body\">\n    The growing season
+        continues to rapidly advance toward what might be record-yielding corn and
+        soybean crops.   </div>\n</div>\n  <div class='recent-content-hero-image'>\n
+        \   \n  <div class=\"field-image\">\n    <picture >\n<!--[if IE 9]><video
+        style=\"display: none;\"><![endif]-->\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2017/06/27/corn-money-close-up.jpg?timestamp=1550611439
+        1x\" media=\"(min-width: 1220px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2017/06/27/corn-money-close-up.jpg?timestamp=1550611439
+        1x\" media=\"(min-width: 1024px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___medium/s3/s3fs-public/image/2017/06/27/corn-money-close-up.jpg?timestamp=1550611439
+        1x\" media=\"(min-width: 768px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/s3fs-public/image/2017/06/27/corn-money-close-up.jpg?timestamp=1550611439
+        1x\" media=\"(min-width: 500px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/s3fs-public/image/2017/06/27/corn-money-close-up.jpg?timestamp=1550611439
+        1x\" media=\"(min-width: 0px)\" />\n<!--[if IE 9]></video><![endif]-->\n<!--[if
+        lt IE 9]>\n<img  class=\"lazyload\" src=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2017/06/27/corn-money-close-up.jpg?timestamp=1550611439\"
+        alt=\"Corn kernels on a $100 bill.\" title=\"\" />\n<![endif]-->\n<!--[if
+        !lt IE 9]><!-->\n<img  class=\"lazyload\" data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2017/06/27/corn-money-close-up.jpg?timestamp=1550611439
+        242w\" alt=\"Corn kernels on a $100 bill.\" title=\"\" />\n<!-- <![endif]-->\n</picture>
+        \ </div>\n      <div class=\"views-field-type\">\n        <span class=\"type\">\n
+        \         <span class=\"field-content\">Article</span>        </span>\n      </div>\n
+        \ </div>\n  </article>\n  <article class=\"views-row views-row-2\">\n    <div
+        class='recent-content-title-teaser'>\n\n  <h3><span class=\"field-content\"><a
+        href=\"https://www.agriculture.com/markets/analysis/crops/wheat-spreads-widen-further\">Wheat
+        spreads widen further</a></span></h3>\n  <div class=\"_u-only-show-in-news\">\n
+        \         </div>\n  \n  <div class=\"field-body\">\n    Wheat markets were
+        slightly higher for the week with Chicago again leading the way with a 4-cent
+        gain; Kansas City was 1-cent higher and Minn up 2 cents.  </div>\n</div>\n
+        \ <div class='recent-content-hero-image'>\n    \n  <div class=\"field-image\">\n
+        \   <picture >\n<!--[if IE 9]><video style=\"display: none;\"><![endif]-->\n<source
+        data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2019/08/16/48543072691_f997b9ee7b_o.jpg?timestamp=1565983528
+        1x\" media=\"(min-width: 1220px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2019/08/16/48543072691_f997b9ee7b_o.jpg?timestamp=1565983528
+        1x\" media=\"(min-width: 1024px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___medium/s3/s3fs-public/image/2019/08/16/48543072691_f997b9ee7b_o.jpg?timestamp=1565983528
+        1x\" media=\"(min-width: 768px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/s3fs-public/image/2019/08/16/48543072691_f997b9ee7b_o.jpg?timestamp=1565983528
+        1x\" media=\"(min-width: 500px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/s3fs-public/image/2019/08/16/48543072691_f997b9ee7b_o.jpg?timestamp=1565983528
+        1x\" media=\"(min-width: 0px)\" />\n<!--[if IE 9]></video><![endif]-->\n<!--[if
+        lt IE 9]>\n<img  class=\"lazyload\" src=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2019/08/16/48543072691_f997b9ee7b_o.jpg?timestamp=1565983528\"
+        alt=\"Wheat field closeup\" title=\"\" />\n<![endif]-->\n<!--[if !lt IE 9]><!-->\n<img
+        \ class=\"lazyload\" data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2019/08/16/48543072691_f997b9ee7b_o.jpg?timestamp=1565983528
+        242w\" alt=\"Wheat field closeup\" title=\"\" />\n<!-- <![endif]-->\n</picture>
+        \ </div>\n      <div class=\"views-field-type\">\n        <span class=\"type\">\n
+        \         <span class=\"field-content\">Article</span>        </span>\n      </div>\n
+        \ </div>\n  </article>\n  <article class=\"views-row views-row-3\">\n    <div
+        class='recent-content-title-teaser'>\n\n  <h3><span class=\"field-content\"><a
+        href=\"https://www.agriculture.com/news/business/despite-coronavirus-pandemic-farmers-plan-to-plant-a-record-corn-crop\">Despite
+        coronavirus pandemic, farmers plan to plant a record corn crop</a></span></h3>\n
+        \ <div class=\"_u-only-show-in-news\">\n          </div>\n  \n  <div class=\"field-body\">\n
+        \   Spooked by the China-U.S. trade war, American farmers say they will plant
+        so much corn that production could near 16 billion bushels for the first time.
+        \ </div>\n</div>\n  <div class='recent-content-hero-image'>\n    \n  <div
+        class=\"field-image\">\n    <picture >\n<!--[if IE 9]><video style=\"display:
+        none;\"><![endif]-->\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2016/06/20/CornRow-MediumShot.jpg?timestamp=1550619255
+        1x\" media=\"(min-width: 1220px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2016/06/20/CornRow-MediumShot.jpg?timestamp=1550619255
+        1x\" media=\"(min-width: 1024px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___medium/s3/s3fs-public/image/2016/06/20/CornRow-MediumShot.jpg?timestamp=1550619255
+        1x\" media=\"(min-width: 768px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/s3fs-public/image/2016/06/20/CornRow-MediumShot.jpg?timestamp=1550619255
+        1x\" media=\"(min-width: 500px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/s3fs-public/image/2016/06/20/CornRow-MediumShot.jpg?timestamp=1550619255
+        1x\" media=\"(min-width: 0px)\" />\n<!--[if IE 9]></video><![endif]-->\n<!--[if
+        lt IE 9]>\n<img  class=\"lazyload\" src=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2016/06/20/CornRow-MediumShot.jpg?timestamp=1550619255\"
+        alt=\"A row of corn.\" title=\"\" />\n<![endif]-->\n<!--[if !lt IE 9]><!-->\n<img
+        \ class=\"lazyload\" data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2016/06/20/CornRow-MediumShot.jpg?timestamp=1550619255
+        242w\" alt=\"A row of corn.\" title=\"\" />\n<!-- <![endif]-->\n</picture>
+        \ </div>\n      <div class=\"views-field-type\">\n        <span class=\"type\">\n
+        \         <span class=\"field-content\">Article</span>        </span>\n      </div>\n
+        \ </div>\n  </article>\n  <article class=\"category-ad\">\n    <div  id=\"div-sm-category\"
+        position=\"0\" class=\"div-sm-category\" > </div>  </article>\n  <article
+        class=\"views-row views-row-4\">\n    <div class='recent-content-title-teaser'>\n\n
+        \ <h3><span class=\"field-content\"><a href=\"https://www.agriculture.com/markets/analysis/crops/al-kluis-changing-with-the-times\">Al
+        Kluis: Changing With The Times</a></span></h3>\n  <div class=\"_u-only-show-in-news\">\n
+        \         </div>\n  \n  <div class=\"field-body\">\n    Trading commodities
+        since 1974, Al Kluis shares changes he's observed along the way.   </div>\n</div>\n
+        \ <div class='recent-content-hero-image'>\n    \n  <div class=\"field-image\">\n
+        \   <picture >\n<!--[if IE 9]><video style=\"display: none;\"><![endif]-->\n<source
+        data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2019/10/03/Al%20Kluis%20seeds%20cropped%5B1%5D.jpg?timestamp=1570110616
+        1x\" media=\"(min-width: 1220px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2019/10/03/Al%20Kluis%20seeds%20cropped%5B1%5D.jpg?timestamp=1570110616
+        1x\" media=\"(min-width: 1024px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___medium/s3/s3fs-public/image/2019/10/03/Al%20Kluis%20seeds%20cropped%5B1%5D.jpg?timestamp=1570110616
+        1x\" media=\"(min-width: 768px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/s3fs-public/image/2019/10/03/Al%20Kluis%20seeds%20cropped%5B1%5D.jpg?timestamp=1570110616
+        1x\" media=\"(min-width: 500px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/s3fs-public/image/2019/10/03/Al%20Kluis%20seeds%20cropped%5B1%5D.jpg?timestamp=1570110616
+        1x\" media=\"(min-width: 0px)\" />\n<!--[if IE 9]></video><![endif]-->\n<!--[if
+        lt IE 9]>\n<img  class=\"lazyload\" src=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2019/10/03/Al%20Kluis%20seeds%20cropped%5B1%5D.jpg?timestamp=1570110616\"
+        alt=\"\" title=\"\" />\n<![endif]-->\n<!--[if !lt IE 9]><!-->\n<img  class=\"lazyload\"
+        data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2019/10/03/Al%20Kluis%20seeds%20cropped%5B1%5D.jpg?timestamp=1570110616
+        242w\" alt=\"\" title=\"\" />\n<!-- <![endif]-->\n</picture>  </div>\n      <div
+        class=\"views-field-type\">\n        <span class=\"type\">\n          <span
+        class=\"field-content\">Article</span>        </span>\n      </div>\n  </div>\n
+        \ </article>\n  <article class=\"views-row views-row-5\">\n    <div class='recent-content-title-teaser'>\n\n
+        \ <h3><span class=\"field-content\"><a href=\"https://www.agriculture.com/markets/analysis/crops/al-kluis-trade-war-takes-a-toll-on-revenue\">Al
+        Kluis: Trade War Takes A Toll On Revenue</a></span></h3>\n  <div class=\"_u-only-show-in-news\">\n
+        \         </div>\n  \n  <div class=\"field-body\">\n    Al Kluis breaks down
+        corn and soybean revenues, while pointing out three factors leading to the
+        revenue collapse.   </div>\n</div>\n  <div class='recent-content-hero-image'>\n
+        \   \n  <div class=\"field-image\">\n    <picture >\n<!--[if IE 9]><video
+        style=\"display: none;\"><![endif]-->\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2019/10/03/Al%20Kluis%20seeds%20cropped%5B1%5D.jpg?timestamp=1570110616
+        1x\" media=\"(min-width: 1220px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2019/10/03/Al%20Kluis%20seeds%20cropped%5B1%5D.jpg?timestamp=1570110616
+        1x\" media=\"(min-width: 1024px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___medium/s3/s3fs-public/image/2019/10/03/Al%20Kluis%20seeds%20cropped%5B1%5D.jpg?timestamp=1570110616
+        1x\" media=\"(min-width: 768px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/s3fs-public/image/2019/10/03/Al%20Kluis%20seeds%20cropped%5B1%5D.jpg?timestamp=1570110616
+        1x\" media=\"(min-width: 500px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/s3fs-public/image/2019/10/03/Al%20Kluis%20seeds%20cropped%5B1%5D.jpg?timestamp=1570110616
+        1x\" media=\"(min-width: 0px)\" />\n<!--[if IE 9]></video><![endif]-->\n<!--[if
+        lt IE 9]>\n<img  class=\"lazyload\" src=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2019/10/03/Al%20Kluis%20seeds%20cropped%5B1%5D.jpg?timestamp=1570110616\"
+        alt=\"\" title=\"\" />\n<![endif]-->\n<!--[if !lt IE 9]><!-->\n<img  class=\"lazyload\"
+        data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2019/10/03/Al%20Kluis%20seeds%20cropped%5B1%5D.jpg?timestamp=1570110616
+        242w\" alt=\"\" title=\"\" />\n<!-- <![endif]-->\n</picture>  </div>\n      <div
+        class=\"views-field-type\">\n        <span class=\"type\">\n          <span
+        class=\"field-content\">Article</span>        </span>\n      </div>\n  </div>\n
+        \ </article>\n  <article class=\"views-row views-row-6\">\n    <div class='recent-content-title-teaser'>\n\n
+        \ <h3><span class=\"field-content\"><a href=\"https://www.agriculture.com/markets/analysis/crops/protection-in-the-soybean-market\">Protection
+        in the Soybean Market</a></span></h3>\n  <div class=\"_u-only-show-in-news\">\n
+        \         </div>\n  \n  <div class=\"field-body\">\n    For the most part,
+        soybean futures this summer have probably held up better than anticipated.
+        \ </div>\n</div>\n  <div class='recent-content-hero-image'>\n    \n  <div
+        class=\"field-image\">\n    <picture >\n<!--[if IE 9]><video style=\"display:
+        none;\"><![endif]-->\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2016/03/28/SoybeansAtHarvest-MediumShot.jpg?timestamp=1550617672
+        1x\" media=\"(min-width: 1220px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2016/03/28/SoybeansAtHarvest-MediumShot.jpg?timestamp=1550617672
+        1x\" media=\"(min-width: 1024px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___medium/s3/s3fs-public/image/2016/03/28/SoybeansAtHarvest-MediumShot.jpg?timestamp=1550617672
+        1x\" media=\"(min-width: 768px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/s3fs-public/image/2016/03/28/SoybeansAtHarvest-MediumShot.jpg?timestamp=1550617672
+        1x\" media=\"(min-width: 500px)\" />\n<source data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___small/s3/s3fs-public/image/2016/03/28/SoybeansAtHarvest-MediumShot.jpg?timestamp=1550617672
+        1x\" media=\"(min-width: 0px)\" />\n<!--[if IE 9]></video><![endif]-->\n<!--[if
+        lt IE 9]>\n<img  class=\"lazyload\" src=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2016/03/28/SoybeansAtHarvest-MediumShot.jpg?timestamp=1550617672\"
+        alt=\"Soybeans at harvest with combine in the background.\" title=\"\" />\n<![endif]-->\n<!--[if
+        !lt IE 9]><!-->\n<img  class=\"lazyload\" data-srcset=\"https://static.agriculture.com/styles/landscape___category_listing___large/s3/s3fs-public/image/2016/03/28/SoybeansAtHarvest-MediumShot.jpg?timestamp=1550617672
+        242w\" alt=\"Soybeans at harvest with combine in the background.\" title=\"\"
+        />\n<!-- <![endif]-->\n</picture>  </div>\n      <div class=\"views-field-type\">\n
+        \       <span class=\"type\">\n          <span class=\"field-content\">Article</span>
+        \       </span>\n      </div>\n  </div>\n  </article>\n    </div>\n  \n      <ul
+        class=\"pager pager--infinite-scroll \">\n  <li class=\"pager__item\">\n    <a
+        href=\"https://www.agriculture.com/markets/analysis/crops?page=1\">Show More</a>
+        \ </li>\n</ul>\n  \n  \n  \n  \n  \n</div>  </div>\n\n  \n  </div>\n</div>\n
+        \ \n          <div class=\"page-secondary-content\"><div class=\"panel-pane
+        pane-mag-category-menu\"  >\n  \n        <h2 class=\"pane-title\">\n      Categories
+        \   </h2>\n    \n  \n  <div class=\"pane-content\">\n    <nav class=\"category-main-menu\"><ul><li
+        class=\"first\"><a href=\"https://www.agriculture.com/markets/analysis/crops\"
+        class=\"active\">Crop Markets</a></li>\n<li class=\"last\"><a href=\"https://www.agriculture.com/markets/analysis/livestock\">Livestock
+        Markets</a></li>\n</ul></nav>  </div>\n\n  \n  </div>\n\n<div class=\"panel-pane
+        pane-views-panes pane-tips-panel-pane-2\"  >\n  \n      \n  \n  <div class=\"pane-content\">\n
+        \   <div class=\"view view-tips view-id-tips view-display-id-panel_pane_2
+        tip-of-the-day view-dom-id-673aaa22db0c6445c20f7ac50ba44529\">\n            <div
+        class=\"view-header\">\n      <h3 class=\"pane-title\">Tip of the Day</h3>\n
+        \   </div>\n  \n  \n  \n      <div class=\"view-content\">\n        <div>\n
+        \     \n  <h3>        <a href=\"https://www.agriculture.com/machinery/all-around-the-farm/vise-attachment-for-hitch-completes-a-shop-on-wheels\">Vise
+        attachment for hitch completes a shop on wheels</a>  </h3>  \n          <p><a
+        href=\"https://www.agriculture.com/machinery/all-around-the-farm/vise-attachment-for-hitch-completes-a-shop-on-wheels\"><picture
+        >\n<!--[if IE 9]><video style=\"display: none;\"><![endif]-->\n<source data-srcset=\"https://static.agriculture.com/styles/square___small_featured___large/s3/s3fs-public/image/2019/05/15/Hitch%20vise.jpg?timestamp=1557932079
+        1x\" data-aspectratio=\"180/180\" media=\"(min-width: 1220px)\" />\n<source
+        data-srcset=\"https://static.agriculture.com/styles/square___small_featured___large/s3/s3fs-public/image/2019/05/15/Hitch%20vise.jpg?timestamp=1557932079
+        1x\" data-aspectratio=\"180/180\" media=\"(min-width: 1024px)\" />\n<source
+        data-srcset=\"https://static.agriculture.com/styles/square___small_featured___medium/s3/s3fs-public/image/2019/05/15/Hitch%20vise.jpg?timestamp=1557932079
+        1x\" data-aspectratio=\"100/100\" media=\"(min-width: 768px)\" />\n<source
+        data-srcset=\"https://static.agriculture.com/styles/square___small_featured___small/s3/s3fs-public/image/2019/05/15/Hitch%20vise.jpg?timestamp=1557932079
+        1x\" data-aspectratio=\"100/100\" media=\"(min-width: 500px)\" />\n<source
+        data-srcset=\"https://static.agriculture.com/styles/square___small_featured___small/s3/s3fs-public/image/2019/05/15/Hitch%20vise.jpg?timestamp=1557932079
+        1x\" data-aspectratio=\"100/100\" media=\"(min-width: 0px)\" />\n<!--[if IE
+        9]></video><![endif]-->\n<!--[if lt IE 9]>\n<img  class=\"lazyload\" data-aspectratio=\"\"
+        src=\"https://static.agriculture.com/styles/square___small_featured___large/s3/s3fs-public/image/2019/05/15/Hitch%20vise.jpg?timestamp=1557932079\"
+        alt=\"hitch vise\" title=\"\" />\n<![endif]-->\n<!--[if !lt IE 9]><!-->\n<img
+        \ class=\"lazyload\" data-aspectratio=\"\" data-srcset=\"https://static.agriculture.com/styles/square___small_featured___large/s3/s3fs-public/image/2019/05/15/Hitch%20vise.jpg?timestamp=1557932079
+        180w\" alt=\"hitch vise\" title=\"\" />\n<!-- <![endif]-->\n</picture></a>
+        I realized that my farm\u2019s service truck had all the tooling my shop had
+        (a welder, torch, fuel supply, air, chop saws, grinders, etc.), but... <a
+        href=\"https://www.agriculture.com/machinery/all-around-the-farm/vise-attachment-for-hitch-completes-a-shop-on-wheels\"
+        class=\"views-more-link\">read more</a></p>    </div>\n    </div>\n  \n  \n
+        \ \n  \n  \n  \n</div>  </div>\n\n  \n  </div>\n\n  <div class=\"panel-pane
+        pane-views-panes pane-category-content-category-news\"  >\n\n    \n          <h2
+        class=\"pane-title\">Markets Newswire</h2><a href=\"http://www.reuters.com\"
+        class=\"logo-reuters-link logo-reuters-link-half-top-spacing\"><img src=\"/sites/all/modules/features/sfg_feature_reuters_connect/images/reuters.svg\"
+        class=\"logo-reuters\" alt=\"Reuters\" width=\"164\" height=\"41\" /></a>
+        \   \n    \n          <div class=\"pane-content\"><div class=\"view view-category-content
+        view-id-category_content view-display-id-category_news view-dom-id-5da581ed092265714f5f7166e5591cba\">\n
+        \       \n  \n  \n      <div class=\"view-content\">\n        <article class=\"views-row
+        views-row-1\">\n      \n  <div class=\"views-field views-field-title\">        <span
+        class=\"field-content\"><a href=\"https://www.agriculture.com/markets/newswire/deforestation-in-brazils-amazon-skyrockets-to-12-year-high-under-bolsonaro\">Deforestation
+        in Brazil&#039;s Amazon skyrockets to 12-year high under Bolsonaro</a></span>
+        \ </div>  \n  <div class=\"views-field views-field-created\">        <span
+        class=\"field-content\">11/30/2020 1:32 pm</span>  </div>  </article>\n  <article
+        class=\"views-row views-row-2\">\n      \n  <div class=\"views-field views-field-title\">
+        \       <span class=\"field-content\"><a href=\"https://www.agriculture.com/markets/newswire/grains-wheat-slides-3-on-russian-export-prospects-soy-corn-also-sag\">GRAINS-Wheat
+        slides 3% on Russian export prospects; soy, corn also sag</a></span>  </div>
+        \ \n  <div class=\"views-field views-field-created\">        <span class=\"field-content\">11/30/2020
+        1:07 pm</span>  </div>  </article>\n  <article class=\"views-row views-row-3\">\n
+        \     \n  <div class=\"views-field views-field-title\">        <span class=\"field-content\"><a
+        href=\"https://www.agriculture.com/markets/newswire/update-7-britain-and-eu-warn-that-time-is-running-out-for-brexit-trade-deal\">UPDATE
+        7-Britain and EU warn that time is running out for Brexit trade deal</a></span>
+        \ </div>  \n  <div class=\"views-field views-field-created\">        <span
+        class=\"field-content\">11/30/2020 11:12 am</span>  </div>  </article>\n  <article
+        class=\"views-row views-row-4\">\n      \n  <div class=\"views-field views-field-title\">
+        \       <span class=\"field-content\"><a href=\"https://www.agriculture.com/markets/newswire/south-korea-reports-bird-flu-outbreak-on-duck-farm-oie\">South
+        Korea reports bird flu outbreak on duck farm -OIE</a></span>  </div>  \n  <div
+        class=\"views-field views-field-created\">        <span class=\"field-content\">11/30/2020
+        10:44 am</span>  </div>  </article>\n    </div>\n  \n  \n  \n      \n<div
+        class=\"more-link\">\n  <a href=\"https://www.agriculture.com/markets/newswire\">\n
+        \   All Markets Newswire News  </a>\n</div>\n  \n  \n  \n</div></div>    \n
+        \   \n    \n  </div>\n\n<div class=\"panel-pane pane-sfg-category-twitter\"
+        \ >\n  \n      \n  \n  <div class=\"pane-content\">\n    <a href=\"https://twitter.com/search?q=agriculture\"
+        target=\"_blank\">See what\u2019s trending right now on agriculture</a>  </div>\n\n
+        \ \n  </div>\n\n<div class=\"panel-pane pane-mag-forum\"  >\n  \n      \n
+        \ \n  <div class=\"pane-content\">\n    <h2 class=\"forum-board-title\">Talk
+        in Marketing</h2><div class=\"forum-board board-marketing\" id=\"lia-ac-lt-marketing\"><a
+        href=\"http://community.agriculture.com/t5/marketing/bd-p/marketing\" target=\"_blank\"
+        class=\"forum-board-more-link\">All talk</a></div>  </div>\n\n  \n  </div>\n\n<div
+        class=\"panel-pane pane-mag-advertisements-karma\"  >\n  \n      \n  \n  <div
+        class=\"pane-content\">\n    <div data-tier=\"2\" id=\"karma-lazy-lazy-skyscraper-37ec3f4f\"
+        lazy=\"div-gpt-lazy-skyscraper\" class=\"skyscraper\"> </div>  </div>\n\n
+        \ \n  </div>\n</div>\n    \n  \n  \n  </section>\n\n</div>\n  </div>\n\n  \n
+        \ </div>\n  </main>\n\n  <footer id=\"footer\" class=\"site-footer\" role=\"contentinfo\">\n\n
+        \         <section id=\"footer-nav\" class=\"site-footer-nav\">\n        <div
+        class=\"container\">\n          <div class=\"panel-pane pane-block pane-menu-footer-browse-menu\"
+        \ >\n  \n        <h2 class=\"pane-title\">\n      Browse    </h2>\n    \n
+        \ \n  <div class=\"pane-content\">\n    <ul class=\"menu\"><li class=\"first
+        leaf\"><a href=\"https://www.agriculture.com/news\">News</a></li>\n<li class=\"leaf\"><a
+        href=\"https://www.agriculture.com/markets\">Markets</a></li>\n<li class=\"leaf\"><a
+        href=\"https://www.agriculture.com/weather/news\">Weather</a></li>\n<li class=\"leaf\"><a
+        href=\"https://www.agriculture.com/machinery\">Machinery</a></li>\n<li class=\"leaf\"><a
+        href=\"https://www.agriculture.com/crops\">Crops</a></li>\n<li class=\"leaf\"><a
+        href=\"https://www.agriculture.com/technology\">Technology</a></li>\n<li class=\"leaf\"><a
+        href=\"https://www.agriculture.com/farm-management\">Farm Management</a></li>\n<li
+        class=\"leaf\"><a href=\"https://www.agriculture.com/livestock\">Livestock</a></li>\n<li
+        class=\"leaf\"><a href=\"https://www.agriculture.com/family\">Family</a></li>\n<li
+        class=\"leaf\"><a href=\"https://community.agriculture.com/\" title=\"\">Talk</a></li>\n<li
+        class=\"leaf\"><a href=\"https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=SFG&amp;cds_page_id=166174&amp;cds_response_key=I47GOON69\"
+        title=\"Get your FREE subscription to Successful Farming \">Magazine</a></li>\n<li
+        class=\"leaf\"><a href=\"https://www.agriculture.com/tv\" title=\"\">TV</a></li>\n<li
+        class=\"last leaf\"><a href=\"https://www.agriculture.com/radio\">Radio</a></li>\n</ul>
+        \ </div>\n\n  \n  </div>\n\n<div class=\"panel-pane pane-sfg-footer-user-menu\"
+        \ >\n  \n        <h2 class=\"pane-title\">\n      Your Account    </h2>\n
+        \   \n  \n  <div class=\"pane-content\">\n    <ul class=\"menu\"><li class=\"first\"><a
+        href=\"https://secure.agriculture.com/common/profile/login1.jsp?regSource=2544&amp;returnURL=https%3A//www.agriculture.com/markets/analysis/crops\"
+        id=\"footerLogin\" class=\"login\">Login</a></li>\n<li><a href=\"https://secure.agriculture.com/common/profile/regStep1.jsp?regSource=2544&amp;returnURL=https%3A//www.agriculture.com/markets/analysis/crops\"
+        class=\"join-now\" id=\"footerJoinNow\">Join</a></li>\n<li class=\"last\"><a
+        href=\"https://x.e.buysub.com/ats/show.aspx?cr=724&amp;fm=20\" class=\"newsletter\"
+        id=\"headerNewsletter\">Manage Newsletters</a></li>\n</ul>  </div>\n\n  \n
+        \ </div>\n\n<div class=\"panel-pane pane-block pane-menu-footer-magazine-menu\"
+        \ >\n  \n        <h2 class=\"pane-title\">\n      Magazine    </h2>\n    \n
+        \ \n  <div class=\"pane-content\">\n    <ul class=\"menu\"><li class=\"first
+        leaf\"><a href=\"https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=SFG&amp;cds_page_id=166174&amp;cds_response_key=I47GOON63\"
+        title=\"\">Subscribe</a></li>\n<li class=\"leaf\"><a href=\"https://w1.buysub.com/servlet/CSGateway?cds_mag_code=SFG\"
+        title=\"\">Renew Subscription</a></li>\n<li class=\"last leaf\"><a href=\"https://w1.buysub.com/servlet/CSGateway?cds_mag_code=SFG\"
+        title=\"\">Magazine Customer Service</a></li>\n</ul>  </div>\n\n  \n  </div>\n\n<div
+        class=\"panel-pane pane-panels-mini pane-footer-contact\"  >\n  \n      \n
+        \ \n  <div class=\"pane-content\">\n    \n<div class=\"panel-layout aurora-sample-layout
+        \" id=\"mini-panel-footer_contact\">\n  <section class=\"aurora-sample-section
+        aurora-section-first\">\n    <div class=\"panel-pane pane-block pane-menu-footer-contact-menu\"
+        \ >\n  \n        <h2 class=\"pane-title\">\n      Contact    </h2>\n    \n
+        \ \n  <div class=\"pane-content\">\n    <ul class=\"menu\"><li class=\"first
+        leaf\"><a href=\"https://www.agriculture.com/contact\">Contact Us</a></li>\n<li
+        class=\"last leaf\"><a href=\"https://www.meredith.com/brand/successfulfarming\"
+        title=\"\">Advertise With Us</a></li>\n</ul>  </div>\n\n  \n  </div>\n\n<div
+        class=\"panel-pane pane-block pane-menu-footer-social-menu\"  >\n  \n        <h2
+        class=\"pane-title\">\n      Follow Us    </h2>\n    \n  \n  <div class=\"pane-content\">\n
+        \   <ul class=\"menu\"><li class=\"first leaf\"><a href=\"https://www.facebook.com/SuccessfulFarmingUSA/\"
+        class=\"footer-social-facebook\" title=\"\">Facebook</a></li>\n<li class=\"leaf\"><a
+        href=\"https://twitter.com/SuccessfulFarm\" class=\"footer-social-twitter\"
+        title=\"\">Twitter</a></li>\n<li class=\"leaf\"><a href=\"https://instagram.com/successful_farming/\"
+        class=\"footer-social-instagram\">Instagram</a></li>\n<li class=\"last leaf\"><a
+        href=\"https://www.youtube.com/user/Agriculturecom\" class=\"footer-social-youtube\"
+        title=\"\">YouTube</a></li>\n</ul>  </div>\n\n  \n  </div>\n  </section>\n
+        \ <section class=\"aurora-sample-section aurora-section-second\">\n      </section>\n
+        \ <section class=\"aurora-sample-section aurora-section-third\">\n      </section>\n</div>\n
+        \ </div>\n\n  \n  </div>\n\n\n<div id=\"subscribeFooter\" class=\"panel-pane
+        subscribeFooter\"></div>\n        </div>\n      </section>\n    \n    <div
+        class=\"container\">\n      <div class=\"panel-pane pane-meredith-agrimedia-logo\"
+        \ >\n  \n      \n  \n  <div class=\"pane-content\">\n    <img src=\"https://www.agriculture.com/sites/all/themes/custom/sfg/img/logos/meredith-agrimedia.jpg\"
+        alt=\"Meredith Agrimedia\" />  </div>\n\n  \n  </div>\n\n<div class=\"panel-pane
+        pane-mag-copyright-pane\"  >\n  \n      \n  \n  <div class=\"pane-content\">\n
+        \   <p>&copy; 2020 Meredith Corporation. All Rights Reserved.<p>All <a href=\"https://www.barchart.com/solutions/\">https://www.barchart.com/solutions/</a>
+        is provided by Barchart Solutions.</p><p>Futures: at least 10 minute delayed.
+        Information is provided 'as is' and solely for informational purposes, not
+        for trading purposes or advice. To see all exchange delays and terms of use,
+        please see <a href=\"https://www.barchart.com/solutions/terms\">https://www.barchart.com/solutions/terms</a>.</p><p><a
+        href=\"https://www.cmegroup.com/\"><img src=\"https://www.agriculture.com/sites/all/modules/custom/sfg_barchart/icons/cme_logo.png\"
+        /></a></p><p><a href=\"https://www.theice.com/\"><img src=\"https://www.agriculture.com/sites/all/modules/custom/sfg_barchart/icons/ice_logo.png\"
+        /></a></p>  </div>\n\n  \n  </div>\n\n<div class=\"panel-pane pane-block pane-menu-footer-legal-links\"
+        \ >\n  \n      \n  \n  <div class=\"pane-content\">\n    <ul class=\"menu\"><li
+        class=\"first leaf\"><a href=\"https://www.meredith.com/nmg/privacy\" title=\"\">Privacy
+        Policy</a></li>\n<li class=\"leaf\"><a href=\"http://www.meredith.com/legal/terms\"
+        title=\"\">Terms of Service</a></li>\n<li class=\"leaf\"><a href=\"https://app-de.onetrust.com/app/#/webform/0c410d51-8e85-4308-9bb9-37c24a461ccb?uid=\">EU
+        Data Subject Requests</a></li>\n<li class=\"last leaf\"><a href=\"http://info.evidon.com/pub_info/282?v=1&amp;nt=0&amp;nw=false\"
+        class=\"link-adchoices\">AdChoices</a></li>\n</ul>  </div>\n\n  \n  </div>\n\n<div
+        class=\"panel-pane pane-mag-advertisements-karma mobile-adhesive-ad\"  >\n
+        \ \n      \n  \n  <div class=\"pane-content\">\n    <div data-tier=\"1\" mobile=\"1\"
+        id=\"div-gpt-mob-adhesive-banner-fixed\" class=\"adhesive-banner\"> </div>
+        \ </div>\n\n  \n  </div>\n    </div>\n  </footer>\n    <script async=\"async\"
+        src=\"//admin.brightcove.com/js/BrightcoveExperiences.js\"></script>\n<script
+        src=\"https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js\"></script>\n<script
+        src=\"https://www.agriculture.com/sites/default/files/advagg_js/js__pqoYaVR8NVhof-vNXe50j2TKhFv__IihVag_h4G6kus__B4mbn4wICLQjWm1m3-z1kw8F1FtP0cDAHKp00Xy_-88__iO5usVntQNhvAiNJ-o0V3dAXekZMy_R1Kv-fSTd8xOU.js\"></script>\n<script
+        src=\"https://www.agriculture.com/sites/default/files/advagg_js/js__EDBsJC6RIvStUs9gR7bSi7Sokm1vXhFXw1yHWkZuNlE__FdP5gPBJDi6d0_z5hsVnUgBQFOgWyFzje2VOnIOBgMI__iO5usVntQNhvAiNJ-o0V3dAXekZMy_R1Kv-fSTd8xOU.js\"
+        async=\"async\"></script>\n<script src=\"https://www.agriculture.com/sites/default/files/advagg_js/js__eYJErGWkSJz9r3pjpOC_OxgQwSPqQzBgHdlK15PkKmU__HQNDfXfX4KyWCNA25y3kjkmN00JBULrDqvX_8x2zeyw__iO5usVntQNhvAiNJ-o0V3dAXekZMy_R1Kv-fSTd8xOU.js\"></script>\n<script>\nfunction
+        advagg_mod_defer_1() {\n  document.createElement( \"picture\" );;\n}\nwindow.setTimeout(advagg_mod_defer_1,
+        0);</script>\n<script>\nfunction advagg_mod_defer_2() {\n  document.createElement(
+        \"picture\" );;\n}\nwindow.setTimeout(advagg_mod_defer_2, 0);</script>\n<script>(function(t,s){const
+        d=window.document;const now=Math.floor(Date.now()/1000);const newYear2020=1577836800;d.oneTrustIsEnabled=!1;if(now>=newYear2020||d.location.hash==='#ccpa'){const
+        otscript=d.createElement('script');const firstscr=d.getElementsByTagName('script')[0];otscript.src='https://cdn.cookielaw.org/scripttemplates/otSDKStub.js';otscript.type='text/javascript';otscript.charset='UTF-8';otscript.async=!0;otscript.setAttribute('data-domain-script',t+(s!='prod'?'-test':''));firstscr.parentNode.insertBefore(otscript,firstscr);d.oneTrustIsEnabled=!0}}('190a24bd-f197-4544-ba07-d06795ac01d9','prod'));function
+        OptanonWrapper(){};</script>\n<script>;function getEUDSARlink(){let elem;const
+        links=document.getElementsByTagName('a');for(let link of links){if(link.innerHTML=='EU
+        Data Subject Requests'){elem=link;break}};return elem};var mdp=mdp||{};mdp.hideCcpaLink=!1;mdp.locinfo=(function(){const
+        ckName='mdp.privacy.loc';let locCode=0;const init=function(){const oTGeoSvc='https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location/meredithOneTrustGeoloc';const
+        re=new RegExp('(?:(?:^|.*;\\s*)'+ckName.replace(/\\./g,'\\.')+'\\s*\\=\\s*([^;]*).*$)|^.*$');const
+        ckVal=document.cookie.replace(re,'$1');if(ckVal.length){locCode=Number(ckVal);if(locCode===0){hideCcpaLink()}}\nelse{const
+        jsonp=document.createElement('script');jsonp.setAttribute('src',oTGeoSvc);document.head.appendChild(jsonp)}};const
+        jsonpHandler=function(e){const euNtns=['BE','BG','CZ','DK','DE','EE','IE','GR','ES','FR','IT','CY','LV','LT','LU','HU','MT','NL','AT','PL','PT','RO','SI','SK','FI','SE','GB','HR','LI','NO','IS'];const
+        country=e.country;if(euNtns.indexOf(country)!==-1){locCode=1}\nelse if(country==='US'){locCode=2};document.cookie=ckName+'='+locCode;document.cookie=ckName+'='+locCode+';
+        max-age=604800';document.cookie=ckName+'='+locCode+'; max-age=604800; secure';if(locCode===0){hideCcpaLink()}};const
+        hideCcpaLink=function(){elem=getEUDSARlink();elem.parentNode.style.display='none'};const
+        getValidationState=function(){const hash=window.document.location.hash;return
+        locCode!==0&&hash!=='#ccpa'};const checkIfInUS=function(){return locCode===2};return{init:init,jsonpHandler:jsonpHandler,getValidationState:getValidationState,hideCcpaLink:hideCcpaLink,checkIfInUS:checkIfInUS}}());mdp.locinfo.init();function
+        meredithOneTrustGeoloc(e){mdp.locinfo.jsonpHandler(e)};</script>\n<script>;function
+        advagg_mod_2(){advagg_mod_2.count=++advagg_mod_2.count||1;try{if(advagg_mod_2.count<=40){(function(o){if(o&&typeof
+        o!==\"undefined\"){const d=window.document;if(d.oneTrustIsEnabled===!0){jQuery(\"<a
+        href='javascript:void(0)' class='ot-sdk-show-settings'>California Do Not Sell</a>\").insertAfter(o);o.style.display=\"none\"}}}(getEUDSARlink()));advagg_mod_2.count=100}}catch(o){if(advagg_mod_2.count>=40){throw
+        o}\nelse{window.setTimeout(advagg_mod_2,250)}}};function advagg_mod_2_check(){if(window.jQuery&&window.Drupal&&window.Drupal.settings){advagg_mod_2()}\nelse{window.setTimeout(advagg_mod_2_check,250)}};advagg_mod_2_check();</script>\n<script>;function
+        advagg_mod_defer_4(){WebFont.load({google:{families:['Fjalla One','Work Sans:600','Gravitas
+        One']}})};window.setTimeout(advagg_mod_defer_4,0);</script>\n<script src=\"https://community.agriculture.com/t5/activecast/latestthreadspage?profile.language=en&amp;activecast.parent_element_id=lia-ac-lt-marketing\"></script>\n<script
+        src=\"https://www.agriculture.com/sites/default/files/advagg_js/js__MjvzG37o-I4TaKUClSQtcfeYgQ_tLi6qO7Hc6QLaj4Q__jMMhqebLeMxYpP87FpQFEfRULI06unBxXTFoiVSTC7s__iO5usVntQNhvAiNJ-o0V3dAXekZMy_R1Kv-fSTd8xOU.js\"></script>\n<script
+        src=\"https://www.agriculture.com/sites/default/files/advagg_js/js__GM3GJPR36rRIz0TRkjC5OQwrioSyN9aoYRivDhCO_AM__qAl84FcCv2jyN22yFGS5Oc85cjd9zKX6p_cFNLGhe-M__iO5usVntQNhvAiNJ-o0V3dAXekZMy_R1Kv-fSTd8xOU.js\"
+        async=\"async\"></script>\n<script src=\"https://www.agriculture.com/sites/default/files/advagg_js/js__pK9GoomWpdXvzKZs4JDwLFjEWMGtizt2ApEa3T9HgHc__Tn1hf427HjaYhmani8NC0jm730Yo8uZnpVnevGkehuQ__iO5usVntQNhvAiNJ-o0V3dAXekZMy_R1Kv-fSTd8xOU.js\"></script>\n<script>function
+        advagg_mod_defer_3(){LITHIUM.ActiveCast.getLatestThreads(\"marketing\",{parentElementId:\"lia-ac-lt-marketing\",numSubjectWords:\"8\",displayNodeTitle:1,hrefTarget:\"_blank\",maxNumberOfMessages:\"2\",numBodyWords:\"10\",displayNodeLabel:0})};window.setTimeout(advagg_mod_defer_3,0);</script>\n
+        \ <script type=\"text/javascript\">window.NREUM||(NREUM={});NREUM.info={\"beacon\":\"bam-cell.nr-data.net\",\"licenseKey\":\"55db0cb698\",\"applicationID\":\"608121443\",\"transactionName\":\"YwABYUUDXUIABRZbCVpKIlZDC1xfThYDVQNrCAJbVgVWQz4SB0ALaxMKUEA9Q1AGAw==\",\"queueTime\":0,\"applicationTime\":735,\"atts\":\"T0cCFw0ZTkw=\",\"errorBeacon\":\"bam-cell.nr-data.net\",\"agent\":\"\"}</script></body>\n</html>\n"
+    headers:
+      Age:
+      - '143'
+      Cache-Control:
+      - s-maxage=900
+      Connection:
+      - keep-alive
+      Content-Language:
+      - en
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Mon, 30 Nov 2020 20:24:36 GMT
+      Expires:
+      - Sun, 19 Nov 1978 05:00:00 GMT
+      Link:
+      - <https://www.agriculture.com/markets/analysis/crops>; rel="canonical"
+      Server:
+      - Apache
+      Set-Cookie:
+      - AWSALB=N9I2JAGMt+lYSLCYM5qu4PCp9Z/+BWdZshac6d7/J6TtH2fwn8qZa9EhYWNXD7WIiaKQbY18sdR/QRWCd/lrF3p5+LH1yv8psOt/w3cjOtoq9klNKmMY0SxMSj+V;
+        Expires=Mon, 07 Dec 2020 20:24:36 GMT; Path=/
+      - AWSALBCORS=N9I2JAGMt+lYSLCYM5qu4PCp9Z/+BWdZshac6d7/J6TtH2fwn8qZa9EhYWNXD7WIiaKQbY18sdR/QRWCd/lrF3p5+LH1yv8psOt/w3cjOtoq9klNKmMY0SxMSj+V;
+        Expires=Mon, 07 Dec 2020 20:24:36 GMT; Path=/; SameSite=None; Secure
+      Transfer-Encoding:
+      - chunked
+      Via:
+      - 1.1 4a93be6e6adaadeec2a72967f0720081.cloudfront.net (CloudFront)
+      X-Amz-Cf-Id:
+      - Kn77is_wa6YQ65-rKHHEYb6f01hczcWE9xXT5HRa2PcD7duIdm9ULw==
+      X-Amz-Cf-Pop:
+      - EWR52-C1
+      X-Cache:
+      - Hit from cloudfront
+      X-Content-Type-Options:
+      - nosniff
+      - nosniff
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Generator:
+      - Drupal 7 (http://drupal.org)
+      X-UA-Compatible:
+      - IE=Edge,chrome=1
+    status:
+      code: 200
+      message: OK
+version: 1

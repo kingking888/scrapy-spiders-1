@@ -1,0 +1,916 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - insideevs.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://insideevs.com/fisker/karma/news/?p=3
+  response:
+    body:
+      string: "<!DOCTYPE html><html prefix=\"og: http://ogp.me/ns#\" lang=\"en\">\n<head>\n
+        \   <meta charset=\"utf-8\">\n    <title>Fisker Karma News Articles and Press
+        Releases</title>\n\n    <link rel=\"icon\" type=\"image/png\" sizes=\"32x32\"
+        href=\"https://cdn.motor1.com/images/static/insideevs/favicon-32.png\">\n
+        \   <link rel=\"icon\" type=\"image/png\" sizes=\"96x96\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-96.png\">\n
+        \   <link rel=\"icon\" type=\"image/png\" sizes=\"128x128\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-128.png\">\n
+        \   <link rel=\"icon\" type=\"image/png\" sizes=\"195x195\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-195.png\">\n
+        \   <link rel=\"icon\" type=\"image/png\" sizes=\"196x196\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-196.png\">\n
+        \   <link rel=\"icon\" type=\"image/png\" sizes=\"228x228\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-228.png\">\n
+        \   <link rel=\"apple-touch-icon-precomposed\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-57.png\">\n
+        \   <link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-114.png\">\n
+        \   <link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-72.png\">\n
+        \   <link rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-144.png\">\n
+        \   <link rel=\"apple-touch-icon\" sizes=\"60x60\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-60.png\">\n
+        \   <link rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-120.png\">\n
+        \   <link rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-76.png\">\n
+        \   <link rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-152.png\">\n
+        \   <link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-180.png\">\n\n
+        \   <meta name=\"msapplication-square128x128logo\" content=\"https://cdn.motor1.com/images/static/insideevs/smalltile.png\"/>\n
+        \   <meta name=\"msapplication-square270x270logo\" content=\"https://cdn.motor1.com/images/static/insideevs/mediumtile.png\"/>\n
+        \   <meta name=\"msapplication-square580x580logo\" content=\"https://cdn.motor1.com/images/static/insideevs/largetile.png\"/>\n\n
+        \   <link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\"/>\n
+        \           <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700\"
+        rel=\"stylesheet\">\n    \n    \n\n        <script>\n        window.polymerLocale
+        = 'en-US';\n        window.polymerLocalePath = 'https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/polymer2/locales1605794794/en-US.json';\n
+        \       var jsVars = {\"services\":{\"brealtime\":{\"load\":0,\"id\":\"12851701\"}},\"ads\":{\"dfp\":{\"id\":\"6122441\"}},\"ui\":{\"auto_infinite_scroll\":true}};
+        \   </script>\n\n    \n    <link title=\"Latest news\" type=\"application/rss+xml\"
+        rel=\"alternate\" href=\"/rss/news/all/\"/>\n    <link title=\"Latest videos\"
+        type=\"application/rss+xml\" rel=\"alternate\" href=\"/rss/videos/all/\"/>\n
+        \       <meta name=\"description\" content=\"Read the latest news about Karma
+        vehicles to learn about model updates, auto show reveals, next-gen versions
+        and recalls.\">\n<meta property=\"og:title\" content=\"Fisker Karma News Articles
+        and Press Releases\">\n<meta property=\"og:description\" content=\"Read the
+        latest news about Karma vehicles to learn about model updates, auto show reveals,
+        next-gen versions and recalls.\">\n<meta property=\"og:type\" content=\"website\">\n<meta
+        property=\"og:url\" content=\"https://insideevs.com/fisker/karma/news/\">\n<meta
+        property=\"og:image\" content=\"https://cdn.motor1.com/custom/share/inside_evs_loadimage.png\">\n<meta
+        property=\"og:image:width\" content=\"1280\">\n<meta property=\"og:image:height\"
+        content=\"720\">\n<meta property=\"og:site_name\" content=\"InsideEVs\">\n<meta
+        property=\"fb:admins\" content=\"100001157785488\">\n<meta property=\"fb:app_id\"
+        content=\"984245018262500\">\n<meta property=\"fb:pages\" content=\"357684877628739\">\n<meta
+        property=\"twitter:card\" content=\"summary_large_image\">\n<meta property=\"twitter:site\"
+        content=\"InsideEVs\">\n<meta property=\"twitter:title\" content=\"Fisker
+        Karma News Articles and Press Releases\">\n<meta property=\"twitter:description\"
+        content=\"Read the latest news about Karma vehicles to learn about model updates,
+        auto show reveals, next-gen versions and recalls.\">\n<meta property=\"twitter:image\"
+        content=\"https://cdn.motor1.com/custom/share/inside_evs_loadimage.png\">\n<meta
+        name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta
+        http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><link href=\"https://insideevs.com/fisker/karma/news/\"
+        rel=\"canonical\">\n<link href=\"/fisker/karma/news/?p=2\" rel=\"prev\">    <link
+        rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/design/dist/css/0_02ec9e7c2da3a31bc5ca.css\"><link
+        rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/design/dist/css/1_02ec9e7c2da3a31bc5ca.css\"><link
+        rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/design/dist/css/4_02ec9e7c2da3a31bc5ca.css\">
+        \           <link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/ev-design/dist/css/0_116ce13b406a5a353f1f.css\">
+        \   \n    <script>\n        window.isAuthorized = 0    </script>\n\n\n    \n\n
+        \       \n        \n</head>\n<body         class=\"nojs not-touch m1-skin-layout\n
+        \                                                                       \"\n
+        \       data-spotim-id=\"\" data-edtn=\"ev_us\"\n        data-track-url=\"\"
+        >\n<div class=\"hiddenBlock\">\n    <div class=\"apOutstream\"><div class=\"ap\"
+        data-place=\"8\" style=\"width:1px;min-height:1px;\" data-dfp-code=\"EV/ev_us/Outstream\"
+        data-width=\"1\" data-height=\"1\" data-dfp-attrs='{\"msnt_env\":\"production\",\"m1_banner_place\":\"outstream\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_type\":\"browse\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_banner_position\":\"outstream\"}'></div></div></div>\n<div
+        class=\"apOverlay m1-ap-overlay\"><div class=\"ap\" data-place=\"17\" style=\"width:0px;min-height:0px;\"
+        data-dfp-code=\"EV/ev_us/Overlay\" data-width=\"0\" data-height=\"0\" data-dfp-attrs='{\"msnt_env\":\"production\",\"m1_banner_place\":\"overlay\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_type\":\"browse\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_banner_position\":\"overlay\"}'></div></div><div
+        class=\"apOverlay m1-ap-overlay-2\"><div class=\"ap\" data-place=\"18\" style=\"width:0px;min-height:0px;\"
+        data-dfp-code=\"EV/ev_us/Overlay2\" data-width=\"0\" data-height=\"0\" data-dfp-attrs='{\"msnt_env\":\"production\",\"m1_banner_place\":\"overlay2\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_type\":\"browse\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_banner_position\":\"overlay2\"}'></div></div><div
+        class=\"apOverlay m1-ap-overlay-3\"><div class=\"ap\" data-place=\"20\" style=\"width:0px;min-height:0px;\"
+        data-dfp-code=\"EV/ev_us/Overlay3\" data-width=\"0\" data-height=\"0\" data-dfp-attrs='{\"msnt_env\":\"production\",\"m1_banner_place\":\"overlay3\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_type\":\"browse\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_banner_position\":\"overlay3\"}'></div></div><div
+        class=\"apOverlay m1-ap-overlay-4\"><div class=\"ap\" data-place=\"21\" style=\"width:0px;min-height:0px;\"
+        data-dfp-code=\"EV/ev_us/Overlay4\" data-width=\"0\" data-height=\"0\" data-dfp-attrs='{\"msnt_env\":\"production\",\"m1_banner_place\":\"overlay4\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_type\":\"browse\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_banner_position\":\"overlay4\"}'></div></div><div
+        data-role=\"page\" id=\"page_index_articles_browse\" class=\"root\">\n\n    <div
+        id=\"layout_header_spacer\"></div>\n<div class=\"m1-header-main\">\n    <div
+        class=\"m1-header-main-box\">\n        <div class=\"m1-header-main-box-wrapper\">\n
+        \           <div class=\"box-item-left\">\n                <div class=\"m1-hamburger-button\"
+        data-hide-scroll=\"m1-left-side-box\" data-close-delay=\"0.5\" data-delay=\"0.01\"
+        onclick=\"\" data-button data-id=\"toggleBox\" data-value=\"mainMenu\" data-clear=\"2\"
+        data-multi>\n                    <span></span>\n                    <span></span>\n
+        \                   <span></span>\n                </div>\n\n            </div>\n
+        \           <div class=\"wrapper-box-item-center\">\n                <div
+        class=\"box-item-center\">\n                    <a class=\"m1-header-logo\"
+        href=\"/\" title=\"Home\">\n                        <img class=\"logo_placeholder\"
+        src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAAoCAYAAAC7HLUcAAABN2lDQ1BBZG9iZSBSR0IgKDE5OTgpAAAokZWPv0rDUBSHvxtFxaFWCOLgcCdRUGzVwYxJW4ogWKtDkq1JQ5ViEm6uf/oQjm4dXNx9AidHwUHxCXwDxamDQ4QMBYvf9J3fORzOAaNi152GUYbzWKt205Gu58vZF2aYAoBOmKV2q3UAECdxxBjf7wiA10277jTG+38yH6ZKAyNguxtlIYgK0L/SqQYxBMygn2oQD4CpTto1EE9AqZf7G1AKcv8ASsr1fBBfgNlzPR+MOcAMcl8BTB1da4Bakg7UWe9Uy6plWdLuJkEkjweZjs4zuR+HiUoT1dFRF8jvA2AxH2w3HblWtay99X/+PRHX82Vun0cIQCw9F1lBeKEuf1UYO5PrYsdwGQ7vYXpUZLs3cLcBC7dFtlqF8hY8Dn8AwMZP/fNTP8gAAAAJcEhZcwAACxMAAAsTAQCanBgAAAXcaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjYtYzE0MiA3OS4xNjA5MjQsIDIwMTcvMDcvMTMtMDE6MDY6MzkgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpwaG90b3Nob3A9Imh0dHA6Ly9ucy5hZG9iZS5jb20vcGhvdG9zaG9wLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDQyAoV2luZG93cykiIHhtcDpDcmVhdGVEYXRlPSIyMDE5LTAzLTIxVDE5OjQwOjU4KzAyOjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxOS0wNC0xN1QxNjozMTowNyswMzowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxOS0wNC0xN1QxNjozMTowNyswMzowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJBZG9iZSBSR0IgKDE5OTgpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmUyNzkxOGJjLWMwNzUtMGI0MC05NjZhLTYyYzc5YWU4MTQ3MyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo5M2MwZTZhMy0wZWRkLTdiNGQtYWNhMC1lNzYyOWI2MWMzNjQiIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo5M2MwZTZhMy0wZWRkLTdiNGQtYWNhMC1lNzYyOWI2MWMzNjQiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOjkzYzBlNmEzLTBlZGQtN2I0ZC1hY2EwLWU3NjI5YjYxYzM2NCIgc3RFdnQ6d2hlbj0iMjAxOS0wMy0yMVQxOTo0MDo1OCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6ZTI3OTE4YmMtYzA3NS0wYjQwLTk2NmEtNjJjNzlhZTgxNDczIiBzdEV2dDp3aGVuPSIyMDE5LTA0LTE3VDE2OjMxOjA3KzAzOjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgQ0MgKFdpbmRvd3MpIiBzdEV2dDpjaGFuZ2VkPSIvIi8+IDwvcmRmOlNlcT4gPC94bXBNTTpIaXN0b3J5PiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pi6NzcEAAACESURBVHic7dOxEcAgEMCwkP13fhbg3EIhTeDGa2Y+4Oy/HQAvMwgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0DYHQwDTc0ccLgAAAAASUVORK5CYII=\"
+        alt=\"logo\">\n                    </a>\n                </div>\n            </div>\n
+        \           <div class=\"m1-header-main-box-wrapper-sub\" style=\"position:
+        relative;\">\n                <div class=\"box-item-pre-left\">\n                    <ul
+        class=\"m1-navigation-main print-hide\">\n                        <li class=\"grand
+        top left mobile\">\n            <a href=\"/news/\"  >\n                                    News
+        \                           </a>\n        </li>\n                    <li class=\"grand
+        top left\">\n            <a href=\"/reviews/\"  >\n                                    Reviews
+        \                           </a>\n        </li>\n                    <li class=\"grand
+        left\">\n            <a href=\"/features/\"  >\n                                    Features
+        \                           </a>\n        </li>\n                    <li class=\"mobile\">\n
+        \           <a href=\"/tesla/\"  >\n                                    Tesla
+        \                           </a>\n        </li>\n                    <li class=\"top
+        left\">\n            <a href=\"/reviews/344001/compare-evs/\"  >\n                                    Compare
+        EVs                            </a>\n        </li>\n                    <li
+        class=\"left\">\n            <a href=\"/features/341500/the-ultimate-buyers-guide-to-home-ev-chargers-plus-top-5-picks/\"
+        \ >\n                                    Charger Guide                            </a>\n
+        \       </li>\n                    <li class=\"left\">\n            <a href=\"/features/category/buying-advice/\"
+        \ >\n                                    Buying Advice                            </a>\n
+        \       </li>\n                    <li class=\"left\">\n            <a href=\"/news/343998/monthly-plug-in-ev-sales-scorecard/\"
+        \ >\n                                    EV Sales Scorecard                            </a>\n
+        \       </li>\n                    <li class=\"mobile\">\n            <a href=\"/news/343998/monthly-plug-in-ev-sales-scorecard/\"
+        \ >\n                                    EV Sales                            </a>\n
+        \       </li>\n                    <li class=\"left\">\n            <a href=\"/makes/\"
+        \ >\n                                    Makes                            </a>\n
+        \       </li>\n                    <li class=\"left\">\n            <a href=\"/body-styles/\"
+        \ >\n                                    Body Style                            </a>\n
+        \       </li>\n                    <li class=\"left top _blank\">\n            <a
+        href=\"https://insideevsforum.com/community/index.php\"  target = \"_blank\">\n
+        \                                   Forum                            </a>\n
+        \       </li>\n                    <li class=\"left _blank\">\n            <a
+        href=\"https://www.myev.com/cars-for-sale\"  target = \"_blank\">\n                                    Buy
+        \                           </a>\n        </li>\n                    <li class=\"podcast
+        ico left\">\n            <a href=\"https://insideevs.com/features/category/podcast/\"
+        \ >\n                                    Podcast                            </a>\n
+        \       </li>\n                    <li class=\"photos ico left\">\n            <a
+        href=\"/photos/\"  >\n                                    Photos                            </a>\n
+        \       </li>\n                    <li class=\"videos ico left\">\n            <a
+        href=\"/videos/\"  >\n                                    Videos                            </a>\n
+        \       </li>\n                    <li class=\"top plugin-sale\">\n            <a
+        href=\"/news/343998/monthly-plug-in-ev-sales-scorecard/\"  >\n                                    Ev
+        Sales Scorecard                            </a>\n        </li>\n    </ul>
+        \               </div>\n                                    <!-- <div class=\"wrapper-plugin-sale\">\n
+        \                       <div class=\"top plugin-sale\">\n                            <a
+        href=\"https://insideevs.com/monthly-plug-in-sales-scorecard/\">Ev Sales Scorecard</a>\n
+        \                       </div>\n                    </div> -->\n                                                    <div
+        class=\"m1-search-form-button-wrapper\">\n                        <button
+        class=\"m1-search-form-button-animate icon-search\"\n                                onclick\n
+        \                               data-button\n                                data-id=\"toggleBox\"\n
+        \                               data-clear=\"1\"\n                                data-value=\"searchBox\"\n
+        \                               data-multi\n                                type=\"submit\">\n
+        \                       </button>\n                        <div class=\"m1-search-panel\">\n
+        \                           <form action=\"/search/\" class=\"m1-search-form\"
+        method=\"GET\" id=\"header_search_form\" data-native=\"0\" novalidate=\"novalidate\">\n
+        \                               <input class=\"m1-search-panel-input m1-search-form-text\"
+        id=\"search_input\" type=\"text\" value=\"\" name=\"q\" placeholder=\"Search\"
+        autocomplete=\"off\">\n                                <button class=\"m1-search-panel-button
+        m1-search-form-button-animate icon-search \" type=\"submit\">\n                                </button>\n
+        \                               <button onclick=\"\"\n                                        data-button\n
+        \                                       data-id=\"toggleBox\"\n                                        data-value=\"searchBox\"\n
+        \                                       data-clear=\"1\"\n                                        data-toggle=\"1\"\n
+        \                                       data-multi\n                                        class=\"m1-search-panel-button
+        m1-drawer-close-button\">\n                                </button>\n                            </form>\n
+        \                       </div>\n                    </div>\n                            </div>\n\n
+        \                          <div class=\"box-item-right\">\n                    <div
+        class=\"m1-editions-switcher-m\" data-hide-scroll=\"m1-scrollbar\" data-close-delay=\"0.5\"
+        \ data-delay=\"0.01\" onclick=\"\" data-button data-id=\"toggleBox\" data-value=\"editionsMenu\"
+        data-clear=\"2\" data-multi>\n                                                <span
+        class=\"edf edf-230\"></span>\n                                            </div>\n
+        \                   <div class=\"m1-editions-switcher\" data-hide-scroll=\"m1-scrollbar\"
+        data-close-delay=\"0.5\" data-delay=\"0.01\" onclick=\"\" data-button data-id=\"toggleBox\"
+        data-value=\"editionsMenu\" data-clear=\"2\" data-multi>\n                                                <span
+        class=\"edf edf-230\"></span>\n                                                <span
+        class=\"title\">USA / Global</span>\n                    </div>\n                </div>\n
+        \                   </div>\n    </div>\n</div>\n<div class=\"m1-header-ad
+        top-banner-placeholder\">\n    <div class=\"m1-gapb-topside\"><div class=\"m1-apb
+        mleaderboard\"><div class=\"ap\" data-place=\"10\" style=\"width:320px;min-height:1px;\"
+        data-dfp-code=\"EV/ev_us/Mobile_Leaderboard\" data-sizes=\"320x1,320x50,320x100\"
+        data-width=\"320\" data-height=\"1\" data-dfp-attrs='{\"msnt_env\":\"production\",\"m1_banner_place\":\"top-banners\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_type\":\"browse\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_banner_position\":\"top\",\"m1_banner_position_view\":\"above-the-fold\"}'></div></div><div
+        class=\"m1-apb leaderboard\"><div class=\"ap\" data-place=\"1\" style=\"width:728px;min-height:1px;\"
+        data-dfp-code=\"EV/ev_us/Leaderboard\" data-sizes=\"728x1,1x1,728x90\" data-width=\"728\"
+        data-height=\"1\" data-dfp-attrs='{\"msnt_env\":\"production\",\"m1_banner_place\":\"top-banners\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_type\":\"browse\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_banner_position\":\"top\",\"m1_banner_position_view\":\"above-the-fold\"}'></div></div><div
+        class=\"m1-apb super\"><div class=\"ap\" data-place=\"6\" style=\"width:970px;min-height:1px;\"
+        data-dfp-code=\"EV/ev_us/Super\" data-sizes=\"970x1,1x1,970x90,970x250,980x250\"
+        data-width=\"970\" data-height=\"1\" data-dfp-attrs='{\"msnt_env\":\"production\",\"m1_banner_place\":\"top-banners\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_type\":\"browse\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_banner_position\":\"top\",\"m1_banner_position_view\":\"above-the-fold\"}'></div></div></div></div>
+        \   <div class=\"pageAdSkin\" id=\"page_skin_top\">\n        <div class=\"adSizer\"><img
+        alt=\"\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\"></div>\n
+        \       <a class=\"pageAdSkinUrl\"></a>\n    </div>\n    \n        <script
+        type=\"application/ld+json\">\n        {\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/insideevs.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Fisker\",\"item\":\"https:\\/\\/insideevs.com\\/fisker\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Karma\",\"item\":\"https:\\/\\/insideevs.com\\/fisker\\/karma\\/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"News\",\"item\":\"https:\\/\\/insideevs.com\\/fisker\\/karma\\/news\\/\"}]}
+        \   </script>\n\n\n<div class=\"m1-center tb-padding breadcrumbs-box\">\n
+        \           <div slot=\"breadcrumbs\" class=\"breadcrumbs\">\r\n        <a
+        href=\"/\">Home</a><span class=\"sep\"></span><a href=\"/fisker/\">Fisker</a><span
+        class=\"sep\"></span><a href=\"/fisker/karma/\">Karma</a><span class=\"sep\"></span><a
+        href=\"/fisker/karma/news/\">News</a>    </div>\r\n</div>\n\n\n\n    <div
+        class=\"pre-center make-model-filter_wrapper\" data-type=\"news\">\r\n  <h3
+        class=\"make-model-filter_title\">Filter News by:</h3>\r\n\r\n  <form class=\"make-model-filter
+        dasdas\" method=\"POST\" action=\"/news/\">\r\n\r\n    <select name=\"make\"
+        data-url=\"/makes/list/\" class=\"cars_form_make make-model-filter_input\"
+        data-ready=\"false\" data-placeholder=\"Select a Make\"></select>\r\n\r\n
+        \   <select disabled name=\"model\" data-url=\"/submodels/list/\" class=\"cars_form_model
+        make-model-filter_input\" data-placeholder=\"Select a Model\" ></select>\r\n\r\n
+        \   <input class=\"cars_form_submit make-model-filter_input\" disabled value=\"Apply\"
+        type=\"submit\">\r\n  </form>\r\n</div>\n\n\n\n    <div class=\"m1-center\">\n
+        \       <div class=\"m1-block-head bm10\">\n            <h1>Fisker Karma News</h1>\n
+        \       </div>\n    </div>\n\n    <div class=\"m1-center\">\n        <div
+        class=\"category-menu\">\n            \r\n<div id=\"filters_box\" class=\"filtersBox\">\r\n<!--
+        \    <div class=\"level-first\">\r\n        <div class=\"label\">Browse by:</div>\r\n
+        \           </div> -->\r\n    <div id=\"filter_target\" class=\"filters\"
+        data-value=\"2\">\r\n                    <div class=\"filter-box filter-dropdown-list\"
+        data-value=\"2\">\r\n            <a href=\"#\" data-value=\"toggleBox\" data-id=\"toggleBox\"
+        data-button=\"\" data-collapsed='false' onclick=\"\" class=\"filter-btn icon
+        arrow-down\" data-toggle=\"1\">\r\n                <span class='btn-show-more-less'>\r\n
+        \                   More                </span>\r\n            </a>\r\n        \t<div
+        class=\"filter-list rb columns\">\r\n\t\t\t\t                                                                                                            \t</div>\r\n\t\t\t\r\n
+        \       </div>\r\n                \r\n    </div>\r\n</div>        </div>\n
+        \   </div>\n\n\r\n\r\n<div class=\"pre-center\">\r\n\t        <div class=\"content-area\">\r\n
+        \       <div class=\"content-area-box\">\r\n            <div class=\"browse-grid\">\r\n
+        \               <div class=\"browseBox detailed-box browseBox-half lazy\">\r\n\r\n
+        \                                       \n<div class=\"item  wcom \">\n                <a
+        href=\"/news/317097/fisker-karma-production-shutdown-now-exceeds-6-months/\"
+        \ class=\"thumb zoom\" >\n                                \n\n        \n            <picture
+        class=\"lazy\">\n                                <source type=\"image/webp\"
+        data-srcset=\"https://cdn.motor1.com/images/mgl/zMoWq/s4/fisker-karma-production-shutdown-now-exceeds-6-months.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_0.jpg\"
+        \                       media=\"(min-width: 1440px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/zMoWq/s4/fisker-karma-production-shutdown-now-exceeds-6-months.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_0.jpg\"
+        \                       media=\"(min-width: 1440px)\" >\n                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/zMoWq/s6/fisker-karma-production-shutdown-now-exceeds-6-months.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_0.jpg\"
+        \                       media=\"(min-width: 1280px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/zMoWq/s6/fisker-karma-production-shutdown-now-exceeds-6-months.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_0.jpg\"
+        \                       media=\"(min-width: 1280px)\">\n                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/zMoWq/s6/fisker-karma-production-shutdown-now-exceeds-6-months.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_0.jpg\"
+        \                       media=\"(min-width: 768px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/zMoWq/s6/fisker-karma-production-shutdown-now-exceeds-6-months.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_0.jpg\"
+        \                       media=\"(min-width: 768px)\">\n                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/zMoWq/s6/fisker-karma-production-shutdown-now-exceeds-6-months.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_0.jpg\"
+        \                       media=\"(min-width: 320px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/zMoWq/s6/fisker-karma-production-shutdown-now-exceeds-6-months.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_0.jpg\"
+        \                       media=\"(min-width: 320px)\">\n                <img
+        src=\"https://cdn.motor1.com/custom/share/placeholder_0.jpg\" alt=\"Fisker
+        Karma Production Shutdown Now Exceeds 6 Months\" data-src=\"https://cdn.motor1.com/images/mgl/zMoWq/s4/fisker-karma-production-shutdown-now-exceeds-6-months.jpg\"
+        class=\"\">            </picture>\n            <noscript>\n                <picture>\n
+        \                   <source type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/zMoWq/s4/fisker-karma-production-shutdown-now-exceeds-6-months.webp\"\n
+        \                           media=\"(min-width: 1440px)\">\n                    <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/zMoWq/s4/fisker-karma-production-shutdown-now-exceeds-6-months.jpg\"
+        \n                            media=\"(min-width: 1440px)\" >\n                    <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/zMoWq/s6/fisker-karma-production-shutdown-now-exceeds-6-months.webp\"\n
+        \                       media=\"(min-width: 768px)\">\n                    <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/zMoWq/s6/fisker-karma-production-shutdown-now-exceeds-6-months.jpg\"\n
+        \                       media=\"(min-width: 768px)\">\n                    <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/zMoWq/s6/fisker-karma-production-shutdown-now-exceeds-6-months.webp\"\n
+        \                       media=\"(min-width: 320px)\">\n                    <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/zMoWq/s6/fisker-karma-production-shutdown-now-exceeds-6-months.jpg\"\n
+        \                       media=\"(min-width: 320px)\">\n                    <img
+        src=\"https://cdn.motor1.com/images/mgl/zMoWq/s4/fisker-karma-production-shutdown-now-exceeds-6-months.jpg\"
+        alt=\"Fisker Karma Production Shutdown Now Exceeds 6 Months\"/>\n                </picture>\n
+        \           </noscript>\n                    </a>\n        \n        <div
+        class=\"info\">\n        <div class=\"text-box\">\n\n\n\n            <h3><a
+        href=\"/news/317097/fisker-karma-production-shutdown-now-exceeds-6-months/\"
+        \ >Fisker Karma Production Shutdown Now Exceeds 6 Months</a></h3>\n                        <a
+        href=\"/news/317097/fisker-karma-production-shutdown-now-exceeds-6-months/\"
+        \  class=\"text\">Fisker Automotive's lengthy production shutdown now reportedly
+        exceeds six months, but the automaker doesn't seem worried.\r\n\r\nWhat's
+        in the past is in the past, so we won't discuss recalls, floods, fires or
+        poor reviews here.\_\_ Rather, we'll focus on Fisker's half-year-long shutdown.\_\_
+        According to the automaker, the shutdown is due to A123 System's complex bankruptcy
+        issues and contract probl...</a>\n                    </div>\n        <div
+        class=\"ins-box\">\n                                        <span class=\"author\"><span
+        class=\"name\" title=\"E. Loveday\"><span class=\"label\">By </span>Eric Loveday</span></span>\n
+        \                                       <span class=\"date\" data-time=\"1359018062\">24
+        January 2013</span>            \n            <div class=\"btns-box\">\n\n
+        \                                               <a title=\"Add a comment\"
+        href=\"/news/317097/fisker-karma-production-shutdown-now-exceeds-6-months/#comments\"
+        class=\"disqus-comment-count\" data-disqus-identifier=\"en-article-317097\"
+        data-disqus-url=\"/news/317097/fisker-karma-production-shutdown-now-exceeds-6-months/\"></a>
+        \                                                   </div>\n\n        </div>\n\n
+        \   </div>\n        </div>\n<div class=\"item  wcom \">\n                <a
+        href=\"/news/317051/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix/\"
+        \ class=\"thumb zoom\" >\n                                \n\n        \n            <picture
+        class=\"lazy\">\n                                <source type=\"image/webp\"
+        data-srcset=\"https://cdn.motor1.com/images/mgl/7Kw71/s4/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_1.jpg\"
+        \                       media=\"(min-width: 1440px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/7Kw71/s4/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_1.jpg\"
+        \                       media=\"(min-width: 1440px)\" >\n                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/7Kw71/s6/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_1.jpg\"
+        \                       media=\"(min-width: 1280px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/7Kw71/s6/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_1.jpg\"
+        \                       media=\"(min-width: 1280px)\">\n                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/7Kw71/s6/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_1.jpg\"
+        \                       media=\"(min-width: 768px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/7Kw71/s6/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_1.jpg\"
+        \                       media=\"(min-width: 768px)\">\n                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/7Kw71/s6/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_1.jpg\"
+        \                       media=\"(min-width: 320px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/7Kw71/s6/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_1.jpg\"
+        \                       media=\"(min-width: 320px)\">\n                <img
+        src=\"https://cdn.motor1.com/custom/share/placeholder_1.jpg\" alt=\"Update:
+        338 Drowned Fisker Karmas in Port Waiting for Recall Fix\" data-src=\"https://cdn.motor1.com/images/mgl/7Kw71/s4/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix.jpg\"
+        class=\"\">            </picture>\n            <noscript>\n                <picture>\n
+        \                   <source type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/7Kw71/s4/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix.webp\"\n
+        \                           media=\"(min-width: 1440px)\">\n                    <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/7Kw71/s4/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix.jpg\"
+        \n                            media=\"(min-width: 1440px)\" >\n                    <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/7Kw71/s6/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix.webp\"\n
+        \                       media=\"(min-width: 768px)\">\n                    <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/7Kw71/s6/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix.jpg\"\n
+        \                       media=\"(min-width: 768px)\">\n                    <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/7Kw71/s6/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix.webp\"\n
+        \                       media=\"(min-width: 320px)\">\n                    <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/7Kw71/s6/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix.jpg\"\n
+        \                       media=\"(min-width: 320px)\">\n                    <img
+        src=\"https://cdn.motor1.com/images/mgl/7Kw71/s4/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix.jpg\"
+        alt=\"Update: 338 Drowned Fisker Karmas in Port Waiting for Recall Fix\"/>\n
+        \               </picture>\n            </noscript>\n                    </a>\n
+        \       \n        <div class=\"info\">\n        <div class=\"text-box\">\n\n\n\n
+        \           <h3><a href=\"/news/317051/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix/\"
+        \ >Update: 338 Drowned Fisker Karmas in Port Waiting for Recall Fix</a></h3>\n
+        \                       <a href=\"/news/317051/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix/\"
+        \  class=\"text\">The flooded Fisker Karma saga continues to develop interesting
+        twists.\r\n\r\n\n                Certainly not the most striking group of
+        Fisker Karmas.\n                \r\n\r\nFirst, Fisker's insurer denied the
+        automaker's claim by refusing to pay for the total loss of 338 Karmas. \_Damages
+        were estimated to be $33 million.\_\_ Fisker responded by launching a lawsuit
+        against its insurer.\r\n\r\nNow, it seems, ...</a>\n                    </div>\n
+        \       <div class=\"ins-box\">\n                                        <span
+        class=\"author\"><span class=\"name\" title=\"E. Loveday\"><span class=\"label\">By
+        </span>Eric Loveday</span></span>\n                                        <span
+        class=\"date\" data-time=\"1357635043\">08 January 2013</span>            \n
+        \           <div class=\"btns-box\">\n\n                                                <a
+        title=\"Add a comment\" href=\"/news/317051/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix/#comments\"
+        class=\"disqus-comment-count\" data-disqus-identifier=\"en-article-317051\"
+        data-disqus-url=\"/news/317051/update-338-drowned-fisker-karmas-in-port-waiting-for-recall-fix/\"></a>
+        \                                                   </div>\n\n        </div>\n\n
+        \   </div>\n        </div>\r\n                                            <div
+        class=\"item m1-ap-native\"><div class=\"ap\" data-place=\"22\"  data-dfp-code=\"EV/ev_us/Native\"
+        data-sizes=\"fluid,1x1\" data-width=\"1\" data-height=\"1\" data-dfp-attrs='{\"m1_native\":\"1\",\"msnt_env\":\"production\",\"m1_banner_place\":\"native\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_type\":\"browse\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_banner_position\":\"native\"}'></div></div>
+        \                   \r\n                                        \n<div class=\"item
+        \ wcom \">\n                <a href=\"/news/317001/fisker-to-negotiate-new-contract-with-a123s-wanxiang-on-batteries-for-karma-hasnt-built-a-car-since/\"
+        \ class=\"thumb zoom\" >\n                                \n\n        \n            <picture
+        class=\"lazy\">\n                                <source type=\"image/webp\"
+        data-srcset=\"https://cdn.motor1.com/images/mgl/9AnPb/s4/fisker-finland.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_2.jpg\"
+        \                       media=\"(min-width: 1440px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnPb/s4/fisker-finland.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_2.jpg\"
+        \                       media=\"(min-width: 1440px)\" >\n                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnPb/s6/fisker-finland.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_2.jpg\"
+        \                       media=\"(min-width: 1280px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnPb/s6/fisker-finland.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_2.jpg\"
+        \                       media=\"(min-width: 1280px)\">\n                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnPb/s6/fisker-finland.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_2.jpg\"
+        \                       media=\"(min-width: 768px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnPb/s6/fisker-finland.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_2.jpg\"
+        \                       media=\"(min-width: 768px)\">\n                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnPb/s6/fisker-finland.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_2.jpg\"
+        \                       media=\"(min-width: 320px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnPb/s6/fisker-finland.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_2.jpg\"
+        \                       media=\"(min-width: 320px)\">\n                <img
+        src=\"https://cdn.motor1.com/custom/share/placeholder_2.jpg\" alt=\"Fisker
+        To Negotiate New Contract With A123's Wanxiang On Batteries For Karma. Hasn't
+        Built A Car Since July\" data-src=\"https://cdn.motor1.com/images/mgl/9AnPb/s4/fisker-finland.jpg\"
+        class=\"\">            </picture>\n            <noscript>\n                <picture>\n
+        \                   <source type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnPb/s4/fisker-finland.webp\"\n
+        \                           media=\"(min-width: 1440px)\">\n                    <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnPb/s4/fisker-finland.jpg\"
+        \n                            media=\"(min-width: 1440px)\" >\n                    <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnPb/s6/fisker-finland.webp\"\n
+        \                       media=\"(min-width: 768px)\">\n                    <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnPb/s6/fisker-finland.jpg\"\n
+        \                       media=\"(min-width: 768px)\">\n                    <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnPb/s6/fisker-finland.webp\"\n
+        \                       media=\"(min-width: 320px)\">\n                    <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnPb/s6/fisker-finland.jpg\"\n
+        \                       media=\"(min-width: 320px)\">\n                    <img
+        src=\"https://cdn.motor1.com/images/mgl/9AnPb/s4/fisker-finland.jpg\" alt=\"Fisker
+        To Negotiate New Contract With A123's Wanxiang On Batteries For Karma. Hasn't
+        Built A Car Since July\"/>\n                </picture>\n            </noscript>\n
+        \                   </a>\n        \n        <div class=\"info\">\n        <div
+        class=\"text-box\">\n\n\n\n            <h3><a href=\"/news/317001/fisker-to-negotiate-new-contract-with-a123s-wanxiang-on-batteries-for-karma-hasnt-built-a-car-since/\"
+        \ >Fisker To Negotiate New Contract With A123's Wanxiang On Batteries For
+        Karma. Hasn't Built A Car Since July</a></h3>\n                        <a
+        href=\"/news/317001/fisker-to-negotiate-new-contract-with-a123s-wanxiang-on-batteries-for-karma-hasnt-built-a-car-since/\"
+        \  class=\"text\">Apparently, A123 and Johnson Controls original attempt to
+        enter Chapter 11 bankruptcy and rid the company of both debts and \"under
+        market\" contracts has paid off for new owner Wanxiang, as it appears Fisker's
+        original contract with A123 has been vacated.\r\n\r\nFisker spokesman Roger
+        Ormisher said, \"We plan to wait until Wanxiang takes full control of A123,
+        then we will get in contact with them to neg...</a>\n                    </div>\n
+        \       <div class=\"ins-box\">\n                                        <span
+        class=\"author\"><span class=\"name\" title=\"J. Cole\"><span class=\"label\">By
+        </span>Jay Cole</span></span>\n                                        <span
+        class=\"date\" data-time=\"1355317577\">12 December 2012</span>            \n
+        \           <div class=\"btns-box\">\n\n                                                <a
+        title=\"Add a comment\" href=\"/news/317001/fisker-to-negotiate-new-contract-with-a123s-wanxiang-on-batteries-for-karma-hasnt-built-a-car-since/#comments\"
+        class=\"disqus-comment-count\" data-disqus-identifier=\"en-article-317001\"
+        data-disqus-url=\"/news/317001/fisker-to-negotiate-new-contract-with-a123s-wanxiang-on-batteries-for-karma-hasnt-built-a-car-since/\"></a>
+        \                                                   </div>\n\n        </div>\n\n
+        \   </div>\n        </div>\r\n                                        \n<div
+        class=\"item  wcom \">\n                <a href=\"/news/316944/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video/\"
+        \ class=\"thumb zoom\" >\n                                            <span
+        \ style=\"background:#000000;color:#ffffff;\" class=\"sticker type cat-general
+        \" data-url=\"/news/category/general/\" data-button data-id=\"goToUrl\">General</span>\n
+        \       \n\n        \n            <picture class=\"lazy\">\n                                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/ozk27/s4/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_3.jpg\"
+        \                       media=\"(min-width: 1440px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/ozk27/s4/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_3.jpg\"
+        \                       media=\"(min-width: 1440px)\" >\n                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/ozk27/s6/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_3.jpg\"
+        \                       media=\"(min-width: 1280px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/ozk27/s6/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_3.jpg\"
+        \                       media=\"(min-width: 1280px)\">\n                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/ozk27/s6/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_3.jpg\"
+        \                       media=\"(min-width: 768px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/ozk27/s6/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_3.jpg\"
+        \                       media=\"(min-width: 768px)\">\n                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/ozk27/s6/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_3.jpg\"
+        \                       media=\"(min-width: 320px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/ozk27/s6/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_3.jpg\"
+        \                       media=\"(min-width: 320px)\">\n                <img
+        src=\"https://cdn.motor1.com/custom/share/placeholder_3.jpg\" alt=\"Consumer
+        Reports Reviews The Model S.  Guess How They Feel About It? (Video)\" data-src=\"https://cdn.motor1.com/images/mgl/ozk27/s4/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video.jpg\"
+        class=\"\">            </picture>\n            <noscript>\n                <picture>\n
+        \                   <source type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/ozk27/s4/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video.webp\"\n
+        \                           media=\"(min-width: 1440px)\">\n                    <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/ozk27/s4/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video.jpg\"
+        \n                            media=\"(min-width: 1440px)\" >\n                    <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/ozk27/s6/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video.webp\"\n
+        \                       media=\"(min-width: 768px)\">\n                    <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/ozk27/s6/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video.jpg\"\n
+        \                       media=\"(min-width: 768px)\">\n                    <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/ozk27/s6/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video.webp\"\n
+        \                       media=\"(min-width: 320px)\">\n                    <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/ozk27/s6/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video.jpg\"\n
+        \                       media=\"(min-width: 320px)\">\n                    <img
+        src=\"https://cdn.motor1.com/images/mgl/ozk27/s4/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video.jpg\"
+        alt=\"Consumer Reports Reviews The Model S.  Guess How They Feel About It?
+        (Video)\"/>\n                </picture>\n            </noscript>\n                    </a>\n
+        \       \n        <div class=\"info\">\n        <div class=\"text-box\">\n\n\n\n
+        \           <h3><a href=\"/news/316944/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video/\"
+        \ >Consumer Reports Reviews The Model S.  Guess How They Feel About It? (Video)</a></h3>\n
+        \                       <a href=\"/news/316944/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video/\"
+        \  class=\"text\">Rightly or wrongly, if anyone can (and will)\_throw cold
+        water on a new product launch, it will be Consumer Reports.\_ For sure, Fisker
+        does not have happy memories from the media outlet's prior scathing review
+        of the Karma.\r\n\r\n\n                Tesla Model S Will Be Making Its European
+        Debut in Q4 of 2013\n                \r\n\r\nSo we imagine that even though
+        everything has been coming up aces for Tes...</a>\n                    </div>\n
+        \       <div class=\"ins-box\">\n                                        <span
+        class=\"author\"><span class=\"name\" title=\"I. E. Team\"><span class=\"label\">By
+        </span>InsideEVs Editorial Team</span></span>\n                                        <span
+        class=\"date\" data-time=\"1352981333\">15 November 2012</span>            \n
+        \           <div class=\"btns-box\">\n\n                                                <a
+        title=\"Add a comment\" href=\"/news/316944/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video/#comments\"
+        class=\"disqus-comment-count\" data-disqus-identifier=\"en-article-316944\"
+        data-disqus-url=\"/news/316944/consumer-reports-reviews-the-model-s-guess-how-they-feel-about-it-video/\"></a>
+        \                                                   </div>\n\n        </div>\n\n
+        \   </div>\n        </div>\r\n                                        \n<div
+        class=\"item  wcom \">\n                <a href=\"/news/316917/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production/\"
+        \ class=\"thumb zoom\" >\n                                            <span
+        \ style=\"background:#000000;color:#ffffff;\" class=\"sticker type cat-battery-tech
+        \" data-url=\"/news/category/battery-tech/\" data-button data-id=\"goToUrl\">Battery
+        Tech</span>\n        \n\n        \n            <picture class=\"lazy\">\n
+        \                               <source type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/vMA3b/s4/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_4.jpg\"
+        \                       media=\"(min-width: 1440px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/vMA3b/s4/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_4.jpg\"
+        \                       media=\"(min-width: 1440px)\" >\n                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/vMA3b/s6/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_4.jpg\"
+        \                       media=\"(min-width: 1280px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/vMA3b/s6/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_4.jpg\"
+        \                       media=\"(min-width: 1280px)\">\n                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/vMA3b/s6/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_4.jpg\"
+        \                       media=\"(min-width: 768px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/vMA3b/s6/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_4.jpg\"
+        \                       media=\"(min-width: 768px)\">\n                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/vMA3b/s6/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_4.jpg\"
+        \                       media=\"(min-width: 320px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/vMA3b/s6/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_4.jpg\"
+        \                       media=\"(min-width: 320px)\">\n                <img
+        src=\"https://cdn.motor1.com/custom/share/placeholder_4.jpg\" alt=\"Bankrupt
+        A123 Looks To Break Fisker Battery Contract, Threatens Karma Production\"
+        data-src=\"https://cdn.motor1.com/images/mgl/vMA3b/s4/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production.jpg\"
+        class=\"\">            </picture>\n            <noscript>\n                <picture>\n
+        \                   <source type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/vMA3b/s4/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production.webp\"\n
+        \                           media=\"(min-width: 1440px)\">\n                    <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/vMA3b/s4/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production.jpg\"
+        \n                            media=\"(min-width: 1440px)\" >\n                    <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/vMA3b/s6/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production.webp\"\n
+        \                       media=\"(min-width: 768px)\">\n                    <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/vMA3b/s6/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production.jpg\"\n
+        \                       media=\"(min-width: 768px)\">\n                    <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/vMA3b/s6/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production.webp\"\n
+        \                       media=\"(min-width: 320px)\">\n                    <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/vMA3b/s6/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production.jpg\"\n
+        \                       media=\"(min-width: 320px)\">\n                    <img
+        src=\"https://cdn.motor1.com/images/mgl/vMA3b/s4/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production.jpg\"
+        alt=\"Bankrupt A123 Looks To Break Fisker Battery Contract, Threatens Karma
+        Production\"/>\n                </picture>\n            </noscript>\n                    </a>\n
+        \       \n        <div class=\"info\">\n        <div class=\"text-box\">\n\n\n\n
+        \           <h3><a href=\"/news/316917/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production/\"
+        \ >Bankrupt A123 Looks To Break Fisker Battery Contract, Threatens Karma Production</a></h3>\n
+        \                       <a href=\"/news/316917/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production/\"
+        \  class=\"text\">Not The Best Day For Henrik Fisker Or His Karma\n                \n\nA
+        few weeks ago, and unhappy with a $450 million dollar\_takeover deal earlier
+        arranged with Chinese parts giant Wanxiang, US battery maker A123 \_filed
+        for bankruptcy protection.\n\nThrough the bankruptcy progress JCI - Johnson
+        Controls Inc., said they would spend $125 million to buy all of A123 automotive
+        business, and related\_...</a>\n                    </div>\n        <div class=\"ins-box\">\n
+        \                                       <span class=\"author\"><span class=\"name\"
+        title=\"J. Cole\"><span class=\"label\">By </span>Jay Cole</span></span>\n
+        \                                       <span class=\"date\" data-time=\"1351865393\">02
+        November 2012</span>            \n            <div class=\"btns-box\">\n\n
+        \                                               <a title=\"Add a comment\"
+        href=\"/news/316917/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production/#comments\"
+        class=\"disqus-comment-count\" data-disqus-identifier=\"en-article-316917\"
+        data-disqus-url=\"/news/316917/bankrupt-a123-looks-to-break-fisker-battery-contract-threatens-karma-production/\"></a>
+        \                                                   </div>\n\n        </div>\n\n
+        \   </div>\n        </div>\n<div class=\"item  wcom \">\n                <a
+        href=\"/news/316779/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week/\"
+        \ class=\"thumb zoom\" >\n                                \n\n        \n            <picture
+        class=\"lazy\">\n                                <source type=\"image/webp\"
+        data-srcset=\"https://cdn.motor1.com/images/mgl/9AnEl/s4/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_5.jpg\"
+        \                       media=\"(min-width: 1440px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnEl/s4/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_5.jpg\"
+        \                       media=\"(min-width: 1440px)\" >\n                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnEl/s6/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_5.jpg\"
+        \                       media=\"(min-width: 1280px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnEl/s6/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_5.jpg\"
+        \                       media=\"(min-width: 1280px)\">\n                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnEl/s6/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_5.jpg\"
+        \                       media=\"(min-width: 768px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnEl/s6/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_5.jpg\"
+        \                       media=\"(min-width: 768px)\">\n                <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnEl/s6/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week.webp\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_5.jpg\"
+        \                       media=\"(min-width: 320px)\">\n                <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnEl/s6/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week.jpg\"\n
+        \                       srcset=\"https://cdn.motor1.com/custom/share/placeholder_5.jpg\"
+        \                       media=\"(min-width: 320px)\">\n                <img
+        src=\"https://cdn.motor1.com/custom/share/placeholder_5.jpg\" alt=\"25% Of
+        All Fiskers In US Sold at 3 Southern Californian Dealerships, Many Of Those
+        At Event Last Week\" data-src=\"https://cdn.motor1.com/images/mgl/9AnEl/s4/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week.jpg\"
+        class=\"\">            </picture>\n            <noscript>\n                <picture>\n
+        \                   <source type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnEl/s4/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week.webp\"\n
+        \                           media=\"(min-width: 1440px)\">\n                    <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnEl/s4/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week.jpg\"
+        \n                            media=\"(min-width: 1440px)\" >\n                    <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnEl/s6/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week.webp\"\n
+        \                       media=\"(min-width: 768px)\">\n                    <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnEl/s6/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week.jpg\"\n
+        \                       media=\"(min-width: 768px)\">\n                    <source
+        type=\"image/webp\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnEl/s6/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week.webp\"\n
+        \                       media=\"(min-width: 320px)\">\n                    <source
+        type=\"image/jpeg\" data-srcset=\"https://cdn.motor1.com/images/mgl/9AnEl/s6/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week.jpg\"\n
+        \                       media=\"(min-width: 320px)\">\n                    <img
+        src=\"https://cdn.motor1.com/images/mgl/9AnEl/s4/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week.jpg\"
+        alt=\"25% Of All Fiskers In US Sold at 3 Southern Californian Dealerships,
+        Many Of Those At Event Last Week\"/>\n                </picture>\n            </noscript>\n
+        \                   </a>\n        \n        <div class=\"info\">\n        <div
+        class=\"text-box\">\n\n\n\n            <h3><a href=\"/news/316779/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week/\"
+        \ >25% Of All Fiskers In US Sold at 3 Southern Californian Dealerships, Many
+        Of Those At Event Last Week</a></h3>\n                        <a href=\"/news/316779/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week/\"
+        \  class=\"text\">Fisker&#39;s US Dealerships - Get Selling Fisker Of Northwest
+        Arkansas\n                \r\n\r\nFisker has, at last count, 44 registered
+        dealers in the United States, who have sold around 1,000 cars.\_ However,
+        about a quarter of those have been sold inside a 90 mile radius in California.\r\n\r\n\n
+        \               One Of 28 Cars At Karma Event At Fisker HQ Last Month (photo
+        via Fisker)\n                \r\n\r\n28...</a>\n                    </div>\n
+        \       <div class=\"ins-box\">\n                                        <span
+        class=\"author\"><span class=\"name\" title=\"I. E. Team\"><span class=\"label\">By
+        </span>InsideEVs Editorial Team</span></span>\n                                        <span
+        class=\"date\" data-time=\"1346844151\">05 September 2012</span>            \n
+        \           <div class=\"btns-box\">\n\n                                                <a
+        title=\"Add a comment\" href=\"/news/316779/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week/#comments\"
+        class=\"disqus-comment-count\" data-disqus-identifier=\"en-article-316779\"
+        data-disqus-url=\"/news/316779/25-of-all-fiskers-in-us-sold-at-3-southern-californian-dealerships-many-of-those-at-event-last-week/\"></a>
+        \                                                   </div>\n\n        </div>\n\n
+        \   </div>\n        </div>                                    </div>\r\n           </div>\r\n
+        \       </div>\r\n        <div class=\"sidebar\">\r\n                        <div
+        class=\"apb apb-dmpu\"><div class=\"ap\" data-place=\"4\" style=\"width:300px;min-height:250px;\"
+        data-dfp-code=\"EV/ev_us/DMPU\" data-sizes=\"300x250,300x600\" data-width=\"300\"
+        data-height=\"250\" data-dfp-attrs='{\"msnt_env\":\"production\",\"m1_banner_place\":\"dmpu_first\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_type\":\"browse\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_banner_position\":\"sidebar\"}'></div></div>
+        \           <div class=\"apb apb-dmpu\"><div class=\"ap\" data-place=\"4\"
+        style=\"width:300px;min-height:250px;\" data-dfp-code=\"EV/ev_us/DMPU\" data-sizes=\"300x250,300x600\"
+        data-width=\"300\" data-height=\"250\" data-dfp-attrs='{\"lazy\":1,\"msnt_env\":\"production\",\"m1_banner_place\":\"dmpu\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_type\":\"browse\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_banner_position\":\"sidebar\"}'></div></div>
+        \       </div>\r\n        <div class=\"clear\"></div>   \r\n    </div>\r\n
+        \   \r\n\t    \r\n\r\n\t    \r\n    \r\n</div>\r\n<div class=\"cpre-center\">\r\n
+        \   <div class=\"pager-next\">\n</div>\n\n</div>\r\n\r\n    <script id=\"dsq-count-scr\"
+        src=\"//insideevscom.disqus.com/count.js\" async></script>\n    <script id=\"dsq-count-scr\"
+        src=\"//insideevscom.disqus.com/count.js\" async></script>\n        </div>\n\n\n<div
+        class=\"m1-left-side\">\n    <div class=\"m1-drawer left-to-right disabled\"
+        data-button-target=\"mainMenu\">\n        <div onclick=\"\" data-button data-id=\"toggleBox\"
+        data-close-delay=\"0.5\" data-value=\"mainMenu\" data-hide-scroll=\"m1-left-side-box\"
+        data-clear=\"2\" class=\"m1-drawer-close-button dark active\" data-toggle=\"1\"
+        data-multi></div>\n        <div class=\"m1-left-side-top\">\n            <div
+        class=\"m1-user-side-label\">\n                <span class=\"label flex-parent
+        two-line\">\n                   <a class=\"login\" href=\"/connect/msnt/\">Sign
+        In</a>\n                   <span class=\"hide_mobile\">or</span>\n                   <a
+        class=\"register\" href=\"/connect/msnt/?is_registration=1\">Sign Up</a>\n
+        \               </span>\n                <span class=\"hide_mobile userpic
+        icon-user\"></span>\n            </div>\n        </div>\n        <div class=\"m1-left-side-box\">\n
+        \                       <ul class=\"m1-navigation-main print-hide\">\n                        <li
+        class=\"grand top left mobile\">\n            <a href=\"/news/\" >\n                News
+        \           </a>\n        </li>\n                    <li class=\"grand top
+        left\">\n            <a href=\"/reviews/\" >\n                Reviews            </a>\n
+        \       </li>\n                    <li class=\"grand left\">\n            <a
+        href=\"/features/\" >\n                Features            </a>\n        </li>\n
+        \                   <li class=\"mobile\">\n            <a href=\"/tesla/\"
+        >\n                Tesla            </a>\n        </li>\n                    <li
+        class=\"top left\">\n            <a href=\"/reviews/344001/compare-evs/\"
+        >\n                Compare EVs            </a>\n        </li>\n                    <li
+        class=\"left\">\n            <a href=\"/features/341500/the-ultimate-buyers-guide-to-home-ev-chargers-plus-top-5-picks/\"
+        >\n                Charger Guide            </a>\n        </li>\n                    <li
+        class=\"left\">\n            <a href=\"/features/category/buying-advice/\"
+        >\n                Buying Advice            </a>\n        </li>\n                    <li
+        class=\"left\">\n            <a href=\"/news/343998/monthly-plug-in-ev-sales-scorecard/\"
+        >\n                EV Sales Scorecard            </a>\n        </li>\n                    <li
+        class=\"mobile\">\n            <a href=\"/news/343998/monthly-plug-in-ev-sales-scorecard/\"
+        >\n                EV Sales            </a>\n        </li>\n                    <li
+        class=\"left\">\n            <a href=\"/makes/\" >\n                Makes
+        \           </a>\n        </li>\n                    <li class=\"left\">\n
+        \           <a href=\"/body-styles/\" >\n                Body Style            </a>\n
+        \       </li>\n                    <li class=\"left top _blank\">\n            <a
+        href=\"https://insideevsforum.com/community/index.php\" target = \"_blank\">\n
+        \               Forum            </a>\n        </li>\n                    <li
+        class=\"left _blank\">\n            <a href=\"https://www.myev.com/cars-for-sale\"
+        target = \"_blank\">\n                Buy            </a>\n        </li>\n
+        \                   <li class=\"podcast ico left\">\n            <a href=\"https://insideevs.com/features/category/podcast/\"
+        >\n                Podcast            </a>\n        </li>\n                    <li
+        class=\"photos ico left\">\n            <a href=\"/photos/\" >\n                Photos
+        \           </a>\n        </li>\n                    <li class=\"videos ico
+        left\">\n            <a href=\"/videos/\" >\n                Videos            </a>\n
+        \       </li>\n                    <li class=\"top plugin-sale\">\n            <a
+        href=\"/news/343998/monthly-plug-in-ev-sales-scorecard/\" >\n                Ev
+        Sales Scorecard            </a>\n        </li>\n    </ul>            <div
+        class=\"m1-menus-box\">\n                <div class=\"m1-extra-menus-box\">\n
+        \                   <a href=\"/\" class=\"m1-side-logo\"></a>\n                                        <div
+        class=\"m1-editions-switcher-mobile\">\n                        <a href=\"/info/about-us/\"
+        class=\"m1-editions-switcher\" onclick=\"\" data-close-delay=\"0.5\" data-delay=\"0.01\"
+        data-button=\"\" data-hide-scroll=\"m1-scrollbar\" data-id=\"toggleBox\" data-value=\"editionsMenu\"
+        data-clear=\"2\" data-multi=\"\">\n                            <span class=\"title\">Edition:</span>\n
+        \                                                       <span class=\"edf
+        edf-230\"></span>\n                                                    </a>\n
+        \                   </div>\n                    \n                                            <ul
+        class=\"m1-social-menu\">\n                                                                                <li
+        class=\"facebook\"><a class=\"icon-facebook-redirect-link\" href=\"https://www.facebook.com/InsideeVs/\"
+        target=\"_blank\"></a></li>\n                                                                                                                                                                <li
+        class=\"twitter\"><a class=\"icon-twitter-redirect-link\" href=\"https://twitter.com/InsideEVs\"
+        target=\"_blank\"></a></li>\n                                                                                                                                                                <li
+        class=\"flipboard\"><a class=\"icon-flipboard-redirect-link\" href=\"https://flipboard.com/@InsideEVs\"
+        target=\"_blank\"></a></li>\n                                                                                                                                                                                                                    <li
+        class=\"gnews\"><a class=\"icon-gnews-redirect-link\" href=\"https://news.google.com/publications/CAAqBwgKMLHIlAswkJCqAw\"
+        target=\"_blank\"></a></li>\n                                                                                                                                                                                                                                                                                                                            <li
+        class=\"youtube\"><a class=\"icon-youtube-redirect-link\" href=\"https://www.youtube.com/channel/UCw4aq8JMlCMBMOQ0PliCkIQ?sub_confirmation=1\"
+        target=\"_blank\"></a></li>\n                                                                                                                                                                                                                    <li
+        class=\"rss\"><a class=\"icon-rss-redirect-link\" href=\"/rss/\" ></a></li>\n
+        \                                                                           </ul>\n
+        \                   \n                    <ul class=\"m1-info-menu\">\n                        <li><a
+        href=\"/info/about-us/\">About Us</a></li>\n                                                    <li><a
+        href=\"https://newsletter.insideevs.com/signup/\" target=\"_blank\">Newsletter</a></li>\n
+        \                                               <li><a href=\"/info/advertising/\">Advertising</a></li>\n
+        \                       <li><a href=\"/info/feedback/tip-us/\">Tip us</a></li>\n
+        \                       <li><a href=\"/info/contact/\">Contact</a></li>\n
+        \                                                   <li class=\"one-trust\">\n
+        \                               <!-- OneTrust Cookies Settings button start
+        -->\n                                <button id=\"ot-sdk-btn\" class=\"ot-sdk-show-settings\">Cookie
+        Settings</button>\n                                <!-- OneTrust Cookies Settings
+        button end -->\n                            </li>\n                                                <li><a
+        href=\"/info/cookie-policy/\">Cookie policy</a></li>\n                        <li><a
+        href=\"https://accounts.motorsportnetwork.com/legal/privacy-policy\" target=\"_blank\">Privacy
+        policy</a></li>\n                    </ul>\n\n                </div>\n                <div
+        class=\"m1-msn-menus-box\">\n                    <ul class=\"m1-msn-menu\">\n\n
+        \                       \n                        \n                                                \n
+        \                       \n                        \n                                                    <li
+        class=\"autoclassics\"><a href=\"https://www.autoclassics.com/\" target=\"_blank\">www.autoclassics.com</a></li>\n
+        \                       \n                        \n                                                    <li
+        class=\"motor1\"><a href=\"https://www.motor1.com/\" target=\"_blank\">www.motor1.com</a></li>\n
+        \                       \n                                                   <li
+        class=\"myen\"><a href=\"https://www.myev.com/\" target=\"_blank\">www.myev.com/</a></li>\n
+        \                       \n                        \n                        \n
+        \                       \n                        \n                        \n
+        \                   </ul>\n                </div>\n                <div class=\"m1-footer\">\n
+        \                   &copy; 2020 <a target=\"_blank\" class=\"m1-msn-name\"
+        href=\"https://www.motorsportnetwork.com/company/about\">Motorsport Network.</a>
+        \                                                        </div>\n                            </div>\n
+        \       </div>\n    </div>\n    <div class=\"m1-drawer-overlay\"></div>\n</div>\n
+        \   \n<div class=\"m1-right-side\">\n    <div class=\"m1-drawer right-to-left
+        disabled\" data-button-target=\"editionsMenu\">\n        \n        <div onclick=\"\"
+        data-button data-id=\"toggleBox\" data-value=\"editionsMenu\" data-close-delay=\"0.5\"
+        data-hide-scroll=\"m1-scrollbar\" data-clear=\"2\" class=\"m1-drawer-close-button
+        active\" data-toggle=\"1\" data-multi></div>\n    \n        <div class=\"m1-editions-switcher
+        active\" data-close-delay=\"0.5\" data-delay=\"0.01\" onclick=\"\" data-button
+        data-id=\"toggleBox\" data-value=\"editionsMenu\" data-clear=\"2\" data-toggle=\"1\"
+        data-multi>\n                        <span class=\"edf edf-230\"></span>\n
+        \                       <span class=\"title\">USA / Global</span>\n        </div>\n
+        \       <div class=\"m1-editions-label\">Our International Editions</div>\n
+        \       <div class=\"m1-editions-box m1-scrollbar\">\n            \n            <ul
+        class=\"m1-editions-list\">\n                            <li class=\"current\">\n\n
+        \                   <a href=\"https://insideevs.com\">\n                                        <span
+        class=\"flags\">\n                                            <span class=\"edf
+        edf-230\"></span>\n                                        </span>\n                    <span
+        class=\"label\">\n                                        InsideEVs: USA /
+        Global                    </span>\n                    </a>\n                </li>\n
+        \                           <li>\n\n                    <a href=\"https://insideevs.fr\">\n
+        \                                       <span class=\"flags\">\n                                            <span
+        class=\"edf edf-72\"></span>\n                                            <span
+        class=\"edf edf-21\"></span>\n                                            <span
+        class=\"edf edf-211\"></span>\n                                            <span
+        class=\"edf edf-145\"></span>\n                                            <span
+        class=\"edf edf-128\"></span>\n                                        </span>\n
+        \                   <span class=\"label\">\n                                        InsideEVs:
+        France                    </span>\n                    </a>\n                </li>\n
+        \                           <li>\n\n                    <a href=\"https://insideevs.it\">\n
+        \                                       <span class=\"flags\">\n                                            <span
+        class=\"edf edf-106\"></span>\n                                        </span>\n
+        \                   <span class=\"label\">\n                                        InsideEVs:
+        Italy                    </span>\n                    </a>\n                </li>\n
+        \                           <li>\n\n                    <a href=\"https://insideevs.uol.com.br\">\n
+        \                                       <span class=\"flags\">\n                                            <span
+        class=\"edf edf-30\"></span>\n                                            <span
+        class=\"edf edf-177\"></span>\n                                        </span>\n
+        \                   <span class=\"label\">\n                                        InsideEVs:
+        Brasil                    </span>\n                    </a>\n                </li>\n
+        \                           <li>\n\n                    <a href=\"https://insideevs.ru\">\n
+        \                                       <span class=\"flags\">\n                                            <span
+        class=\"edf edf-182\"></span>\n                                            <span
+        class=\"edf edf-20\"></span>\n                                            <span
+        class=\"edf edf-227\"></span>\n                                            <span
+        class=\"edf edf-112\"></span>\n                                        </span>\n
+        \                   <span class=\"label\">\n                                        InsideEVs:
+        Russia                    </span>\n                    </a>\n                </li>\n
+        \                           <li>\n\n                    <a href=\"https://insideevs.com.tr\">\n
+        \                                       <span class=\"flags\">\n                                            <span
+        class=\"edf edf-222\"></span>\n                                        </span>\n
+        \                   <span class=\"label\">\n                                        InsideEVs:Turkey
+        \                   </span>\n                    </a>\n                </li>\n
+        \                           <li>\n                                    </li>\n
+        \           </ul>\n            \n        </div>\n\n\n    \n    </div>\n    <div
+        class=\"m1-drawer-overlay\"></div>\n</div>\n<m1-check-availability-response-dialog\n
+        \       user-data='{\"email\":\"\",\"zip\":\"14623\",\"phone\":\"\",\"firstName\":\"\",\"lastName\":\"\"}'\n
+        \       edition=\"ev_us\"\n        oem-url=\"/buy/new/lead/\"\n        vin-url=\"/buy/used/lead/\"\n></m1-check-availability-response-dialog>\n\n\n
+        \   <div id=\"share_box_content_wrapper\">\n        <div slot=\"share-box\"
+        class=\" shareBox share-box-dropdown to-down\"><div class=\"share-box-wrapper\"><a
+        href=\"https://insideevs.com/fisker/karma/news/?p=3\" class=\"share-button
+        share-button-gallery\"><span class=\"icon share-empty\"></span></a><div class=\"share-list\"
+        data-button-target=\"share-list-1605999173\"><ul><li class=\"facebook\"><a
+        data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\" data-name=\"network_id\"
+        target=\"_blank\" data-value=\"1\" data-share-network=\"Facebook\" data-share-url=\"https://insideevs.com/fisker/karma/news/?p=3\"
+        data-width=\"600\" data-height=\"600\" href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Finsideevs.com%2Ffisker%2Fkarma%2Fnews%2F%3Fp%3D3\"><span
+        class=\"social-bg icon facebook\"></span><span class=\"name\">Share on Facebook</span></a></li><li
+        class=\"twitter\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-value=\"2\" data-share-network=\"Twitter\"
+        data-share-url=\"https://insideevs.com/fisker/karma/news/?p=3\" data-width=\"600\"
+        data-height=\"450\" href=\"https://twitter.com/intent/tweet?url=https%3A%2F%2Finsideevs.com%2Ffisker%2Fkarma%2Fnews%2F%3Fp%3D3&text=Fisker+Karma+News+Articles+and+Press+Releases&via=insideevs.com\"><span
+        class=\"social-bg icon twitter\"></span><span class=\"name\">Share on Twitter</span></a></li><li
+        class=\"linkedin\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-value=\"3\" data-share-network=\"LinkedIn\"
+        data-share-url=\"https://insideevs.com/fisker/karma/news/?p=3\" data-width=\"600\"
+        data-height=\"600\" href=\"https://www.linkedin.com/cws/share?url=https%3A%2F%2Finsideevs.com%2Ffisker%2Fkarma%2Fnews%2F%3Fp%3D3\"><span
+        class=\"social-bg icon linkedin\"></span><span class=\"name\">Share on LinkedIn</span></a></li><li
+        class=\"flipboard\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-value=\"7\" data-share-network=\"Flipboard\"
+        data-share-url=\"https://insideevs.com/fisker/karma/news/?p=3\" data-width=\"600\"
+        data-height=\"600\" href=\"https://share.flipboard.com/bookmarklet/popout?url=https%3A%2F%2Finsideevs.com%2Ffisker%2Fkarma%2Fnews%2F%3Fp%3D3&title=Fisker+Karma+News+Articles+and+Press+Releases&v=2\"><span
+        class=\"social-bg icon flipboard\"></span><span class=\"name\">Share on Flipboard</span></a></li><li
+        class=\"reddit\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-value=\"6\" data-share-network=\"Reddit\"
+        data-share-url=\"https://insideevs.com/fisker/karma/news/?p=3\" data-width=\"900\"
+        data-height=\"600\" href=\"https://www.reddit.com/submit?url=https%3A%2F%2Finsideevs.com%2Ffisker%2Fkarma%2Fnews%2F%3Fp%3D3\"><span
+        class=\"social-bg icon reddit\"></span><span class=\"name\">Share on Reddit</span></a></li><li
+        class=\"whatsapp\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-value=\"6\" data-share-network=\"WhatsApp\"
+        data-share-url=\"https://insideevs.com/fisker/karma/news/?p=3\" data-width=\"600\"
+        data-height=\"600\" href=\"https://api.whatsapp.com/send?text=https%3A%2F%2Finsideevs.com%2Ffisker%2Fkarma%2Fnews%2F%3Fp%3D3\"><span
+        class=\"social-bg icon whatsapp\"></span><span class=\"name\">Share on WhatsApp</span></a></li><li
+        class=\"mailto\"><a data-button=\"\" data-id=\"mailTo\" target=\"_blank\"
+        data-share-url=\"https://insideevs.com/fisker/karma/news/?p=3\" data-width=\"600\"
+        data-height=\"400\" href=\"mailto:?body=https%3A%2F%2Finsideevs.com%2Ffisker%2Fkarma%2Fnews%2F%3Fp%3D3&subject=Fisker%20Karma%20News%20Articles%20and%20Press%20Releases\"><span
+        class=\"social-bg icon mailto\"></span><span class=\"name\">Send to email</span></a></li></ul></div></div></div>
+        \   </div>\n\n\n<!--<div class=\"adminInfoBoxx\"></div>-->\n\n<div class=\"m1-footer-messages\"></div>\n\n<script>\n
+        \    window.gadsId = false;\n</script>\n<script>\n    var m1FooterMessages
+        = [];\n    m1FooterMessages.push({\n        message: \"This website uses cookies
+        to ensure you get the best experience on our website. By closing this banner,
+        scrolling this page you consent to the use of cookies. <a id='cookie_accept_link'
+        data-id='footerMessageAccept' data-button='' href='/info/cookie-policy/'>More
+        info.</a>\",\n        name: \"cookie_accept\"\n    });\n    </script>\n\n<script
+        defer type=\"text/javascript\" src=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/design/build/jslangs/insideevs_en_US_1c7a4d6c40d672f35017b11d02f66377.js\"></script>\n<script
+        defer type=\"text/javascript\" src=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/design/dist/js/0_134814e733b5fed8c7c2.js\"></script><script
+        defer type=\"text/javascript\" src=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/design/dist/js/1_134814e733b5fed8c7c2.js\"></script><script
+        defer type=\"text/javascript\" src=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/design/dist/js/10_134814e733b5fed8c7c2.js\"></script>\n\n\n
+        \   \n<script>\ngtmDataLayer = [{\n    'currentEdition': 'ev_us',\n    'currentEnv':
+        'production',\n        'pageType': 'browse',\n            'entityType': 'article',\n
+        \                   'pageId': 'index_articles_browse',\n                'pageUrl':
+        'https://insideevs.com/fisker/karma/news/?p=3',\n            'pageUrlCanonical':
+        'https://insideevs.com/fisker/karma/news/',\n            'pageLanguage': 'en',\n
+        \                               'pageTitle': 'Fisker Karma News Articles and
+        Press Releases',\n                        'sessionId': '4da88c542574c8c905276df42ddf674d'\n}];\n</script>\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew
+        Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','gtmDataLayer','GTM-TJCLXGW');</script>\n\n<script>\n(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew
+        Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','gtmDataLayer',
+        'GTM-M4M4LBT');\n</script>\n\n\n\n\n    <script type=\"application/ld+json\">\n
+        \       {\n            \"@type\":\"Organization\",\n            \"name\":\"InsideEVs\",\n
+        \           \"url\":\"https://insideevs.com/\",\n            \"sameAs\": [\"https://www.facebook.com/InsideeVs/\",\"https://twitter.com/InsideEVs\",\"https://flipboard.com/@InsideEVs\",\"https://news.google.com/publications/CAAqBwgKMLHIlAswkJCqAw\",\"https://www.youtube.com/channel/UCw4aq8JMlCMBMOQ0PliCkIQ?sub_confirmation=1\",\"https://insideevs.com/rss/\"],\n
+        \           \"logo\":{\n                \"@type\":\"ImageObject\",\n                \"url\":\"https://insideevs.com/logo_square.png\",\n
+        \               \"width\":224,\n                \"height\":224\n            },\n
+        \           \"@context\":\"http:\\/\\/schema.org\"\n        }\n    </script>\n<!--
+        <script>\n    window.onload = function() {\n\n        if ((typeof $.cookie('PHPSESSID')
+        === 'undefined') || (typeof $.cookie('is_logged_in') !== 'undefined')){\n
+        \           $.get('/layout-auth-data/', function(data) {\n                $('.m1-user-side-label').html(data);\n\n
+        \               var loginButton = document.getElementsByClassName('login')[0];\n
+        \               var registerButton = document.getElementsByClassName('register')[0];\n\n
+        \               if (msnt) {\n                    if (loginButton) {\n                        loginButton.addEventListener('click',
+        function(event){\n                            event.preventDefault();\n                            event.stopPropagation();\n
+        \                           window.msnt.register = false;\n                            msnt.openIframeWindow();\n
+        \                       });\n                    }\n                    if
+        (registerButton) {\n                        registerButton.addEventListener('click',
+        function(event){\n                        event.preventDefault();\n                        event.stopPropagation();\n
+        \                       window.msnt.register = true;\n                        msnt.openIframeWindow();\n
+        \                       });\n                    }\n                }\n            });\n\n
+        \           var loginButton = document.getElementsByClassName('login')[0];\n
+        \           var registerButton = document.getElementsByClassName('register')[0];\n\n
+        \           if (msnt) {\n                if (loginButton) {\n                    loginButton.addEventListener('click',
+        function(event){\n                        event.preventDefault();\n                        event.stopPropagation();\n
+        \                       window.msnt.register = false;\n                        msnt.openIframeWindow();\n
+        \                   });\n                }\n\n                if (registerButton)
+        {\n                    registerButton.addEventListener('click', function(event){\n
+        \                       event.preventDefault();\n                        event.stopPropagation();\n
+        \                       window.msnt.register = true;\n                        msnt.openIframeWindow();\n
+        \                   });\n                }\n            }\n        }\n    }\n\n</script>
+        -->\n</body>\n</html>\n"
+    headers:
+      Accept-Ranges:
+      - bytes
+      Age:
+      - '772'
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Security-Policy:
+      - frame-ancestors *.insideevs.com insideevs.com
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Sat, 21 Nov 2020 23:03:35 GMT
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Pragma:
+      - no-cache
+      Server:
+      - nginx/1.12.2
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubdomains; preload
+      Vary:
+      - Accept-Encoding
+      Via:
+      - 1.1 varnish (Varnish/6.0)
+      X-Cache:
+      - HIT!
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Varnish:
+      - 6906916 7254657
+      content-length:
+      - '86204'
+    status:
+      code: 200
+      message: OK
+version: 1

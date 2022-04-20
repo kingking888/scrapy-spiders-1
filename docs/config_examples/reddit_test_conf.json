@@ -1,0 +1,16 @@
+{
+  "subreddits": {
+    "trademyway": {
+      "status": "active",
+      "tags": [
+        "stocks",
+        "equity",
+        "reddit",
+        "subreddit",
+        "data-source",
+        "ASX_Bets"
+      ],
+      "url": null
+    }
+  }
+}

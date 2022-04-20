@@ -1,0 +1,129 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.nasdaq.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.nasdaq.com/api/v1/news-headlines-fetcher/TWTR/0/8
+  response:
+    body:
+      string: "<div class=\"quote-news-headlines\" data-symbol=\"\">\n  <ul class=\"quote-news-headlines__list\">\n
+        \         <li class=\"quote-news-headlines__item\">\n        <a href=\"/articles/twitter-tumblr-vimeo-push-back-against-eu-rules-on-illegal-online-content-2020-12-09\"
+        class=\"quote-news-headlines__link\">\n          <span class=\"quote-news-headlines__date\">9
+        hours ago</span>\n          <p class=\"quote-news-headlines__item-title\"><span>Twitter,
+        Tumblr, Vimeo push back against EU rules on illegal online content</span>\n</p>\n
+        \       </a>\n      </li>\n          <li class=\"quote-news-headlines__item\">\n
+        \       <a href=\"/articles/c3.ai-ipo%3A-what-investors-need-to-know-2020-12-09\"
+        class=\"quote-news-headlines__link\">\n          <span class=\"quote-news-headlines__date\">13
+        hours ago</span>\n          <p class=\"quote-news-headlines__item-title\"><span>C3.ai
+        IPO: What Investors Need to Know</span>\n</p>\n        </a>\n      </li>\n
+        \         <li class=\"quote-news-headlines__item\">\n        <a href=\"/articles/why-li-auto-and-kandi-technologies-jumped-but-ciig-merger-dropped-today-2020-12-08\"
+        class=\"quote-news-headlines__link\">\n          <span class=\"quote-news-headlines__date\">20
+        hours ago</span>\n          <p class=\"quote-news-headlines__item-title\"><span>Why
+        Li Auto and Kandi Technologies Jumped, but CIIG Merger Dropped Today</span>\n</p>\n
+        \       </a>\n      </li>\n          <li class=\"quote-news-headlines__item\">\n
+        \       <a href=\"/articles/why-twitter-stock-gained-13-in-november-2020-12-08\"
+        class=\"quote-news-headlines__link\">\n          <span class=\"quote-news-headlines__date\">1
+        day ago</span>\n          <p class=\"quote-news-headlines__item-title\"><span>Why
+        Twitter Stock Gained 13% in November</span>\n</p>\n        </a>\n      </li>\n
+        \         <li class=\"quote-news-headlines__item\">\n        <a href=\"/articles/bottom-fishing-and-trend-chasing%3A-exxons-writedown-and-renewable-energys-surge-2020-12-08\"
+        class=\"quote-news-headlines__link\">\n          <span class=\"quote-news-headlines__date\">1
+        day ago</span>\n          <p class=\"quote-news-headlines__item-title\"><span>Bottom-Fishing
+        and Trend-Chasing: Exxon&#039;s Writedown and Renewable Energy&#039;s Surge</span>\n</p>\n
+        \       </a>\n      </li>\n          <li class=\"quote-news-headlines__item\">\n
+        \       <a href=\"/articles/britains-competition-regulator-sets-out-new-regime-for-tech-giants-2020-12-08\"
+        class=\"quote-news-headlines__link\">\n          <span class=\"quote-news-headlines__date\">1
+        day ago</span>\n          <p class=\"quote-news-headlines__item-title\"><span>Britain&#039;s
+        competition regulator sets out new regime for tech giants</span>\n</p>\n        </a>\n
+        \     </li>\n          <li class=\"quote-news-headlines__item\">\n        <a
+        href=\"/articles/congress-faces-christmas-showdown-with-trump-over-tech-and-defense-bill-2020-12-07\"
+        class=\"quote-news-headlines__link\">\n          <span class=\"quote-news-headlines__date\">1
+        day ago</span>\n          <p class=\"quote-news-headlines__item-title\"><span>Congress
+        faces Christmas showdown with Trump over tech and defense bill</span>\n</p>\n
+        \       </a>\n      </li>\n          <li class=\"quote-news-headlines__item\">\n
+        \       <a href=\"/articles/what-we-really-learned-about-amazon-shopify-and-more-on-black-friday-2020-12-07\"
+        class=\"quote-news-headlines__link\">\n          <span class=\"quote-news-headlines__date\">1
+        day ago</span>\n          <p class=\"quote-news-headlines__item-title\"><span>What
+        We Really Learned About Amazon, Shopify, and More on Black Friday</span>\n</p>\n
+        \       </a>\n      </li>\n      </ul>\n\n  <div class=\"pagination-news-headlines\"
+        data-symbol=\"0\" data-count=\"6777\">\n    \n<div class=\"pagination\">\n
+        \     <button class=\"pagination__previous\" aria-label=\"click to go to the
+        previous page\"></button>\n  \n  <div class=\"pagination__pages\">\n          <button
+        class=\"pagination__page\"></button>\n      <span class=\"pagination__ellipsis\"
+        aria-hidden=\"true\">...</span>\n      </div>\n\n      <button class=\"pagination__next\"
+        aria-label=\"click to go to the next page\"></button>\n  </div>\n\n\n</div>\n\n</div>\n\n\n"
+    headers:
+      Accept-Ranges:
+      - bytes
+      Cache-Control:
+      - must-revalidate, no-cache, private
+      Connection:
+      - keep-alive
+      Content-Language:
+      - en
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Wed, 09 Dec 2020 15:14:27 GMT
+      Expires:
+      - Sun, 19 Nov 1978 05:00:00 GMT
+      Link:
+      - <https://www.nasdaq.com/themes/nsdq/dist/assets/fonts/nasdaq-icons.ttf?ck9pto=>;rel="preload";as="font";type="font/ttf";crossorigin,<https://fonts.gstatic.com/s/sourcesanspro/v13/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2>;rel="preload";as="font";type="font/woff2";crossorigin,<https://fonts.gstatic.com/s/sourcesanspro/v13/6xKydSBYKcSV-LCoeQqfX1RYOo3ik4zwlxdu3cOWxw.woff2>;rel="preload";as="font";type="font/woff2";crossorigin,<https://fonts.gstatic.com/s/sourcesanspro/v13/6xKydSBYKcSV-LCoeQqfX1RYOo3i54rwlxdu3cOWxw.woff2>;rel="preload";as="font";type="font/woff2";crossorigin,<https://www.nasdaq.com/themes/nsdq/dist/assets/fonts/Roboto-Regular.woff2>;rel="preload";as="font";type="font/woff2";crossorigin,<https://www.nasdaq.com/themes/nsdq/dist/assets/fonts/Roboto-Medium.woff2>;rel="preload";as="font";type="font/woff2";crossorigin,<https://www.nasdaq.com/themes/nsdq/dist/assets/fonts/Roboto-Light.woff>;rel="preload";as="font";type="font/woff";crossorigin
+      - <https://builder.lift.acquia.com>;rel="preconnect",<https://c.evidon.com>;rel="preconnect",<https://www.googletagmanager.com>;rel="preconnect",<https://snap.licdn.com>;rel="preconnect",<https://bat.bing.com>;rel="preconnect",<https://tags.bkrtx.com>;rel="preconnect"
+      Server:
+      - nginx
+      Server-Timing:
+      - cdn-cache; desc=MISS
+      - edge; dur=95
+      - origin; dur=845
+      Set-Cookie:
+      - AKA_A2=A; expires=Wed, 09-Dec-2020 16:14:27 GMT; path=/; domain=nasdaq.com;
+        secure; HttpOnly
+      - ak_bmsc=7352AE0B075E153790BD2B34C5E8836F5C7ABE560A670000D3E9D05F31F20306~pliqxa3SAUqvS36zTlXgjHDaRmvOp+/zM9iW+GnTSrx+GTleHYZ+ucAOyKjGTgOD4HP/+49VMVl3Q2udrbGxRGx+xATWtvS3HiyXf4J4/qGp2NTxdT5oA70Govnbbywxk2CaKRJZa1WGBvYSwm+WdPxPxIsHNa30awyIGn3mmxaope4sAzOrCHlrC8+VyIPy/pCA7gEuLRypv04rRtFYZu3HVxT4+ppI8mGk9wvtECtbc=;
+        expires=Wed, 09 Dec 2020 17:14:27 GMT; max-age=7200; path=/; domain=.nasdaq.com;
+        HttpOnly
+      Vary:
+      - Accept-Encoding
+      X-AH-Environment:
+      - prod
+      X-Age:
+      - '0'
+      X-Akamai-Transformed:
+      - 9 985 0 pmb=mRUM,2
+      X-Content-Type-Options:
+      - nosniff
+      X-EdgeConnect-MidMile-RTT:
+      - '89'
+      X-EdgeConnect-Origin-MEX-Latency:
+      - '845'
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Generator:
+      - Drupal 8 (https://www.drupal.org)
+      X-Request-ID:
+      - v-3a38cd80-3a31-11eb-8030-bbabc2b32c88
+      X-UA-Compatible:
+      - IE=edge
+      content-length:
+      - '3984'
+    status:
+      code: 200
+      message: OK
+version: 1

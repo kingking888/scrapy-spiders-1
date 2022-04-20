@@ -1,0 +1,885 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.iowacorn.org
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.iowacorn.org/about/news/
+  response:
+    body:
+      string: "<!DOCTYPE html>\r\n\t<html>\r\n\t\t<head>\r\n\t\t\t<meta charset=\"utf-8\"
+        />\r\n\t\t\t<title>Ag Industry News and Events | Iowa Corn</title>\r\n\t\t\t<meta
+        name=\"description\" content=\"Stay up to date on agriculture industry news
+        and events, Iowa Corn, ICGA and ICPB.\" />\r\n\t\t\t<meta name=\"language\"
+        content=\"en-us\" />\r\n\t\t\t<meta name=\"viewport\" content=\"width=device-width,
+        initial-scale=1\" />\r\n\t\t\t<meta name=\"copyright\" content=\"Copyright
+        2020 Iowa Corn Growers Association. All rights reserved.\" />\r\n\t\t\t<meta
+        name=\"robots\" content=\"index,follow\" />\r\n\t\t\t<meta name=\"googlebot\"
+        content=\"index,follow\" />\r\n\t\t\t<meta name=\"msnbot\" content=\"index,follow\"
+        />\r\n\t\t\t<link rel=\"canonical\" href=\"https://www.iowacorn.org/about/news/\"
+        />\r\n\t\t\t<link rel=\"next\" href=\"https://www.iowacorn.org/about/news/?page=2\"
+        />\r\n\t\t\t<link rel=\"apple-touch-icon\" href=\"/20201111010508/assets/images/webclip.png\"
+        />\r\n\t\t\t<link rel=\"icon\" href=\"/20201111010508/assets/images/webclip.png\"
+        />\r\n\t\t\t<link rel=\"shortcut icon\" href=\"/20201111010508/assets/images/favicon.ico\"
+        type=\"image/x-icon\" />\r\n\t\t\t<link rel=\"stylesheet\" href=\"/20201111010508/core/public/shared/assets/css/screen.css\"
+        />\r\n\t\t\t<link rel=\"stylesheet\" href=\"/core/public/shared/assets/css/responsive.css\"
+        />\r\n\t\t\t<link rel=\"stylesheet\" href=\"/core/public/shared/assets/css/jquery.mmenu/4.7.5/jquery.mmenu.all.css\"
+        />\r\n\t\t\t<link rel=\"stylesheet\" href=\"//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css\"
+        />\r\n\t\t\t<link rel=\"stylesheet\" href=\"/core/modules/posts/assets/stylesheets/all.css\"
+        media=\"all\" />\r\n\t\t\t<link rel=\"stylesheet\" href=\"/core/website/modules/news/css/screen.css\"
+        media=\"screen\" />\r\n\t\t\t<link rel=\"stylesheet\" href=\"/core/website/modules/news/css/responsive.css\"
+        media=\"screen\" />\r\n\t\t\t<link rel=\"stylesheet\" href=\"/core/public/shared/assets/css/jquery.ui/1.11.4/jquery.ui.min.css\"
+        media=\"all\" />\r\n\t\t\t<link rel=\"stylesheet\" href=\"/core/public/shared/assets/fonts/IconFont/style.css\"
+        media=\"all\" />\r\n\t\t\t<link rel=\"stylesheet\" href=\"/20201111010508/assets/stylesheets/normalize.css\"
+        />\r\n\t\t\t<link rel=\"stylesheet\" href=\"/20201111010508/assets/stylesheets/webflow.css\"
+        />\r\n\t\t\t<link rel=\"stylesheet\" href=\"/20201111010508/assets/stylesheets/iowacorn.css\"
+        />\r\n\t\t\t<link rel=\"stylesheet\" href=\"/20201111010508/assets/stylesheets/print.css\"
+        media=\"print\" />\r\n\t\t\t<link rel=\"stylesheet\" href=\"/assets/stylesheets/editor.24f02019fb0d29d528b135fe9bac92c8.css\"
+        type=\"text/css\" media=\"screen\" />\r\n\t\t\t<script>window.stcAssetFingerprintRegistry
+        = {};</script>\r\n\t\t\t<script src=\"//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js\"
+        type=\"text/javascript\"></script>\r\n\t\t\t<script src=\"/core/public/shared/assets/js/jquery-fallback.js?v=1.11.1\"
+        type=\"text/javascript\"></script>\r\n\t\t\t<script src=\"//code.jquery.com/jquery-migrate-1.2.1.js\"
+        type=\"text/javascript\"></script>\r\n\t\t\t<script src=\"/core/public/shared/assets/js/jquery.mmenu/4.7.5/jquery.mmenu.min.all.js\"
+        type=\"text/javascript\"></script>\r\n\t\t\t<script src=\"//ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js\"
+        type=\"text/javascript\"></script>\r\n\t\t\t<script src=\"/core/libraries/modernizr/assets/3.3.1/modernizr.min.js\"
+        type=\"text/javascript\"></script>\r\n\t\t\t<script src=\"/20201111010508/assets/javascripts/all.js\"
+        type=\"text/javascript\"></script>\r\n\t\t\t<script src=\"/core/public/shared/assets/js/fitvids/1.1/jquery.fitvids.js\"
+        type=\"text/javascript\"></script>\r\n\t\t\t<script src=\"/core/public/shared/assets/js/jquery.ui/1.11.4/jquery.ui.min.js\"
+        type=\"text/javascript\"></script>\r\n\t\t\t<script src=\"/core/public/shared/assets/js/jquery.form/1.0.0/jquery.form.flyOutMenu.js\"
+        type=\"text/javascript\"></script> \r\n\t\t\t<script type=\"text/javascript\">\r\n\t\t\t//<![CDATA[\r\n\t\t\t\r\n\t\t\t\tvar
+        _gaq = _gaq || [];\r\n\t\t\t\t_gaq.push(['_setAccount', 'UA-32105991-1']);\r\n\t\t\t\t_gaq.push(['_trackPageview']);
+        \r\n\t\t\t\t(function(){\r\n\t\t\t\t\tvar ga = document.createElement('script');\r\n\t\t\t\t\tga.type
+        = 'text/javascript';\r\n\t\t\t\t\tga.async = true;\r\n\t\t\t\t\tga.src = ('https:'
+        == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\r\n\t\t\t\t\tvar
+        s = document.getElementsByTagName('script')[0];\r\n\t\t\t\t\ts.parentNode.insertBefore(ga,
+        s);\r\n\t\t\t\t})();\r\n\t\t\t\r\n\t\t\t//]]>\r\n\t\t\t</script>\r\n\t\t\t\t\t\r\n\t\t\t<script>\r\n\t\t\t\tWebFont.load({\r\n\t\t\t\t\tgoogle:
+        {\r\n\t\t\t\t\t\tfamilies: [\"Montserrat:400,700\",\"Nunito:regular,700\"]\r\n\t\t\t\t\t}\r\n\t\t\t\t});\r\n\t\t\t</script>\r\n\r\n\t\t\t\r\n\t\t\t\t<!--
+        Facebook Pixel Code -->\r\n\t\t\t\t<script>\r\n\t\t\t\t  !function(f,b,e,v,n,t,s)\r\n\t\t\t\t
+        \ {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\r\n\t\t\t\t  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\r\n\t\t\t\t
+        \ if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\r\n\t\t\t\t  n.queue=[];t=b.createElement(e);t.async=!0;\r\n\t\t\t\t
+        \ t.src=v;s=b.getElementsByTagName(e)[0];\r\n\t\t\t\t  s.parentNode.insertBefore(t,s)}(window,
+        document,'script',\r\n\t\t\t\t  'https://connect.facebook.net/en_US/fbevents.js');\r\n\t\t\t\t
+        \ fbq('init', '804366656390463');\r\n\t\t\t\t  fbq('track', 'PageView');\r\n\t\t\t\t</script>\r\n\t\t\t\t<noscript><img
+        height=\"1\" width=\"1\" style=\"display:none\"\r\n\t\t\t\t  src=\"https://www.facebook.com/tr?id=804366656390463&ev=PageView&noscript=1\"\r\n\t\t\t\t/></noscript>\r\n\t\t\t\t<!--
+        End Facebook Pixel Code -->\r\n\r\n\t\t\t\t<!-- Google tag Manager -->\r\n\t\t\t\t<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\n\t\t\t\t\tnew
+        Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\n\t\t\t\t\tj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n\t\t\t\t\t'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n\t\t\t\t\t})(window,document,'script','dataLayer','GTM-5JDZ2HD');\r\n\t\t\t\t</script>\r\n\r\n\t\t\t\t<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\n\t\t\t\t\tnew
+        Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\n\t\t\t\t\tj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n\t\t\t\t\t'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n\t\t\t\t\t})(window,document,'script','dataLayer','GTM-M85L7J6');\r\n\t\t\t\t</script>\r\n\t\t\t\t<!--
+        End Google Tag Manager -->\r\n\t\t\t\r\n\r\n\t\t</head>\r\n\t\t<body class=\"\">\r\n\t\t\t<div>\r\n\t\t\t\t<div
+        id=\"printHeader\">\r\n\t\t\t\t\t<img src=\"/20201111010508/assets/images/404.jpg\"
+        width=\"640\" height=\"150\" style=\"border:0px\" alt=\"Primary Website\"/>\r\n\t\t\t\t</div>\r\n\t\t\t\t<header
+        id=\"top\" class=\"w-section header-section\">\r\n\t\t\t\t\t<div class=\"mobile-search\">\r\n\t\t\t\t\t\t<div
+        class=\"w-form mobile-search-wrapper\">\r\n\t\t\t\t\t\t\t<form id=\"email-form\"
+        name=\"email-form\" data-name=\"Email Form\" action=\"/search\" method=\"post\">\r\n\t\t\t\t\t\t\t\t<input
+        id=\"Search-3\" type=\"text\" placeholder=\"SEARCH...\" name=\"criteria\"
+        data-name=\"Search 3\" class=\"w-input mobile-search-field\">\r\n\t\t\t\t\t\t\t</form>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<div
+        class=\"top-bar\">\r\n\t\t\t\t\t\t<div class=\"w-container\">\r\n\t\t\t\t\t\t\t<div
+        class=\"top-bar-social\">\r\n\t\t\t\t\t\t\t\t<a href=\"https://www.facebook.com/IowaCorn?fref=ts\"
+        class=\"w-inline-block top-bar-social-a\" target=\"_blank\">\r\n\t\t\t\t\t\t\t\t\t<img
+        width=\"30\" height=\"30\" src=\"/20201111010508/assets/images/facebook-white.svg\"
+        alt=\"facebook\">\r\n\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t<a href=\"https://twitter.com/iowa_corn\"
+        class=\"w-inline-block top-bar-social-a\" target=\"_blank\">\r\n\t\t\t\t\t\t\t\t\t<img
+        width=\"30\" height=\"30\" src=\"/20201111010508/assets/images/twitter-white.svg\"
+        alt=\"twitter\">\r\n\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t<a href=\"https://www.youtube.com/channel/UCjcvlJThZJ5tFG62LjxwaLA?app=desktop\"
+        class=\"w-inline-block top-bar-social-a\" target=\"_blank\">\r\n\t\t\t\t\t\t\t\t\t<img
+        width=\"30\" height=\"30\" src=\"/20201111010508/assets/images/youtube-white.svg\"
+        alt=\"youtube\">\r\n\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<a
+        href=\"#\" class=\"w-inline-block mobile-menu-button\">\r\n\t\t\t\t\t\t\t\t<div
+        class=\"menu-label\">Menu</div>\r\n\t\t\t\t\t\t\t\t<img src=\"/20201111010508/assets/images/menu.png\"
+        class=\"menu-icon\" alt=\"menu\">\r\n\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t<a
+        href=\"#\" data-ix=\"mobile-search\" class=\"w-inline-block mobile-search-button\">\r\n\t\t\t\t\t\t\t\t<img
+        src=\"/20201111010508/assets/images/search.png\" class=\"mobile-search-icon\"
+        alt=\"search\">\r\n\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<div
+        data-collapse=\"medium\" data-animation=\"over-right\" data-duration=\"400\"
+        data-contain=\"1\" data-doc-height=\"1\" class=\"w-nav navbar\">\r\n\t\t\t\t\t\t<div
+        class=\"w-container header-container\">\r\n\t\t\t\t\t\t\t<div class=\"logo\">\r\n\t\t\t\t\t\t\t\t<a
+        href=\"/\" class=\"w-nav-brand brand\">\r\n\t\t\t\t\t\t\t\t\t<img width=\"250\"
+        height=\"63\" src=\"/20201111010508/assets/images/logo.png\" alt=\"Primary
+        Website\">\r\n\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div
+        class=\"navigation\">\r\n\t\t\t\t\t\t\t\t\r\n\r\n\t<div class=\"quick-links\">\r\n\t\t\r\n\t\t\t\t<a
+        class=\"quick-link\"  target=\"_blank\"  href=\"https://store.siglercompanies.com/merchant.mvc?Store_Code=IOWACORN&Screen=SFNT\">Online
+        Store</a>\r\n\t\t\t\r\n\t\t\t\t<a class=\"quick-link\"   href=\"/media-page/\">Media</a>\r\n\t\t\t\r\n\t\t\t\t<a
+        class=\"quick-link\"   href=\"/events/\">Events</a>\r\n\t\t\t\r\n\t\t\t\t<a
+        class=\"quick-link\"   href=\"/contact/\">Contact</a>\r\n\t\t\t\r\n\t</div>\r\n\r\n\t\t\t\t\t\t\t\t<div
+        class=\"w-form search-form-wrapper\">\r\n\t\t\t\t\t\t\t\t\t<form id=\"email-form-2\"
+        name=\"email-form\" data-name=\"Email Form\" class=\"w-clearfix\" action=\"/search\"
+        method=\"post\">\r\n\t\t\t\t\t\t\t\t\t\t<input id=\"Search-2\" type=\"text\"
+        placeholder=\"SEARCH...\" name=\"criteria\" data-name=\"Search 2\" class=\"w-input
+        search-field\">\r\n\t\t\t\t\t\t\t\t\t\t<input type=\"submit\" class=\"w-button
+        search-button\" value=\"\">\r\n\t\t\t\t\t\t\t\t\t</form>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t<nav
+        class=\"w-nav-menu nav-menu w-hidden-medium w-hidden-small w-hidden-tiny\">\r\n\t\t\t\t\t\t\t\t\t\r\n
+        \              \t<div data-ix=\"dropdown-hover\" class=\"dropdown-wrap\">\r\n
+        \                   <a class=\"nav-link-a w--current\" href=\"/about/\">About</a>\r\n
+        \              \t\t<div class=\"dropdown-list\">\r\n               \t\t\t<div
+        class=\"dropdown-spacer\"></div>\r\n               \t\t\t<div class=\"dropdown-list-inner\">\r\n
+        \                   \t\t\r\n\t\t<div class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a
+        class=\"dropdown-a parent\" href=\"/about/iowa-corn-promotion-board-directors/\">ICPB
+        Directors</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div class=\"w-clearfix
+        dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a parent\" href=\"/about/iowa-corn-growers-association-directors/\">ICGA
+        Directors</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div class=\"w-clearfix
+        dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a parent\" href=\"/about/iowa-corn-growers-association-staff/\">ICGA
+        Staff</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div class=\"w-clearfix
+        dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a parent\" href=\"/about/employment/\">Employment</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/about/local-iowa-corn-boards/\">Local Corn Boards</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/about/partners/\">Our Partners</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/about/iowa-corn-collegiate-advisory-team/\">Collegiate Advisory
+        Team</a>\r\n\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/about/iowa-corn-collegiate-advisory-team/meet-the-2019-team/\"
+        class=\"dropdown-a\">Meet the 2019-2020</a>\r\n\t\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/about/ilead/\">I-LEAD</a>\r\n\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/about/ilead/i-lead-class-9/\"
+        class=\"dropdown-a\">I-LEAD Class 9</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/about/ilead/apply/\"
+        class=\"dropdown-a\">Apply</a>\r\n\t\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/about/iowa-corn-opportunities/\">Iowa Corn Opportunities,
+        LLC</a>\r\n\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/about/iowa-corn-opportunities/ico-leadership/\"
+        class=\"dropdown-a\">ICO, LLC Leadership</a>\r\n\t\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent w--current\" href=\"/about/news/\">News</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/about/publications/\">Publications</a>\r\n\t\t\t\t\r\n\t\t\t\t\t\t<a
+        href=\"/about/publications/warm-welcomes-magazine/\" class=\"dropdown-a\">Warm
+        Welcomes from the Farm Magazine</a>\r\n\t\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n
+        \                   \t</div>\r\n                    </div>\r\n                </div>\r\n\t\t\t\r\n
+        \              \t<div data-ix=\"dropdown-hover\" class=\"dropdown-wrap\">\r\n
+        \                   <a class=\"nav-link-a\" href=\"/membership/\">Membership</a>\r\n
+        \              \t\t<div class=\"dropdown-list\">\r\n               \t\t\t<div
+        class=\"dropdown-spacer\"></div>\r\n               \t\t\t<div class=\"dropdown-list-inner\">\r\n
+        \                   \t\t\r\n\t\t<div class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a
+        class=\"dropdown-a parent\" href=\"/membership/join-icga/\">Join ICGA</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/membership/membership-benefits/\">Membership Benefits</a>\r\n\t\t\t\t\r\n\t\t\t\t\t\t<a
+        href=\"/membership/membership-benefits/2021-future-of-agriculture-scholarships/\"
+        class=\"dropdown-a\">2021 Future of Agriculture Scholarships</a>\r\n\t\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/membership/policy-development/\">Policy Development</a>\r\n\t\t\t\t\r\n\t\t\t\t\t\t<a
+        href=\"/media/cms/1828586_Iowa_Corn_Growers_9DE7EF87B662D.pdf\" class=\"dropdown-a\">2020
+        Policy Book</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/membership/policy-development/roundtables/\"
+        class=\"dropdown-a\">RoundTables</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/membership/policy-development/2020-congressional-forum-registration/\"
+        class=\"dropdown-a\">2020 Congressional Forum Registration</a>\r\n\t\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/membership/icga-annual-grassroots-summit/\">Grassroots Summit</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/membership/legislative-priorities/\">Legislative Priorities</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/membership/icga-pac/\">ICGA Political Action Committee</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/membership/get-engaged-locally/\">Get Engaged Locally</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/membership/cropfair/\">Crop Fairs</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n
+        \                   \t</div>\r\n                    </div>\r\n                </div>\r\n\t\t\t\r\n
+        \              \t<div data-ix=\"dropdown-hover\" class=\"dropdown-wrap\">\r\n
+        \                   <a class=\"nav-link-a\" href=\"/corn-production/\">Corn
+        Production</a>\r\n               \t\t<div class=\"dropdown-list\">\r\n               \t\t\t<div
+        class=\"dropdown-spacer\"></div>\r\n               \t\t\t<div class=\"dropdown-list-inner\">\r\n
+        \                   \t\t\r\n\t\t<div class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a
+        class=\"dropdown-a parent\" href=\"/corn-production/production/\">Production</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/corn-production/environmental/\">Environment</a>\r\n\t\t\t\t\r\n\t\t\t\t\t\t<a
+        href=\"/corn-production/environmental/farmer-to-farmer-insights/\" class=\"dropdown-a\">Farmer
+        to Farmer Insights</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/corn-production/environmental/water-quality/\"
+        class=\"dropdown-a\">Stewardship Advocate</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a
+        href=\"/corn-production/environmental/conservation-practices/\" class=\"dropdown-a\">Conservation
+        Practices</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/corn-production/environmental/partnerships/\"
+        class=\"dropdown-a\">Partnerships</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/corn-production/environmental/conservation-discussions-with-landlords/\"
+        class=\"dropdown-a\">Landowners Trust Tenants to Care for Their Land</a>\r\n\t\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/corn-production/know-before-you-grow/\">Know Before You Grow</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/corn-production/research-and-patents/\">Corn Production Research</a>\r\n\t\t\t\t\r\n\t\t\t\t\t\t<a
+        href=\"/corn-production/research-and-patents/plant-research/\" class=\"dropdown-a\">Iowa
+        Corn Plant Research</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/corn-production/research-and-patents/corn-stover/\"
+        class=\"dropdown-a\">Corn Stover Research</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a
+        href=\"/corn-production/research-and-patents/research-partners/\" class=\"dropdown-a\">Research
+        Partners</a>\r\n\t\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n                    \t</div>\r\n
+        \                   </div>\r\n                </div>\r\n\t\t\t\r\n               \t<div
+        data-ix=\"dropdown-hover\" class=\"dropdown-wrap\">\r\n                    <a
+        class=\"nav-link-a\" href=\"/corn-uses/\">Corn Uses</a>\r\n               \t\t<div
+        class=\"dropdown-list\">\r\n               \t\t\t<div class=\"dropdown-spacer\"></div>\r\n
+        \              \t\t\t<div class=\"dropdown-list-inner\">\r\n                    \t\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/corn-uses/ethanol/\">Ethanol Production</a>\r\n\t\t\t\t\r\n\t\t\t\t\t\t<a
+        href=\"/corn-uses/ethanol/higher-blends/\" class=\"dropdown-a\">Higher Blends</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a
+        href=\"/corn-uses/ethanol/pump-locations/\" class=\"dropdown-a\">About E15
+        (Unleaded 88)</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/corn-uses/ethanol/ethanol-plants/\"
+        class=\"dropdown-a\">Ethanol Plants</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/corn-uses/ethanol/fuelretailers/\"
+        class=\"dropdown-a\">Iowa Fuel Retailers</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a
+        href=\"/corn-uses/ethanol/american-ethanol-promo-cards/\" class=\"dropdown-a\">American
+        Ethanol Promo Cards</a>\r\n\t\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div class=\"w-clearfix
+        dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a parent\" href=\"/corn-uses/livestock/\">Supporting
+        the Livestock Industry</a>\r\n\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/corn-uses/livestock/feeding-trials/\"
+        class=\"dropdown-a\">Feeding Trials</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/corn-uses/livestock/csif/\"
+        class=\"dropdown-a\">Coalition to Support Iowa's Farmers</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a
+        href=\"/corn-uses/livestock/usmef/\" class=\"dropdown-a\">U.S. Meat Export
+        Federation</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/corn-uses/livestock/distillers-grains/\"
+        class=\"dropdown-a\">Distillers Grains</a>\r\n\t\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/corn-uses/exports/\">Corn Exports</a>\r\n\t\t\t\t\r\n\t\t\t\t\t\t<a
+        href=\"/corn-uses/exports/buy-corn/\" class=\"dropdown-a\">Buying Corn</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a
+        href=\"/corn-uses/exports/us-grains-council/\" class=\"dropdown-a\">U.S. Grains
+        Council</a>\r\n\t\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div class=\"w-clearfix
+        dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a parent\" href=\"/corn-uses/new-uses/\">Biochemicals
+        & Bioplastics</a>\r\n\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/corn-uses/new-uses/bioplastics/\"
+        class=\"dropdown-a\">New Uses Research</a>\r\n\t\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n
+        \                   \t</div>\r\n                    </div>\r\n                </div>\r\n\t\t\t\r\n
+        \              \t<div data-ix=\"dropdown-hover\" class=\"dropdown-wrap\">\r\n
+        \                   <a class=\"nav-link-a\" href=\"/education/\">Education</a>\r\n
+        \              \t\t<div class=\"dropdown-list\">\r\n               \t\t\t<div
+        class=\"dropdown-spacer\"></div>\r\n               \t\t\t<div class=\"dropdown-list-inner\">\r\n
+        \                   \t\t\r\n\t\t<div class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a
+        class=\"dropdown-a parent\" href=\"/education/corngrowsiowa/\">Corn Grows
+        Iowa</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div class=\"w-clearfix
+        dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a parent\" href=\"/education/h2o/\">Iowa
+        Farmers Care about the Water We Share</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/education/faqs/\">FAQs</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/education/farmer-resources/\">Farmer Resources</a>\r\n\t\t\t\t\r\n\t\t\t\t\t\t<a
+        href=\"/education/farmer-resources/flooding/\" class=\"dropdown-a\">Flooding</a>\r\n\t\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/fueling-station-locator/\">Find Your Fueling Station</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/vehicle-fuel-finder/\">Find Your Flex Fuel Vehicle</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/education/mobile-educational-trailers/\">Iowa Corn Mobile
+        Educational Trailer</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div class=\"w-clearfix
+        dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a parent\" href=\"/education/biofuels-mobile-education-center/\">Biofuels
+        Mobile Education Center</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/education/food/\">Food Facts</a>\r\n\t\t\t\t\r\n\t\t\t\t\t\t<a
+        href=\"/education/food/high-fructose-corn-syrup/\" class=\"dropdown-a\">High
+        Fructose Corn Syrup</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/education/food/gmos/\"
+        class=\"dropdown-a\">GMO Facts</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/education/food/gmo-labeling/\"
+        class=\"dropdown-a\">GMO Labeling</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/education/food/iowa-food-and-family-project/\"
+        class=\"dropdown-a\">Iowa Food and Family Project</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a
+        href=\"/education/food/us-farmers--ranchers-alliance/\" class=\"dropdown-a\">U.S.
+        Farmers & Ranchers Alliance</a>\r\n\t\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/education/corn-its-everything/\">Corn: It's Everything</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/education/2018-cy-hawk-series/\">Iowa Corn Cy-Hawk Series</a>\r\n\t\t\t\t\r\n\t\t\t\t\t\t<a
+        href=\"/education/2018-cy-hawk-series/about-the-cy-hawk-series/\" class=\"dropdown-a\">About
+        The Series</a>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\t<a href=\"/education/2018-cy-hawk-series/historical-results/\"
+        class=\"dropdown-a\">Historical Results</a>\r\n\t\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/education/iowa-cornfed-tour/\">Iowa Corn-Fed Tour</a>\r\n\t\t\t\t\r\n\t\t\t\t\t\t<a
+        href=\"/education/iowa-cornfed-tour/recipes/\" class=\"dropdown-a\">Recipes</a>\r\n\t\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/education/ragbrai-iowa-corn/\">RAGBRAI</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/education/commonground/\">CommonGround</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n\t\t<div
+        class=\"w-clearfix dropdown-group\">\r\n\t\t\t\r\n\t\t\t\t<a class=\"dropdown-a
+        parent\" href=\"/education/fun-for-kids/\">Fun for Kids</a>\r\n\t\t\t\t\r\n\t\t</div>\t\r\n\t\r\n
+        \                   \t</div>\r\n                    </div>\r\n                </div>\r\n\t\t\t\r\n\t\t\t\t\t\t\t\t</nav>\r\n\t\t\t\t\t\t\t\t<nav
+        class=\"w-nav-menu nav-menu mobile-navigation-menu w-hidden-main\">\r\n\t\t\t
+        \                       \r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li class=\"mm-selected\">\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Home</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li
+        class=\"mm-selected\">\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link nav-link
+        w--current\"\r\n\t\t\t\t\thref=\"/about/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>About</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/about/iowa-corn-promotion-board-directors/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>ICPB
+        Directors</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/about/iowa-corn-growers-association-directors/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>ICGA
+        Directors</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/about/iowa-corn-growers-association-staff/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>ICGA
+        Staff</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/about/employment/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Employment</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/about/local-iowa-corn-boards/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Local
+        Corn Boards</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/about/partners/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Our
+        Partners</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/about/iowa-corn-collegiate-advisory-team/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Collegiate
+        Advisory Team</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/about/iowa-corn-collegiate-advisory-team/meet-the-2019-team/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Meet
+        the 2019-2020</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/about/ilead/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>I-LEAD</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/about/ilead/i-lead-class-9/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>I-LEAD
+        Class 9</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/about/ilead/apply/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Apply</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/about/iowa-corn-opportunities/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Iowa
+        Corn Opportunities, LLC</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/about/iowa-corn-opportunities/ico-leadership/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>ICO,
+        LLC Leadership</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li
+        class=\"mm-selected\">\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link nav-link
+        w--current\"\r\n\t\t\t\t\thref=\"/about/news/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>News</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/about/publications/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Publications</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/about/publications/warm-welcomes-magazine/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Warm
+        Welcomes from the Farm Magazine</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/membership/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Membership</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/membership/join-icga/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Join
+        ICGA</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/membership/membership-benefits/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Membership
+        Benefits</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/membership/membership-benefits/2021-future-of-agriculture-scholarships/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>2021
+        Future of Agriculture Scholarships</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/membership/policy-development/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Policy
+        Development</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/media/cms/1828586_Iowa_Corn_Growers_9DE7EF87B662D.pdf\"\r\n\t\t\t\t\ttarget=\"_blank\"\r\n\t\t\t\t>2020
+        Policy Book</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/membership/policy-development/roundtables/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>RoundTables</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/membership/policy-development/2020-congressional-forum-registration/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>2020
+        Congressional Forum Registration</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/membership/icga-annual-grassroots-summit/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Grassroots
+        Summit</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/membership/legislative-priorities/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Legislative
+        Priorities</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/membership/icga-pac/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>ICGA
+        Political Action Committee</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/membership/get-engaged-locally/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Get
+        Engaged Locally</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/membership/cropfair/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Crop
+        Fairs</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-production/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Corn
+        Production</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-production/production/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Production</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-production/environmental/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Environment</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-production/environmental/farmer-to-farmer-insights/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Farmer
+        to Farmer Insights</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-production/environmental/water-quality/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Stewardship
+        Advocate</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-production/environmental/conservation-practices/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Conservation
+        Practices</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-production/environmental/partnerships/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Partnerships</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-production/environmental/conservation-discussions-with-landlords/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Landowners
+        Trust Tenants to Care for Their Land</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-production/know-before-you-grow/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Know
+        Before You Grow</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-production/research-and-patents/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Corn
+        Production Research</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-production/research-and-patents/plant-research/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Iowa
+        Corn Plant Research</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-production/research-and-patents/plant-research/nitrogen-use-efficiency-and-phenotyping/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Nitrogen
+        Use Efficiency and Phenotyping</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-production/research-and-patents/corn-stover/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Corn
+        Stover Research</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-production/research-and-patents/research-partners/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Research
+        Partners</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-uses/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Corn
+        Uses</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-uses/ethanol/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Ethanol
+        Production</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-uses/ethanol/higher-blends/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Higher
+        Blends</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/fueling-station-locator/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Ethanol
+        Fuel Finder</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/fueling-station-locator/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Fuel
+        Finder</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-uses/ethanol/pump-locations/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>About
+        E15 (Unleaded 88)</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-uses/ethanol/ethanol-plants/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Ethanol
+        Plants</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-uses/ethanol/fuelretailers/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Iowa
+        Fuel Retailers</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-uses/ethanol/fuelretailers/pump-label-order-form/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Pump
+        Label Order Form</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-uses/ethanol/american-ethanol-promo-cards/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>American
+        Ethanol Promo Cards</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-uses/livestock/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Supporting
+        the Livestock Industry</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-uses/livestock/feeding-trials/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Feeding
+        Trials</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-uses/livestock/csif/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Coalition
+        to Support Iowa's Farmers</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-uses/livestock/usmef/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>U.S.
+        Meat Export Federation</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-uses/livestock/distillers-grains/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Distillers
+        Grains</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-uses/exports/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Corn
+        Exports</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-uses/exports/buy-corn/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Buying
+        Corn</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-uses/exports/us-grains-council/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>U.S.
+        Grains Council</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-uses/new-uses/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Biochemicals
+        & Bioplastics</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/corn-uses/new-uses/bioplastics/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>New
+        Uses Research</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Education</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/corngrowsiowa/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Corn
+        Grows Iowa</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/h2o/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Iowa
+        Farmers Care about the Water We Share</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/faqs/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>FAQs</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/farmer-resources/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Farmer
+        Resources</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/farmer-resources/flooding/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Flooding</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/fueling-station-locator/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Find
+        Your Fueling Station</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/vehicle-fuel-finder/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Find
+        Your Flex Fuel Vehicle</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/mobile-educational-trailers/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Iowa
+        Corn Mobile Educational Trailer</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/biofuels-mobile-education-center/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Biofuels
+        Mobile Education Center</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/food/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Food
+        Facts</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/food/high-fructose-corn-syrup/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>High
+        Fructose Corn Syrup</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/food/gmos/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>GMO
+        Facts</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/food/gmo-labeling/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>GMO
+        Labeling</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/food/iowa-food-and-family-project/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Iowa
+        Food and Family Project</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/food/us-farmers--ranchers-alliance/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>U.S.
+        Farmers & Ranchers Alliance</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/corn-its-everything/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Corn:
+        It's Everything</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/2018-cy-hawk-series/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Iowa
+        Corn Cy-Hawk Series</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/2018-cy-hawk-series/about-the-cy-hawk-series/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>About
+        The Series</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/2018-cy-hawk-series/historical-results/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Historical
+        Results</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/iowa-cornfed-tour/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Iowa
+        Corn-Fed Tour</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/iowa-cornfed-tour/recipes/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Recipes</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/ragbrai-iowa-corn/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>RAGBRAI</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/commonground/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>CommonGround</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/education/fun-for-kids/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Fun
+        for Kids</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"https://store.siglercompanies.com/merchant.mvc?Store_Code=IOWACORN&Screen=SFNT\"\r\n\t\t\t\t\ttarget=\"_blank\"\r\n\t\t\t\t>Online
+        Store</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/media-page/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Media</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li
+        class=\"mm-selected\">\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link nav-link
+        w--current\"\r\n\t\t\t\t\thref=\"/about/news/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>News</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/events/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Events</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/about/publications/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Roots</a>\r\n\r\n\t\t\t\t\r\n\r\n\t<ul>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/about/publications/warm-welcomes-magazine/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Warm
+        Welcomes from the Farm Magazine</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/media-page/corn-facts/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Corn
+        Facts</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/media-page/logo/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Logos</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"https://www.tiki-toki.com/timeline/entry/860958/Iowa-Corn-Growers-Association-50th-Anniversary-copy/#vars!date=2012-12-06_12:58:45!\"\r\n\t\t\t\t\ttarget=\"_blank\"\r\n\t\t\t\t>Iowa
+        Corn Timeline</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"https://www.tiki-toki.com/timeline/entry/860958/Iowa-Corn-Growers-Association-50th-Anniversary-copy/#vars!date=2012-12-06_12:58:45!\"\r\n\t\t\t\t\ttarget=\"_blank\"\r\n\t\t\t\t>History
+        of Iowa's Ethanol Industry Media Kit</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/media-page/social-media-toolkit/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Social
+        Media Toolkit</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/events/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Events</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t<li>\r\n\t\t\t\t<a\r\n\t\t\t\t\tclass=\"w-nav-link
+        nav-link\"\r\n\t\t\t\t\thref=\"/contact/\"\r\n\t\t\t\t\t\r\n\t\t\t\t>Contact</a>\r\n\r\n\t\t\t\t\r\n\t\t\t</li>\r\n\t\t\r\n\t</ul>\r\n\r\n\t\t\t
+        \                   </nav>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</header>\r\n\t\t\t\t\r\n\t\t\t\t\t<div
+        class=\"w-section\">\r\n\t\t\t\t\t\t<div class=\"inside-page-banner\">\r\n\t\t\t\t\t\t\t<img
+        src=\"/media/cms/FamilyonFence_88B02AFC4D19B.jpg\" alt=\"News page banner\">\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div
+        class=\"w-container content-container\">\r\n\t\t\t\t\t\t\t<div class=\"breadcrumbs-div\">\r\n\t\t\t\t\t\t\t\t\r\n\t<a
+        class=\"breadcrumb-a\" href=\"/\">Home</a>\r\n\t\r\n\t\t\t\t<a class=\"breadcrumb-a\"
+        href=\"/about/\">About</a>\r\n\t\t\t\r\n\t\t\t\t<div class=\"breadcrumb-current\">News</div>\r\n\t\t\t\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div
+        id=\"siteShare\">\r\n\t\t\t\t\t\t\t\t<div class=\"addthis_native_toolbox\"></div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div
+        class=\"clear\"></div>\r\n\r\n\t\t\t\t\t\t\t\r\n\t\t\t            \t\t<div
+        class=\"w-row content-row\">\r\n\t\t\t\t\t\t\t\t\t<div class=\"w-col w-col-3
+        w-col-stack left-nav-col\">\r\n\t\t\t\t\t\t\t\t\t\t<div class=\"w-clearfix
+        left-nav-div\">\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\r\n\t<div class=\"left-nav-inner\">\r\n\t\t\r\n\t\t\t<a
+        href=\"/about/iowa-corn-promotion-board-directors/\" class=\"left-nav-a\"
+        >ICPB Directors</a>\r\n\t\t\t\r\n\t\t\t<a href=\"/about/iowa-corn-growers-association-directors/\"
+        class=\"left-nav-a\" >ICGA Directors</a>\r\n\t\t\t\r\n\t\t\t<a href=\"/about/iowa-corn-growers-association-staff/\"
+        class=\"left-nav-a\" >ICGA Staff</a>\r\n\t\t\t\r\n\t\t\t<a href=\"/about/employment/\"
+        class=\"left-nav-a\" >Employment</a>\r\n\t\t\t\r\n\t\t\t<a href=\"/about/local-iowa-corn-boards/\"
+        class=\"left-nav-a\" >Local Corn Boards</a>\r\n\t\t\t\r\n\t\t\t<a href=\"/about/partners/\"
+        class=\"left-nav-a\" >Our Partners</a>\r\n\t\t\t\r\n\t\t\t<a href=\"/about/iowa-corn-collegiate-advisory-team/\"
+        class=\"left-nav-a\" >Collegiate Advisory Team</a>\r\n\t\t\t\r\n\t\t\t<a href=\"/about/ilead/\"
+        class=\"left-nav-a\" >I-LEAD</a>\r\n\t\t\t\r\n\t\t\t<a href=\"/about/iowa-corn-opportunities/\"
+        class=\"left-nav-a\" >Iowa Corn Opportunities, LLC</a>\r\n\t\t\t\r\n\t\t\t<a
+        href=\"/about/news/\" class=\"left-nav-a w--current\" >News</a>\r\n\t\t\t\r\n\t\t\t<a
+        href=\"/about/publications/\" class=\"left-nav-a\" >Publications</a>\r\n\t\t\t\r\n\t</div>\t\r\n\r\n\t\t\t\t\t\t\t\t\t\t</div>\r\n
+        \                                       \r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"w-col w-col-9 w-col-stack w-clearfix content-col\">\r\n\t\t\t\t\t\t\t\t\t\t<h1
+        class=\"h1\">News</h1>\r\n\t\t\t\t\t\t\t\t\t\t<div class=\"w-row clear\">\r\n\t\t\t\t\t\t\t\t\t\t\t<div
+        class=\"w-col w-col-9 w-col-stack w-clearfix\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t<div
+        class=\"content-div\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\r\n\r\n<div id=\"session-message-wrapper\">\r\n\t\r\n</div>\r\n<div
+        id=\"news_module\" class=\"cms_list\">\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\t<div
+        class=\"cms_list_item\">\r\n\t\t\t\t\t<table cellpadding=\"0\" cellspacing=\"0\"
+        border=\"0\" role=\"presentation\">\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<tr valign=\"top\">\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<td
+        valign=\"top\" class=\"cms_metadata2 cms_date\">\r\n\t\t\t\t\t\t\t\t\t\t<h3>October
+        16, 2020</h3>\r\n\t\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t<td
+        valign=\"top\" width=\"100%\" class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"cms_metadata1 cms_title\">\r\n\t\t\t\t\t\t\t\t\t\t<h3><a href=\"/about/news/icpb-hosts-virtual-meetings-with-mexican-and-southeast-asian-trade-teams/\">ICPB
+        Hosts Virtual Meetings with Mexican and Southeast Asian Trade Teams</a></h3>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\tYesterday, the Iowa Corn Promotion
+        Board&reg; (ICPB) along with the U.S. Grains Council hosted three virtual
+        trade team meetings with representatives from Mexico and Southeast Asia, including
+        Malaysia, Cambodia, Lao, Myanmar and the Philippines. During their virtual
+        meetings, the diverse groups learned about corn and corn co-products and the
+        condition... \r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<a
+        href=\"/about/news/icpb-hosts-virtual-meetings-with-mexican-and-southeast-asian-trade-teams/\">Read
+        More</a>\r\n\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td
+        colspan=\"2\"><div class=\"cms_item_divider\"></div></td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<tr
+        valign=\"top\">\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<td valign=\"top\"
+        class=\"cms_metadata2 cms_date\">\r\n\t\t\t\t\t\t\t\t\t\t<h3>October 8, 2020</h3>\r\n\t\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t<td
+        valign=\"top\" width=\"100%\" class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"cms_metadata1 cms_title\">\r\n\t\t\t\t\t\t\t\t\t\t<h3><a href=\"/about/news/cropstv-transitions-live-meetings-to-online-delivery/\">CropsTV
+        Transitions Live Meetings to Online Delivery</a></h3>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\tThe Integrated Crop Management
+        Conference and Crop Advantage Series for this winter are being replaced with
+        CropsTV Iowa State University Extension and Outreach is announcing a new educational
+        program aimed at delivering crop production information directly to farmers
+        and agribusinesses. CropsTV provides the convenience of viewing at home, office
+        or... \r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<a
+        href=\"/about/news/cropstv-transitions-live-meetings-to-online-delivery/\">Read
+        More</a>\r\n\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td
+        colspan=\"2\"><div class=\"cms_item_divider\"></div></td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<tr
+        valign=\"top\">\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<td valign=\"top\"
+        class=\"cms_metadata2 cms_date\">\r\n\t\t\t\t\t\t\t\t\t\t<h3>October 8, 2020</h3>\r\n\t\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t<td
+        valign=\"top\" width=\"100%\" class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"cms_metadata1 cms_title\">\r\n\t\t\t\t\t\t\t\t\t\t<h3><a href=\"/about/news/iowa-corn-contributes-to-beef-up-iowa-program/\">Iowa
+        Corn Contributes to Beef Up Iowa Program</a></h3>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\tIowa Corn&reg; is proud to announce
+        its contributions to the Beef Up Iowa program which was launched in July to
+        connect Iowa beef producers with food insecure Iowans. Iowa Corn&rsquo;s Animal
+        Agriculture and the Environment Committee donated funds directly to the Beef
+        Up Iowa program, while Iowa Corn&rsquo;s District 2... \r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<a
+        href=\"/about/news/iowa-corn-contributes-to-beef-up-iowa-program/\">Read More</a>\r\n\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td
+        colspan=\"2\"><div class=\"cms_item_divider\"></div></td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<tr
+        valign=\"top\">\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<td valign=\"top\"
+        class=\"cms_metadata2 cms_date\">\r\n\t\t\t\t\t\t\t\t\t\t<h3>September 24,
+        2020</h3>\r\n\t\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t<td
+        valign=\"top\" width=\"100%\" class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"cms_metadata1 cms_title\">\r\n\t\t\t\t\t\t\t\t\t\t<h3><a href=\"/about/news/iowa-corn-growers-association-welcomes-next-generation-fuels-act/\">Iowa
+        Corn Growers Association Welcomes Next Generation Fuels Act</a></h3>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\tThe Iowa Corn Growers Association&reg;
+        (ICGA) welcomes legislation introduced yesterday in the U.S. House of Representatives
+        that will boost long-term corn demand for clean, affordable ethanol. The Next
+        Generation Fuels Act recognizes the high octane, low carbon benefits of corn
+        ethanol. &ldquo;The introduction of the Next Generation Fuels Act is... \r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<a
+        href=\"/about/news/iowa-corn-growers-association-welcomes-next-generation-fuels-act/\">Read
+        More</a>\r\n\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td
+        colspan=\"2\"><div class=\"cms_item_divider\"></div></td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<tr
+        valign=\"top\">\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<td valign=\"top\"
+        class=\"cms_metadata2 cms_date\">\r\n\t\t\t\t\t\t\t\t\t\t<h3>September 18,
+        2020</h3>\r\n\t\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t<td
+        valign=\"top\" width=\"100%\" class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"cms_metadata1 cms_title\">\r\n\t\t\t\t\t\t\t\t\t\t<h3><a href=\"/about/news/iowa-corn-growers-association-pac-announces-candidate-endorsements/\">Iowa
+        Corn Growers Association PAC Announces Candidate Endorsements</a></h3>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\tThe Iowa Corn Growers Association&reg;
+        (ICGA) Political Action Committee (PAC) endorsed 68 candidates for the 2020
+        election cycle. Established with the bipartisan support of Iowa&rsquo;s corn
+        farmers more than a decade ago, the ICGA PAC is one tool for members to have
+        a voice and an opportunity to be heard... \r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<a
+        href=\"/about/news/iowa-corn-growers-association-pac-announces-candidate-endorsements/\">Read
+        More</a>\r\n\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td
+        colspan=\"2\"><div class=\"cms_item_divider\"></div></td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<tr
+        valign=\"top\">\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<td valign=\"top\"
+        class=\"cms_metadata2 cms_date\">\r\n\t\t\t\t\t\t\t\t\t\t<h3>September 18,
+        2020</h3>\r\n\t\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t<td
+        valign=\"top\" width=\"100%\" class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"cms_metadata1 cms_title\">\r\n\t\t\t\t\t\t\t\t\t\t<h3><a href=\"/about/news/icga-usda-announces-additional-funding-under-cfap/\">ICGA:
+        USDA Announces Additional Funding Under CFAP</a></h3>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\tToday, the U.S. Department of
+        Agriculture under Secretary Perdue and President Trump announced the expansion
+        of funding through the Coronavirus Food Assistance Program (CFAP 2) of up
+        to 14 billion dollars for farmers and producers who continue to face market
+        demand loss due to COVID-19. Iowa Corn Growers Association&reg; (ICGA)...
+        \r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<a
+        href=\"/about/news/icga-usda-announces-additional-funding-under-cfap/\">Read
+        More</a>\r\n\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td
+        colspan=\"2\"><div class=\"cms_item_divider\"></div></td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<tr
+        valign=\"top\">\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<td valign=\"top\"
+        class=\"cms_metadata2 cms_date\">\r\n\t\t\t\t\t\t\t\t\t\t<h3>September 14,
+        2020</h3>\r\n\t\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t<td
+        valign=\"top\" width=\"100%\" class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"cms_metadata1 cms_title\">\r\n\t\t\t\t\t\t\t\t\t\t<h3><a href=\"/about/news/icga-scores-a-win-as-epa-denies-dozens-of-gap-year-ethanol-waivers/\">ICGA
+        Scores a Win as EPA Denies Dozens of Gap-Year Ethanol Waivers</a></h3>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\tToday, the Environmental Protection
+        Agency (EPA) denied a majority of the &ldquo;gap-year&quot; small refinery
+        exemptions (SRE) from 2011-2018 compliance years under the Renewable Fuels
+        Standard (RFS). Iowa Corn Growers Association (ICGA) President Carl Jardon
+        made the following statement. &ldquo;ICGA has repeatedly pushed the Administration
+        to deny these gap-year waivers for... \r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<a
+        href=\"/about/news/icga-scores-a-win-as-epa-denies-dozens-of-gap-year-ethanol-waivers/\">Read
+        More</a>\r\n\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td
+        colspan=\"2\"><div class=\"cms_item_divider\"></div></td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<tr
+        valign=\"top\">\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<td valign=\"top\"
+        class=\"cms_metadata2 cms_date\">\r\n\t\t\t\t\t\t\t\t\t\t<h3>September 3,
+        2020</h3>\r\n\t\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t<td
+        valign=\"top\" width=\"100%\" class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"cms_metadata1 cms_title\">\r\n\t\t\t\t\t\t\t\t\t\t<h3><a href=\"/about/news/icga-relays-corn-farmer-derecho-and-drought-concerns-to-sec-sonny-perdue/\">ICGA\_Relays\_Corn
+        Farmer\_Derecho and Drought\_Concerns to\_Sec. Sonny Perdue</a></h3>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\tToday, the Iowa Corn Growers
+        Association&reg; (ICGA) spoke directly with U.S. Secretary of Agriculture
+        Sonny Perdue about assisting Iowa&rsquo;s corn farmers due to the devasting
+        drought and derecho that has impacted a majority of the state. ICGA presented
+        several ideas for immediate financial relief to Sec. Perdue that came forward...
+        \r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<a
+        href=\"/about/news/icga-relays-corn-farmer-derecho-and-drought-concerns-to-sec-sonny-perdue/\">Read
+        More</a>\r\n\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td
+        colspan=\"2\"><div class=\"cms_item_divider\"></div></td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<tr
+        valign=\"top\">\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<td valign=\"top\"
+        class=\"cms_metadata2 cms_date\">\r\n\t\t\t\t\t\t\t\t\t\t<h3>September 2,
+        2020</h3>\r\n\t\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t<td
+        valign=\"top\" width=\"100%\" class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"cms_metadata1 cms_title\">\r\n\t\t\t\t\t\t\t\t\t\t<h3><a href=\"/about/news/icgas-letter-to-us-secretary-of-agriculture-sonny-perdue/\">ICGA's
+        Letter to U.S. Secretary of Agriculture Sonny Perdue</a></h3>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\tSeptember 3, 2020 The Honorable
+        Sonny Perdue Secretary, United States Department of Agriculture 1400 Independence
+        Ave SW Washington, DC 20250 Dear Secretary Perdue: Iowa&rsquo;s corn farmers
+        have worked with you through many hardships over the past few years, and we
+        truly value the partnership we have with your Department. Corn... \r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<a
+        href=\"/about/news/icgas-letter-to-us-secretary-of-agriculture-sonny-perdue/\">Read
+        More</a>\r\n\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td
+        colspan=\"2\"><div class=\"cms_item_divider\"></div></td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<tr
+        valign=\"top\">\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<td valign=\"top\"
+        class=\"cms_metadata2 cms_date\">\r\n\t\t\t\t\t\t\t\t\t\t<h3>August 25, 2020</h3>\r\n\t\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t<td
+        valign=\"top\" width=\"100%\" class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"cms_metadata1 cms_title\">\r\n\t\t\t\t\t\t\t\t\t\t<h3><a href=\"/about/news/icga-delegates-adopt-policies-impacting-iowa-corn-farmers-at-annual-grassroots-summit/\">ICGA
+        Delegates Adopt Policies Impacting Iowa Corn Farmers at Annual Grassroots
+        Summit</a></h3>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<div
+        class=\"description\">\r\n\t\t\t\t\t\t\t\t\t\tThe Iowa Corn Growers Association&reg;
+        (ICGA) held its Annual Grassroots Summit virtually today where ICGA delegates
+        set the direction for the policies and priorities for the coming year. During
+        the virtual Summit, over 100 farmer delegates had the opportunity to review
+        expiring policies and debate new policy resolutions. This ICGA... \r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t<a
+        href=\"/about/news/icga-delegates-adopt-policies-impacting-iowa-corn-farmers-at-annual-grassroots-summit/\">Read
+        More</a>\r\n\t\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\t<tr>\r\n\t\t\t\t\t\t\t\t<td
+        colspan=\"2\"><div class=\"cms_item_divider\"></div></td>\r\n\t\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</table>\r\n\t\t\t\t</div>\r\n\t\t\t\t\r\n\t\t<div
+        class=\"pagination-wrapper\">\r\n\t\t\t<div class=\"pagination-previous-page
+        pagination-bg\">\r\n\t\t\t\t\r\n\t\t\t\t\t<span class=\"disabled\">Previous</span>\r\n\t\t\t\t\r\n\t\t\t</div>\r\n\t\t\t<div
+        class=\"pagination-page-selection-bottom pagination-bg\">\r\n\t\t\t\t<div
+        class=\"pagination-current-page\"><span aria-hidden=\"true\">Page</span>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<ul
+        class=\"page-selection-list page-selection-bottom-15520\">\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"1\" ><a href=\"?page=1\">1</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"2\" ><a href=\"?page=2\">2</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"3\" ><a href=\"?page=3\">3</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"4\" ><a href=\"?page=4\">4</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"5\" ><a href=\"?page=5\">5</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"6\" ><a href=\"?page=6\">6</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"7\" ><a href=\"?page=7\">7</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"8\" ><a href=\"?page=8\">8</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"9\" ><a href=\"?page=9\">9</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"10\" ><a href=\"?page=10\">10</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"11\" ><a href=\"?page=11\">11</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"12\" ><a href=\"?page=12\">12</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"13\" ><a href=\"?page=13\">13</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"14\" ><a href=\"?page=14\">14</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"15\" ><a href=\"?page=15\">15</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"16\" ><a href=\"?page=16\">16</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"17\" ><a href=\"?page=17\">17</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"18\" ><a href=\"?page=18\">18</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"19\" ><a href=\"?page=19\">19</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"20\" ><a href=\"?page=20\">20</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"21\" ><a href=\"?page=21\">21</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"22\" ><a href=\"?page=22\">22</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"23\" ><a href=\"?page=23\">23</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"24\" ><a href=\"?page=24\">24</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"25\" ><a href=\"?page=25\">25</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"26\" ><a href=\"?page=26\">26</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"27\" ><a href=\"?page=27\">27</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"28\" ><a href=\"?page=28\">28</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"29\" ><a href=\"?page=29\">29</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"30\" ><a href=\"?page=30\">30</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"31\" ><a href=\"?page=31\">31</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"32\" ><a href=\"?page=32\">32</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+        data-option=\"33\" ><a href=\"?page=33\">33</a></li>\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</ul>\r\n\t\t\t\t\t<script>\r\n\t\t\t\t\t\tjQuery(\".page-selection-bottom-15520\").flyOutMenu({\r\n\t\t\t\t\t\t\tname:
+        \"PageSelectionBottom\",\r\n\t\t\t\t\t\t\tselectedValue: \"1\",\r\n\t\t\t\t\t\t\tassistiveLabel:
+        \"Page\",\r\n\t\t\t\t\t\t\ttextAlign: \"center\"\r\n\t\t\t\t\t\t});\r\n\t\t\t\t\t</script>\r\n\t\t\t\t\t
+        of 33\r\n\t\t\t\t</div>\r\n\t\t\t\t<div class=\"pagination-current-items-bottom\">Showing
+        1-10 of 330</div>\r\n\t\t\t</div>\r\n\t\t\t<div class=\"pagination-next-page
+        pagination-bg\">\r\n\t\t\t\t\r\n\t\t\t\t\t<a href=\"?page=2\">Next</a>\r\n\t\t\t\t\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t\t\r\n\t\t</div>
+        \r\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"w-col w-col-12\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t<div
+        class=\"w-col w-col-3 w-col-stack right-side-col\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t<div
+        class=\"right-side-div\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t<div class=\"box
+        \">\r\n\t\t\t\t\r\n\t\t\t\t\t<div class=\"title\">\r\n\t\t\t\t\t\t<h4>Tools</h4>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\r\n\t\t\t\t<div
+        class=\"content\">\r\n\t\t\t\t\t<table class=\"contentbox_item\" border=\"0\"
+        cellspacing=\"0\" cellpadding=\"0\" width=\"100%\" role=\"presentation\">\r\n<tr>\r\n\t<td
+        class=\"contentbox_item_image\"><img src=\"/core/public/shared/assets/images/rss_24.gif\"
+        alt=\"RSS Icon\" title=\"\" border=\"0\" width=\"24\" height=\"24\" /></td>\r\n\t<td
+        class=\"contentbox_item_content\" width=\"100%\">\r\n\t\t\r\n\t\t<a href=\"/about/news/rss/\"
+        target=\"_blank\">\r\n\t\t\tNews RSS\r\n\t\t</a>\r\n\t</td>\r\n</tr>\r\n</table>
+        \r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\r\n\t\t\t<div class=\"box archive\">\r\n\t\t\t\t\r\n\t\t\t\t\t<div
+        class=\"title\">\r\n\t\t\t\t\t\t<h4>Archive</h4>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\r\n\t\t\t\t<div
+        class=\"content\">\r\n\t\t\t\t\t\r\n\t<table class=\"archive_links\" width=\"100%\"
+        cellspacing=\"0\" cellpadding=\"0\" border=\"0\" role=\"presentation\">\r\n\t\t<tr>\r\n\t\t\t<td
+        width=\"33%\" valign=\"top\">\r\n\t\t\t\r\n\t\t\t\t<a\r\n\t\t\t\t\t\r\n\t\t\t\t\thref=\"/about/news/archive/2020/\">2020\r\n\t\t\t\t</a>\r\n\t\t\t\t\r\n\t\t\t\t<a\r\n\t\t\t\t\t\r\n\t\t\t\t\thref=\"/about/news/archive/2019/\">2019\r\n\t\t\t\t</a>\r\n\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\r\n\t\t\t\t\t<td
+        width=\"33%\" valign=\"top\">\r\n\t\t\t\t\t\r\n\t\t\t\t<a\r\n\t\t\t\t\t\r\n\t\t\t\t\thref=\"/about/news/archive/2018/\">2018\r\n\t\t\t\t</a>\r\n\t\t\t\t\r\n\t\t\t\t<a\r\n\t\t\t\t\t\r\n\t\t\t\t\thref=\"/about/news/archive/2017/\">2017\r\n\t\t\t\t</a>\r\n\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\r\n\t\t\t\t\t<td
+        width=\"33%\" valign=\"top\">\r\n\t\t\t\t\t\r\n\t\t\t\t<a\r\n\t\t\t\t\t\r\n\t\t\t\t\thref=\"/about/news/archive/2016/\">2016\r\n\t\t\t\t</a>\r\n\t\t\t\t\r\n\t\t\t\t<a\r\n\t\t\t\t\t\r\n\t\t\t\t\thref=\"/about/news/archive/2015/\">2015\r\n\t\t\t\t</a>\r\n\t\t\t\t\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\r\n\t\t</tr>\r\n\t</table>\r\n\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\r\n\t\t\t<div
+        class=\"box \">\r\n\t\t\t\t\r\n\t\t\t\t\t<div class=\"title\">\r\n\t\t\t\t\t\t<h4>Tags</h4>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\r\n\t\t\t\t<div
+        class=\"content\">\r\n\t\t\t\t\t<a href=\"/about/news/cornfedsummer/\" rel=\"nofollow\"
+        style=\"font-size: 90%;\">#cornfedsummer</a> <a href=\"/about/news/cyhawk/\"
+        rel=\"nofollow\" style=\"font-size: 120%;\">#cyhawk</a> <a href=\"/about/news/harvest18/\"
+        rel=\"nofollow\" style=\"font-size: 120%;\">#harvest18</a> <a href=\"/about/news/4r-plus/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">4R Plus</a> <a href=\"/about/news/commodity-classic/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">Commodity Classic</a> <a href=\"/about/news/commonground/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">CommonGround</a> <a href=\"/about/news/conservation/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">conservation</a> <a href=\"/about/news/conservation867b89/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">conservation</a> <a href=\"/about/news/corn-congress/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">Corn Congress</a> <a href=\"/about/news/corn-fed-beef/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">corn fed beef</a> <a href=\"/about/news/corn-its-everything/\"
+        rel=\"nofollow\" style=\"font-size: 120%;\">Corn It's Everything</a> <a href=\"/about/news/corn-policy/\"
+        rel=\"nofollow\" style=\"font-size: 150%;\">corn policy</a> <a href=\"/about/news/director-elections/\"
+        rel=\"nofollow\" style=\"font-size: 120%;\">Director Elections</a> <a href=\"/about/news/e15/\"
+        rel=\"nofollow\" style=\"font-size: 120%;\">E15</a> <a href=\"/about/news/e85/\"
+        rel=\"nofollow\" style=\"font-size: 120%;\">E85</a> <a href=\"/about/news/education/\"
+        rel=\"nofollow\" style=\"font-size: 120%;\">education</a> <a href=\"/about/news/environmental-protection-agency/\"
+        rel=\"nofollow\" style=\"font-size: 120%;\">Environmental Protection Agency</a>
+        <a href=\"/about/news/epa/\" rel=\"nofollow\" style=\"font-size: 90%;\">EPA</a>
+        <a href=\"/about/news/ethanol/\" rel=\"nofollow\" style=\"font-size: 180%;\">ethanol</a>
+        <a href=\"/about/news/export-programs/\" rel=\"nofollow\" style=\"font-size:
+        90%;\">export programs</a> <a href=\"/about/news/farm-bill/\" rel=\"nofollow\"
+        style=\"font-size: 120%;\">Farm Bill</a> <a href=\"/about/news/grassroots/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">grassroots</a> <a href=\"/about/news/grassroots-summit/\"
+        rel=\"nofollow\" style=\"font-size: 120%;\">Grassroots Summit</a> <a href=\"/about/news/harvest-weight-proclamation/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">Harvest Weight Proclamation</a>
+        <a href=\"/about/news/iawa/\" rel=\"nofollow\" style=\"font-size: 90%;\">IAWA</a>
+        <a href=\"/about/news/icga/\" rel=\"nofollow\" style=\"font-size: 180%;\">ICGA</a>
+        <a href=\"/about/news/icga-political-action-committee/\" rel=\"nofollow\"
+        style=\"font-size: 90%;\">ICGA Political Action Committee</a> <a href=\"/about/news/icga-president/\"
+        rel=\"nofollow\" style=\"font-size: 180%;\">ICGA President</a> <a href=\"/about/news/icpb/\"
+        rel=\"nofollow\" style=\"font-size: 150%;\">ICPB</a> <a href=\"/about/news/icpb-president/\"
+        rel=\"nofollow\" style=\"font-size: 150%;\">ICPB President</a> <a href=\"/about/news/indycar/\"
+        rel=\"nofollow\" style=\"font-size: 120%;\">INDYCAR</a> <a href=\"/about/news/iowa-ag-water-alliance/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">Iowa Ag Water Alliance</a> <a href=\"/about/news/iowa-corn-checkoff/\"
+        rel=\"nofollow\" style=\"font-size: 120%;\">Iowa corn checkoff</a> <a href=\"/about/news/iowa-corn-cy-hawk/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">Iowa Corn Cy Hawk</a> <a href=\"/about/news/iowa-corn-cy-hawk-series/\"
+        rel=\"nofollow\" style=\"font-size: 120%;\">Iowa Corn Cy-Hawk Series</a> <a
+        href=\"/about/news/iowa-corn-farmers/\" rel=\"nofollow\" style=\"font-size:
+        150%;\">Iowa corn farmers</a> <a href=\"/about/news/iowa-corn-growers-association/\"
+        rel=\"nofollow\" style=\"font-size: 200%;\">Iowa Corn Growers Association</a>
+        <a href=\"/about/news/iowa-corn-promotion-board/\" rel=\"nofollow\" style=\"font-size:
+        180%;\">Iowa Corn Promotion Board</a> <a href=\"/about/news/iowa-corn-roundtables/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">Iowa Corn Roundtables</a> <a href=\"/about/news/iowa-corn-trailer/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">Iowa Corn trailer</a> <a href=\"/about/news/iowa-governor/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">Iowa Governor</a> <a href=\"/about/news/iowa-livestock/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">Iowa livestock</a> <a href=\"/about/news/iowa-power-farming-show/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">Iowa Power Farming Show</a> <a
+        href=\"/about/news/iowa-speedway/\" rel=\"nofollow\" style=\"font-size: 120%;\">Iowa
+        Speedway</a> <a href=\"/about/news/iowa-state-fair/\" rel=\"nofollow\" style=\"font-size:
+        90%;\">Iowa State Fair</a> <a href=\"/about/news/iowa-state-fair308727/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">Iowa State Fair</a> <a href=\"/about/news/learfield-sports/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">Learfield Sports</a> <a href=\"/about/news/legislative-priorities/\"
+        rel=\"nofollow\" style=\"font-size: 120%;\">legislative priorities</a> <a
+        href=\"/about/news/lobbying/\" rel=\"nofollow\" style=\"font-size: 120%;\">lobbying</a>
+        <a href=\"/about/news/nafta/\" rel=\"nofollow\" style=\"font-size: 120%;\">NAFTA</a>
+        <a href=\"/about/news/national-corn-growers-association/\" rel=\"nofollow\"
+        style=\"font-size: 90%;\">National Corn Growers Association</a> <a href=\"/about/news/ncga/\"
+        rel=\"nofollow\" style=\"font-size: 120%;\">NCGA</a> <a href=\"/about/news/renewable-fuels-standard/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">Renewable Fuels Standard</a> <a
+        href=\"/about/news/renewable-volume-obligations/\" rel=\"nofollow\" style=\"font-size:
+        90%;\">Renewable Volume Obligations</a> <a href=\"/about/news/rfs/\" rel=\"nofollow\"
+        style=\"font-size: 120%;\">RFS</a> <a href=\"/about/news/roots-magazine/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">Roots Magazine</a> <a href=\"/about/news/rvo/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">RVO</a> <a href=\"/about/news/rvp/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">RVP</a> <a href=\"/about/news/seeds-of-change-award/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">Seeds of Change Award</a> <a href=\"/about/news/soil-health-partnership/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">Soil Health Partnership</a> <a
+        href=\"/about/news/trade/\" rel=\"nofollow\" style=\"font-size: 150%;\">trade</a>
+        <a href=\"/about/news/trump-adminstration/\" rel=\"nofollow\" style=\"font-size:
+        90%;\">Trump Adminstration</a> <a href=\"/about/news/u-s-department-of-agriculture/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">U.S. Department of Agriculture</a>
+        <a href=\"/about/news/us-grains-council/\" rel=\"nofollow\" style=\"font-size:
+        120%;\">U.S. Grains Council</a> <a href=\"/about/news/us-mexico-canada-agreement/\"
+        rel=\"nofollow\" style=\"font-size: 90%;\">US Mexico Canada Agreement</a>
+        <a href=\"/about/news/water-quality/\" rel=\"nofollow\" style=\"font-size:
+        120%;\">water quality</a> \r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\r\n\t\t\t
+        \           </div>\r\n\t\t\t        </div>\r\n\t\t\t\t\r\n\r\n\t\t\t\t<footer
+        class=\"w-section footer-section\">\r\n\t\t\t\t\t<div class=\"w-container
+        footer-container\">\r\n\t\t\t\t\t\t<div class=\"footer-flexwrap\">\r\n\t\t\t\t\t\t\t<div
+        class=\"footer-div address\">\r\n\t\t\t\t\t\t\t\t<img width=\"208\" height=\"53\"
+        src=\"/20201111010508/assets/images/logo-white.png\" class=\"footer-logo\"
+        alt=\"Primary Website\">\r\n\t\t\t\t\t\t\t\t<p class=\"footer-p\">Iowa Corn
+        Growers Association<br>5505 NW 88th Street<br>Johnston, IA 50131<br><span
+        class=\"w-hidden-medium w-hidden-small w-hidden-tiny\">515-225-9242</span><a
+        href=\"tel:5152259242\" class=\"w-hidden-main footer-tel-link\">515-225-9242</a>
+        | <a class=\"footer-email-a\" href=\"/contact/\">&#99;&#111;&#114;&#110;&#105;&#110;&#102;&#111;&#64;&#105;&#111;&#119;&#97;&#99;&#111;&#114;&#110;&#46;&#111;&#114;&#103;</a></p>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div
+        class=\"footer-div footer-block\">\r\n\t\t\t\t\t\t\t\t<a href=\"http://iacorn.ncgapremium.com/\"
+        class=\"footer-block-a weathermarkets\" target=\"_blank\">Weather &amp; Markets</a>\r\n\t\t\t\t\t\t\t\t<div
+        class=\"footer-block-divider\"></div>\r\n\t\t\t\t\t\t\t\t<a href=\"\" class=\"footer-block-a
+        member-login\">Member Login</a>\r\n\t\t\t\t\t\t\t\t<div class=\"footer-block-divider\"></div>\r\n\t\t\t\t\t\t\t\t<div
+        class=\"footer-social\">\r\n\t\t\t\t\t\t\t\t\t<a href=\"https://www.facebook.com/IowaCorn?fref=ts\"
+        class=\"w-inline-block\" target=\"_blank\">\r\n\t\t\t\t\t\t\t\t\t\t<img width=\"30\"
+        height=\"30\" src=\"/20201111010508/assets/images/facebook-white.svg\" class=\"footer-social-a\"
+        alt=\"facebook\">\r\n\t\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t<a href=\"https://twitter.com/iowa_corn\"
+        class=\"w-inline-block\" target=\"_blank\">\r\n\t\t\t\t\t\t\t\t\t\t<img width=\"30\"
+        height=\"30\" src=\"/20201111010508/assets/images/twitter-white.svg\" class=\"footer-social-a\"
+        alt=\"twitter\">\r\n\t\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t\t<a href=\"https://www.youtube.com/channel/UCjcvlJThZJ5tFG62LjxwaLA?app=desktop\"
+        class=\"w-inline-block\" target=\"_blank\">\r\n\t\t\t\t\t\t\t\t\t\t<img width=\"30\"
+        height=\"30\" src=\"/20201111010508/assets/images/youtube-white.svg\" class=\"footer-social-a\"
+        alt=\"youtube\">\r\n\t\t\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"/education/corn-its-everything/\" class=\"footer-block-a\">#cornitseverything</a>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t<div
+        class=\"footer-div footer-links\">\r\n\t\t\t\t\t\t\t\t<a href=\"/about/\"
+        class=\"footer-list-a\">About</a>\r\n\t\t\t\t\t\t\t\t<a href=\"/membership/\"
+        class=\"footer-list-a\">Membership</a>\r\n\t\t\t\t\t\t\t\t<a href=\"/corn-production/\"
+        class=\"footer-list-a\">Corn Production</a>\r\n\t\t\t\t\t\t\t\t<a href=\"/corn-uses/\"
+        class=\"footer-list-a\">Corn Use</a>\r\n\t\t\t\t\t\t\t\t<a href=\"/education/\"
+        class=\"footer-list-a\">Education</a>\r\n\t\t\t\t\t\t\t\t<a href=\"/media-page/\"
+        class=\"footer-list-a\">Media</a>\r\n\t\t\t\t\t\t\t\t<a href=\"/events/\"
+        class=\"footer-list-a\">Events</a>\r\n\t\t\t\t\t\t\t\t<a href=\"/contact/\"
+        class=\"footer-list-a\">Contact</a>\r\n\t\t\t\t\t\t\t\t<a href=\"/director-resources/\"
+        class=\"footer-list-a\" target=\"_blank\">Director Resources</a>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"/accounts\" class=\"footer-list-a\">Staff Login</a>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<div
+        class=\"w-container sign-off-container\">\r\n\t\t\t\t\t\t<p class=\"copyright\">&copy;
+        2020 Iowa Corn Promotion Board/Iowa Corn Growers Association. All rights reserved.</p>\r\n\t\t\t\t\t\t<div
+        class=\"sign-off-links\">\r\n\t\t\t\t\t\t\t<a href=\"/privacy-policy/\" class=\"sign-off-a
+        first\">Privacy Policy</a>\r\n\t\t\t\t\t\t\t<a href=\"/terms-of-use/\" class=\"sign-off-a\">Terms
+        of Use</a>\r\n\t\t\t\t\t\t\t<a href=\"/sitemap\" class=\"sign-off-a\">Site
+        Map</a>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</footer>\r\n\t\t\t\t\r\n\t\t\t\t<!--[if
+        lte IE 9]><script src=\"https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js\"></script><![endif]-->\r\n\t\t\t\t<script
+        type=\"text/javascript\" src=\"//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56a07d533d8e8604\"
+        async=\"async\"></script>\r\n\t\t\t\t<div id=\"printFooter\">\r\n\t            \t&copy;
+        2020 Iowa Corn Promotion Board/Iowa Corn Growers Association. All rights reserved.\r\n\t
+        \           </div>\r\n\t        </div>\r\n\t\t\t\r\n\t\t\t\t<div id=\"ttdUniversalPixelTag90a4b36d70b8435c89aa80fd3fcd38de\"
+        style=\"display:none\">\r\n\t\t\t\t\t<script src=\"https://js.adsrvr.org/up_loader.1.1.0.js\"
+        type=\"text/javascript\"></script>\r\n\t\t\t\t\t<script type=\"text/javascript\">\r\n\t\t\t\t\t\t(function(global)
+        {\r\n\t\t\t\t\t\t\tif (typeof TTDUniversalPixelApi === 'function') {\r\n\t\t\t\t\t\t\t\tvar
+        universalPixelApi = new TTDUniversalPixelApi();\r\n\t\t\t\t\t\t\t\tuniversalPixelApi.init(\"j7zvj9n\",
+        [\"7tvwnv1\"], \"https://insight.adsrvr.org/track/up\", \"ttdUniversalPixelTag90a4b36d70b8435c89aa80fd3fcd38de\");\r\n\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t})(this);\r\n\t\t\t\t\t</script>\r\n\t\t\t\t</div>\r\n\r\n\t\t\t\t<script
+        type=\"text/javascript\">\r\n\t\t\t\t\t/* <![CDATA[ */\r\n\t\t\t\t\tvar google_conversion_id
+        = 876246636;\r\n\t\t\t\t\tvar google_custom_params = window.google_tag_params;\r\n\t\t\t\t\tvar
+        google_remarketing_only = true;\r\n\t\t\t\t\t/* ]]> */\r\n\t\t\t\t</script>\r\n\t\t\t\t<div
+        style=\"display:none\">\r\n\t\t\t\t\t<script type=\"text/javascript\" src=\"//www.googleadservices.com/pagead/conversion.js\"></script>\r\n\t\t\t\t</div>\r\n\t\t\t\t<noscript>\r\n\t\t\t\t\t<div
+        style=\"display:inline;\">\r\n\t\t\t\t\t<img height=\"1\" width=\"1\" style=\"border-style:none;\"
+        alt=\"\" src=\"//googleads.g.doubleclick.net/pagead/viewthroughconversion/876246636/?value=0&amp;guid=ON&amp;script=0\"/>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</noscript>\r\n\r\n\t\t\t\t<!--
+        Google Tag Manager (noscript) -->\r\n\t\t\t\t<noscript>\r\n\t\t\t\t\t<iframe
+        src=\"https://www.googletagmanager.com/ns.html?id=GTM-5JDZ2HD\" height=\"0\"
+        width=\"0\" style=\"display:none;visibility:hidden\"></iframe>\r\n\t\t\t\t</noscript>\r\n\r\n\t\t\t\t<noscript>\r\n\t\t\t\t\t<iframe
+        src=\"https://www.googletagmanager.com/ns.html?id=GTM-M85L7J6\" height=\"0\"
+        width=\"0\" style=\"display:none;visibility:hidden\"></iframe>\r\n\t\t\t\t</noscript>\r\n\t\t\t\t<!--
+        End Google Tag Manager (noscript) -->\r\n\t\t\t\r\n\t\t</body>\r\n\t</html> "
+    headers:
+      Connection:
+      - Keep-Alive
+      Content-Language:
+      - en-US
+      Content-Type:
+      - text/html;charset=UTF-8
+      Date:
+      - Wed, 11 Nov 2020 18:20:36 GMT
+      Keep-Alive:
+      - timeout=3
+      Server:
+      - Apache
+      Set-Cookie:
+      - JSESSIONID=F25BD9D719819E633CBB4EFAB6791C59.cfusion; Path=/; Secure; HttpOnly
+      - JSESSIONID=F25BD9D719819E633CBB4EFAB6791C59.cfusion; HttpOnly; Path=/; SameSite=None;
+        Secure
+      - BLNUSECURRENT=1; Path=/
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - 1; mode=block
+      content-length:
+      - '70672'
+    status:
+      code: 200
+      message: OK
+version: 1

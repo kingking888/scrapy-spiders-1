@@ -1,0 +1,58 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://wireapi.reuters.com/v7/feed/url/www.reuters.com/markets/agriculture?until=1578875185031204000
+  response:
+    body:
+      string: '{"wire_id":"chan:6ak3g7px","wire_name":"Agriculture","wire_description":"Agriculture
+        coverage from Reuters.","wire_type":"wirefeed","wireitems":[{"wireitem_id":"1578851845002256000","wireitem_cid":"story:L1N29H05A","wireitem_type":"story","templates":[{"cid":"header-0","template":"story_feed_header","type":"header","title":"Industrials","template_action":{"type":"wirefeed","api_path":"/feed/rcom/us/wirefeed/chan:2w9lln5h","url":"https://www.reuters.com/wirefeed/chan:2w9lln5h"},"config_params":[{"key":"feeddings_icon","value":"hashtag|f103","revision":1.529443130909278E9,"is_default":1}]},{"cid":"story:L1N29H05A","template":"story_basic","template_action":{"type":"article","api_path":"/feed/rcom/us/article/news:USL1N29H05A","url":"https://www.reuters.com/article/usa-trade-china/chinas-u-s-trade-deal-commitments-not-changed-in-translation-mnuchin-idUSL1N29H05A"},"story":{"usn":"USL1N29H05A","updated_at":"2020-01-12T17:57:25Z","hed":"China''s
+        U.S. trade deal commitments not changed in translation -Mnuchin","lede":"China''s
+        commitments in the Phase 1 trade deal with the United States were not changed
+        during a lengthy translation process and will be released this week as the
+        document is signed in Washington, U.S. Treasury Secretary Steven Mnuchin said
+        on Sunday.","dateline":"WASHINGTON, Jan 12 (Reuters)"},"type":"story"},{"cid":"share_bar","template":"share_bar","type":"section","share_url":"https://reut.rs/2Nkqlbu","share_cid":"story:L1N29H05A","template_action":{"type":"article","api_path":"/feed/rcom/us/article/news:USL1N29H05A","url":"https://www.reuters.com/article/usa-trade-china/chinas-u-s-trade-deal-commitments-not-changed-in-translation-mnuchin-idUSL1N29H05A"},"detail_action":{"type":"detail","api_path":"/feed/rcom/us/video/watch/news:USL1N29H05A","url":""},"updated_at":"2020-01-12T17:57:25Z"}],"adjunct_behavior":"UNKNOWN","async_behavior":"NONE"}],"advert_info":{"advert_zone":"/wiredefault","advert_params":[]},"canonical_action":{"type":"wirefeed","api_path":"/feed/rcom/us/markets/agriculture","url":"https://www.reuters.com/markets/agriculture"},"config_params":[{"key":"feeddings_icon","value":"hashtag|f103","revision":1.529443130909278E9,"is_default":1}]}'
+    headers:
+      Accept-Ranges:
+      - bytes
+      Age:
+      - '0'
+      Connection:
+      - keep-alive
+      Content-Type:
+      - application/json;charset=UTF-8
+      Date:
+      - Fri, 15 Jan 2021 05:58:13 GMT
+      Transfer-Encoding:
+      - chunked
+      Via:
+      - 1.1 6c183700546a331def0de99cb43d1575.cloudfront.net (CloudFront)
+      X-Amz-Cf-Id:
+      - m2j3UjER2-qZy3QMquvhDc52J87oCOzZ0T6bO8OUO8uyc-M7Mrlu5Q==
+      X-Amz-Cf-Pop:
+      - HEL50-C2
+      X-Cache:
+      - Miss from cloudfront
+      X-Cacheable:
+      - 'YES: default'
+    status:
+      code: 200
+      message: OK
+version: 1

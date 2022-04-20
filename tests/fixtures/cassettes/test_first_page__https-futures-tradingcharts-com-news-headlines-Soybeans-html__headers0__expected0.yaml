@@ -1,0 +1,1167 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - futures.tradingcharts.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://futures.tradingcharts.com/news/headlines/Soybeans.html
+  response:
+    body:
+      string: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n\"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html
+        xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n<title>Soybeans Futures News
+        Headlines</title>\n<meta http-equiv=\"Content-Type\" content=\"text/html;
+        charset=utf-8\" />\n<meta name=\"description\" content=\"Soybeans Futures
+        and commodity market news. Breaking financial news is brought to you Courtesy
+        of TFC Commodity Charts.  News headlines  from around the world including
+        ...\" />\n<meta name=\"keywords\" content=\"soybeans, specialty, crop, commodities,
+        futures, crop progress reports, harvest, reports, commodity, usda, financial,
+        progress, agriculture, markets, beans, lentils, soy, grains, cash\" />\n<meta
+        name=\"viewport\" content=\"width=device-width\">\n<!-- Google Tag Manager
+        -->\n<script>\nvar InResponsiveTest2020 = 'Yes'; // for use in GTM/GA to ID
+        if user is in the futures responsive test.\n(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew
+        Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-TR7J3SC');</script>\n<!--
+        End Google Tag Manager -->\n\n<script async src=\"https://u5.investingchannel.com/static/uat.js\"></script>\n<script>\n
+        \       var ic_page;\n        InvestingChannelQueue = window.InvestingChannelQueue
+        || [];\n        InvestingChannelQueue.push(function() {\n            ic_page
+        = InvestingChannel.UAT.Run(\"ed86d328-8322-4490-a1d6-82e0c361e8dd\");\n        });\n
+        \       InvestingChannelQueue.push(function() {\n            ic_page.setKval({'beta':
+        '1'});\n        });\n</script><script src=\"//static.tradingcharts.com/js/jquery-1.8.3.min.js\"></script>\n<script>\nvar
+        bc_timezone_offset = Number(-6);\nvar enc_bc_apik = '';\nvar bc_api_base_url
+        = '//ondemand.websol.barchart.com';\n$.ajax({\n    type: \"GET\",\n    url:\"/get_barchart_apik.php\",\n
+        \   data: \"{}\",\n    async: false,\n    dataType: \"text\",\n    success:
+        function( data ) {\n        bc_apik = atob(data);\n    }\n})\n</script>\n<link
+        rel=\"stylesheet\" type=\"text/css\" media=\"(min-width: 768px)\" href=\"//static.tradingcharts.com/css/feV7.css\"
+        />\n<link rel=\"stylesheet\" type=\"text/css\" media=\"(max-width: 767px)\"
+        href=\"//static.tradingcharts.com/css/feV7_mobile.css\"  id=\"linkMobileCSS\"/>\n\n<!--
+        Start of code/css added to handle toggling of mobile display preferences -->\n<script>\n\t//
+        set css display preference for mobile browsers\n\tvar sDesktopCSSHref = '//static.tradingcharts.com/css/feV7.css';\n\tvar
+        sMobileCSSHref = '//static.tradingcharts.com/css/feV7_mobile.css';\n\n\tvar
+        sMobileDisplayPrefFlagName = 'MobileDisplayPref'; //localStorage var name\n\tvar
+        refMobileCSS = document.getElementById(\"linkMobileCSS\");\n\tif(localStorage.getItem(sMobileDisplayPrefFlagName)
+        === 'desktop'){ // switch style sheet to desktop if user saved preference
+        for desktop view.\n\t\trefMobileCSS.href = sDesktopCSSHref;\n\t}\n\n    function
+        toggle_desktop_css(){\n\n\t    if(localStorage.getItem(sMobileDisplayPrefFlagName)
+        === 'desktop'){ // currently set to prefer desktop css. Now switch back to
+        standard Mobile CSS\n\t\t    localStorage.setItem(sMobileDisplayPrefFlagName,
+        'mobile');\n\t\t    refMobileCSS.href = sMobileCSSHref;\n\t\t    document.getElementById(\"toggle_desktop_layout_atag\").innerText
+        = \"Switch to desktop layout\";\n\t    }else{ // switch to Desktop CSS\n\t\t
+        \   localStorage.setItem(sMobileDisplayPrefFlagName, \"desktop\");\n\t\t    refMobileCSS.href
+        = sDesktopCSSHref;\n\t\t    document.getElementById(\"toggle_desktop_layout_atag\").innerText
+        = \"Switch to mobile layout\";\n\t    }\n    }\n\n    function update_mobile_css()
+        {\n        if (Math.min(window.screen.width, document.body.offsetWidth) <=
+        767) {\n            if (localStorage.getItem(sMobileDisplayPrefFlagName) ===
+        'desktop') {\n                $('link[type=\"text/css\"]').each(function(){\n
+        \                   if (this.media)\n                        this.setAttribute('data-media',
+        this.media);\n                    if (this.href.indexOf('_mobile.css')>=0)\n
+        \                       this.disabled = true;\n                    else\n
+        \                       this.media = '';\n                });\n            }\n
+        \           $('#toggle_desktop_css_link').show();\n        }\n    }\n    $(
+        document ).ready(function() {\n        update_mobile_css();\n    });\n</script>\n<style
+        type=\"text/css\" media=\"(min-width: 768px)\">\n\t    #toggle_desktop_css_link{display:none;
+        } /* Hide link to toggle mobile/desktop style on desktop devices */\n</style>\n<!--
+        End of code added to handle toggling of mobile display preferences -->\n\n\n</head>\n<body
+        class=\"page_news\">\n\n<!-- Google Tag Manager (noscript) -->\n<noscript><iframe
+        src=\"https://www.googletagmanager.com/ns.html?id=GTM-TR7J3SC\"\nheight=\"0\"
+        width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!--
+        End Google Tag Manager (noscript) -->\n<!--UdmComment-->\n\t<table border=\"0\"
+        align=\"center\" cellpadding=\"0\" cellspacing=\"0\" id=\"header\" style=\"margin:auto;\">\n\t
+        \ <tr>\n\t   <td>\n\t   <div class=\"fe_header\">\n     <div class=\"fm_nav_hamburger\"><span></span>\n
+        \    <a href=\"/menu.html\">CHARTS</a>\n     <a href=\"/marketquotes/\">QUOTES</a>\n
+        \    <a href=\"/custom_menu.php\">MY MENU</a>\n     </div>\n\t   \t\t<table>\n\t\t\t\t<tr>\n\t\t\t\t\t<td><a
+        href=\"/\" id=\"logo\"><span>Futures</span><br><img src=\"/fe_graphics/logo_blue.png\"
+        alt=\"TradingCharts / TFC Commodity Charts\" /></a><br> <a href=\"/marketquotes/\">Free
+        Quotes</a> <span>&amp;</span> <a href=\"/menu.html\">Charts for Commodities
+        / Futures</a>\n\t\t\t<!--, <a href=\"//forex.tradingcharts.com\">Forex</a>,
+        <a href=\"//stocks.tradingcharts.com\">Stocks &amp; Equities</a>--></td>\n\t\t\t\t\t<td><div
+        id=\"mrABMessage_top_40593\" style=\"display:none; width:919px; \"></div>\n<div
+        class=\"MRIC_leaderboard_header\">\n<!-- Site: TradingCharts, Zone: options,
+        Size 728x90, Multiple sizes: N/A -->\n<div id=\"ic_728x90_1\">\n</div>\n</div>\n</td>\n\t\t\t\t</tr>\n\t\t\t</table>\n
+        \      <div class=\"fm_nav_toggler\"><span></span></div>\n\t   </div>\n\t
+        \  </td>\n\t  </tr>\n\t  <tr>\n\t   <td>\n\t   <div class=\"fe_nav_bar  fm_nav_bar\"><div
+        id=\"MRIC_searchformheader\">\n\t<form action=\"/search.php\" method=\"GET\"
+        id=\"frmMenuBarSearch\">\n\t\t<input type=\"text\" name=\"keywords\" placeholder=\"Search\"
+        />\n        <input type=\"hidden\" value=\"1\" name=\"futures\">\n\t\t<img
+        src=\"/graphics/search.png\" width=\"16\" height=\"16\" alt=\"Search\" class=\"searchbutton\"
+        onclick=\"document.getElementById('frmMenuBarSearch').submit();\" />\n        \t\t<div
+        id=\"MRIC_searchad\">\n        <div id=\"ic_search88x31_1\">\n                </div>\n
+        \       </div>\n        \t</form>\n</div>\n<a href=\"/\">HOME</a><span>|</span><a
+        href=\"/menu.html\">COMMODITY CHARTS</a><span>|</span><a href=\"/marketquotes/\">COMMODITY
+        QUOTES</a><span>|</span><a href=\"/custom_menu.php\">MY MENU</a><span>|</span><a
+        href=\"/news/\" id=\"nav_bar_active\">FUTURES NEWS</a><span>|</span><a href=\"/premium_subscriber/\">PREMIUM
+        FEATURES</a><span>||</span><a href=\"//forex.tradingcharts.com/chart/\">FOREX
+        CHARTS</a><span>|</span><a href=\"//forex.tradingcharts.com/quotes/\">FOREX
+        QUOTES</a><span>||</span><a href=\"//stocks.tradingcharts.com/\">STOCKS</a>\n
+        <style type=\"text/css\" media=\"(min-width: 501px)\">\n.mobile_login {display:none;
+        } /* Hide link to toggle mobile/desktop style on desktop devices */\n</style>\n
+        \    <div class=\"mobile_login\"></div>\n\n\n\n<!-- Start of link/script/css
+        to dispay link to swtich mobile/desktop views. Display to mobile devices  only
+        -->\n<style type=\"text/css\" media=\"(min-width: 501px)\">\n#toggle_desktop_css_link{display:none;
+        } /* Hide link to toggle mobile/desktop style on desktop devices */\n</style>\n<p
+        id=\"toggle_desktop_css_link\"><a href=\"\" onclick=\"toggle_desktop_css()\"
+        id=\"toggle_desktop_layout_atag_mobile\">Toggle desktop layout</a></p>\n\n<script>\n\ndocument.getElementById(\"toggle_desktop_layout_atag_mobile\").innerText
+        = (localStorage.getItem(sMobileDisplayPrefFlagName) === 'desktop') ? \"Switch
+        to mobile layout\" : \"Switch to desktop layout\";\n\n\n</script>\n\n<!--
+        end of link/script/css to dispay link to swtich mobile/desktop views -->\n\n\n
+        \    </div>\n\n\n\n\n\t   </td>\n\t  </tr>\n\t</table>\n<!--/UdmComment-->\n<!--
+        Main content table begins -->\n<table width=\"1024\" border=\"0\" align=\"center\"
+        cellpadding=\"0\" cellspacing=\"0\" class=\"fe_main_table\">\n  <tr>\n   <td>\n<!--
+        table containing left column navigation and page content begins -->\n   <table
+        align=\"left\" bgcolor=\"#ffffff\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"
+        width=\"1024\">\n    <tr>\n     <td valign=\"top\" class=\"fe_nav fm_chart_sidecol\">\n<!--UdmComment-->\n<div
+        class=\"news_headlines_nav\">\n<div class=\"fm_chart_sidecol_toggle\"><span
+        class=\"m-lbl-news\">Sections</span></div>\n<strong class='m-hide'><a href='/news/'>Return
+        to News Categories</a></strong>\n<form name=\"frmSearch\" method=\"post\"
+        action=\"/news/search.php\">\n <input type=\"text\" name=\"key_include\" size=\"16\"
+        value=\"Enter search terms\" onFocus=\"if(this.value =='Enter search terms'){
+        this.value=''}\"><br />\n<input type=\"submit\" name=\"Submit\" value=\"Search
+        News\" style=\"width:100px; margin-left:-1px;\">\n</form>\n\n<strong class=\"m-hide\">ALL
+        NEWS SECTIONS:</strong>\n<ul class=\"m-news-viewall\">\n  <li><a href=\"/news/\">View
+        all news categories</a></li>\n</ul>\n<hr>\n<strong class=\"m-hide\">MOST POPULAR
+        SECTIONS:</strong>\n<br />\n<div class=\"m-news-section\">\n<strong>Cattle
+        - Hogs / Livestock News</strong>\n<ul class=\"m-hidden\">\n  <li><a href=\"/news/headlines/Beef.html\">Beef</a></li>\n
+        \ <li><a href=\"/news/headlines/Pork.html\">Pork</a></li>\n</ul>\n</div>\n<div
+        class=\"m-news-section\">\n<strong>Currencies News</strong>\n<ul class=\"m-hidden\">\n
+        \ <li><a href=\"/news/headlines/Australian_Dollar.html\">Australian Dollar</a></li>\n
+        \ <li><a href=\"/news/headlines/British_Pound.html\">British Pound</a></li>\n
+        \ <li><a href=\"/news/headlines/Canadian_Dollar.html\">Canadian Dollar</a></li>\n
+        \ <li><a href=\"/news/headlines/EuroFX.html\">Euro</a></li>\n  <li><a href=\"/news/headlines/Japanese_Yen.html\">Japanese
+        Yen</a></li>\n  <li><a href=\"/news/headlines/Mexican_Peso.html\">Mexican
+        Peso</a></li>\n  <li><a href=\"/news/headlines/Swiss_Franc.html\">Swiss Franc</a></li>\n
+        \ <li><a href=\"/news/headlines/US_Dollar_Index.html\">US Dollar Index</a></li>\n</ul>\n</div>\n\n<div
+        class=\"m-news-section\">\n<strong>Energy News</strong>\n<ul class=\"m-hidden\">\n
+        \ <li><a href=\"/news/headlines/Gas.html\">Gas Futures</a></li>\n  <li><a
+        href=\"/news/headlines/Oil.html\">Oil Futures</a></li>\n  <li><a href=\"/news/headlines/Propane.html\">Propane</a></li>\n</ul>\n</div>\n\n<div
+        class=\"m-news-section\">\n<strong>Grain News</strong>\n<ul class=\"m-hidden\">\n
+        \ <li><a href=\"/news/headlines/Canola.html\">Canola</a></li>\n  <li><a href=\"/news/headlines/Corn.html\">Corn</a></li>\n
+        \ <li><a href=\"/news/headlines/Oats.html\">Oats</a></li>\n  <li><a href=\"/news/headlines/Rice.html\">Rice</a></li>\n
+        \ <li><a href=\"/news/headlines/Soybeans.html\">Soybeans</a></li>\n  <li><a
+        href=\"/news/headlines/Wheat.html\">Wheat</a></li>\n</ul>\n</div>\n\n<div
+        class=\"m-news-section\">\n<strong>Index News</strong>\n<ul class=\"m-hidden\">\n
+        \ <li><a href=\"/news/headlines/DJIA.html\">DJIA Dow Jones Industrial Avg</a></li>\n
+        \ <li><a href=\"/news/headlines/Nasdaq_100_Index.html\">Nasdaq 100 Index</a></li>\n
+        \ <li><a href=\"/news/headlines/NYSE_Composite_Index.html\">NYSE Composite
+        Index</a></li>\n  <li><a href=\"/news/headlines/SP500_Index.html\">SP500 Index</a></li>\n</ul>\n</div>\n\n<div
+        class=\"m-news-section\">\n<strong>Interest Futures News</strong>\n<ul class=\"m-hidden\">\n
+        \ <li><a href=\"/news/headlines/US_Treasury.html\">US Treasury</a></li>\n</ul>\n</div>\n\n<div
+        class=\"m-news-section\">\n<strong>Metals Futures News</strong>\n<ul class=\"m-hidden\">\n
+        \ <li><a href=\"/news/headlines/Aluminum.html\">Aluminum</a></li>\n  <li><a
+        href=\"/news/headlines/Copper.html\">Copper</a></li>\n  <li><a href=\"/news/headlines/Gold.html\">Gold</a></li>\n
+        \ <li><a href=\"/news/headlines/Platinum.html\">Platinum</a></li>\n  <li><a
+        href=\"/news/headlines/Silver.html\">Silver</a></li>\n</ul>\n</div>\n\n<div
+        class=\"m-news-section\">\n<strong>Reports: Crops, CFTC, etc</strong>\n<ul
+        class=\"m-hidden\">\n  <li><a href=\"/news/headlines/USDA.html\">USDA</a></li>\n
+        \ <li><a href=\"/news/headlines/Crop_Progress_Reports.html\">Crop Progress
+        Reports</a></li>\n</ul>\n</div>\n\n<div class=\"m-news-section\">\n<strong>Soft
+        Commodities News</strong>\n<ul class=\"m-hidden\">\n  <li><a href=\"/news/headlines/Cocoa.html\">Cocoa</a></li>\n
+        \ <li><a href=\"/news/headlines/Coffee.html\">Coffee</a></li>\n  <li><a href=\"/news/headlines/Cotton.html\">Cotton</a></li>\n
+        \ <li><a href=\"/news/headlines/Orange_Juice.html\">Orange Juice</a></li>\n
+        \ <li><a href=\"/news/headlines/Sugar.html\">Sugar</a></li>\n</ul>\n</div>\n\n<style>\n.MRIC_rail125x
+        { width:100%; margin-top:10px; text-align:center;} */\n</style>\n<div class=\"MRIC_rail125x
+        m-hide\">\n<div id=\"ic_125x125_1\">\n</div>\n</div>\n\n</div>\n<!--/UdmComment-->
+        \    </td>\n     <td valign=\"top\" class=\"m-cellblock\">\n\n       <div
+        class=\"fe_content\">\n         <table width=\"100%\" border=\"0\" cellspacing=\"0\"
+        cellpadding=\"0\" style=\"margin-top:13px;\">\n              <tr>\n                <td
+        valign=\"top\" class=\"m-cellblock\">\n                <div class=\"main_info\">\n
+        \               <!--UdmComment--><h1 class=\"fe_heading\">Futures and Commodity
+        Market News</h1><!--/UdmComment-->\n                  <h2 class=\"fe_heading2\">Soybeans
+        Futures News Headlines</h2>\n\t\t\t\t\t\t<!--UdmComment--><span style=\"font-size:10px;
+        display:block; margin-top: 2px;\">Breaking financial news 24/7 courtesy of
+        TradingCharts.com Inc. / TFC Commodity Charts</span><!--/UdmComment-->\n                  </div>\n
+        \                 \n<div id='IC_M_320x50_1'>\n</div>\n\n\n<!-- premium subscriber
+        feature -->\n<style type=\"text/css\">\n    li.odjnews span {\n        background:
+        url(/graphics/tcps/img_premium3.jpg) right center no-repeat;\n        padding-right:
+        35px;\n    }\n</style>\n\n<!-- begin headlines -->\n<div class=\"news_headlines\">\n<!--UdmComment-->\n<p
+        class=\"fe_heading\"><strong>Click on any headline for complete story:</strong></p>\n<!--/UdmComment-->\n<ul>\n<!--
+        unable to write cache -->\n<!-- iHeadlineCounter: 1, iMobileAdInterval=52,
+        iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Market_Rates__Grain_Miscellaneous_Commodities____2020_11_12__usdacv43pn49r.html\">USDA
+        - AMS: Daily Market Rates (Grain/Miscellaneous Commodities)\n (2020-11-12)</a><br><span>.DA
+        Nov 12th, 2020, 07:07 - Length: 15752</span></li>\n\n<!-- iHeadlineCounter:
+        2, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Market_Rates__Grain_Miscellaneous_Commodities____2020_11_10__usda8p58q412h.html\">USDA
+        - AMS: Daily Market Rates (Grain/Miscellaneous Commodities)\n (2020-11-10)</a><br><span>.DA
+        Nov 10th, 2020, 07:07 - Length: 15750</span></li>\n\n<!-- iHeadlineCounter:
+        3, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Market_Rates__Grain_Miscellaneous_Commodities____2020_11_09__usdacz30qj244.html\">USDA
+        - AMS: Daily Market Rates (Grain/Miscellaneous Commodities)\n (2020-11-09)</a><br><span>.DA
+        Nov 9th, 2020, 07:07 - Length: 15746</span></li>\n\n<!-- iHeadlineCounter:
+        4, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Market_Rates__Grain_Miscellaneous_Commodities____2020_11_06__usdatt44qc54n.html\">USDA
+        - AMS: Daily Market Rates (Grain/Miscellaneous Commodities)\n (2020-11-06)</a><br><span>.DA
+        Nov 6th, 2020, 07:07 - Length: 15747</span></li>\n\n<!-- iHeadlineCounter:
+        5, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/After_potato___onion__edible_oil_burns_hole_in_pockets_374022194.html\">After
+        potato & onion, edible oil burns hole in pockets</a><br><span>MNA Nov 6th,
+        2020, 00:05 - Length: 2768</span></li>\n\n<!-- iHeadlineCounter: 6, iMobileAdInterval=52,
+        iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Market_Rates__Grain_Miscellaneous_Commodities____2020_11_05__usda4t64hb87g.html\">USDA
+        - AMS: Daily Market Rates (Grain/Miscellaneous Commodities)\n (2020-11-05)</a><br><span>.DA
+        Nov 5th, 2020, 07:07 - Length: 15748</span></li>\n\n<!-- iHeadlineCounter:
+        7, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__National_Feedstuffs_Market_Review___2020_11_04__usda2514p9592.html\">USDA
+        - AMS: National Feedstuffs Market Review\n (2020-11-04)</a><br><span>.DA Nov
+        4th, 2020, 09:35 - Length: 7052</span></li>\n\n<!-- iHeadlineCounter: 8, iMobileAdInterval=52,
+        iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Market_Rates__Grain_Miscellaneous_Commodities____2020_11_04__usdaw3763z29x.html\">USDA
+        - AMS: Daily Market Rates (Grain/Miscellaneous Commodities)\n (2020-11-04)</a><br><span>.DA
+        Nov 4th, 2020, 07:07 - Length: 15753</span></li>\n\n<!-- iHeadlineCounter:
+        9, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Market_Rates__Grain_Miscellaneous_Commodities____2020_11_03__usda3x817c23q.html\">USDA
+        - AMS: Daily Market Rates (Grain/Miscellaneous Commodities)\n (2020-11-03)</a><br><span>.DA
+        Nov 3rd, 2020, 07:07 - Length: 15757</span></li>\n\n<!-- iHeadlineCounter:
+        10, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Market_Rates__Grain_Miscellaneous_Commodities____2020_11_02__usda0g355562v.html\">USDA
+        - AMS: Daily Market Rates (Grain/Miscellaneous Commodities)\n (2020-11-02)</a><br><span>.DA
+        Nov 2nd, 2020, 07:07 - Length: 15760</span></li>\n\n<!-- iHeadlineCounter:
+        11, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__South_Carolina_Grain_Weekly_Review___2020_10_30__usdaf1882961c.html\">USDA
+        - AMS: South Carolina Grain Weekly Review\n (2020-10-30)</a><br><span>.DA
+        Oct 30th, 2020, 08:14 - Length: 1044</span></li>\n\n<!-- iHeadlineCounter:
+        12, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Market_Rates__Grain_Miscellaneous_Commodities____2020_10_30__usdanc581c58w.html\">USDA
+        - AMS: Daily Market Rates (Grain/Miscellaneous Commodities)\n (2020-10-30)</a><br><span>.DA
+        Oct 30th, 2020, 07:07 - Length: 15760</span></li>\n\n<!-- iHeadlineCounter:
+        13, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/Global_Soybean_Phosphatidylserine_Market_2020_to_2030__Demand_to_be_Highest_in_Science_Industry__market_biz_373662909.html\">Global
+        Soybean Phosphatidylserine Market 2020 to 2030: Demand to be Highest in Science
+        Industry -market.biz</a><br><span>MRB Oct 30th, 2020, 00:24 - Length: 6980</span></li>\n\n<!--
+        iHeadlineCounter: 14, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Fluid_Milk_and_Cream_Review___Central___2020_10_30__usdasj139s75s.html\">USDA
+        - AMS: Fluid Milk and Cream Review - Central\n (2020-10-30)</a><br><span>.DA
+        Oct 30th, 2020, 00:00 - Length: 2940</span></li>\n\n<!-- iHeadlineCounter:
+        15, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___NASS__Poultry_Slaughter___2019_02_06__usdacr56n612j.html\">USDA
+        - NASS: Poultry Slaughter\n (2019-02-06)</a><br><span>.DA  - Length: 4141</span></li>\n\n<!--
+        iHeadlineCounter: 16, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__South_Carolina_Closing_Grain_Bids___2019_03_22__usdacz30q1330.html\">USDA
+        - AMS: South Carolina Closing Grain Bids\n (2019-03-22)</a><br><span>.DA  -
+        Length: 2506</span></li>\n\n<!-- iHeadlineCounter: 17, iMobileAdInterval=52,
+        iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___Crop_Progress_usda1461672986.html\">USDA
+        : Crop Progress</a><br><span>.DA  - Length: 45285</span></li>\n\n<!-- iHeadlineCounter:
+        18, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Kentucky_Daily_Barge_Report___2019_01_11__usda3r075091w.html\">USDA
+        - AMS: Kentucky Daily Barge Report\n (2019-01-11)</a><br><span>.DA  - Length:
+        3826</span></li>\n\n<!-- iHeadlineCounter: 19, iMobileAdInterval=52, iAdCounter=0
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Cash_Grain___2019_01_03__usdakw52jd347.html\">USDA
+        - AMS: Minneapolis Cash Grain\n (2019-01-03)</a><br><span>.DA  - Length: 5573</span></li>\n\n<!--
+        iHeadlineCounter: 20, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Kansas_City_Truck_Grain_Bids___2019_01_11__usda000004943.html\">USDA
+        - AMS: Kansas City Truck Grain Bids\n (2019-01-11)</a><br><span>.DA  - Length:
+        2457</span></li>\n<li><div class=\"MRIC_partnercenter_635\">\n<div id=\"ic_555x214_1\">\n</div>\n</div>\n</li>\n<!--
+        iHeadlineCounter: 21, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__North_Carolina_Grain___2019_05_09__usdat722hj84q.html\">USDA
+        - AMS: North Carolina Grain\n (2019-05-09)</a><br><span>.DA  - Length: 2965</span></li>\n\n<!--
+        iHeadlineCounter: 22, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__National_Feedstuffs_Market_Review___2019_02_20__usdaqb98mn021.html\">USDA
+        - AMS: National Feedstuffs Market Review\n (2019-02-20)</a><br><span>.DA  -
+        Length: 6434</span></li>\n\n<!-- iHeadlineCounter: 23, iMobileAdInterval=52,
+        iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Mississippi_Daily_Grain_Report___2019_01_02__usdang451p09h.html\">USDA
+        - AMS: Mississippi Daily Grain Report\n (2019-01-02)</a><br><span>.DA  - Length:
+        2217</span></li>\n\n<!-- iHeadlineCounter: 24, iMobileAdInterval=52, iAdCounter=0
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Louisiana_and_Texas_Gulf_Export_Port_Bids___2018_12_18__usdat722hf02m.html\">USDA
+        - AMS: Louisiana and Texas Gulf Export Port Bids\n (2018-12-18)</a><br><span>.DA
+        \ - Length: 3098</span></li>\n\n<!-- iHeadlineCounter: 25, iMobileAdInterval=52,
+        iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Cash_Grain___2019_01_02__usdab5644x161.html\">USDA
+        - AMS: Minneapolis Cash Grain\n (2019-01-02)</a><br><span>.DA  - Length: 5481</span></li>\n\n<!--
+        iHeadlineCounter: 26, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__East_River_South_Dakota_Grain_Market___2019_01_02__usda5138jk37k.html\">USDA
+        - AMS: East River South Dakota Grain Market\n (2019-01-02)</a><br><span>.DA
+        \ - Length: 5818</span></li>\n\n<!-- iHeadlineCounter: 27, iMobileAdInterval=52,
+        iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Cash_Grain___2019_01_09__usda9s161b67f.html\">USDA
+        - AMS: Minneapolis Cash Grain\n (2019-01-09)</a><br><span>.DA  - Length: 5574</span></li>\n\n<!--
+        iHeadlineCounter: 28, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Basis_Report___2019_01_02__usda70795d180.html\">USDA
+        - AMS: Minneapolis Basis Report\n (2019-01-02)</a><br><span>.DA  - Length:
+        4125</span></li>\n\n<!-- iHeadlineCounter: 29, iMobileAdInterval=52, iAdCounter=0
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Basis_Report___2019_01_18__usdap8418t12x.html\">USDA
+        - AMS: Minneapolis Basis Report\n (2019-01-18)</a><br><span>.DA  - Length:
+        4206</span></li>\n\n<!-- iHeadlineCounter: 30, iMobileAdInterval=52, iAdCounter=0
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Louisiana_and_Texas_Gulf_Export_Port_Bids___2019_01_24__usda8s45qf628.html\">USDA
+        - AMS: Louisiana and Texas Gulf Export Port Bids\n (2019-01-24)</a><br><span>.DA
+        \ - Length: 3087</span></li>\n\n<!-- iHeadlineCounter: 31, iMobileAdInterval=52,
+        iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Kentucky_Daily_grain_Elevators__Open_Bids___2019_01_11__usdar781wn271.html\">USDA
+        - AMS: Kentucky Daily grain Elevators, Open Bids\n (2019-01-11)</a><br><span>.DA
+        \ - Length: 5289</span></li>\n\n<!-- iHeadlineCounter: 32, iMobileAdInterval=52,
+        iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Basis_Report___2019_01_11__usda08612t12d.html\">USDA
+        - AMS: Minneapolis Basis Report\n (2019-01-11)</a><br><span>.DA  - Length:
+        4089</span></li>\n\n<!-- iHeadlineCounter: 33, iMobileAdInterval=52, iAdCounter=0
+        -->\n\n<li ><a href=\"/news/futures/USDA___NASS__Livestock_Slaughter___2019_02_06__usdatd96k764b.html\">USDA
+        - NASS: Livestock Slaughter\n (2019-02-06)</a><br><span>.DA  - Length: 4141</span></li>\n\n<!--
+        iHeadlineCounter: 34, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___NASS__Egg_Products___2019_02_06__usda1c18dn175.html\">USDA
+        - NASS: Egg Products\n (2019-02-06)</a><br><span>.DA  - Length: 4141</span></li>\n\n<!--
+        iHeadlineCounter: 35, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__South_Carolina_Grain_Weekly_Review___2019_05_09__usdasn00b654c.html\">USDA
+        - AMS: South Carolina Grain Weekly Review\n (2019-05-09)</a><br><span>.DA
+        \ - Length: 987</span></li>\n\n<!-- iHeadlineCounter: 36, iMobileAdInterval=52,
+        iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Grain_Review___2019_01_16__usdav979v799v.html\">USDA
+        - AMS: Daily Grain Review\n (2019-01-16)</a><br><span>.DA  - Length: 3974</span></li>\n\n<!--
+        iHeadlineCounter: 37, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__South_Carolina_Closing_Grain_Bids___2019_03_13__usda6682xb305.html\">USDA
+        - AMS: South Carolina Closing Grain Bids\n (2019-03-13)</a><br><span>.DA  -
+        Length: 2514</span></li>\n\n<!-- iHeadlineCounter: 38, iMobileAdInterval=52,
+        iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Kansas_City_Truck_Grain_Bids___2019_01_03__usdah128nk37b.html\">USDA
+        - AMS: Kansas City Truck Grain Bids\n (2019-01-03)</a><br><span>.DA  - Length:
+        2445</span></li>\n\n<!-- iHeadlineCounter: 39, iMobileAdInterval=52, iAdCounter=0
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Basis_Report___2019_01_09__usdan296x3986.html\">USDA
+        - AMS: Minneapolis Basis Report\n (2019-01-09)</a><br><span>.DA  - Length:
+        4208</span></li>\n\n<!-- iHeadlineCounter: 40, iMobileAdInterval=52, iAdCounter=0
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Farm_Report___2019_01_09__usdaw95055105.html\">USDA
+        - AMS: Daily Farm Report\n (2019-01-09)</a><br><span>.DA  - Length: 3896</span></li>\n\n<!--
+        iHeadlineCounter: 41, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__South_Carolina_Closing_Grain_Bids___2019_01_09__usdam039k980w.html\">USDA
+        - AMS: South Carolina Closing Grain Bids\n (2019-01-09)</a><br><span>.DA  -
+        Length: 2375</span></li>\n\n<!-- iHeadlineCounter: 42, iMobileAdInterval=52,
+        iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__North_Carolina_Grain___2019_03_14__usdasx61dt41p.html\">USDA
+        - AMS: North Carolina Grain\n (2019-03-14)</a><br><span>.DA  - Length: 2952</span></li>\n\n<!--
+        iHeadlineCounter: 43, iMobileAdInterval=52, iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Kansas_City_Truck_Grain_Bids___2019_01_02__usdav692tb62p.html\">USDA
+        - AMS: Kansas City Truck Grain Bids\n (2019-01-02)</a><br><span>.DA  - Length:
+        2454</span></li>\n\n<!-- iHeadlineCounter: 44, iMobileAdInterval=52, iAdCounter=0
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Bids_for_Grain_Delivered_to_Portland___2019_01_02__usdaj098zg44c.html\">USDA
+        - AMS: Bids for Grain Delivered to Portland\n (2019-01-02)</a><br><span>.DA
+        \ - Length: 5938</span></li>\n\n<!-- iHeadlineCounter: 45, iMobileAdInterval=52,
+        iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Louisiana_and_Texas_Gulf_Export_Port_Bids___2019_01_02__usdarf55zd15s.html\">USDA
+        - AMS: Louisiana and Texas Gulf Export Port Bids\n (2019-01-02)</a><br><span>.DA
+        \ - Length: 3279</span></li>\n\n<!-- iHeadlineCounter: 46, iMobileAdInterval=52,
+        iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Bids_for_Grain_Delivered_to_Portland___2019_01_03__usda1831cq610.html\">USDA
+        - AMS: Bids for Grain Delivered to Portland\n (2019-01-03)</a><br><span>.DA
+        \ - Length: 5867</span></li>\n\n<!-- iHeadlineCounter: 47, iMobileAdInterval=52,
+        iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Pacific_NW_Wheat_Basis_Report___2019_02_06__usda6108vh75v.html\">USDA
+        - AMS: Pacific NW Wheat Basis Report\n (2019-02-06)</a><br><span>.DA  - Length:
+        5919</span></li>\n\n<!-- iHeadlineCounter: 48, iMobileAdInterval=52, iAdCounter=0
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Basis_Report___2019_05_10__usdarb68xm71h.html\">USDA
+        - AMS: Minneapolis Basis Report\n (2019-05-10)</a><br><span>.DA  - Length:
+        4209</span></li>\n\n<!-- iHeadlineCounter: 49, iMobileAdInterval=52, iAdCounter=0
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Bids_for_Grain_Delivered_to_Portland___2019_04_18__usdav979vb234.html\">USDA
+        - AMS: Bids for Grain Delivered to Portland\n (2019-04-18)</a><br><span>.DA
+        \ - Length: 5877</span></li>\n\n<!-- iHeadlineCounter: 50, iMobileAdInterval=52,
+        iAdCounter=0 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Pacific_NW_Wheat_Basis_Report___2019_01_24__usdatx31qp881.html\">USDA
+        - AMS: Pacific NW Wheat Basis Report\n (2019-01-24)</a><br><span>.DA  - Length:
+        5597</span></li>\n\n<!-- iHeadlineCounter: 51, iMobileAdInterval=52, iAdCounter=0
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Southern_Minnesota_Grain_Prices___2019_06_12__usdac247f307p.html\">USDA
+        - AMS: Southern Minnesota Grain Prices\n (2019-06-12)</a><br><span>.DA  -
+        Length: 974</span></li>\n\n<!-- iHeadlineCounter: 52, iMobileAdInterval=52,
+        iAdCounter=0 -->\n\n\n<!-- iHeadlineCounter: 52, iMobileAdInterval=52, iAdCounter=0
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Export_Grain_Bids___2019_05_02__usda5712mg044.html\">USDA
+        - AMS: Export Grain Bids\n (2019-05-02)</a><br><span>.DA  - Length: 5813</span></li>\n\r\n\n<div
+        id='IC_M_300x250_1'>\n</div>\n\n<!-- iHeadlineCounter: 53, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Oklahoma_Grain_Report___2019_05_02__usdaz603r626z.html\">USDA
+        - AMS: Oklahoma Grain Report\n (2019-05-02)</a><br><span>.DA  - Length: 1509</span></li>\n\n<!--
+        iHeadlineCounter: 55, iMobileAdInterval=52, iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Pacific_NW_Wheat_Basis_Report___2018_12_18__usdadn39x5505.html\">USDA
+        - AMS: Pacific NW Wheat Basis Report\n (2018-12-18)</a><br><span>.DA  - Length:
+        5650</span></li>\n\n<!-- iHeadlineCounter: 56, iMobileAdInterval=52, iAdCounter=1
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Mississippi_Daily_Grain_Report___2019_04_08__usdanc580v59w.html\">USDA
+        - AMS: Mississippi Daily Grain Report\n (2019-04-08)</a><br><span>.DA  - Length:
+        2251</span></li>\n\n<!-- iHeadlineCounter: 57, iMobileAdInterval=52, iAdCounter=1
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Louisiana_and_Texas_Gulf_Export_Port_Bids___2019_06_03__usda2f75rj773.html\">USDA
+        - AMS: Louisiana and Texas Gulf Export Port Bids\n (2019-06-03)</a><br><span>.DA
+        \ - Length: 3182</span></li>\n\n<!-- iHeadlineCounter: 58, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Virginia_Grain___2019_03_11__usdang451r23r.html\">USDA
+        - AMS: Virginia Grain\n (2019-03-11)</a><br><span>.DA  - Length: 1768</span></li>\n\n<!--
+        iHeadlineCounter: 59, iMobileAdInterval=52, iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Basis_Report___2019_03_15__usda9p290h784.html\">USDA
+        - AMS: Minneapolis Basis Report\n (2019-03-15)</a><br><span>.DA  - Length:
+        4227</span></li>\n\n<!-- iHeadlineCounter: 60, iMobileAdInterval=52, iAdCounter=1
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Portland_Weekly_Feedstuffs___2019_01_02__usdahh63t109d.html\">USDA
+        - AMS: Portland Weekly Feedstuffs\n (2019-01-02)</a><br><span>.DA  - Length:
+        6521</span></li>\n\n<!-- iHeadlineCounter: 61, iMobileAdInterval=52, iAdCounter=1
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Barge_Terminal_Grain_Prices_IA_MN___2019_05_09__usdapz50h489z.html\">USDA
+        - AMS: Barge Terminal Grain Prices IA-MN\n (2019-05-09)</a><br><span>.DA  -
+        Length: 1917</span></li>\n\n<!-- iHeadlineCounter: 62, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Pacific_NW_Wheat_Basis_Report___2019_08_27__usdafx71b0571.html\">USDA
+        - AMS: Pacific NW Wheat Basis Report\n (2019-08-27)</a><br><span>.DA  - Length:
+        5626</span></li>\n\n<!-- iHeadlineCounter: 63, iMobileAdInterval=52, iAdCounter=1
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Bids_for_Grain_Delivered_to_Portland___2018_12_31__usdagq67jw61c.html\">USDA
+        - AMS: Bids for Grain Delivered to Portland\n (2018-12-31)</a><br><span>.DA
+        \ - Length: 5793</span></li>\n\n<!-- iHeadlineCounter: 64, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Grains_Inspected_for_Export__Weekly____2019_05_06__usdan583z3779.html\">USDA
+        - AMS: Grains Inspected for Export (Weekly)\n (2019-05-06)</a><br><span>.DA
+        \ - Length: 15235</span></li>\n\n<!-- iHeadlineCounter: 65, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__National_Weekly_Non_GE_GMO_Grain_Report___2019_01_18__usdarf55zd63f.html\">USDA
+        - AMS: National Weekly Non-GE/GMO Grain Report\n (2019-01-18)</a><br><span>.DA
+        \ - Length: 3438</span></li>\n\n<!-- iHeadlineCounter: 66, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Kentucky_Daily_grain_Elevators__Open_Bids___2019_05_09__usdaxw42nj18f.html\">USDA
+        - AMS: Kentucky Daily grain Elevators, Open Bids\n (2019-05-09)</a><br><span>.DA
+        \ - Length: 5167</span></li>\n\n<!-- iHeadlineCounter: 67, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Louisiana_and_Texas_Gulf_Export_Port_Bids___2018_12_31__usdajm214t721.html\">USDA
+        - AMS: Louisiana and Texas Gulf Export Port Bids\n (2018-12-31)</a><br><span>.DA
+        \ - Length: 3104</span></li>\n\n<!-- iHeadlineCounter: 70, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Tennessee_Country_Grain_Elevators___2019_01_02__usda02871132k.html\">USDA
+        - AMS: Tennessee Country Grain Elevators\n (2019-01-02)</a><br><span>.DA  -
+        Length: 1778</span></li>\n\n<!-- iHeadlineCounter: 71, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Memphis_Daily_Grain___2019_01_14__usda9z903463s.html\">USDA
+        - AMS: Memphis Daily Grain\n (2019-01-14)</a><br><span>.DA  - Length: 1579</span></li>\n\n<!--
+        iHeadlineCounter: 72, iMobileAdInterval=52, iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Missouri_Grain___2019_01_04__usdac247dx839.html\">USDA
+        - AMS: Missouri Grain\n (2019-01-04)</a><br><span>.DA  - Length: 3511</span></li>\n\n<!--
+        iHeadlineCounter: 73, iMobileAdInterval=52, iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__North_Carolina_Grain___2018_12_31__usdang451p06p.html\">USDA
+        - AMS: North Carolina Grain\n (2018-12-31)</a><br><span>.DA  - Length: 3052</span></li>\n\n<!--
+        iHeadlineCounter: 74, iMobileAdInterval=52, iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Missouri_Grain___2019_01_14__usdaks65hh67j.html\">USDA
+        - AMS: Missouri Grain\n (2019-01-14)</a><br><span>.DA  - Length: 3374</span></li>\n\n<!--
+        iHeadlineCounter: 75, iMobileAdInterval=52, iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Farm_Report___2019_01_14__usdas1784r87s.html\">USDA
+        - AMS: Daily Farm Report\n (2019-01-14)</a><br><span>.DA  - Length: 4058</span></li>\n\n<!--
+        iHeadlineCounter: 76, iMobileAdInterval=52, iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Cash_Grain___2019_03_14__usda70795g149.html\">USDA
+        - AMS: Minneapolis Cash Grain\n (2019-03-14)</a><br><span>.DA  - Length: 5587</span></li>\n\n<!--
+        iHeadlineCounter: 77, iMobileAdInterval=52, iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Tennessee_Country_Grain_Elevators___2019_05_10__usda7d2792740.html\">USDA
+        - AMS: Tennessee Country Grain Elevators\n (2019-05-10)</a><br><span>.DA  -
+        Length: 1677</span></li>\n\n<!-- iHeadlineCounter: 79, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Tennessee_Country_Grain_Elevators___2019_02_06__usda4q77fx61t.html\">USDA
+        - AMS: Tennessee Country Grain Elevators\n (2019-02-06)</a><br><span>.DA  -
+        Length: 1668</span></li>\n\n<!-- iHeadlineCounter: 80, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Bids_for_Grain_Delivered_to_Portland___2019_01_24__usdaxs55mj24q.html\">USDA
+        - AMS: Bids for Grain Delivered to Portland\n (2019-01-24)</a><br><span>.DA
+        \ - Length: 5775</span></li>\n\n<!-- iHeadlineCounter: 81, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Tennessee_Country_Grain_Elevators___2019_01_11__usdaxp68km957.html\">USDA
+        - AMS: Tennessee Country Grain Elevators\n (2019-01-11)</a><br><span>.DA  -
+        Length: 1822</span></li>\n\n<!-- iHeadlineCounter: 83, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Southern_Minnesota_Grain_Prices___2019_01_18__usdah702qc15s.html\">USDA
+        - AMS: Southern Minnesota Grain Prices\n (2019-01-18)</a><br><span>.DA  -
+        Length: 974</span></li>\n\n<!-- iHeadlineCounter: 84, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__South_America_Dairy_Market_Overview___2019_06_06__usdabk128m67c.html\">USDA
+        - AMS: South America Dairy Market Overview\n (2019-06-06)</a><br><span>.DA
+        \ - Length: 1846</span></li>\n\n<!-- iHeadlineCounter: 85, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Pacific_NW_Wheat_Basis_Report___2019_06_03__usda5999nd26v.html\">USDA
+        - AMS: Pacific NW Wheat Basis Report\n (2019-06-03)</a><br><span>.DA  - Length:
+        5849</span></li>\n\n<!-- iHeadlineCounter: 87, iMobileAdInterval=52, iAdCounter=1
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__TX_High_Plains_Elevator_Grain_Bids___2019_01_02__usdaw95054826.html\">USDA
+        - AMS: TX High Plains Elevator Grain Bids\n (2019-01-02)</a><br><span>.DA
+        \ - Length: 2630</span></li>\n\n<!-- iHeadlineCounter: 88, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Export_Grain_Bids___2019_01_04__usda0g354k61w.html\">USDA
+        - AMS: Export Grain Bids\n (2019-01-04)</a><br><span>.DA  - Length: 5804</span></li>\n\n<!--
+        iHeadlineCounter: 89, iMobileAdInterval=52, iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__East_River_South_Dakota_Grain_Market___2019_01_04__usda6d570228m.html\">USDA
+        - AMS: East River South Dakota Grain Market\n (2019-01-04)</a><br><span>.DA
+        \ - Length: 5818</span></li>\n\n<!-- iHeadlineCounter: 90, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Cash_Grain___2019_01_11__usda8049g999v.html\">USDA
+        - AMS: Minneapolis Cash Grain\n (2019-01-11)</a><br><span>.DA  - Length: 5442</span></li>\n\n<!--
+        iHeadlineCounter: 91, iMobileAdInterval=52, iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Virginia_Grain___2019_05_01__usda9593v3793.html\">USDA
+        - AMS: Virginia Grain\n (2019-05-01)</a><br><span>.DA  - Length: 1804</span></li>\n\n<!--
+        iHeadlineCounter: 92, iMobileAdInterval=52, iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Pacific_NW_Wheat_Basis_Report___2019_04_18__usdakw52jh37p.html\">USDA
+        - AMS: Pacific NW Wheat Basis Report\n (2019-04-18)</a><br><span>.DA  - Length:
+        5769</span></li>\n\n<!-- iHeadlineCounter: 93, iMobileAdInterval=52, iAdCounter=1
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Grains_Inspected_for_Export__Weekly____2018_12_31__usdam900nz807.html\">USDA
+        - AMS: Grains Inspected for Export (Weekly)\n (2018-12-31)</a><br><span>.DA
+        \ - Length: 14520</span></li>\n\n<!-- iHeadlineCounter: 94, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Pacific_NW_Wheat_Basis_Report___2019_01_30__usdagf06g7800.html\">USDA
+        - AMS: Pacific NW Wheat Basis Report\n (2019-01-30)</a><br><span>.DA  - Length:
+        5849</span></li>\n\n<!-- iHeadlineCounter: 95, iMobileAdInterval=52, iAdCounter=1
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Kansas_City_Truck_Grain_Bids___2019_03_29__usdatd96k882g.html\">USDA
+        - AMS: Kansas City Truck Grain Bids\n (2019-03-29)</a><br><span>.DA  - Length:
+        2440</span></li>\n\n<!-- iHeadlineCounter: 96, iMobileAdInterval=52, iAdCounter=1
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Basis_Report___2019_01_03__usda0c483p53z.html\">USDA
+        - AMS: Minneapolis Basis Report\n (2019-01-03)</a><br><span>.DA  - Length:
+        4208</span></li>\n\n<!-- iHeadlineCounter: 98, iMobileAdInterval=52, iAdCounter=1
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Missouri_Grain___2019_01_11__usda8k71np096.html\">USDA
+        - AMS: Missouri Grain\n (2019-01-11)</a><br><span>.DA  - Length: 3526</span></li>\n\n<!--
+        iHeadlineCounter: 99, iMobileAdInterval=52, iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__National_Feedstuffs_Market_Review___2019_09_04__usda4j03db896.html\">USDA
+        - AMS: National Feedstuffs Market Review\n (2019-09-04)</a><br><span>.DA  -
+        Length: 6733</span></li>\n\n<!-- iHeadlineCounter: 100, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Alabama_Weekly_Feedstuff_Production_Cost_Report__Mon____2019_01_14__usdamg74qr796.html\">USDA
+        - AMS: Alabama Weekly Feedstuff/Production Cost Report (Mon)\n (2019-01-14)</a><br><span>.DA
+        \ - Length: 1987</span></li>\n\n<!-- iHeadlineCounter: 101, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Alabama_Weekly_Feedstuff_Production_Cost_Report__Mon____2019_03_25__usdaz603r516h.html\">USDA
+        - AMS: Alabama Weekly Feedstuff/Production Cost Report (Mon)\n (2019-03-25)</a><br><span>.DA
+        \ - Length: 1829</span></li>\n\n<!-- iHeadlineCounter: 102, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Alabama_Weekly_Feedstuff_Production_Cost_Report__Mon____2019_03_11__usdan296x5406.html\">USDA
+        - AMS: Alabama Weekly Feedstuff/Production Cost Report (Mon)\n (2019-03-11)</a><br><span>.DA
+        \ - Length: 1821</span></li>\n\n<!-- iHeadlineCounter: 103, iMobileAdInterval=52,
+        iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Grain_Review___2019_04_25__usdar494vt74k.html\">USDA
+        - AMS: Daily Grain Review\n (2019-04-25)</a><br><span>.DA  - Length: 3909</span></li>\n\n<!--
+        iHeadlineCounter: 104, iMobileAdInterval=52, iAdCounter=1 -->\n\n\n<!-- iHeadlineCounter:
+        104, iMobileAdInterval=52, iAdCounter=1 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__National_Feedstuffs_Market_Review___2019_01_30__usda8s45qf82r.html\">USDA
+        - AMS: National Feedstuffs Market Review\n (2019-01-30)</a><br><span>.DA  -
+        Length: 6358</span></li>\n\n<div id='IC_M_300x250_2'>\n</div>\n\n<!-- iHeadlineCounter:
+        105, iMobileAdInterval=52, iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__East_River_South_Dakota_Grain_Market___2018_12_31__usdakw52jd29c.html\">USDA
+        - AMS: East River South Dakota Grain Market\n (2018-12-31)</a><br><span>.DA
+        \ - Length: 5824</span></li>\n\n<!-- iHeadlineCounter: 106, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Cash_Grain___2019_05_09__usdab8515x45b.html\">USDA
+        - AMS: Minneapolis Cash Grain\n (2019-05-09)</a><br><span>.DA  - Length: 5574</span></li>\n\n<!--
+        iHeadlineCounter: 107, iMobileAdInterval=52, iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__North_Carolina_Grain___2019_01_02__usda1g05fh20h.html\">USDA
+        - AMS: North Carolina Grain\n (2019-01-02)</a><br><span>.DA  - Length: 2951</span></li>\n\n<!--
+        iHeadlineCounter: 108, iMobileAdInterval=52, iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Bids_for_Grain_Delivered_to_Portland___2019_01_30__usdak3569954v.html\">USDA
+        - AMS: Bids for Grain Delivered to Portland\n (2019-01-30)</a><br><span>.DA
+        \ - Length: 5992</span></li>\n\n<!-- iHeadlineCounter: 109, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__South_America_Dairy_Market_Overview___2019_01_03__usdam900nz85m.html\">USDA
+        - AMS: South America Dairy Market Overview\n (2019-01-03)</a><br><span>.DA
+        \ - Length: 2444</span></li>\n\n<!-- iHeadlineCounter: 110, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Southern_Minnesota_Grain_Prices___2019_01_02__usdabc386p982.html\">USDA
+        - AMS: Southern Minnesota Grain Prices\n (2019-01-02)</a><br><span>.DA  -
+        Length: 988</span></li>\n\n<!-- iHeadlineCounter: 111, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Southern_Minnesota_Grain_Prices___2019_05_09__usdaw0892k93t.html\">USDA
+        - AMS: Southern Minnesota Grain Prices\n (2019-05-09)</a><br><span>.DA  -
+        Length: 966</span></li>\n\n<!-- iHeadlineCounter: 112, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Cornbelt_Weekly_feedstuffs___2019_01_02__usda8g84mr66c.html\">USDA
+        - AMS: Cornbelt Weekly feedstuffs\n (2019-01-02)</a><br><span>.DA  - Length:
+        6888</span></li>\n\n<!-- iHeadlineCounter: 113, iMobileAdInterval=52, iAdCounter=2
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__South_America_Dairy_Market_Overview___2019_02_14__usdaht24wr11g.html\">USDA
+        - AMS: South America Dairy Market Overview\n (2019-02-14)</a><br><span>.DA
+        \ - Length: 1671</span></li>\n\n<!-- iHeadlineCounter: 115, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Memphis_Daily_Grain___2019_05_10__usdafq978409g.html\">USDA
+        - AMS: Memphis Daily Grain\n (2019-05-10)</a><br><span>.DA  - Length: 1557</span></li>\n\n<!--
+        iHeadlineCounter: 116, iMobileAdInterval=52, iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Weekly_National_Grain_Market_Review___2019_06_07__usdapc289t653.html\">USDA
+        - AMS: Weekly National Grain Market Review\n (2019-06-07)</a><br><span>.DA
+        \ - Length: 3344</span></li>\n\n<!-- iHeadlineCounter: 117, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Arkansas_Daily_Grain___2019_05_10__usda9k41zp531.html\">USDA
+        - AMS: Arkansas Daily Grain\n (2019-05-10)</a><br><span>.DA  - Length: 3852</span></li>\n\n<!--
+        iHeadlineCounter: 118, iMobileAdInterval=52, iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Cash_Grain___2019_05_10__usdaqz20t182p.html\">USDA
+        - AMS: Minneapolis Cash Grain\n (2019-05-10)</a><br><span>.DA  - Length: 5581</span></li>\n\n<!--
+        iHeadlineCounter: 119, iMobileAdInterval=52, iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__National_Feeder___Stocker_Cattle_Summary___2019_06_07__usdabv73c900z.html\">USDA
+        - AMS: National Feeder & Stocker Cattle Summary\n (2019-06-07)</a><br><span>.DA
+        \ - Length: 27635</span></li>\n\n<!-- iHeadlineCounter: 120, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Bids_for_Grain_Delivered_to_Portland___2019_05_10__usdarf55zh586.html\">USDA
+        - AMS: Bids for Grain Delivered to Portland\n (2019-05-10)</a><br><span>.DA
+        \ - Length: 6119</span></li>\n\n<!-- iHeadlineCounter: 121, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__East_River_South_Dakota_Grain_Market___2019_01_24__usdavd66w489v.html\">USDA
+        - AMS: East River South Dakota Grain Market\n (2019-01-24)</a><br><span>.DA
+        \ - Length: 5818</span></li>\n\n<!-- iHeadlineCounter: 122, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Bids_for_Grain_Delivered_to_Portland___2018_12_18__usda0z7091436.html\">USDA
+        - AMS: Bids for Grain Delivered to Portland\n (2018-12-18)</a><br><span>.DA
+        \ - Length: 5772</span></li>\n\n<!-- iHeadlineCounter: 123, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__North_Carolina_Grain___2019_05_08__usda1v53k585z.html\">USDA
+        - AMS: North Carolina Grain\n (2019-05-08)</a><br><span>.DA  - Length: 2968</span></li>\n\n<!--
+        iHeadlineCounter: 124, iMobileAdInterval=52, iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Louisiana_and_Texas_Gulf_Export_Port_Bids___2019_01_03__usdahh63t112q.html\">USDA
+        - AMS: Louisiana and Texas Gulf Export Port Bids\n (2019-01-03)</a><br><span>.DA
+        \ - Length: 3090</span></li>\n\n<!-- iHeadlineCounter: 125, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Pacific_NW_Wheat_Basis_Report___2019_01_03__usdam039k946k.html\">USDA
+        - AMS: Pacific NW Wheat Basis Report\n (2019-01-03)</a><br><span>.DA  - Length:
+        5682</span></li>\n\n<!-- iHeadlineCounter: 126, iMobileAdInterval=52, iAdCounter=2
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Missouri_Grain___2019_01_31__usda2j62s999j.html\">USDA
+        - AMS: Missouri Grain\n (2019-01-31)</a><br><span>.DA  - Length: 3386</span></li>\n\n<!--
+        iHeadlineCounter: 127, iMobileAdInterval=52, iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__National_Feedstuffs_Market_Review___2019_03_13__usdabv73c6655.html\">USDA
+        - AMS: National Feedstuffs Market Review\n (2019-03-13)</a><br><span>.DA  -
+        Length: 6448</span></li>\n\n<!-- iHeadlineCounter: 128, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Grain_Review___2019_02_19__usdamp48sk663.html\">USDA
+        - AMS: Daily Grain Review\n (2019-02-19)</a><br><span>.DA  - Length: 3965</span></li>\n\n<!--
+        iHeadlineCounter: 129, iMobileAdInterval=52, iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Bids_for_Grain_Delivered_to_Portland___2019_01_22__usda9593v1111.html\">USDA
+        - AMS: Bids for Grain Delivered to Portland\n (2019-01-22)</a><br><span>.DA
+        \ - Length: 5798</span></li>\n\n<!-- iHeadlineCounter: 130, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Louisiana_and_Texas_Gulf_Export_Port_Bids___2019_01_22__usdah128nk957.html\">USDA
+        - AMS: Louisiana and Texas Gulf Export Port Bids\n (2019-01-22)</a><br><span>.DA
+        \ - Length: 3295</span></li>\n\n<!-- iHeadlineCounter: 131, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Kansas_City_Truck_Grain_Bids___2019_01_22__usdavt150q051.html\">USDA
+        - AMS: Kansas City Truck Grain Bids\n (2019-01-22)</a><br><span>.DA  - Length:
+        2442</span></li>\n\n<!-- iHeadlineCounter: 132, iMobileAdInterval=52, iAdCounter=2
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__California_Weekly_Wholesale_Feedstuff_Prices___2019_01_22__usda3j333756r.html\">USDA
+        - AMS: California Weekly Wholesale Feedstuff Prices\n (2019-01-22)</a><br><span>.DA
+        \ - Length: 4376</span></li>\n\n<!-- iHeadlineCounter: 133, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Cash_Grain___2019_01_22__usda41687p44b.html\">USDA
+        - AMS: Minneapolis Cash Grain\n (2019-01-22)</a><br><span>.DA  - Length: 5607</span></li>\n\n<!--
+        iHeadlineCounter: 134, iMobileAdInterval=52, iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Basis_Report___2019_01_22__usda6395wc675.html\">USDA
+        - AMS: Minneapolis Basis Report\n (2019-01-22)</a><br><span>.DA  - Length:
+        4219</span></li>\n\n<!-- iHeadlineCounter: 136, iMobileAdInterval=52, iAdCounter=2
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Virginia_Grain___2019_02_04__usda79408317f.html\">USDA
+        - AMS: Virginia Grain\n (2019-02-04)</a><br><span>.DA  - Length: 1784</span></li>\n\n<!--
+        iHeadlineCounter: 137, iMobileAdInterval=52, iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Alabama_Weekly_Feedstuff_Production_Cost_Report__Mon____2019_01_07__usdah415pf894.html\">USDA
+        - AMS: Alabama Weekly Feedstuff/Production Cost Report (Mon)\n (2019-01-07)</a><br><span>.DA
+        \ - Length: 1841</span></li>\n\n<!-- iHeadlineCounter: 139, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__East_River_South_Dakota_Grain_Market___2019_02_04__usdacn69m914v.html\">USDA
+        - AMS: East River South Dakota Grain Market\n (2019-02-04)</a><br><span>.DA
+        \ - Length: 5816</span></li>\n\n<!-- iHeadlineCounter: 140, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Grain_Review___2019_01_07__usda9g54xn971.html\">USDA
+        - AMS: Daily Grain Review\n (2019-01-07)</a><br><span>.DA  - Length: 3985</span></li>\n\n<!--
+        iHeadlineCounter: 141, iMobileAdInterval=52, iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Farm_Report___2019_05_09__usdakd17d323g.html\">USDA
+        - AMS: Daily Farm Report\n (2019-05-09)</a><br><span>.DA  - Length: 5255</span></li>\n\n<!--
+        iHeadlineCounter: 142, iMobileAdInterval=52, iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Barge_Terminal_Grain_Prices_IA_MN___2019_01_02__usda1j92gd15v.html\">USDA
+        - AMS: Barge Terminal Grain Prices IA-MN\n (2019-01-02)</a><br><span>.DA  -
+        Length: 1964</span></li>\n\n<!-- iHeadlineCounter: 143, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Alabama_Weekly_Feedstuff_Production_Cost_Report__Mon____2019_02_11__usdakp78gp26g.html\">USDA
+        - AMS: Alabama Weekly Feedstuff/Production Cost Report (Mon)\n (2019-02-11)</a><br><span>.DA
+        \ - Length: 1942</span></li>\n\n<!-- iHeadlineCounter: 144, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Virginia_Grain___2019_01_02__usdahd76s435s.html\">USDA
+        - AMS: Virginia Grain\n (2019-01-02)</a><br><span>.DA  - Length: 1500</span></li>\n\n<!--
+        iHeadlineCounter: 145, iMobileAdInterval=52, iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Farm_Report___2019_01_02__usdawp988q14c.html\">USDA
+        - AMS: Daily Farm Report\n (2019-01-02)</a><br><span>.DA  - Length: 3268</span></li>\n\n<!--
+        iHeadlineCounter: 146, iMobileAdInterval=52, iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Pacific_NW_Wheat_Basis_Report___2018_12_31__usdasn00b3195.html\">USDA
+        - AMS: Pacific NW Wheat Basis Report\n (2018-12-31)</a><br><span>.DA  - Length:
+        5636</span></li>\n\n<!-- iHeadlineCounter: 147, iMobileAdInterval=52, iAdCounter=2
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Grain_Review___2019_01_04__usdarr172259s.html\">USDA
+        - AMS: Daily Grain Review\n (2019-01-04)</a><br><span>.DA  - Length: 3919</span></li>\n\n<!--
+        iHeadlineCounter: 148, iMobileAdInterval=52, iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Memphis_Daily_Grain___2019_03_06__usda8g84mt43g.html\">USDA
+        - AMS: Memphis Daily Grain\n (2019-03-06)</a><br><span>.DA  - Length: 1568</span></li>\n\n<!--
+        iHeadlineCounter: 149, iMobileAdInterval=52, iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__East_River_South_Dakota_Grain_Market___2019_01_15__usda9019s734w.html\">USDA
+        - AMS: East River South Dakota Grain Market\n (2019-01-15)</a><br><span>.DA
+        \ - Length: 5824</span></li>\n\n<!-- iHeadlineCounter: 150, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Louisiana_and_Texas_Gulf_Export_Port_Bids___2019_01_30__usdaht24wq71q.html\">USDA
+        - AMS: Louisiana and Texas Gulf Export Port Bids\n (2019-01-30)</a><br><span>.DA
+        \ - Length: 3090</span></li>\n\n<!-- iHeadlineCounter: 151, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Portland_Weekly_Feedstuffs___2019_04_02__usdakd17d1959.html\">USDA
+        - AMS: Portland Weekly Feedstuffs\n (2019-04-02)</a><br><span>.DA  - Length:
+        6054</span></li>\n\n<!-- iHeadlineCounter: 152, iMobileAdInterval=52, iAdCounter=2
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Missouri_Grain___2019_04_30__usdamw22vf56r.html\">USDA
+        - AMS: Missouri Grain\n (2019-04-30)</a><br><span>.DA  - Length: 3390</span></li>\n\n<!--
+        iHeadlineCounter: 153, iMobileAdInterval=52, iAdCounter=2 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Pacific_NW_Wheat_Basis_Report___2019_01_22__usda9g54xp37s.html\">USDA
+        - AMS: Pacific NW Wheat Basis Report\n (2019-01-22)</a><br><span>.DA  - Length:
+        5525</span></li>\n\n<!-- iHeadlineCounter: 155, iMobileAdInterval=52, iAdCounter=2
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Bids_for_Grain_Delivered_to_Portland___2019_05_01__usdawh2471534.html\">USDA
+        - AMS: Bids for Grain Delivered to Portland\n (2019-05-01)</a><br><span>.DA
+        \ - Length: 5833</span></li>\n\n<!-- iHeadlineCounter: 156, iMobileAdInterval=52,
+        iAdCounter=2 -->\n\n\n<!-- iHeadlineCounter: 156, iMobileAdInterval=52, iAdCounter=2
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Bids_for_Grain_Delivered_to_Portland___2019_06_03__usda76537974f.html\">USDA
+        - AMS: Bids for Grain Delivered to Portland\n (2019-06-03)</a><br><span>.DA
+        \ - Length: 5971</span></li>\n\n<div id='IC_M_300x250_3'>\n</div>\n\n<!--
+        iHeadlineCounter: 157, iMobileAdInterval=52, iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Southern_Minnesota_Grain_Prices___2019_05_29__usdaf1881w55k.html\">USDA
+        - AMS: Southern Minnesota Grain Prices\n (2019-05-29)</a><br><span>.DA  -
+        Length: 966</span></li>\n\n<!-- iHeadlineCounter: 158, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__National_Feedstuffs_Market_Review___2019_06_12__usdan296x792c.html\">USDA
+        - AMS: National Feedstuffs Market Review\n (2019-06-12)</a><br><span>.DA  -
+        Length: 6586</span></li>\n\n<!-- iHeadlineCounter: 159, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Louisiana_and_Texas_Gulf_Export_Port_Bids___2019_02_06__usdavh53x2104.html\">USDA
+        - AMS: Louisiana and Texas Gulf Export Port Bids\n (2019-02-06)</a><br><span>.DA
+        \ - Length: 3090</span></li>\n\n<!-- iHeadlineCounter: 160, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Missouri_Grain___2019_01_24__usdaqr46r579g.html\">USDA
+        - AMS: Missouri Grain\n (2019-01-24)</a><br><span>.DA  - Length: 3381</span></li>\n\n<!--
+        iHeadlineCounter: 161, iMobileAdInterval=52, iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Weekly_National_Grain_Market_Review___2019_04_05__usda7s75dm21s.html\">USDA
+        - AMS: Weekly National Grain Market Review\n (2019-04-05)</a><br><span>.DA
+        \ - Length: 3556</span></li>\n\n<!-- iHeadlineCounter: 162, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Basis_Report___2018_12_31__usdagb19fb59h.html\">USDA
+        - AMS: Minneapolis Basis Report\n (2018-12-31)</a><br><span>.DA  - Length:
+        4156</span></li>\n\n<!-- iHeadlineCounter: 163, iMobileAdInterval=52, iAdCounter=3
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Arkansas_Daily_Grain___2019_01_14__usdav118rk41p.html\">USDA
+        - AMS: Arkansas Daily Grain\n (2019-01-14)</a><br><span>.DA  - Length: 3990</span></li>\n\n<!--
+        iHeadlineCounter: 164, iMobileAdInterval=52, iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Barge_Terminal_Grain_Prices_IA_MN___2018_12_31__usdavh53x1159.html\">USDA
+        - AMS: Barge Terminal Grain Prices IA-MN\n (2018-12-31)</a><br><span>.DA  -
+        Length: 1953</span></li>\n\n<!-- iHeadlineCounter: 165, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Grain_Review___2019_01_14__usda0p096c60c.html\">USDA
+        - AMS: Daily Grain Review\n (2019-01-14)</a><br><span>.DA  - Length: 3952</span></li>\n\n<!--
+        iHeadlineCounter: 167, iMobileAdInterval=52, iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Grain_Review___2019_01_17__usdaqj72pd44t.html\">USDA
+        - AMS: Daily Grain Review\n (2019-01-17)</a><br><span>.DA  - Length: 3969</span></li>\n\n<!--
+        iHeadlineCounter: 168, iMobileAdInterval=52, iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Mississippi_Daily_Grain_Report___2019_01_03__usda4t64gs63d.html\">USDA
+        - AMS: Mississippi Daily Grain Report\n (2019-01-03)</a><br><span>.DA  - Length:
+        2203</span></li>\n\n<!-- iHeadlineCounter: 169, iMobileAdInterval=52, iAdCounter=3
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__National_Dairy_Market_at_a_Glance___2019_06_07__usdasf268g086.html\">USDA
+        - AMS: National Dairy Market at a Glance\n (2019-06-07)</a><br><span>.DA  -
+        Length: 11278</span></li>\n\n<!-- iHeadlineCounter: 170, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Louisiana_and_Texas_Gulf_Export_Port_Bids___2019_04_30__usdafb494j276.html\">USDA
+        - AMS: Louisiana and Texas Gulf Export Port Bids\n (2019-04-30)</a><br><span>.DA
+        \ - Length: 3369</span></li>\n\n<!-- iHeadlineCounter: 171, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Grains_Inspected_for_Export__Weekly____2019_04_22__usdavh53x406z.html\">USDA
+        - AMS: Grains Inspected for Export (Weekly)\n (2019-04-22)</a><br><span>.DA
+        \ - Length: 15001</span></li>\n\n<!-- iHeadlineCounter: 172, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Bids_for_Grain_Delivered_to_Portland___2019_01_04__usdax920g235p.html\">USDA
+        - AMS: Bids for Grain Delivered to Portland\n (2019-01-04)</a><br><span>.DA
+        \ - Length: 5916</span></li>\n\n<!-- iHeadlineCounter: 173, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Basis_Report___2019_01_17__usda3n204450b.html\">USDA
+        - AMS: Minneapolis Basis Report\n (2019-01-17)</a><br><span>.DA  - Length:
+        4165</span></li>\n\n<!-- iHeadlineCounter: 174, iMobileAdInterval=52, iAdCounter=3
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__East_River_South_Dakota_Grain_Market___2019_01_17__usdafj236713q.html\">USDA
+        - AMS: East River South Dakota Grain Market\n (2019-01-17)</a><br><span>.DA
+        \ - Length: 5820</span></li>\n\n<!-- iHeadlineCounter: 175, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Virginia_Grain___2019_01_17__usdag158bp03v.html\">USDA
+        - AMS: Virginia Grain\n (2019-01-17)</a><br><span>.DA  - Length: 2492</span></li>\n\n<!--
+        iHeadlineCounter: 176, iMobileAdInterval=52, iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Farm_Report___2019_01_17__usda9g54xp28t.html\">USDA
+        - AMS: Daily Farm Report\n (2019-01-17)</a><br><span>.DA  - Length: 4234</span></li>\n\n<!--
+        iHeadlineCounter: 177, iMobileAdInterval=52, iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Pacific_NW_Wheat_Basis_Report___2019_03_15__usda5x21tn35j.html\">USDA
+        - AMS: Pacific NW Wheat Basis Report\n (2019-03-15)</a><br><span>.DA  - Length:
+        5899</span></li>\n\n<!-- iHeadlineCounter: 178, iMobileAdInterval=52, iAdCounter=3
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Louisiana_and_Texas_Gulf_Export_Port_Bids___2019_03_15__usda6h441091t.html\">USDA
+        - AMS: Louisiana and Texas Gulf Export Port Bids\n (2019-03-15)</a><br><span>.DA
+        \ - Length: 3126</span></li>\n\n<!-- iHeadlineCounter: 179, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Louisiana_and_Texas_Gulf_Export_Port_Bids___2019_01_04__usdah702qb73g.html\">USDA
+        - AMS: Louisiana and Texas Gulf Export Port Bids\n (2019-01-04)</a><br><span>.DA
+        \ - Length: 3091</span></li>\n\n<!-- iHeadlineCounter: 180, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Bids_for_Grain_Delivered_to_Portland___2019_03_15__usdaxd07h125c.html\">USDA
+        - AMS: Bids for Grain Delivered to Portland\n (2019-03-15)</a><br><span>.DA
+        \ - Length: 6003</span></li>\n\n<!-- iHeadlineCounter: 181, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Daily_Grain_Review___2019_01_18__usda6h440z620.html\">USDA
+        - AMS: Daily Grain Review\n (2019-01-18)</a><br><span>.DA  - Length: 3930</span></li>\n\n<!--
+        iHeadlineCounter: 182, iMobileAdInterval=52, iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Pacific_NW_Wheat_Basis_Report___2019_01_04__usda6t053m40r.html\">USDA
+        - AMS: Pacific NW Wheat Basis Report\n (2019-01-04)</a><br><span>.DA  - Length:
+        5752</span></li>\n\n<!-- iHeadlineCounter: 183, iMobileAdInterval=52, iAdCounter=3
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Louisiana_and_Texas_Gulf_Export_Port_Bids___2019_05_10__usdaxp68kr01s.html\">USDA
+        - AMS: Louisiana and Texas Gulf Export Port Bids\n (2019-05-10)</a><br><span>.DA
+        \ - Length: 3362</span></li>\n\n<!-- iHeadlineCounter: 184, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Cash_Grain___2019_01_17__usdaq524jt62j.html\">USDA
+        - AMS: Minneapolis Cash Grain\n (2019-01-17)</a><br><span>.DA  - Length: 5519</span></li>\n\n<!--
+        iHeadlineCounter: 185, iMobileAdInterval=52, iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__North_Carolina_Grain___2019_01_03__usdarv042z846.html\">USDA
+        - AMS: North Carolina Grain\n (2019-01-03)</a><br><span>.DA  - Length: 2965</span></li>\n\n<!--
+        iHeadlineCounter: 186, iMobileAdInterval=52, iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Barge_Terminal_Grain_Prices_IA_MN___2019_01_18__usdakp78gn560.html\">USDA
+        - AMS: Barge Terminal Grain Prices IA-MN\n (2019-01-18)</a><br><span>.DA  -
+        Length: 1937</span></li>\n\n<!-- iHeadlineCounter: 187, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Missouri_Grain___2019_03_15__usda0k225j65n.html\">USDA
+        - AMS: Missouri Grain\n (2019-03-15)</a><br><span>.DA  - Length: 3511</span></li>\n\n<!--
+        iHeadlineCounter: 188, iMobileAdInterval=52, iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Bids_for_Grain_Delivered_to_Portland___2019_03_14__usdax920g415m.html\">USDA
+        - AMS: Bids for Grain Delivered to Portland\n (2019-03-14)</a><br><span>.DA
+        \ - Length: 6247</span></li>\n\n<!-- iHeadlineCounter: 189, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Louisiana_and_Texas_Gulf_Export_Port_Bids___2019_03_14__usda5425kj67z.html\">USDA
+        - AMS: Louisiana and Texas Gulf Export Port Bids\n (2019-03-14)</a><br><span>.DA
+        \ - Length: 3361</span></li>\n\n<!-- iHeadlineCounter: 190, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Kansas_City_Truck_Grain_Bids___2019_01_16__usda0p096c62x.html\">USDA
+        - AMS: Kansas City Truck Grain Bids\n (2019-01-16)</a><br><span>.DA  - Length:
+        2457</span></li>\n\n<!-- iHeadlineCounter: 191, iMobileAdInterval=52, iAdCounter=3
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Louisiana_and_Texas_Gulf_Export_Port_Bids___2019_01_16__usdat722hf797.html\">USDA
+        - AMS: Louisiana and Texas Gulf Export Port Bids\n (2019-01-16)</a><br><span>.DA
+        \ - Length: 3295</span></li>\n\n<!-- iHeadlineCounter: 192, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Bids_for_Grain_Delivered_to_Portland___2019_01_16__usdagx41mp85f.html\">USDA
+        - AMS: Bids for Grain Delivered to Portland\n (2019-01-16)</a><br><span>.DA
+        \ - Length: 5722</span></li>\n\n<!-- iHeadlineCounter: 193, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Basis_Report___2019_01_16__usdajs956m44k.html\">USDA
+        - AMS: Minneapolis Basis Report\n (2019-01-16)</a><br><span>.DA  - Length:
+        4220</span></li>\n\n<!-- iHeadlineCounter: 194, iMobileAdInterval=52, iAdCounter=3
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__South_Carolina_Closing_Grain_Bids___2019_01_02__usdaz316q583h.html\">USDA
+        - AMS: South Carolina Closing Grain Bids\n (2019-01-02)</a><br><span>.DA  -
+        Length: 2366</span></li>\n\n<!-- iHeadlineCounter: 195, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Cash_Grain___2019_01_16__usdaf7623j50v.html\">USDA
+        - AMS: Minneapolis Cash Grain\n (2019-01-16)</a><br><span>.DA  - Length: 5595</span></li>\n\n<!--
+        iHeadlineCounter: 196, iMobileAdInterval=52, iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Weekly_Feedstuffs_Report___2019_01_02__usdahd76s434h.html\">USDA
+        - AMS: Minneapolis Weekly Feedstuffs Report\n (2019-01-02)</a><br><span>.DA
+        \ - Length: 3120</span></li>\n\n<!-- iHeadlineCounter: 197, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Kansas_City_feedstuffs_weekly_summary___2019_01_02__usdanz8064300.html\">USDA
+        - AMS: Kansas City feedstuffs weekly summary\n (2019-01-02)</a><br><span>.DA
+        \ - Length: 3395</span></li>\n\n<!-- iHeadlineCounter: 199, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Pacific_NW_Wheat_Basis_Report___2019_01_02__usdah415pf78m.html\">USDA
+        - AMS: Pacific NW Wheat Basis Report\n (2019-01-02)</a><br><span>.DA  - Length:
+        5676</span></li>\n\n<!-- iHeadlineCounter: 201, iMobileAdInterval=52, iAdCounter=3
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Arkansas_Daily_Grain___2019_05_08__usda2514nv34b.html\">USDA
+        - AMS: Arkansas Daily Grain\n (2019-05-08)</a><br><span>.DA  - Length: 3857</span></li>\n\n<!--
+        iHeadlineCounter: 202, iMobileAdInterval=52, iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Kansas_City_Truck_Grain_Bids___2019_05_08__usdabn999g27p.html\">USDA
+        - AMS: Kansas City Truck Grain Bids\n (2019-05-08)</a><br><span>.DA  - Length:
+        2435</span></li>\n\n<!-- iHeadlineCounter: 203, iMobileAdInterval=52, iAdCounter=3
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Bids_for_Grain_Delivered_to_Portland___2019_05_08__usdadn39x9208.html\">USDA
+        - AMS: Bids for Grain Delivered to Portland\n (2019-05-08)</a><br><span>.DA
+        \ - Length: 6167</span></li>\n\n<!-- iHeadlineCounter: 204, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Pacific_NW_Wheat_Basis_Report___2019_04_24__usdan583z3426.html\">USDA
+        - AMS: Pacific NW Wheat Basis Report\n (2019-04-24)</a><br><span>.DA  - Length:
+        5757</span></li>\n\n<!-- iHeadlineCounter: 205, iMobileAdInterval=52, iAdCounter=3
+        -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Louisiana_and_Texas_Gulf_Export_Port_Bids___2019_06_11__usdavx021r40p.html\">USDA
+        - AMS: Louisiana and Texas Gulf Export Port Bids\n (2019-06-11)</a><br><span>.DA
+        \ - Length: 3178</span></li>\n\n<!-- iHeadlineCounter: 206, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Grains_Inspected_for_Export__Weekly____2019_01_28__usdamg74qs139.html\">USDA
+        - AMS: Grains Inspected for Export (Weekly)\n (2019-01-28)</a><br><span>.DA
+        \ - Length: 15496</span></li>\n\n<!-- iHeadlineCounter: 207, iMobileAdInterval=52,
+        iAdCounter=3 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Minneapolis_Basis_Report___2019_04_22__usdagq67k048m.html\">USDA
+        - AMS: Minneapolis Basis Report\n (2019-04-22)</a><br><span>.DA  - Length:
+        4174</span></li>\n\n<!-- iHeadlineCounter: 208, iMobileAdInterval=52, iAdCounter=3
+        -->\n\n\n<!-- iHeadlineCounter: 208, iMobileAdInterval=52, iAdCounter=3 -->\n\n<li
+        ><a href=\"/news/futures/USDA___AMS__East_River_South_Dakota_Grain_Market___2019_04_30__usdatd96k961x.html\">USDA
+        - AMS: East River South Dakota Grain Market\n (2019-04-30)</a><br><span>.DA
+        \ - Length: 5835</span></li>\n\n<!-- iHeadlineCounter: 209, iMobileAdInterval=52,
+        iAdCounter=4 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Virginia_Grain___2019_03_19__usda2v23w214n.html\">USDA
+        - AMS: Virginia Grain\n (2019-03-19)</a><br><span>.DA  - Length: 1763</span></li>\n\n<!--
+        iHeadlineCounter: 210, iMobileAdInterval=52, iAdCounter=4 -->\n\n<li ><a href=\"/news/futures/USDA___AMS__Southern_Minnesota_Grain_Prices___2019_04_02__usdaj098zk262.html\">USDA
+        - AMS: Southern Minnesota Grain Prices\n (2019-04-02)</a><br><span>.DA  -
+        Length: 986</span></li>\n</ul>\n</div><div class=\"news_headlines_eula\">\n\t<p>Please
+        read the <em><a href=\"/news/tfc-news-eua.html\">End User Agreement</a>.</em><br
+        />By accessing this page, you agree to the terms and conditions of the <em><a
+        href=\"/news/tfc-news-eua.html\">End User Agreement</a>.</em></p>\n\t<p style=\"margin-bottom:0px;\">News
+        provided by <a href=\"http://www.comtexnews.net\" target=\"_blank\">COMTEX</a>.</p>\n</div>\n
+        \                 </td>\n                <td class=\"rightcol\">\n\n<div class=\"MRIC_adbox1\">\n<!--
+        Site: TradingCharts, Zone: options, Size 300x250, Multiple sizes: Yes -->\n<div
+        id=\"ic_300x250_1\">\n</div>\n</div>\n  <div id=\"ic-newsletter-signup\"></div>\n
+        \ <script type=\"text/javascript\" src=\"//content.iclnd.com/nl/ads/tradingcharts-email/tradingcharts-emailsignup.js\"></script><br
+        />\n  <div id=\"ic_dianomi_1\">\n  </div>\n<div id=\"mrABMessage_box_40593\"
+        style=\"display:none; width:290px; \"></div>\n<script type=\"text/javascript\">\n<!--\nfunction
+        extmMM_showHideLayers() { //v9.0\n    var i,p,v,obj,args=extmMM_showHideLayers.arguments;\n
+        \   for (i=0; i<(args.length-2); i+=3)\n        with (document)\n            if
+        (getElementById && ((obj=getElementById(args[i]))!=null)) {\n                v=args[i+2];\n
+        \               if (obj.style) {\n                    obj=obj.style;\n                    v=(v=='show')?'visible':(v=='hide')?'hidden':v;\n
+        \               }\n                obj.display = (v=='visible') ? 'block'
+        : 'none';\n                if (v=='visible') {\n                    var cont
+        = document.getElementById(args[i]);\n                    if (leaderType=cont.getAttribute('data-leader-type'))
+        {\n                        get_extremes_leaders(leaderType,cont.id);\n                    }\n
+        \               }\n                obj.visibility=v;\n            }\n}\n//-->\n</script>\n<script
+        type=\"text/javascript\">\nfunction get_extremes_leaders(type, target_id)
+        {\n    var container = $('#'+target_id);\n    if (container.attr('data-loaded')
+        == 'true') return;\n    var tmpl_1 = $('.extremes_tmpl_1');\n    var tmpl_2
+        = $('.extremes_tmpl_2');\n    var _params = {apikey:bc_apik, assetType:'FUT',type:type,maxRecords:6,exchanges:'GBLX,CBOT,ICEUS,WCE'};\n
+        \   $.post(bc_api_base_url+'/getLeaders.json', _params, function(response,
+        textStatus) {\n        if (textStatus !== 'success') return;\n        if (response.results)
+        {\n            var leaders = response.results;\n            for(var i=0; i<leaders.length;
+        i++) {\n                var leader = leaders[i];\n                //load_extremes_minichart(leader.symbol,target_id+(i+1),'#'+(i+1)+'
+        '+leader.symbolName);\n                var tr1 = $(tmpl_1).clone();\n                var
+        tr2 = $(tmpl_2).clone();\n\n                $('.extremes_desc a',tr1).html(leader.symbolName).attr('href','/intraday/'+leader.symbol);\n
+        \               $('.extremes_chg',tr1).html(leader.pricePercentChange+'%');\n
+        \               $('.extremes_sym a',tr2).html(leader.symbol).attr('href','/intraday/'+leader.symbol);\n
+        \               $('.extremes_val',tr2).html(leader.lastPrice);\n                $('.extremes_vol',tr2).html(leader.volume);\n\n
+        \               if (leader.priceNetChange>0) {\n                    $('.extremes_dn',
+        tr1).each(function(){\n                       $('img', this).attr('src','/fe_graphics/extremes_up.png');\n
+        \                      $(this).removeClass('extremes_dn').addClass('extremes_up');\n
+        \                   });\n                } else {\n                    $('.extremes_up',
+        tr1).each(function(){\n                       $('img', this).attr('src','/fe_graphics/extremes_dn.png');\n
+        \                      $(this).removeClass('extremes_up').addClass('extremes_dn');\n
+        \                   });\n                }\n\n\n                tr1.removeClass('extremes_tmpl_1').show();\n
+        \               tr2.removeClass('extremes_tmpl_2').show();\n\n                $('.extremes_list
+        table tbody', container).append(tr1);\n                $('.extremes_list table
+        tbody', container).append(tr2);\n            }\n\n            $('.extremes_loading',
+        container).hide();\n            container.attr('data-loaded', true);\n        }\n
+        \   });\n}\n\n$( document ).ready(function() {\n    get_extremes_leaders('hot_daily','top_movers');\n});\n</script>\n\n<!--
+        media=\"(min-width: 501px)\" -->\n<link rel=\"stylesheet\" type=\"text/css\"
+        media=\"(min-width: 768px)\" href=\"//static.tradingcharts.com/css/fe_mini_charts_300x.css\"
+        />\n<link rel=\"stylesheet\" type=\"text/css\" media=\"(max-width: 767px)\"
+        href=\"//static.tradingcharts.com/css/fe_mini_charts_300x_mobile.css\" class=\"mobile_css\"
+        />\n\n<div id=\"extremes\" style=\"height:312px;\">\n<!--================
+        Top (was Movers) Hottest Div Starts ====================-->\n<div id=\"top_movers\"
+        style=\"visibility:visible; position:absolute; margin:0;\" data-leader-type=\"hot_daily\">\n<table
+        cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n    <td colspan=\"3\"><div
+        class=\"extremes_head\">Extreme Futures: Movers &amp; Shakers</div></td>\n
+        \   </tr>\n  <tr>\n        <td><p class=\"charts_nav_movers_active\" onClick=\"extmMM_showHideLayers('top_movers','','show','top_shakers','','hide','populars','','hide')\"><a
+        href=\"javascript:;\" class=\"charts_nav_movers_active\">Hottest</a></p></td>\n
+        \       <td><p class=\"charts_nav_shakers_ma\" onClick=\"extmMM_showHideLayers('top_movers','','hide','top_shakers','','show','populars','','hide')\"><a
+        href=\"javascript:;\" class=\"charts_nav_shakers_ma\">Actives</a></p></td>\n
+        \       <td><p class=\"charts_nav_populars\" onClick=\"extmMM_showHideLayers('top_movers','','hide','top_shakers','','hide','populars','','show')\"><a
+        href=\"javascript:;\" class=\"charts_nav_populars\">Gainers</a></p></td>\n
+        \   </tr>\n      <tr>\n        <td colspan=\"3\" class=\"charts_nav_quotebox\"><i>Today's
+        Hottest Futures</i></td>\n      </tr>\n\n      <tr>\n        <td colspan=\"3\">\n
+        \           <div class=\"extremes_list\" id=\"extremes_movers\">\n                <table
+        cellpadding=\"0\" cellspacing=\"0\" width=\"287\">\n                    <tbody>\n
+        \                       <tr>\n                            <th colspan=\"2\">Market</th>\n
+        \                           <th>Last</th>\n                            <th>Vol</th>\n
+        \                           <th>%&nbsp;Chg</th>\n                        </tr>\n
+        \                       <tr class=\"extremes_loading\">\n                            <td
+        colspan=\"5\">Loading...</td>\n                        </tr>\n                        <tr
+        style=\"display: none;\"><td></td></tr>\n                        <!-- item
+        begin -->\n                        <tr class=\"extremes_tmpl_1\" style=\"display:none;\">\n
+        \                           <td class=\"extremes_up\" rowspan=\"2\"><img src=\"/fe_graphics/extremes_up.png\"
+        width=\"15\" height=\"20\" alt=\"down\"></td>\n                            <td
+        colspan=\"3\" class=\"extremes_desc\"><a href=\"#\"></a></td>\n                            <td
+        class=\"extremes_chg extremes_up\" rowspan=\"2\">-3.24%</td>\n                        </tr>\n
+        \                       <tr class=\"extremes_tmpl_2\" style=\"display:none;\">\n
+        \                           <td class=\"extremes_sym\"><a href=\"#\"></a></td>\n
+        \                           <td class=\"extremes_val\"></td>\n                            <td
+        class=\"extremes_vol\"></td>\n                        </tr>\n                        <!--
+        item end -->\n                    </tbody>\n                </table>\n            </div>\n
+        \       </td>\n     </tr>\n  </table>\n</div>\n<!--===================== Top
+        (was: Movers) Hottest Div Ends ==================-->\n<!--=====================
+        Top (was: Shakers) Active Div Starts ==================-->\n<div id=\"top_shakers\"
+        style=\"visibility:hidden; position:absolute; margin:0;\" data-leader-type=\"active\">\n
+        \   <table cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n    <td colspan=\"3\"><div
+        class=\"extremes_head\">Extreme Futures: Movers &amp; Shakers</div></td>\n
+        \   </tr>\n      <tr>\n        <td><p class=\"charts_nav_movers_sa\" onClick=\"extmMM_showHideLayers('top_movers','','show','top_shakers','','hide','populars','','hide')\"><a
+        href=\"javascript:;\" class=\"charts_nav_movers_sa\">Hottest</a></p></td>\n
+        \       <td><p class=\"charts_nav_shakers_active\" onClick=\"extmMM_showHideLayers('top_movers','','hide','top_shakers','','show','populars','','hide')\"><a
+        href=\"javascript:;\" class=\"charts_nav_shakers_active\">Actives</a></p></td>\n
+        \       <td><p class=\"charts_nav_populars_sa\" onClick=\"extmMM_showHideLayers('top_movers','','hide','top_shakers','','hide','populars','','show')\"><a
+        href=\"javascript:;\" class=\"charts_nav_populars_sa\">Gainers</a></p></td>\n
+        \     </tr>\n      <tr>\n        <td colspan=\"3\" class=\"charts_nav_quotebox\"><i>Futures
+        Activity Leaders</i></td>\n      </tr>\n      <tr>\n        <td colspan=\"3\">\n
+        \           <div class=\"extremes_list\" id=\"extremes_shakers\">\n                <table
+        cellpadding=\"0\" cellspacing=\"0\" width=\"287\">\n                    <tbody>\n
+        \                       <tr>\n                            <th colspan=\"2\">Market</th>\n
+        \                           <th>Last</th>\n                            <th>Vol</th>\n
+        \                           <th>%&nbsp;Chg</th>\n                        </tr>\n
+        \                       <tr class=\"extremes_loading\">\n                            <td
+        colspan=\"5\">Loading...</td>\n                        </tr>\n                        <tr
+        style=\"display: none;\"><td></td></tr>\n                    </tbody>\n                </table>\n
+        \           </div>\n        </td>\n     </tr>\n    </table>\n  </div>\n<!--=====================
+        Top (was: Shakers) Active Div Ends ==================-->\n<!--=====================
+        (was: Populars) Gainers Div Starts ==================-->\n<div id=\"populars\"
+        style=\"visibility:hidden; position:absolute; margin:0;\" data-leader-type=\"gainers\">\n<table
+        cellpadding=\"0\" cellspacing=\"0\">\n    <tr>\n    <td colspan=\"3\"><div
+        class=\"extremes_head\">Extreme Futures: Movers &amp; Shakers</div></td>\n
+        \   </tr>\n      <tr>\n        <td><p class=\"charts_nav_movers\" onClick=\"extmMM_showHideLayers('top_movers','','show','top_shakers','','hide','populars','','hide')\"><a
+        href=\"javascript:;\" class=\"charts_nav_movers\">Hottest</a></p></td>\n        <td><p
+        class=\"charts_nav_shakers\" onClick=\"extmMM_showHideLayers('top_movers','','hide','top_shakers','','show','populars','','hide')\"><a
+        href=\"javascript:;\" class=\"charts_nav_shakers\">Actives</a></p></td>\n
+        \       <td><p class=\"charts_nav_populars_active\" onClick=\"extmMM_showHideLayers('top_movers','','hide','top_shakers','','hide','populars','','show')\"><a
+        href=\"javascript:;\" class=\"charts_nav_populars_active\">Gainers</a></p></td>\n
+        \     </tr>\n      <tr>\n        <td colspan=\"3\" class=\"charts_nav_quotebox\"><i>Top
+        Price Gainers</i></td>\n      </tr>\n      <tr>\n        <td colspan=\"3\">\n
+        \           <div class=\"extremes_list\" id=\"extremes_movers\">\n                <table
+        cellpadding=\"0\" cellspacing=\"0\" width=\"287\">\n                    <tbody>\n
+        \                       <tr>\n                            <th colspan=\"2\">Market</th>\n
+        \                           <th>Last</th>\n                            <th>Vol</th>\n
+        \                           <th>%&nbsp;Chg</th>\n                        </tr>\n
+        \                       <tr class=\"extremes_loading\">\n                            <td
+        colspan=\"5\">Loading...</td>\n                        </tr>\n                        <tr
+        style=\"display: none;\"><td></td></tr>\n                    </tbody>\n                </table>\n
+        \           </div>\n        </td>\n      </tr>\n  </table>\n</div>\n<!--=====================
+        Gaines (was: Populars) Div Ends ==================-->\n</div><br />\n<style
+        type=\"text/css\">\n    #MRIC_stickyadbox2.fixed_top {\n      position: fixed;\n
+        \     top: 0px;\n    }\n    #MRIC_stickyadbox2.fixed_bot {\n      position:
+        fixed;\n      bottom: 0px;\n    }\n</style>\n\n<script>\n\nvar MRAdNormalTop
+        = 0; // by default, until set in function below\n\nfunction MRMakeAdSticky(){\n
+        \   // only called after delay, to ensure that the ads have loaded\n    MRAdNormalTop
+        = $('#MRIC_stickyadbox2').offset().top;\n    setInterval((function() {\n        if($(document).scrollTop()
+        >= MRAdNormalTop){\n            $('#MRIC_stickyadbox2').addClass('fixed_top');\n
+        \       }else{\n            $('#MRIC_stickyadbox2').removeClass('fixed_top');\n
+        \       }\n    }),100);\n}\n\n$(function () {\n  var msie6 = ( ($.browser.msie
+        && $.browser.version < 8) || (document.documentMode && document.documentMode
+        == 7) );\n  if (!msie6) {\n    setTimeout(\"MRMakeAdSticky()\",3000);\n  }\n});
+        // end of anonymous function\n\n\n</script>\n<div class=\"MRIC_adbox2\" id=\"MRIC_adbox2\">\n<div
+        id=\"MRIC_stickyadbox2\">\n<div id=\"ic_300x250_2\">\n<!-- Site: TradingCharts,
+        Zone: futures, Size 300x250, Multiple sizes: No -->\n</div>\n</div>\n</div>\n
+        \               </td>\n              </tr>\n            </table>\n         </div>\n
+        \      </td>\n    </tr>\n  </table>\n     </td>\n  </tr>\n</table>\n\n<div
+        id='IC_M_300x384_1'>\n</div>\n<!-- Main content table ends -->\n<!-- WGT footer
+        start -->\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" align=\"center\"
+        class=\"footer_links\" style=\"margin:auto;\">\n  <tr>\n    <td style=\"padding-left:0px;\">\n
+        \   <table width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\">\n
+        \     <tr class=\"fm_flexrow\">\n        <td class=\"fe_footer_links_l_col\">\n
+        \       <span class=\"fe_footer_links_head\">Futures Market Sectors</span>\n
+        \       <table class=\"fe_footer_links_content\" width=\"100%\" border=\"0\"
+        cellspacing=\"0\" cellpadding=\"0\">\n          <tr>\n            <td>\n            <a
+        href=\"/currency_futures.html\">Currency Futures</a><br />\n            <a
+        href=\"/petroleum_futures.html\">Energy / Oil Futures</a><br />\n            <a
+        href=\"/grains_oilseeds.html\">Grains &amp; Oilseed</a><br />\n            <a
+        href=\"/index_futures.html\">Index Futures</a>\n            </td>\n            <td>\n
+        \           <a href=\"/interest_bonds.html\">Interest Rate &amp; Bond</a><br
+        />\n            <a href=\"/metals.html\">Metals Futures</a><br />\n            <a
+        href=\"/cattle_pork.html\">Meats, Cattle / Pork</a><br />\n            <a
+        href=\"/food_fiber.html\">Softs Commodities</a>\n            </td>\n          </tr>\n
+        \       </table>\n        </td>\n        <td class=\"fe_footer_links_mid_col\">\n
+        \       <span class=\"fe_footer_links_head\">Major Forex Currency Pairs</span>\n
+        \       <table class=\"fe_footer_links_content footer_3col\" width=\"100%\"
+        border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n          <tr>\n            <td>\n
+        \           <a href=\"//forex.tradingcharts.com/chart/Euro_US%20Dollar.html\">EUR/USD</a><br>\n
+        \           <a href=\"//forex.tradingcharts.com/chart/US%20Dollar_Japanese%20Yen.html\">USD/JPY</a><br>\n
+        \           <a href=\"//forex.tradingcharts.com/chart/Pound%20Sterling%20%28British%20Pound%29_US%20Dollar.html\">GBP/USD</a><br>\n
+        \           <a href=\"//forex.tradingcharts.com/chart/US%20Dollar_Swiss%20Franc.html\">USD/CHF</a><br>\n
+        \           </td>\n            <td>\n            <a href=\"//forex.tradingcharts.com/chart/Euro_Pound%20Sterling%20%28British%20Pound%29.html\">EUR/GBP</a><br>\n
+        \           <a href=\"//forex.tradingcharts.com/chart/Euro_Japanese%20Yen.html\">EUR/JPY</a><br>\n
+        \           <a href=\"//forex.tradingcharts.com/chart/US%20Dollar_Swiss%20Franc.html\">EUR/CHF</a><br>\n
+        \           </td>\n            <td>\n            <a href=\"//forex.tradingcharts.com/chart/Australian%20Dollar_US%20Dollar.html\">AUD/USD</a><br>\n
+        \           <a href=\"//forex.tradingcharts.com/chart/US%20Dollar_Canadian%20Dollar.html\">USD/CAD</a><br>\n\n
+        \           <a href=\"//forex.tradingcharts.com/chart/New%20Zealand%20Dollar_US%20Dollar.html\">NZD/USD</a>\n
+        \           </td>\n          </tr>\n        </table>\n        </td>\n       <td>\n
+        \       <span class=\"fe_footer_links_head\">Resources for Traders</span>\n
+        \       <div>\n            <a href=\"//tfc-forum.tradingcharts.com/forum/\">TFC
+        Commodity Forum</a><br />\n\t\t\t<a href=\"/educational_resources.php\">Learn
+        to Trade Futures</a><br />\n\t\t\t<a href=\"/brokers.php\">Commodity Brokers
+        Directory</a><br />\n\t\t\t<a href=\"/specs/\">Contract Specifications</a>\n
+        \       </div>\n        </td>\n\n      </tr>\n    </table>\n\t</td>\n  </tr>\n</table>\n\n<table
+        border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"fe_main_table fe_footer\"
+        style=\"margin:auto;\">\n  <tr>\n   <td align=\"left\" colspan=\"3\">\n     <div
+        id=\"contact_links\">\n\n<!-- Start of link/script/css to dispay link to switch
+        mobile/desktop views. Display to mobile devices  only -->\n<style type=\"text/css\"
+        media=\"(min-width: 501px)\">  #toggle_desktop_css_link{display:none; } /*
+        Hide link to toggle mobile/desktop style on desktop devices */ </style>\n<p
+        id=\"toggle_desktop_css_link\"><a href=\"\" onclick=\"toggle_desktop_css()\"
+        id=\"toggle_desktop_layout_atag\">Toggle desktop layout</a></p>\n\n<script>\n\ndocument.getElementById(\"toggle_desktop_layout_atag\").innerText
+        = (localStorage.getItem(sMobileDisplayPrefFlagName) === 'desktop') ? \"Switch
+        to mobile layout\" : \"Switch to desktop layout\";\n\n</script>\n\n<!-- end
+        of link/script/css to dispay link to swtich mobile/desktop views -->\n     <p><a
+        href=\"//tradingcharts.com/advertise/index.php\">Advertise with Us</a>&nbsp;
+        | &nbsp;<a href=\"/premium_subscriber/login_subscribe.php?premium_link\">Subscriber
+        Login</a>&nbsp; | &nbsp;<a href=\"/suggestions.php\">Contact Us</a></p>\n
+        \    </div>\n</td>\n</tr>\n<tr class=\"fm_flexrow m-padding\">\n<td class=\"fm_ice_footer\">\n<a
+        target=\"theice\" href=\"https://www.theice.com/index\"><img src=\"/graphics/ICEsprites2-2x_logo_white.png\"
+        border=\"0\" width=\"77\" height=\"77\"></a>\n</td>\n<td class=\"fm_copyright_footer\">\n\n
+        \    <p><font size=\"-2\">Copyright &copy; 2020.</font></p>\n     <p><font
+        size=\"-2\">All <a style=\"text-decoration: underline\" href=\"https://www.barchartmarketdata.com/\"
+        target=\"_blank\" rel=\"nofollow\">market data</a> is provided by Barchart
+        Solutions. Futures: at least 10 minute delayed. Information is provided &quot;as
+        is&quot; and solely for informational purposes, not for trading purposes or
+        advice.\n     <br>To see all exchange delays and terms of use, please see
+        <a style=\"text-decoration: underline\" href=\"https://www.barchartmarketdata.com/terms\"
+        target=\"terms\" rel=\"nofollow\">disclaimer.</a></font></p>\n     <p><font
+        size=\"-2\">Concerned about privacy? See <a href=\"/privacy_statement.php\">TradingCharts'
+        Privacy Statement</a></font></p>\n     <p><font size=\"-2\"><a href=\"/privacy_statement.php#IC_CCPA_Application\">Do
+        not sell my personal information</a></font></p>\n\n</td>\n<td class=\"fm_cme_footer\">\n<a
+        target=\"cmegroup\" href=\"https://www.cmegroup.com/\"><img src=\"/graphics/cmegroup-logo-2xinvers181x.png\"
+        border=\"0\" width=\"181\" height=\"28\"></a>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\">\n\n
+        \    <script type=\"text/javascript\">\n        $(document).ready(function(){\n
+        \         generateTCPSLink();\n        });\n\n        function generateTCPSLink(){\n
+        \         var root = location.protocol + '//' + location.host;\n\n          var
+        url_param = {\n            action:'tcps_logged_in',\n            timestamp:
+        (new Date()).getTime()\n          };\n\n          $.getJSON(root+'/widgets/footer_ajax/footer_common_functions.php?'+$.param(url_param),function(data){\n
+        \           if(data.logged_in){\n              $('span#tcps_link').html(\"Logout:<br>&nbsp;<a
+        href='\"+root+\"/premium_subscriber/tcps_logout.php\"+\"'>Premium Subscriber</a><br>\");\n
+        \             $('.mobile_login').html(\"Premium Subscriber:<a href='\"+root+\"/premium_subscriber/tcps_logout.php\"+\"'>Logout</a><br>\");\n\n
+        \           }else{\n              $('span#tcps_link').html(\"Login:<br>&nbsp;<a
+        href='\"+root+\"/premium_subscriber/login_subscribe.php?premium_link\"+\"'>Premium
+        Subscriber</a><br>\");\n\n\n              $('.mobile_login').html(\"Premium
+        Subscriber:<a href='\"+root+\"/premium_subscriber/login_subscribe.php?premium_link\"+\"'>Login</a><br>\");
+        \n\n            }\n          });\n        }\n     </script>\n     <div id=\"members_classic\">\n
+        \      <span id=\"tcps_link\"></span>\n     </div>\n\n\n\n     \n   </td>\n
+        \ </tr>\n</table>\n\n<!-- GA -->\n<script type=\"text/javascript\">\n var
+        gaJsHost = \"//www.\";\n document.write(unescape(\"%3Cscript src='\" + gaJsHost
+        + \"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E\"));\n</script>\n<script
+        type=\"text/javascript\">\n  try {\n    var pageTracker = _gat._getTracker(\"UA-4733565-2\");\n
+        \   pageTracker._addIgnoredRef(\"futures.tradingcharts.com\");\n    pageTracker._addIgnoredRef(\"data.tradingcharts.com\");\n
+        \   pageTracker._addIgnoredRef(\"news.tradingcharts.com\");\n    pageTracker._addIgnoredRef(\"tradingcharts.com\");\n
+        \   pageTracker._addIgnoredRef(\"quotes.tradingcharts.com\");\n    pageTracker._setAllowHash(false);\n
+        \   pageTracker._setDomainName(\".tradingcharts.com\");\n    pageTracker._setLocalRemoteServerMode();\n
+        \   pageTracker._setCustomVar(1, \"UserType\", \"FE_Standard\", 1);\n    pageTracker._setCustomVar(2,
+        \"ResponsiveTest\", \"Using_Responsive\", 1);\n    pageTracker._trackPageview();\n
+        \ } catch(err) {}\n</script>\n\n<script>\n$( document ).ready(function() {\n
+        \   $('.fm_nav_hamburger span').bind('click', function(e){\n          e.stopPropagation();\n
+        \         $(this).toggleClass(\"active\");\n          $(\".fm_nav_bar\").toggleClass(\"show\");\n
+        \         $(\".fm_chart_sidecol_toggle\").toggleClass(\"active\");\n          $(\".fm_chart_sidecol\").removeClass('show');\n
+        \         mobile_overlap($(\".fm_nav_bar\").hasClass('show'));\n    });\n\n
+        \   $('.fm_chart_sidecol_toggle').bind('click', function(e){\n          e.stopPropagation();\n
+        \                   $(\".fm_nav_hamburger span\").removeClass(\"active\");\n
+        \         $(\".fm_chart_sidecol\").toggleClass('show');\n           $(\".fm_nav_bar\").removeClass(\"show\");\n
+        \         mobile_overlap($(\".fm_chart_sidecol\").hasClass('show'));\n    });\n\n
+        \           $('.f-chart-term b, .f-chart-format b, .f-chart-format #advancedcharts_session_select_label,
+        .m-chart-insights b, .fm_quicklinks h3, .fm_premiumfeats b, .f-market-viewby
+        .f-market-viewby-label, .m-news-section strong').click(function() {\n                console.log('click');\n
+        \               $(this).toggleClass('m-fullwidth');\n                $(this).next('div').toggleClass('m-hidden');\n
+        \               $(this).next('ul').toggleClass('m-hidden');\n                $(this).next('div').children('label').toggleClass('open');\n
+        \               $(this).next('ul').children('li').toggleClass('open');\n            });\n
+        \           $('.f-chart-profile > b, .m-chart-trendline > b, .education_section
+        > strong').click(function() {\n                console.log('click');\n                $(this).parent('div').toggleClass('open');\n
+        \           });\n            $('.m-chart-insights > div.m-hidden').click(function()
+        {\n                console.log('click');\n                $(this).prev('b').toggleClass('m-fullwidth');\n
+        \               $(this).removeClass('m-hidden');\n                $(this).children('label').toggleClass('open');\n
+        \           });\n});\n\nfunction mobile_overlap(show) {\n    if (show ===
+        false) {\n        $('#m-overlap').remove();\n        return;\n    }\n\n    if
+        ($('#m-overlap').length) return;\n\n    var $div = $('<div />').appendTo('body');\n
+        \   $div.attr('id', 'm-overlap');\n\n    $div.bind('click', function(e){\n
+        \         e.stopPropagation();\n          console.log('click');\n          closeMenus();\n
+        \   });\n}\n\nfunction closeMenus() {\n          $(\".fm_nav_hamburger span\").removeClass(\"active\");\n
+        \       $(\".fm_chart_sidecol\").removeClass(\"show\");\n        $(\".fm_chart_sidecol_toggle\").removeClass(\"active\");\n
+        \       $(\".fm_nav_bar\").removeClass(\"show\");\n        $(\".fm_nav_hamburger\").removeClass(\"active\");\n
+        \       $('#m-overlap').remove();\n}\n\n</script>\n\n<!-- END GA -->\n<style>\n/*Footer
+        Close State */\n#dmgfooterclosestate {\n    display: none;\n    position:
+        fixed;\n    bottom: 0;\n    left: 50%;\n    margin-left: 468px;\n    width:
+        20px;\n    padding: 3px;\n}\n/*Footer Open State */\n#dmgfooter {\n    position:
+        fixed;\n    bottom: 0;\n    left: 50%;\n    margin-left: -490px;\n    width:
+        980px;\n    padding: 3px;\n}\n/*Set Properties of Footer */\n.dmgfooterProp
+        {\n    /*Set Fonts and Colors */\n    font-family: Helvetica, Arial, san-serif;\n
+        \   font-size: 12px;\n    line-height: 18px;\n    /*Set Curve Radius */\n
+        \   border-top-right-radius: 5px;\n    border-top-left-radius: 5px;\n    border:
+        1px solid #666; border-bottom: none;\n    /*Set Shadow */\n    box-shadow:
+        0px 0px 8px rgba(0, 0, 0, 0.80);\n    -moz-box-shadow: 0px 0px 8px rgba(0,
+        0, 0, 0.80);\n    -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.80);\n    /*Set
+        Background Gradient */\n    background: #ffffff; /* Old browsers */\n    background:
+        -moz-linear-gradient(top,  #ffffff 0%, #d0d0d0 100%); /* FF3.6+ */\n    background:
+        -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#d0d0d0));
+        /* Chrome,Safari4+ */\n    background: -webkit-linear-gradient(top,  #ffffff
+        0%,#d0d0d0 100%); /* Chrome10+,Safari5.1+ */\n    background: -o-linear-gradient(top,
+        \ #ffffff 0%,#d0d0d0 100%); /* Opera 11.10+ */\n    background: -ms-linear-gradient(top,
+        \ #ffffff 0%,#d0d0d0 100%); /* IE10+ */\n    background: linear-gradient(top,
+        \ #ffffff 0%,#d0d0d0 100%); /* W3C */\n    filter: progid:DXImageTransform.Microsoft.gradient(
+        startColorstr='#ffffff', endColorstr='#d0d0d0',GradientType=0 ); /* IE6-9
+        */\n    /* Clearfix (all browsers) */\n    #dmgfooter:after {content: \".\";display:
+        block;height: 0;clear: both;visibility: hidden;}/* IE6 */ * html #dmgfooter
+        {height: 1%;}/* IE7 */*:first-child+html #dmgfooter {min-height: 1px;}\n}\n\n/*
+        Quote Sections */\n.ftsection {\n    padding: 5px;\n    border-left: 1px solid
+        #FFF;\n    border-right: 1px solid #CCC;\n    float: left;\n    text-align:
+        left;\n}\n.ftfirst {border-left: none;}\n.ftlast {border-right: none; float:
+        right;}\n.ftpositive {color: #006600;}\n.ftnegative {color: #CC0000;}\n.ftqt
+        {font-weight: normal; color: #666;}\n.ftqt a{color: #0066CB; text-decoration:
+        none;}\n.ftqt a:hover{text-decoration: underline;}\n.ftad {margin-top: -3px;
+        margin-bottom: -3px;}\n.ftnewsltter {border-right: none;}\n</style>\n\n<!--UdmComment-->\n<div
+        class=\"stickyfooter201609\"></div>\n<!--[if IE 6]>\n    <style>#dmgfooter
+        {display: none;}</style>\n<![endif]-->\n\n<!-- Footer Open/Close Function
+        -->\n<script type=\"text/javascript\">\n$(document).ready(function(){\n    displayFooterQuotes();\n\n
+        \   $(\".ftclosefunction\").click(function () {\n        $(\"#dmgfooter\").slideToggle(\"fast\");\n
+        \       $(\"#dmgfooterclosestate\").slideToggle(\"fast\");\n    });\n});\n\nfunction
+        displayFooterQuotes() {\n    var strSymbols = \"CL*0,NG*0,ZC*0,CT*0,GC*0,HG*0,E6*0,DX*0,ES*0,YM*0\";\n\n
+        \   var barchart_api_url = bc_api_base_url+'/getQuote.json';\n    var params
+        = {apikey:bc_apik,only:'symbol,name,lastPrice,netChange,tradeTimestamp', symbols:strSymbols};\n\n
+        \   $.ajax({\n        dataType: \"json\",\n        url: barchart_api_url,\n
+        \       type: \"POST\",\n        data: params,\n        async: true,\n        success:
+        function(resQ) {\n            var fLtCrudePrice;\n            var fNatGasPrice;\n
+        \           var fCornPrice;\n            var fCottonPrice;\n            var
+        fGoldPrice;\n            var fCopperPrice;\n            var fEuroPrice;\n
+        \           var fUSDPrice;\n            var fSPMiniPrice;\n            var
+        fDJIAPrice;\n\n            var sLtCrudeClass;\n            var sNatGasClass;\n
+        \           var sCornClass;\n            var sCottonClass;\n            var
+        sGoldClass;\n            var sCopperClass;\n            var sEuorClass;\n
+        \           var sUSDClass;\n            var sSPMiniClass;\n            var
+        sDJIAClass;\n\n            if (resQ.results) {\n                dataTicker
+        = resQ.results;\n\n                $.each(dataTicker, function(key,value)
+        {\n                    var baseSymbol = value.symbol.substr(0, 2);\n\n                    if
+        (baseSymbol=='CL') {\n                        fLtCrudePrice = (value.lastPrice==0
+        ? \"<center>-</center>\" : value.lastPrice);\n                        sLtCrudeClass
+        = (value.netChange >= 0 ? \"ftpositive\" : \"ftnegative\");\n                    }\n
+        \                   if (baseSymbol=='NG') {\n                        fNatGasPrice
+        = (value.lastPrice==0 ? \"<center>-</center>\" : value.lastPrice);\n                        sNatGasClass
+        = (value.netChange >= 0 ? \"ftpositive\" : \"ftnegative\");\n                    }\n
+        \                   if (baseSymbol=='ZC') {\n                        fCornPrice
+        = (value.lastPrice==0 ? \"<center>-</center>\" : value.lastPrice);\n                        sCornClass
+        = (value.netChange >= 0 ? \"ftpositive\" : \"ftnegative\");\n                    }\n
+        \                   if (baseSymbol=='CT') {\n                        fCottonPrice
+        = (value.lastPrice==0 ? \"<center>-</center>\" : value.lastPrice);\n                        sCottonClass
+        = (value.netChange >= 0 ? \"ftpositive\" : \"ftnegative\");\n                    }\n
+        \                   if (baseSymbol=='GC') {\n                        fGoldPrice
+        = (value.lastPrice==0 ? \"<center>-</center>\" : value.lastPrice);\n                        sGoldClass
+        = (value.netChange >= 0 ? \"ftpositive\" : \"ftnegative\");\n                    }\n
+        \                   if (baseSymbol=='HG') {\n                        fCopperPrice
+        = (value.lastPrice==0 ? \"<center>-</center>\" : value.lastPrice);\n                        sCopperClass
+        = (value.netChange >= 0 ? \"ftpositive\" : \"ftnegative\");\n                    }\n
+        \                   if (baseSymbol=='E6') {\n                        fEuroPrice
+        = (value.lastPrice==0 ? \"<center>-</center>\" : value.lastPrice);\n                        sEuroClass
+        = (value.netChange >= 0 ? \"ftpositive\" : \"ftnegative\");\n                    }\n
+        \                   if (baseSymbol=='DX') {\n                        fUSDPrice
+        = (value.lastPrice==0 ? \"<center>-</center>\" : value.lastPrice);\n                        sUSDClass
+        = (value.netChange >= 0 ? \"ftpositive\" : \"ftnegative\");\n                    }\n
+        \                   if (baseSymbol=='ES') {\n                        fSPMiniPrice
+        = (value.lastPrice==0 ? \"<center>-</center>\" : value.lastPrice);\n                        sSPMiniClass
+        = (value.netChange >= 0 ? \"ftpositive\" : \"ftnegative\");\n                    }\n
+        \                   if (baseSymbol=='YM') {\n                        fDJIAPrice
+        = (value.lastPrice==0 ? \"<center>-</center>\" : value.lastPrice);\n                        sDJIAClass
+        = (value.netChange >= 0 ? \"ftpositive\" : \"ftnegative\");\n                    }\n
+        \               });\n\n                var sHTML = '';\n                sHTML
+        += '<div class=\"ftsection\">';\n                sHTML += '<span class=\"ftqt\"><a
+        href=\"/marketquotes/CL_.html\">Lt Crude</a></span> <span class=\"'+sLtCrudeClass+'\">'+fLtCrudePrice+'</span><br
+        />';\n                sHTML += '<span class=\"ftqt\"><a href=\"/marketquotes/NG_.html\">Nat
+        Gas</a></span> <span class=\"'+sNatGasClass+'\">'+fNatGasPrice+'</span></div>';\n
+        \               sHTML += '<div class=\"ftsection\">';\n                sHTML
+        += '<span class=\"ftqt\"><a href=\"/marketquotes/C.html\">Corn</a></span>
+        <span class=\"'+sCornClass+'\">'+fCornPrice+'</span><br />';\n                sHTML
+        += '<span class=\"ftqt\"><a href=\"/marketquotes/CT.html\">Cotton #2</a></span>
+        <span class=\"'+sCottonClass+'\">'+fCottonPrice+'</span></div>';\n                sHTML
+        += '<div class=\"ftsection\">';\n                sHTML += '<span class=\"ftqt\"><a
+        href=\"/marketquotes/GC_.html\">Gold</a></span> <span class=\"'+sGoldClass+'\">'+fGoldPrice+'</span><br
+        />';\n                sHTML += '<span class=\"ftqt\"><a href=\"/marketquotes/HG_.html\">Copper</a></span>
+        <span class=\"'+sCopperClass+'\">'+fCopperPrice+'</span></div>';\n                sHTML
+        += '<div class=\"ftsection\">';\n                sHTML += '<span class=\"ftqt\"><a
+        href=\"/marketquotes/E6.html\">Euro</a></span> <span class=\"'+sEuroClass+'\">'+fEuroPrice+'</span><br
+        />';\n                sHTML += '<span class=\"ftqt\"><a href=\"/marketquotes/DX.html\">USD
+        Index</a></span> <span class=\"'+sUSDClass+'\">'+fUSDPrice+'</span></div>';\n
+        \               sHTML += '<div class=\"ftsection\">';\n                sHTML
+        += '<span class=\"ftqt\"><a href=\"/marketquotes/ES.html\">SP500 E-mini</a></span>
+        <span class=\"'+sSPMiniClass+'\">'+fSPMiniPrice+'</span><br />';\n                sHTML
+        += '<span class=\"ftqt\"><a href=\"/marketquotes/YM.html\">DJIA E-mini</a></span>
+        <span class=\"'+sDJIAClass+'\">'+fDJIAPrice+'</span></div>';\n\n                document.getElementById('divStickyFooterQuotes').innerHTML
+        = sHTML;\n            }\n        }\n    });\n}\n</script>\n\n<!-- Sticky Footer
+        Code -->\n<div id=\"dmgfooter\" class=\"dmgfooterProp\">\n    <div class=\"ftsection
+        ftad ftfirst\">\n<!-- slot for ad -->\n    </div>\n    <!-- begin quotes -->\n
+        \   <div id=\"divStickyFooterQuotes\"></div>\n        <!-- end quotes -->\n
+        \   <div class=\"ftsection fitad ftnewsltter\" style=\"margin-left:50px; border-left:0px\">\n<div
+        id=\"ic_300x50_bts\">\n</div>\n    </div>\n    <div class=\"ftsection ftlast\"><a
+        href=\"#footerclose\" class=\"ftclosefunction\"><img src=\"//static.tradingcharts.com/graphics/close_icon_stickyfooter.gif\"
+        alt=\"close_icon\" width=\"16\" height=\"35\" border=\"0\" /></a></div>\n</div>\n\n<div
+        id=\"dmgfooterclosestate\" class=\"dmgfooterProp\">\n    <a href=\"#footeropen\"
+        class=\"ftclosefunction\"><img src=\"//static.tradingcharts.com/graphics/open_icon_stickyfooter.gif\"
+        alt=\"open_icon\" width=\"16\" height=\"15\" border=\"0\" /></a>\n</div>\n<!--/UdmComment-->\n<!--
+        End Sticky Footer Code -->\n\n<script src=\"/js/showad.php?zoneid=234\"></script>\n<script
+        type=\"text/javascript\">\nif(!(document.getElementById('ad-containerMx192x'))){\n
+        \ window.dataLayer = window.dataLayer || []; // for Google Analtyics. Generates
+        custom event.\n  window.dataLayer.push({\n  'event': 'Ad_Bl0cker','InUse':
+        'Yes'\n  });\n  var mrABMessage_top_Div = document.getElementById(\"mrABMessage_top_40593\");\n
+        \ var mrABMessage_box_Div = document.getElementById(\"mrABMessage_box_40593\");\n
+        \ var mrABMessageContent = '<style>div[id^=\"mrABMessage_box_\"] .adblock_buttons
+        td{display:block} div[id^=\"mrABMessage_box_\"] .adblock_title{ line-height:
+        1 !important;} </style><div style=\"text-align: center;background:#444444;color:#ffffff;padding:1em;\"><table
+        style=\"margin:auto;\"><tr><td><img src=\"/graphics/blocked.png\" style=\"display:inline-block;
+        height:40px; width:40px;\"></td><td><div class=\"adblock_title\" style=\"display:inline-block;font-size:30px;
+        line-height:40px; padding-left:0.5em; color:#fff\">Ad Blocker Detected</div></td></tr></table><p>We
+        notice that you are using an Ad Blocker in your browser. This site is funded
+        solely by revenue generated through advertisements and our Premium Subscription
+        service. We are committed to providing you with industry-leading content,
+        but cannot do so without your help.</p><p>Please disable your Ad Blocker for
+        TradingCharts.com, or <a style=\"color:#FFFFFF; text-decoration:underline;\"
+        href=\"/premium_subscriber/no-more-ads.php\">become a Premium Member</a>.</p><table
+        class=\"adblock_buttons\" style=\"text-align: center; width:100%;\"><tr><td><div
+        style=\"font-size:0.9em;padding-top: .3em;\">Yes, I disabled my ad blocker
+        for this site</div><a href=\"javascript:location.reload(true)\" style=\"border:2px
+        solid #76b851;border-radius:5px;background:#76b851;padding: 2px 24px;margin-bottom:
+        10px;text-align: center;font-size: 1.4em;color: #fff;display: inline-block;margin:
+        0.3em 2em;padding-top: 0.3em;padding-bottom: .3em;text-decoration:none !important;
+        text-shadow:1px 1px 3px rgba(0, 0, 0, 0.49);\">Ad Blocker Now Disabled</a></td><td><div
+        style=\"font-size:0.9em;padding-top: .3em;\"\">Yes, I\\'d like to subscribe
+        to support TradingCharts</div><a href=\"/premium_subscriber/no-more-ads.php\"
+        style=\"border:2px solid #5bc0df;border-radius:5px;background:#5bc0df;padding:
+        2px 24px;margin-bottom: 10px;text-align: center;font-size: 1.4em;color: #fff;display:
+        inline-block;margin: 0.3em 2em;padding-top: 0.3em;padding-bottom: .3em;text-decoration:none
+        !important; text-shadow:1px 1px 3px rgba(0, 0, 0, 0.49);\">Become a Premium
+        Subscriber</a></td></tr></table>';\n  mrABMessage_top_Div.innerHTML=mrABMessageContent;\n
+        \ mrABMessage_box_Div.innerHTML=mrABMessageContent;\n  mrABMessage_top_Div.style.display=\"block\";\n
+        \ mrABMessage_box_Div.style.display=\"block\";\n}else{\n  window.dataLayer
+        = window.dataLayer || []; // for Google Analtyics. Generates custom event.\n
+        \ window.dataLayer.push({\n  'event': 'NoAd_Bl0cker','InUse': 'No'\n  });\n}\n</script></body>\n</html>"
+    headers:
+      Cache-Control:
+      - max-age=605800
+      Connection:
+      - Keep-Alive
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Thu, 12 Nov 2020 16:47:37 GMT
+      Expires:
+      - Thu, 19 Nov 2020 17:04:17 GMT
+      Keep-Alive:
+      - timeout=15, max=100
+      P3P:
+      - policyref="/w3c/p3p.xml", CP="NOI DSP COR DEVa TAIa OUR BUS UNI"
+      Server:
+      - Apache/2.2.15 (CentOS)
+      Vary:
+      - Accept-Encoding,User-Agent
+      content-length:
+      - '104216'
+    status:
+      code: 200
+      message: OK
+version: 1

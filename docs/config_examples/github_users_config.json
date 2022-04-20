@@ -1,0 +1,49 @@
+{
+    "meta": {
+        "settings": {
+              "middlewares": {
+                "PROXY_ENABLED": false
+              },
+              "pipelines": {
+                "SENTIMENT_CLASSIFICATION": false,
+                "TOPIC_CLASSIFICATION": false,
+                "TO_API": false,
+                "TO_FILE": true,
+                "TO_S3": false,
+                "TO_SLACK": false
+              }
+        },
+        "users": [
+            "adrian369",
+            "AgBloxMachineUser",
+            "akurzhan",
+            "AzkaMinhas",
+            "ClaudioLicht",
+            "Cllorens9",
+            "daniyaltariq",
+            "eshulyak",
+            "forsaaan",
+            "FrancescoBini",
+            "IaroslavR",
+            "icune",
+            "indenseo",
+            "jpfyoder",
+            "katherine-Dunn",
+            "LeifOfWilsonCreek",
+            "ljbutterw",
+            "master-i-x",
+            "mjmarra",
+            "mmamedli",
+            "Nimrais",
+            "olgakanishcheva",
+            "RossBott47",
+            "Serega6678",
+            "sjlazaris",
+            "tbosch82",
+            "vwbrady",
+            "Yailama",
+            "yugri",
+            "zhelyazik"
+        ]
+    }
+}

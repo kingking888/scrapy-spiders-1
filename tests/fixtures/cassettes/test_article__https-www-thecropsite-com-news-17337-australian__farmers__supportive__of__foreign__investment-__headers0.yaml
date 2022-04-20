@@ -1,0 +1,379 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - thecropsite.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.thecropsite.com/news/17337/australian-farmers-supportive-of-foreign-investment/
+  response:
+    body:
+      string: "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"\
+        http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"\
+        http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\"><head><meta http-equiv=\"\
+        Content-Type\" content=\"text/html; charset=utf-8\" /><link rel=\"shortcut\
+        \ icon\" href=\"/favicon.ico\" type=\"image/x-icon\" /><title>Australian Farmers\
+        \ Supportive of Foreign Investment - The Crop Site</title><meta name=\"description\"\
+        \ content=\"AUSTRALIA- Farmers from Western Australia are overwhelmingly supportive\
+        \ of Chinese and other foreign investment, new research has revealed.\" /><base\
+        \ href=\"/news/\" /><link rel=\"alternate\" type=\"application/rss+xml\" title=\"\
+        RSS - News\" href=\"/rss/news.php\" /><link rel=\"alternate\" type=\"application/rss+xml\"\
+        \ title=\"RSS - Articles\" href=\"/rss/articles.php\" /><link rel=\"alternate\"\
+        \ type=\"application/rss+xml\" title=\"RSS - Articles + News\" href=\"/rss/all.php\"\
+        \ /><link type=\"text/css\" rel=\"stylesheet\" href=\"/css/ui/jquery-ui.css\"\
+        \ media=\"all\" /><link type=\"text/css\" rel=\"stylesheet\" href=\"/css/global.css?1503495380\"\
+        \ media=\"all\" /><link type=\"text/css\" rel=\"stylesheet\" href=\"/css/jquery.colorbox.css?1503495381\"\
+        \ media=\"all\" /><link type=\"text/css\" rel=\"stylesheet\" href=\"/css/editor-content.css?1503495380\"\
+        \ media=\"all\" /><link type=\"text/css\" rel=\"stylesheet\" href=\"/css/jquery.megamenu.css?1503495381\"\
+        \ media=\"all\" /><link type=\"text/css\" rel=\"stylesheet\" href=\"/css/skin-2012.css?1503495381\"\
+        \ media=\"all\" /><!--[if IE 6]><link type=\"text/css\" rel=\"stylesheet\"\
+        \ href=\"/css/ie6.css?1503495381\" media=\"all\" /><![endif]--><script type=\"\
+        text/javascript\" src=\"/js/jquery.js\"></script><script type=\"text/javascript\"\
+        \ src=\"/js/jquery-ui.js\"></script><script type=\"text/javascript\" src=\"\
+        /js/jquery.colorbox.js?1503495381\"></script><script type=\"text/javascript\"\
+        \ src=\"/js/global.js?1503495381\"></script><script type=\"text/javascript\"\
+        \ src=\"/js/jquery.megamenu.js?1503495381\"></script><script type=\"text/javascript\"\
+        \ src=\"/js/headerslideshow.js?1503495381\"></script><script type=\"text/javascript\"\
+        \ src=\"/js/sitesdropdown.js?1503495382\"></script><script type=\"text/javascript\"\
+        \ src=\"/js/menuactive.js?1503495382\"></script><script type=\"text/javascript\"\
+        \ src=\"/js/headlineimages.js?1503495381\"></script><script type=\"text/javascript\"\
+        \ src=\"/functions.js?1503495381\"></script><script type=\"text/javascript\"\
+        >$(document).ready(function(){$(\".group1\").colorbox({rel:'group1'});});</script><meta\
+        \ name=\"google-site-verification\" content=\"awuAzlCLuSqMEOM4lQxznEy27zDM9IOYqRx1lpfZfIY\"\
+        \ />\r<script type=\"text/javascript\">\r  var _gaq = _gaq || [];\r  _gaq.push(['_setAccount',\
+        \ 'UA-201394-39']);\r  _gaq.push(['_setCustomVar', 1, 'Author', 'Lucy', 3]);\
+        \  _gaq.push(['_setCustomVar', 2, 'Content type', 'Press Release', 3]);  _gaq.push(['_setCustomVar',\
+        \ 3, 'View date', '2020-12-04', 3]);  _gaq.push(['_setCustomVar', 4, 'Live\
+        \ date', '2015-02-13', 3]);    _gaq.push(['_trackPageview']);\r\r  (function()\
+        \ {\r    var ga = document.createElement('script'); ga.type = 'text/javascript';\
+        \ ga.async = true;\r    ga.src = ('https:' == document.location.protocol ?\
+        \ 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\r    var\
+        \ s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga,\
+        \ s);\r  })();\r</script>\r<meta property=\"og:description\" content=\"AUSTRALIA-\
+        \ Farmers from Western Australia are overwhelmingly supportive of Chinese\
+        \ and other foreign investment, new research has revealed.\" /><meta property=\"\
+        og:title\" content=\"Australian Farmers Supportive of Foreign Investment\"\
+        \ /><meta property=\"og:image\" content=\"http://www.thecropsite.com/images/cropsiteFacebook.jpg\"\
+        \ /><meta property=\"og:site_name\" content=\"The Crop Site\" /></head><body><script>\n\
+        (function(d, s, id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if\
+        \ (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n\
+        \  js.src = \"//connect.facebook.net/en_US/all.js#xfbml=1\";\n  fjs.parentNode.insertBefore(js,\
+        \ fjs);\n}(document, 'script', 'facebook-jssdk'));\n</script><div id=\"newSitelayout\"\
+        ><div id=\"personal\"><div id=\"personalone\"><div class=\"toplogin\"><a href=\"\
+        /users/register.php\" style=\"padding-left: 0;\">Subscribe</a> | <a href=\"\
+        /marketing/\">Marketing Packages</a> | <a href=\"/focus/34/\">Cookie Law</a>\
+        \ |</div></div>  <!-- personal col1 end --><div id=\"personaltwo\"><ul id=\"\
+        sitelinksnav\">\n    <li><a href=\"#\">Our sites <img src=\"/images/down_arrow.gif\"\
+        \ alt=\"\" /></a>\n        <ul>\n            <li><a href=\"https://www.thepigsite.com\"\
+        \ title=\"ThePigSite\">ThePigSite</a></li>\n            <li><a href=\"https://www.thepoultrysite.com\"\
+        \ title=\"ThePoultrySite\">ThePoultrySite</a></li>\n            <li><a href=\"\
+        https://www.thecattlesite.com\" title=\"TheCattleSite\">TheCattleSite</a></li>\n\
+        \            <li><a href=\"https://www.thedairysite.com\" title=\"TheDairySite\"\
+        >TheDairySite</a></li>\n            <li><a href=\"https://www.thebeefsite.com\"\
+        \ title=\"TheBeefSite\">TheBeefSite</a></li>\n            <li><a href=\"https://www.themeatsite.com\"\
+        \ title=\"TheMeatSite\">TheMeatSite</a></li>\n            <li><a href=\"https://www.thecropsite.com\"\
+        \ title=\"TheCropSite\">TheCropSite</a></li>\n            <li><a href=\"https://www.elsitioavicola.com\"\
+        \ title=\"ElSitioAvicola\">ElSitioAvicola</a></li>\n            <li><a href=\"\
+        https://www.elsitioporcino.com\" title=\"ElSitioPorcino\">ElSitioPorcino</a></li>\n\
+        \     </ul>\n    </li>\n</ul>\n</div><div id=\"personalthree\"><!--<div class=\"\
+        topsearch\">\n    <form action=\"/search/\" method=\"get\">\n        <div\
+        \ style=\"float: left;\">\n            <input type=\"hidden\" name=\"cat\"\
+        \ value=\"0\" />\n            <input name=\"q\" type=\"text\" title=\"Search\
+        \ here\" maxlength=\"255\" class=\"default_input_text\" />\n        </div>\n\
+        \        <div class=\"searchbutton\"><input type=\"image\" src=\"/images/searchicon.png\"\
+        \ /></div>\n    </form>\n</div>\n--><style>\n\t\t\t.cse form.gsc-search-box,\
+        \ form.gsc-search-box {\n\t\t\t\tpadding-top: 0px;\n\t\t\t\tpadding-bottom:\
+        \ 0px;\n\t\t\t}\n\t\t\t.cse .gsc-control-cse, .gsc-control-cse {\n\t\t\t\t\
+        padding: 0;\n\t\t\t\twidth: 300px;\n\t\t\t\tfloat: right;\n\t\t\t}\n\t\t\t\
+        .cse input.gsc-input, input.gsc-input {\n\t\t\t\twidth: 210px;\n\t\t\t\tpadding-left:\
+        \ 0;\n\t\t\t\tpadding-right: 0;\n\t\t\t}\n\t\t\t\n\t\t\t.cse input.gsc-input,\
+        \ input.gsc-input\n\t\t\t\n\t\t\tdiv.gsc-clear-button {\n\t\t\t\tdisplay:\
+        \ none;\n\t\t\t}\n\t\t\t\n\t\t\tinput.gsc-search-button {\n\t\t\t\tmargin:\
+        \ 0;\n\t\t\t}\n\t\t\t</style><div><script>\n   (function() {\n    var cx =\
+        \ '007324060020071750295:rwmdl0ln_ju';\n    var gcse = document.createElement('script');\n\
+        \    gcse.type = 'text/javascript';\n    gcse.async = true;\n    gcse.src\
+        \ = 'https://cse.google.com/cse.js?cx=' + cx;\n    var s = document.getElementsByTagName('script')[0];\n\
+        \    s.parentNode.insertBefore(gcse, s);\n  })();\n\t\t\t</script><gcse:search></gcse:search></div><div\
+        \ style=\"float: right; margin-top:4px; margin-right: 10px;\"><a href=\"https://twitter.com/thecropsite\"\
+        \ class=\"twitter-follow-button\" data-show-count=\"false\" data-show-screen-name=\"\
+        false\" style=\"margin-top:4px;\">Follow @thecropsite</a><script>!function(d,s,id){var\
+        \ js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,\
+        \ 'script', 'twitter-wjs');</script></div><div style=\"margin-top:4px;margin-right:10px;\
+        \ float: right;\"><div class=\"fb-like\" data-href=\"https://www.facebook.com/TheCropSite\"\
+        \ data-layout=\"button_count\" data-action=\"like\" data-show-faces=\"false\"\
+        \ data-share=\"false\"></div></div></div>   <!-- personal col3 end --></div>\
+        \  <!-- personal end --><div id=\"topsponsor\"><div id=\"headerBanner\"><script\
+        \ type=\"text/javascript\" src=\"/js/banner.php?\"></script></div></div> <!--\
+        \ top sponsor end --><div id=\"branding\"><div id=\"brandingone\"><h1><a href=\"\
+        /\"><img src=\"/images/logo-crop.svg\" height=\"60\" alt=\"TheCropSite.com-\
+        \ news, features, articles and disease information for the crop industry\"\
+        \ title=\"TheCropSite.com- news, features, articles and disease information\
+        \ for the crop industry\" border=\"0\"/></a></h1></div>  <!-- branding col1\
+        \ end --><!--<div id=\"brandingtwo\"><a href=\"/marketing/\"><img src=\"/images/5m_banner.gif\"\
+        \ alt=\"TheCropSite.com\" title=\"TheCropSite.com\" border=\"0\"></a></div>-->\
+        \  <!-- branding col2 end --><div id=\"brandingthree\"><script language=\"\
+        javascript\" type=\"text/javascript\" src=\"/js/topads.php?section=3\"></script><!--<script\
+        \ type=\"text/javascript\" src=\"/js/internal.php?section=1\"></script><div\
+        \ id=\"headerslideshow\"><a href=\"/marketing\"><img src=\"/images/headeradverts/header_sponsor.jpg\"\
+        \ alt=\"Sponsor TheCropSite\" title=\"Sponsor TheCropSite\"/></a><a href=\"\
+        /users/register.php\"><img src=\"/images/headeradverts/header_newsletter.jpg\"\
+        \ alt=\"Sign up for TheCropSite weekly newsletter\" title=\"Sign up for TheCropSite\
+        \ weekly newsletter\"/></a><a href=\"/focus/76/\"><img src=\"/images/headeradverts/header_agdigital.jpg\"\
+        \ alt=\"AG Digital\" title=\"AG Digital\" /></a><a href=\"http://www.5mbooks.com\"\
+        \ target=\"_blank\"><img src=\"/images/headeradverts/header_5mbooks.jpg\"\
+        \ alt=\"5m Books.com\" title=\"5m Books.com\"/></a></div>--></div>  <!-- branding\
+        \ col3 end --></div>  <!-- branding end --><div id=\"navigation\"><div id=\"\
+        menucontainer\"><ul class=\"megamenu\" id=\"menutest\"><li><a href=\"/\"><img\
+        \ src=\"/images/homeicon.gif\" style=\"padding-top: 3px; padding-bottom: 5px;\"\
+        \ border=\"0\" alt=\"The Crop Site Homepage\" /></a></li><li><a href=\"/news/newshome.php\"\
+        >News & Analysis</a></li> <!-- News end --><li><a href=\"/articles/\">Features</a></li>\
+        \ <!-- Articles end --><li><a href=\"/marketreports/\">Markets & Reports</a></li>\
+        \ <!-- Market Reports end --><li><a href=\"/knowledge/\">Knowledge Centre</a></li>\
+        \  <!-- Knowledge Centre end --><li><a href=\"/directory/\">Business Directory</a></li>\
+        \ <!-- Business Directory end --> <!-- Events end --><!--<li><a href=\"/weather/\"\
+        >5m Retail</a></li>  Weather end --> <!-- 5m Retail end --></ul></div></div><div\
+        \ id=\"content\">\n\n<div id=\"articles1\" ><h2 class=\"titleindustry\">News</h2><div\
+        \ id=\"articlestop\"><img src='/uploads/files/slir/headline/imagelib/108_Moneytree.jpg'\
+        \ style='float: left; margin-right: 10px; border: 1px solid #CFCFCF;' alt=\"\
+        Australian Farmers Supportive of Foreign Investment\" title=\"Australian Farmers\
+        \ Supportive of Foreign Investment\"/> <!-- changed from w270-h170 to w280\
+        \ to get bigger image --><span id=\"titlebottom\"><h2 class=\"newsArticlesTitleImage\"\
+        >Australian Farmers Supportive of Foreign Investment</h2><span class=\"newsdate\"\
+        >13 February 2015</span></span></div>  <!-- articles top end --><div class=\"\
+        clear\"></div><!--<div style=\"float:right; margin-left:8px;\"><a href=\"\
+        /news/\"><img src=\"/images/cropsitenews.png\" width=\"90\" height=\"60\"\
+        \ border=\"0\" alt=\"TheCropSite Newsdesk\"></a></div>-->\r\n\r\n<p><b>AUSTRALIA-\
+        \ Farmers from Western Australia are overwhelmingly supportive of Chinese\
+        \ and other foreign investment, new research has revealed.</b></p><p>Despite\
+        \ researchers expecting farmers from WA's wheatbelt to say foreign investment\
+        \ had destroyed local employment opportunities and caused a detrimental rise\
+        \ to land prices, they said much the opposite.</p>\r\n<p>The research sought\
+        \ a grassroots perspective with bankers, property managers, government department\
+        \ staff members and farmers taking part.</p>\r\n<p>\"The most interesting\
+        \ results were from the farmers,\" said Dr Marit Kragt, an assistant professor\
+        \ at the School of Agriculture and Resource Economics at the University of\
+        \ Western Australia</p>\r\n<p>\"We expected them to be quite critical of foreign\
+        \ investment, we expected people to say 'oh they're buying up our land and\
+        \ there 's all these foreigners coming to work on the farms,' but that wasn't\
+        \ the case at all.\"</p>\r\n<p>\"We actually didn't find any prejudice against\
+        \ investment from specific countries.\"</p>\r\n<p>\"There is a lot of investment\
+        \ from Arabic countries and (south- east Asian countries) that you don't hear\
+        \ much about.\"</p>\r\n<p>\"Most of the media attention is on investors from\
+        \ China but there wasn't that many in the wheatbelt where we looked.\"</p>\r\
+        \n<p>Researchers expecting farmers to complain that foreign investment had\
+        \ taken jobs away from local people instead were told that the corporate businesses\
+        \ had hired local farmers, local farm managers, bought the inputs from the\
+        \ local area where possible and generated jobs for families.</p>\r\n<p>Farmers\
+        \ also said natural resources were managed well.</p>\r\n<p>Dr Kragt said foreign\
+        \ investment was particularly helpful to those looking to enter the industry.</p>\r\
+        \n<p>\"If you're just starting out it might be positive to have foreign investment\
+        \ if you're able to lease a foreign-owned farm or foreign-owned land, because\
+        \ you won't have to actually buy the land yourself,\" she said.</p>\r\n<p>The\
+        \ research will be presented to the Australian Agricultural and Resource Economic\
+        \ Society.</p>\r\n<p><em>TheCropSite News Desk</em></p><div class=\"newscategories\"\
+        > <a href=\"/news/category/61/wheat\">Wheat</a>, <a href=\"/news/category/71/general-other\"\
+        >General/Other</a>, <a href=\"/news/category/72/markets-economics\">Markets/Economics</a></div>\
+        \ <!-- newscategories end --><span class='st_facebook_large' title=\"Share\
+        \ this on Facebook\"></span>\n<span class='st_twitter_large' title=\"Share\
+        \ this on Twitter\"></span>\n<span class='st_linkedin_large' title=\"Share\
+        \ this on LinkdIn\"></span>\n<span class='st_email_large' title=\"Share this\
+        \ on Email\"></span>\n<span class='st_googleplus_large' title=\"Share this\
+        \ on Google +1\"></span><br clear=\"all\"/><br /><div class=\"dividerline\"\
+        ></div><script type=\"text/javascript\" src=\"/js/minibanner.php\"></script></div>\
+        \ <!-- articles col 1 end --><div id=\"columnthree\"><h2 class=\"titleNewsSection\"\
+        >Share This</h2><span class='st_facebook_large' title=\"Share this on Facebook\"\
+        ></span>\n<span class='st_twitter_large' title=\"Share this on Twitter\"></span>\n\
+        <span class='st_linkedin_large' title=\"Share this on LinkdIn\"></span>\n\
+        <span class='st_email_large' title=\"Share this on Email\"></span>\n<span\
+        \ class='st_googleplus_large' title=\"Share this on Google +1\"></span><h2\
+        \ class=\"titleNewsSection\">Related News</h2><div class=\"relatednews\"><h3><a\
+        \ href=\"/news/17972/crispr-technology-required-to-achieve-european-green-deal\"\
+        >CRISPR technology required to achieve European Green Deal</a></h3><div class=\"\
+        flagbar\"> <a href=\"/news/vars/country/NL\"><img src=\"/images/newsflags/nl.gif\"\
+        \ alt=\"News from Netherlands\" border=\"0\" /></a>&nbsp; <span class=\"bluetext\"\
+        >01 December 2020</span></div></div>  <div class=\"relatednews\"><h3><a href=\"\
+        /news/17969/research-promises-water-boost-for-farmers-in-india\">Research\
+        \ promises water boost for farmers in India</a></h3><div class=\"flagbar\"\
+        > <a href=\"/news/vars/country/IN\"><img src=\"/images/newsflags/in.gif\"\
+        \ alt=\"News from India\" border=\"0\" /></a>&nbsp; <span class=\"bluetext\"\
+        >16 November 2020</span></div></div>  <div class=\"relatednews\"><h3><a href=\"\
+        /news/17974/sustainable-farming-practices-trying-to-save-mediterranean-soils\"\
+        >Sustainable farming practices trying to save Mediterranean soils</a></h3><div\
+        \ class=\"flagbar\"> <a href=\"/news/vars/country/ES\"><img src=\"/images/newsflags/es.gif\"\
+        \ alt=\"News from Spain\" border=\"0\" /></a>&nbsp; <span class=\"bluetext\"\
+        >11 November 2020</span></div></div>  <div class=\"relatednews\"><h3><a href=\"\
+        /news/17971/brazil-should-set-new-production-record-in-the-2020-21-grain-harvest\"\
+        >Brazil should set new production record in the 2020/21 grain harvest</a></h3><div\
+        \ class=\"flagbar\"> <a href=\"/news/vars/country/BR\"><img src=\"/images/newsflags/br.gif\"\
+        \ alt=\"News from Brazil\" border=\"0\" /></a>&nbsp; <span class=\"bluetext\"\
+        >05 November 2020</span></div></div>  <div class=\"relatednews\"><h3><a href=\"\
+        /news/17950/a-new-approach-to-improve-biological-control-agents-of-agricultural-pests\"\
+        >A new approach to improve biological control agents of agricultural pests</a></h3><div\
+        \ class=\"flagbar\"> <a href=\"/news/vars/country/CH\"><img src=\"/images/newsflags/ch.gif\"\
+        \ alt=\"News from Switzerland\" border=\"0\" /></a>&nbsp; <span class=\"bluetext\"\
+        >02 November 2020</span></div></div>    <!-- relatednews end --><h2 class=\"\
+        titleNewsSection\">More News</h2><div class=\"relatednews\"><h3><a href=\"\
+        /news/17970/plant-scientists-study-the-interaction-of-heat-stress-responses-in-corn\"\
+        \ class=\"titleVideoEnabled\">Plant scientists study the interaction of heat\
+        \ stress responses in corn</a></h3><div class=\"flagbar\"><a href=\"/news/vars/country/US\"\
+        ><img src=\"/images/newsflags/us.gif\" alt=\"News from United States\" border=\"\
+        0\" /></a>&nbsp;&nbsp; <span class=\"bluetext\">09 November 2020</span></div></div>\
+        \ <div class=\"relatednews\"><h3><a href=\"/news/17966/corn-productivity-in-real-time-satellites-field-cameras-and-farmers-team-up\"\
+        >Corn productivity in real time: Satellites, field cameras, and farmers team\
+        \ up</a></h3><div class=\"flagbar\"><a href=\"/news/vars/country/US\"><img\
+        \ src=\"/images/newsflags/us.gif\" alt=\"News from United States\" border=\"\
+        0\" /></a>&nbsp;&nbsp; <span class=\"bluetext\">04 November 2020</span></div></div>\
+        \ <div class=\"relatednews\"><h3><a href=\"/news/17968/the-benefits-of-bringing-cattle-and-crops-together\"\
+        >The Benefits Of Bringing Cattle And Crops Together</a></h3><div class=\"\
+        flagbar\"><a href=\"/news/vars/country/CA\"><img src=\"/images/newsflags/ca.gif\"\
+        \ alt=\"News from Canada\" border=\"0\" /></a>&nbsp;&nbsp; <span class=\"\
+        bluetext\">02 November 2020</span></div></div> <div class=\"relatednews\"\
+        ><h3><a href=\"/news/17937/traditional-bamboo-system-in-korea-earns-place-on-global-ag-heritage-sites-list\"\
+        >Traditional bamboo system in Korea earns place on global ag heritage sites\
+        \ list</a></h3><div class=\"flagbar\"><a href=\"/news/vars/country/KR\"><img\
+        \ src=\"/images/newsflags/kr.gif\" alt=\"News from Korea, South\" border=\"\
+        0\" /></a>&nbsp;&nbsp; <span class=\"bluetext\">28 October 2020</span></div></div>\
+        \ <div class=\"relatednews\"><h3><a href=\"/news/17954/technology-to-screen-for-higheryielding-crop-traits-now-more-accessible\"\
+        \ class=\"titleVideoEnabled\">Technology to screen for higher-yielding crop\
+        \ traits now more accessible</a></h3><div class=\"flagbar\"><a href=\"/news/vars/country/US\"\
+        ><img src=\"/images/newsflags/us.gif\" alt=\"News from United States\" border=\"\
+        0\" /></a>&nbsp;&nbsp; <span class=\"bluetext\">26 October 2020</span></div></div>\
+        \ <div class=\"relatednews\"><h3><a href=\"/news/17965/brazil-gives-visibility-to-rural-women-contributing-to-food-production\"\
+        >Brazil gives visibility to rural women contributing to food production</a></h3><div\
+        \ class=\"flagbar\"><a href=\"/news/vars/country/BR\"><img src=\"/images/newsflags/br.gif\"\
+        \ alt=\"News from Brazil\" border=\"0\" /></a>&nbsp;&nbsp; <span class=\"\
+        bluetext\">20 October 2020</span></div></div> <div class=\"relatednews\"><h3><a\
+        \ href=\"/news/17941/curtin-university-and-wide-open-agriculture-to-commercialize-lupin-technology\"\
+        >Curtin University and Wide Open Agriculture to commercialize lupin technology</a></h3><div\
+        \ class=\"flagbar\"><a href=\"/news/vars/country/AU\"><img src=\"/images/newsflags/au.gif\"\
+        \ alt=\"News from Australia\" border=\"0\" /></a>&nbsp;&nbsp; <span class=\"\
+        bluetext\">20 October 2020</span></div></div> <div class=\"relatednews\"><h3><a\
+        \ href=\"/news/17957/crops-sown-in-a-uniform-spatial-pattern-produce-higher-yields-and-reduce-environmental-impact\"\
+        >Crops sown in a uniform spatial pattern produce higher yields and reduce\
+        \ environmental impact</a></h3><div class=\"flagbar\"><a href=\"/news/vars/country/DK\"\
+        ><img src=\"/images/newsflags/dk.gif\" alt=\"News from Denmark\" border=\"\
+        0\" /></a>&nbsp;&nbsp; <span class=\"bluetext\">12 October 2020</span></div></div>\
+        \ <div class=\"relatednews\"><h3><a href=\"/news/17951/how-does-an-increase-in-nitrogen-application-affect-grasslands\"\
+        >How does an increase in nitrogen application affect grasslands?</a></h3><div\
+        \ class=\"flagbar\"><a href=\"/news/vars/country/CH\"><img src=\"/images/newsflags/ch.gif\"\
+        \ alt=\"News from Switzerland\" border=\"0\" /></a>&nbsp;&nbsp; <span class=\"\
+        bluetext\">09 October 2020</span></div></div> <div class=\"relatednews\"><h3><a\
+        \ href=\"/news/17958/new-method-reveals-whether-your-potato-is-organic-or-not\"\
+        \ class=\"titleVideoEnabled\">New method reveals whether your potato is organic\
+        \ or not</a></h3><div class=\"flagbar\"><a href=\"/news/vars/country/DK\"\
+        ><img src=\"/images/newsflags/dk.gif\" alt=\"News from Denmark\" border=\"\
+        0\" /></a>&nbsp;&nbsp; <span class=\"bluetext\">07 October 2020</span></div></div>\
+        \       <!-- more news end --></div>  <!-- column three -->\n<div id=\"columnsponsors\"\
+        ><h2 class=\"titlesponsors\">Our Sponsors</h2><div id=\"rightSponsors\"><script\
+        \ language=\"javascript\" type=\"text/javascript\" src=\"/js/sponsor.php\"\
+        ></script></div><!--<h2 class=\"titlesponsors\">Partners</h2><div id=\"rightSupportingPartners\"\
+        ><script language=\"javascript\" type=\"text/javascript\" src=\"/js/partner.php\"\
+        ></script></div>--><br /><!--<h2 class=\"titlesponsors\">Seasonal Picks</h2><a\
+        \ href=\"http://www.oldpond.com/country-dance.html?utm_source=crop&utm_medium=banner&utm_campaign=Seasonal%20Pick\"\
+        \ target=\"_blank\"><img src=\"/images/seasonal/Country-Dance.jpg\" width=\"\
+        155\" alt=\"Country Dance\" title=\"Country Dance\" /></a>--><!-- OnScroll\
+        \ tag: the crop site --><script src=\"//tags.onscroll.com/68f1124e-95cf-4e75-a9f9-fc663c24f102/tag.min.js\"\
+        \ async defer></script><!--  <div class=\"titlesponsors\">Ads by Google</div><script\
+        \ type=\"text/javascript\">google_ad_client = \"pub-2765988639433540\";google_ad_width\
+        \ = 160;google_ad_height = 600;google_ad_format = \"160x600_as\";google_ad_channel\
+        \ =\"3218302307\";google_color_border = \"CFCFCF\";google_color_bg = \"FFFFFF\"\
+        ;google_color_link = \"404041\";google_color_url = \"404041\";google_color_text\
+        \ = \"A7A9AC\";</script><script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\"\
+        ></script> --></div>  <!-- column sponsors --><!-- home col2 end --><p class=\"\
+        clear\" /></div>  <!-- content end --><div id=\"footer\"><div id=\"bottomsponsor\"\
+        ><div id=\"footerBanner\"><script type=\"text/javascript\" src=\"/js/banner.php?\"\
+        ></script></div></div> <!-- bottomsponsor end --><div id=\"footerLinksBorder\"\
+        ><div id=\"footerLinks\"><div class=\"footerLinksCol\"><h4>News</h4><ul><li><a\
+        \ href=\"/news\">Crop News</a></li><li><a href=\"/companynews\">Company News</a></li><li><a\
+        \ href=\"/news/vars/headline/true\">Headline News</a></li><li><a href=\"/news/category\"\
+        >News by Category</a></li></ul></div> <!-- footerLinksCol end --><div class=\"\
+        footerLinksCol\"><h4>Analysis</h4><ul><li><a href=\"/news/vars/headline/true\"\
+        >Latest Analysis</a></li></ul></div> <!-- footerLinksCol end --><div class=\"\
+        footerLinksCol\"><h4>Features</h4><ul><li><a href=\"/articles\">Latest Features</a></li></ul></div>\
+        \ <!-- footerLinksCol end --><div class=\"footerLinksCol\"><h4>Reports</h4><ul><!--<li><a\
+        \ href=\"/marketreports/overview.php\">CME Futures Market</a></li><li><a href=\"\
+        /marketreports/dailycashbids.php\">USDA Cash Grain</a></li><li><a href=\"\
+        /marketreports/bruglerreports.php\">Alan Brugler</a></li>--><li><a href=\"\
+        /focus/29/\">CME Archive</a></li></ul></div> <!-- footerLinksCol end --><div\
+        \ class=\"footerLinksCol\"><h4>Knowledge</h4><ul><li><a href=\"/diseaseinfo\"\
+        >Disease Guide</a></li><li><a href=\"/video/\">Videos</a></li><li><a href=\"\
+        /newsletter/\">Newsletter</a></li><li><a href=\"/info/links_new.php\">Links</a></li></ul></div>\
+        \ <!-- footerLinksCol end --><div class=\"footerLinksCol\"><h4>Marketing</h4><ul><li><a\
+        \ href=\"/marketing/\">Marketing Packages</a></li><li><a href=\"/directory/\"\
+        >Business Directory</a></li><li><a href=\"/marketing/signup.php\">Submit Business</a></li></ul></div>\
+        \ <!-- footerLinksCol end --><div class=\"footerLinksCol\"><h4>Events</h4><ul><li><a\
+        \ href=\"/events/\">Latest Events</a></li><li><a href=\"/events/submit.php\"\
+        >Submit Event</a></li></ul></div> <!-- footerLinksCol end --><div class=\"\
+        footerLinksCol\" style=\"margin-right: 0px; border: none;\"><h4>Contact</h4><ul><li><a\
+        \ href=\"/about/\" target=\"_blank\">About out site</a></li><li><a href=\"\
+        /editors/\">Our Team</a></li></ul></div> <!-- footerLinksCol end --></div>\
+        \ <!-- footerLinks end --></div> <!-- footerLinksBorder end --><div id=\"\
+        footerLogoTerms\" style=\"height:50px\"><img src=\"/images/GAM-logo-280420.svg\"\
+        \ width=\"110\" alt=\"Global Ag Media\" title=\"Global Ag Media\" style=\"\
+        padding-bottom: 20px;padding-left:10px;\"/>&copy; 2000 - 2020. Global Ag Media.\
+        \ All Rights Reserved.<br>No part of this site may be reproduced without permission.<br><a\
+        \ href=\"/terms.php\">Terms and Conditions</a> | <a href=\"/focus/5m/34/privacy-policy\"\
+        >Privacy</a> | <a href=\"/terms.php#disclaimer\">Disclaimer</a></div> <!--\
+        \ footerLogoTerms end --></div>  <!-- Footer end --></div>  <!-- Layout end\
+        \ --><!-- Start of Woopra Code --><script type=\"text/javascript\">\nfunction\
+        \ woopraReady(tracker) {\n    tracker.setDomain('thecropsite.com');\n    tracker.setIdleTimeout(300000);\n\
+        \    tracker.track();\n    return false;\n}\n(function() {\n    var wsc =\
+        \ document.createElement('script');\n    wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';\n\
+        \    wsc.type = 'text/javascript';\n    wsc.async = true;\n    var ssc = document.getElementsByTagName('script')[0];\n\
+        \    ssc.parentNode.insertBefore(wsc, ssc);\n})();\n</script><!-- End of Woopra\
+        \ Code --><script type=\"text/javascript\">\nsetTimeout(function(){var a=document.createElement(\"\
+        script\");\n\nvar b=document.getElementsByTagName(\"script\")[0];\n\na.src=document.location.protocol+\"\
+        //dnn506yrbagrg.cloudfront.net/pages/scripts/0013/4525.js?\"+Math.floor(new\
+        \ Date().getTime()/3600000);\n\na.async=true;a.type=\"text/javascript\";b.parentNode.insertBefore(a,b)},\
+        \ 1);\n</script><!-- Share This --><script type=\"text/javascript\">var switchTo5x=true;</script><script\
+        \ type=\"text/javascript\" src=\"http://w.sharethis.com/button/buttons.js\"\
+        ></script><script type=\"text/javascript\">stLight.options({publisher: \"\
+        e30c67c0-39bc-4794-b735-f910a7b91b2e\"}); </script><!-- Share This end --><script\
+        \ type=\"text/javascript\" id=\"cookieinfo\"src=\"//cookieinfoscript.com/js/cookieinfo.min.js\"\
+        data-bg=\"#000000\"data-fg=\"#FFFFFF\"data-divlink=\"#FFF\"data-link=\"#4d9533\"\
+        data-divlinkbg=\"#4d9533\"data-moreinfo=\"https://thecropsite.com/focus/5m/34/privacy-policy\"\
+        data-cookie=\"CookieInfoScript\"data-text-align=\"left\"data-close-text=\"\
+        Got it!\"></script>\n \n\n</body></html>"
+    headers:
+      Cache-Control:
+      - no-store, no-cache, must-revalidate, post-check=0, pre-check=0, no-cache
+      Connection:
+      - Upgrade, Keep-Alive
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Fri, 04 Dec 2020 12:55:15 GMT
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Keep-Alive:
+      - timeout=5, max=100
+      Pragma:
+      - no-cache
+      Server:
+      - Apache
+      Set-Cookie:
+      - PHPSESSID=jfspcg810604hd3ne1qribn6b6; path=/
+      Transfer-Encoding:
+      - chunked
+      Upgrade:
+      - h2,h2c
+    status:
+      code: 200
+      message: OK
+version: 1

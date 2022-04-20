@@ -1,0 +1,212 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.beefmagazine.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.beefmagazine.com/livestock?page=860&infscr=1
+  response:
+    body:
+      string: "<div class=\"js-lazy-pager-content\"><div class=\"category-banner dfp-ad-hideempty
+        hidden\"><div class=\"penton-dfp-ads\" data-dfp-position=\"infinitescroll\"></div></div><article
+        class=\"article-teaser article-teaser__no-img article-teaser__icon__article\"
+        \ data-terms=\"livestock/seedstock\">\n      <div class=\"img-container__empty\"></div>\n
+        \ \n  <div class=\"article-teaser__content\">\n    <div class=\"article-teaser__header\">\n
+        \             <span class=\"sp-title__empty\"></span>\n                    <span
+        class=\"feat-author__empty\"></span>\n            <div class=\"title\">\n
+        \       <a href=\"/mag/beef_nichols_onesource_genetics\">Nichols&#039; One-Source
+        Genetics</a>      </div>\n              <span class=\"date\">\n          Feb
+        01, 1998        </span>\n          </div>\n          <div class=\"summary\">\n
+        \       <div class=\"summary-wrapper\">\n          Today, there are scores
+        of preconditioning programs with essentially the same purpose - to verify
+        that calf health and weaning rules have been followed. But too often producers
+        don&#39;t get paid for extra costs involved, and one thing is still...        </div>\n
+        \     </div>\n    </article>\n<article class=\"article-teaser article-teaser__icon__article\"
+        \ data-terms=\"livestock/beef\">\n      <div class=\"img-container\">\n            <a
+        href=\"/beef/4-nutritional-headlines-endorse-meat\"><img class=\"tax_thumbs_standard
+        lozad img-responsive js-imgpxr\" data-x2src=\"https://www.beefmagazine.com/sites/beefmagazine.com/files/styles/tax_thumbs_retina/public/beef-sirloin-kabobs-with-r%20copy_0.png?itok=j7XhcBSO\"
+        data-src=\"https://www.beefmagazine.com/sites/beefmagazine.com/files/styles/tax_thumbs_retina/public/beef-sirloin-kabobs-with-r%20copy_0.png?itok=j7XhcBSO\"
+        width=\"88\" height=\"46\" alt=\"beef-sirloin-kabobs-with-r copy.png\" title=\"beef-sirloin-kabobs-with-r
+        copy.png\" /></a>    </div>\n  \n  <div class=\"article-teaser__content\">\n
+        \   <div class=\"article-teaser__header\">\n              <span class=\"sp-title__empty\"></span>\n
+        \                   <span class=\"feat-author__empty\"></span>\n            <div
+        class=\"title\">\n        <a href=\"/beef/4-nutritional-headlines-endorse-meat\">4
+        nutritional headlines that endorse meat </a>      </div>\n              <span
+        class=\"date\">\n          Dec 12, 2018        </span>\n          </div>\n
+        \         <div class=\"summary\">\n        <div class=\"summary-wrapper\">\n
+        \         In the midst of so many negative stories about animal agriculture,
+        positive, pro-beef headlines need to be shared far and wide.         </div>\n
+        \     </div>\n    </article>\n<article class=\"article-teaser article-teaser__icon__article\"
+        \ data-terms=\"marketing\">\n      <div class=\"img-container\">\n            <a
+        href=\"/marketing/2018-cow-slaughter-numbers-review\"><img class=\"tax_thumbs_standard
+        lozad img-responsive js-imgpxr\" data-x2src=\"https://www.beefmagazine.com/sites/beefmagazine.com/files/styles/tax_thumbs_retina/public/December-2018-cow-slaughter.png?itok=bEbKTvhn\"
+        data-src=\"https://www.beefmagazine.com/sites/beefmagazine.com/files/styles/tax_thumbs_retina/public/December-2018-cow-slaughter.png?itok=bEbKTvhn\"
+        width=\"88\" height=\"46\" alt=\"December 2018 Cow Slaughter\" title=\"December
+        2018 Cow Slaughter\" /></a>    </div>\n  \n  <div class=\"article-teaser__content\">\n
+        \   <div class=\"article-teaser__header\">\n              <span class=\"sp-title__empty\"></span>\n
+        \                   <span class=\"feat-author__empty\"></span>\n            <div
+        class=\"title\">\n        <a href=\"/marketing/2018-cow-slaughter-numbers-review\">2018
+        cow slaughter numbers in review</a>      </div>\n              <span class=\"date\">\n
+        \         Dec 12, 2018        </span>\n          </div>\n          <div class=\"summary\">\n
+        \       <div class=\"summary-wrapper\">\n          Why is paying attention
+        of cow slaughter important? Because it tells us what next year will be like.
+        \        </div>\n      </div>\n    </article>\n<article class=\"article-teaser
+        article-teaser__icon__article\"  data-terms=\"technology\">\n      <div class=\"img-container\">\n
+        \           <a href=\"/technology/blockchain-lights-out-approach-supply-chain-efficiency\"><img
+        class=\"tax_thumbs_standard lozad img-responsive js-imgpxr\" data-x2src=\"https://www.beefmagazine.com/sites/beefmagazine.com/files/styles/tax_thumbs_retina/public/GettyImages-1075380830.jpg?itok=JVaCGgzP\"
+        data-src=\"https://www.beefmagazine.com/sites/beefmagazine.com/files/styles/tax_thumbs_retina/public/GettyImages-1075380830.jpg?itok=JVaCGgzP\"
+        width=\"88\" height=\"46\" alt=\"Blockchain\" title=\"Blockchain\" /></a>
+        \   </div>\n  \n  <div class=\"article-teaser__content\">\n    <div class=\"article-teaser__header\">\n
+        \             <span class=\"sp-title__empty\"></span>\n                    <span
+        class=\"feat-author__empty\"></span>\n            <div class=\"title\">\n
+        \       <a href=\"/technology/blockchain-lights-out-approach-supply-chain-efficiency\">Blockchain:
+        A \u201Clights out approach to supply chain efficiency\u201D</a>      </div>\n
+        \             <span class=\"date\">\n          Dec 12, 2018        </span>\n
+        \         </div>\n          <div class=\"summary\">\n        <div class=\"summary-wrapper\">\n
+        \         Just like your smartphone, blockchain technology will advance quickly.
+        \       </div>\n      </div>\n    </article>\n<article class=\"article-teaser
+        article-teaser__icon__article\"  data-terms=\"livestock/animal_welfare\">\n
+        \     <div class=\"img-container\">\n            <a href=\"/animal-welfare/will-veterinary-feed-directive-make-cleaner-water\"><img
+        class=\"tax_thumbs_standard lozad img-responsive js-imgpxr\" data-x2src=\"https://www.beefmagazine.com/sites/beefmagazine.com/files/styles/tax_thumbs_retina/public/IMG_9463.jpg?itok=7J1gnIrr\"
+        data-src=\"https://www.beefmagazine.com/sites/beefmagazine.com/files/styles/tax_thumbs_retina/public/IMG_9463.jpg?itok=7J1gnIrr\"
+        width=\"88\" height=\"46\" alt=\"VFD for better cleaner water\" title=\"VFD
+        for better cleaner water\" /></a>    </div>\n  \n  <div class=\"article-teaser__content\">\n
+        \   <div class=\"article-teaser__header\">\n              <span class=\"sp-title__empty\"></span>\n
+        \                   <span class=\"feat-author__empty\"></span>\n            <div
+        class=\"title\">\n        <a href=\"/animal-welfare/will-veterinary-feed-directive-make-cleaner-water\">Will
+        Veterinary Feed Directive make cleaner water?</a>      </div>\n              <span
+        class=\"date\">\n          Jan 03, 2017        </span>\n          </div>\n
+        \         <div class=\"summary\">\n        <div class=\"summary-wrapper\">\n
+        \         Only time will tell whether there is a connection between VFD and
+        quality drinking water.        </div>\n      </div>\n    </article>\n<article
+        class=\"article-teaser article-teaser__icon__article\"  data-terms=\"livestock/beef_quality\">\n
+        \     <div class=\"img-container\">\n            <a href=\"/beef-quality/do-best-pregnancy-diets-center-around-meat\"><img
+        class=\"tax_thumbs_standard lozad img-responsive js-imgpxr\" data-x2src=\"https://www.beefmagazine.com/sites/beefmagazine.com/files/styles/tax_thumbs_retina/public/IMG_3883%201.jpg?itok=DYU2RBjQ\"
+        data-src=\"https://www.beefmagazine.com/sites/beefmagazine.com/files/styles/tax_thumbs_retina/public/IMG_3883%201.jpg?itok=DYU2RBjQ\"
+        width=\"88\" height=\"46\" alt=\"Healthy Moms And Babies Need Beef\" title=\"Healthy
+        Moms And Babies Need Beef\" /></a>    </div>\n  \n  <div class=\"article-teaser__content\">\n
+        \   <div class=\"article-teaser__header\">\n              <span class=\"sp-title__empty\"></span>\n
+        \                   <span class=\"feat-author__empty\"></span>\n            <div
+        class=\"title\">\n        <a href=\"/beef-quality/do-best-pregnancy-diets-center-around-meat\">Do
+        the best pregnancy diets center around meat?</a>      </div>\n              <span
+        class=\"date\">\n          Dec 14, 2016        </span>\n          </div>\n
+        \         <div class=\"summary\">\n        <div class=\"summary-wrapper\">\n
+        \         A diet rich in animal fats and proteins can help pregnant women
+        and growing babies reach their nutrient needs.         </div>\n      </div>\n
+        \   </article>\n<article class=\"article-teaser article-teaser__no-img article-teaser__icon__article\"
+        \ data-terms=\"livestock/seedstock\">\n      <div class=\"img-container__empty\"></div>\n
+        \ \n  <div class=\"article-teaser__content\">\n    <div class=\"article-teaser__header\">\n
+        \             <span class=\"sp-title__empty\"></span>\n                    <span
+        class=\"feat-author__empty\"></span>\n            <div class=\"title\">\n
+        \       <a href=\"/seedstock-100/seedstock-100-consolidation-set-continue\">Seedstock
+        100: Consolidation set to continue</a>      </div>\n              <span class=\"date\">\n
+        \         Sep 30, 2016        </span>\n          </div>\n          <div class=\"summary\">\n
+        \       <div class=\"summary-wrapper\">\n          \u201CIf you thought the
+        gap between the haves and have-nots was getting wide before, just wait until
+        we go through this next part of the cattle cycle,\u201D says Don Schiefelbein
+        of Schiefelbein Farms at Kimball, Minn...        </div>\n      </div>\n    </article>\n<article
+        class=\"article-teaser article-teaser__no-img article-teaser__icon__article\"
+        \ data-terms=\"livestock/weaning\">\n      <div class=\"img-container__empty\"></div>\n
+        \ \n  <div class=\"article-teaser__content\">\n    <div class=\"article-teaser__header\">\n
+        \             <span class=\"sp-title__empty\"></span>\n                    <span
+        class=\"feat-author__empty\"></span>\n            <div class=\"title\">\n
+        \       <a href=\"/cowcalfweekly/0624-pushing-weaning-envelope\">Pushing The
+        Weaning Envelope</a>      </div>\n              <span class=\"date\">\n          Jan
+        11, 2012        </span>\n          </div>\n          <div class=\"summary\">\n
+        \       <div class=\"summary-wrapper\">\n          \_It seems so simple. Just
+        increase the weaning rate \u2013 the percentage of calves weaned per cow exposed
+        \u2013 within a cowherd and production increases, thereby diluting costs...
+        \       </div>\n      </div>\n    </article>\n<div class=\"text-center\"><div
+        class=\"item-list\"><ul class=\"lazy-pagination\"><li class=\"next pagination-read-more
+        first\"></li>\n<li class=\"pager-first\"><a href=\"/livestock?infscr=1\">first</a></li>\n<li
+        class=\"prev\"><a rel=\"prev\" href=\"/livestock?page=859&amp;infscr=1\">previous</a></li>\n<li
+        class=\"pager-ellipsis disabled\"><span>\uFFFD</span></li>\n<li><a title=\"Go
+        to page 853\" href=\"/livestock?page=852&amp;infscr=1\">853</a></li>\n<li><a
+        title=\"Go to page 854\" href=\"/livestock?page=853&amp;infscr=1\">854</a></li>\n<li><a
+        title=\"Go to page 855\" href=\"/livestock?page=854&amp;infscr=1\">855</a></li>\n<li><a
+        title=\"Go to page 856\" href=\"/livestock?page=855&amp;infscr=1\">856</a></li>\n<li><a
+        title=\"Go to page 857\" href=\"/livestock?page=856&amp;infscr=1\">857</a></li>\n<li><a
+        title=\"Go to page 858\" href=\"/livestock?page=857&amp;infscr=1\">858</a></li>\n<li><a
+        title=\"Go to page 859\" href=\"/livestock?page=858&amp;infscr=1\">859</a></li>\n<li><a
+        title=\"Go to page 860\" href=\"/livestock?page=859&amp;infscr=1\">860</a></li>\n<li
+        class=\"active last\"><span>861</span></li>\n</ul></div></div></div><script
+        type=\"text/javascript\">\n<!--//--><![CDATA[//><!--\njQuery.extend(true,
+        Drupal.settings, {\"basePath\":\"\\/\",\"pathPrefix\":\"\",\"ajaxPageState\":{\"theme\":\"penton_subtheme_beefmagazine\",\"theme_token\":\"31R0_R_wM7GAPulfoBcxBTUfSr84Cj9n0Qi6aA-h_yw\",\"jquery_version\":\"1.10\"},\"authcache\":{\"q\":\"taxonomy\\/term\\/18\",\"cp\":{\"path\":\"\\/\",\"domain\":\".beefmagazine.com\",\"secure\":true},\"cl\":23.14814814814815},\"informa_derived_interest_tags_api\":{\"meta_tag_display\":\"\"},\"penton_cme_group\":{\"google_api_key\":\"AIzaSyDi8HvupCurLYbbIoJXasIMeEeEN8AU9LA\",\"alias\":{\"DL\":\"milk\",\"ZC\":\"corn\",\"KG\":\"cotton\",\"CL\":\"crude-oil\",\"CO\":\"electricity\",\"ZK\":\"ethanol\",\"GF\":\"feeder-cattle\",\"RB\":\"gasoline-rbob\",\"GC\":\"gold\",\"HO\":\"heating-oil\",\"KE\":\"kcbt-red-wheat\",\"HE\":\"lean-hogs\",\"LE\":\"live-cattle\",\"MW\":\"mgex-spring-wheat\",\"HP\":\"natural-gas-e\",\"NG\":\"natural-gas\",\"IS\":\"nsi-national-soybean\",\"ZO\":\"oats\",\"ZR\":\"rough-rice\",\"SP\":\"sp-index\",\"SI\":\"silver\",\"ZM\":\"soybean-meal\",\"ZL\":\"soybean-oil\",\"ZS\":\"soybeans\",\"IW\":\"srwi-soft-red-wheat\",\"ZW\":\"wheat\"},\"infinity_widget\":\"\\u003Cdiv
+        class=\\u0022cme-group-select-zip\\u0022\\u003E  \\u003Cdiv class=\\u0022cme-group-select-zip__form\\u0022\\u003E
+        \   \\u003Cdiv class=\\u0022cme-group-select-zip__fields\\u0022\\u003E      \\u003Cdiv
+        class=\\u0022cme-group-select-zip__title\\u0022\\u003EToday\\u0027s weather\\u003C\\/div\\u003E
+        \     \\u003Cdiv class=\\u0022cme-group-select-zip__input\\u0022\\u003E        \\u003Cinput
+        type=\\u0022text\\u0022 placeholder=\\u0022Enter zip code\\u0022 value=\\u002255425\\u0022\\u003E
+        \       \\u003Cbutton data-change=\\u0022Change location\\u0022 data-set=\\u0022Set
+        location\\u0022\\u003ESet location\\u003C\\/button\\u003E      \\u003C\\/div\\u003E
+        \   \\u003C\\/div\\u003E    \\u003Cdiv class=\\u0022cme-group-select-zip__ads\\u0022\\u003E
+        \     \\u003Cdiv class=\\u0022dfp-ad-hideempty hidden\\u0022\\u003E        \\u003Ctable
+        class=\\u0022penton-cme-sponsored-logo\\u0022\\u003E          \\u003Ctr\\u003E
+        \           \\u003Cth\\u003EBROUGHT TO YOU BY\\u003C\\/th\\u003E            \\u003Ctd\\u003E\\u003Cdiv
+        data-dfp-position=\\u0022sponsored_logo\\u0022\\u003E\\u003C\\/div\\u003E\\u003C\\/td\\u003E
+        \         \\u003C\\/tr\\u003E        \\u003C\\/table\\u003E      \\u003C\\/div\\u003E
+        \   \\u003C\\/div\\u003E  \\u003C\\/div\\u003E  \\u003Cdiv class=\\u0022cme-group-select-zip__display\\u0022\\u003E\\u003C\\/div\\u003E\\u003C\\/div\\u003E\",\"infinity_widget_new\":\"\"},\"typekitId\":\"par3hjn\",\"adunit\":\"\\/2441\\/beef.home\",\"is_new_welcome_ad\":\"1\",\"penton_eloqua_api\":{\"eloqua_site_id\":\"46849916\",\"tracking_enabled\":0},\"CToolsModal\":{\"loadingText\":\"Loading...\",\"closeText\":\"Close
+        Window\",\"closeImage\":\"\\u003Cimg src=\\u0022https:\\/\\/www.beefmagazine.com\\/sites\\/all\\/modules\\/contrib\\/ctools\\/images\\/icon-close-window.png\\u0022
+        alt=\\u0022Close window\\u0022 title=\\u0022Close window\\u0022 \\/\\u003E\",\"throbber\":\"\\u003Cimg
+        src=\\u0022https:\\/\\/www.beefmagazine.com\\/sites\\/all\\/modules\\/contrib\\/ctools\\/images\\/throbber.gif\\u0022
+        alt=\\u0022Loading\\u0022 title=\\u0022Loading...\\u0022 \\/\\u003E\"},\"modal-popup-small\":{\"modalSize\":{\"type\":\"fixed\",\"width\":300,\"height\":300},\"modalOptions\":{\"opacity\":0.5,\"background\":\"#000\"},\"animation\":\"fadeIn\",\"modalTheme\":\"PentonModalPopup\"},\"modal-popup-medium\":{\"modalSize\":{\"type\":\"fixed\",\"width\":550,\"height\":450},\"modalOptions\":{\"opacity\":0.5,\"background\":\"#000\"},\"animation\":\"fadeIn\",\"modalTheme\":\"PentonModalPopup\"},\"modal-popup-medium-update\":{\"modalSize\":{\"type\":\"fixed\",\"width\":550,\"height\":450},\"modalOptions\":{\"opacity\":0.5,\"background\":\"#000\"},\"animation\":\"fadeIn\",\"modalTheme\":\"PentonModalPopupUpdate\"},\"modal-popup-large\":{\"modalSize\":{\"type\":\"scale\",\"width\":0.8,\"height\":0.8},\"modalOptions\":{\"opacity\":0.5,\"background\":\"#000\"},\"animation\":\"fadeIn\",\"modalTheme\":\"PentonModalPopup\"},\"modal-popup-x-large\":{\"modalSize\":{\"type\":\"scale\",\"width\":1100,\"height\":850},\"modalOptions\":{\"opacity\":0.5,\"background\":\"#000\"},\"animation\":\"fadeIn\",\"modalTheme\":\"PentonModalPopupXLarge\"},\"modal-popup-basic\":{\"modalSize\":{\"type\":\"fixed\",\"width\":550,\"height\":450},\"modalOptions\":{\"opacity\":0.5,\"background\":\"#000\"},\"animation\":\"fadeIn\",\"modalTheme\":\"PentonModalPopupBasic\"},\"modal-popup-basic-print\":{\"modalSize\":{\"type\":\"fixed\",\"width\":300,\"height\":300},\"modalOptions\":{\"opacity\":0.5,\"background\":\"#000\"},\"animation\":\"fadeIn\",\"modalTheme\":\"PentonModalPopupPrint\"},\"modal-popup-basic-email\":{\"modalSize\":{\"type\":\"fixed\",\"width\":550,\"height\":450},\"modalOptions\":{\"opacity\":0.5,\"background\":\"#000\"},\"animation\":\"fadeIn\",\"modalTheme\":\"PentonModalPopupBasicEmail\"},\"modal-popup-advanced\":{\"modalSize\":{\"type\":\"fixed\",\"width\":550,\"height\":450},\"modalOptions\":{\"opacity\":0.5,\"background\":\"#000\"},\"animation\":\"fadeIn\",\"modalTheme\":\"PentonModalPopupAdvanced\"},\"modal-popup-complete\":{\"modalSize\":{\"type\":\"fixed\",\"width\":550,\"height\":450},\"modalOptions\":{\"opacity\":0.5,\"background\":\"#000\"},\"animation\":\"fadeIn\",\"modalTheme\":\"PentonModalPopupComplete\"},\"modal-popup-login\":{\"modalSize\":{\"type\":\"fixed\",\"width\":545,\"height\":485},\"modalOptions\":{\"opacity\":0.5,\"background\":\"#000\"},\"animation\":\"fadeIn\",\"modalTheme\":\"PentonModalPopupLogin\"},\"modal-popup-legal-comm\":{\"modalSize\":{\"type\":\"fixed\",\"width\":300,\"height\":300},\"modalOptions\":{\"opacity\":0.5,\"background\":\"#000\"},\"animation\":\"fadeIn\",\"closeText\":\"Close\",\"modalTheme\":\"PentonModalPopupLegalComm\"},\"modal-popup-validation-prompt\":{\"modalSize\":{\"type\":\"fixed\",\"width\":300,\"height\":300},\"modalOptions\":{\"opacity\":0.5,\"background\":\"#000\"},\"animation\":\"fadeIn\",\"closeText\":\"Close\",\"modalTheme\":\"PentonModalPopupValidationPrompt\"},\"gdpr_countries\":[],\"prevent_js_alerts\":{\"module_path\":\"sites\\/all\\/modules\\/contrib\\/prevent_js_alerts\"},\"simple_instagram_feed\":{\"instagram_username\":null,\"instagram_display_profile\":0,\"instagram_display_biography\":0,\"instagram_items\":null,\"instagram_items_per_row\":1,\"instagram_styling\":null},\"ws_pb\":{\"countlayout\":\"horizontal\"}});\n//--><!]]>\n</script>\n"
+    headers:
+      Cache-Control:
+      - public, max-age=300
+      Connection:
+      - keep-alive
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Mon, 30 Nov 2020 18:15:50 GMT
+      ETag:
+      - '"1606759973-1-https://www.beefmagazine.com"'
+      Expires:
+      - Sun, 19 Nov 1978 05:00:00 GMT
+      Last-Modified:
+      - Mon, 30 Nov 2020 18:12:53 GMT
+      Server:
+      - Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.2.34
+      Vary:
+      - Cookie,Accept-Encoding
+      Via:
+      - 1.1 b9bb8c8d0c6ea9da42e05e460c141e77.cloudfront.net (CloudFront)
+      X-Amz-Cf-Id:
+      - IMCmE2woCgfi1pm0m7fj93HDIFAoEogNHiDJ1ZXWPdnWHghiYV93Hw==
+      X-Amz-Cf-Pop:
+      - EWR52-C3
+      X-Cache:
+      - Miss from cloudfront
+      X-Content-Type-Options:
+      - nosniff
+      X-Drupal-Cache:
+      - HIT
+      X-Powered-By:
+      - PHP/7.2.34
+      X-Robots-Tag:
+      - noindex
+      X-UA-Compatible:
+      - IE=edge,chrome=1
+      content-length:
+      - '16544'
+    status:
+      code: 200
+      message: OK
+version: 1

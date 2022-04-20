@@ -1,0 +1,359 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.marketbeat.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/87.0.4280.88 Safari/537.36 '
+    method: GET
+    uri: https://www.marketbeat.com/instant-alerts/nyse-twtr-a-buy-or-sell-right-now-2021-03/
+  response:
+    body:
+      string: "\n<!DOCTYPE html>\n<html lang=\"en\">\n<head><meta charset=\"utf-8\"
+        /><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" /><meta name=\"viewport\"
+        content=\"width=device-width, height=device-height, initial-scale=1.0\" /><title>\r\n\tError
+        404: Page Not Found\r\n</title>\n<style type=\"text/css\">\r\n        @import
+        url(https://fonts.googleapis.com/css?family=Oswald:500|Prata|Yantramanav:400,700,900&display=swap);/*!
+        normalize.css v3.0.2 | MIT License | git.io/normalize */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}audio,canvas,progress,video{display:inline-block;vertical-align:baseline}audio:not([controls]){display:none;height:0}[hidden],template{display:none}a{background-color:transparent}a:active,a:hover{outline:0}abbr[title]{border-bottom:1px
+        dotted}b,strong{font-weight:700}dfn{font-style:italic}h1{font-size:2em;margin:.67em
+        0}mark{background:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-.5em}sub{bottom:-.25em}img{border:0}svg:not(:root){overflow:hidden}figure{margin:1em
+        40px}hr{-webkit-box-sizing:content-box;box-sizing:content-box;height:0}pre{overflow:auto}code,kbd,pre,samp{font-family:monospace,monospace;font-size:1em}button,input,optgroup,select,textarea{color:inherit;font:inherit;margin:0}button{overflow:visible}button,select{text-transform:none}button,html
+        input[type=button],input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer}button[disabled],html
+        input[disabled]{cursor:default}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}input[type=checkbox],input[type=radio]{-webkit-box-sizing:border-box;box-sizing:border-box;padding:0}input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{height:auto}input[type=search]{-webkit-appearance:textfield;-webkit-box-sizing:content-box;box-sizing:content-box}input[type=search]::-webkit-search-cancel-button,input[type=search]::-webkit-search-decoration{-webkit-appearance:none}fieldset{border:1px
+        solid silver;margin:0 2px;padding:.35em .625em .75em}legend{border:0;padding:0}textarea{overflow:auto}optgroup{font-weight:700}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}html{-webkit-box-sizing:border-box;box-sizing:border-box}*,:after,:before{-webkit-box-sizing:inherit;box-sizing:inherit}body,html{background:#fff;color:#253746;font-family:yantramanav,sans-serif;font-weight:300;line-height:1.5;min-height:100vh;position:relative}h1,h2,h3,h4,h5,h6{font-family:Prata,serif;font-weight:700}a{color:#a52422;margin:1em
+        0;text-decoration:none;-webkit-transition:all .3s ease-in-out;transition:all
+        .3s ease-in-out}a:hover{color:#d73f3d}a:active{color:#7b1b19}ul{padding-left:1rem}li{line-height:1.33;margin-bottom:.5rem}li:last-child{margin-bottom:0}hr{background-color:#d2dce3;border:0;height:1px;margin:20px
+        0}#content_wrap{padding-bottom:90px}article .container{max-width:1000px;margin-left:auto;margin-right:auto;background:#fff;border-left:1px
+        solid hsla(0,0%,44%,.14);border-right:1px solid hsla(0,0%,44%,.14);width:100%;
+        padding: 0 15px;}article .container:after{clear:both;content:\"\";display:block}.row{max-width:1000px;margin-left:auto;margin-right:auto}.row:after{clear:both;content:\"\";display:block}.half{float:left;display:block;margin-right:2.35765202%;width:48.82117399%;overflow:hidden}.half:last-child,.half:nth-child(2n){margin-right:0}.half:nth-child(odd){clear:left}header{height:75px;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;min-width:100%}header,header
+        .container{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;width:100%}header
+        .container{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;padding:0
+        30px}header #header_logo img{height:auto;width:208px}header #header_social
+        .icon{margin-right:14px}header #header_social .icon:last-child{margin-right:0}header
+        #header_social .icon img{height:20px;opacity:1;-webkit-transition:opacity
+        .18s ease-in-out;transition:opacity .18s ease-in-out;}header #header_social
+        .icon img:active,header #header_social .icon img:hover{opacity:.8}#full_content,#main_content{color:#253746;margin-bottom:77px}#full_content
+        h1,#main_content h1{color:#253746;font-size:42px;font-weight:400;line-height:1.2;margin-bottom:0;text-align:center}#full_content
+        h2,#main_content h2{color:#253746;font-size:16px;font-weight:700}#full_content
+        p,#main_content p{font-size:16px;line-height:1.33}#full_content div#thankyou,#main_content
+        div#thankyou{text-align:center}#full_content div#thankyou p,#main_content
+        div#thankyou p{font-size:18px;line-height:1.33}#full_content div#thankyou
+        p.callnow,#main_content div#thankyou p.callnow{font-style:italic;margin-bottom:0}#full_content
+        div#thankyou p.disclaimer,#main_content div#thankyou p.disclaimer{font-size:11px;font-weight:400}#full_content
+        div#thankyou p.phone,#main_content div#thankyou p.phone{color:#a52422;font-size:42px;line-height:1.2;margin:0}#full_content
+        div#thankyou.thanks-alpha,#main_content div#thankyou.thanks-alpha{margin:0
+        auto;max-width:760px}#full_content div#thankyou.thanks-alpha .thanks-partial-container,#main_content
+        div#thankyou.thanks-alpha .thanks-partial-container{margin:0 auto;max-width:100%;}#full_content
+        div#thankyou.thanks-alpha .thanks-partial-container hr,#main_content div#thankyou.thanks-alpha
+        .thanks-partial-container hr{display:none}#full_content #alpha_ad_unit,#main_content
+        #alpha_ad_unit{margin:0 auto;max-width:100%;width:812px}#full_content div#section1
+        a,#main_content div#section1 a{display:block;margin-bottom:30px}#main_content{float:left;display:block;margin-right:2.84258609%;width:58.86296557%;padding-left:30px}#main_content:last-child{margin-right:0}#full_content{float:left;display:block;margin-right:2.84258609%;width:100%;text-align:center}#full_content:last-child{margin-right:0}#sidebar{float:left;display:block;margin-right:2.84258609%;width:38.29444835%;margin-bottom:70px;padding-right:30px}#sidebar,#sidebar:last-child{margin-right:0}#sidebar
+        h2{font-size:18px;text-transform:uppercase}#sidebar #topics{max-width:1200px;margin-left:auto;margin-right:auto;padding-bottom:.5rem}#sidebar
+        #topics:after{clear:both;content:\"\";display:block}footer{bottom:0;color:hsla(0,0%,100%,.7);font-size:14px;height:90px;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;position:absolute;min-width:100%}footer,footer
+        .container{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;width:100%}footer
+        .container{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;padding:0
+        30px}footer a,footer a:active,footer a:hover{color:inherit}footer .dnc{text-transform:uppercase}p.template-error{color:red;font-size:16px;text-align:left}.ad{margin:25px
+        auto;overflow:hidden}.ad a{display:block;margin:0}.ad img{all:unset}.ad.ad-336x280{height:280px;width:336px}.ad.ad-250x250{height:250px;width:250px}.ad.ad-300x200{height:200px;width:300px}.ad.ad-300x250{height:250px;width:300px}.ad.ad-300x600{height:600px;width:300px}.ad.ad-320x250{height:250px;width:320px}.ad.ad-500x250{height:250px;width:500px}.ad.ad-560x100{height:100px;width:560px}.ad.ad-560x250{height:250px;width:560px}.ad.ad-728x90{height:90px;width:728px}.ad-topic{height:20px;margin-bottom:.25rem;width:192px}.offerlist{min-height:46px;width:100%}.pixel{display:none}#bio_ep_content{padding:0!important}\r\n\r\n/*
+        utility classes */\r\n        .d-flex {\r\n  display: -ms-flexbox !important;\r\n
+        \ display: flex !important;\r\n}\r\n        .flex-wrap {\r\n  -ms-flex-wrap:
+        wrap !important;\r\n  flex-wrap: wrap !important;\r\n}\r\n\r\n        .align-center
+        {\r\n            align-items:center;\r\n        }\r\n\r\n           .no-underline
+        a, .no-underline, .no-underline a:hover, .no-underline a:active, .no-underline
+        a:focus, .no-underline:hover, .no-underline:active, .no-underline:focus {\r\n
+        \       text-decoration: none;\r\n    }\r\n        .text-center {\r\n            text-align:
+        center;\r\n        }\r\n\r\n        \r\n.shadow {\r\n    box-shadow: 0 .2rem
+        .85rem rgba(0,0,0,.08) !important;\r\n}\r\n\r\na.shadow:hover {\r\n    box-shadow:
+        0 .2rem 1.1rem rgba(0,0,0,.21) !important;\r\n}\r\n\r\n.gradient-blue {\r\n
+        \       background: rgba(25,92,109,1);\r\n        background: -moz-linear-gradient(top,
+        rgba(25,92,109,1) 0%, rgba(38,125,147,1) 100%);\r\n        background: -webkit-gradient(left
+        top, left bottom, color-stop(0%, rgba(25,92,109,1)), color-stop(100%, rgba(38,125,147,1)));\r\n
+        \       background: -webkit-linear-gradient(top, rgba(25,92,109,1) 0%, rgba(38,125,147,1)
+        100%);\r\n        background: -o-linear-gradient(top, rgba(25,92,109,1) 0%,
+        rgba(38,125,147,1) 100%);\r\n        background: -ms-linear-gradient(top,
+        rgba(25,92,109,1) 0%, rgba(38,125,147,1) 100%);\r\n        background: linear-gradient(to
+        bottom, rgba(25,92,109,1) 0%, rgba(38,125,147,1) 100%);\r\n       \r\n    }\r\n\r\n.bright-gold-button
+        {\r\n    background: rgb(249, 177, 2);\r\n    background-image: -moz-linear-gradient(345deg,
+        rgba(256,256,256,.05) 0%, rgba(256,256,256,.05) 25px, rgba(256,256,256,0)
+        25px, rgba(256,256,256,0) 100%), -moz-linear-gradient(300deg, rgba(256,256,256,.05)
+        0%, rgba(256,256,256,.05) 25px, rgba(256,256,256,0) 25px, rgba(256,256,256,0)
+        100%), -moz-linear-gradient(to bottom, rgb(252, 180, 0) 35%, rgb(169, 102,
+        40) 200%);\r\n    background-image: -webkit-linear-gradient(345deg, rgba(256,256,256,.05)
+        0%, rgba(256,256,256,.05) 25px, rgba(256,256,256,0) 25px, rgba(256,256,256,0)
+        100%), -webkit-linear-gradient(300deg, rgba(256,256,256,.05) 0%, rgba(256,256,256,.05)
+        25px, rgba(256,256,256,0) 25px, rgba(256,256,256,0) 100%), -webkit-linear-gradient(to
+        bottom, rgb(252, 180, 0) 35%, rgb(169, 102, 40) 200%);\r\n    background-image:
+        -o-linear-gradient(60deg, rgba(256,256,256,.05) 0%, rgba(256,256,256,.05)
+        25px, rgba(256,256,256,0) 25px, rgba(256,256,256,0) 100%), -o-linear-gradient(300deg,
+        rgba(256,256,256,.05) 0%, rgba(256,256,256,.05) 25px, rgba(256,256,256,0)
+        25px, rgba(256,256,256,0) 100%), -o-linear-gradient(to bottom, rgb(252, 180,
+        0) 35%, rgb(169, 102, 40) 200%);\r\n    background-image: -ms-linear-gradient(345deg,
+        rgba(256,256,256,.05) 0%, rgba(256,256,256,.05) 25px, rgba(256,256,256,0)
+        25px, rgba(256,256,256,0) 100%), -ms-linear-gradient(300deg, rgba(256,256,256,.05)
+        0%, rgba(256,256,256,.05) 25px, rgba(256,256,256,0) 25px, rgba(256,256,256,0)
+        100%), -ms-linear-gradient(to bottom, rgb(252, 180, 0) 35%, rgb(169, 102,
+        40) 200%);\r\n    background-image: linear-gradient(345deg, rgba(256,256,256,.05)
+        0%, rgba(256,256,256,.05) 25px, rgba(256,256,256,0) 25px, rgba(256,256,256,0)
+        100%), linear-gradient(300deg, rgba(256,256,256,.05) 0%, rgba(256,256,256,.05)
+        25px, rgba(256,256,256,0) 25px, rgba(256,256,256,0) 100%), linear-gradient(to
+        bottom, rgb(252, 180, 0) 35%, rgb(169, 102, 40) 200%);\r\n    background-size:
+        calc(100% + 200px) 300%;\r\n    background-position: center;\r\n    transition:
+        background-size .2s;\r\n}\r\n\r\n.bright-gold-button:hover {\r\n        background-size:
+        100% 100%;\r\n}\r\n\r\n    </style>\n<link rel=\"manifest\" href=\"/manifest.json\">\n<script
+        src=\"https://cdn.onesignal.com/sdks/OneSignalSDK.js\"></script>\n<script>\r\n\r\n\r\n
+        \   function registerUserChange(action) {\r\n        OneSignal.getUserId(function
+        (userId) {\r\n            OneSignalIdString = userId;\r\n            var Domain
+        = 'marketbeat.com';\r\n            var url = \"https://www.marketbeat.com/scripts/OneSignalTracking.ashx?OneSignalID=\"
+        + OneSignalIdString + \"&domain=\" + Domain + \"&action=\" + action;\r\n            var
+        xhr = new XMLHttpRequest();\r\n            xhr.open('GET', url);\r\n            xhr.onload
+        = function () {\r\n                if (xhr.status !== 200) {\r\n                    console.log('GET
+        failed.  Returned status of ' + xhr.status);\r\n                }\r\n                else
+        {\r\n                    console.log('GET succeeded (' + url + ').  Returned
+        status of ' + xhr.status);\r\n                }\r\n            };\r\n            xhr.send();\r\n
+        \       });\r\n    }\r\n\r\n    var OneSignal = OneSignal || [];\r\n    OneSignal.push(\r\n
+        \       function () {\r\n            OneSignal.init({\r\n                appId:
+        \"09793a33-b7c4-431e-b5f6-bda2774a7c1a\",\r\n                safari_web_id:
+        'web.onesignal.auto.504512c8-952a-4d80-9d02-48e16e3cc659',\r\n                autoRegister:
+        false,\r\n                autoResubscribe: true,\r\n                notifyButton:
+        {\r\n                    enable: false\r\n                },\r\n                welcomeNotification:
+        {\r\n                    \"title\": \"Join Wall Street's Brightest Minds.\",\r\n
+        \                   \"message\": \"Receive research in your inbox from top
+        analysts, before the market opens. Click here to learn how.\",\r\n                    \"url\":
+        \"https://www.marketbeat.com/subscribe/subscribe.aspx?ReferralType=OneSignalThankYou&ProductCode=1997t\"\r\n
+        \               },\r\n            });\r\n            OneSignal.once('subscriptionChange',
+        function (isSubscribed) {\r\n                if (isSubscribed) {\r\n                    registerUserChange(\"subscribe\");\r\n
+        \               }\r\n                else {\r\n                    registerUserChange(\"unsubscribe\");\r\n
+        \               }\r\n            });\r\n            if ((navigator.userAgent.toLowerCase().indexOf('firefox')
+        > -1) || ((navigator.userAgent.toLowerCase().indexOf('safari') > -1) && (!(navigator.userAgent.toLowerCase().indexOf('chrome')
+        > -1)))) {\r\n                OneSignal.showSlidedownPrompt();\r\n            }
+        else {\r\n                OneSignal.showNativePrompt();\r\n            }\r\n
+        \       });\r\n\r\n\r\n\r\n</script>\n</head>\n<body>\n<div id=\"content_wrap\">\n<header
+        class=\"gradient-blue\" role=\"banner\">\n<div class=\"container\">\n<div
+        id=\"header_logo\">\n<a title=\"MarketBeat\" href=\"https://www.marketbeat.com\"><img
+        style='max-width:55vw' src=\"https://www.marketbeat.com/images/master/MarketBeat-logo-r-white.svg?v=2019\"
+        alt=\"MarketBeat\"></a>\n</div>\n<div id=\"header_social\" style=\"min-width:60px\">\n<a
+        href=\"https://www.facebook.com/marketbeatcom\" class=\"icon\" target=\"_blank\"
+        title=\"view our Facebook page\">\n<img src=\"https://www.marketbeat.com/images/follow-marketbeat-facebook.png\"
+        alt=\"Facebook icon\" style=\"height:22px;\">\n</a>\n<a href=\"https://twitter.com/MarketBeatCom\"
+        class=\"icon\" target=\"_blank\" title=\"view our Twitter Page\">\n<img src=\"https://www.marketbeat.com/images/follow-marketbeat-twitter.png\"
+        alt=\"Twitter icon\">\n</a>\n</div>\n</div>\n</header>\n<article role=\"main\">\n<div
+        class=\"container\">\n<div id=\"full_content\">\n<div id=\"thankyou\" class=\"thanks-alpha\">\n<h1
+        id=\"HOneTitle\">Error 404: Page Not Found</h1>\n<div class=\"thanks-partial-container\">\n<p>The
+        page you are looking for could not be found.</p>\n<p>\nHere are the most popular
+        free investing reports right now:\n</p>\n<script type='text/javascript'>document.write('<a
+        target=\"_blank\" style=\"color: #000;font-weight:normal;font-size: 17px;padding:
+        5px;margin-bottom: 15px;\" class=\"shadow d-flex flex-wrap no-underline align-center\"
+        rel=\"nofollow\" href=\"https://www.ame' + 'ricanconsumernews.net/scripts/click.aspx?NativeDisplayAdID=3542&ImpressionID=0&UserID=0&Placement=PlaceOnOfferWall\">');</script><span
+        style=\"float:left;height:0;\"><script type='text/javascript'>document.write('<img
+        height=\"1\" width=\"1\" src=\"https://www.market' + 'beat.com/scripts/NativeDisplayPixel.ashx?NativeDisplayAdID=3542&OfferBankID=0&Placement=PlaceOnOfferWall\"
+        alt=\"\" />');</script><img src=\"https://tracking.imspublishergroup.com/aff_i?offer_id=6091&aff_id=1502&url_id=22463&aff_sub5=d3217\"
+        height=\"1\" width=\"1\" alt=\"pixel\" /></span><div style=\"flex: 1 0 150px;-ms-flex:
+        1 0 200px;padding: 10px;\"><div style=\"padding: 0;border: none;overflow:
+        hidden;height: 100px;width: 100%;max-width: 250px;display:inline-block;vertical-align:
+        top;box-sizing: border-box;background-image: url(https://www.marketbeat.com/images/webpush/files/thumb_2046push_0421_OXF_A_BRK-Pack-IncomeSecrets_200.png);background-repeat:no-repeat;background-size:cover;background-position:
+        center;\"></div></div><div style=\"flex: 10 1 350px;-ms-flex: 10 1 350px;text-align:
+        left;padding: 15px 10px 10px;\"><div style=\"color: #757575;font-size: 15px;margin-bottom:
+        5px;\"><b style=\"display: inline-block;margin-right: 7px;\">Ad </b> Oxford
+        Club</div><div style=\"font-size: 25px;font-weight: bold;line-height: 1.05;color:
+        #000;\">Claim Your FREE Ultimate Dividend Package!</div><div style=\"color:
+        #000;margin:5px 0;line-height:1.2;font-size: 17px;\">Famous income expert
+        and Author of Get Rich With Dividends is giving away his Ultimate Dividend
+        Package\u2026 Free of charge!\n</div></div><div class='text-center' style=\"flex:
+        1 0 155px;-ms-flex: 1 0 150px;padding: 10px;align-content:center;\"><span
+        class='bright-gold-button' style='display:inline-block;color:#fff;font-weight:bold;padding:7px
+        12px;'>Get This Report</span></div></a><script type='text/javascript'>document.write('<a
+        target=\"_blank\" style=\"color: #000;font-weight:normal;font-size: 17px;padding:
+        5px;margin-bottom: 15px;\" class=\"shadow d-flex flex-wrap no-underline align-center\"
+        rel=\"nofollow\" href=\"https://www.ame' + 'ricanconsumernews.net/scripts/click.aspx?NativeDisplayAdID=3624&ImpressionID=0&UserID=0&Placement=PlaceOnOfferWall\">');</script><span
+        style=\"float:left;height:0;\"><script type='text/javascript'>document.write('<img
+        height=\"1\" width=\"1\" src=\"https://www.market' + 'beat.com/scripts/NativeDisplayPixel.ashx?NativeDisplayAdID=3624&OfferBankID=4102&Placement=PlaceOnOfferWall\"
+        alt=\"\" />');</script></span><div style=\"flex: 1 0 150px;-ms-flex: 1 0 200px;padding:
+        10px;\"><div style=\"padding: 0;border: none;overflow: hidden;height: 100px;width:
+        100%;max-width: 250px;display:inline-block;vertical-align: top;box-sizing:
+        border-box;background-image: url(https://www.marketbeat.com/images/webpush/files/thumb_2060push_VSQTF_02.jpg);background-repeat:no-repeat;background-size:cover;background-position:
+        center;\"></div></div><div style=\"flex: 10 1 350px;-ms-flex: 10 1 350px;text-align:
+        left;padding: 15px 10px 10px;\"><div style=\"color: #757575;font-size: 15px;margin-bottom:
+        5px;\"><b style=\"display: inline-block;margin-right: 7px;\">Ad </b> JuniorStocks</div><div
+        style=\"font-size: 25px;font-weight: bold;line-height: 1.05;color: #000;\">Finding
+        Opportunities in the Fourth Industrial Revolution</div><div style=\"color:
+        #000;margin:5px 0;line-height:1.2;font-size: 17px;\">Investors scan the globe
+        for investment opportunities in up and coming industries like AI, blockchain,
+        and Autonomous vehicles. This publicly-traded company acquires and invests
+        in promising startups. Its established management team finds cutting-edge
+        tech that\u2019s shaping the Fourth Industrial Revolution.</div></div><div
+        class='text-center' style=\"flex: 1 0 155px;-ms-flex: 1 0 150px;padding: 10px;align-content:center;\"><span
+        class='bright-gold-button' style='display:inline-block;color:#fff;font-weight:bold;padding:7px
+        12px;'>Get This Report</span></div></a><script type='text/javascript'>document.write('<a
+        target=\"_blank\" style=\"color: #000;font-weight:normal;font-size: 17px;padding:
+        5px;margin-bottom: 15px;\" class=\"shadow d-flex flex-wrap no-underline align-center\"
+        rel=\"nofollow\" href=\"https://www.ame' + 'ricanconsumernews.net/scripts/click.aspx?NativeDisplayAdID=3560&ImpressionID=0&UserID=0&Placement=PlaceOnOfferWall\">');</script><span
+        style=\"float:left;height:0;\"><script type='text/javascript'>document.write('<img
+        height=\"1\" width=\"1\" src=\"https://www.market' + 'beat.com/scripts/NativeDisplayPixel.ashx?NativeDisplayAdID=3560&OfferBankID=4074&Placement=PlaceOnOfferWall\"
+        alt=\"\" />');</script><img src=\"https://ioadserve.com/linkTrack/1481/14045/30218/147/marketbeat.com\"
+        height=\"1\" width=\"1\" alt=\"pixel\" /></span><div style=\"flex: 1 0 150px;-ms-flex:
+        1 0 200px;padding: 10px;\"><div style=\"padding: 0;border: none;overflow:
+        hidden;height: 100px;width: 100%;max-width: 250px;display:inline-block;vertical-align:
+        top;box-sizing: border-box;background-image: url(https://s3.amazonaws.com/iores/16080898a35de9);background-repeat:no-repeat;background-size:cover;background-position:
+        center;\"></div></div><div style=\"flex: 10 1 350px;-ms-flex: 10 1 350px;text-align:
+        left;padding: 15px 10px 10px;\"><div style=\"color: #757575;font-size: 15px;margin-bottom:
+        5px;\"><b style=\"display: inline-block;margin-right: 7px;\">Ad </b> Home
+        Bistro</div><div style=\"font-size: 25px;font-weight: bold;line-height: 1.05;color:
+        #000;\">The Next Household Name in At Home Dining is Here</div><div style=\"color:
+        #000;margin:5px 0;line-height:1.2;font-size: 17px;\">With a winning model
+        this company is changing how we prepare home cooked meals forever.</div></div><div
+        class='text-center' style=\"flex: 1 0 155px;-ms-flex: 1 0 150px;padding: 10px;align-content:center;\"><span
+        class='bright-gold-button' style='display:inline-block;color:#fff;font-weight:bold;padding:7px
+        12px;'>Get This Report</span></div></a><script type='text/javascript'>document.write('<a
+        target=\"_blank\" style=\"color: #000;font-weight:normal;font-size: 17px;padding:
+        5px;margin-bottom: 15px;\" class=\"shadow d-flex flex-wrap no-underline align-center\"
+        rel=\"nofollow\" href=\"https://www.ame' + 'ricanconsumernews.net/scripts/click.aspx?NativeDisplayAdID=3239&ImpressionID=0&UserID=0&Placement=PlaceOnOfferWall\">');</script><span
+        style=\"float:left;height:0;\"><script type='text/javascript'>document.write('<img
+        height=\"1\" width=\"1\" src=\"https://www.market' + 'beat.com/scripts/NativeDisplayPixel.ashx?NativeDisplayAdID=3239&OfferBankID=0&Placement=PlaceOnOfferWall\"
+        alt=\"\" />');</script><img src=\"https://tracking.imspublishergroup.com/aff_i?offer_id=6042&aff_id=1502&url_id=22484&aff_sub5=d3239\"
+        height=\"1\" width=\"1\" alt=\"pixel\" /></span><div style=\"flex: 1 0 150px;-ms-flex:
+        1 0 200px;padding: 10px;\"><div style=\"padding: 0;border: none;overflow:
+        hidden;height: 100px;width: 100%;max-width: 250px;display:inline-block;vertical-align:
+        top;box-sizing: border-box;background-image: url(https://www.marketbeat.com/images/webpush/files/thumb_2042push_0421_LRH_A_BNF-ESG-SAV-Ad10_200.jpg);background-repeat:no-repeat;background-size:cover;background-position:
+        center;\"></div></div><div style=\"flex: 10 1 350px;-ms-flex: 10 1 350px;text-align:
+        left;padding: 15px 10px 10px;\"><div style=\"color: #757575;font-size: 15px;margin-bottom:
+        5px;\"><b style=\"display: inline-block;margin-right: 7px;\">Ad </b> Legacy
+        Research</div><div style=\"font-size: 25px;font-weight: bold;line-height:
+        1.05;color: #000;\">FINALLY\u2026 Elon Musk's Secretive Supplier Revealed?</div><div
+        style=\"color: #000;margin:5px 0;line-height:1.2;font-size: 17px;\">\"Forget
+        Tesla. It's the company that's been supplying this key piece of tech to Elon
+        Musk that will shock everyone.\nThis is all part of a $30 trillion megatrend.\nAnd
+        I'm not talking about blockchain, artificial intelligence, 5G, robotics, or
+        the Internet of Things.\nThis trend is BIGGER than all of those things COMBINED!\nAnd
+        if Elon Musk mentions this company in a tweet, there's no telling how high
+        shares could go.\"\n</div></div><div class='text-center' style=\"flex: 1 0
+        155px;-ms-flex: 1 0 150px;padding: 10px;align-content:center;\"><span class='bright-gold-button'
+        style='display:inline-block;color:#fff;font-weight:bold;padding:7px 12px;'>Get
+        This Report</span></div></a><script type='text/javascript'>document.write('<a
+        target=\"_blank\" style=\"color: #000;font-weight:normal;font-size: 17px;padding:
+        5px;margin-bottom: 15px;\" class=\"shadow d-flex flex-wrap no-underline align-center\"
+        rel=\"nofollow\" href=\"https://www.ame' + 'ricanconsumernews.net/scripts/click.aspx?NativeDisplayAdID=3629&ImpressionID=0&UserID=0&Placement=PlaceOnOfferWall\">');</script><span
+        style=\"float:left;height:0;\"><script type='text/javascript'>document.write('<img
+        height=\"1\" width=\"1\" src=\"https://www.market' + 'beat.com/scripts/NativeDisplayPixel.ashx?NativeDisplayAdID=3629&OfferBankID=3819&Placement=PlaceOnOfferWall\"
+        alt=\"\" />');</script></span><div style=\"flex: 1 0 150px;-ms-flex: 1 0 200px;padding:
+        10px;\"><div style=\"padding: 0;border: none;overflow: hidden;height: 100px;width:
+        100%;max-width: 250px;display:inline-block;vertical-align: top;box-sizing:
+        border-box;background-image: url(https://www.marketbeat.com/images/webpush/files/thumb_2061push_PINK_01.jpg);background-repeat:no-repeat;background-size:cover;background-position:
+        center;\"></div></div><div style=\"flex: 10 1 350px;-ms-flex: 10 1 350px;text-align:
+        left;padding: 15px 10px 10px;\"><div style=\"color: #757575;font-size: 15px;margin-bottom:
+        5px;\"><b style=\"display: inline-block;margin-right: 7px;\">Ad </b> Street
+        Signals</div><div style=\"font-size: 25px;font-weight: bold;line-height: 1.05;color:
+        #000;\">Breakthrough AI Tech Stock</div><div style=\"color: #000;margin:5px
+        0;line-height:1.2;font-size: 17px;\">Advanced breast cancer imaging tools
+        could catapult this stock into the stratosphere.</div></div><div class='text-center'
+        style=\"flex: 1 0 155px;-ms-flex: 1 0 150px;padding: 10px;align-content:center;\"><span
+        class='bright-gold-button' style='display:inline-block;color:#fff;font-weight:bold;padding:7px
+        12px;'>Get This Report</span></div></a><script type='text/javascript'>document.write('<a
+        target=\"_blank\" style=\"color: #000;font-weight:normal;font-size: 17px;padding:
+        5px;margin-bottom: 15px;\" class=\"shadow d-flex flex-wrap no-underline align-center\"
+        rel=\"nofollow\" href=\"https://www.ame' + 'ricanconsumernews.net/scripts/click.aspx?NativeDisplayAdID=3565&ImpressionID=0&UserID=0&Placement=PlaceOnOfferWall\">');</script><span
+        style=\"float:left;height:0;\"><script type='text/javascript'>document.write('<img
+        height=\"1\" width=\"1\" src=\"https://www.market' + 'beat.com/scripts/NativeDisplayPixel.ashx?NativeDisplayAdID=3565&OfferBankID=4075&Placement=PlaceOnOfferWall\"
+        alt=\"\" />');</script></span><div style=\"flex: 1 0 150px;-ms-flex: 1 0 200px;padding:
+        10px;\"><div style=\"padding: 0;border: none;overflow: hidden;height: 100px;width:
+        100%;max-width: 250px;display:inline-block;vertical-align: top;box-sizing:
+        border-box;background-image: url(https://www.marketbeat.com/images/webpush/files/thumb_2062push_Jan20th%20ad%20pic.jpg);background-repeat:no-repeat;background-size:cover;background-position:
+        center;\"></div></div><div style=\"flex: 10 1 350px;-ms-flex: 10 1 350px;text-align:
+        left;padding: 15px 10px 10px;\"><div style=\"color: #757575;font-size: 15px;margin-bottom:
+        5px;\"><b style=\"display: inline-block;margin-right: 7px;\">Ad </b> Legacy
+        Research</div><div style=\"font-size: 25px;font-weight: bold;line-height:
+        1.05;color: #000;\">April 30 Could Be Critical for Your Financial Future</div><div
+        style=\"color: #000;margin:5px 0;line-height:1.2;font-size: 17px;\">They called
+        the 2020 crash 45 days early. Nobody expects what they're predicting now...</div></div><div
+        class='text-center' style=\"flex: 1 0 155px;-ms-flex: 1 0 150px;padding: 10px;align-content:center;\"><span
+        class='bright-gold-button' style='display:inline-block;color:#fff;font-weight:bold;padding:7px
+        12px;'>Get This Report</span></div></a>\n</div>\n</div>\n<div id=\"alpha_ad_unit\">\n\n</div>\n</div>\n</div>\n</article>\n</div>\n<footer
+        class=\"gradient-blue\" role=\"contentinfo\">\n<div class=\"container\">\n<span>\nAmerican
+        Consumer News, LLC dba MarketBeat &copy; All Rights Reserved\n</span>\n<span
+        class=\"dnc\">\n<a href=\"https://www.marketbeat.com/do-not-sell-my-information/\"
+        target=\"_blank\">\nDo not sell my information\n</a>\n</span>\n</div>\n</footer>\n\n<script
+        type=\"text/javascript\">\r\n    var sc_project = 11738635;\r\n    var sc_invisible
+        = 1;\r\n    var sc_security = \"439049ac\";\r\n    var sc_https = 1; \r\n</script>\n<script
+        type=\"text/javascript\" src=\"https://www.statcounter.com/counter/counter.js\"></script>\n<noscript><div
+        class=\"statcounter\"><a title=\"Web Analytics Made Easy - StatCounter\" href=\"https://statcounter.com/\"
+        target=\"_blank\"><img class=\"statcounter\" src=\"https://c.statcounter.com/11738635/0/439049ac/1/\"
+        alt=\"Web Analytics Made Easy -StatCounter\"></a></div></noscript>\n\n\n<script
+        type=\"text/javascript\">\r\n    var sc_project = 7602069;\r\n    var sc_invisible
+        = 1;\r\n    var sc_security = \"74cbf3e8\";\r\n    var sc_https = 1; \r\n</script>\n<script
+        type=\"text/javascript\" src=\"https://www.statcounter.com/counter/counter.js\"></script>\n<noscript><div
+        class=\"statcounter\"><a title=\"Web Analytics Made Easy - StatCounter\" href=\"https://statcounter.com/\"
+        target=\"_blank\"><img class=\"statcounter\" src=\"https://c.statcounter.com/7602069/0/74cbf3e8/1/\"
+        alt=\"Web Analytics Made Easy - StatCounter\"></a></div></noscript>\n\n\n<script
+        type=\"text/javascript\">\r\n    var sc_project = 12406237;\r\n    var sc_invisible
+        = 1;\r\n    var sc_security = \"3969b3c8\";\r\n    var sc_https = 1; \r\n</script>\n<script
+        type=\"text/javascript\" src=\"https://www.statcounter.com/counter/counter.js\"
+        async></script>\n<noscript><div class=\"statcounter\"><a title=\"Web Analytics\"
+        href=\"https://statcounter.com/\" target=\"_blank\"><img class=\"statcounter\"
+        src=\"https://c.statcounter.com/12406237/0/3969b3c8/1/\" alt=\"Web Analytics\"></a></div></noscript>\n\n\n<script
+        type=\"text/javascript\">\r\n    (function (i, s, o, g, r, a, m) {\r\n        i['GoogleAnalyticsObject']
+        = r; i[r] = i[r] || function () {\r\n            (i[r].q = i[r].q || []).push(arguments)\r\n
+        \       }, i[r].l = 1 * new Date(); a = s.createElement(o),\r\n            m
+        = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a,
+        m)\r\n    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js',
+        'ga');\r\n    ga('create', 'UA-3019647-27', 'auto');\r\n    ga('send', 'pageview');\r\n</script>\n
+        <script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-1050184556\"></script>
+        <script> window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments);
+        } gtag('js', new Date()); gtag('config', 'AW-1050184556'); </script>\n<div
+        id=\"pnl404StatCounter\">\n\n<script type=\"text/javascript\">\r\n    var
+        sc_project = 9108152;\r\n    var sc_invisible = 1;\r\n    var sc_security
+        = \"7f323cfc\";\r\n    var sc_https = 1; \r\n</script>\n<script type=\"text/javascript\"
+        src=\"https://www.statcounter.com/counter/counter.js\"></script>\n<noscript><div
+        class=\"statcounter\"><a title=\"website statistics\" href=\"https://statcounter.com/\"
+        target=\"_blank\"><img class=\"statcounter\" src=\"//c.statcounter.com/9108152/0/7f323cfc/1/\"
+        alt=\"website statistics\"></a></div></noscript>\n\n</div>\n</body>\n</html>\n"
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - DYNAMIC
+      CF-RAY:
+      - 6468f90e9d573f04-KBP
+      Cache-Control:
+      - private
+      Connection:
+      - keep-alive
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Tue, 27 Apr 2021 15:09:36 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d10abd1953b3bdfda0f9bdb477066df741619536176; expires=Thu, 27-May-21
+        15:09:36 GMT; path=/; domain=.marketbeat.com; HttpOnly; SameSite=Lax
+      - ASP.NET_SessionId=iy1pqpdbxqe2vejtqt0fho2e; path=/; secure; HttpOnly; SameSite=Lax
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-XSS-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 09b579fd1c00003f0426930000000001
+      content-length:
+      - '30203'
+    status:
+      code: 200
+      message: OK
+version: 1

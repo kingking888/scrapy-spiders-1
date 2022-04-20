@@ -1,0 +1,1356 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - fieldcropnews.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://fieldcropnews.com/
+  response:
+    body:
+      string: "<!DOCTYPE html>\n<!--[if IE 7]>\n<html class=\"ie ie7\" lang=\"en-US\"\
+        >\n<![endif]-->\n<!--[if IE 8]>\n<html class=\"ie ie8\" lang=\"en-US\">\n\
+        <![endif]-->\n<!--[if IE 9]>\n<html class=\"ie ie9\" lang=\"en-US\">\n<![endif]-->\n\
+        <!--[if gte IE 9]><!-->\n<html lang=\"en-US\">\n<!--<![endif]-->\n<head>\n\
+        \t<meta charset=\"UTF-8\">\n\t<link rel=\"profile\" href=\"http://gmpg.org/xfn/11\"\
+        >\n\t<link rel=\"pingback\" href=\"https://fieldcropnews.com/xmlrpc.php\"\
+        >\n\t<title>Field Crop News</title>\n\n<!-- All In One SEO Pack 3.7.1[417,549]\
+        \ -->\n<meta name=\"description\"  content=\"Acreage of dry beans increased\
+        \ approximately 20% over 2019, and 50% over 2018. Total acreage of dry beans\
+        \ insured by Agricorp in 2020 was 157,610 acres (Table\" />\n\n<meta name=\"\
+        keywords\"  content=\"cereal rye,organic no-till,roller crimper,soybeans,bt\
+        \ resistant rootworm,mitigation measures,presentations and videos,rootworm,rootworm\
+        \ video,2020,corn,don,ontario,survey,bt,bt resistance,bt rootworm,corn rootworm,feed,ccpc,long\
+        \ term responsible use of bt corn,resistance management,bt hybrids,bt trait\
+        \ table,european corn borer,western bean cutworm,knolls,management,ph,productivity,soil,topsoil,carbon,manure,nutrients,frost,prussic\
+        \ acid,sorghum,sorghum-sudangrass,sudangrass,forages,grass,jointing,non-jointing\"\
+        \ />\n<link rel=\"next\" href=\"https://fieldcropnews.com/page/2/\" />\n\n\
+        <script type=\"application/ld+json\" class=\"aioseop-schema\">{\"@context\"\
+        :\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"\
+        https://fieldcropnews.com/#organization\",\"url\":\"https://fieldcropnews.com/\"\
+        ,\"name\":\"Field Crop News\",\"sameAs\":[]},{\"@type\":\"WebSite\",\"@id\"\
+        :\"https://fieldcropnews.com/#website\",\"url\":\"https://fieldcropnews.com/\"\
+        ,\"name\":\"Field Crop News\",\"publisher\":{\"@id\":\"https://fieldcropnews.com/#organization\"\
+        },\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":\"https://fieldcropnews.com/?s={search_term_string}\"\
+        ,\"query-input\":\"required name=search_term_string\"}},{\"@type\":\"WebPage\"\
+        ,\"@id\":\"https://fieldcropnews.com#webpage\",\"url\":\"https://fieldcropnews.com\"\
+        ,\"inLanguage\":\"en-US\",\"name\":\"Field Crop News\",\"isPartOf\":{\"@id\"\
+        :\"https://fieldcropnews.com/#website\"},\"breadcrumb\":{\"@id\":\"https://fieldcropnews.com#breadcrumblist\"\
+        },\"description\":\"Ontario Ministry of Agriculture, Food and Rural Affairs\
+        \  in partnership with the University of Guelph\",\"about\":{\"@id\":\"https://fieldcropnews.com/#organization\"\
+        }},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://fieldcropnews.com#breadcrumblist\"\
+        ,\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"\
+        @type\":\"WebPage\",\"@id\":\"https://fieldcropnews.com/\",\"url\":\"https://fieldcropnews.com/\"\
+        ,\"name\":\"Field Crop News\"}}]}]}</script>\n<link rel=\"canonical\" href=\"\
+        https://fieldcropnews.com/\" />\n<!-- All In One SEO Pack -->\n<link rel='dns-prefetch'\
+        \ href='//fonts.googleapis.com' />\n<link rel='dns-prefetch' href='//s.w.org'\
+        \ />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Field Crop\
+        \ News &raquo; Feed\" href=\"https://fieldcropnews.com/feed/\" />\n<link rel=\"\
+        alternate\" type=\"application/rss+xml\" title=\"Field Crop News &raquo; Comments\
+        \ Feed\" href=\"https://fieldcropnews.com/comments/feed/\" />\n\t\t<script\
+        \ type=\"text/javascript\">\n\t\t\twindow._wpemojiSettings = {\"baseUrl\"\
+        :\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.0.0\\/72x72\\/\",\"ext\"\
+        :\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.0.0\\\
+        /svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/fieldcropnews.com\\\
+        /wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.5.3\"}};\n\t\t\t!function(e,a,t){var\
+        \ r,n,o,i,p=a.createElement(\"canvas\"),s=p.getContext&&p.getContext(\"2d\"\
+        );function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var\
+        \ r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function\
+        \ l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline=\"top\",s.font=\"\
+        600 32px Arial\",e){case\"flag\":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case\"\
+        emoji\":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function\
+        \ d(e){var t=a.createElement(\"script\");t.src=e,t.defer=t.type=\"text/javascript\"\
+        ,a.getElementsByTagName(\"head\")[0].appendChild(t)}for(i=Array(\"flag\",\"\
+        emoji\"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],\"\
+        flag\"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener(\"\
+        DOMContentLoaded\",n,!1),e.addEventListener(\"load\",n,!1)):(e.attachEvent(\"\
+        onload\",n),a.attachEvent(\"onreadystatechange\",function(){\"complete\"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);\n\
+        \t\t</script>\n\t\t<style type=\"text/css\">\nimg.wp-smiley,\nimg.emoji {\n\
+        \tdisplay: inline !important;\n\tborder: none !important;\n\tbox-shadow: none\
+        \ !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin:\
+        \ 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground:\
+        \ none !important;\n\tpadding: 0 !important;\n}\n</style>\n\t<link rel='stylesheet'\
+        \ id='wp-block-library-css'  href='https://fieldcropnews.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='contact-form-7-css'\
+        \  href='https://fieldcropnews.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='wp-postratings-css'\
+        \  href='https://fieldcropnews.com/wp-content/plugins/wp-postratings/css/postratings-css.css?ver=1.89'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='van-bootstrap-css'\
+        \  href='https://fieldcropnews.com/wp-content/themes/ganter/assets/css/bootstrap.min.css?ver=5.5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='mediaelement-css'\
+        \  href='https://fieldcropnews.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='wp-mediaelement-css'\
+        \  href='https://fieldcropnews.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='van-fonts-css'\
+        \  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C700%2C+600&#038;ver=5.5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='van-fa-css' \
+        \ href='https://fieldcropnews.com/wp-content/themes/ganter/assets/css/font-awesome.min.css?ver=5.5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='van-style-css'\
+        \  href='https://fieldcropnews.com/wp-content/themes/ganter-child/style.css?ver=5.5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='van-shortcodes-css'\
+        \  href='https://fieldcropnews.com/wp-content/themes/ganter/assets/css/shortcodes.css?ver=5.5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='van-plugins-css'\
+        \  href='https://fieldcropnews.com/wp-content/themes/ganter/assets/css/plugins.css?ver=5.5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='van-responsive-css'\
+        \  href='https://fieldcropnews.com/wp-content/themes/ganter/assets/css/responsive.css?ver=5.5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='searchwp-live-search-css'\
+        \  href='https://fieldcropnews.com/wp-content/plugins/searchwp-live-ajax-search/assets/styles/style.css?ver=1.4.6'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='tablepress-default-css'\
+        \  href='https://fieldcropnews.com/wp-content/tablepress-combined.min.css?ver=10'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='tablepress-responsive-tables-css'\
+        \  href='https://fieldcropnews.com/wp-content/plugins/tablepress-responsive-tables/css/tablepress-responsive.min.css?ver=1.7'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='redux-google-fonts-van_options-css'\
+        \  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400&#038;ver=1591361817'\
+        \ type='text/css' media='all' />\n<script type='text/javascript' src='https://fieldcropnews.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'\
+        \ id='jquery-core-js'></script>\n<script type='text/javascript' src='https://fieldcropnews.com/wp-content/themes/ganter-child/assets/js/child-scripts.js?ver=5.5.3'\
+        \ id='child-scripts-js'></script>\n<link rel=\"https://api.w.org/\" href=\"\
+        https://fieldcropnews.com/wp-json/\" /><link rel=\"EditURI\" type=\"application/rsd+xml\"\
+        \ title=\"RSD\" href=\"https://fieldcropnews.com/xmlrpc.php?rsd\" />\n<link\
+        \ rel=\"wlwmanifest\" type=\"application/wlwmanifest+xml\" href=\"https://fieldcropnews.com/wp-includes/wlwmanifest.xml\"\
+        \ /> \n\t<link rel=\"shortcut icon\" href=\"https://fieldcropnews.com/wp-content/themes/ganter/favicon.ico\"\
+        \ >\t\r\n\t\t<!--[if lt IE 9]>\r\n\t<script src=\"https://fieldcropnews.com/wp-content/themes/ganter/assets/js/html5shiv.js\"\
+        ></script>\r\n\t<script src=\"https://fieldcropnews.com/wp-content/themes/ganter/assets/js/selectivizr-min.js\"\
+        ></script>\r\n\t<![endif]-->\r\n\t<meta name=\"viewport\" content=\"width=device-width,\
+        \ initial-scale=1, maximum-scale=1\" >\n\n<style type=\"text/css\" media=\"\
+        screen\">\n::selection { background: #59b20c }\n::-moz-selection { background:\
+        \ #59b20c }\n.loader:after {border-left-color: #59b20c;}.loader:before {border-right-color:\
+        \ #59b20c;}\n#main-header #main-navigation .main-nav ul li.menu-item-12279.current-menu-item\
+        \ > a,#main-header #main-navigation .main-nav ul li.menu-item-12279.current-menu-parent\
+        \ > a,#main-header #main-navigation .main-nav ul li.menu-item-12279:hover\
+        \ > a , #main-header #main-navigation .main-nav ul li.menu-item-12279.current-menu-item\
+        \ > a{ color: #81d742 }#main-header #main-navigation .main-nav ul li.menu-item-16380.current-menu-item\
+        \ > a,#main-header #main-navigation .main-nav ul li.menu-item-16380.current-menu-parent\
+        \ > a,#main-header #main-navigation .main-nav ul li.menu-item-16380:hover\
+        \ > a , #main-header #main-navigation .main-nav ul li.menu-item-16380.current-menu-item\
+        \ > a{ color: #81d742 }#main-header #main-navigation .main-nav ul li.menu-item-16393.current-menu-item\
+        \ > a,#main-header #main-navigation .main-nav ul li.menu-item-16393.current-menu-parent\
+        \ > a,#main-header #main-navigation .main-nav ul li.menu-item-16393:hover\
+        \ > a , #main-header #main-navigation .main-nav ul li.menu-item-16393.current-menu-item\
+        \ > a{ color: #81d742 }#main-header #main-navigation .main-nav ul li.menu-item-16394.current-menu-item\
+        \ > a,#main-header #main-navigation .main-nav ul li.menu-item-16394.current-menu-parent\
+        \ > a,#main-header #main-navigation .main-nav ul li.menu-item-16394:hover\
+        \ > a , #main-header #main-navigation .main-nav ul li.menu-item-16394.current-menu-item\
+        \ > a{ color: #81d742 }</style>\n\t\t<style type=\"text/css\" id=\"wp-custom-css\"\
+        >\n\t\t\t#comments {\n    display: none !important;\n}\n\ndiv.post-meta .comments\
+        \ {\n\t\tdisplay: none !important;\n}\n\n@media only screen and (min-width:\
+        \ 990px) {\n\tdiv.sidebar-toggle {\n\tdisplay:none!important;\n\t\t}\n}\n\n\
+        /* Search button alignment fix 06-05-2020 */\ninput.search-submit {\n\tmargin-top:10px;\n\
+        }\n\nspan.screen-reader-text {\n\tdisplay:none;\n}\t\t</style>\n\t\t<style\
+        \ type=\"text/css\" title=\"dynamic-css\" class=\"options-output\">#main-header\
+        \ .header-content-container{background-repeat:no-repeat;background-size:cover;background-position:center\
+        \ top;background-image:url('https://fieldcropnews.com/wp-content/uploads/2016/07/banner-400-05729915b.jpg');}h1\
+        \ a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,a:hover,a:focus,a:active,.t-cr,.article\
+        \ .post-meta span a:hover,.article .article-footer .post-tags a:hover,#comments\
+        \ .commentslist li .comment-header .comment-author a:hover,#breadcrumb ul\
+        \ li.active ,.author-widget .author-box-inner .author-info .author-name a:hover,.widget_nav_menu\
+        \ li:before,.widget_archive li:before,.widget_categories li:before,.widget_pages\
+        \ li:before,.widget_meta li:before,.widget_recent_comments li:before,.widget_recent_entries\
+        \ li:before,.widget_rss li:before,#main-footer a:hover, #main-header #main-navigation\
+        \ .main-nav ul li.current-menu-item > a, #main-header #main-navigation .main-nav\
+        \ ul li.current-menu-parent > a, #main-header #main-navigation .main-nav ul\
+        \ li:hover > a{color:#59b20c;}button,.btn,#comments .replay,.e-bg,.b-load\
+        \ .loading-container,.social-networks ul li a.fa-search,.numeric-pagination\
+        \ .current,.numeric-pagination a:hover,.hot-news-widget .hot-news-tabs ul\
+        \ li.active a,#main-footer .hot-news-widget .hot-news-tabs ul li.active a,.widget_calendar\
+        \ table thead th, .section-title h3:before{background-color:#59b20c;}input[type=\"\
+        text\"]:focus,input[type=\"password\"]:focus,input[type=\"email\"]:focus,input[type=\"\
+        search\"]:focus,textarea:focus,.e-br,.article .post-meta span.post-icon,.numeric-pagination\
+        \ .current,.numeric-pagination a:hover,#breadcrumb ul li.active ,.widget_tag_cloud\
+        \ a:hover,#main-footer .widget_tag_cloud a:hover,#main-footer .widget input[type=text]:focus,#main-footer\
+        \ .widget input[type=password]:focus,#main-footer .widget textarea:focus,#main-footer\
+        \ .widget select:focus{border-color:#59b20c;}body{background-color:#f4f6f5;background-repeat:no-repeat;background-image:url('https://fieldcropnews.com/wp-content/uploads/2018/02/field-crop-news-1.jpg');}body,\
+        \ input[type=\"text\"], input[type=\"password\"], input[type=\"email\"], input[type=\"\
+        search\"], textarea, .social-counter-widget ul li .value, .hot-news-widget\
+        \ .hot-news-tabs ul li a{color:#242e37;}h1, h2, h3, h4, h5, h6{color:#242e37;}#main-header\
+        \ #main-navigation .main-nav ul li a,#main-header #main-navigation .main-nav\
+        \ ul li.current-menu-item > a,#main-header #main-navigation .main-nav ul li.current-menu-parent\
+        \ > a{color:#ffffff;}#main-header #main-navigation .main-nav ul li a:hover,#main-header\
+        \ #main-navigation .main-nav ul li.current-menu-item > a:hover,#main-header\
+        \ #main-navigation .main-nav ul li.current-menu-parent > a:hover{color:#242e37;}#main-header\
+        \ #main-navigation .main-nav ul li a:active,#main-header #main-navigation\
+        \ .main-nav ul li.current-menu-item > a:active,#main-header #main-navigation\
+        \ .main-nav ul li.current-menu-parent > a:active{color:#41758d;}#main-footer{background-color:#242e37;}#main-footer\
+        \ .hot-news-widget .hot-news-tabs ul li a, #footer-widgets .posts-widget .list-style\
+        \ li, #main-footer #footer-bottom .scrolltop{background-color:#202a33;}#main-footer\
+        \ #footer-bottom, #main-footer .widget input[type=text], #main-footer .widget\
+        \ input[type=password], #main-footer .widget textarea, #main-footer .widget\
+        \ select,#main-footer #footer-widgets .widget-title,#main-footer .widget_categories\
+        \ select, #main-footer .widget_text select, #main-footer .widget_archive select,#main-footer\
+        \ .widget_calendar table td, #main-footer .widget_calendar table th,#main-footer\
+        \ .widget_tag_cloud a,#main-footer .social-counter-widget ul li,#footer-widgets\
+        \ .flickr-widget .flickr_badge_image img,#main-footer #footer-bottom .footer-menu{border-color:#202a33;}#main-footer\
+        \ #footer-widgets .widget-title h3{color:#ffffff;}#main-footer{color:#ffffff;}#main-footer\
+        \ a{color:#437c96;}#main-footer a:hover{color:#d6d6d6;}#main-footer a:active{color:#437c96;}body,\
+        \ input[type=\"text\"],input[type=\"password\"],input[type=\"email\"],input[type=\"\
+        search\"],textarea, input[type=\"submit\"],button,.btn,#comments .replay{font-family:\"\
+        Open Sans\";font-weight:400;font-style:normal;font-size:14px;}h1, h2, h3,\
+        \ h4, h5, h6{font-family:\"Open Sans\";}h1{font-weight:900;font-style:normal;font-size:20px;}h2{font-weight:700;font-style:normal;font-size:18px;}h3{font-weight:400;font-style:normal;font-size:16px;}</style>\t\
+        <script>\n\t  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n\
+        \t  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n\
+        \t  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n\
+        \t  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\
+        \t\n\t  ga('create', 'UA-26139506-1', 'auto');\n\t  ga('send', 'pageview');\n\
+        \t\n\t</script>\n</head> \n<body class=\"home blog responsive blog-1cl right-sidebar\"\
+        \ >\n\t<header id=\"main-header\" class=\"large-header\" >\n\t\t\t<div class=\"\
+        header-content-container\" >\n\t\t\t\t\t\t\t\t<div class=\"header-content\
+        \ clearfix\" >\n\t\t\t\t\t<div class=\"container\">\n\t\t\t\t\t\t<div class=\"\
+        sidebar-toggle fa-navicon fa\"></div>\n\t\t\t\t\t\t<div class=\"logo\">\n\t\
+        \t\t\t\t\t\t<h1>\t\t<a href=\"https://fieldcropnews.com/\" >\r\n\t\t\tField\
+        \ Crop News\t\t</a>\r\n\t</h1>\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\
+        \t\t\t\t\t\t\t\t<div class=\"header-social social-networks\">\n\t\t\t\t\t\t\
+        \t\t<ul class=\"clearfix\"><li><a href=\"/feed\" target=\"_blank\" title=\"\
+        Rss\" class=\"fa fa-rss\" ><span class=\"sr-only\">Rss</span></a></li><li><a\
+        \ href=\"https://twitter.com/onfieldcrops\" target=\"_blank\" title=\"Twitter\"\
+        \ class=\"fa fa-twitter\" ><span class=\"sr-only\">Twitter</span></a></li><li><a\
+        \ href=\"#\" class=\"fa fa-search\" ><span class=\"sr-only\">Search</span></a></li></ul>\t\
+        \t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\
+        \t\t\t</div>\n\n\t\t\t<div id=\"main-navigation\" class=\"\">\n\n\t\t\t\t\
+        <div class=\"nav-container container\">\n\n\t\t\t\t\t<nav class=\"mobile-nav\
+        \ visible-xs visible-sm\">\n\t\t\t\t\t\t\t<div class=\"mobile-nav-inner mobile-nav-closed\"\
+        \ >\r\n\t\t<div class=\"nav-button clearfix\" >\r\n\t\t\t<i class=\"fa fa-bars\"\
+        ></i>\r\n\t\t\t<span>Menu</span>\r\n\t\t</div>\r\n\t<ul id=\"menu-main-navigation\"\
+        \ class=\"mobile-nav-list\"><li id=\"menu-item-24\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-24\"><a href=\"https://fieldcropnews.com/about/\"\
+        >About</a></li>\n<li id=\"menu-item-58\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-58\"><a href=\"https://fieldcropnews.com/archives/\"\
+        >Archives</a></li>\n<li id=\"menu-item-59\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-59\"><a href=\"https://fieldcropnews.com/authors/\"\
+        >Authors</a></li>\n<li id=\"menu-item-12279\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-post_tag menu-item-has-children menu-item-12279\"><a href=\"\
+        https://fieldcropnews.com/tag/resources/\">Tools and Resources</a>\n<ul class=\"\
+        sub-menu\">\n\t<li id=\"menu-item-12280\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-post_tag menu-item-12280\"><a href=\"https://fieldcropnews.com/tag/apps/\"\
+        >Apps</a></li>\n\t<li id=\"menu-item-12281\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-post_tag menu-item-12281\"><a href=\"https://fieldcropnews.com/tag/presentations/\"\
+        >Presentations and Videos</a></li>\n</ul>\n</li>\n<li id=\"menu-item-16380\"\
+        \ class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children\
+        \ menu-item-16380\"><a href=\"#\">OMAFRA Publications</a>\n<ul class=\"sub-menu\"\
+        >\n\t<li id=\"menu-item-16486\" class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-16486\"><a href=\"http://www.omafra.gov.on.ca/english/crops/pub811/p811toc.html\"\
+        >Agronomy Guide</a></li>\n\t<li id=\"menu-item-16384\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-post menu-item-16384\"><a href=\"https://fieldcropnews.com/2018/05/omafra-pub-812-field-crop-protection-guide-2018-19-now-available/\"\
+        >Crop Protection Guide</a></li>\n\t<li id=\"menu-item-16381\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-post menu-item-16381\"><a href=\"\
+        https://fieldcropnews.com/2018/05/guide-to-weed-control-in-field-crops-pub-75a/\"\
+        >Guide to Weed Control</a></li>\n\t<li id=\"menu-item-16382\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-post menu-item-16382\"><a href=\"\
+        https://fieldcropnews.com/2018/12/new-soil-fertility-handbook-released/\"\
+        >Soil Fertility Handbook</a></li>\n\t<li id=\"menu-item-16389\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-post menu-item-16389\"><a href=\"\
+        https://fieldcropnews.com/2017/03/problem-weed-guide/\">Problem Weed Guide</a></li>\n\
+        \t<li id=\"menu-item-16388\" class=\"menu-item menu-item-type-post_type menu-item-object-post\
+        \ menu-item-16388\"><a href=\"https://fieldcropnews.com/2016/09/weed-id-guide-for-ontario-crops/\"\
+        >Weed ID Guide</a></li>\n</ul>\n</li>\n<li id=\"menu-item-16393\" class=\"\
+        menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children\
+        \ menu-item-16393\"><a href=\"https://fieldcropnews.com/2020/04/2020-great-lakes-and-maritimes-pest-monitoring-network/\"\
+        >Pest Monitoring Network</a>\n<ul class=\"sub-menu\">\n\t<li id=\"menu-item-17668\"\
+        \ class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-17668\"\
+        ><a href=\"https://fieldcropnews.com/2020/04/2020-great-lakes-and-maritimes-pest-monitoring-network/\"\
+        >Trapping Instructions</a></li>\n\t<li id=\"menu-item-17666\" class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom menu-item-17666\"><a href=\"\
+        https://arcg.is/0aWqr0\">Trap Data Dashboard</a></li>\n\t<li id=\"menu-item-16474\"\
+        \ class=\"menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16474\"\
+        ><a href=\"https://fieldcropnews.com/category/bautebugblog/\">Baute Bug Blog</a></li>\n\
+        </ul>\n</li>\n<li id=\"menu-item-16394\" class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-has-children menu-item-16394\"><a href=\"\
+        http://X\">Mapping Tools</a>\n<ul class=\"sub-menu\">\n\t<li id=\"menu-item-16396\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-post menu-item-has-children\
+        \ menu-item-16396\"><a href=\"https://fieldcropnews.com/2017/03/did-you-hear-weve-made-some-great-improvements-to-the-agricultural-information-atlas/\"\
+        >Ag Maps</a>\n\t<ul class=\"sub-menu\">\n\t\t<li id=\"menu-item-16397\" class=\"\
+        menu-item menu-item-type-post_type menu-item-object-post menu-item-16397\"\
+        ><a href=\"https://fieldcropnews.com/2015/09/free-online-tutorials-to-help-you-use-the-agricultural-information-atlas/\"\
+        >Tutorials: Ag Maps</a></li>\n\t</ul>\n</li>\n\t<li id=\"menu-item-18430\"\
+        \ class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-18430\"\
+        ><a href=\"https://www.arcgis.com/apps/webappviewer/index.html?id=da286cbc3e764ffda01783bcd18946e4\"\
+        >Cereal leaf beetle tracker</a></li>\n\t<li id=\"menu-item-18908\" class=\"\
+        menu-item menu-item-type-custom menu-item-object-custom menu-item-18908\"\
+        ><a href=\"https://fieldcropnews.com/2016/03/herbicide-resistant-weed-maps/\"\
+        >Herbicide resistant weeds</a></li>\n</ul>\n</li>\n<li id=\"menu-item-16475\"\
+        \ class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children\
+        \ menu-item-16475\"><a href=\"#\">Variety Selection</a>\n<ul class=\"sub-menu\"\
+        >\n\t<li id=\"menu-item-16487\" class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-16487\"><a href=\"https://www.gosoy.ca/canolahome.php\">Canola</a></li>\n\
+        \t<li id=\"menu-item-16477\" class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-16477\"><a href=\"https://www.gocereals.ca/\">Cereals</a></li>\n\
+        \t<li id=\"menu-item-16479\" class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-16479\"><a href=\"http://gocorn.net/v2006/CornReports/2018cornreport/2018performancetrials.html\"\
+        >Corn</a></li>\n\t<li id=\"menu-item-16488\" class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-16488\"><a href=\"https://www.gobeans.ca/index.php\"\
+        >Edible Beans</a></li>\n\t<li id=\"menu-item-16480\" class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-16480\"><a href=\"https://www.plant.uoguelph.ca/forages/goforages-forage-performance\"\
+        >Forages</a></li>\n\t<li id=\"menu-item-16478\" class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-16478\"><a href=\"https://www.gosoy.ca/\"\
+        >Soybean</a></li>\n</ul>\n</li>\n<li id=\"menu-item-18854\" class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18854\"\
+        ><a href=\"https://bdc.ridgetownc.com/useservices/conferencemanagement/southwest-crop-diagnostic-days/\"\
+        >Ontario Virtual Diagnostic Days</a>\n<ul class=\"sub-menu\">\n\t<li id=\"\
+        menu-item-18936\" class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-18936\"><a href=\"https://fieldcropnews.com/2020/08/2020-ontario-virtual-diagnostic-days/\"\
+        >Watch Episodes</a></li>\n\t<li id=\"menu-item-18935\" class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-18935\"><a href=\"https://bdc.ridgetownc.com/useservices/conferencemanagement/southwest-crop-diagnostic-days/\"\
+        >Registration for CEU&#8217;s</a></li>\n</ul>\n</li>\n</ul>\t</div>\r\n\t\t\
+        \t\t\t\t</nav>\n\t\t\t\t\t<nav class=\"main-nav hidden-xs hidden-sm\">\n\t\
+        \t\t\t\t\t\t\t\t\t\t\t<ul id=\"menu-main-navigation-1\" class=\"menu\"><li\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-24\"\
+        ><a href=\"https://fieldcropnews.com/about/\">About<span class=\"menu-item-color\
+        \ e-bg\"></span></a></li>\n<li class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-58\"><a href=\"https://fieldcropnews.com/archives/\"\
+        >Archives<span class=\"menu-item-color e-bg\"></span></a></li>\n<li class=\"\
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-59\"><a\
+        \ href=\"https://fieldcropnews.com/authors/\">Authors<span class=\"menu-item-color\
+        \ e-bg\"></span></a></li>\n<li class=\"menu-item menu-item-type-taxonomy menu-item-object-post_tag\
+        \ menu-item-has-children menu-item-12279\"><a href=\"https://fieldcropnews.com/tag/resources/\"\
+        ><i class=\"menu-item-icon fa-wrench\" ></i>Tools and Resources<span class=\"\
+        menu-item-color\" style=\"background:#81d742;\" ></span></a>\n<ul class=\"\
+        sub-menu\">\n\t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-post_tag\
+        \ menu-item-12280\"><a href=\"https://fieldcropnews.com/tag/apps/\">Apps</a></li>\n\
+        \t<li class=\"menu-item menu-item-type-taxonomy menu-item-object-post_tag\
+        \ menu-item-12281\"><a href=\"https://fieldcropnews.com/tag/presentations/\"\
+        >Presentations and Videos</a></li>\n</ul>\n</li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-has-children menu-item-16380\"><a href=\"\
+        #\"><i class=\"menu-item-icon fa-book\" ></i>OMAFRA Publications<span class=\"\
+        menu-item-color\" style=\"background:#81d742;\" ></span></a>\n<ul class=\"\
+        sub-menu\">\n\t<li class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-16486\"><a href=\"http://www.omafra.gov.on.ca/english/crops/pub811/p811toc.html\"\
+        >Agronomy Guide</a></li>\n\t<li class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-post menu-item-16384\"><a href=\"https://fieldcropnews.com/2018/05/omafra-pub-812-field-crop-protection-guide-2018-19-now-available/\"\
+        >Crop Protection Guide</a></li>\n\t<li class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-post menu-item-16381\"><a href=\"https://fieldcropnews.com/2018/05/guide-to-weed-control-in-field-crops-pub-75a/\"\
+        >Guide to Weed Control</a></li>\n\t<li class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-post menu-item-16382\"><a href=\"https://fieldcropnews.com/2018/12/new-soil-fertility-handbook-released/\"\
+        >Soil Fertility Handbook</a></li>\n\t<li class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-post menu-item-16389\"><a href=\"https://fieldcropnews.com/2017/03/problem-weed-guide/\"\
+        >Problem Weed Guide</a></li>\n\t<li class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-post menu-item-16388\"><a href=\"https://fieldcropnews.com/2016/09/weed-id-guide-for-ontario-crops/\"\
+        >Weed ID Guide</a></li>\n</ul>\n</li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-has-children menu-item-16393\"><a href=\"\
+        https://fieldcropnews.com/2020/04/2020-great-lakes-and-maritimes-pest-monitoring-network/\"\
+        ><i class=\"menu-item-icon fa-bug\" ></i>Pest Monitoring Network<span class=\"\
+        menu-item-color\" style=\"background:#81d742;\" ></span></a>\n<ul class=\"\
+        sub-menu\">\n\t<li class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-17668\"><a href=\"https://fieldcropnews.com/2020/04/2020-great-lakes-and-maritimes-pest-monitoring-network/\"\
+        >Trapping Instructions</a></li>\n\t<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-17666\"><a href=\"https://arcg.is/0aWqr0\"\
+        >Trap Data Dashboard</a></li>\n\t<li class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-16474\"><a href=\"https://fieldcropnews.com/category/bautebugblog/\"\
+        >Baute Bug Blog</a></li>\n</ul>\n</li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-has-children menu-item-16394\"><a href=\"\
+        http://X\"><i class=\"menu-item-icon fa-globe\" ></i>Mapping Tools<span class=\"\
+        menu-item-color\" style=\"background:#81d742;\" ></span></a>\n<ul class=\"\
+        sub-menu\">\n\t<li class=\"menu-item menu-item-type-post_type menu-item-object-post\
+        \ menu-item-has-children menu-item-16396\"><a href=\"https://fieldcropnews.com/2017/03/did-you-hear-weve-made-some-great-improvements-to-the-agricultural-information-atlas/\"\
+        >Ag Maps</a>\n\t<ul class=\"sub-menu\">\n\t\t<li class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-post menu-item-16397\"><a href=\"https://fieldcropnews.com/2015/09/free-online-tutorials-to-help-you-use-the-agricultural-information-atlas/\"\
+        >Tutorials: Ag Maps</a></li>\n\t</ul>\n</li>\n\t<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-18430\"><a href=\"https://www.arcgis.com/apps/webappviewer/index.html?id=da286cbc3e764ffda01783bcd18946e4\"\
+        >Cereal leaf beetle tracker</a></li>\n\t<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-18908\"><a href=\"https://fieldcropnews.com/2016/03/herbicide-resistant-weed-maps/\"\
+        >Herbicide resistant weeds</a></li>\n</ul>\n</li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-has-children menu-item-16475\"><a href=\"\
+        #\"><i class=\"menu-item-icon fa-database\" ></i>Variety Selection<span class=\"\
+        menu-item-color e-bg\"></span></a>\n<ul class=\"sub-menu\">\n\t<li class=\"\
+        menu-item menu-item-type-custom menu-item-object-custom menu-item-16487\"\
+        ><a href=\"https://www.gosoy.ca/canolahome.php\">Canola</a></li>\n\t<li class=\"\
+        menu-item menu-item-type-custom menu-item-object-custom menu-item-16477\"\
+        ><a href=\"https://www.gocereals.ca/\">Cereals</a></li>\n\t<li class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom menu-item-16479\"><a href=\"\
+        http://gocorn.net/v2006/CornReports/2018cornreport/2018performancetrials.html\"\
+        >Corn</a></li>\n\t<li class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-16488\"><a href=\"https://www.gobeans.ca/index.php\">Edible Beans</a></li>\n\
+        \t<li class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-16480\"\
+        ><a href=\"https://www.plant.uoguelph.ca/forages/goforages-forage-performance\"\
+        >Forages</a></li>\n\t<li class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-16478\"><a href=\"https://www.gosoy.ca/\">Soybean</a></li>\n</ul>\n\
+        </li>\n<li class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-has-children menu-item-18854\"><a href=\"https://bdc.ridgetownc.com/useservices/conferencemanagement/southwest-crop-diagnostic-days/\"\
+        ><i class=\"menu-item-icon fa-video-camera\" ></i>Ontario Virtual Diagnostic\
+        \ Days<span class=\"menu-item-color e-bg\"></span></a>\n<ul class=\"sub-menu\"\
+        >\n\t<li class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-18936\"\
+        ><a href=\"https://fieldcropnews.com/2020/08/2020-ontario-virtual-diagnostic-days/\"\
+        >Watch Episodes</a></li>\n\t<li class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-18935\"><a href=\"https://bdc.ridgetownc.com/useservices/conferencemanagement/southwest-crop-diagnostic-days/\"\
+        >Registration for CEU&#8217;s</a></li>\n</ul>\n</li>\n</ul>\t\t\t\t\t</nav>\n\
+        \t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</header>\n\t\t<div id=\"main-wrapper\"\
+        ><div class=\"container\">\r\n\t<div class=\"row main-container\">\r\n\r\n\
+        \t\t<div id=\"main-content\" class=\"col-md-8\">\r\n\r\n\r\n\t\t\t\r\n\t\t\
+        \t\t<div class=\"posts-container\">\r\n\r\n\t\t\t\t\t<div class=\"row\">\r\
+        \n\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-md-12 col-sm-12 col-xs-12\">\r\
+        \n\t\t\t\t\t\t\t\t\n<article id=\"post-19934\" class=\"content-box article\
+        \ post-19934 post type-post status-publish format-standard has-post-thumbnail\
+        \ hentry category-crop-report post-cat-916\"  >\n\t\n\t<header class=\"article-header\"\
+        \ >\n\t\t<div class=\"entry-title\">\n\n\t\t\t\t\t\t\t<h2><a href=\"https://fieldcropnews.com/2020/11/2020-dry-edible-bean-seasonal-summary/\"\
+        \ title=\"Permalink to 2020 Dry Edible Bean Seasonal Summary\" rel=\"bookmark\"\
+        >2020 Dry Edible Bean Seasonal Summary</a></h2>\n\t\t\t\n\t\t</div><!-- .entry-title\
+        \ -->\n\t</header>\n\n\t\t\t<div class=\"post-media\">\n\n\t\t\t<img width=\"\
+        710\" height=\"399\" src=\"https://fieldcropnews.com/wp-content/uploads/2020/11/2020-Dry-Bean-Seasonal-Summaryf2-710x399.jpg\"\
+        \ class=\"attachment-710x399 size-710x399 wp-post-image\" alt=\"Figure 2.\
+        \ White bean plants with green stems after application of a pre-harvest herbicide\
+        \ cause challenges with combining.\" loading=\"lazy\" srcset=\"https://fieldcropnews.com/wp-content/uploads/2020/11/2020-Dry-Bean-Seasonal-Summaryf2-710x399.jpg\
+        \ 710w, https://fieldcropnews.com/wp-content/uploads/2020/11/2020-Dry-Bean-Seasonal-Summaryf2-910x512.jpg\
+        \ 910w\" sizes=\"(max-width: 710px) 100vw, 710px\" />\t\t\t\t\t\t\t<div class=\"\
+        thumb-overlay\">\n\t\t\t\t<!-- test -->\n\t\t\t\t\t<div class=\"thumb-bg e-bg\"\
+        \  ></div>\n\t\t\t\t\t<div class=\"thumb-links\"><a href=\"https://fieldcropnews.com/2020/11/2020-dry-edible-bean-seasonal-summary/\"\
+        ></a></div>\n\t\t\t\t</div>\n\t\t\t\n\t\t</div><!-- .entry-media -->\n\n\t\
+        \t\n\t<div class=\"post-info\">\n\n\t\t\n\t\t<div class=\"post-meta-info clearfix\"\
+        >\n\t\t\t<div class=\"post-meta float-1\"><span class=\"fa fa-file-text-o\
+        \ t-cr post-icon\" title=\"\" ></span><span class=\"author\"><span class=\"\
+        image\"><img src=\"https://fieldcropnews.com/wp-content/authors/ag.breakfast-69.jpg\"\
+        \ class=\"avatar photo\" alt=\"OMAFRA Field Crop Team\" width=\"27\" height=\"\
+        27\" /></span><a href=\"https://fieldcropnews.com/author/ag-breakfast/\" title=\"\
+        View all posts by OMAFRA Field Crop Team\">OMAFRA Field Crop Team</a></span><span\
+        \ class=\"post-date\"><i class=\"fa-clock-o fa\"></i> November 26, 2020</span><span\
+        \ class=\"views\" ><i class=\"fa-eye icon\"></i> 192</span><span class=\"\
+        comments\" ><i class=\"fa-comments fa\"></i> <a href=\"https://fieldcropnews.com/2020/11/2020-dry-edible-bean-seasonal-summary/#respond\"\
+        >0 Comment</a></span></div><!-- .entry-meta -->\t\t\t\t\t\t<div class=\"post-category\
+        \ e-br float-2 cat-916\"  >\n\t\t\t\t<a href=\"https://fieldcropnews.com/category/crop-report/\"\
+        \ class=\"t-cr\"  title=\"Crop Reports\" ><em></em><i class=\"cat-icon fa\
+        \ fa-newspaper-o e-bg\"></i>Crop Reports</a>\n\t\t\t</div>\n\t\t\t\t</div>\n\
+        \n\t\t<div class=\"entry-content\"><p>Acreage of dry beans increased approximately\
+        \ 20% over 2019, and 50% over 2018. Total acreage of dry beans insured by\
+        \ Agricorp in 2020 was 157,610 acres (Table 1). There were more acres of all\
+        \ market classes compared to last year, except for cranberry beans. Table\
+        \ 1. Acres of dry edible beans insured by Agricorp in 2019\_and 2020 Dry Bean\
+        \ Market&#8230;</p>\n</div>\t\t\n\t\t\n\t</div>\n\t\n\t<footer class=\"article-footer\
+        \ clearfix\"><div class=\"read-more float-2\"><a href=\"https://fieldcropnews.com/2020/11/2020-dry-edible-bean-seasonal-summary/\"\
+        \ class=\"e-bg e-br\"  >Read More</a></div></footer>\n</article>\t\t\t\t\t\
+        \t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-md-12 col-sm-12\
+        \ col-xs-12\">\r\n\t\t\t\t\t\t\t\t\n<article id=\"post-19921\" class=\"content-box\
+        \ article post-19921 post type-post status-publish format-standard has-post-thumbnail\
+        \ hentry category-crop-report post-cat-916\"  >\n\t\n\t<header class=\"article-header\"\
+        \ >\n\t\t<div class=\"entry-title\">\n\n\t\t\t\t\t\t\t<h2><a href=\"https://fieldcropnews.com/2020/11/2020-canola-seasonal-summary/\"\
+        \ title=\"Permalink to 2020 Canola Seasonal Summary\" rel=\"bookmark\">2020\
+        \ Canola Seasonal Summary</a></h2>\n\t\t\t\n\t\t</div><!-- .entry-title -->\n\
+        \t</header>\n\n\t\t\t<div class=\"post-media\">\n\n\t\t\t<img width=\"710\"\
+        \ height=\"399\" src=\"https://fieldcropnews.com/wp-content/uploads/2020/11/2020-Canola-Seasonal-Summaryf1-710x399.jpg\"\
+        \ class=\"attachment-710x399 size-710x399 wp-post-image\" alt=\"Figure 1.\
+        \ Minor (left) and advanced (right) clubroot symptoms. Root galls of any size\
+        \ will increase clubroot spore populations in the field.\" loading=\"lazy\"\
+        \ srcset=\"https://fieldcropnews.com/wp-content/uploads/2020/11/2020-Canola-Seasonal-Summaryf1-710x399.jpg\
+        \ 710w, https://fieldcropnews.com/wp-content/uploads/2020/11/2020-Canola-Seasonal-Summaryf1-910x512.jpg\
+        \ 910w\" sizes=\"(max-width: 710px) 100vw, 710px\" />\t\t\t\t\t\t\t<div class=\"\
+        thumb-overlay\">\n\t\t\t\t<!-- test -->\n\t\t\t\t\t<div class=\"thumb-bg e-bg\"\
+        \  ></div>\n\t\t\t\t\t<div class=\"thumb-links\"><a href=\"https://fieldcropnews.com/2020/11/2020-canola-seasonal-summary/\"\
+        ></a></div>\n\t\t\t\t</div>\n\t\t\t\n\t\t</div><!-- .entry-media -->\n\n\t\
+        \t\n\t<div class=\"post-info\">\n\n\t\t\n\t\t<div class=\"post-meta-info clearfix\"\
+        >\n\t\t\t<div class=\"post-meta float-1\"><span class=\"fa fa-file-text-o\
+        \ t-cr post-icon\" title=\"\" ></span><span class=\"author\"><span class=\"\
+        image\"><img src=\"https://fieldcropnews.com/wp-content/authors/ag.breakfast-69.jpg\"\
+        \ class=\"avatar photo\" alt=\"OMAFRA Field Crop Team\" width=\"27\" height=\"\
+        27\" /></span><a href=\"https://fieldcropnews.com/author/ag-breakfast/\" title=\"\
+        View all posts by OMAFRA Field Crop Team\">OMAFRA Field Crop Team</a></span><span\
+        \ class=\"post-date\"><i class=\"fa-clock-o fa\"></i> November 19, 2020</span><span\
+        \ class=\"views\" ><i class=\"fa-eye icon\"></i> 185</span><span class=\"\
+        comments\" ><i class=\"fa-comments fa\"></i> <a href=\"https://fieldcropnews.com/2020/11/2020-canola-seasonal-summary/#respond\"\
+        >0 Comment</a></span></div><!-- .entry-meta -->\t\t\t\t\t\t<div class=\"post-category\
+        \ e-br float-2 cat-916\"  >\n\t\t\t\t<a href=\"https://fieldcropnews.com/category/crop-report/\"\
+        \ class=\"t-cr\"  title=\"Crop Reports\" ><em></em><i class=\"cat-icon fa\
+        \ fa-newspaper-o e-bg\"></i>Crop Reports</a>\n\t\t\t</div>\n\t\t\t\t</div>\n\
+        \n\t\t<div class=\"entry-content\"><p>Canola acreage in Ontario was similar\
+        \ to last year, with 29,019 acres insured in 2020. Spring canola acres have\
+        \ declined in most regions, including a drop in Temiskaming District from\
+        \ about 11,300 acres in 2019 to about 9,300 acres in 2020. Nipissing added\
+        \ 700 acres compared to last year, for a total of nearly 2000 acres. Combined\
+        \ acreage in Cochrane&#8230;</p>\n</div>\t\t\n\t\t\n\t</div>\n\t\n\t<footer\
+        \ class=\"article-footer clearfix\"><div class=\"read-more float-2\"><a href=\"\
+        https://fieldcropnews.com/2020/11/2020-canola-seasonal-summary/\" class=\"\
+        e-bg e-br\"  >Read More</a></div></footer>\n</article>\t\t\t\t\t\t\t</div>\r\
+        \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-md-12 col-sm-12 col-xs-12\"\
+        >\r\n\t\t\t\t\t\t\t\t\n<article id=\"post-19915\" class=\"content-box article\
+        \ post-19915 post type-post status-publish format-standard has-post-thumbnail\
+        \ hentry category-crop-report post-cat-916\"  >\n\t\n\t<header class=\"article-header\"\
+        \ >\n\t\t<div class=\"entry-title\">\n\n\t\t\t\t\t\t\t<h2><a href=\"https://fieldcropnews.com/2020/11/2020-forage-seasonal-summary/\"\
+        \ title=\"Permalink to 2020 Forage Seasonal Summary\" rel=\"bookmark\">2020\
+        \ Forage Seasonal Summary</a></h2>\n\t\t\t\n\t\t</div><!-- .entry-title -->\n\
+        \t</header>\n\n\t\t\t<div class=\"post-media\">\n\n\t\t\t<img width=\"710\"\
+        \ height=\"399\" src=\"https://fieldcropnews.com/wp-content/uploads/2020/11/2020-Forage-Seasonal-Summaryf1-710x399.png\"\
+        \ class=\"attachment-710x399 size-710x399 wp-post-image\" alt=\"Figure 1.\
+        \ Alfalfa Snout beetle damage\" loading=\"lazy\" srcset=\"https://fieldcropnews.com/wp-content/uploads/2020/11/2020-Forage-Seasonal-Summaryf1-710x399.png\
+        \ 710w, https://fieldcropnews.com/wp-content/uploads/2020/11/2020-Forage-Seasonal-Summaryf1-910x512.png\
+        \ 910w\" sizes=\"(max-width: 710px) 100vw, 710px\" />\t\t\t\t\t\t\t<div class=\"\
+        thumb-overlay\">\n\t\t\t\t<!-- test -->\n\t\t\t\t\t<div class=\"thumb-bg e-bg\"\
+        \  ></div>\n\t\t\t\t\t<div class=\"thumb-links\"><a href=\"https://fieldcropnews.com/2020/11/2020-forage-seasonal-summary/\"\
+        ></a></div>\n\t\t\t\t</div>\n\t\t\t\n\t\t</div><!-- .entry-media -->\n\n\t\
+        \t\n\t<div class=\"post-info\">\n\n\t\t\n\t\t<div class=\"post-meta-info clearfix\"\
+        >\n\t\t\t<div class=\"post-meta float-1\"><span class=\"fa fa-file-text-o\
+        \ t-cr post-icon\" title=\"\" ></span><span class=\"author\"><span class=\"\
+        image\"><img src=\"https://fieldcropnews.com/wp-content/authors/ag.breakfast-69.jpg\"\
+        \ class=\"avatar photo\" alt=\"OMAFRA Field Crop Team\" width=\"27\" height=\"\
+        27\" /></span><a href=\"https://fieldcropnews.com/author/ag-breakfast/\" title=\"\
+        View all posts by OMAFRA Field Crop Team\">OMAFRA Field Crop Team</a></span><span\
+        \ class=\"post-date\"><i class=\"fa-clock-o fa\"></i> November 12, 2020</span><span\
+        \ class=\"views\" ><i class=\"fa-eye icon\"></i> 229</span><span class=\"\
+        comments\" ><i class=\"fa-comments fa\"></i> <span>Comments Off<span class=\"\
+        screen-reader-text\"> on 2020 Forage Seasonal Summary</span></span></span></div><!--\
+        \ .entry-meta -->\t\t\t\t\t\t<div class=\"post-category e-br float-2 cat-916\"\
+        \  >\n\t\t\t\t<a href=\"https://fieldcropnews.com/category/crop-report/\"\
+        \ class=\"t-cr\"  title=\"Crop Reports\" ><em></em><i class=\"cat-icon fa\
+        \ fa-newspaper-o e-bg\"></i>Crop Reports</a>\n\t\t\t</div>\n\t\t\t\t</div>\n\
+        \n\t\t<div class=\"entry-content\"><p>2019/2020 Winter Conditions Much of\
+        \ the province had a mild winter, with average amounts of precipitation. Areas\
+        \ of Chatham-Kent, Lambton, Huron, Grey, Bruce, Timiskaming, Cochrane, Rainy\
+        \ River, and Kenora received below-average winter precipitation. Forages broke\
+        \ dormancy early in much of the province, with green-up starting in mid-March\
+        \ in the southwest. Overall, reports of winterkill were normal or below-normal\
+        \ levels, except&#8230;</p>\n</div>\t\t\n\t\t\n\t</div>\n\t\n\t<footer class=\"\
+        article-footer clearfix\"><div class=\"read-more float-2\"><a href=\"https://fieldcropnews.com/2020/11/2020-forage-seasonal-summary/\"\
+        \ class=\"e-bg e-br\"  >Read More</a></div></footer>\n</article>\t\t\t\t\t\
+        \t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-md-12 col-sm-12\
+        \ col-xs-12\">\r\n\t\t\t\t\t\t\t\t\n<article id=\"post-19896\" class=\"content-box\
+        \ article post-19896 post type-post status-publish format-standard has-post-thumbnail\
+        \ hentry category-cover-crops category-soybean tag-cereal-rye tag-organic-no-till\
+        \ tag-roller-crimper tag-soybeans post-cat-932\"  >\n\t\n\t<header class=\"\
+        article-header\" >\n\t\t<div class=\"entry-title\">\n\n\t\t\t\t\t\t\t<h2><a\
+        \ href=\"https://fieldcropnews.com/2020/11/cover-crop-based-organic-no-till-soybean-production-in-ontario/\"\
+        \ title=\"Permalink to Cover Crop-Based Organic No-Till Soybean Production\
+        \ In Ontario\" rel=\"bookmark\">Cover Crop-Based Organic No-Till Soybean Production\
+        \ In Ontario</a></h2>\n\t\t\t\n\t\t</div><!-- .entry-title -->\n\t</header>\n\
+        \n\t\t\t<div class=\"post-media\">\n\n\t\t\t<img width=\"710\" height=\"399\"\
+        \ src=\"https://fieldcropnews.com/wp-content/uploads/2020/11/thumbnail-1-710x399.jpeg\"\
+        \ class=\"attachment-710x399 size-710x399 wp-post-image\" alt=\"\" loading=\"\
+        lazy\" srcset=\"https://fieldcropnews.com/wp-content/uploads/2020/11/thumbnail-1-710x399.jpeg\
+        \ 710w, https://fieldcropnews.com/wp-content/uploads/2020/11/thumbnail-1-910x512.jpeg\
+        \ 910w\" sizes=\"(max-width: 710px) 100vw, 710px\" />\t\t\t\t\t\t\t<div class=\"\
+        thumb-overlay\">\n\t\t\t\t<!-- test -->\n\t\t\t\t\t<div class=\"thumb-bg e-bg\"\
+        \  ></div>\n\t\t\t\t\t<div class=\"thumb-links\"><a href=\"https://fieldcropnews.com/2020/11/cover-crop-based-organic-no-till-soybean-production-in-ontario/\"\
+        ></a></div>\n\t\t\t\t</div>\n\t\t\t\n\t\t</div><!-- .entry-media -->\n\n\t\
+        \t\n\t<div class=\"post-info\">\n\n\t\t\n\t\t<div class=\"post-meta-info clearfix\"\
+        >\n\t\t\t<div class=\"post-meta float-1\"><span class=\"fa fa-file-text-o\
+        \ t-cr post-icon\" title=\"\" ></span><span class=\"author\"><span class=\"\
+        image\"><img src=\"https://fieldcropnews.com/wp-content/authors/Alexandra.Collingwood-74.jpg\"\
+        \ class=\"avatar photo\" alt=\"Alexandra Collingwood\" width=\"27\" height=\"\
+        27\" /></span><a href=\"https://fieldcropnews.com/author/alexandra-collingwood/\"\
+        \ title=\"View all posts by Alexandra Collingwood\">Alexandra Collingwood</a></span><span\
+        \ class=\"post-date\"><i class=\"fa-clock-o fa\"></i> November 3, 2020</span><span\
+        \ class=\"views\" ><i class=\"fa-eye icon\"></i> 407</span><span class=\"\
+        comments\" ><i class=\"fa-comments fa\"></i> <span>Comments Off<span class=\"\
+        screen-reader-text\"> on Cover Crop-Based Organic No-Till Soybean Production\
+        \ In Ontario</span></span></span></div><!-- .entry-meta -->\t\t\t\t\t\t<div\
+        \ class=\"post-category e-br float-2 cat-932\"  >\n\t\t\t\t<a href=\"https://fieldcropnews.com/category/cover-crops/\"\
+        \ class=\"t-cr\"  title=\"Cover Crops\" ><em></em><i class=\"cat-icon fa fa-newspaper-o\
+        \ e-bg\"></i>Cover Crops</a>\n\t\t\t</div>\n\t\t\t\t</div>\n\n\t\t<div class=\"\
+        entry-content\"><p>While there are many benefits of organic agriculture, one\
+        \ of the potential downsides can be the frequent requirement for tillage,\
+        \ in particular during the soybean production phase. Excessive tillage is\
+        \ known to have negative impacts on soil structure and soil health as a whole.\
+        \ In an effort to reduce the tillage requirement for combating weeds in organic\
+        \ soybean production in&#8230;</p>\n</div>\t\t\n\t\t\n\t</div>\n\t\n\t<footer\
+        \ class=\"article-footer clearfix\"><div class=\"post-tags float-1\"><span><i\
+        \ class=\"fa fa-tags\"></i>Tags: </span><a href=\"https://fieldcropnews.com/tag/cereal-rye/\"\
+        \ rel=\"tag\">cereal rye</a> <a href=\"https://fieldcropnews.com/tag/organic-no-till/\"\
+        \ rel=\"tag\">organic no-till</a> <a href=\"https://fieldcropnews.com/tag/roller-crimper/\"\
+        \ rel=\"tag\">roller crimper</a> <a href=\"https://fieldcropnews.com/tag/soybeans/\"\
+        \ rel=\"tag\">soybeans</a> </div><!-- .post-tags --><div class=\"read-more\
+        \ float-2\"><a href=\"https://fieldcropnews.com/2020/11/cover-crop-based-organic-no-till-soybean-production-in-ontario/\"\
+        \ class=\"e-bg e-br\"  >Read More</a></div></footer>\n</article>\t\t\t\t\t\
+        \t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-md-12 col-sm-12\
+        \ col-xs-12\">\r\n\t\t\t\t\t\t\t\t\n<article id=\"post-19885\" class=\"content-box\
+        \ article post-19885 post type-post status-publish format-standard has-post-thumbnail\
+        \ hentry category-bautebugblog category-corn category-general tag-bt-resistant-rootworm\
+        \ tag-mitigation-measures tag-presentations tag-rootworm tag-rootworm-video\
+        \ post-cat-109\"  >\n\t\n\t<header class=\"article-header\" >\n\t\t<div class=\"\
+        entry-title\">\n\n\t\t\t\t\t\t\t<h2><a href=\"https://fieldcropnews.com/2020/10/understanding-the-impact-and-measures-needed-to-address-bt-resistant-rootworm/\"\
+        \ title=\"Permalink to Understanding the Impact and Measures Needed to Address\
+        \ Bt Resistant Rootworm\" rel=\"bookmark\">Understanding the Impact and Measures\
+        \ Needed to Address Bt Resistant Rootworm</a></h2>\n\t\t\t\n\t\t</div><!--\
+        \ .entry-title -->\n\t</header>\n\n\t\t\t<div class=\"post-media\">\n\n\t\t\
+        \t<img width=\"710\" height=\"399\" src=\"https://fieldcropnews.com/wp-content/uploads/2020/10/CRW-video-screen-shot-710x399.jpg\"\
+        \ class=\"attachment-710x399 size-710x399 wp-post-image\" alt=\"\" loading=\"\
+        lazy\" srcset=\"https://fieldcropnews.com/wp-content/uploads/2020/10/CRW-video-screen-shot-710x399.jpg\
+        \ 710w, https://fieldcropnews.com/wp-content/uploads/2020/10/CRW-video-screen-shot-300x169.jpg\
+        \ 300w, https://fieldcropnews.com/wp-content/uploads/2020/10/CRW-video-screen-shot-1024x576.jpg\
+        \ 1024w, https://fieldcropnews.com/wp-content/uploads/2020/10/CRW-video-screen-shot-768x432.jpg\
+        \ 768w, https://fieldcropnews.com/wp-content/uploads/2020/10/CRW-video-screen-shot-910x512.jpg\
+        \ 910w, https://fieldcropnews.com/wp-content/uploads/2020/10/CRW-video-screen-shot.jpg\
+        \ 1280w\" sizes=\"(max-width: 710px) 100vw, 710px\" />\t\t\t\t\t\t\t<div class=\"\
+        thumb-overlay\">\n\t\t\t\t<!-- test -->\n\t\t\t\t\t<div class=\"thumb-bg e-bg\"\
+        \  ></div>\n\t\t\t\t\t<div class=\"thumb-links\"><a href=\"https://fieldcropnews.com/2020/10/understanding-the-impact-and-measures-needed-to-address-bt-resistant-rootworm/\"\
+        ></a></div>\n\t\t\t\t</div>\n\t\t\t\n\t\t</div><!-- .entry-media -->\n\n\t\
+        \t\n\t<div class=\"post-info\">\n\n\t\t\n\t\t<div class=\"post-meta-info clearfix\"\
+        >\n\t\t\t<div class=\"post-meta float-1\"><span class=\"fa fa-file-text-o\
+        \ t-cr post-icon\" title=\"\" ></span><span class=\"author\"><span class=\"\
+        image\"><img src=\"https://fieldcropnews.com/wp-content/authors/tracey.baute-53.jpg\"\
+        \ class=\"avatar photo\" alt=\"Tracey Baute\" width=\"27\" height=\"27\" /></span><a\
+        \ href=\"https://fieldcropnews.com/author/tracey-baute/\" title=\"View all\
+        \ posts by Tracey Baute\">Tracey Baute</a></span><span class=\"post-date\"\
+        ><i class=\"fa-clock-o fa\"></i> October 26, 2020</span><span class=\"views\"\
+        \ ><i class=\"fa-eye icon\"></i> 614</span><span class=\"comments\" ><i class=\"\
+        fa-comments fa\"></i> <span>Comments Off<span class=\"screen-reader-text\"\
+        > on Understanding the Impact and Measures Needed to Address Bt Resistant\
+        \ Rootworm</span></span></span></div><!-- .entry-meta -->\t\t\t\t\t\t<div\
+        \ class=\"post-category e-br float-2 cat-109\"  >\n\t\t\t\t<a href=\"https://fieldcropnews.com/category/bautebugblog/\"\
+        \ class=\"t-cr\"  title=\"Baute Bug Blog\" ><em></em><i class=\"cat-icon fa\
+        \ fa-newspaper-o e-bg\"></i>Baute Bug Blog</a>\n\t\t\t</div>\n\t\t\t\t</div>\n\
+        \n\t\t<div class=\"entry-content\"><p>Why be concerned about the Bt resistant\
+        \ rootworm populations showing up in Ontario? Dr. Jocelyn Smith, University\
+        \ of Guelph Ridgetown Campus stands in a field that has cross resistant rootworm.\_\
+        \ The grower experienced more than 50% yield loss in this 2nd year silage\
+        \ corn field planted with a pyramid hybrid in 2020.\_ Jocelyn discusses the\
+        \ impacts of these resistant rootworm&#8230;</p>\n</div>\t\t\n\t\t\n\t</div>\n\
+        \t\n\t<footer class=\"article-footer clearfix\"><div class=\"post-tags float-1\"\
+        ><span><i class=\"fa fa-tags\"></i>Tags: </span><a href=\"https://fieldcropnews.com/tag/bt-resistant-rootworm/\"\
+        \ rel=\"tag\">Bt resistant rootworm</a> <a href=\"https://fieldcropnews.com/tag/mitigation-measures/\"\
+        \ rel=\"tag\">Mitigation Measures</a> <a href=\"https://fieldcropnews.com/tag/presentations/\"\
+        \ rel=\"tag\">Presentations and Videos</a> <a href=\"https://fieldcropnews.com/tag/rootworm/\"\
+        \ rel=\"tag\">rootworm</a> <a href=\"https://fieldcropnews.com/tag/rootworm-video/\"\
+        \ rel=\"tag\">rootworm video</a> </div><!-- .post-tags --><div class=\"read-more\
+        \ float-2\"><a href=\"https://fieldcropnews.com/2020/10/understanding-the-impact-and-measures-needed-to-address-bt-resistant-rootworm/\"\
+        \ class=\"e-bg e-br\"  >Read More</a></div></footer>\n</article>\t\t\t\t\t\
+        \t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-md-12 col-sm-12\
+        \ col-xs-12\">\r\n\t\t\t\t\t\t\t\t\n<article id=\"post-19847\" class=\"content-box\
+        \ article post-19847 post type-post status-publish format-standard hentry\
+        \ category-corn category-diseases tag-1361 tag-corn-3 tag-don tag-ontario\
+        \ tag-survey post-cat-933\"  >\n\t\n\t<header class=\"article-header\" >\n\
+        \t\t<div class=\"entry-title\">\n\n\t\t\t\t\t\t\t<h2><a href=\"https://fieldcropnews.com/2020/10/2020-ontario-grain-corn-ear-mould-and-deoxynivalenol-don-mycotoxin-survey/\"\
+        \ title=\"Permalink to 2020 Ontario Grain Corn Ear Mould and Deoxynivalenol\
+        \ (DON) Mycotoxin Survey\" rel=\"bookmark\">2020 Ontario Grain Corn Ear Mould\
+        \ and Deoxynivalenol (DON) Mycotoxin Survey</a></h2>\n\t\t\t\n\t\t</div><!--\
+        \ .entry-title -->\n\t</header>\n\n\t\t\t<div class=\"post-media\">\n\n\t\t\
+        \t\t        \t\t\t<img width=\"710\" height=\"399\" src=\"https://fieldcropnews.com/wp-content/uploads/2020/10/2020-DON-Map-710x399.png\"\
+        \ class=\"attachment-710x399 size-710x399\" alt=\"\" loading=\"lazy\" srcset=\"\
+        https://fieldcropnews.com/wp-content/uploads/2020/10/2020-DON-Map-710x399.png\
+        \ 710w, https://fieldcropnews.com/wp-content/uploads/2020/10/2020-DON-Map-910x512.png\
+        \ 910w\" sizes=\"(max-width: 710px) 100vw, 710px\" />\t\t\t\n\t\t\t\t<div\
+        \ class=\"thumb-overlay\">\n\t\t\t\t\t<div class=\"thumb-bg e-bg\"  ></div>\n\
+        \t\t\t\t\t<div class=\"thumb-links\"><a href=\"https://fieldcropnews.com/2020/10/2020-ontario-grain-corn-ear-mould-and-deoxynivalenol-don-mycotoxin-survey/\"\
+        ></a></div>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\n\t\t</div><!-- .entry-media\
+        \ -->\n\t\t\n\t\t\n\t<div class=\"post-info\">\n\n\t\t\n\t\t<div class=\"\
+        post-meta-info clearfix\">\n\t\t\t<div class=\"post-meta float-1\"><span class=\"\
+        fa fa-file-text-o t-cr post-icon\" title=\"\" ></span><span class=\"author\"\
+        ><span class=\"image\"><img src=\"https://fieldcropnews.com/wp-content/authors/Ben.Rosser-59.jpg\"\
+        \ class=\"avatar photo\" alt=\"Ben Rosser\" width=\"27\" height=\"27\" /></span><a\
+        \ href=\"https://fieldcropnews.com/author/ben-rosser/\" title=\"View all posts\
+        \ by Ben Rosser\">Ben Rosser</a></span><span class=\"post-date\"><i class=\"\
+        fa-clock-o fa\"></i> October 13, 2020</span><span class=\"views\" ><i class=\"\
+        fa-eye icon\"></i> 1941</span><span class=\"comments\" ><i class=\"fa-comments\
+        \ fa\"></i> <span>Comments Off<span class=\"screen-reader-text\"> on 2020\
+        \ Ontario Grain Corn Ear Mould and Deoxynivalenol (DON) Mycotoxin Survey</span></span></span></div><!--\
+        \ .entry-meta -->\t\t\t\t\t\t<div class=\"post-category e-br float-2 cat-933\"\
+        \  >\n\t\t\t\t<a href=\"https://fieldcropnews.com/category/corn/\" class=\"\
+        t-cr\"  title=\"Corn\" ><em></em><i class=\"cat-icon fa fa-newspaper-o e-bg\"\
+        ></i>Corn</a>\n\t\t\t</div>\n\t\t\t\t</div>\n\n\t\t<div class=\"entry-content\"\
+        ><p>Co-authored with Albert Tenuta, Field Crop Pathologist, OMAFRA OMAFRA\
+        \ field crop specialists in collaboration with Grain Farmers of Ontario (GFO)\
+        \ and members of the Ontario Agri-Business Association (OABA) have completed\
+        \ the annual Ontario corn ear mould and DON mycotoxin survey. Corn ear moulds\
+        \ such as Gibberella and their corresponding mycotoxins occur every year in\
+        \ Ontario. These mycotoxins, particularly deoxynivalenol (DON,&#8230;</p>\n\
+        </div>\t\t\n\t\t\n\t</div>\n\t\n\t<footer class=\"article-footer clearfix\"\
+        ><div class=\"post-tags float-1\"><span><i class=\"fa fa-tags\"></i>Tags:\
+        \ </span><a href=\"https://fieldcropnews.com/tag/2020/\" rel=\"tag\">2020</a>\
+        \ <a href=\"https://fieldcropnews.com/tag/corn-3/\" rel=\"tag\">corn</a> <a\
+        \ href=\"https://fieldcropnews.com/tag/don/\" rel=\"tag\">DON</a> <a href=\"\
+        https://fieldcropnews.com/tag/ontario/\" rel=\"tag\">Ontario</a> <a href=\"\
+        https://fieldcropnews.com/tag/survey/\" rel=\"tag\">survey</a> </div><!--\
+        \ .post-tags --><div class=\"read-more float-2\"><a href=\"https://fieldcropnews.com/2020/10/2020-ontario-grain-corn-ear-mould-and-deoxynivalenol-don-mycotoxin-survey/\"\
+        \ class=\"e-bg e-br\"  >Read More</a></div></footer>\n</article>\t\t\t\t\t\
+        \t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-md-12 col-sm-12\
+        \ col-xs-12\">\r\n\t\t\t\t\t\t\t\t\n<article id=\"post-19822\" class=\"content-box\
+        \ article post-19822 post type-post status-publish format-standard hentry\
+        \ category-bautebugblog category-corn category-forages tag-bt tag-bt-resistance\
+        \ tag-bt-resistant-rootworm tag-bt-rootworm tag-corn-rootworm tag-feed tag-rootworm\
+        \ post-cat-109\"  >\n\t\n\t<header class=\"article-header\" >\n\t\t<div class=\"\
+        entry-title\">\n\n\t\t\t\t\t\t\t<h2><a href=\"https://fieldcropnews.com/2020/10/non-corn-options-for-livestock-producers-to-manage-bt-resistant-corn-rootworm/\"\
+        \ title=\"Permalink to Non-corn options for livestock producers to manage\
+        \ Bt-resistant corn rootworm\" rel=\"bookmark\">Non-corn options for livestock\
+        \ producers to manage Bt-resistant corn rootworm</a></h2>\n\t\t\t\n\t\t</div><!--\
+        \ .entry-title -->\n\t</header>\n\n\t\t\t<div class=\"post-media\">\n\n\t\t\
+        \t\t        \t\t\t\t\t\t\n\t\t\t\t<div class=\"thumb-overlay\">\n\t\t\t\t\t\
+        <div class=\"thumb-bg e-bg\"  ></div>\n\t\t\t\t\t<div class=\"thumb-links\"\
+        ><a href=\"https://fieldcropnews.com/2020/10/non-corn-options-for-livestock-producers-to-manage-bt-resistant-corn-rootworm/\"\
+        ></a></div>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\n\t\t</div><!-- .entry-media\
+        \ -->\n\t\t\n\t\t\n\t<div class=\"post-info\">\n\n\t\t\n\t\t<div class=\"\
+        post-meta-info clearfix\">\n\t\t\t<div class=\"post-meta float-1\"><span class=\"\
+        fa fa-file-text-o t-cr post-icon\" title=\"\" ></span><span class=\"author\"\
+        ><span class=\"image\"><img src=\"https://fieldcropnews.com/wp-content/authors/ag.breakfast-69.jpg\"\
+        \ class=\"avatar photo\" alt=\"OMAFRA Field Crop Team\" width=\"27\" height=\"\
+        27\" /></span><a href=\"https://fieldcropnews.com/author/ag-breakfast/\" title=\"\
+        View all posts by OMAFRA Field Crop Team\">OMAFRA Field Crop Team</a></span><span\
+        \ class=\"post-date\"><i class=\"fa-clock-o fa\"></i> October 9, 2020</span><span\
+        \ class=\"views\" ><i class=\"fa-eye icon\"></i> 625</span><span class=\"\
+        comments\" ><i class=\"fa-comments fa\"></i> <span>Comments Off<span class=\"\
+        screen-reader-text\"> on Non-corn options for livestock producers to manage\
+        \ Bt-resistant corn rootworm</span></span></span></div><!-- .entry-meta -->\t\
+        \t\t\t\t\t<div class=\"post-category e-br float-2 cat-109\"  >\n\t\t\t\t<a\
+        \ href=\"https://fieldcropnews.com/category/bautebugblog/\" class=\"t-cr\"\
+        \  title=\"Baute Bug Blog\" ><em></em><i class=\"cat-icon fa fa-newspaper-o\
+        \ e-bg\"></i>Baute Bug Blog</a>\n\t\t\t</div>\n\t\t\t\t</div>\n\n\t\t<div\
+        \ class=\"entry-content\"><p>In fields where Bt rootworm corn hybrids have\
+        \ been used for more than three consecutive years, resistance among corn rootworm\
+        \ populations is suspected. Growers can no longer rely solely on Bt hybrids\
+        \ for protection against rootworm injury. The best management practice to\
+        \ reduce the resistant rootworm population is to rotate out of corn for at\
+        \ least one year. Growers are&#8230;</p>\n</div>\t\t\n\t\t\n\t</div>\n\t\n\
+        \t<footer class=\"article-footer clearfix\"><div class=\"post-tags float-1\"\
+        ><span><i class=\"fa fa-tags\"></i>Tags: </span><a href=\"https://fieldcropnews.com/tag/bt/\"\
+        \ rel=\"tag\">Bt</a> <a href=\"https://fieldcropnews.com/tag/bt-resistance/\"\
+        \ rel=\"tag\">Bt Resistance</a> <a href=\"https://fieldcropnews.com/tag/bt-resistant-rootworm/\"\
+        \ rel=\"tag\">Bt resistant rootworm</a> <a href=\"https://fieldcropnews.com/tag/bt-rootworm/\"\
+        \ rel=\"tag\">Bt rootworm</a> <a href=\"https://fieldcropnews.com/tag/corn-rootworm/\"\
+        \ rel=\"tag\">corn rootworm</a> <a href=\"https://fieldcropnews.com/tag/feed/\"\
+        \ rel=\"tag\">feed</a> </div><!-- .post-tags --><div class=\"read-more float-2\"\
+        ><a href=\"https://fieldcropnews.com/2020/10/non-corn-options-for-livestock-producers-to-manage-bt-resistant-corn-rootworm/\"\
+        \ class=\"e-bg e-br\"  >Read More</a></div></footer>\n</article>\t\t\t\t\t\
+        \t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-md-12 col-sm-12\
+        \ col-xs-12\">\r\n\t\t\t\t\t\t\t\t\n<article id=\"post-19829\" class=\"content-box\
+        \ article post-19829 post type-post status-publish format-standard hentry\
+        \ category-bautebugblog category-corn tag-bt-resistant-rootworm tag-ccpc tag-corn-rootworm\
+        \ tag-long-term-responsible-use-of-bt-corn tag-mitigation-measures tag-resistance-management\
+        \ tag-rootworm post-cat-109\"  >\n\t\n\t<header class=\"article-header\" >\n\
+        \t\t<div class=\"entry-title\">\n\n\t\t\t\t\t\t\t<h2><a href=\"https://fieldcropnews.com/2020/10/mitigation-measures-for-bt-resistant-corn-rootworm/\"\
+        \ title=\"Permalink to Mitigation Measures for Bt Resistant Corn Rootworm\"\
+        \ rel=\"bookmark\">Mitigation Measures for Bt Resistant Corn Rootworm</a></h2>\n\
+        \t\t\t\n\t\t</div><!-- .entry-title -->\n\t</header>\n\n\t\t\t<div class=\"\
+        post-media\">\n\n\t\t\t\t        \t\t\t<img width=\"299\" height=\"399\" src=\"\
+        https://fieldcropnews.com/wp-content/uploads/2020/10/lodging-jsmith.jpg\"\
+        \ class=\"attachment-710x399 size-710x399\" alt=\"\" loading=\"lazy\" srcset=\"\
+        https://fieldcropnews.com/wp-content/uploads/2020/10/lodging-jsmith.jpg 480w,\
+        \ https://fieldcropnews.com/wp-content/uploads/2020/10/lodging-jsmith-225x300.jpg\
+        \ 225w\" sizes=\"(max-width: 299px) 100vw, 299px\" />\t\t\t\n\t\t\t\t<div\
+        \ class=\"thumb-overlay\">\n\t\t\t\t\t<div class=\"thumb-bg e-bg\"  ></div>\n\
+        \t\t\t\t\t<div class=\"thumb-links\"><a href=\"https://fieldcropnews.com/2020/10/mitigation-measures-for-bt-resistant-corn-rootworm/\"\
+        ></a></div>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\n\t\t</div><!-- .entry-media\
+        \ -->\n\t\t\n\t\t\n\t<div class=\"post-info\">\n\n\t\t\n\t\t<div class=\"\
+        post-meta-info clearfix\">\n\t\t\t<div class=\"post-meta float-1\"><span class=\"\
+        fa fa-file-text-o t-cr post-icon\" title=\"\" ></span><span class=\"author\"\
+        ><span class=\"image\"><img src=\"https://fieldcropnews.com/wp-content/authors/tracey.baute-53.jpg\"\
+        \ class=\"avatar photo\" alt=\"Tracey Baute\" width=\"27\" height=\"27\" /></span><a\
+        \ href=\"https://fieldcropnews.com/author/tracey-baute/\" title=\"View all\
+        \ posts by Tracey Baute\">Tracey Baute</a></span><span class=\"post-date\"\
+        ><i class=\"fa-clock-o fa\"></i> October 9, 2020</span><span class=\"views\"\
+        \ ><i class=\"fa-eye icon\"></i> 766</span><span class=\"comments\" ><i class=\"\
+        fa-comments fa\"></i> <span>Comments Off<span class=\"screen-reader-text\"\
+        > on Mitigation Measures for Bt Resistant Corn Rootworm</span></span></span></div><!--\
+        \ .entry-meta -->\t\t\t\t\t\t<div class=\"post-category e-br float-2 cat-109\"\
+        \  >\n\t\t\t\t<a href=\"https://fieldcropnews.com/category/bautebugblog/\"\
+        \ class=\"t-cr\"  title=\"Baute Bug Blog\" ><em></em><i class=\"cat-icon fa\
+        \ fa-newspaper-o e-bg\"></i>Baute Bug Blog</a>\n\t\t\t</div>\n\t\t\t\t</div>\n\
+        \n\t\t<div class=\"entry-content\"><p>Extensive injury by corn rootworm (CRW)\
+        \ to pyramid Bt rootworm (Bt-RW) hybrids was observed in several Ontario counties\
+        \ in 2020, suggesting that CRW populations have developed resistance to multiple\
+        \ Bt-RW proteins. The Canadian Corn Pest Coalition (CCPC) and OMAFRA have\
+        \ developed mitigation recommendations for continuous corn producers, in hopes\
+        \ of knocking back the resistant corn rootworm population present in Ontario&#8230;.</p>\n\
+        </div>\t\t\n\t\t\n\t</div>\n\t\n\t<footer class=\"article-footer clearfix\"\
+        ><div class=\"post-tags float-1\"><span><i class=\"fa fa-tags\"></i>Tags:\
+        \ </span><a href=\"https://fieldcropnews.com/tag/bt-resistant-rootworm/\"\
+        \ rel=\"tag\">Bt resistant rootworm</a> <a href=\"https://fieldcropnews.com/tag/ccpc/\"\
+        \ rel=\"tag\">CCPC</a> <a href=\"https://fieldcropnews.com/tag/corn-rootworm/\"\
+        \ rel=\"tag\">corn rootworm</a> <a href=\"https://fieldcropnews.com/tag/long-term-responsible-use-of-bt-corn/\"\
+        \ rel=\"tag\">Long Term responsible use of Bt corn</a> <a href=\"https://fieldcropnews.com/tag/mitigation-measures/\"\
+        \ rel=\"tag\">Mitigation Measures</a> <a href=\"https://fieldcropnews.com/tag/resistance-management/\"\
+        \ rel=\"tag\">resistance management</a> </div><!-- .post-tags --><div class=\"\
+        read-more float-2\"><a href=\"https://fieldcropnews.com/2020/10/mitigation-measures-for-bt-resistant-corn-rootworm/\"\
+        \ class=\"e-bg e-br\"  >Read More</a></div></footer>\n</article>\t\t\t\t\t\
+        \t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-md-12 col-sm-12\
+        \ col-xs-12\">\r\n\t\t\t\t\t\t\t\t\n<article id=\"post-19817\" class=\"content-box\
+        \ article post-19817 post type-post status-publish format-standard hentry\
+        \ category-corn category-general tag-bt-hybrids tag-bt-trait-table tag-ccpc\
+        \ tag-european-corn-borer tag-rootworm tag-western-bean-cutworm-2 post-cat-933\"\
+        \  >\n\t\n\t<header class=\"article-header\" >\n\t\t<div class=\"entry-title\"\
+        >\n\n\t\t\t\t\t\t\t<h2><a href=\"https://fieldcropnews.com/2020/10/revised-october-2020-canadian-bt-corn-trait-tables-with-events-and-resistance-status/\"\
+        \ title=\"Permalink to Revised October 2020 &#8211; Canadian Bt Corn Trait\
+        \ Tables with Events and Resistance Status\" rel=\"bookmark\">Revised October\
+        \ 2020 &#8211; Canadian Bt Corn Trait Tables with Events and Resistance Status</a></h2>\n\
+        \t\t\t\n\t\t</div><!-- .entry-title -->\n\t</header>\n\n\t\t\t<div class=\"\
+        post-media\">\n\n\t\t\t\t        \t\t\t\t\t\t\n\t\t\t\t<div class=\"thumb-overlay\"\
+        >\n\t\t\t\t\t<div class=\"thumb-bg e-bg\"  ></div>\n\t\t\t\t\t<div class=\"\
+        thumb-links\"><a href=\"https://fieldcropnews.com/2020/10/revised-october-2020-canadian-bt-corn-trait-tables-with-events-and-resistance-status/\"\
+        ></a></div>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t\n\t\t</div><!-- .entry-media\
+        \ -->\n\t\t\n\t\t\n\t<div class=\"post-info\">\n\n\t\t\n\t\t<div class=\"\
+        post-meta-info clearfix\">\n\t\t\t<div class=\"post-meta float-1\"><span class=\"\
+        fa fa-file-text-o t-cr post-icon\" title=\"\" ></span><span class=\"author\"\
+        ><span class=\"image\"><img src=\"https://fieldcropnews.com/wp-content/authors/tracey.baute-53.jpg\"\
+        \ class=\"avatar photo\" alt=\"Tracey Baute\" width=\"27\" height=\"27\" /></span><a\
+        \ href=\"https://fieldcropnews.com/author/tracey-baute/\" title=\"View all\
+        \ posts by Tracey Baute\">Tracey Baute</a></span><span class=\"post-date\"\
+        ><i class=\"fa-clock-o fa\"></i> October 9, 2020</span><span class=\"views\"\
+        \ ><i class=\"fa-eye icon\"></i> 373</span><span class=\"comments\" ><i class=\"\
+        fa-comments fa\"></i> <span>Comments Off<span class=\"screen-reader-text\"\
+        > on Revised October 2020 &#8211; Canadian Bt Corn Trait Tables with Events\
+        \ and Resistance Status</span></span></span></div><!-- .entry-meta -->\t\t\
+        \t\t\t\t<div class=\"post-category e-br float-2 cat-933\"  >\n\t\t\t\t<a href=\"\
+        https://fieldcropnews.com/category/corn/\" class=\"t-cr\"  title=\"Corn\"\
+        \ ><em></em><i class=\"cat-icon fa fa-newspaper-o e-bg\"></i>Corn</a>\n\t\t\
+        \t</div>\n\t\t\t\t</div>\n\n\t\t<div class=\"entry-content\"><p>We have revised\
+        \ the Canadian Bt Corn Trait Tables to reflect the current potential cross\
+        \ resistance of corn rootworm in Ontario to all Bt-RW proteins.\_ Here are\
+        \ the latest versions: English:\_\_Bt Corn Trait Table (October 2020) with\
+        \ Events and Resistance Status\_ French:\_\_Tableau des caract\xE8res Bt (Octobre\
+        \ 2020-Fran\xE7ais) \u2013 \xC9v\xE8nements transg\xE9niques et r\xE9sistances\
+        \ For information on which hybrids or products have&#8230;</p>\n</div>\t\t\
+        \n\t\t\n\t</div>\n\t\n\t<footer class=\"article-footer clearfix\"><div class=\"\
+        post-tags float-1\"><span><i class=\"fa fa-tags\"></i>Tags: </span><a href=\"\
+        https://fieldcropnews.com/tag/bt-hybrids/\" rel=\"tag\">Bt hybrids</a> <a\
+        \ href=\"https://fieldcropnews.com/tag/bt-trait-table/\" rel=\"tag\">Bt trait\
+        \ table</a> <a href=\"https://fieldcropnews.com/tag/ccpc/\" rel=\"tag\">CCPC</a>\
+        \ <a href=\"https://fieldcropnews.com/tag/european-corn-borer/\" rel=\"tag\"\
+        >European corn borer</a> <a href=\"https://fieldcropnews.com/tag/rootworm/\"\
+        \ rel=\"tag\">rootworm</a> <a href=\"https://fieldcropnews.com/tag/western-bean-cutworm-2/\"\
+        \ rel=\"tag\">Western Bean Cutworm</a> </div><!-- .post-tags --><div class=\"\
+        read-more float-2\"><a href=\"https://fieldcropnews.com/2020/10/revised-october-2020-canadian-bt-corn-trait-tables-with-events-and-resistance-status/\"\
+        \ class=\"e-bg e-br\"  >Read More</a></div></footer>\n</article>\t\t\t\t\t\
+        \t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-md-12 col-sm-12\
+        \ col-xs-12\">\r\n\t\t\t\t\t\t\t\t\n<article id=\"post-19798\" class=\"content-box\
+        \ article post-19798 post type-post status-publish format-standard has-post-thumbnail\
+        \ hentry category-forages category-pastures category-weather post-cat-936\"\
+        \  >\n\t\n\t<header class=\"article-header\" >\n\t\t<div class=\"entry-title\"\
+        >\n\n\t\t\t\t\t\t\t<h2><a href=\"https://fieldcropnews.com/2020/10/september-2020-forage-report/\"\
+        \ title=\"Permalink to September 2020 Forage Report\" rel=\"bookmark\">September\
+        \ 2020 Forage Report</a></h2>\n\t\t\t\n\t\t</div><!-- .entry-title -->\n\t\
+        </header>\n\n\t\t\t<div class=\"post-media\">\n\n\t\t\t<img width=\"710\"\
+        \ height=\"399\" src=\"https://fieldcropnews.com/wp-content/uploads/2020/09/sorghum-frost-710x399.jpg\"\
+        \ class=\"attachment-710x399 size-710x399 wp-post-image\" alt=\"sorghum-sudangrass\
+        \ after a frost\" loading=\"lazy\" srcset=\"https://fieldcropnews.com/wp-content/uploads/2020/09/sorghum-frost-710x399.jpg\
+        \ 710w, https://fieldcropnews.com/wp-content/uploads/2020/09/sorghum-frost-910x512.jpg\
+        \ 910w\" sizes=\"(max-width: 710px) 100vw, 710px\" />\t\t\t\t\t\t\t<div class=\"\
+        thumb-overlay\">\n\t\t\t\t<!-- test -->\n\t\t\t\t\t<div class=\"thumb-bg e-bg\"\
+        \  ></div>\n\t\t\t\t\t<div class=\"thumb-links\"><a href=\"https://fieldcropnews.com/2020/10/september-2020-forage-report/\"\
+        ></a></div>\n\t\t\t\t</div>\n\t\t\t\n\t\t</div><!-- .entry-media -->\n\n\t\
+        \t\n\t<div class=\"post-info\">\n\n\t\t\n\t\t<div class=\"post-meta-info clearfix\"\
+        >\n\t\t\t<div class=\"post-meta float-1\"><span class=\"fa fa-file-text-o\
+        \ t-cr post-icon\" title=\"\" ></span><span class=\"author\"><span class=\"\
+        image\"><img alt='' src='https://secure.gravatar.com/avatar/89d15b88ea153e3b11bf6f38e2e9ac92?s=27&amp;d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D27&amp;r=G'\
+        \ class='avatar avatar-27 photo' height='27' width='27' /></span><a href=\"\
+        https://fieldcropnews.com/author/christine-oreilly/\" title=\"View all posts\
+        \ by Christine O&#039;Reilly\">Christine O'Reilly</a></span><span class=\"\
+        post-date\"><i class=\"fa-clock-o fa\"></i> October 2, 2020</span><span class=\"\
+        views\" ><i class=\"fa-eye icon\"></i> 578</span><span class=\"comments\"\
+        \ ><i class=\"fa-comments fa\"></i> <span>Comments Off<span class=\"screen-reader-text\"\
+        > on September 2020 Forage Report</span></span></span></div><!-- .entry-meta\
+        \ -->\t\t\t\t\t\t<div class=\"post-category e-br float-2 cat-936\"  >\n\t\t\
+        \t\t<a href=\"https://fieldcropnews.com/category/forages/\" class=\"t-cr\"\
+        \  title=\"Forages\" ><em></em><i class=\"cat-icon fa fa-newspaper-o e-bg\"\
+        ></i>Forages</a>\n\t\t\t</div>\n\t\t\t\t</div>\n\n\t\t<div class=\"entry-content\"\
+        ><p>Photo: It is impossible to tell by looking at frost-damaged sorghum-sudangrass\
+        \ what the prussic acid levels may be. Silage Corn In fields where rootworm\
+        \ Bt hybrids have been used for three or more consecutive years, resistance\
+        \ among corn rootworm populations is suspected. Producers can no longer rely\
+        \ solely on Bt rootworm hybrids for protection against rootworm injury. See\
+        \ the\_2020 Canadian&#8230;</p>\n</div>\t\t\n\t\t\n\t</div>\n\t\n\t<footer\
+        \ class=\"article-footer clearfix\"><div class=\"read-more float-2\"><a href=\"\
+        https://fieldcropnews.com/2020/10/september-2020-forage-report/\" class=\"\
+        e-bg e-br\"  >Read More</a></div></footer>\n</article>\t\t\t\t\t\t\t</div>\r\
+        \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-md-12 col-sm-12 col-xs-12\"\
+        >\r\n\t\t\t\t\t\t\t\t\n<article id=\"post-19656\" class=\"content-box article\
+        \ post-19656 post type-post status-publish format-standard has-post-thumbnail\
+        \ hentry category-30-residue tag-knolls tag-management tag-ph tag-presentations\
+        \ tag-productivity tag-soil-2 post-cat-550\"  >\n\t\n\t<header class=\"article-header\"\
+        \ >\n\t\t<div class=\"entry-title\">\n\n\t\t\t\t\t\t\t<h2><a href=\"https://fieldcropnews.com/2020/09/getting-to-know-your-knolls-part-2-understanding-and-managing-low-ph-knolls/\"\
+        \ title=\"Permalink to Getting to Know Your Knolls Part 2: Understanding and\
+        \ Managing Low pH Knolls\" rel=\"bookmark\">Getting to Know Your Knolls Part\
+        \ 2: Understanding and Managing Low pH Knolls</a></h2>\n\t\t\t\n\t\t</div><!--\
+        \ .entry-title -->\n\t</header>\n\n\t\t\t<div class=\"post-media\">\n\n\t\t\
+        \t<img width=\"710\" height=\"399\" src=\"https://fieldcropnews.com/wp-content/uploads/2020/09/Figure-2-710x399.jpg\"\
+        \ class=\"attachment-710x399 size-710x399 wp-post-image\" alt=\"\" loading=\"\
+        lazy\" />\t\t\t\t\t\t\t<div class=\"thumb-overlay\">\n\t\t\t\t<!-- test -->\n\
+        \t\t\t\t\t<div class=\"thumb-bg e-bg\"  ></div>\n\t\t\t\t\t<div class=\"thumb-links\"\
+        ><a href=\"https://fieldcropnews.com/2020/09/getting-to-know-your-knolls-part-2-understanding-and-managing-low-ph-knolls/\"\
+        ></a></div>\n\t\t\t\t</div>\n\t\t\t\n\t\t</div><!-- .entry-media -->\n\n\t\
+        \t\n\t<div class=\"post-info\">\n\n\t\t\n\t\t<div class=\"post-meta-info clearfix\"\
+        >\n\t\t\t<div class=\"post-meta float-1\"><span class=\"fa fa-file-text-o\
+        \ t-cr post-icon\" title=\"\" ></span><span class=\"author\"><span class=\"\
+        image\"><img src=\"https://fieldcropnews.com/wp-content/authors/Ben.Rosser-59.jpg\"\
+        \ class=\"avatar photo\" alt=\"Ben Rosser\" width=\"27\" height=\"27\" /></span><a\
+        \ href=\"https://fieldcropnews.com/author/ben-rosser/\" title=\"View all posts\
+        \ by Ben Rosser\">Ben Rosser</a></span><span class=\"post-date\"><i class=\"\
+        fa-clock-o fa\"></i> September 24, 2020</span><span class=\"views\" ><i class=\"\
+        fa-eye icon\"></i> 588</span><span class=\"comments\" ><i class=\"fa-comments\
+        \ fa\"></i> <span>Comments Off<span class=\"screen-reader-text\"> on Getting\
+        \ to Know Your Knolls Part 2: Understanding and Managing Low pH Knolls</span></span></span></div><!--\
+        \ .entry-meta -->\t\t\t\t\t\t<div class=\"post-category e-br float-2 cat-550\"\
+        \  >\n\t\t\t\t<a href=\"https://fieldcropnews.com/category/30-residue/\" class=\"\
+        t-cr\"  title=\"Soil Health\" ><em></em><i class=\"cat-icon fa fa-newspaper-o\
+        \ e-bg\"></i>Soil Health</a>\n\t\t\t</div>\n\t\t\t\t</div>\n\n\t\t<div class=\"\
+        entry-content\"><p>Ben Rosser, Corn Specialist, OMAFRA While high pH knolls\
+        \ tend to be more common in Ontario, often caused by soil erosion leaving\
+        \ higher pH calcareous subsoils, this is not the case for all regions. How\
+        \ do low pH knolls develop? Low pH knolls (Figure 1) can develop on undulating\
+        \ landscapes where surface soils formed from deposits of sand, such as&#8230;</p>\n\
+        </div>\t\t\n\t\t\n\t</div>\n\t\n\t<footer class=\"article-footer clearfix\"\
+        ><div class=\"post-tags float-1\"><span><i class=\"fa fa-tags\"></i>Tags:\
+        \ </span><a href=\"https://fieldcropnews.com/tag/knolls/\" rel=\"tag\">knolls</a>\
+        \ <a href=\"https://fieldcropnews.com/tag/management/\" rel=\"tag\">management</a>\
+        \ <a href=\"https://fieldcropnews.com/tag/ph/\" rel=\"tag\">pH</a> <a href=\"\
+        https://fieldcropnews.com/tag/presentations/\" rel=\"tag\">Presentations and\
+        \ Videos</a> <a href=\"https://fieldcropnews.com/tag/productivity/\" rel=\"\
+        tag\">productivity</a> <a href=\"https://fieldcropnews.com/tag/soil-2/\" rel=\"\
+        tag\">soil</a> </div><!-- .post-tags --><div class=\"read-more float-2\"><a\
+        \ href=\"https://fieldcropnews.com/2020/09/getting-to-know-your-knolls-part-2-understanding-and-managing-low-ph-knolls/\"\
+        \ class=\"e-bg e-br\"  >Read More</a></div></footer>\n</article>\t\t\t\t\t\
+        \t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-md-12 col-sm-12\
+        \ col-xs-12\">\r\n\t\t\t\t\t\t\t\t\n<article id=\"post-19696\" class=\"content-box\
+        \ article post-19696 post type-post status-publish format-standard has-post-thumbnail\
+        \ hentry category-30-residue tag-knolls tag-ph tag-presentations tag-soil-2\
+        \ tag-topsoil post-cat-550\"  >\n\t\n\t<header class=\"article-header\" >\n\
+        \t\t<div class=\"entry-title\">\n\n\t\t\t\t\t\t\t<h2><a href=\"https://fieldcropnews.com/2020/09/getting-to-know-your-knolls-part-1-understanding-and-managing-high-ph-knolls/\"\
+        \ title=\"Permalink to Getting to Know Your Knolls Part 1: Understanding and\
+        \ Managing High pH Knolls\" rel=\"bookmark\">Getting to Know Your Knolls Part\
+        \ 1: Understanding and Managing High pH Knolls</a></h2>\n\t\t\t\n\t\t</div><!--\
+        \ .entry-title -->\n\t</header>\n\n\t\t\t<div class=\"post-media\">\n\n\t\t\
+        \t<img width=\"710\" height=\"399\" src=\"https://fieldcropnews.com/wp-content/uploads/2020/09/Figure-5-710x399.jpg\"\
+        \ class=\"attachment-710x399 size-710x399 wp-post-image\" alt=\"\" loading=\"\
+        lazy\" srcset=\"https://fieldcropnews.com/wp-content/uploads/2020/09/Figure-5-710x399.jpg\
+        \ 710w, https://fieldcropnews.com/wp-content/uploads/2020/09/Figure-5-910x512.jpg\
+        \ 910w\" sizes=\"(max-width: 710px) 100vw, 710px\" />\t\t\t\t\t\t\t<div class=\"\
+        thumb-overlay\">\n\t\t\t\t<!-- test -->\n\t\t\t\t\t<div class=\"thumb-bg e-bg\"\
+        \  ></div>\n\t\t\t\t\t<div class=\"thumb-links\"><a href=\"https://fieldcropnews.com/2020/09/getting-to-know-your-knolls-part-1-understanding-and-managing-high-ph-knolls/\"\
+        ></a></div>\n\t\t\t\t</div>\n\t\t\t\n\t\t</div><!-- .entry-media -->\n\n\t\
+        \t\n\t<div class=\"post-info\">\n\n\t\t\n\t\t<div class=\"post-meta-info clearfix\"\
+        >\n\t\t\t<div class=\"post-meta float-1\"><span class=\"fa fa-file-text-o\
+        \ t-cr post-icon\" title=\"\" ></span><span class=\"author\"><span class=\"\
+        image\"><img src=\"https://fieldcropnews.com/wp-content/authors/Jake.Munroe-67.jpg\"\
+        \ class=\"avatar photo\" alt=\"Jake Munroe\" width=\"27\" height=\"27\" /></span><a\
+        \ href=\"https://fieldcropnews.com/author/jake-munroe/\" title=\"View all\
+        \ posts by Jake Munroe\">Jake Munroe</a></span><span class=\"post-date\"><i\
+        \ class=\"fa-clock-o fa\"></i> September 23, 2020</span><span class=\"views\"\
+        \ ><i class=\"fa-eye icon\"></i> 428</span><span class=\"comments\" ><i class=\"\
+        fa-comments fa\"></i> <span>Comments Off<span class=\"screen-reader-text\"\
+        > on Getting to Know Your Knolls Part 1: Understanding and Managing High pH\
+        \ Knolls</span></span></span></div><!-- .entry-meta -->\t\t\t\t\t\t<div class=\"\
+        post-category e-br float-2 cat-550\"  >\n\t\t\t\t<a href=\"https://fieldcropnews.com/category/30-residue/\"\
+        \ class=\"t-cr\"  title=\"Soil Health\" ><em></em><i class=\"cat-icon fa fa-newspaper-o\
+        \ e-bg\"></i>Soil Health</a>\n\t\t\t</div>\n\t\t\t\t</div>\n\n\t\t<div class=\"\
+        entry-content\"><p>Jake Munroe, Soil Management Specialist &#8211; Field Crops,\
+        \ OMAFRA We&#8217;ve all seen them. Hilltops. Whitecaps. High spots where\
+        \ the crop struggles year after year. Eroded knolls are common to Ontario\
+        \ agriculture and cost farmers in lost productivity each season. However,\
+        \ not all eroded knolls are alike. In this two-part series, we will explore\
+        \ knolls: how they&#8217;ve formed and how they&#8230;</p>\n</div>\t\t\n\t\
+        \t\n\t</div>\n\t\n\t<footer class=\"article-footer clearfix\"><div class=\"\
+        post-tags float-1\"><span><i class=\"fa fa-tags\"></i>Tags: </span><a href=\"\
+        https://fieldcropnews.com/tag/knolls/\" rel=\"tag\">knolls</a> <a href=\"\
+        https://fieldcropnews.com/tag/ph/\" rel=\"tag\">pH</a> <a href=\"https://fieldcropnews.com/tag/presentations/\"\
+        \ rel=\"tag\">Presentations and Videos</a> <a href=\"https://fieldcropnews.com/tag/soil-2/\"\
+        \ rel=\"tag\">soil</a> <a href=\"https://fieldcropnews.com/tag/topsoil/\"\
+        \ rel=\"tag\">topsoil</a> </div><!-- .post-tags --><div class=\"read-more\
+        \ float-2\"><a href=\"https://fieldcropnews.com/2020/09/getting-to-know-your-knolls-part-1-understanding-and-managing-high-ph-knolls/\"\
+        \ class=\"e-bg e-br\"  >Read More</a></div></footer>\n</article>\t\t\t\t\t\
+        \t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-md-12 col-sm-12\
+        \ col-xs-12\">\r\n\t\t\t\t\t\t\t\t\n<article id=\"post-19644\" class=\"content-box\
+        \ article post-19644 post type-post status-publish format-standard has-post-thumbnail\
+        \ hentry category-forages category-30-residue tag-carbon tag-manure-3 tag-nutrients\
+        \ tag-soil-2 post-cat-936\"  >\n\t\n\t<header class=\"article-header\" >\n\
+        \t\t<div class=\"entry-title\">\n\n\t\t\t\t\t\t\t<h2><a href=\"https://fieldcropnews.com/2020/09/unraveling-the-mystery-of-soil-manures-contribution/\"\
+        \ title=\"Permalink to Unraveling the Mystery of Soil: Manure&#8217;s Contribution\"\
+        \ rel=\"bookmark\">Unraveling the Mystery of Soil: Manure&#8217;s Contribution</a></h2>\n\
+        \t\t\t\n\t\t</div><!-- .entry-title -->\n\t</header>\n\n\t\t\t<div class=\"\
+        post-media\">\n\n\t\t\t<img width=\"532\" height=\"399\" src=\"https://fieldcropnews.com/wp-content/uploads/2020/09/Brown-Figure-1.jpg\"\
+        \ class=\"attachment-710x399 size-710x399 wp-post-image\" alt=\"\" loading=\"\
+        lazy\" srcset=\"https://fieldcropnews.com/wp-content/uploads/2020/09/Brown-Figure-1.jpg\
+        \ 689w, https://fieldcropnews.com/wp-content/uploads/2020/09/Brown-Figure-1-300x225.jpg\
+        \ 300w\" sizes=\"(max-width: 532px) 100vw, 532px\" />\t\t\t\t\t\t\t<div class=\"\
+        thumb-overlay\">\n\t\t\t\t<!-- test -->\n\t\t\t\t\t<div class=\"thumb-bg e-bg\"\
+        \  ></div>\n\t\t\t\t\t<div class=\"thumb-links\"><a href=\"https://fieldcropnews.com/2020/09/unraveling-the-mystery-of-soil-manures-contribution/\"\
+        ></a></div>\n\t\t\t\t</div>\n\t\t\t\n\t\t</div><!-- .entry-media -->\n\n\t\
+        \t\n\t<div class=\"post-info\">\n\n\t\t\n\t\t<div class=\"post-meta-info clearfix\"\
+        >\n\t\t\t<div class=\"post-meta float-1\"><span class=\"fa fa-file-text-o\
+        \ t-cr post-icon\" title=\"\" ></span><span class=\"author\"><span class=\"\
+        image\"><img src=\"https://fieldcropnews.com/wp-content/authors/christine.brown-22.jpg\"\
+        \ class=\"avatar photo\" alt=\"Christine Brown\" width=\"27\" height=\"27\"\
+        \ /></span><a href=\"https://fieldcropnews.com/author/christine-brown/\" title=\"\
+        View all posts by Christine Brown\">Christine Brown</a></span><span class=\"\
+        post-date\"><i class=\"fa-clock-o fa\"></i> September 22, 2020</span><span\
+        \ class=\"views\" ><i class=\"fa-eye icon\"></i> 1215</span><span class=\"\
+        comments\" ><i class=\"fa-comments fa\"></i> <span>Comments Off<span class=\"\
+        screen-reader-text\"> on Unraveling the Mystery of Soil: Manure&#8217;s Contribution</span></span></span></div><!--\
+        \ .entry-meta -->\t\t\t\t\t\t<div class=\"post-category e-br float-2 cat-936\"\
+        \  >\n\t\t\t\t<a href=\"https://fieldcropnews.com/category/forages/\" class=\"\
+        t-cr\"  title=\"Forages\" ><em></em><i class=\"cat-icon fa fa-newspaper-o\
+        \ e-bg\"></i>Forages</a>\n\t\t\t</div>\n\t\t\t\t</div>\n\n\t\t<div class=\"\
+        entry-content\"><p>Christine Brown, Sustainability Specialist &#8211; Field\
+        \ Crops, OMAFRA &#8220;A radical new way of thinking about soil has partially\
+        \ solved the mystery of why adding manure improves resilience, climate control,\
+        \ and crop yields.&#8221; &#8211; Dr. Andy Neal, Rothamsted Research. Have\
+        \ you ever wondered why forests can establish and thrive without being fertilized?\
+        \ Or, why grasslands, pastures, or roadside vegetation &#8211; including&#8230;</p>\n\
+        </div>\t\t\n\t\t\n\t</div>\n\t\n\t<footer class=\"article-footer clearfix\"\
+        ><div class=\"post-tags float-1\"><span><i class=\"fa fa-tags\"></i>Tags:\
+        \ </span><a href=\"https://fieldcropnews.com/tag/carbon/\" rel=\"tag\">carbon</a>\
+        \ <a href=\"https://fieldcropnews.com/tag/manure-3/\" rel=\"tag\">manure</a>\
+        \ <a href=\"https://fieldcropnews.com/tag/nutrients/\" rel=\"tag\">nutrients</a>\
+        \ <a href=\"https://fieldcropnews.com/tag/soil-2/\" rel=\"tag\">soil</a> </div><!--\
+        \ .post-tags --><div class=\"read-more float-2\"><a href=\"https://fieldcropnews.com/2020/09/unraveling-the-mystery-of-soil-manures-contribution/\"\
+        \ class=\"e-bg e-br\"  >Read More</a></div></footer>\n</article>\t\t\t\t\t\
+        \t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-md-12 col-sm-12\
+        \ col-xs-12\">\r\n\t\t\t\t\t\t\t\t\n<article id=\"post-19782\" class=\"content-box\
+        \ article post-19782 post type-post status-publish format-standard has-post-thumbnail\
+        \ hentry category-cover-crops category-forages category-pastures category-weather\
+        \ tag-frost tag-prussic-acid tag-sorghum tag-sorghum-sudangrass tag-sudangrass\
+        \ post-cat-932\"  >\n\t\n\t<header class=\"article-header\" >\n\t\t<div class=\"\
+        entry-title\">\n\n\t\t\t\t\t\t\t<h2><a href=\"https://fieldcropnews.com/2020/09/frost-injury-in-sorghum-species/\"\
+        \ title=\"Permalink to Frost Injury in Sorghum Species\" rel=\"bookmark\"\
+        >Frost Injury in Sorghum Species</a></h2>\n\t\t\t\n\t\t</div><!-- .entry-title\
+        \ -->\n\t</header>\n\n\t\t\t<div class=\"post-media\">\n\n\t\t\t<img width=\"\
+        710\" height=\"399\" src=\"https://fieldcropnews.com/wp-content/uploads/2020/09/sorghum-frost-710x399.jpg\"\
+        \ class=\"attachment-710x399 size-710x399 wp-post-image\" alt=\"sorghum-sudangrass\
+        \ after a frost\" loading=\"lazy\" srcset=\"https://fieldcropnews.com/wp-content/uploads/2020/09/sorghum-frost-710x399.jpg\
+        \ 710w, https://fieldcropnews.com/wp-content/uploads/2020/09/sorghum-frost-910x512.jpg\
+        \ 910w\" sizes=\"(max-width: 710px) 100vw, 710px\" />\t\t\t\t\t\t\t<div class=\"\
+        thumb-overlay\">\n\t\t\t\t<!-- test -->\n\t\t\t\t\t<div class=\"thumb-bg e-bg\"\
+        \  ></div>\n\t\t\t\t\t<div class=\"thumb-links\"><a href=\"https://fieldcropnews.com/2020/09/frost-injury-in-sorghum-species/\"\
+        ></a></div>\n\t\t\t\t</div>\n\t\t\t\n\t\t</div><!-- .entry-media -->\n\n\t\
+        \t\n\t<div class=\"post-info\">\n\n\t\t\n\t\t<div class=\"post-meta-info clearfix\"\
+        >\n\t\t\t<div class=\"post-meta float-1\"><span class=\"fa fa-file-text-o\
+        \ t-cr post-icon\" title=\"\" ></span><span class=\"author\"><span class=\"\
+        image\"><img alt='' src='https://secure.gravatar.com/avatar/89d15b88ea153e3b11bf6f38e2e9ac92?s=27&amp;d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D27&amp;r=G'\
+        \ class='avatar avatar-27 photo' height='27' width='27' /></span><a href=\"\
+        https://fieldcropnews.com/author/christine-oreilly/\" title=\"View all posts\
+        \ by Christine O&#039;Reilly\">Christine O'Reilly</a></span><span class=\"\
+        post-date\"><i class=\"fa-clock-o fa\"></i> September 21, 2020</span><span\
+        \ class=\"views\" ><i class=\"fa-eye icon\"></i> 553</span><span class=\"\
+        comments\" ><i class=\"fa-comments fa\"></i> <span>Comments Off<span class=\"\
+        screen-reader-text\"> on Frost Injury in Sorghum Species</span></span></span></div><!--\
+        \ .entry-meta -->\t\t\t\t\t\t<div class=\"post-category e-br float-2 cat-932\"\
+        \  >\n\t\t\t\t<a href=\"https://fieldcropnews.com/category/cover-crops/\"\
+        \ class=\"t-cr\"  title=\"Cover Crops\" ><em></em><i class=\"cat-icon fa fa-newspaper-o\
+        \ e-bg\"></i>Cover Crops</a>\n\t\t\t</div>\n\t\t\t\t</div>\n\n\t\t<div class=\"\
+        entry-content\"><p>Caution! Members of the sorghum family \u2013 sorghum,\
+        \ sudangrass, and hybrid sorghum-sudangrass \u2013 contain dhurrin, a glucoside\
+        \ that breaks down to release hydrocyanic acid, also known as prussic acid\
+        \ (hydrogen cyanide, HCN). A sudden disruption of growth such as frost, drought\
+        \ or cutting, causes prussic acid to be released inside the plant at a more\
+        \ rapid rate. High prussic acid&#8230;</p>\n</div>\t\t\n\t\t\n\t</div>\n\t\
+        \n\t<footer class=\"article-footer clearfix\"><div class=\"post-tags float-1\"\
+        ><span><i class=\"fa fa-tags\"></i>Tags: </span><a href=\"https://fieldcropnews.com/tag/frost/\"\
+        \ rel=\"tag\">frost</a> <a href=\"https://fieldcropnews.com/tag/prussic-acid/\"\
+        \ rel=\"tag\">prussic acid</a> <a href=\"https://fieldcropnews.com/tag/sorghum/\"\
+        \ rel=\"tag\">sorghum</a> <a href=\"https://fieldcropnews.com/tag/sorghum-sudangrass/\"\
+        \ rel=\"tag\">sorghum-sudangrass</a> <a href=\"https://fieldcropnews.com/tag/sudangrass/\"\
+        \ rel=\"tag\">sudangrass</a> </div><!-- .post-tags --><div class=\"read-more\
+        \ float-2\"><a href=\"https://fieldcropnews.com/2020/09/frost-injury-in-sorghum-species/\"\
+        \ class=\"e-bg e-br\"  >Read More</a></div></footer>\n</article>\t\t\t\t\t\
+        \t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"col-md-12 col-sm-12\
+        \ col-xs-12\">\r\n\t\t\t\t\t\t\t\t\n<article id=\"post-19648\" class=\"content-box\
+        \ article post-19648 post type-post status-publish format-standard has-post-thumbnail\
+        \ hentry category-forages tag-forages-3 tag-grass tag-jointing tag-non-jointing\
+        \ post-cat-936\"  >\n\t\n\t<header class=\"article-header\" >\n\t\t<div class=\"\
+        entry-title\">\n\n\t\t\t\t\t\t\t<h2><a href=\"https://fieldcropnews.com/2020/09/managing-jointing-and-non-jointing-grasses/\"\
+        \ title=\"Permalink to Managing Jointing and Non-Jointing Grasses\" rel=\"\
+        bookmark\">Managing Jointing and Non-Jointing Grasses</a></h2>\n\t\t\t\n\t\
+        \t</div><!-- .entry-title -->\n\t</header>\n\n\t\t\t<div class=\"post-media\"\
+        >\n\n\t\t\t<img width=\"710\" height=\"399\" src=\"https://fieldcropnews.com/wp-content/uploads/2020/09/orchardgrass-regrowth_CB-C.OReilly-article-710x399.jpg\"\
+        \ class=\"attachment-710x399 size-710x399 wp-post-image\" alt=\"\" loading=\"\
+        lazy\" srcset=\"https://fieldcropnews.com/wp-content/uploads/2020/09/orchardgrass-regrowth_CB-C.OReilly-article-710x399.jpg\
+        \ 710w, https://fieldcropnews.com/wp-content/uploads/2020/09/orchardgrass-regrowth_CB-C.OReilly-article-910x512.jpg\
+        \ 910w\" sizes=\"(max-width: 710px) 100vw, 710px\" />\t\t\t\t\t\t\t<div class=\"\
+        thumb-overlay\">\n\t\t\t\t<!-- test -->\n\t\t\t\t\t<div class=\"thumb-bg e-bg\"\
+        \  ></div>\n\t\t\t\t\t<div class=\"thumb-links\"><a href=\"https://fieldcropnews.com/2020/09/managing-jointing-and-non-jointing-grasses/\"\
+        ></a></div>\n\t\t\t\t</div>\n\t\t\t\n\t\t</div><!-- .entry-media -->\n\n\t\
+        \t\n\t<div class=\"post-info\">\n\n\t\t\n\t\t<div class=\"post-meta-info clearfix\"\
+        >\n\t\t\t<div class=\"post-meta float-1\"><span class=\"fa fa-file-text-o\
+        \ t-cr post-icon\" title=\"\" ></span><span class=\"author\"><span class=\"\
+        image\"><img alt='' src='https://secure.gravatar.com/avatar/89d15b88ea153e3b11bf6f38e2e9ac92?s=27&amp;d=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D27&amp;r=G'\
+        \ class='avatar avatar-27 photo' height='27' width='27' /></span><a href=\"\
+        https://fieldcropnews.com/author/christine-oreilly/\" title=\"View all posts\
+        \ by Christine O&#039;Reilly\">Christine O'Reilly</a></span><span class=\"\
+        post-date\"><i class=\"fa-clock-o fa\"></i> September 21, 2020</span><span\
+        \ class=\"views\" ><i class=\"fa-eye icon\"></i> 428</span><span class=\"\
+        comments\" ><i class=\"fa-comments fa\"></i> <span>Comments Off<span class=\"\
+        screen-reader-text\"> on Managing Jointing and Non-Jointing Grasses</span></span></span></div><!--\
+        \ .entry-meta -->\t\t\t\t\t\t<div class=\"post-category e-br float-2 cat-936\"\
+        \  >\n\t\t\t\t<a href=\"https://fieldcropnews.com/category/forages/\" class=\"\
+        t-cr\"  title=\"Forages\" ><em></em><i class=\"cat-icon fa fa-newspaper-o\
+        \ e-bg\"></i>Forages</a>\n\t\t\t</div>\n\t\t\t\t</div>\n\n\t\t<div class=\"\
+        entry-content\"><p>Christine O&#8217;Reilly, Forage and Grazing Specialist,\
+        \ OMAFRA Grass doesn&#8217;t just happen and not all species grow the same\
+        \ way. Understanding how different grass species grow enables producers to\
+        \ make good management decisions that maximize forage production in their\
+        \ hay fields and pastures. Jointing and non-jointing grasses respond differently\
+        \ to cutting, which directly affects productivity and persistence. In an established\
+        \ stand,&#8230;</p>\n</div>\t\t\n\t\t\n\t</div>\n\t\n\t<footer class=\"article-footer\
+        \ clearfix\"><div class=\"post-tags float-1\"><span><i class=\"fa fa-tags\"\
+        ></i>Tags: </span><a href=\"https://fieldcropnews.com/tag/forages-3/\" rel=\"\
+        tag\">forages</a> <a href=\"https://fieldcropnews.com/tag/grass/\" rel=\"\
+        tag\">grass</a> <a href=\"https://fieldcropnews.com/tag/jointing/\" rel=\"\
+        tag\">jointing</a> <a href=\"https://fieldcropnews.com/tag/non-jointing/\"\
+        \ rel=\"tag\">non-jointing</a> </div><!-- .post-tags --><div class=\"read-more\
+        \ float-2\"><a href=\"https://fieldcropnews.com/2020/09/managing-jointing-and-non-jointing-grasses/\"\
+        \ class=\"e-bg e-br\"  >Read More</a></div></footer>\n</article>\t\t\t\t\t\
+        \t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t<!-- .row -->\r\n\
+        \r\n\t\t\t\t</div><!-- .posts-container -->\r\n\r\n\t\t\t\t<div class=\"numeric-pagination\
+        \ clearfix\">\n<span class=\"pages\">Page 1 of 79</span><span class=\"current\"\
+        >1</span><a href=\"https://fieldcropnews.com/page/2/\" class=\"page\" title=\"\
+        2\">2</a><a href=\"https://fieldcropnews.com/page/3/\" class=\"page\" title=\"\
+        3\">3</a><a href=\"https://fieldcropnews.com/page/4/\" class=\"page\" title=\"\
+        4\">4</a><a href=\"https://fieldcropnews.com/page/5/\" class=\"page\" title=\"\
+        5\">5</a><a href=\"https://fieldcropnews.com/page/2/\" class=\"next-post\"\
+        >&raquo;</a><a href=\"https://fieldcropnews.com/page/10/\" class=\"page\"\
+        \ title=\"10\">10</a><a href=\"https://fieldcropnews.com/page/20/\" class=\"\
+        page\" title=\"20\">20</a><a href=\"https://fieldcropnews.com/page/30/\" class=\"\
+        page\" title=\"30\">30</a><span class=\"extend\">...</span><a href=\"https://fieldcropnews.com/page/79/\"\
+        \ class=\"last\" title=\"Last &raquo;\">Last &raquo;</a></div>\n\r\n\t\t\t\
+        \r\n\t\t</div>\r\n\r\n\t\t<aside id=\"sidebar\" class=\"col-md-4\">\n\t<div\
+        \ class=\"sidebar-inner\">\n<div id=\"categories-5\" class=\"widget widget_categories\"\
+        ><div class=\"section-title widget-title\"><h3>Categories</h3></div>\n\t\t\
+        \t<ul>\n\t\t\t\t\t<li class=\"cat-item cat-item-57\"><a href=\"https://fieldcropnews.com/category/ag-breakfast-updates/\"\
+        \ title=\"A collective summary of information gleaned from the weekly breakfast\
+        \ meeting minutes with local crop consultants in Ontario\">Ag Business Minutes</a>\n\
+        </li>\n\t<li class=\"cat-item cat-item-940\"><a href=\"https://fieldcropnews.com/category/barley/\"\
+        >Barley</a>\n</li>\n\t<li class=\"cat-item cat-item-109\"><a href=\"https://fieldcropnews.com/category/bautebugblog/\"\
+        >Baute Bug Blog</a>\n</li>\n\t<li class=\"cat-item cat-item-934\"><a href=\"\
+        https://fieldcropnews.com/category/canola/\">Canola</a>\n</li>\n\t<li class=\"\
+        cat-item cat-item-933\"><a href=\"https://fieldcropnews.com/category/corn/\"\
+        >Corn</a>\n</li>\n\t<li class=\"cat-item cat-item-932\"><a href=\"https://fieldcropnews.com/category/cover-crops/\"\
+        >Cover Crops</a>\n</li>\n\t<li class=\"cat-item cat-item-916\"><a href=\"\
+        https://fieldcropnews.com/category/crop-report/\" title=\"Weekly in-season\
+        \ progress reports of the Ontario field crop landscape\">Crop Reports</a>\n\
+        </li>\n\t<li class=\"cat-item cat-item-929\"><a href=\"https://fieldcropnews.com/category/diseases/\"\
+        >Diseases</a>\n</li>\n\t<li class=\"cat-item cat-item-935\"><a href=\"https://fieldcropnews.com/category/edible-beans/\"\
+        >Edible Beans</a>\n</li>\n\t<li class=\"cat-item cat-item-1447\"><a href=\"\
+        https://fieldcropnews.com/category/farm-safety/\">Farm Safety</a>\n</li>\n\
+        \t<li class=\"cat-item cat-item-936\"><a href=\"https://fieldcropnews.com/category/forages/\"\
+        >Forages</a>\n</li>\n\t<li class=\"cat-item cat-item-1221\"><a href=\"https://fieldcropnews.com/category/great-lakes-and-maritimes-pest-monitoring-network/\"\
+        >Great Lakes and Maritimes Pest Monitoring Network</a>\n</li>\n\t<li class=\"\
+        cat-item cat-item-939\"><a href=\"https://fieldcropnews.com/category/oats/\"\
+        >Oats</a>\n</li>\n\t<li class=\"cat-item cat-item-937\"><a href=\"https://fieldcropnews.com/category/pastures/\"\
+        >Pastures</a>\n</li>\n\t<li class=\"cat-item cat-item-651\"><a href=\"https://fieldcropnews.com/category/precisionag/\"\
+        \ title=\"This section is devoted to learning about precision agriculture\
+        \ tools.\">Precision Agriculture</a>\n</li>\n\t<li class=\"cat-item cat-item-1304\"\
+        ><a href=\"https://fieldcropnews.com/category/30-residue/soil-compaction/\"\
+        >Soil Compaction</a>\n</li>\n\t<li class=\"cat-item cat-item-930\"><a href=\"\
+        https://fieldcropnews.com/category/fertility/\">Soil Fertility</a>\n</li>\n\
+        \t<li class=\"cat-item cat-item-550\"><a href=\"https://fieldcropnews.com/category/30-residue/\"\
+        >Soil Health</a>\n</li>\n\t<li class=\"cat-item cat-item-938\"><a href=\"\
+        https://fieldcropnews.com/category/soybean/\">Soybean</a>\n</li>\n\t<li class=\"\
+        cat-item cat-item-942\"><a href=\"https://fieldcropnews.com/category/spring-wheat/\"\
+        >Spring wheat</a>\n</li>\n\t<li class=\"cat-item cat-item-1\"><a href=\"https://fieldcropnews.com/category/general/\"\
+        \ title=\"This is the default category...its listed as uncategorized so that\
+        \ posts don&#039;t appear in the from category.\">Uncategorized</a>\n</li>\n\
+        \t<li class=\"cat-item cat-item-1427\"><a href=\"https://fieldcropnews.com/category/weather/\"\
+        >Weather</a>\n</li>\n\t<li class=\"cat-item cat-item-928\"><a href=\"https://fieldcropnews.com/category/weeds/\"\
+        >Weeds</a>\n</li>\n\t<li class=\"cat-item cat-item-941\"><a href=\"https://fieldcropnews.com/category/winter-wheat/\"\
+        >Winter Wheat</a>\n</li>\n\t\t\t</ul>\n\n\t\t\t</div><div id=\"html-widget-2\"\
+        \ class=\"widget html-widget\"><div class=\"section-title widget-title\"><h3>Subscribe</h3></div>\t\
+        \t\t<div class=\"clearfix\" style=\"width:100%;margin:0 auto; \">\r\n\t\t\t\
+        \t<!-- Begin MailChimp Signup Form -->\r\n<div id=\"mc_embed_signup\">\r\n\
+        <p>Sign up and receive the latest posts right in \x03your inbox.</p>\r\n<form\
+        \ action=\"//fieldcropnews.us13.list-manage.com/subscribe/post?u=b8e615dc50573ce510ba5bce7&id=dbe1a7bc89\"\
+        \ method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\"\
+        \ class=\"validate\" target=\"_blank\" novalidate>\r\n    <div id=\"mc_embed_signup_scroll\"\
+        >\r\n\t\r\n<div class=\"mc-field-group\">\r\n\t<label for=\"mce-EMAIL\" class=\"\
+        \">Email Address </label>\r\n\t<input type=\"email\" value=\"\" name=\"EMAIL\"\
+        \ class=\"required email\" id=\"mce-EMAIL\" placeholder=\"Email Address\"\
+        >\r\n</div>\r\n\t<div id=\"mce-responses\" class=\"clear\">\r\n\t\t<div class=\"\
+        response\" id=\"mce-error-response\" style=\"display:none\"></div>\r\n\t\t\
+        <div class=\"response\" id=\"mce-success-response\" style=\"display:none\"\
+        ></div>\r\n\t</div>    <!-- real people should not fill this in and expect\
+        \ good things - do not remove this or risk form bot signups-->\r\n    <div\
+        \ style=\"position: absolute; left: -5000px;\" aria-hidden=\"true\"><input\
+        \ type=\"text\" name=\"b_b8e615dc50573ce510ba5bce7_dbe1a7bc89\" tabindex=\"\
+        -1\" value=\"\"></div>\r\n    <div style=\"margin:10px 0;\"><input type=\"\
+        submit\" value=\"Sign Up\" name=\"subscribe\" id=\"mc-embedded-subscribe\"\
+        \ class=\"button\"></div>\r\n    </div>\r\n</form>\r\n<p class=\"small\">*\
+        \ indicates required. By subscribing I agree to receive \x03periodic communications\
+        \ from Field Crop News. You \x03can opt-out at any time by clicking the unsubscribe\
+        \ link \x03at the bottom of any email.</p>\r\n</div>\r\n<!--End mc_embed_signup-->\t\
+        \t    \t</div>\r\n\t\t</div><div id=\"searchwp_live_search-7\" class=\"widget\
+        \ widget_searchwp_live_search\">\t\t\t\t\t\t<form role=\"search\" method=\"\
+        get\" class=\"searchwp-live-search-widget-search-form\" action=\"\">\n\t\t\
+        \t\t\t\t\t\t<label>\n\t\t\t\t\t<span class=\"screen-reader-text\">Search for:</span>\n\
+        \t\t\t\t\t<input type=\"search\" class=\"search-field\" placeholder=\"Search\
+        \ for...\" value=\"\" name=\"swpquery\" data-swplive=\"true\" data-swpengine=\"\
+        default\" data-swpconfig=\"default\" title=\"Search for...\" autocomplete=\"\
+        off\">\n\t\t\t\t</label>\n\t\t\t\t\t\t\t\t<input type=\"submit\" class=\"\
+        search-submit\" value=\"Search\">\n\t\t\t\t\t\t\t</form>\n\t\t\t\t\t</div>\t\
+        <a class=\"close-sidebar fa-times\"></a>\n\t</div>\n\t<div class=\"content-box\
+        \ sidebar-bg col-md-4\"></div>\n</aside><!-- slidebar -->\n\n\t</div>\r\n\
+        </div>\r\n<footer id=\"main-footer\">\n\t\n\t<div class=\"container\">\n\t\
+        \t\n\t\t\n\t<div id=\"footer-widgets\">\n\t\t\n\t\t<div class=\"row\">\n\n\
+        \t\t\t\t\t\t\t<div class=\"first-column widget-content col-md-8\">\n\t\t\t\
+        \t\t<div id=\"aboutus-widget-2\" class=\"widget aboutus-widget\">\t\t\t<p\
+        \ class=\"about-us-logo\">\r\n\t\t\t\t<img src=\"https://fieldcropnews.com/wp-content/uploads/2016/07/OMAFRA_FCN_logo.png\"\
+        \ alt=\"\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t\u201CField Crop News\u201D\
+        \ is an archive of information dedicated to the production of over 8.5 million\
+        \ acres of field crops in Ontario and a forum for which producers, researchers\
+        \ and industry personnel can share information and ideas. The crop technology\
+        \ team with the Ontario Ministry of Agriculture, Food and Rural Affairs (OMAFRA),\
+        \ faculty at the University of Guelph and Ontario field crop producers continually\
+        \ work together to find ways to improve field crop production. The key learning\
+        \ and outcomes from these collaborations are captured at \u201CField Crop\
+        \ News\u201D. \t\t\t</p>\r\n\t\t</div>\t\t\t\t</div><!-- .first-column -->\t\
+        \n\t\t\t\n\t\t\t\t\t\t\t<div class=\"second-column widget-content col-md-4\"\
+        >\n\t\t\t\t\t<div id=\"aboutus-widget-3\" class=\"widget aboutus-widget\"\
+        >\t\t\t<p class=\"about-us-logo\">\r\n\t\t\t\t<img src=\"https://fieldcropnews.com/wp-content/uploads/2016/07/agi-link-logo.png\"\
+        \ alt=\"\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t</div>\t\
+        \t\t\t</div><!-- .second-column -->\n\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t</div>\n\
+        \t\n\t</div><!-- #footer-widget -->\n\t\n\n\t</div>\n\t\t\n\t\t\t\t\t<div\
+        \ id=\"footer-bottom\">\n\t\t\t\t<div class=\"container\">\n\n\t\t\t\t\t\t\
+        \t\t\t\t\t<div class=\"copyrights\">\n\t\t\t\t\t\t\t<p>Copyright \xA9 2018\
+        \ Ontario Ministry of Agriculture, Food and Rural Affairs, All Rights Reserved.</p>\n\
+        \t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"\
+        footer-menu\">\n\t\t\t\t\t\t<div class=\"container\">\n\t\t\t\t\t\t<div class=\"\
+        menu-footer-container\"><ul id=\"menu-footer\" class=\"FooterNav\"><li id=\"\
+        menu-item-61\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-61\"><a href=\"https://fieldcropnews.com/about/\">About</a></li>\n\
+        <li id=\"menu-item-62\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-62\"><a href=\"https://fieldcropnews.com/archives/\">Archives</a></li>\n\
+        <li id=\"menu-item-63\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-63\"><a href=\"https://fieldcropnews.com/authors/\">Authors</a></li>\n\
+        <li id=\"menu-item-12276\" class=\"menu-item menu-item-type-taxonomy menu-item-object-post_tag\
+        \ menu-item-12276\"><a href=\"https://fieldcropnews.com/tag/resources/\">Tools\
+        \ and Resources</a></li>\n<li id=\"menu-item-12278\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-post_tag menu-item-12278\"><a href=\"https://fieldcropnews.com/tag/apps/\"\
+        >Apps</a></li>\n<li id=\"menu-item-12275\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-post_tag menu-item-12275\"><a href=\"https://fieldcropnews.com/tag/omafra-podcast/\"\
+        >Podcasts</a></li>\n<li id=\"menu-item-12277\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-post_tag menu-item-12277\"><a href=\"https://fieldcropnews.com/tag/presentations/\"\
+        >Presentations and Videos</a></li>\n<li id=\"menu-item-64\" class=\"menu-item\
+        \ menu-item-type-post_type menu-item-object-page menu-item-64\"><a href=\"\
+        https://fieldcropnews.com/contact/\">Contact</a></li>\n<li id=\"menu-item-12304\"\
+        \ class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-12304\"\
+        ><a href=\"https://fieldcropnews.com/contributor-login/\">Contributor Login</a></li>\n\
+        <li id=\"menu-item-65\" class=\"menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-65\"><a href=\"https://fieldcropnews.com/privacy/\">Disclaimer</a></li>\n\
+        </ul></div>\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\
+        \t\t\t\t\t\t<a href=\"#\" class=\"e-bg scrolltop fa fa-angle-up hidden-xs\"\
+        \ ></a>\n\t\t</footer><!-- #main-footer -->\n\t<div class=\"search-overlay\"\
+        ></div>\n\t<form method=\"get\" id=\"main-search-form\" action=\"https://fieldcropnews.com/\"\
+        >\n\t\t<div class=\"closepop fa-times\"></div>\n\t\t\t\t<label for=\"s1692344249\"\
+        \ class=\"sr-only\">Search...</label>\n\t\t<input type=\"text\" class=\"s\"\
+        \ name=\"s\" placeholder=\"Type and hit enter to search...\">\n\t\t<input\
+        \ type=\"submit\" id=\"submit\" value=\"search\" class=\"hidden-md hidden-lg\"\
+        >\n\t</form>\n</div><!-- #main-wrapper -->\n\t\t\t<script type=\"text/javascript\"\
+        >\n\t\t\tfunction showhide_toggle(type, post_id, more_text, less_text) {\n\
+        \t\t\t\tvar   $link = jQuery(\"#\"+ type + \"-link-\" + post_id)\n\t\t\t\t\
+        \t, $link_a = jQuery('a', $link)\n\t\t\t\t\t, $content = jQuery(\"#\"+ type\
+        \ + \"-content-\" + post_id)\n\t\t\t\t\t, $toggle = jQuery(\"#\"+ type + \"\
+        -toggle-\" + post_id)\n\t\t\t\t\t, show_hide_class = 'sh-show sh-hide';\n\t\
+        \t\t\t$link.toggleClass(show_hide_class);\n\t\t\t\t$content.toggleClass(show_hide_class).toggle();\n\
+        \t\t\t\tif($link_a.attr('aria-expanded') === 'true') {\n\t\t\t\t\t$link_a.attr('aria-expanded',\
+        \ 'false');\n\t\t\t\t} else {\n\t\t\t\t\t$link_a.attr('aria-expanded', 'true');\n\
+        \t\t\t\t}\n\t\t\t\tif($toggle.text() === more_text) {\n\t\t\t\t\t$toggle.text(less_text);\n\
+        \t\t\t\t\t$link.trigger( \"sh-link:more\" );\n\t\t\t\t} else {\n\t\t\t\t\t\
+        $toggle.text(more_text);\n\t\t\t\t\t$link.trigger( \"sh-link:less\" );\n\t\
+        \t\t\t}\n\t\t\t\t$link.trigger( \"sh-link:toggle\" );\n\t\t\t}\n\t\t</script>\n\
+        \t\t<script type='text/javascript'>/* <![CDATA[ */var van = {\"AjaxUrl\":\
+        \ \"https://fieldcropnews.com/wp-admin/admin-ajax.php\"};/* ]]> */</script>\r\
+        \n\t\t\t\t\t<style type=\"text/css\">\n\t\t\t\t\t.searchwp-live-search-results\
+        \ {\n\t\t\t\t\t\topacity: 0;\n\t\t\t\t\t\ttransition: opacity .25s ease-in-out;\n\
+        \t\t\t\t\t\t-moz-transition: opacity .25s ease-in-out;\n\t\t\t\t\t\t-webkit-transition:\
+        \ opacity .25s ease-in-out;\n\t\t\t\t\t\theight: 0;\n\t\t\t\t\t\toverflow:\
+        \ hidden;\n\t\t\t\t\t\tz-index: 9999995; /* Exceed SearchWP Modal Search Form\
+        \ overlay. */\n\t\t\t\t\t\tposition: absolute;\n\t\t\t\t\t\tdisplay: none;\n\
+        \t\t\t\t\t}\n\n\t\t\t\t\t.searchwp-live-search-results-showing {\n\t\t\t\t\
+        \t\tdisplay: block;\n\t\t\t\t\t\topacity: 1;\n\t\t\t\t\t\theight: auto;\n\t\
+        \t\t\t\t\toverflow: auto;\n\t\t\t\t\t}\n\n\t\t\t\t\t.searchwp-live-search-no-results\
+        \ {\n\t\t\t\t\t\tpadding: 3em 2em 0;\n\t\t\t\t\t\ttext-align: center;\n\t\t\
+        \t\t\t}\n\n\t\t\t\t\t.searchwp-live-search-no-min-chars:after {\n\t\t\t\t\t\
+        \tcontent: \"Continue typing\";\n\t\t\t\t\t\tdisplay: block;\n\t\t\t\t\t\t\
+        text-align: center;\n\t\t\t\t\t\tpadding: 2em 2em 0;\n\t\t\t\t\t}\n\t\t\t\t\
+        </style>\n\t\t\t<script type='text/javascript' id='contact-form-7-js-extra'>\n\
+        /* <![CDATA[ */\nvar wpcf7 = {\"apiSettings\":{\"root\":\"https:\\/\\/fieldcropnews.com\\\
+        /wp-json\\/contact-form-7\\/v1\",\"namespace\":\"contact-form-7\\/v1\"}};\n\
+        /* ]]> */\n</script>\n<script type='text/javascript' src='https://fieldcropnews.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3'\
+        \ id='contact-form-7-js'></script>\n<script type='text/javascript' id='wp-postratings-js-extra'>\n\
+        /* <![CDATA[ */\nvar ratingsL10n = {\"plugin_url\":\"https:\\/\\/fieldcropnews.com\\\
+        /wp-content\\/plugins\\/wp-postratings\",\"ajax_url\":\"https:\\/\\/fieldcropnews.com\\\
+        /wp-admin\\/admin-ajax.php\",\"text_wait\":\"Please rate only 1 item at a\
+        \ time.\",\"image\":\"heart\",\"image_ext\":\"gif\",\"max\":\"1\",\"show_loading\"\
+        :\"1\",\"show_fading\":\"1\",\"custom\":\"1\"};\nvar ratings_1_mouseover_image=new\
+        \ Image();ratings_1_mouseover_image.src=\"https://fieldcropnews.com/wp-content/plugins/wp-postratings/images/heart/rating_1_over.gif\"\
+        ;;\n/* ]]> */\n</script>\n<script type='text/javascript' src='https://fieldcropnews.com/wp-content/plugins/wp-postratings/js/postratings-js.js?ver=1.89'\
+        \ id='wp-postratings-js'></script>\n<script type='text/javascript' id='mediaelement-core-js-before'>\n\
+        var mejsL10n = {\"language\":\"en\",\"strings\":{\"mejs.download-file\":\"\
+        Download File\",\"mejs.install-flash\":\"You are using a browser that does\
+        \ not have Flash player enabled or installed. Please turn on your Flash player\
+        \ plugin or download the latest version from https:\\/\\/get.adobe.com\\/flashplayer\\\
+        /\",\"mejs.fullscreen\":\"Fullscreen\",\"mejs.play\":\"Play\",\"mejs.pause\"\
+        :\"Pause\",\"mejs.time-slider\":\"Time Slider\",\"mejs.time-help-text\":\"\
+        Use Left\\/Right Arrow keys to advance one second, Up\\/Down arrows to advance\
+        \ ten seconds.\",\"mejs.live-broadcast\":\"Live Broadcast\",\"mejs.volume-help-text\"\
+        :\"Use Up\\/Down Arrow keys to increase or decrease volume.\",\"mejs.unmute\"\
+        :\"Unmute\",\"mejs.mute\":\"Mute\",\"mejs.volume-slider\":\"Volume Slider\"\
+        ,\"mejs.video-player\":\"Video Player\",\"mejs.audio-player\":\"Audio Player\"\
+        ,\"mejs.captions-subtitles\":\"Captions\\/Subtitles\",\"mejs.captions-chapters\"\
+        :\"Chapters\",\"mejs.none\":\"None\",\"mejs.afrikaans\":\"Afrikaans\",\"mejs.albanian\"\
+        :\"Albanian\",\"mejs.arabic\":\"Arabic\",\"mejs.belarusian\":\"Belarusian\"\
+        ,\"mejs.bulgarian\":\"Bulgarian\",\"mejs.catalan\":\"Catalan\",\"mejs.chinese\"\
+        :\"Chinese\",\"mejs.chinese-simplified\":\"Chinese (Simplified)\",\"mejs.chinese-traditional\"\
+        :\"Chinese (Traditional)\",\"mejs.croatian\":\"Croatian\",\"mejs.czech\":\"\
+        Czech\",\"mejs.danish\":\"Danish\",\"mejs.dutch\":\"Dutch\",\"mejs.english\"\
+        :\"English\",\"mejs.estonian\":\"Estonian\",\"mejs.filipino\":\"Filipino\"\
+        ,\"mejs.finnish\":\"Finnish\",\"mejs.french\":\"French\",\"mejs.galician\"\
+        :\"Galician\",\"mejs.german\":\"German\",\"mejs.greek\":\"Greek\",\"mejs.haitian-creole\"\
+        :\"Haitian Creole\",\"mejs.hebrew\":\"Hebrew\",\"mejs.hindi\":\"Hindi\",\"\
+        mejs.hungarian\":\"Hungarian\",\"mejs.icelandic\":\"Icelandic\",\"mejs.indonesian\"\
+        :\"Indonesian\",\"mejs.irish\":\"Irish\",\"mejs.italian\":\"Italian\",\"mejs.japanese\"\
+        :\"Japanese\",\"mejs.korean\":\"Korean\",\"mejs.latvian\":\"Latvian\",\"mejs.lithuanian\"\
+        :\"Lithuanian\",\"mejs.macedonian\":\"Macedonian\",\"mejs.malay\":\"Malay\"\
+        ,\"mejs.maltese\":\"Maltese\",\"mejs.norwegian\":\"Norwegian\",\"mejs.persian\"\
+        :\"Persian\",\"mejs.polish\":\"Polish\",\"mejs.portuguese\":\"Portuguese\"\
+        ,\"mejs.romanian\":\"Romanian\",\"mejs.russian\":\"Russian\",\"mejs.serbian\"\
+        :\"Serbian\",\"mejs.slovak\":\"Slovak\",\"mejs.slovenian\":\"Slovenian\",\"\
+        mejs.spanish\":\"Spanish\",\"mejs.swahili\":\"Swahili\",\"mejs.swedish\":\"\
+        Swedish\",\"mejs.tagalog\":\"Tagalog\",\"mejs.thai\":\"Thai\",\"mejs.turkish\"\
+        :\"Turkish\",\"mejs.ukrainian\":\"Ukrainian\",\"mejs.vietnamese\":\"Vietnamese\"\
+        ,\"mejs.welsh\":\"Welsh\",\"mejs.yiddish\":\"Yiddish\"}};\n</script>\n<script\
+        \ type='text/javascript' src='https://fieldcropnews.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131'\
+        \ id='mediaelement-core-js'></script>\n<script type='text/javascript' src='https://fieldcropnews.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.5.3'\
+        \ id='mediaelement-migrate-js'></script>\n<script type='text/javascript' id='mediaelement-js-extra'>\n\
+        /* <![CDATA[ */\nvar _wpmejsSettings = {\"pluginPath\":\"\\/wp-includes\\\
+        /js\\/mediaelement\\/\",\"classPrefix\":\"mejs-\",\"stretching\":\"responsive\"\
+        };\n/* ]]> */\n</script>\n<script type='text/javascript' src='https://fieldcropnews.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.5.3'\
+        \ id='wp-mediaelement-js'></script>\n<script type='text/javascript' src='https://fieldcropnews.com/wp-content/themes/ganter/assets/js/owl.carousel.min.js?ver=2.2.0'\
+        \ id='van-owlcarousel-js'></script>\n<script type='text/javascript' src='https://fieldcropnews.com/wp-content/themes/ganter/assets/js/jquery.plugins.js?ver=5.5.3'\
+        \ id='van-plugins-js'></script>\n<script type='text/javascript' src='https://fieldcropnews.com/wp-content/themes/ganter/assets/js/bootstrap.min.js?ver=5.5.3'\
+        \ id='van-bootstrap-js'></script>\n<script type='text/javascript' src='https://fieldcropnews.com/wp-content/themes/ganter/assets/js/scripts.js?ver=1.0.0'\
+        \ id='van-scripts-js'></script>\n<script type='text/javascript' id='swp-live-search-client-js-extra'>\n\
+        /* <![CDATA[ */\nvar searchwp_live_search_params = [];\nsearchwp_live_search_params\
+        \ = {\"ajaxurl\":\"https:\\/\\/fieldcropnews.com\\/wp-admin\\/admin-ajax.php\"\
+        ,\"origin_id\":0,\"config\":{\"default\":{\"engine\":\"default\",\"input\"\
+        :{\"delay\":300,\"min_chars\":3},\"results\":{\"position\":\"bottom\",\"width\"\
+        :\"auto\",\"offset\":{\"x\":0,\"y\":5}},\"spinner\":{\"lines\":12,\"length\"\
+        :8,\"width\":3,\"radius\":8,\"scale\":1,\"corners\":1,\"color\":\"#424242\"\
+        ,\"fadeColor\":\"transparent\",\"speed\":1,\"rotate\":0,\"animation\":\"searchwp-spinner-line-fade-quick\"\
+        ,\"direction\":1,\"zIndex\":2000000000,\"className\":\"spinner\",\"top\":\"\
+        50%\",\"left\":\"50%\",\"shadow\":\"0 0 1px transparent\",\"position\":\"\
+        absolute\"}}},\"msg_no_config_found\":\"No valid SearchWP Live Search configuration\
+        \ found!\",\"aria_instructions\":\"When autocomplete results are available\
+        \ use up and down arrows to review and enter to go to the desired page. Touch\
+        \ device users, explore by touch or with swipe gestures.\"};;\n/* ]]> */\n\
+        </script>\n<script type='text/javascript' src='https://fieldcropnews.com/wp-content/plugins/searchwp-live-ajax-search/assets/javascript/dist/bundle.min.js?ver=1.4.6'\
+        \ id='swp-live-search-client-js'></script>\n<script type='text/javascript'\
+        \ src='https://fieldcropnews.com/wp-includes/js/wp-embed.min.js?ver=5.5.3'\
+        \ id='wp-embed-js'></script>\n\n<!-- BEGIN SEARCHWP DEBUG\n\n[NO QUERIES]\n\
+        \nEND SEARCHWP DEBUG -->\n\n</body>\n</html>"
+    headers:
+      Connection:
+      - Upgrade, Keep-Alive
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Mon, 30 Nov 2020 01:14:29 GMT
+      Keep-Alive:
+      - timeout=5
+      Link:
+      - <https://fieldcropnews.com/wp-json/>; rel="https://api.w.org/"
+      Server:
+      - Apache
+      Upgrade:
+      - h2,h2c
+      Vary:
+      - Accept-Encoding,User-Agent
+      X-Powered-By:
+      - PHP/7.3.23
+      content-length:
+      - '104245'
+    status:
+      code: 200
+      message: OK
+version: 1

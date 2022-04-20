@@ -1,0 +1,562 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - investors.waitrapp.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: http://investors.waitrapp.com/news-events/news-releases?a9d908dd_year%5Bvalue%5D=_none&page=0
+  response:
+    body:
+      string: "<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\" prefix=\"og: https://ogp.me/ns#\"\
+        >\n  <head>\n    <meta charset=\"utf-8\" /><script type=\"text/javascript\"\
+        >(window.NREUM||(NREUM={})).loader_config={licenseKey:\"761e715901\",applicationID:\"\
+        32397309\"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function\
+        \ r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var\
+        \ i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if(\"function\"\
+        ==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return\
+        \ r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return\
+        \ o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e(\"\
+        handle\"),a=e(6),c=e(7),f=e(\"ee\").get(\"tracer\"),u=e(\"loader\"),s=NREUM;\"\
+        undefined\"==typeof window.newrelic&&(newrelic=s);var d=[\"setPageViewName\"\
+        ,\"setCustomAttribute\",\"setErrorHandler\",\"finished\",\"addToTrace\",\"\
+        inlineHit\",\"addRelease\"],p=\"api-\",l=p+\"ixn-\";a(d,function(e,t){s[t]=i(p+t,!0,\"\
+        api\")}),s.addPageAction=i(p+\"addPageAction\",!0),s.setCurrentRouteName=i(p+\"\
+        routeName\",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var\
+        \ m=r.prototype={createTracer:function(e,t){var n={},r=this,i=\"function\"\
+        ==typeof t;return o(l+\"tracer\",[u.now(),e,n],r),function(){if(f.emit((i?\"\
+        \":\"no-\")+\"fn-start\",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw\
+        \ f.emit(\"fn-err\",[arguments,this,e],n),e}finally{f.emit(\"fn-end\",[u.now()],n)}}}};a(\"\
+        actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get\".split(\"\
+        ,\"),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){\"string\"\
+        ==typeof e&&(e=new Error(e)),o(\"err\",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function\
+        \ r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new\
+        \ Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(8);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function\
+        \ r(e,t){var n=e.getEntries();n.forEach(function(e){\"first-paint\"===e.name?d(\"\
+        timing\",[\"fp\",Math.floor(e.startTime)]):\"first-contentful-paint\"===e.name&&d(\"\
+        timing\",[\"fcp\",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d(\"\
+        lcp\",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d(\"\
+        cls\",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d(\"\
+        timing\",[\"fi\",t,n])}}function c(e){d(\"pageHide\",[p.now(),e])}if(!(\"\
+        init\"in NREUM&&\"page_view_timing\"in NREUM.init&&\"enabled\"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var\
+        \ f,u,s,d=e(\"handle\"),p=e(\"loader\"),l=e(5),m=NREUM.o.EV;if(\"PerformanceObserver\"\
+        in window&&\"function\"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:[\"\
+        paint\"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:[\"\
+        largest-contentful-paint\"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:\"\
+        layout-shift\",buffered:!0})}catch(v){}}if(\"addEventListener\"in document){var\
+        \ g=!1,y=[\"click\",\"keydown\",\"mousedown\",\"pointerdown\",\"touchstart\"\
+        ];y.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],4:[function(e,t,n){function\
+        \ r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var\
+        \ n=o.split(\".\"),r=t.split(\".\"),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var\
+        \ i=null,o=null,a=/Version\\/(\\S+)\\s+Safari/;if(navigator.userAgent){var\
+        \ c=navigator.userAgent,f=c.match(a);f&&c.indexOf(\"Chrome\")===-1&&c.indexOf(\"\
+        Chromium\")===-1&&(i=\"Safari\",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],5:[function(e,t,n){function\
+        \ r(e){function t(){e(a&&document[a]?document[a]:document[i]?\"hidden\":\"\
+        visible\")}\"addEventListener\"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var\
+        \ i,o,a;\"undefined\"!=typeof document.hidden?(i=\"hidden\",o=\"visibilitychange\"\
+        ,a=\"visibilityState\"):\"undefined\"!=typeof document.msHidden?(i=\"msHidden\"\
+        ,o=\"msvisibilitychange\"):\"undefined\"!=typeof document.webkitHidden&&(i=\"\
+        webkitHidden\",o=\"webkitvisibilitychange\",a=\"webkitVisibilityState\")},{}],6:[function(e,t,n){function\
+        \ r(e,t){var n=[],r=\"\",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return\
+        \ n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],7:[function(e,t,n){function\
+        \ r(e,t,n){t||(t=0),\"undefined\"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return\
+        \ o}t.exports=r},{}],8:[function(e,t,n){t.exports={exists:\"undefined\"!=typeof\
+        \ window.performance&&window.performance.timing&&\"undefined\"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function\
+        \ r(){}function i(e){function t(e){return e&&e instanceof r?e:e?f(e,c,o):o()}function\
+        \ n(n,r,i,o){if(!p.aborted||o){e&&e(n,r,i);for(var a=t(i),c=v(n),f=c.length,u=0;u<f;u++)c[u].apply(a,r);var\
+        \ d=s[w[n]];return d&&d.push([b,n,r,a]),a}}function l(e,t){h[e]=v(e).concat(t)}function\
+        \ m(e,t){var n=h[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function\
+        \ v(e){return h[e]||[]}function g(e){return d[e]=d[e]||i(n)}function y(e,t){u(e,function(e,n){t=t||\"\
+        feature\",w[n]=t,t in s||(s[t]=[])})}var h={},w={},b={on:l,addEventListener:l,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:y,abort:a,aborted:!1};return\
+        \ b}function o(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var\
+        \ c=\"nr@context\",f=e(\"gos\"),u=e(6),s={},d={},p=t.exports=i();p.backlog=s},{}],gos:[function(e,t,n){function\
+        \ r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return\
+        \ Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return\
+        \ e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function\
+        \ r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e(\"ee\").get(\"handle\"\
+        );t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||\"\
+        object\"!==t&&\"function\"!==t?-1:e===window?0:a(e,o,function(){return i++})}var\
+        \ i=1,o=\"nr@id\",a=e(\"gos\");t.exports=r},{}],loader:[function(e,t,n){function\
+        \ r(){if(!E++){var e=b.info=NREUM.info,t=p.getElementsByTagName(\"script\"\
+        )[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return\
+        \ u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c(\"mark\",[\"onload\"\
+        ,n+b.offset],null,\"api\"),c(\"timing\",[\"load\",n]);var r=p.createElement(\"\
+        script\");r.src=\"https://\"+e.agent,t.parentNode.insertBefore(r,t)}}function\
+        \ i(){\"complete\"===p.readyState&&o()}function o(){c(\"mark\",[\"domContent\"\
+        ,a()+b.offset],null,\"api\")}var a=e(2),c=e(\"handle\"),f=e(6),u=e(\"ee\"\
+        ),s=e(4),d=window,p=d.document,l=\"addEventListener\",m=\"attachEvent\",v=d.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:v,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var\
+        \ y=\"\"+location,h={beacon:\"bam.nr-data.net\",errorBeacon:\"bam.nr-data.net\"\
+        ,agent:\"js-agent.newrelic.com/nr-1184.min.js\"},w=v&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:w,userAgent:s};e(1),e(3),p[l]?(p[l](\"\
+        DOMContentLoaded\",o,!1),d[l](\"load\",r,!1)):(p[m](\"onreadystatechange\"\
+        ,i),d[m](\"onload\",r)),c(\"mark\",[\"firstbyte\",a.getLastTimestamp()],null,\"\
+        api\");var E=0},{}],\"wrap-function\":[function(e,t,n){function r(e){return!(e&&e\
+        \ instanceof Function&&e.apply&&!e[a])}var i=e(\"ee\"),o=e(7),a=\"nr@original\"\
+        ,c=Object.prototype.hasOwnProperty,f=!1;t.exports=function(e,t){function n(e,t,n,i){function\
+        \ nrWrapper(){var r,a,c,f;try{a=this,r=o(arguments),c=\"function\"==typeof\
+        \ n?n(r,a):n||{}}catch(u){p([u,\"\",[r,a,i],c])}s(t+\"start\",[r,a,i],c);try{return\
+        \ f=e.apply(a,r)}catch(d){throw s(t+\"err\",[r,a,d],c),d}finally{s(t+\"end\"\
+        ,[r,a,f],c)}}return r(e)?e:(t||(t=\"\"),nrWrapper[a]=e,d(e,nrWrapper),nrWrapper)}function\
+        \ u(e,t,i,o){i||(i=\"\");var a,c,f,u=\"-\"===i.charAt(0);for(f=0;f<t.length;f++)c=t[f],a=e[c],r(a)||(e[c]=n(a,u?c+i:i,o,c))}function\
+        \ s(n,r,i){if(!f||t){var o=f;f=!0;try{e.emit(n,r,i,t)}catch(a){p([a,n,r,i])}f=o}}function\
+        \ d(e,t){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(e);return\
+        \ n.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return\
+        \ e[n]=t,t}})}),t}catch(r){p([r])}for(var i in e)c.call(e,i)&&(t[i]=e[i]);return\
+        \ t}function p(t){try{e.emit(\"internal-error\",t)}catch(n){}}return e||(e=i),n.inPlace=u,n.flag=a,n}},{}]},{},[\"\
+        loader\"]);</script>\n<meta property=\"og:site_name\" content=\"Waitr Holdings\
+        \ Inc.\" />\n<link rel=\"canonical\" href=\"http://investors.waitrapp.com/news-events/news-releases/\"\
+        \ />\n<meta property=\"og:type\" content=\"website\" />\n<meta property=\"\
+        og:url\" content=\"http://investors.waitrapp.com/news-events/news-releases\"\
+        \ />\n<meta property=\"og:title\" content=\"News Releases | Waitr Holdings\
+        \ Inc.\" />\n<meta name=\"referrer\" content=\"no-referrer\" />\n<meta property=\"\
+        og:description\" content=\"The Investor Relations website contains information\
+        \ about Waitr Holdings Inc.&#039;s business for stockholders, potential investors,\
+        \ and financial analysts.\" />\n<meta name=\"Generator\" content=\"Drupal\
+        \ 8 (https://www.drupal.org)\" />\n<meta name=\"MobileOptimized\" content=\"\
+        width\" />\n<meta name=\"HandheldFriendly\" content=\"true\" />\n<meta name=\"\
+        viewport\" content=\"width=device-width, initial-scale=1.0\" />\n<link rel=\"\
+        shortcut icon\" href=\"/sites/g/files/knoqqb37751/files/waitr-color_0.ico\"\
+        \ type=\"image/vnd.microsoft.icon\" />\n<link rel=\"alternate\" hreflang=\"\
+        en\" href=\"http://investors.waitrapp.com/news-events/news-releases\" />\n\
+        <link rel=\"revision\" href=\"http://investors.waitrapp.com/news-events/news-releases\"\
+        \ />\n\n    <title>News Releases | Waitr Holdings Inc.</title>\n    <link\
+        \ rel=\"stylesheet\" media=\"all\" href=\"/sites/g/files/knoqqb37751/files/css/css_NRmgfE7PDqMPimvCjz666hBep0GsMON9xUAojqIOMJw.css\"\
+        \ />\n<link rel=\"stylesheet\" media=\"all\" href=\"/sites/g/files/knoqqb37751/files/css/css_KLh8qIi9RxSeY7-Ook4asyAwsqg230wxYNCgg7jrkHo.css\"\
+        \ />\n<link rel=\"stylesheet\" media=\"print\" href=\"/sites/g/files/knoqqb37751/files/css/css_0n_9KvkH0hyUGeFtNvf9lkL4iqk34o4qoRPiSiSW7ak.css\"\
+        \ />\n<link rel=\"stylesheet\" media=\"all\" href=\"/sites/g/files/knoqqb37751/files/css/css_0bNEhf1K18hEUN_RqPH1gRRTBMkf9MT3GcvvfUcG3Yg.css\"\
+        \ />\n<link rel=\"stylesheet\" media=\"all\" href=\"//fonts.googleapis.com/css?family=Lato:400,400italic,700,300italic\"\
+        \ />\n<link rel=\"stylesheet\" media=\"all\" href=\"//fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic\"\
+        \ />\n<link rel=\"stylesheet\" media=\"all\" href=\"/sites/g/files/knoqqb37751/themes/site/nir_pid3128/dist/css/font-awesome.min.css?qk2po1\"\
+        \ />\n<link rel=\"stylesheet\" media=\"all\" href=\"/sites/g/files/knoqqb37751/themes/site/nir_pid3128/dist/css/ndq-icons.css?qk2po1\"\
+        \ />\n<link rel=\"stylesheet\" media=\"all\" href=\"/sites/g/files/knoqqb37751/themes/site/nir_pid3128/dist/css/foundation.min.css?qk2po1\"\
+        \ />\n<link rel=\"stylesheet\" media=\"all\" href=\"/sites/g/files/knoqqb37751/themes/site/nir_pid3128/dist/css/foundation-icons.css?qk2po1\"\
+        \ />\n<link rel=\"stylesheet\" media=\"all\" href=\"/sites/g/files/knoqqb37751/themes/site/nir_pid3128/dist/css/app.css?qk2po1\"\
+        \ />\n<link rel=\"stylesheet\" media=\"all\" href=\"/sites/g/files/knoqqb37751/files/css/css_PoDTsTTH6cEiyg0ofi3LtQKrdrpzujCDCkfdehjZujs.css\"\
+        \ />\n<link rel=\"stylesheet\" media=\"all\" href=\"/sites/g/files/knoqqb37751/themes/site/nir_pid3128/css/client-overwrite.css?qk2po1\"\
+        \ />\n\n    \n<!--[if lte IE 8]>\n<script src=\"/sites/g/files/knoqqb37751/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js\"\
+        ></script>\n<![endif]-->\n<script src=\"/core/assets/vendor/modernizr/modernizr.min.js?v=3.3.1\"\
+        ></script>\n\n    \n  </head>\n  <body class=\"body-sidebars-none nir-node\
+        \ nir-node--type-nir-landing-page nir-node--5816 path-node page-node-type-nir-landing-page\"\
+        >\n    <div id=\"skip\">\n      <a class=\"visually-hidden focusable skip-link\"\
+        \ href=\"#main-menu\">\n        Skip to main navigation\n      </a>\n    </div>\n\
+        \    \n      <div class=\"dialog-off-canvas-main-canvas\" data-off-canvas-main-canvas>\n\
+        \    \n<div class=\"ndq-interior\">\n\n  <div class=\"title-bar\" data-responsive-toggle=\"\
+        investor-relations\" data-hide-for=\"medium\">\n    <button class=\"menu-icon\"\
+        \ type=\"button\" data-toggle></button>\n        <div class=\"top-bar-center\"\
+        >\n      <a href=\"/\"><img src=\"/sites/g/files/knoqqb37751/themes/site/nir_pid3128/dist/images/waitr_bw.png\"\
+        /></a>\n      <div class=\"top-bar-arrow-down\"></div>\n    </div>\n  </div>\n\
+        \n  <div class=\"top-bar logo-container\">\n    <div class=\"row\">\n    \
+        \  <div class=\"show-for-medium top-bar-center\">\n        <a href=\"/\"><img\
+        \ src=\"/sites/g/files/knoqqb37751/themes/site/nir_pid3128/dist/images/waitr_logo.png\"\
+        /></a>\n        <div class=\"top-bar-arrow-down\"></div>\n      </div>\n \
+        \   </div>\n  </div>\n\n\n  <div class=\"top-bar\" id=\"investor-relations\"\
+        >\n    <div class=\"row\">\n              <div class=\"top-bar-left\">\n \
+        \         \n\n\n        \n                              <ul class=\"menu \
+        \ vertical medium-horizontal medium-text-left dropdown\" data-responsive-menu=\"\
+        drilldown medium-dropdown\">\n    \n\n          \n      <li >\n\n        <a\
+        \ href=\"/\" target=\"\" rel=\"\" title=\"Main Investor Relations Page\" data-drupal-link-system-path=\"\
+        &lt;front&gt;\">Overview</a>\n\n        \n      </li>\n          \n      <li\
+        \  class=\"has-submenu\">\n\n        <a href=\"/stock-information/stock-quote-chart\"\
+        \ target=\"\" rel=\"\" data-drupal-link-system-path=\"node/5911\">Stock Information</a>\n\
+        \n                                <ul class=\"submenu menu vertical\" data-submenu\
+        \ data-responsive-menu=\"accordion\">\n    \n\n          \n      <li >\n\n\
+        \        <a href=\"/stock-information/stock-quote-chart\" target=\"\" rel=\"\
+        \" data-drupal-link-system-path=\"node/5911\">Stock Quote/Chart</a>\n\n  \
+        \      \n      </li>\n    \n    </ul>\n  \n        \n      </li>\n       \
+        \   \n      <li  class=\"has-submenu\">\n\n        <a href=\"/news-events/news-releases\"\
+        \ target=\"\" rel=\"\" data-drupal-link-system-path=\"node/5816\">News &amp;\
+        \ Events</a>\n\n                                <ul class=\"submenu menu vertical\"\
+        \ data-submenu data-responsive-menu=\"accordion\">\n    \n\n          \n \
+        \     <li >\n\n        <a href=\"/news-events/news-releases\" data-drupal-link-system-path=\"\
+        node/5816\">News Releases</a>\n\n        \n      </li>\n          \n     \
+        \ <li >\n\n        <a href=\"/news-events/investor-calendar\" target=\"\"\
+        \ rel=\"\" data-drupal-link-system-path=\"node/5826\">Event Calendar</a>\n\
+        \n        \n      </li>\n          \n      <li >\n\n        <a href=\"/news-events/presentations\"\
+        \ data-drupal-link-system-path=\"node/5831\">Presentations</a>\n\n       \
+        \ \n      </li>\n    \n    </ul>\n  \n        \n      </li>\n          \n\
+        \      <li  class=\"has-submenu\">\n\n        <a href=\"/financial-information/sec-filings\"\
+        \ target=\"\" rel=\"\" data-drupal-link-system-path=\"node/6016\">Financial\
+        \ Information</a>\n\n                                <ul class=\"submenu menu\
+        \ vertical\" data-submenu data-responsive-menu=\"accordion\">\n    \n\n  \
+        \        \n      <li >\n\n        <a href=\"/financial-information/sec-filings\"\
+        \ data-drupal-link-system-path=\"node/6016\">SEC Filings</a>\n\n        \n\
+        \      </li>\n          \n      <li >\n\n        <a href=\"/financial-information/annual-reports\"\
+        \ data-drupal-link-system-path=\"node/5881\">Annual Reports</a>\n\n      \
+        \  \n      </li>\n          \n      <li >\n\n        <a href=\"/financial-information/quarterly-results\"\
+        \ data-drupal-link-system-path=\"node/5986\">Quarterly Results</a>\n\n   \
+        \     \n      </li>\n          \n      <li >\n\n        <a href=\"http://investors.waitrapp.com/static-files/6d3779ee-8e57-4d05-9553-6344c73e1e92\"\
+        \ target=\"\" rel=\"\">Tax Information </a>\n\n        \n      </li>\n   \
+        \ \n    </ul>\n  \n        \n      </li>\n          \n      <li  class=\"\
+        has-submenu\">\n\n        <a href=\"/corporate-governance/governance-highlights\"\
+        \ data-drupal-link-system-path=\"node/5836\">Corporate Governance</a>\n\n\
+        \                                <ul class=\"submenu menu vertical\" data-submenu\
+        \ data-responsive-menu=\"accordion\">\n    \n\n          \n      <li >\n\n\
+        \        <a href=\"/corporate-governance/governance-highlights\" target=\"\
+        \" rel=\"\" data-drupal-link-system-path=\"node/5836\">Governance Highlights</a>\n\
+        \n        \n      </li>\n          \n      <li >\n\n        <a href=\"/corporate-governance/management-team\"\
+        \ target=\"\" rel=\"\" data-drupal-link-system-path=\"node/5846\">Management\
+        \ Team</a>\n\n        \n      </li>\n          \n      <li >\n\n        <a\
+        \ href=\"/corporate-governance/board-of-directors\" data-drupal-link-system-path=\"\
+        node/5841\">Board of Directors</a>\n\n        \n      </li>\n          \n\
+        \      <li >\n\n        <a href=\"/corporate-governance/committee-composition\"\
+        \ data-drupal-link-system-path=\"node/5851\">Committee Composition</a>\n\n\
+        \        \n      </li>\n    \n    </ul>\n  \n        \n      </li>\n     \
+        \     \n      <li  class=\"has-submenu\">\n\n        <a href=\"/shareholder-services\"\
+        \ target=\"\" rel=\"\" data-drupal-link-system-path=\"node/5936\">Investor\
+        \ Resources</a>\n\n                                <ul class=\"submenu menu\
+        \ vertical\" data-submenu data-responsive-menu=\"accordion\">\n    \n\n  \
+        \        \n      <li >\n\n        <a href=\"/investor-resources/investor-faq\"\
+        \ target=\"\" rel=\"\" data-drupal-link-system-path=\"node/5941\">Investor\
+        \ FAQ</a>\n\n        \n      </li>\n          \n      <li >\n\n        <a\
+        \ href=\"/investor-resources/information-request\" target=\"\" rel=\"\" data-drupal-link-system-path=\"\
+        node/5966\">Information Request</a>\n\n        \n      </li>\n          \n\
+        \      <li >\n\n        <a href=\"/investor-resources/email-alerts\" data-drupal-link-system-path=\"\
+        node/5946\">Email Alerts</a>\n\n        \n      </li>\n          \n      <li\
+        \ >\n\n        <a href=\"/investor-resources/ir-contacts\" target=\"\" rel=\"\
+        \" data-drupal-link-system-path=\"node/5981\">IR Contacts</a>\n\n        \n\
+        \      </li>\n    \n    </ul>\n  \n        \n      </li>\n    \n    </ul>\n\
+        \  \n\n\n    \n\n        </div>\n            <div class=\"top-bar-right\"\
+        >\n        <div class=\"small-12 columns\">\n          <button data-open=\"\
+        searchModal\" type=\"button\" class=\"button\" aria-label=\"Submit seach entry\"\
+        ></button>\n        </div>\n      </div>\n    </div>\n  </div>\n\n      <div\
+        \ class=\"banner \">\n      <div class=\"row\">\n        <div class=\"medium-12\
+        \ large-12 columns\">\n          <ul class=\"slides\">\n            <li class=\"\
+        slide-item\">\n                                  <h1>News Releases</h1>\n\
+        \                            </li>\n          </ul>\n        </div>\n    \
+        \  </div>\n    </div>\n\n    <div class=\"row\">\n      <div class=\"large-12\
+        \ columns\">\n        <div id=\"ndq-content\" class=\"ndq-5816\">\n      \
+        \      <div class=\"region region-content\">\n    <div id=\"block-nir-pid3128-websitenoticeblock\"\
+        \ class=\"block--website-notice-block block--website-notice-block--5816 block--content--website-notice-block\
+        \ block--content--website-notice-block--5816 block--9a8fcbb1-dbad-417f-8be9-b3dba2ba42df\
+        \ block--9a8fcbb1-dbad-417f-8be9-b3dba2ba42df--5816 block block-nir-website-notices\
+        \ block-website-notice-block\">\n  \n    \n      \n  </div>\n<div data-drupal-messages-fallback\
+        \ class=\"hidden\"></div>\n<div id=\"block-nir-pid3128-content\" class=\"\
+        block--system-main-block block--system-main-block--5816 block--content--system-main-block\
+        \ block--content--system-main-block--5816 block--06ddc796-a492-425e-ad51-d28708d8c400\
+        \ block--06ddc796-a492-425e-ad51-d28708d8c400--5816 block block-system block-system-main-block\"\
+        >\n  \n    \n      <article class=\"node node--type-nir_landing_page node--view-mode-full\
+        \ clearfix\">\n  \n      <h1>\n              News Releases\n          </h1>\n\
+        \    \n\n  <div>\n    \n<div class=\"panel-display boxton clearfix \" >\n\n\
+        \  <div class=\"container-fluid\">\n    <div class=\"row\">\n      <div class=\"\
+        columns large-12 radix-layouts-content panel-panel\">\n        <div class=\"\
+        panel-panel-inner\">\n          <div class=\"block-region-contentmain\"><div\
+        \ class=\"block--nir-news__widget block--nir-news__widget--5816 block--contentmain--nir-news__widget\
+        \ block--contentmain--nir-news__widget--5816 block--14d5a2ff-a238-42f2-a643-56492d05b291\
+        \ block--14d5a2ff-a238-42f2-a643-56492d05b291--5816 block block-nir-news block-nir-news__widget\"\
+        >\n  \n    \n      <div class=\"nir-widget\">\n    <div class=\"nir-widget--content\"\
+        >\n          <div class=\"nir-widget--form\">\n        <form data-drupal-selector=\"\
+        widget-form-base\" action=\"/news-events/news-releases?a9d908dd_year%5Bvalue%5D=_none&amp;page=0\"\
+        \ method=\"get\" id=\"widget-form-base\" accept-charset=\"UTF-8\">\n  <div\
+        \ class=\"nir-widgets--field-container nir-widgets--field-container--yeartimezone\
+        \ js-form-wrapper form-wrapper\" data-drupal-selector=\"edit-a9d908dd-year\"\
+        \ id=\"edit-a9d908dd-year\"><div class=\"two-col-field form-item js-form-item\
+        \ js-form-type-select form-type-select form-item-a9d908dd-year-value js-form-item-a9d908dd-year-value\"\
+        >\n      <label for=\"edit-a9d908dd-year-value\">Year</label>\n        <select\
+        \ data-drupal-selector=\"edit-a9d908dd-year-value\" id=\"edit-a9d908dd-year-value\"\
+        \ name=\"a9d908dd_year[value]\" class=\"form-select\"><option value=\"_none\"\
+        \ selected=\"selected\">None</option><option value=\"2020\">2020</option><option\
+        \ value=\"2019\">2019</option><option value=\"2018\">2018</option><option\
+        \ value=\"2016\">2016</option></select>\n        </div>\n</div>\n<input data-drupal-selector=\"\
+        edit-submit\" type=\"submit\" id=\"edit-submit\" name=\"op\" value=\"Filter\"\
+        \ class=\"button button--primary js-form-submit form-submit\" />\n<input data-drupal-selector=\"\
+        edit-a9d908dd-widget-id\" type=\"hidden\" name=\"a9d908dd_widget_id\" value=\"\
+        a9d908dd\" />\n<input autocomplete=\"off\" data-drupal-selector=\"form-6ynp83ghz-n9ntoairvirevmepq7-obl0kzkjyzbawg\"\
+        \ type=\"hidden\" name=\"form_build_id\" value=\"form-6YNP83Ghz_N9nToAIrVIreVMEPq7_obL0kzkJyZBAwg\"\
+        \ />\n<input data-drupal-selector=\"edit-widget-form-base\" type=\"hidden\"\
+        \ name=\"form_id\" value=\"widget_form_base\" />\n\n</form>\n\n      </div>\n\
+        \        <div class=\"nir-widget--list\">\n              \n<article role=\"\
+        article\" class=\"clearfix node node--nir-news--nir-widget-list node--type-nir-news\
+        \ node--view-mode-nir-widget-list node--promoted\">\n\n  \n      <div class=\"\
+        nir-widget--field nir-widget--news--date-time\">\n      November 9, 2020\n\
+        \    </div>\n  \n            <div class=\"nir-widget--field nir-widget--news--headline\"\
+        >\n          <a href=\"/news-releases/news-release-details/waitr-reports-third-quarter-2020-results\"\
+        \ hreflang=\"en\">Waitr Reports Third Quarter 2020 Results</a>\n      </div>\n\
+        \      \n  \n  \n  \n  \n  \n  \n</article>\n\n<article role=\"article\" class=\"\
+        clearfix node node--nir-news--nir-widget-list node--type-nir-news node--view-mode-nir-widget-list\
+        \ node--promoted\">\n\n  \n      <div class=\"nir-widget--field nir-widget--news--date-time\"\
+        >\n      November 6, 2020\n    </div>\n  \n            <div class=\"nir-widget--field\
+        \ nir-widget--news--headline\">\n          <a href=\"/news-releases/news-release-details/waitr-host-third-quarter-2020-earnings-conference-call-november\"\
+        \ hreflang=\"en\">Waitr to Host Third Quarter 2020 Earnings Conference Call\
+        \ on November 9, 2020</a>\n      </div>\n      \n  \n  \n  \n  \n  \n  \n\
+        </article>\n\n<article role=\"article\" class=\"clearfix node node--nir-news--nir-widget-list\
+        \ node--type-nir-news node--view-mode-nir-widget-list node--promoted\">\n\n\
+        \  \n      <div class=\"nir-widget--field nir-widget--news--date-time\">\n\
+        \      October 8, 2020\n    </div>\n  \n            <div class=\"nir-widget--field\
+        \ nir-widget--news--headline\">\n          <a href=\"/news-releases/news-release-details/waitr-adds-dine-capabilities-platform\"\
+        \ hreflang=\"en\">Waitr Adds Dine-In Capabilities to Platform</a>\n      </div>\n\
+        \      \n  \n  \n  \n  \n  \n  \n</article>\n\n<article role=\"article\" class=\"\
+        clearfix node node--nir-news--nir-widget-list node--type-nir-news node--view-mode-nir-widget-list\
+        \ node--promoted\">\n\n  \n      <div class=\"nir-widget--field nir-widget--news--date-time\"\
+        >\n      August 6, 2020\n    </div>\n  \n            <div class=\"nir-widget--field\
+        \ nir-widget--news--headline\">\n          <a href=\"/news-releases/news-release-details/waitr-reports-second-quarter-2020-results\"\
+        \ hreflang=\"en\">Waitr Reports Second Quarter 2020 Results</a>\n      </div>\n\
+        \      \n  \n  \n  \n  \n  \n  \n</article>\n\n<article role=\"article\" class=\"\
+        clearfix node node--nir-news--nir-widget-list node--type-nir-news node--view-mode-nir-widget-list\
+        \ node--promoted\">\n\n  \n      <div class=\"nir-widget--field nir-widget--news--date-time\"\
+        >\n      July 15, 2020\n    </div>\n  \n            <div class=\"nir-widget--field\
+        \ nir-widget--news--headline\">\n          <a href=\"/news-releases/news-release-details/waitr-completes-its-market-common-stock-offering\"\
+        \ hreflang=\"en\">Waitr Completes Its At-the-Market Common Stock Offering</a>\n\
+        \      </div>\n      \n  \n  \n  \n  \n  \n  \n</article>\n\n<article role=\"\
+        article\" class=\"clearfix node node--nir-news--nir-widget-list node--type-nir-news\
+        \ node--view-mode-nir-widget-list node--promoted\">\n\n  \n      <div class=\"\
+        nir-widget--field nir-widget--news--date-time\">\n      July 9, 2020\n   \
+        \ </div>\n  \n            <div class=\"nir-widget--field nir-widget--news--headline\"\
+        >\n          <a href=\"/news-releases/news-release-details/waitr-announces-management-appointments\"\
+        \ hreflang=\"en\">Waitr Announces Management Appointments</a>\n      </div>\n\
+        \      \n  \n  \n  \n  \n  \n  \n</article>\n\n<article role=\"article\" class=\"\
+        clearfix node node--nir-news--nir-widget-list node--type-nir-news node--view-mode-nir-widget-list\
+        \ node--promoted\">\n\n  \n      <div class=\"nir-widget--field nir-widget--news--date-time\"\
+        >\n      July 6, 2020\n    </div>\n  \n            <div class=\"nir-widget--field\
+        \ nir-widget--news--headline\">\n          <a href=\"/news-releases/news-release-details/waitr-pre-announces-second-quarter-2020-results\"\
+        \ hreflang=\"en\">Waitr Pre-Announces Second Quarter 2020 Results</a>\n  \
+        \    </div>\n      \n  \n  \n  \n  \n  \n  \n</article>\n\n<article role=\"\
+        article\" class=\"clearfix node node--nir-news--nir-widget-list node--type-nir-news\
+        \ node--view-mode-nir-widget-list node--promoted\">\n\n  \n      <div class=\"\
+        nir-widget--field nir-widget--news--date-time\">\n      June 30, 2020\n  \
+        \  </div>\n  \n            <div class=\"nir-widget--field nir-widget--news--headline\"\
+        >\n          <a href=\"/news-releases/news-release-details/waitr-expands-service-team-louisiana\"\
+        \ hreflang=\"en\">Waitr Expands Service Team in Louisiana</a>\n      </div>\n\
+        \      \n  \n  \n  \n  \n  \n  \n</article>\n\n<article role=\"article\" class=\"\
+        clearfix node node--nir-news--nir-widget-list node--type-nir-news node--view-mode-nir-widget-list\
+        \ node--promoted\">\n\n  \n      <div class=\"nir-widget--field nir-widget--news--date-time\"\
+        >\n      June 2, 2020\n    </div>\n  \n            <div class=\"nir-widget--field\
+        \ nir-widget--news--headline\">\n          <a href=\"/news-releases/news-release-details/mats-diedrichsen-joins-waitr-advisor\"\
+        \ hreflang=\"en\">Mats Diedrichsen Joins Waitr as an Advisor</a>\n      </div>\n\
+        \      \n  \n  \n  \n  \n  \n  \n</article>\n\n<article role=\"article\" class=\"\
+        clearfix node node--nir-news--nir-widget-list node--type-nir-news node--view-mode-nir-widget-list\
+        \ node--promoted\">\n\n  \n      <div class=\"nir-widget--field nir-widget--news--date-time\"\
+        >\n      June 1, 2020\n    </div>\n  \n            <div class=\"nir-widget--field\
+        \ nir-widget--news--headline\">\n          <a href=\"/news-releases/news-release-details/waitr-holdings-inc-announces-2020-annual-meeting-stockholders-be\"\
+        \ hreflang=\"en\">Waitr Holdings Inc. Announces 2020 Annual Meeting of Stockholders\
+        \ to Be Held in Virtual Format Only</a>\n      </div>\n      \n  \n  \n  \n\
+        \  \n  \n  \n</article>\n\n          </div>\n    <div class=\"nir-widget--pager\"\
+        >\n        <nav class=\"pager\" role=\"navigation\" aria-labelledby=\"pagination-heading\"\
+        >\n    <h4 id=\"pagination-heading\" class=\"visually-hidden\">Pagination</h4>\n\
+        \    <ul class=\"pager__items js-pager__items\">\n                       \
+        \                                 <li class=\"pager__item is-active\">\n \
+        \                                         <a href=\"?a9d908dd_year%5Bvalue%5D=_none&amp;page=0\"\
+        \ title=\"Current page\">\n            <span class=\"visually-hidden\">\n\
+        \              Current page\n            </span>1</a>\n        </li>\n   \
+        \           <li class=\"pager__item\">\n                                 \
+        \         <a href=\"?a9d908dd_year%5Bvalue%5D=_none&amp;page=1\" title=\"\
+        Go to page 2\">\n            <span class=\"visually-hidden\">\n          \
+        \    Page\n            </span>2</a>\n        </li>\n              <li class=\"\
+        pager__item\">\n                                          <a href=\"?a9d908dd_year%5Bvalue%5D=_none&amp;page=2\"\
+        \ title=\"Go to page 3\">\n            <span class=\"visually-hidden\">\n\
+        \              Page\n            </span>3</a>\n        </li>\n           \
+        \   <li class=\"pager__item\">\n                                         \
+        \ <a href=\"?a9d908dd_year%5Bvalue%5D=_none&amp;page=3\" title=\"Go to page\
+        \ 4\">\n            <span class=\"visually-hidden\">\n              Page\n\
+        \            </span>4</a>\n        </li>\n              <li class=\"pager__item\"\
+        >\n                                          <a href=\"?a9d908dd_year%5Bvalue%5D=_none&amp;page=4\"\
+        \ title=\"Go to page 5\">\n            <span class=\"visually-hidden\">\n\
+        \              Page\n            </span>5</a>\n        </li>\n           \
+        \   <li class=\"pager__item\">\n                                         \
+        \ <a href=\"?a9d908dd_year%5Bvalue%5D=_none&amp;page=5\" title=\"Go to page\
+        \ 6\">\n            <span class=\"visually-hidden\">\n              Page\n\
+        \            </span>6</a>\n        </li>\n              <li class=\"pager__item\"\
+        >\n                                          <a href=\"?a9d908dd_year%5Bvalue%5D=_none&amp;page=6\"\
+        \ title=\"Go to page 7\">\n            <span class=\"visually-hidden\">\n\
+        \              Page\n            </span>7</a>\n        </li>\n           \
+        \                           <li id=\"pagerIcon\" class=\"pager__item pager__item--next\"\
+        >\n          <a href=\"?a9d908dd_year%5Bvalue%5D=_none&amp;page=1\" title=\"\
+        Go to next page\" rel=\"next\">\n            <span class=\"visually-hidden\"\
+        >Next page</span>\n                        <span aria-hidden=\"true\">\u203A\
+        </span>\n          </a>\n        </li>\n                          <li id=\"\
+        pagerIcon\" class=\"pager__item pager__item--last\">\n          <a href=\"\
+        ?a9d908dd_year%5Bvalue%5D=_none&amp;page=6\" title=\"Go to last page\">\n\
+        \            <span class=\"visually-hidden\">Last page</span>\n          \
+        \              <span aria-hidden=\"true\">\xBB</span>\n          </a>\n  \
+        \      </li>\n          </ul>\n  </nav>\n\n    </div>\n    <div class=\"nir-widget--total-results\"\
+        >\n      Displaying 1 - 10 of 61\n    </div>\n  </div>\n</div>\n  </div>\n\
+        </div>\n        </div>\n      </div>\n    </div>\n  </div>\n\n</div><!-- /.boxton\
+        \ -->\n\n  </div>\n</article>\n\n  </div>\n\n  </div>\n\n\n              \
+        \    </div>\n      </div>\n    </div>\n  \n\n  <div class=\"row column\">\n\
+        \    <hr>\n  </div>\n\n      <div class=\"expanded ndq-tools\">\n      <div\
+        \ class=\"row small-up-3 medium-up-6 large-up-6 \">\n        \n\n\n      \
+        \  \n                    \n\n\n\n      \n          \n\n        <div class=\"\
+        column\">\n            <a  class=\"ndq-tool-icon ndqicon-print print-page\"\
+        \ title=\"Print Page\" aria-label=\"Print Page\" href=\"\"></a>\n        </div>\n\
+        \n        \n      \n          \n\n        <div class=\"column\">\n       \
+        \     <a  class=\"ndq-tool-icon ndqicon-mail-1 ndqicon-alerts\" title=\"Email\
+        \ Alerts\" aria-label=\"Email Alerts\" href=\"/investor-resources/email-alerts\"\
+        ></a>\n        </div>\n\n        \n      \n          \n\n        <div class=\"\
+        column\">\n            <a  class=\"ndq-tool-icon ndqicon-rss\" title=\"RSS\"\
+        \ aria-label=\"RSS\" href=\"/shareholder-services/rss-feeds\"></a>\n     \
+        \   </div>\n\n        \n      \n          \n\n        <div class=\"column\"\
+        >\n            <a  class=\"ndq-tool-icon ndqicon-feedback-1\" title=\"IR Contacts\"\
+        \ aria-label=\"IR Contacts\" href=\"/investor-resources/ir-contacts\"></a>\n\
+        \        </div>\n\n        \n      \n\n     \n\n        \n\n  \n\n\n\n   \
+        \ \n\n      </div>\n    </div>\n  \n  <footer>\n    <div class=\"expanded\
+        \ callout secondary\">\n      <div class=\"row\">\n                  <div\
+        \ id=\"block-gbsocialmedia\" class=\"block-content--nir-global-block block-content--nir-global-block--6431\
+        \ block--block-content41507f00-65bf-4e55-ac0b-2414b9cbbc50 block--block-content41507f00-65bf-4e55-ac0b-2414b9cbbc50--5816\
+        \ block--footer-area--block-content--41507f00-65bf-4e55-ac0b-2414b9cbbc50\
+        \ block--footer-area--block-content--41507f00-65bf-4e55-ac0b-2414b9cbbc50--5816\
+        \ block--24b65993-c55a-4ca3-84b5-719cf5d1f9b1 block--24b65993-c55a-4ca3-84b5-719cf5d1f9b1--5816\
+        \ block block-block-content block-block-content41507f00-65bf-4e55-ac0b-2414b9cbbc50\
+        \ small-4 large-4 columns\">\n  \n    \n      \n            <div class=\"\
+        field field--name-field-nir-global-block-node field--type-entity-reference\
+        \ field--label-hidden field__item\">  \n            <div class=\"clearfix\
+        \ text-formatted field field--name-field-nir-global-block-body field--type-text-long\
+        \ field--label-hidden field__item\"><div class=\"links social\">\n<div class=\"\
+        logo\"><a href=\"https://waitrapp.com\">\_</a></div>\n\n<ul></ul><ul role=\"\
+        navigation\"><li class=\"instagram\"><a aria-label=\"Visit Waitr on Instagram\"\
+        \ href=\"https://www.instagram.com/waitrapp\" rel=\"noopener noreferrer\"\
+        \ target=\"_blank\">Instagram</a></li>\n\t<li class=\"twitter\"><a aria-label=\"\
+        Visit Waitr on Twitter\" href=\"https://twitter.com/waitrapp\" rel=\"noopener\
+        \ noreferrer\" target=\"_blank\">Twitter</a></li>\n\t<li class=\"facebook\"\
+        ><a aria-label=\"Visit Waitr on Facebook\" href=\"https://www.facebook.com/waitrapp/\"\
+        \ rel=\"noopener noreferrer\" target=\"_blank\">Facebook</a></li>\n\t<li class=\"\
+        youtube\"><a aria-label=\"Visit Waitr on YouTube\" href=\"https://www.youtube.com/channel/UCrAjic7t93jZfVCoGwc1-ow\"\
+        \ rel=\"noopener noreferrer\" target=\"_blank\">YouTube</a></li>\n\t<li class=\"\
+        linked-in\"><a aria-label=\"Visit Waitr on LinkedIn\" href=\"https://www.linkedin.com/company/waitr-inc-\"\
+        \ rel=\"noopener noreferrer\" target=\"_blank\">LinkedIn</a></li>\n\t<li class=\"\
+        pinterest\"><a aria-label=\"Visit Waitr on Pinterest\" href=\"https://www.pinterest.com/Waitrapp\"\
+        \ rel=\"noopener noreferrer\" target=\"_blank\">Pinterest</a></li>\n</ul></div>\n\
+        </div>\n      \n</div>\n      \n  </div>\n<div id=\"block-gbfooterlinks\"\
+        \ class=\"block-content--nir-global-block block-content--nir-global-block--6436\
+        \ block--block-content04de5142-2d62-4dda-b65f-f17707ced0e8 block--block-content04de5142-2d62-4dda-b65f-f17707ced0e8--5816\
+        \ block--footer-area--block-content--04de5142-2d62-4dda-b65f-f17707ced0e8\
+        \ block--footer-area--block-content--04de5142-2d62-4dda-b65f-f17707ced0e8--5816\
+        \ block--6cc8853b-53c7-4d7c-a023-8e2749fa65c4 block--6cc8853b-53c7-4d7c-a023-8e2749fa65c4--5816\
+        \ block block-block-content block-block-content04de5142-2d62-4dda-b65f-f17707ced0e8\
+        \ small-4 large-4 columns\">\n  \n    \n      \n            <div class=\"\
+        field field--name-field-nir-global-block-node field--type-entity-reference\
+        \ field--label-hidden field__item\">  \n            <div class=\"clearfix\
+        \ text-formatted field field--name-field-nir-global-block-body field--type-text-long\
+        \ field--label-hidden field__item\"><div class=\"links navigation\">\n<ul\
+        \ class=\"split top\" role=\"navigation\"><li><a href=\"https://waitrapp.com/how-it-works\"\
+        >How it Works</a></li>\n\t<li><a href=\"https://waitrapp.com/for-restaurants\"\
+        >Become a Partner</a></li>\n\t<li><a href=\"https://waitrapp.com/cities\"\
+        >Cities</a></li>\n\t<li><a href=\"https://waitrapp.com/careers\">Careers</a></li>\n\
+        \t<li><a href=\"https://waitrapp.com/press\">Press</a></li>\n</ul></div>\n\
+        </div>\n      \n</div>\n      \n  </div>\n<div id=\"block-gbfooterlinkstwo\"\
+        \ class=\"block-content--nir-global-block block-content--nir-global-block--6441\
+        \ block--block-content99623185-bf3b-4901-8337-998b49da539d block--block-content99623185-bf3b-4901-8337-998b49da539d--5816\
+        \ block--footer-area--block-content--99623185-bf3b-4901-8337-998b49da539d\
+        \ block--footer-area--block-content--99623185-bf3b-4901-8337-998b49da539d--5816\
+        \ block--55fd29d1-e370-4218-a75c-c444c5f964e6 block--55fd29d1-e370-4218-a75c-c444c5f964e6--5816\
+        \ block block-block-content block-block-content99623185-bf3b-4901-8337-998b49da539d\
+        \ small-4 large-4 columns\">\n  \n    \n      \n            <div class=\"\
+        field field--name-field-nir-global-block-node field--type-entity-reference\
+        \ field--label-hidden field__item\">  \n            <div class=\"clearfix\
+        \ text-formatted field field--name-field-nir-global-block-body field--type-text-long\
+        \ field--label-hidden field__item\"><div class=\"links navigation\">\n<ul\
+        \ class=\"split\" role=\"navigation\"><li><a href=\"https://waitrapp.com/blog\"\
+        >Waitr Blog</a></li>\n\t<li><a href=\"http://support.waitrapp.com\" rel=\"\
+        noopener noreferrer\" target=\"_blank\">Support</a></li>\n\t<li><a href=\"\
+        https://waitrapp.com/contact-us\">Contact Us</a></li>\n\t<li><a href=\"https://waitrapp.com/terms\"\
+        >Terms of Use</a></li>\n\t<li><a href=\"https://waitrapp.com/privacy-policy\"\
+        >Privacy Policy</a></li>\n</ul></div>\n</div>\n      \n</div>\n      \n  </div>\n\
+        \n                <br/>\n      </div>\n    </div>\n    <div class=\"row\"\
+        >\n      <div class=\"expanded copyright\">\n        <ul class=\"menu text-center\"\
+        >\n          <li class=\"menu-text\">Copyright \xA9 2020 Waitr Holdings Inc.\
+        \ | All Rights Reserved.</li>\n        </ul>\n      </div>\n    </div>\n \
+        \ </footer>\n\n  <div class=\"reveal ndq-modal-reveal\" id=\"searchModal\"\
+        \ data-reveal>\n    <h3>Search Investor Relations</h3>\n    <form action=\"\
+        /search\" type=\"post\">\n      <input type=\"search\" placeholder=\"Search\"\
+        \ aria-label=\"Search\" name=\"query\">\n      <button type=\"submit\" class=\"\
+        button\" aria-label=\"Submit search entry\"></button>\n    </form>\n    <button\
+        \ class=\"close-button\" data-close aria-label=\"Close modal\" type=\"button\"\
+        ><span aria-hidden=\"true\">&times;</span></button>\n  </div>\n\n</div>\n\
+        \  </div>\n\n    \n          <script type=\"text/javascript\">var s_CCSWebHostingAccount\
+        \ = \"trcgwaitr\";</script>\n        <script type=\"application/json\" data-drupal-selector=\"\
+        drupal-settings-json\">{\"path\":{\"baseUrl\":\"\\/\",\"scriptPath\":null,\"\
+        pathPrefix\":\"\",\"currentPath\":\"node\\/5816\",\"currentPathIsAdmin\":false,\"\
+        isFront\":false,\"currentLanguage\":\"en\",\"currentQuery\":{\"a9d908dd_year\"\
+        :{\"value\":\"_none\"},\"page\":\"0\"}},\"pluralDelimiter\":\"\\u0003\",\"\
+        suppressDeprecationErrors\":true,\"ajaxPageState\":{\"libraries\":\"classy\\\
+        /node,core\\/html5shiv,nir_base\\/adobe_omniture,nir_base\\/nir_icons,nir_base\\\
+        /nir_toolbar,nir_ckeditor_datatables\\/datatables,nir_market_data_block\\\
+        /nir_market_data_block.filterform,nir_multimedia\\/nir_multimedia,nir_pid3128\\\
+        /override,nir_website_notices\\/nir_website_notices.notices,radix_layouts\\\
+        /radix_layouts,system\\/base\",\"theme\":\"nir_pid3128\",\"theme_token\":null},\"\
+        ajaxTrustedUrl\":{\"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM\"\
+        :true},\"user\":{\"uid\":0,\"permissionsHash\":\"99269abc537fbd093a8def4908d00b601b6dd87dc4bb5409590d5d76593663a0\"\
+        }}</script>\n<script src=\"/sites/g/files/knoqqb37751/files/js/js_7IVURSTC5vE-z6bccqPL1DTJjgCCgosXSULiQR18ZtE.js\"\
+        ></script>\n\n    \n  <script type=\"text/javascript\">window.NREUM||(NREUM={});NREUM.info={\"\
+        beacon\":\"bam-cell.nr-data.net\",\"licenseKey\":\"761e715901\",\"applicationID\"\
+        :\"32397309,24276188\",\"transactionName\":\"ZlVXYRcAW0ZRW0QKX18fdFYRCFpbH3xCFkBQXGlbCgVQaXNXXhdCXlxZUBc9e1pUXWYKVUZzWlsRE1pZXF1CTg5HWVBC\"\
+        ,\"queueTime\":0,\"applicationTime\":379,\"atts\":\"ShJUF18aSEg=\",\"errorBeacon\"\
+        :\"bam-cell.nr-data.net\",\"agent\":\"\"}</script></body>\n</html>\n"
+    headers:
+      Accept-Ranges:
+      - bytes
+      Cache-Control:
+      - public, max-age=0, s-maxage=1800
+      Connection:
+      - keep-alive
+      Content-Language:
+      - en
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Sun, 22 Nov 2020 23:41:21 GMT
+      ETag:
+      - '"1606088441"'
+      Expect-CT:
+      - max-age=0, report-uri="/report-expect-ct-violation"
+      Expires:
+      - Sun, 22 Nov 2020 23:41:21 GMT
+      Feature-Policy:
+      - accelerometer 'none';ambient-light-sensor 'none';autoplay 'self';camera 'none';encrypted-media
+        'none';fullscreen 'self';geolocation 'self';gyroscope 'none';magnetometer
+        'none';microphone 'none';midi 'none';payment 'none';picture-in-picture 'none';speaker
+        'self';sync-xhr 'self';usb 'none';vibrate 'none';vr 'none'
+      From-Origin:
+      - same
+      Last-Modified:
+      - Sun, 22 Nov 2020 23:40:41 GMT
+      Link:
+      - <http://investors.waitrapp.com/news-events/news-releases/>; rel="canonical"
+      - <http://investors.waitrapp.com/news-events/news-releases>; rel="alternate";
+        hreflang="en"
+      - <http://investors.waitrapp.com/news-events/news-releases>; rel="revision"
+      Referrer-Policy:
+      - no-referrer-when-downgrade
+      Set-Cookie:
+      - DrupalVisitorMobile=0; path=/; Secure; HttpOnly
+      Vary:
+      - Accept-Encoding
+      X-Age:
+      - '0'
+      X-Content-Type-Options:
+      - nosniff
+      X-Drupal-Dynamic-Cache:
+      - UNCACHEABLE
+      X-EdgeConnect-MidMile-RTT:
+      - '19'
+      X-EdgeConnect-Origin-MEX-Latency:
+      - '422'
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Request-ID:
+      - v-21c4ca3c-2d1c-11eb-bc72-df7bfc59119f
+      X-UA-Compatible:
+      - IE=edge
+      X-XSS-Protection:
+      - 1; mode=block
+      content-length:
+      - '38250'
+      device:
+      - desktop
+    status:
+      code: 200
+      message: OK
+version: 1

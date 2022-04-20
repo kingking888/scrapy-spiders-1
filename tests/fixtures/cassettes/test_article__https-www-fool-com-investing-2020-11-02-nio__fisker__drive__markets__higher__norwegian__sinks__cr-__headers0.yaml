@@ -1,0 +1,1832 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.fool.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/87.0.4280.88 Safari/537.36 '
+    method: GET
+    uri: https://www.fool.com/investing/2020/11/02/nio-fisker-drive-markets-higher-norwegian-sinks-cr/
+  response:
+    body:
+      string: "\n\n<!DOCTYPE html>\n\n<html lang=\"en\"  prefix=\"og: http://ogp.me/ns#
+        fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#\">\n\n  <head>\n
+        \ <script>\n    // usmf-django\nwindow.top!=window&&(window.analytics=window.top.analytics,window.inIframe=!0);var
+        segmentKey=\"16mdwrvy5p\",segmentSnippetVersion=\"4.1.0\",getSegmentUrl=function(t){var
+        t=t||window.segmentKey;return(\"https:\"===document.location.protocol?\"https://\":\"http://\")+\"evs.pink-boat.fool.com/analytics.js/v1/\"+t+\"/analytics.min.js\"},trackerMaker=function(t){var
+        n=[];n.invoked=!1,n.methods=[\"trackSubmit\",\"trackClick\",\"trackLink\",\"trackForm\",\"pageview\",\"identify\",\"reset\",\"group\",\"track\",\"ready\",\"alias\",\"debug\",\"page\",\"once\",\"off\",\"on\"],t&&(n.methods=n.methods.concat(t));var
+        e=function(t){var e=function(){var e=Array.prototype.slice.call(arguments,0),o=[t].concat(e);n.push(o)};return
+        e.stub=!0,e},o=function(){for(var t=0;t<n.methods.length;t++){var o=n.methods[t];n[o]=e(o)}},a=function(t){if(n.invoked)return
+        void(window.console&&console.error&&console.error(\"Tracking snippet included
+        twice.\"));var e=document.createElement(\"script\");e.type=\"text/javascript\",e.async=!0,e.src=t;var
+        o=document.getElementsByTagName(\"script\")[0];o.parentNode.insertBefore(e,o),n.invoked=!0};return
+        o(),n.load=a,n},analytics=window.analytics=window.analytics||trackerMaker(),Infotrack=window.Infotrack=window.Infotrack||trackerMaker([\"initialize\"]);\n
+        \ </script>\n  <meta name=\"infotrackSnippetVersion\" content=\"3.2.0\" data-tracker-key=\"infotrackSnippetVersion\">\n
+        \   \n        \n        <meta name=\"description\" content=\"Key trends are
+        creating crosscurrents in the broader market.\" />\n        \n        <meta
+        http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\n        <meta charset=\"utf-8\">\n
+        \       <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0,
+        maximum-scale=1.0, shrink-to-fit=no\" />\n\n        \n\n        \n        <meta
+        name=\"twitter:site\" content=\"@themotleyfool\">\n        <meta name=\"twitter:card\"
+        content=\"summary_large_image\">\n        <meta name=\"twitter:title\" content=\"NIO,
+        Fisker Drive Markets Higher; Norwegian Sinks Cruise Ship Stocks @themotleyfool
+        #stocks $NCLH $NIO $FSR $^DJI $^GSPC $^IXIC\">\n        <meta name=\"twitter:description\"
+        content=\"Key trends are creating crosscurrents in the broader market.\">\n\n
+        \       \n        <meta itemprop=\"name\" content=\"NIO, Fisker Drive Markets
+        Higher; Norwegian Sinks Cruise Ship Stocks | The Motley Fool\">\n        <meta
+        itemprop=\"description\" content=\"Key trends are creating crosscurrents in
+        the broader market.\">\n\n        \n        <meta property=\"og:site_name\"
+        content=\"The Motley Fool\" />\n        <meta property=\"og:title\" content=\"NIO,
+        Fisker Drive Markets Higher; Norwegian Sinks Cruise Ship Stocks | The Motley
+        Fool\"/>\n        <meta property=\"og:description\" content=\"Key trends are
+        creating crosscurrents in the broader market.\"/>\n        <meta property=\"og:url\"
+        content=\"https://www.fool.com/investing/2020/11/02/nio-fisker-drive-markets-higher-norwegian-sinks-cr/\"/>\n\n
+        \       \n        <meta name=\"twitter:image\" content=\"https://g.foolcdn.com/editorial/images/598180/nio-ec6.jpg\"/>\n
+        \       <meta itemprop=\"image\" content=\"https://g.foolcdn.com/editorial/images/598180/nio-ec6.jpg\">\n
+        \       <meta property=\"og:image\" content=\"https://g.foolcdn.com/editorial/images/598180/nio-ec6.jpg\"/>\n
+        \       \n\n        \n<meta property=\"og:type\" content=\"article\"/>\n\n\n
+        \       <meta property=\"fb:pages\" content=\"7240312795\" />\n        <meta
+        property=\"fb:app_id\" content=\"50808187550\" />\n\n        <meta name=\"msvalidate.01\"
+        content=\"8D40D58712924715BAA79D135A6C8DDA\" />\n    \n\n    \n    <meta name=\"ResponsiveALP\"
+        content=\"\" data-tracker-key=\"ResponsiveALP\" />\n    <meta name=\"headline\"
+        content=\"NIO, Fisker Drive Markets Higher; Norwegian Sinks Cruise Ship Stocks\"
+        data-tracker-key=\"article_headline\" />\n    <meta name=\"STORY_UID\" content=\"8433ad57-567d-4fbe-9dda-01d0796eb500\"
+        data-tracker-key=\"article_uuid\"/>\n    <meta name=\"author\" content=\"Dan
+        Caplinger\" data-tracker-key=\"article_author\" />\n    \n    <meta name=\"date\"
+        content=\"2020-11-02T16:14:00Z\"/>\n    <meta name=\"gsa_date\" content=\"2020
+        11 02\" data-tracker-key=\"article_publish_date\"/>\n    <meta name=\"publish_time\"
+        content=\"11:14\" data-tracker-key=\"article_publish_time\" />\n    \n    <meta
+        name=\"promo\" content=\"Key trends are creating crosscurrents in the broader
+        market.\" />\n    <meta name=\"bureau\" content=\"usmf-markets\" data-tracker-key=\"article_bureau\"
+        />\n    <meta name=\"tags\" content=\"Yahoo News,MSN,Default Partners\" data-tracker-key=\"article_tags\"
+        />\n    <meta name=\"pitch\" content=\"6115\" />\n    <meta name=\"tickers\"
+        content=\"NCLH,NIO,FSR\" data-tracker-key=\"article_tickers\" />\n    <meta
+        name=\"article_type\" content=\"article\" data-tracker-key=\"article_type\"
+        />\n    <meta name=\"collection\" content=\"investing\" data-tracker-key=\"collection\"
+        />\n    <meta property=\"article:published_time\" content=\"2020-11-02T11:14:00-05:00\"
+        />\n    <meta property=\"article:author\" content=\"https://www.facebook.com/themotleyfool/\"
+        />\n    <meta property=\"article:tag\" content=\"usmf-markets\" />\n    <meta
+        property=\"article:section\" content=\"investing\" />\n\n\n\n  <title>\n      \n
+        \   NIO, Fisker Drive Markets Higher; Norwegian Sinks Cruise Ship Stocks |
+        The Motley Fool\n\n  </title>\n\n\n  <link rel=\"shortcut icon\" id=\"fool-favicon\"
+        href=\"https://g.foolcdn.com/misc-assets/logo-tmf-primary-favicon.ico\">\n
+        \ <link rel=\"apple-touch-icon\" href=\"https://g.foolcdn.com/misc-assets/apple-touch-icon.png\">\n
+        \ <link rel=\"icon\" id=\"fool-faviconpng16\" type=\"image/png\" sizes=\"16x16\"
+        href=\"https://optimize.foolcdn.com/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets/logo-tmf-favicon-7-magenta-royalpurple32.png&amp;w=16&amp;op=resize\">\n
+        \ <link rel=\"icon\" id=\"fool-faviconpng32\" type=\"image/png\" sizes=\"32x32\"
+        href=\"https://optimize.foolcdn.com/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets/logo-tmf-favicon-7-magenta-royalpurple32.png&amp;w=16&amp;op=resize\">\n\n
+        \ \n<link rel=\"canonical\" href=\"https://www.fool.com/investing/2020/11/02/nio-fisker-drive-markets-higher-norwegian-sinks-cr/\"
+        />\n\n\n  \n <link rel=\"amphtml\" href=\"https://www.fool.com/amp/investing/2020/11/02/nio-fisker-drive-markets-higher-norwegian-sinks-cr/\">\n\n\n
+        \ \n  \n\n  <link rel=\"stylesheet\" href=\"//g.foolcdn.com/static/dubs/CACHE/css/output.5b8d4d5b1aca.css\"
+        type=\"text/css\">\n  <link rel=\"stylesheet\" href=\"//g.foolcdn.com/static/dubs/CACHE/css/output.879f40ff57ac.css\"
+        type=\"text/css\" media=\"print\">\n  \n    <link rel=\"stylesheet\" href=\"//g.foolcdn.com/static/dubs/CACHE/css/output.2486ad03f761.css\"
+        type=\"text/css\">\n\n\n  \n\n  \n  <script type=\"text/javascript\" src=\"//g.foolcdn.com/static/dubs/common/js/vendor/jquery-3.3.1.min.a09e13ee94d5.js\"></script>\n
+        \ \n\n  \n  <script type=\"text/javascript\" src=\"//g.foolcdn.com/static/dubs/common/js/fool/fool_perf.30e6a927aa44.js\"></script>\n
+        \ \n  \n  \n<script>(function(d){var s = d.createElement(\"script\");s.setAttribute(\"data-account\",
+        \"JPpJAc3inv\");s.setAttribute(\"src\", \"https://accessibilityserver.org/widget.js\");(d.body
+        || d.head).appendChild(s);})(document)</script><noscript>Please ensure Javascript
+        is enabled for purposes of <a href=\"https://accessibilityserver.org\">website
+        accessibility</a></noscript>\n\n\n  \n  \n    \n\n\n\n<script type=\"text/javascript\">\n
+        \   var dataLayer = dataLayer || [];\n    \n        dataLayer.push({'foolcomPageType':
+        'article'});\n        \n        dataLayer.push({'articleUUID': '8433ad57-567d-4fbe-9dda-01d0796eb500'});\n
+        \       \n        dataLayer.push({'articleAuthor': 'Dan Caplinger'});\n        dataLayer.push({'articleBureau':
+        'usmf-markets'});\n        dataLayer.push({'articleHeadline': 'NIO, Fisker
+        Drive Markets Higher; Norwegian Sinks Cruise Ship Stocks'});\n        dataLayer.push({'articlePublishedTime':
+        '2020-11-02T11:14:00-05:00'});\n        \n        dataLayer.push({'articleTags':
+        ['Yahoo News', 'MSN', 'Default Partners'] });\n        \n        \n        dataLayer.push({'articleTickers':
+        ['NCLH', 'NIO', 'FSR'] });\n        \n        dataLayer.push({'articleSection':
+        'investing'});\n        dataLayer.push({'articleCollection': 'investing'});\n
+        \   \n    var md5HashedEmail = unescape(encodeURIComponent(\"d41d8cd98f00b204e9800998ecf8427e\")).trim().toLowerCase();\n
+        \   var sha256HashedEmail = unescape(encodeURIComponent(\"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855\")).trim().toLowerCase();\n
+        \   dataLayer.push({'EmailReady.hashed_email': md5HashedEmail});\n    dataLayer.push({'EmailReady.hashed_email_256':
+        sha256HashedEmail});\n    dataLayer.push({'event': 'EmailReady'});\n</script>\n\n\n<script
+        async type=\"text/javascript\" src=\"//g.foolcdn.com/static/dubs/ads/js/vendor/prebid3.8.0.12425b607ef3.js\"></script>\n<script>\n
+        \   var prebidFool = {\n        timeout: 1500\n    };\n    var pbjs = pbjs
+        || {};\n    pbjs.que = pbjs.que || [];\n    pbjs.que.push(function() {\n        var
+        price_bucket = {\n            'buckets': [\n                \n                {\n
+        \                   'precision': 2,\n                    'min': 0,\n                    'max':
+        20,\n                    'increment': 0.01,\n                },\n                \n
+        \               {\n                    'precision': 2,\n                    'min':
+        20,\n                    'max': 30,\n                    'increment': 0.05,\n
+        \               },\n                \n                {\n                    'precision':
+        2,\n                    'min': 30,\n                    'max': 40,\n                    'increment':
+        0.10,\n                },\n                \n                {\n                    'precision':
+        2,\n                    'min': 40,\n                    'max': 50,\n                    'increment':
+        0.50,\n                },\n                \n                {\n                    'precision':
+        2,\n                    'min': 50,\n                    'max': 99,\n                    'increment':
+        1.00,\n                },\n                \n            ]\n        };\n        pbjs.setConfig({\n
+        \           debug: true,\n            bidderTimeout: 1500,\n            priceGranularity:
+        price_bucket,\n            enableSendAllBids: false,\n            // that
+        is for future when we start s2s on all pages not only AMP\n            //
+        s2sConfig: {\n            //     accountId: '0493ea4a-96b1-4072-b4ec-38dac402799a',\n
+        \           //     bidders: ['appnexus', 'pubmatic'],\n            //     defaultVendor:
+        'appnexus'\n            // },\n        });\n    });\n</script>\n\n\n<script
+        async=\"async\" src=\"https://www.googletagservices.com/tag/js/gpt.js\"></script>\n<script
+        type=\"text/javascript\">\n    window.googletag = window.googletag || {};\n
+        \   var googletag = window.googletag;\n    googletag.cmd = googletag.cmd ||
+        [];\n    window.slots = window.slots || {};\n    window.adCount = 0;\n    \n</script>\n\n\n\n\n\n\n\n<script
+        type=\"text/javascript\" src=\"//g.foolcdn.com/static/dubs/ads/js/fool/fool_ads.74ce8f8a45cf.js\"></script>\n\n
+        \ \n  \n  \n  \n\n\n<script type='text/javascript'>\n    googletag.cmd.push(function()
+        {\n        \n        googletag.pubads().setTargeting('ArticleNum', 'article-'
+        + window.article_count_id);\n        \n\n        \n        googletag.pubads().setTargeting('bureau',
+        'usmf-markets');\n        \n\n        \n        googletag.pubads().setTargeting('collection',
+        '/investing');\n        \n\n        \n        googletag.pubads().setTargeting('headline',
+        'nio fisker drive markets higher norwegian sinks cruise ship stocks');\n        \n\n
+        \       \n        googletag.pubads().setTargeting('adtags', [\"yahoo-news\",
+        \"msn\", \"default-partners\"]);\n        \n\n        googletag.pubads().setTargeting('test_bucket',
+        '27');\n        googletag.pubads().setTargeting('tickers', [\"\"]);\n        googletag.pubads().setTargeting('suppress_modal',
+        'False');\n\n        \n        googletag.pubads().setTargeting('sessionCount',
+        '0')\n        googletag.pubads().setTargeting('tenOrMoreSessions', 'False')\n
+        \       googletag.pubads().setTargeting('services', [])\n        googletag.pubads().setTargeting('uid',
+        '');\n        \n        googletag.pubads().setTargeting('page_type', 'Non-TSTR-PAGE');\n
+        \   });\n</script>\n\n\n\n\n<script type='text/javascript'>\n    \n\n    \n
+        \   var hbBiddersParams = {\"header_desk_sticky\": {\"criteo\": {\"zoneId\":
+        \"1088147\"}, \"appnexus\": {\"placementId\": \"12389966\"}, \"openx\": {\"unit\":
+        \"539313278\", \"delDomain\": \"motleyfool-d.openx.net\"}, \"ix\": {\"siteId\":
+        \"357443\", \"size\": \"[[970,90], [728,90]]\"}, \"rubicon\": {\"zoneId\":
+        \"1232038-2\", \"accountId\": \"12312\", \"siteId\": \"248904\"}}};\n    //if
+        there are bids -> push them\n    if(hbBiddersParams) {\n        var params
+        = [];\n        hbBiddersParams = hbBiddersParams['header_desk_sticky'];\n
+        \       //push each bidder settings\n        for (var bidder in hbBiddersParams)
+        {\n            if (!hbBiddersParams.hasOwnProperty(bidder)) continue;\n\n
+        \           // IX bidder requires special treatment\n            if (bidder
+        === 'ix') {\n\n              let sizeAsString = hbBiddersParams[bidder]['size'];\n
+        \             let siteId = hbBiddersParams[bidder]['siteId'];\n\n              //
+        cannot run JSON.parse() on undefined, so check that size is configured first\n
+        \             if (sizeAsString) {\n                let sizeAsArray = JSON.parse(sizeAsString);\n
+        \                 // according to docs we have to send one bid per size for
+        IX\n                  sizeAsArray.forEach(function(unitSize){\n                    params.push({\n
+        \                       bidder: bidder,\n                        params: {\n
+        \                         'size': unitSize,\n                          'siteId':
+        siteId\n                        }\n                    });\n                  });\n
+        \             }\n              else {\n                params.push({\n                        bidder:
+        bidder,\n                        params: {\n                          'siteId':
+        siteId\n                        }\n                    })\n              }\n
+        \           }\n            // if bidder not IX\n            else {\n              params.push({\n
+        \               bidder: bidder,\n                params: hbBiddersParams[bidder]\n
+        \             })\n            }\n        }\n        adUnits = window.adUnits
+        || [];\n        adUnits.push({\n            code: 'div-header_desk_sticky-42899',\n
+        \           mediaTypes: {\n                banner: {\n                    sizes:
+        [[728, 90], [970, 90]]\n                }\n            },\n        bids: params\n
+        \       });\n    }\n    \n\n    googletag.cmd.push(function() {\n        slots['div-header_desk_sticky-42899']
+        = googletag.defineSlot('/3910/investing/header_desk_sticky', [[728, 90], [970,
+        90]], 'div-header_desk_sticky-42899')\n    .addService(googletag.pubads())\n
+        \       \n    .setTargeting('pos', adCount)\n        \n    .setTargeting('placement',
+        'header_desk_sticky')\n        \n    .setTargeting('ArticleNum', 'article-'
+        + window.article_count_id)\n        \n    .setCollapseEmptyDiv(true);\n    });\n\n
+        \   \n</script>\n\n\n\n\n<script type='text/javascript'>\n    \n\n    \n    var
+        hbBiddersParams = {\"sidebar1_desk\": {\"criteo\": {\"zoneId\": \"1088163\"},
+        \"appnexus\": {\"placementId\": \"12389989\"}, \"openx\": {\"unit\": \"539313287\",
+        \"delDomain\": \"motleyfool-d.openx.net\"}, \"ix\": {\"siteId\": \"357452\",
+        \"size\": \"[[300,250],[300,600]]\"}, \"rubicon\": {\"zoneId\": \"1232058-15\",
+        \"accountId\": \"12312\", \"siteId\": \"248904\"}}};\n    //if there are bids
+        -> push them\n    if(hbBiddersParams) {\n        var params = [];\n        hbBiddersParams
+        = hbBiddersParams['sidebar1_desk'];\n        //push each bidder settings\n
+        \       for (var bidder in hbBiddersParams) {\n            if (!hbBiddersParams.hasOwnProperty(bidder))
+        continue;\n\n            // IX bidder requires special treatment\n            if
+        (bidder === 'ix') {\n\n              let sizeAsString = hbBiddersParams[bidder]['size'];\n
+        \             let siteId = hbBiddersParams[bidder]['siteId'];\n\n              //
+        cannot run JSON.parse() on undefined, so check that size is configured first\n
+        \             if (sizeAsString) {\n                let sizeAsArray = JSON.parse(sizeAsString);\n
+        \                 // according to docs we have to send one bid per size for
+        IX\n                  sizeAsArray.forEach(function(unitSize){\n                    params.push({\n
+        \                       bidder: bidder,\n                        params: {\n
+        \                         'size': unitSize,\n                          'siteId':
+        siteId\n                        }\n                    });\n                  });\n
+        \             }\n              else {\n                params.push({\n                        bidder:
+        bidder,\n                        params: {\n                          'siteId':
+        siteId\n                        }\n                    })\n              }\n
+        \           }\n            // if bidder not IX\n            else {\n              params.push({\n
+        \               bidder: bidder,\n                params: hbBiddersParams[bidder]\n
+        \             })\n            }\n        }\n        adUnits = window.adUnits
+        || [];\n        adUnits.push({\n            code: 'div-sidebar1_desk-64698',\n
+        \           mediaTypes: {\n                banner: {\n                    sizes:
+        [[300, 250], [300, 600]]\n                }\n            },\n        bids:
+        params\n        });\n    }\n    \n\n    googletag.cmd.push(function() {\n
+        \       slots['div-sidebar1_desk-64698'] = googletag.defineSlot('/3910/investing/sidebar1_desk',
+        [[300, 250], [300, 600]], 'div-sidebar1_desk-64698')\n    .addService(googletag.pubads())\n
+        \       \n    .setTargeting('pos', adCount)\n        \n    .setTargeting('placement',
+        'sidebar1_desk')\n        \n    .setTargeting('ArticleNum', 'article-' + window.article_count_id)\n
+        \       \n    .setCollapseEmptyDiv(true);\n    });\n\n    \n</script>\n\n\n\n\n<script
+        type='text/javascript'>\n    \n\n    \n    var hbBiddersParams = {\"sidebar2_desk\":
+        {\"criteo\": {\"zoneId\": \"1088164\"}, \"appnexus\": {\"placementId\": \"12389990\"},
+        \"openx\": {\"unit\": \"539313288\", \"delDomain\": \"motleyfool-d.openx.net\"},
+        \"ix\": {\"siteId\": \"357453\", \"size\": \"[[300,250],[300,600]]\"}, \"rubicon\":
+        {\"zoneId\": \"1232060-15\", \"accountId\": \"12312\", \"siteId\": \"248904\"}}};\n
+        \   //if there are bids -> push them\n    if(hbBiddersParams) {\n        var
+        params = [];\n        hbBiddersParams = hbBiddersParams['sidebar2_desk'];\n
+        \       //push each bidder settings\n        for (var bidder in hbBiddersParams)
+        {\n            if (!hbBiddersParams.hasOwnProperty(bidder)) continue;\n\n
+        \           // IX bidder requires special treatment\n            if (bidder
+        === 'ix') {\n\n              let sizeAsString = hbBiddersParams[bidder]['size'];\n
+        \             let siteId = hbBiddersParams[bidder]['siteId'];\n\n              //
+        cannot run JSON.parse() on undefined, so check that size is configured first\n
+        \             if (sizeAsString) {\n                let sizeAsArray = JSON.parse(sizeAsString);\n
+        \                 // according to docs we have to send one bid per size for
+        IX\n                  sizeAsArray.forEach(function(unitSize){\n                    params.push({\n
+        \                       bidder: bidder,\n                        params: {\n
+        \                         'size': unitSize,\n                          'siteId':
+        siteId\n                        }\n                    });\n                  });\n
+        \             }\n              else {\n                params.push({\n                        bidder:
+        bidder,\n                        params: {\n                          'siteId':
+        siteId\n                        }\n                    })\n              }\n
+        \           }\n            // if bidder not IX\n            else {\n              params.push({\n
+        \               bidder: bidder,\n                params: hbBiddersParams[bidder]\n
+        \             })\n            }\n        }\n        adUnits = window.adUnits
+        || [];\n        adUnits.push({\n            code: 'div-sidebar2_desk-46915',\n
+        \           mediaTypes: {\n                banner: {\n                    sizes:
+        [[300, 250], [300, 600]]\n                }\n            },\n        bids:
+        params\n        });\n    }\n    \n\n    googletag.cmd.push(function() {\n
+        \       slots['div-sidebar2_desk-46915'] = googletag.defineSlot('/3910/investing/sidebar2_desk',
+        [[300, 250], [300, 600]], 'div-sidebar2_desk-46915')\n    .addService(googletag.pubads())\n
+        \       \n    .setTargeting('pos', 'right_1')\n        \n    .setTargeting('placement',
+        'sidebar2_desk')\n        \n    .setTargeting('ArticleNum', 'article-' + window.article_count_id)\n
+        \       \n    .setCollapseEmptyDiv(true);\n    });\n\n    \n</script>\n\n\n\n\n<script
+        type='text/javascript'>\n    \n\n    \n\n    googletag.cmd.push(function()
+        {\n        slots['div-sidebar_button1-30405'] = googletag.defineSlot('/3910/investing/sidebar_button1',
+        [125, 125], 'div-sidebar_button1-30405')\n    .addService(googletag.pubads())\n
+        \       \n    .setTargeting('pos', 'right_2')\n        \n    .setTargeting('placement',
+        'sidebar_button1')\n        \n    .setTargeting('ArticleNum', 'article-' +
+        window.article_count_id)\n        \n    .setCollapseEmptyDiv(true);\n    });\n\n
+        \   \n</script>\n\n\n  \n\n\n\n  \n    <script type=\"application/ld+json\">\n
+        \     {\n        \"@context\": \"http://schema.org\",\n        \"@type\":
+        \"NewsArticle\",\n        \"mainEntityOfPage\": {\n          \"@type\": \"WebPage\",\n
+        \         \"@id\": \"https://www.fool.com\"\n        },\n        \"headline\":
+        \"NIO, Fisker Drive Markets Higher; Norwegian Sinks Cruise Ship Stocks\",\n
+        \       \"datePublished\": \"2020-11-02T16:14:00Z\",\n        \"dateModified\":
+        \"2020-11-02T16:14:29Z\",\n        \"author\": {\n          \"@type\": \"Person\",\n
+        \         \"name\": \"Dan Caplinger\"\n        },\n        \"about\":[\n            \n
+        \               {\n                    \"@type\": \"Corporation\",\n                    \"tickerSymbol\":
+        \"NYSE NCLH\"\n                },\n            \n                {\n                    \"@type\":
+        \"Corporation\",\n                    \"tickerSymbol\": \"NYSE NIO\"\n                },\n
+        \           \n                {\n                    \"@type\": \"Corporation\",\n
+        \                   \"tickerSymbol\": \"NYSE FSR\"\n                },\n            \n
+        \               {\n                    \"@type\": \"Corporation\",\n                    \"tickerSymbol\":
+        \"DJINDICES ^DJI\"\n                },\n            \n                {\n
+        \                   \"@type\": \"Corporation\",\n                    \"tickerSymbol\":
+        \"SNPINDEX ^GSPC\"\n                },\n            \n                {\n
+        \                   \"@type\": \"Corporation\",\n                    \"tickerSymbol\":
+        \"NASDAQINDEX ^IXIC\"\n                }\n            \n        ],\n        \"publisher\":
+        {\n          \"@type\": \"Organization\",\n          \"name\": \"The Motley
+        Fool\",\n          \"logo\": {\n            \"@type\": \"ImageObject\",\n
+        \           \"url\": \"https://g.foolcdn.com/misc-assets/logo-tmf-primary-7-magenta-royalpurple.svg\",\n
+        \           \"width\": 311,\n            \"height\": 56\n          }\n        },\n
+        \       \"description\": \"Key trends are creating crosscurrents in the broader
+        market.\",\n        \"image\": {\n          \"@type\": \"ImageObject\",\n
+        \         \"url\": \"https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F598180%2Fnio-ec6.jpg&w=1200&h=630&op=resize\",\n
+        \         \"height\": 630,\n          \"width\": 1200\n        }\n      }\n
+        \ </script>\n    <script async src=\"https://z.moatads.com/motleyfoolprebidheader311988918701/moatheader.js\"></script>\n\n\n</head>\n\n<body
+        class=\"fool \">\n  \n  <div class=\"main-container\">\n    \n\n    <div class=\"fool-tophat-container\">\n
+        \     <div id=\"tmf-top-hat\"></div>\n    </div>\n    <div class=\"page-grid-container\">\n
+        \     <section class=\"usmf-article-nav\">\n        \n          \n\n\n<header
+        class=\"navigation\" role=\"banner\">\n  <div class=\"navigation-wrapper\">\n
+        \   \n      <div class=\"logo-container\">\n    \n      <a href=\"https://www.fool.com\"
+        class=\"logo\">\n        <img id=\"fool-logo\" class=\"fool-logo\" alt=\"The
+        Motley Fool\" src=\"https://g.foolcdn.com/misc-assets/logo-tmf-primary-7-magenta-royalpurple.svg\">\n
+        \     </a>\n    \n        </div>\n    \n\n\n    <!--Desktop Nav Menu-->\n<nav>\n
+        \   <ul class=\"nav-menu main-menu\">\n        <li class=\"nav-item main-menu-item\">\n
+        \           <a id=\"topnav-picks\" href=\"https://www.fool.com/mms/mark/d-nav-btn\"
+        \ class=\"nav-link-stock-picks\">\n                Latest Stock Picks\n            </a>\n
+        \       </li>\n\n        \n          <li class=\"nav-item main-menu-item dropdown\">\n
+        \           <a id=\"topnav-stocks\" href=\"javascript:void(0)\">\n                Investing
+        Basics\n                <svg class=\"fa-svg-icon\"><use xlink:href=\"#caret-down\"></use></svg>\n
+        \           </a>\n            <div class=\"sub-nav sub-menu\">\n              <div
+        class=\"mega-menu-wrapper\">\n                <div class=\"mega-menu-wrapper-content
+        sub-nav\">\n                  <div class=\"columns\" id=\"stocks-subnav\">\n
+        \                 \n                    \n\n\n<div class=\"column promo-box-column\">\n
+        \ \n    \n    \n\n    <div class=\"sub-menu-header\">Premium Services</div>\n
+        \   <div class=\"stocks-info-table sub-nav-group\">\n      <div class=\"stocks-info-item
+        head\">\n        <div class=\"td name\"></div>\n        <div class=\"td\">Return</div>\n
+        \       <div class=\"td\">S&P</div>\n      </div>\n      <div class=\"stocks-info-item\">\n
+        \       <div class=\"td name\">\n          <a id=\"stocks-sa\" href=\"https://www.fool.com/mms/mark/op-hp-mfps-sa/?source=isasittn0010002\">Stock
+        Advisor</a>\n          <small>Flagship service</small>\n        </div>\n        <div
+        class=\"td return\">598%</div>\n        <div class=\"td\">120%</div>\n      </div>\n
+        \     <div class=\"stocks-info-item\">\n        <div class=\"td name\">\n
+        \         <a id=\"stocks-rb\" href=\"https://www.fool.com/mms/mark/op-hp-mfps-rb/?source=irbsittn0010001\">Rule
+        Breakers</a>\n          <small>High-growth stocks</small>\n        </div>\n
+        \       <div class=\"td return\">377%</div>\n        <div class=\"td\">103%</div>\n
+        \     </div>\n      <p align=\"center\"><small><em>Returns as of 2/23/2021</em></small></p>\n\t\t
+        \ <div class=\"stocks-info-item\">\n\t\t    <div class=\"td name\">\n\t\t\t
+        \   <center>\n\t\t\t      <a id=\"stocks-all-services\" href=\"https://www.fool.com/services/\">View
+        all Motley Fool Services</a>\n\t\t\t    </center>\n\t\t    </div>\n\t\t  </div>\n
+        \   </div>\n\n  \n</div>\n\n                  \n\n                  \n                    <div
+        class=\"column\">\n                      <ul class=\"sub-nav-group\">\n                        <div
+        class=\"sub-menu-header\">Investing 101</div>\n                        \n
+        \                         <li class=\"sub-menu-link\">\n                            <a
+        id=\"stocks-how-to-invest\" href=\"/investing/how-to-invest/\">How to Invest
+        Money</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"stocks-what-to-invest-in\" href=\"/investing/how-to-invest/what-to-invest-in/\">What
+        to Invest In</a>\n                              \n                                  <ul
+        class=\"sub-menu-subitem\">\n                                  \n                                      <li
+        class=\"sub-menu-link\"><a href=\"/investing/how-to-invest/stocks/\">How to
+        Invest in Stocks</a></li>\n                                  \n                                      <li
+        class=\"sub-menu-link\"><a href=\"/investing/how-to-invest/index-funds/\">How
+        to Invest in Index Funds</a></li>\n                                  \n                                      <li
+        class=\"sub-menu-link\"><a href=\"https://www.fool.com/investing/how-to-invest/etfs/\">How
+        to Invest in ETFs</a></li>\n                                  \n                                  </ul>\n
+        \                             \n                          </li>\n                        \n
+        \                     </ul>\n                    </div>\n                  \n
+        \                   <div class=\"column\">\n                      <ul class=\"sub-nav-group\">\n
+        \                       <div class=\"sub-menu-header\">Best Accounts</div>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"best-accounts-brokerage\" href=\"https://www.fool.com/the-ascent/buying-stocks/\">Best
+        Stock Brokers</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"best-beginners-brokers\" href=\"https://www.fool.com/the-ascent/buying-stocks/best-online-stock-brokers-beginners/\">Best
+        Brokers for Beginners</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"best-accounts-ira\" href=\"https://www.fool.com/the-ascent/buying-stocks/best-brokers-iras/\">Best
+        IRA Accounts</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"best-accounts-roth-ira\" href=\"https://www.fool.com/the-ascent/buying-stocks/best-roth-ira/\">Best
+        Roth IRA Accounts</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"best-options-brokers\" href=\"https://www.fool.com/the-ascent/buying-stocks/best-brokers-options/\">Best
+        Options Brokers</a>\n                              \n                          </li>\n
+        \                       \n                      </ul>\n                    </div>\n
+        \                 \n                    <div class=\"column\">\n                      <ul
+        class=\"sub-nav-group\">\n                        <div class=\"sub-menu-header\">Stock
+        Market Basics</div>\n                        \n                          <li
+        class=\"sub-menu-link\">\n                            <a id=\"stock-market-basics-stock-market-101\"
+        href=\"/investing/stock-market/\">Stock Market 101</a>\n                              \n
+        \                                 <ul class=\"sub-menu-subitem\">\n                                  \n
+        \                                     <li class=\"sub-menu-link\"><a href=\"/investing/stock-market/types-of-stocks/\">Types
+        of Stocks</a></li>\n                                  \n                                      <li
+        class=\"sub-menu-link\"><a href=\"/investing/stock-market/market-sectors/\">Stock
+        Market Sectors</a></li>\n                                  \n                                      <li
+        class=\"sub-menu-link\"><a href=\"/investing/stock-market/indexes/\">Stock
+        Market Indexes</a></li>\n                                  \n                                      <li
+        class=\"sub-menu-link\"><a href=\"/investing/stock-market/indexes/sp-500/\">S&amp;P
+        500</a></li>\n                                  \n                                      <li
+        class=\"sub-menu-link\"><a href=\"/investing/stock-market/indexes/dow-jones/\">Dow
+        Jones</a></li>\n                                  \n                                      <li
+        class=\"sub-menu-link\"><a href=\"/investing/stock-market/indexes/nasdaq/\">Nasdaq
+        Composite</a></li>\n                                  \n                                  </ul>\n
+        \                             \n                          </li>\n                        \n
+        \                     </ul>\n                    </div>\n                  \n
+        \                 </div>\n                </div>\n              </div>\n            </div>\n
+        \         </li>\n         \n          <li class=\"nav-item main-menu-item
+        dropdown\">\n            <a id=\"topnav-stocks\" href=\"javascript:void(0)\">\n
+        \               Stock Market\n                <svg class=\"fa-svg-icon\"><use
+        xlink:href=\"#caret-down\"></use></svg>\n            </a>\n            <div
+        class=\"sub-nav sub-menu\">\n              <div class=\"mega-menu-wrapper\">\n
+        \               <div class=\"mega-menu-wrapper-content sub-nav\">\n                  <div
+        class=\"columns\" id=\"stocks-subnav\">\n                  \n                    \n\n\n<div
+        class=\"column promo-box-column\">\n  \n    \n    \n\n    <div class=\"sub-menu-header\">Premium
+        Services</div>\n    <div class=\"stocks-info-table sub-nav-group\">\n      <div
+        class=\"stocks-info-item head\">\n        <div class=\"td name\"></div>\n
+        \       <div class=\"td\">Return</div>\n        <div class=\"td\">S&P</div>\n
+        \     </div>\n      <div class=\"stocks-info-item\">\n        <div class=\"td
+        name\">\n          <a id=\"stocks-sa\" href=\"https://www.fool.com/mms/mark/op-hp-mfps-sa/?source=isasittn0010002\">Stock
+        Advisor</a>\n          <small>Flagship service</small>\n        </div>\n        <div
+        class=\"td return\">598%</div>\n        <div class=\"td\">120%</div>\n      </div>\n
+        \     <div class=\"stocks-info-item\">\n        <div class=\"td name\">\n
+        \         <a id=\"stocks-rb\" href=\"https://www.fool.com/mms/mark/op-hp-mfps-rb/?source=irbsittn0010001\">Rule
+        Breakers</a>\n          <small>High-growth stocks</small>\n        </div>\n
+        \       <div class=\"td return\">377%</div>\n        <div class=\"td\">103%</div>\n
+        \     </div>\n      <p align=\"center\"><small><em>Returns as of 2/23/2021</em></small></p>\n\t\t
+        \ <div class=\"stocks-info-item\">\n\t\t    <div class=\"td name\">\n\t\t\t
+        \   <center>\n\t\t\t      <a id=\"stocks-all-services\" href=\"https://www.fool.com/services/\">View
+        all Motley Fool Services</a>\n\t\t\t    </center>\n\t\t    </div>\n\t\t  </div>\n
+        \   </div>\n\n  \n</div>\n\n                  \n\n                  \n                    <div
+        class=\"column\">\n                      <ul class=\"sub-nav-group\">\n                        <div
+        class=\"sub-menu-header\">Stocks</div>\n                        \n                          <li
+        class=\"sub-menu-link\">\n                            <a id=\"stocks-growth-stocks\"
+        href=\"/investing/stock-market/types-of-stocks/growth-stocks/\">Growth Stocks</a>\n
+        \                             \n                          </li>\n                        \n
+        \                         <li class=\"sub-menu-link\">\n                            <a
+        id=\"stocks-value-stocks\" href=\"/investing/stock-market/types-of-stocks/value-stocks/\">Value
+        Stocks</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"stocks-dividend-stocks\" href=\"/investing/stock-market/types-of-stocks/dividend-stocks/\">Dividend
+        Stocks</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"stocks-small-cap-stocks\" href=\"/investing/stock-market/types-of-stocks/small-cap-stocks/\">Small
+        Cap Stocks</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"stocks-large-cap-stocks\" href=\"/investing/stock-market/types-of-stocks/large-cap-stocks/\">Large
+        Cap Stocks</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"stocks-blue-chip-stocks\" href=\"https://www.fool.com/investing/stock-market/types-of-stocks/blue-chip-stocks/\">Blue
+        Chip Stocks</a>\n                              \n                          </li>\n
+        \                       \n                      </ul>\n                    </div>\n
+        \                 \n                    <div class=\"column\">\n                      <ul
+        class=\"sub-nav-group\">\n                        <div class=\"sub-menu-header\">Industries
+        to Invest In</div>\n                        \n                          <li
+        class=\"sub-menu-link\">\n                            <a id=\"industries-to-invest-consumer-goods\"
+        href=\"/investing/stock-market/market-sectors/consumer-discretionary/\">Consumer
+        Goods</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"industries-to-invest-technology\" href=\"/investing/stock-market/market-sectors/information-technology/\">Technology</a>\n
+        \                             \n                          </li>\n                        \n
+        \                         <li class=\"sub-menu-link\">\n                            <a
+        id=\"industries-to-invest-energy\" href=\"/investing/stock-market/market-sectors/energy/\">Energy</a>\n
+        \                             \n                          </li>\n                        \n
+        \                         <li class=\"sub-menu-link\">\n                            <a
+        id=\"industries-to-invest-healthcare\" href=\"/investing/stock-market/market-sectors/healthcare/\">Healthcare</a>\n
+        \                             \n                          </li>\n                        \n
+        \                         <li class=\"sub-menu-link\">\n                            <a
+        id=\"industries-to-invest-financial\" href=\"/investing/stock-market/market-sectors/financials/\">Financial</a>\n
+        \                             \n                          </li>\n                        \n
+        \                         <li class=\"sub-menu-link\">\n                            <a
+        id=\"industries-to-invest-communications\" href=\"/investing/stock-market/market-sectors/communication/\">Communications</a>\n
+        \                             \n                          </li>\n                        \n
+        \                     </ul>\n                    </div>\n                  \n
+        \                   <div class=\"column\">\n                      <ul class=\"sub-nav-group\">\n
+        \                       <div class=\"sub-menu-header\">News</div>\n                        \n
+        \                         <li class=\"sub-menu-link\">\n                            <a
+        id=\"news-top-stocks\" href=\"/investing/top-stocks-to-buy.aspx\">Top Stocks
+        to Buy in 2021</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"news-stock-market-news\" href=\"/investing-news/\">Stock
+        Market News</a>\n                              \n                          </li>\n
+        \                       \n                      </ul>\n                    </div>\n
+        \                 \n                  </div>\n                </div>\n              </div>\n
+        \           </div>\n          </li>\n         \n          <li class=\"nav-item
+        main-menu-item dropdown\">\n            <a id=\"topnav-stocks\" href=\"javascript:void(0)\">\n
+        \               Retirement\n                <svg class=\"fa-svg-icon\"><use
+        xlink:href=\"#caret-down\"></use></svg>\n            </a>\n            <div
+        class=\"sub-nav sub-menu\">\n              <div class=\"mega-menu-wrapper\">\n
+        \               <div class=\"mega-menu-wrapper-content sub-nav\">\n                  <div
+        class=\"columns\" id=\"stocks-subnav\">\n                  \n\n                  \n
+        \                   <div class=\"column\">\n                      <ul class=\"sub-nav-group\">\n
+        \                       <div class=\"sub-menu-header\">Getting Started</div>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"retire-retirement-101\" href=\"/retirement/index.aspx\">Retirement
+        101</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"retire-why-start\" href=\"/how-to-invest/thirteen-steps/step-1-change-your-life-with-one-calculation.aspx\">Why
+        to Start Saving Now</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"retire-types-of-accounts\" href=\"/retirement/retirement-step-4-choose-the-right-account.aspx\">Types
+        of Retirement Accounts </a>\n                              \n                                  <ul
+        class=\"sub-menu-subitem\">\n                                  \n                                      <li
+        class=\"sub-menu-link\"><a href=\"/retirement/most-important-401k-rules-maximize-your-savings.aspx\">401k
+        Basics</a></li>\n                                  \n                                      <li
+        class=\"sub-menu-link\"><a href=\"https://www.fool.com/retirement/the-best-ira-accounts-for-you.aspx\">IRA
+        Basics\L\L</a></li>\n                                  \n                                  </ul>\n
+        \                             \n                          </li>\n                        \n
+        \                     </ul>\n                    </div>\n                  \n
+        \                   <div class=\"column\">\n                      <ul class=\"sub-nav-group\">\n
+        \                       <div class=\"sub-menu-header\">Planning for Retirement</div>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"retire-how-much-needed\" href=\"/retirement/3-ways-to-calculate-how-much-to-save-for-retiremen.aspx\">How
+        much do I need to retire?</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"retire-how-much-save\" href=\"/retirement/how-much-you-should-save-for-retirement-by-salary.aspx\">How
+        much should I be saving?</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"retire-when\" href=\"/retirement/5-steps-to-making-sure-youre-ready-to-retire.aspx\">When
+        To Retire</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"retire-social-security\" href=\"/retirement/social-security-a-comprehensive-guide.aspx\">Factoring
+        in Social Security </a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"retire-investings\" href=\"/how-to-invest/investing-strategies-retirement-asset-allocation.aspx\">Investing
+        for Retirement\L\L</a>\n                              \n                          </li>\n
+        \                       \n                      </ul>\n                    </div>\n
+        \                 \n                    <div class=\"column\">\n                      <ul
+        class=\"sub-nav-group\">\n                        <div class=\"sub-menu-header\">Retired:
+        What Now?</div>\n                        \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"retire-year\" href=\"/retirement/planning-to-retire-in-2020-a-complete-guide.aspx\">Retiring
+        in 2021</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"retire-withdrawl-strategies\" href=\"/retirement/a-retirees-guide-to-selling-investments.aspx\">Withdrawal
+        Strategies</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"retire-healthcare\" href=\"/retirement/how-to-save-money-on-healthcare-in-retirement.aspx\">Healthcare
+        in Retirement</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"retire-taxes\" href=\"/taxes/how-to-minimize-taxes-in-retirement.aspx\">Taxes
+        in Retirement</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"retire-estate\" href=\"/retirement/estate-planning-checklist-everything-need-to-know.aspx\">Estate
+        Planning</a>\n                              \n                          </li>\n
+        \                       \n                      </ul>\n                    </div>\n
+        \                 \n                  </div>\n                </div>\n              </div>\n
+        \           </div>\n          </li>\n         \n          <li class=\"nav-item
+        main-menu-item dropdown\">\n            <a id=\"topnav-stocks\" href=\"javascript:void(0)\">\n
+        \               Personal Finance\n                <svg class=\"fa-svg-icon\"><use
+        xlink:href=\"#caret-down\"></use></svg>\n            </a>\n            <div
+        class=\"sub-nav sub-menu\">\n              <div class=\"mega-menu-wrapper\">\n
+        \               <div class=\"mega-menu-wrapper-content sub-nav\">\n                  <div
+        class=\"columns\" id=\"stocks-subnav\">\n                  \n\n                  \n
+        \                   <div class=\"column\">\n                      <ul class=\"sub-nav-group\">\n
+        \                       <div class=\"sub-menu-header\">Credit Cards</div>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-credit-cards\" href=\"https://www.fool.com/the-ascent/credit-cards/\">Best
+        Credit Cards</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-cash-back-cards\" href=\"https://www.fool.com/the-ascent/credit-cards/best-cash-back-credit-card/\">Best
+        Cash Back Cards</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-best-balance-transfer-cards\" href=\"https://www.fool.com/the-ascent/credit-cards/best-balance-transfer-credit-cards/\">Best
+        Balance Transfer Cards</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-best-travel-credit-cards\" href=\"https://www.fool.com/the-ascent/credit-cards/best-travel-rewards-credit-cards/\">Best
+        Travel Credit Cards</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-best-zero-interest-cards\" href=\"https://www.fool.com/the-ascent/credit-cards/best-zero-interest-cards/\">Best
+        0% Credit Cards</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-rewards-cards\" href=\"https://www.fool.com/the-ascent/credit-cards/best-rewards-credit-cards/\">Best
+        Rewards Cards</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-best-cards-for-bad-credit\" href=\"https://www.fool.com/the-ascent/credit-cards/bad-credit/\">Best
+        Cards for Bad Credit</a>\n                              \n                          </li>\n
+        \                       \n                      </ul>\n                    </div>\n
+        \                 \n                    <div class=\"column\">\n                      <ul
+        class=\"sub-nav-group\">\n                        <div class=\"sub-menu-header\">Bank
+        &amp; Loans</div>\n                        \n                          <li
+        class=\"sub-menu-link\">\n                            <a id=\"asc-best-savings-accounts\"
+        href=\"https://www.fool.com/the-ascent/banks/best-savings-accounts/\">Best
+        Savings Accounts</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-best-checking-accounts\" href=\"https://www.fool.com/the-ascent/banks/checking-accounts/\">Best
+        Checking Accounts</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-best-cd-rates\" href=\"https://www.fool.com/the-ascent/banks/best-cd-rates/\">Best
+        CD Rates</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-personal-loans\" href=\"https://www.fool.com/the-ascent/personal-loans/\">Best
+        Personal Loans</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-debt-consolidation-loans\" href=\"https://www.fool.com/the-ascent/personal-loans/best-personal-loans-debt-consolidation/\">Best
+        Debt Consolidation Loans</a>\n                              \n                          </li>\n
+        \                       \n                      </ul>\n                    </div>\n
+        \                 \n                    <div class=\"column\">\n                      <ul
+        class=\"sub-nav-group\">\n                        <div class=\"sub-menu-header\">Homebuying</div>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-best-mortgage-lenders\" href=\"https://www.fool.com/the-ascent/mortgages/\">Best
+        Mortgage Lenders</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-mortgage-refi-lenders\" href=\"https://www.fool.com/the-ascent/mortgages/best-refinance-lenders/\">Best
+        Mortgage Refi Lenders</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-lenders-for-first-time-buyers\" href=\"https://www.fool.com/the-ascent/mortgages/best-mortgage-lenders-first-time-homebuyers/\">Best
+        Lenders for First-time Buyers</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-fha-mortgage-lenders\" href=\"https://www.fool.com/the-ascent/mortgages/best-lenders-fha-loans/\">Best
+        FHA Mortgage Lenders</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-current-mortgage-rates\" href=\"https://www.fool.com/the-ascent/mortgages/rates/\">Current
+        Mortgage Rates</a>\n                              \n                          </li>\n
+        \                       \n                      </ul>\n                    </div>\n
+        \                 \n                    <div class=\"column\">\n                      <ul
+        class=\"sub-nav-group\">\n                        <div class=\"sub-menu-header\">Guides</div>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-credit-cards-101\" href=\"https://www.fool.com/the-ascent/how-credit-cards-work-beginners-guide/\">Credit
+        Cards 101</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-bank-accounts-101\" href=\"https://www.fool.com/the-ascent/banks/\">Bank
+        Accounts 101</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-home-laons-101\" href=\"https://www.fool.com/the-ascent/mortgages/beginners-guide-home-loans/\">Home
+        Loans 101</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-pay-off-debt\" href=\"https://www.fool.com/the-ascent/personal-finance/how-to-pay-off-debt/\">Pay
+        Off Debt</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"asc-increase-credit-score\" href=\"https://www.fool.com/the-ascent/personal-finance/how-to-increase-credit-score/\">Increase
+        Your Credit Score</a>\n                              \n                          </li>\n
+        \                       \n                      </ul>\n                    </div>\n
+        \                 \n                  </div>\n                </div>\n              </div>\n
+        \           </div>\n          </li>\n         \n          <li class=\"nav-item
+        main-menu-item dropdown\">\n            <a id=\"topnav-stocks\" href=\"javascript:void(0)\">\n
+        \               About Us\n                <svg class=\"fa-svg-icon\"><use
+        xlink:href=\"#caret-down\"></use></svg>\n            </a>\n            <div
+        class=\"sub-nav sub-menu\">\n              <div class=\"mega-menu-wrapper\">\n
+        \               <div class=\"mega-menu-wrapper-content sub-nav\">\n                  <div
+        class=\"columns\" id=\"stocks-subnav\">\n                  \n                    <div
+        class=\"column\">\n  <div class=\"sub-menu-header\">\n    Our Purpose:<br/
+        >To make the world smarter, happier, and richer.\n  </div>\n  <p>Founded in
+        1993 by brothers Tom and David Gardner, The Motley Fool helps millions of
+        people attain financial freedom through our website, podcasts, books, newspaper
+        column, radio show, and premium investing services.</p>\n</div>\n\n                  \n\n
+        \                 \n                    <div class=\"column\">\n                      <ul
+        class=\"sub-nav-group\">\n                        <div class=\"sub-menu-header\">Who
+        Is the Motley Fool?</div>\n                        \n                          <li
+        class=\"sub-menu-link\">\n                            <a id=\"community-about\"
+        href=\"/about/\">About Us</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"community-reviews\" href=\"/about/reviews/\">Reviews</a>\n
+        \                             \n                          </li>\n                        \n
+        \                         <li class=\"sub-menu-link\">\n                            <a
+        id=\"community-foolanthropy\" href=\"https://give.fool.com\">Foolanthropy</a>\n
+        \                             \n                          </li>\n                        \n
+        \                         <li class=\"sub-menu-link\">\n                            <a
+        id=\"community-media\" href=\"/contact/press-inquiries/\">Media Inquiries</a>\n
+        \                             \n                          </li>\n                        \n
+        \                         <li class=\"sub-menu-link\">\n                            <a
+        id=\"community-contactus\" href=\"/contact/customer-service\">Contact Us</a>\n
+        \                             \n                          </li>\n                        \n
+        \                     </ul>\n                    </div>\n                  \n
+        \                   <div class=\"column\">\n                      <ul class=\"sub-nav-group\">\n
+        \                       <div class=\"sub-menu-header\">Fool Podcasts</div>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"community-podcast-mfm\" href=\"/podcasts/motley-fool-money/\">Motley
+        Fool Money</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"community-podcast-mf\" href=\"/podcasts/marketfoolery/\">Marketfoolery</a>\n
+        \                             \n                          </li>\n                        \n
+        \                         <li class=\"sub-menu-link\">\n                            <a
+        id=\"community-podcast-if\" href=\"/podcasts/industry-focus\">Industry Focus</a>\n
+        \                             \n                          </li>\n                        \n
+        \                         <li class=\"sub-menu-link\">\n                            <a
+        id=\"community-podcast-mfa\" href=\"/podcasts/answers/\">Motley Fool Answers</a>\n
+        \                             \n                          </li>\n                        \n
+        \                         <li class=\"sub-menu-link\">\n                            <a
+        id=\"community-podcast-rbi\" href=\"/podcasts/rule-breaker-investing/\">Rule
+        Breaker Investing</a>\n                              \n                          </li>\n
+        \                       \n                      </ul>\n                    </div>\n
+        \                 \n                    <div class=\"column\">\n                      <ul
+        class=\"sub-nav-group\">\n                        <div class=\"sub-menu-header\">Social
+        Media + </div>\n                        \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"community-facebook\" href=\"https://www.facebook.com/themotleyfool/\">Facebook</a>\n
+        \                             \n                          </li>\n                        \n
+        \                         <li class=\"sub-menu-link\">\n                            <a
+        id=\"community-twitter\" href=\"https://twitter.com/themotleyfool\">Twitter</a>\n
+        \                             \n                          </li>\n                        \n
+        \                         <li class=\"sub-menu-link\">\n                            <a
+        id=\"community-youtube\" href=\"https://www.youtube.com/channel/UCpRQuynBX9Qy9tPrcswpPag\">YouTube</a>\n
+        \                             \n                          </li>\n                        \n
+        \                         <li class=\"sub-menu-link\">\n                            <a
+        id=\"community-boards\" href=\"https://boards.fool.com/\">Discussion Boards</a>\n
+        \                             \n                          </li>\n                        \n
+        \                         <li class=\"sub-menu-link\">\n                            <a
+        id=\"community-caps\" href=\"https://caps.fool.com/\">CAPS - Stock Picking
+        Community</a>\n                              \n                          </li>\n
+        \                       \n                      </ul>\n                    </div>\n
+        \                 \n                    <div class=\"column\">\n                      <ul
+        class=\"sub-nav-group\">\n                        <div class=\"sub-menu-header\">New
+        Ventures</div>\n                        \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"about-ascent\" href=\"https://www.fool.com/the-ascent/\">The
+        Ascent</a>\n                              \n                          </li>\n
+        \                       \n                          <li class=\"sub-menu-link\">\n
+        \                           <a id=\"about-millionacres\" href=\"https://www.fool.com/millionacres/\">Millionacres</a>\n
+        \                             \n                          </li>\n                        \n
+        \                         <li class=\"sub-menu-link\">\n                            <a
+        id=\"about-blueprint\" href=\"https://www.fool.com/the-blueprint/\">The Blueprint</a>\n
+        \                             \n                          </li>\n                        \n
+        \                     </ul>\n                    </div>\n                  \n
+        \                 </div>\n                </div>\n              </div>\n            </div>\n
+        \         </li>\n         \n    </ul>\n</nav>\n\n    <button class=\"navigation-menu-button\"
+        id=\"mobile-menu-toggle\" role=\"button\">\n    <svg class=\"fa-svg-icon icon-bars\"><use
+        xlink:href=\"#bars\"></use></svg>\n    <svg class=\"fa-svg-icon icon-close\"><use
+        xlink:href=\"#times\"></use></svg>\n</button>\n<nav class=\"mobile-nav-container\">\n
+        \   <ul class=\"mobile-nav\">\n        \n            <li class=\"main-menu-item\">\n
+        \               <a id=\"m-topnav-picks\" href=\"https://www.fool.com/#services-section\">Latest
+        Stock Picks</a>\n            </li>\n        \n\n        \n          <li class=\"main-menu-item
+        dropdown\">\n            <div class=\"main-menu-item-link-wrapper\" onclick=\"return
+        true\">\n                <span class=\"main-menu-item-link\">\n                    <span
+        class=\"dropdown\" id=\"topnav-stocks\">\n                         Investing
+        Basics\n                        <svg class=\"fa-svg-icon\"><use xlink:href=\"#angle-right\"></use></svg>\n
+        \                   </span>\n                </span>\n            </div>\n
+        \           <ul class=\"sub-menu\">\n                <div class=\"mega-menu-wrapper\">\n
+        \                   <header class=\"sub-menu-name\">\n                         Investing
+        Basics\n                        <button class=\"btn-level-up\">\n                            <svg
+        class=\"fa-svg-icon\"><use xlink:href=\"#chevron-left\"></use></svg>\n                        </button>\n
+        \                   </header>\n                    \n                      <div
+        class=\"mega-menu-wrapper-content dub-nav\">\n                        <div
+        class=\"columns\" id=\"hti-subnav\">\n                          <!-- links
+        loaded dynamically via postLoadHeaderLinks.js -->\n                          <div
+        class=\"column promo-box-column sub-nav-group\">\n                            <a
+        id=\"hti-sa-ad\" class=\"sub-menu-link\" class=\"promo-box banner\">\n                              <img
+        src=\"https://s3.foolcdn.com/misc-assets/nav-ad-sa.png\" alt=\"MotleyFool
+        Beating The Market Since 2003\">\n                            </a>\n                          </div>\n
+        \                         <div class=\"column \">\n                            <ul
+        class=\"sub-nav-group\">\n                              <div class=\"sub-menu-header\">Investing
+        101</div>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"stocks-how-to-invest\"
+        href=\"/investing/how-to-invest/\">How to Invest Money</a>\n                                    \n
+        \                               </li>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"stocks-what-to-invest-in\"
+        href=\"/investing/how-to-invest/what-to-invest-in/\">What to Invest In</a>\n
+        \                                   \n                                      <ul
+        class=\"sub-menu-subitem\">\n                                      \n                                          <li
+        class=\"sub-menu-link\"><a href=\"/investing/how-to-invest/stocks/\">How to
+        Invest in Stocks</a></li>\n                                      \n                                          <li
+        class=\"sub-menu-link\"><a href=\"/investing/how-to-invest/index-funds/\">How
+        to Invest in Index Funds</a></li>\n                                      \n
+        \                                         <li class=\"sub-menu-link\"><a href=\"https://www.fool.com/investing/how-to-invest/etfs/\">How
+        to Invest in ETFs</a></li>\n                                      \n                                      </ul>\n
+        \                                 \n                                </li>\n
+        \                             \n                            </ul>\n                          </div>\n
+        \                       </div>\n                      </div>\n\n                    \n
+        \                     <div class=\"mega-menu-wrapper-content dub-nav\">\n
+        \                       <div class=\"columns\" id=\"hti-subnav\">\n                          <!--
+        links loaded dynamically via postLoadHeaderLinks.js -->\n                          <div
+        class=\"column promo-box-column sub-nav-group\">\n                            <a
+        id=\"hti-sa-ad\" class=\"sub-menu-link\" class=\"promo-box banner\">\n                              <img
+        src=\"https://s3.foolcdn.com/misc-assets/nav-ad-sa.png\" alt=\"MotleyFool
+        Beating The Market Since 2003\">\n                            </a>\n                          </div>\n
+        \                         <div class=\"column \">\n                            <ul
+        class=\"sub-nav-group\">\n                              <div class=\"sub-menu-header\">Best
+        Accounts</div>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"best-accounts-brokerage\"
+        href=\"https://www.fool.com/the-ascent/buying-stocks/\">Best Stock Brokers</a>\n
+        \                                   \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"best-beginners-brokers\" href=\"https://www.fool.com/the-ascent/buying-stocks/best-online-stock-brokers-beginners/\">Best
+        Brokers for Beginners</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"best-accounts-ira\" href=\"https://www.fool.com/the-ascent/buying-stocks/best-brokers-iras/\">Best
+        IRA Accounts</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"best-accounts-roth-ira\" href=\"https://www.fool.com/the-ascent/buying-stocks/best-roth-ira/\">Best
+        Roth IRA Accounts</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"best-options-brokers\" href=\"https://www.fool.com/the-ascent/buying-stocks/best-brokers-options/\">Best
+        Options Brokers</a>\n                                    \n                                </li>\n
+        \                             \n                            </ul>\n                          </div>\n
+        \                       </div>\n                      </div>\n\n                    \n
+        \                     <div class=\"mega-menu-wrapper-content dub-nav\">\n
+        \                       <div class=\"columns\" id=\"hti-subnav\">\n                          <!--
+        links loaded dynamically via postLoadHeaderLinks.js -->\n                          <div
+        class=\"column promo-box-column sub-nav-group\">\n                            <a
+        id=\"hti-sa-ad\" class=\"sub-menu-link\" class=\"promo-box banner\">\n                              <img
+        src=\"https://s3.foolcdn.com/misc-assets/nav-ad-sa.png\" alt=\"MotleyFool
+        Beating The Market Since 2003\">\n                            </a>\n                          </div>\n
+        \                         <div class=\"column \">\n                            <ul
+        class=\"sub-nav-group\">\n                              <div class=\"sub-menu-header\">Stock
+        Market Basics</div>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"stock-market-basics-stock-market-101\"
+        href=\"/investing/stock-market/\">Stock Market 101</a>\n                                    \n
+        \                                     <ul class=\"sub-menu-subitem\">\n                                      \n
+        \                                         <li class=\"sub-menu-link\"><a href=\"/investing/stock-market/types-of-stocks/\">Types
+        of Stocks</a></li>\n                                      \n                                          <li
+        class=\"sub-menu-link\"><a href=\"/investing/stock-market/market-sectors/\">Stock
+        Market Sectors</a></li>\n                                      \n                                          <li
+        class=\"sub-menu-link\"><a href=\"/investing/stock-market/indexes/\">Stock
+        Market Indexes</a></li>\n                                      \n                                          <li
+        class=\"sub-menu-link\"><a href=\"/investing/stock-market/indexes/sp-500/\">S&amp;P
+        500</a></li>\n                                      \n                                          <li
+        class=\"sub-menu-link\"><a href=\"/investing/stock-market/indexes/dow-jones/\">Dow
+        Jones</a></li>\n                                      \n                                          <li
+        class=\"sub-menu-link\"><a href=\"/investing/stock-market/indexes/nasdaq/\">Nasdaq
+        Composite</a></li>\n                                      \n                                      </ul>\n
+        \                                 \n                                </li>\n
+        \                             \n                            </ul>\n                          </div>\n
+        \                       </div>\n                      </div>\n\n                    \n
+        \               </div>\n            </ul>\n        </li>\n        \n          <li
+        class=\"main-menu-item dropdown\">\n            <div class=\"main-menu-item-link-wrapper\"
+        onclick=\"return true\">\n                <span class=\"main-menu-item-link\">\n
+        \                   <span class=\"dropdown\" id=\"topnav-stocks\">\n                         Stock
+        Market\n                        <svg class=\"fa-svg-icon\"><use xlink:href=\"#angle-right\"></use></svg>\n
+        \                   </span>\n                </span>\n            </div>\n
+        \           <ul class=\"sub-menu\">\n                <div class=\"mega-menu-wrapper\">\n
+        \                   <header class=\"sub-menu-name\">\n                         Stock
+        Market\n                        <button class=\"btn-level-up\">\n                            <svg
+        class=\"fa-svg-icon\"><use xlink:href=\"#chevron-left\"></use></svg>\n                        </button>\n
+        \                   </header>\n                    \n                      <div
+        class=\"mega-menu-wrapper-content dub-nav\">\n                        <div
+        class=\"columns\" id=\"hti-subnav\">\n                          <!-- links
+        loaded dynamically via postLoadHeaderLinks.js -->\n                          <div
+        class=\"column promo-box-column sub-nav-group\">\n                            <a
+        id=\"hti-sa-ad\" class=\"sub-menu-link\" class=\"promo-box banner\">\n                              <img
+        src=\"https://s3.foolcdn.com/misc-assets/nav-ad-sa.png\" alt=\"MotleyFool
+        Beating The Market Since 2003\">\n                            </a>\n                          </div>\n
+        \                         <div class=\"column \">\n                            <ul
+        class=\"sub-nav-group\">\n                              <div class=\"sub-menu-header\">Stocks</div>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"stocks-growth-stocks\" href=\"/investing/stock-market/types-of-stocks/growth-stocks/\">Growth
+        Stocks</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"stocks-value-stocks\" href=\"/investing/stock-market/types-of-stocks/value-stocks/\">Value
+        Stocks</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"stocks-dividend-stocks\" href=\"/investing/stock-market/types-of-stocks/dividend-stocks/\">Dividend
+        Stocks</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"stocks-small-cap-stocks\" href=\"/investing/stock-market/types-of-stocks/small-cap-stocks/\">Small
+        Cap Stocks</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"stocks-large-cap-stocks\" href=\"/investing/stock-market/types-of-stocks/large-cap-stocks/\">Large
+        Cap Stocks</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"stocks-blue-chip-stocks\" href=\"https://www.fool.com/investing/stock-market/types-of-stocks/blue-chip-stocks/\">Blue
+        Chip Stocks</a>\n                                    \n                                </li>\n
+        \                             \n                            </ul>\n                          </div>\n
+        \                       </div>\n                      </div>\n\n                    \n
+        \                     <div class=\"mega-menu-wrapper-content dub-nav\">\n
+        \                       <div class=\"columns\" id=\"hti-subnav\">\n                          <!--
+        links loaded dynamically via postLoadHeaderLinks.js -->\n                          <div
+        class=\"column promo-box-column sub-nav-group\">\n                            <a
+        id=\"hti-sa-ad\" class=\"sub-menu-link\" class=\"promo-box banner\">\n                              <img
+        src=\"https://s3.foolcdn.com/misc-assets/nav-ad-sa.png\" alt=\"MotleyFool
+        Beating The Market Since 2003\">\n                            </a>\n                          </div>\n
+        \                         <div class=\"column \">\n                            <ul
+        class=\"sub-nav-group\">\n                              <div class=\"sub-menu-header\">Industries
+        to Invest In</div>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"industries-to-invest-consumer-goods\"
+        href=\"/investing/stock-market/market-sectors/consumer-discretionary/\">Consumer
+        Goods</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"industries-to-invest-technology\"
+        href=\"/investing/stock-market/market-sectors/information-technology/\">Technology</a>\n
+        \                                   \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"industries-to-invest-energy\" href=\"/investing/stock-market/market-sectors/energy/\">Energy</a>\n
+        \                                   \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"industries-to-invest-healthcare\"
+        href=\"/investing/stock-market/market-sectors/healthcare/\">Healthcare</a>\n
+        \                                   \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"industries-to-invest-financial\"
+        href=\"/investing/stock-market/market-sectors/financials/\">Financial</a>\n
+        \                                   \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"industries-to-invest-communications\"
+        href=\"/investing/stock-market/market-sectors/communication/\">Communications</a>\n
+        \                                   \n                                </li>\n
+        \                             \n                            </ul>\n                          </div>\n
+        \                       </div>\n                      </div>\n\n                    \n
+        \                     <div class=\"mega-menu-wrapper-content dub-nav\">\n
+        \                       <div class=\"columns\" id=\"hti-subnav\">\n                          <!--
+        links loaded dynamically via postLoadHeaderLinks.js -->\n                          <div
+        class=\"column promo-box-column sub-nav-group\">\n                            <a
+        id=\"hti-sa-ad\" class=\"sub-menu-link\" class=\"promo-box banner\">\n                              <img
+        src=\"https://s3.foolcdn.com/misc-assets/nav-ad-sa.png\" alt=\"MotleyFool
+        Beating The Market Since 2003\">\n                            </a>\n                          </div>\n
+        \                         <div class=\"column \">\n                            <ul
+        class=\"sub-nav-group\">\n                              <div class=\"sub-menu-header\">News</div>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"news-top-stocks\" href=\"/investing/top-stocks-to-buy.aspx\">Top
+        Stocks to Buy in 2021</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"news-stock-market-news\" href=\"/investing-news/\">Stock
+        Market News</a>\n                                    \n                                </li>\n
+        \                             \n                            </ul>\n                          </div>\n
+        \                       </div>\n                      </div>\n\n                    \n
+        \               </div>\n            </ul>\n        </li>\n        \n          <li
+        class=\"main-menu-item dropdown\">\n            <div class=\"main-menu-item-link-wrapper\"
+        onclick=\"return true\">\n                <span class=\"main-menu-item-link\">\n
+        \                   <span class=\"dropdown\" id=\"topnav-stocks\">\n                         Retirement\n
+        \                       <svg class=\"fa-svg-icon\"><use xlink:href=\"#angle-right\"></use></svg>\n
+        \                   </span>\n                </span>\n            </div>\n
+        \           <ul class=\"sub-menu\">\n                <div class=\"mega-menu-wrapper\">\n
+        \                   <header class=\"sub-menu-name\">\n                         Retirement\n
+        \                       <button class=\"btn-level-up\">\n                            <svg
+        class=\"fa-svg-icon\"><use xlink:href=\"#chevron-left\"></use></svg>\n                        </button>\n
+        \                   </header>\n                    \n                      <div
+        class=\"mega-menu-wrapper-content dub-nav\">\n                        <div
+        class=\"columns\" id=\"hti-subnav\">\n                          <!-- links
+        loaded dynamically via postLoadHeaderLinks.js -->\n                          <div
+        class=\"column promo-box-column sub-nav-group\">\n                            <a
+        id=\"hti-sa-ad\" class=\"sub-menu-link\" class=\"promo-box banner\">\n                              <img
+        src=\"https://s3.foolcdn.com/misc-assets/nav-ad-sa.png\" alt=\"MotleyFool
+        Beating The Market Since 2003\">\n                            </a>\n                          </div>\n
+        \                         <div class=\"column \">\n                            <ul
+        class=\"sub-nav-group\">\n                              <div class=\"sub-menu-header\">Getting
+        Started</div>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"retire-retirement-101\"
+        href=\"/retirement/index.aspx\">Retirement 101</a>\n                                    \n
+        \                               </li>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"retire-why-start\"
+        href=\"/how-to-invest/thirteen-steps/step-1-change-your-life-with-one-calculation.aspx\">Why
+        to Start Saving Now</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"retire-types-of-accounts\" href=\"/retirement/retirement-step-4-choose-the-right-account.aspx\">Types
+        of Retirement Accounts </a>\n                                    \n                                      <ul
+        class=\"sub-menu-subitem\">\n                                      \n                                          <li
+        class=\"sub-menu-link\"><a href=\"/retirement/most-important-401k-rules-maximize-your-savings.aspx\">401k
+        Basics</a></li>\n                                      \n                                          <li
+        class=\"sub-menu-link\"><a href=\"https://www.fool.com/retirement/the-best-ira-accounts-for-you.aspx\">IRA
+        Basics\L\L</a></li>\n                                      \n                                      </ul>\n
+        \                                 \n                                </li>\n
+        \                             \n                            </ul>\n                          </div>\n
+        \                       </div>\n                      </div>\n\n                    \n
+        \                     <div class=\"mega-menu-wrapper-content dub-nav\">\n
+        \                       <div class=\"columns\" id=\"hti-subnav\">\n                          <!--
+        links loaded dynamically via postLoadHeaderLinks.js -->\n                          <div
+        class=\"column promo-box-column sub-nav-group\">\n                            <a
+        id=\"hti-sa-ad\" class=\"sub-menu-link\" class=\"promo-box banner\">\n                              <img
+        src=\"https://s3.foolcdn.com/misc-assets/nav-ad-sa.png\" alt=\"MotleyFool
+        Beating The Market Since 2003\">\n                            </a>\n                          </div>\n
+        \                         <div class=\"column \">\n                            <ul
+        class=\"sub-nav-group\">\n                              <div class=\"sub-menu-header\">Planning
+        for Retirement</div>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"retire-how-much-needed\"
+        href=\"/retirement/3-ways-to-calculate-how-much-to-save-for-retiremen.aspx\">How
+        much do I need to retire?</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"retire-how-much-save\" href=\"/retirement/how-much-you-should-save-for-retirement-by-salary.aspx\">How
+        much should I be saving?</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"retire-when\" href=\"/retirement/5-steps-to-making-sure-youre-ready-to-retire.aspx\">When
+        To Retire</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"retire-social-security\" href=\"/retirement/social-security-a-comprehensive-guide.aspx\">Factoring
+        in Social Security </a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"retire-investings\" href=\"/how-to-invest/investing-strategies-retirement-asset-allocation.aspx\">Investing
+        for Retirement\L\L</a>\n                                    \n                                </li>\n
+        \                             \n                            </ul>\n                          </div>\n
+        \                       </div>\n                      </div>\n\n                    \n
+        \                     <div class=\"mega-menu-wrapper-content dub-nav\">\n
+        \                       <div class=\"columns\" id=\"hti-subnav\">\n                          <!--
+        links loaded dynamically via postLoadHeaderLinks.js -->\n                          <div
+        class=\"column promo-box-column sub-nav-group\">\n                            <a
+        id=\"hti-sa-ad\" class=\"sub-menu-link\" class=\"promo-box banner\">\n                              <img
+        src=\"https://s3.foolcdn.com/misc-assets/nav-ad-sa.png\" alt=\"MotleyFool
+        Beating The Market Since 2003\">\n                            </a>\n                          </div>\n
+        \                         <div class=\"column \">\n                            <ul
+        class=\"sub-nav-group\">\n                              <div class=\"sub-menu-header\">Retired:
+        What Now?</div>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"retire-year\"
+        href=\"/retirement/planning-to-retire-in-2020-a-complete-guide.aspx\">Retiring
+        in 2021</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"retire-withdrawl-strategies\" href=\"/retirement/a-retirees-guide-to-selling-investments.aspx\">Withdrawal
+        Strategies</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"retire-healthcare\" href=\"/retirement/how-to-save-money-on-healthcare-in-retirement.aspx\">Healthcare
+        in Retirement</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"retire-taxes\" href=\"/taxes/how-to-minimize-taxes-in-retirement.aspx\">Taxes
+        in Retirement</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"retire-estate\" href=\"/retirement/estate-planning-checklist-everything-need-to-know.aspx\">Estate
+        Planning</a>\n                                    \n                                </li>\n
+        \                             \n                            </ul>\n                          </div>\n
+        \                       </div>\n                      </div>\n\n                    \n
+        \               </div>\n            </ul>\n        </li>\n        \n          <li
+        class=\"main-menu-item dropdown\">\n            <div class=\"main-menu-item-link-wrapper\"
+        onclick=\"return true\">\n                <span class=\"main-menu-item-link\">\n
+        \                   <span class=\"dropdown\" id=\"topnav-stocks\">\n                         Personal
+        Finance\n                        <svg class=\"fa-svg-icon\"><use xlink:href=\"#angle-right\"></use></svg>\n
+        \                   </span>\n                </span>\n            </div>\n
+        \           <ul class=\"sub-menu\">\n                <div class=\"mega-menu-wrapper\">\n
+        \                   <header class=\"sub-menu-name\">\n                         Personal
+        Finance\n                        <button class=\"btn-level-up\">\n                            <svg
+        class=\"fa-svg-icon\"><use xlink:href=\"#chevron-left\"></use></svg>\n                        </button>\n
+        \                   </header>\n                    \n                      <div
+        class=\"mega-menu-wrapper-content dub-nav\">\n                        <div
+        class=\"columns\" id=\"hti-subnav\">\n                          <!-- links
+        loaded dynamically via postLoadHeaderLinks.js -->\n                          <div
+        class=\"column promo-box-column sub-nav-group\">\n                            <a
+        id=\"hti-sa-ad\" class=\"sub-menu-link\" class=\"promo-box banner\">\n                              <img
+        src=\"https://s3.foolcdn.com/misc-assets/nav-ad-sa.png\" alt=\"MotleyFool
+        Beating The Market Since 2003\">\n                            </a>\n                          </div>\n
+        \                         <div class=\"column \">\n                            <ul
+        class=\"sub-nav-group\">\n                              <div class=\"sub-menu-header\">Credit
+        Cards</div>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"asc-credit-cards\"
+        href=\"https://www.fool.com/the-ascent/credit-cards/\">Best Credit Cards</a>\n
+        \                                   \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-cash-back-cards\" href=\"https://www.fool.com/the-ascent/credit-cards/best-cash-back-credit-card/\">Best
+        Cash Back Cards</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-best-balance-transfer-cards\"
+        href=\"https://www.fool.com/the-ascent/credit-cards/best-balance-transfer-credit-cards/\">Best
+        Balance Transfer Cards</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-best-travel-credit-cards\" href=\"https://www.fool.com/the-ascent/credit-cards/best-travel-rewards-credit-cards/\">Best
+        Travel Credit Cards</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-best-zero-interest-cards\" href=\"https://www.fool.com/the-ascent/credit-cards/best-zero-interest-cards/\">Best
+        0% Credit Cards</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-rewards-cards\" href=\"https://www.fool.com/the-ascent/credit-cards/best-rewards-credit-cards/\">Best
+        Rewards Cards</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-best-cards-for-bad-credit\"
+        href=\"https://www.fool.com/the-ascent/credit-cards/bad-credit/\">Best Cards
+        for Bad Credit</a>\n                                    \n                                </li>\n
+        \                             \n                            </ul>\n                          </div>\n
+        \                       </div>\n                      </div>\n\n                    \n
+        \                     <div class=\"mega-menu-wrapper-content dub-nav\">\n
+        \                       <div class=\"columns\" id=\"hti-subnav\">\n                          <!--
+        links loaded dynamically via postLoadHeaderLinks.js -->\n                          <div
+        class=\"column promo-box-column sub-nav-group\">\n                            <a
+        id=\"hti-sa-ad\" class=\"sub-menu-link\" class=\"promo-box banner\">\n                              <img
+        src=\"https://s3.foolcdn.com/misc-assets/nav-ad-sa.png\" alt=\"MotleyFool
+        Beating The Market Since 2003\">\n                            </a>\n                          </div>\n
+        \                         <div class=\"column \">\n                            <ul
+        class=\"sub-nav-group\">\n                              <div class=\"sub-menu-header\">Bank
+        &amp; Loans</div>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"asc-best-savings-accounts\"
+        href=\"https://www.fool.com/the-ascent/banks/best-savings-accounts/\">Best
+        Savings Accounts</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-best-checking-accounts\" href=\"https://www.fool.com/the-ascent/banks/checking-accounts/\">Best
+        Checking Accounts</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-best-cd-rates\" href=\"https://www.fool.com/the-ascent/banks/best-cd-rates/\">Best
+        CD Rates</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-personal-loans\" href=\"https://www.fool.com/the-ascent/personal-loans/\">Best
+        Personal Loans</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-debt-consolidation-loans\" href=\"https://www.fool.com/the-ascent/personal-loans/best-personal-loans-debt-consolidation/\">Best
+        Debt Consolidation Loans</a>\n                                    \n                                </li>\n
+        \                             \n                            </ul>\n                          </div>\n
+        \                       </div>\n                      </div>\n\n                    \n
+        \                     <div class=\"mega-menu-wrapper-content dub-nav\">\n
+        \                       <div class=\"columns\" id=\"hti-subnav\">\n                          <!--
+        links loaded dynamically via postLoadHeaderLinks.js -->\n                          <div
+        class=\"column promo-box-column sub-nav-group\">\n                            <a
+        id=\"hti-sa-ad\" class=\"sub-menu-link\" class=\"promo-box banner\">\n                              <img
+        src=\"https://s3.foolcdn.com/misc-assets/nav-ad-sa.png\" alt=\"MotleyFool
+        Beating The Market Since 2003\">\n                            </a>\n                          </div>\n
+        \                         <div class=\"column \">\n                            <ul
+        class=\"sub-nav-group\">\n                              <div class=\"sub-menu-header\">Homebuying</div>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-best-mortgage-lenders\" href=\"https://www.fool.com/the-ascent/mortgages/\">Best
+        Mortgage Lenders</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-mortgage-refi-lenders\" href=\"https://www.fool.com/the-ascent/mortgages/best-refinance-lenders/\">Best
+        Mortgage Refi Lenders</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-lenders-for-first-time-buyers\"
+        href=\"https://www.fool.com/the-ascent/mortgages/best-mortgage-lenders-first-time-homebuyers/\">Best
+        Lenders for First-time Buyers</a>\n                                    \n
+        \                               </li>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"asc-fha-mortgage-lenders\"
+        href=\"https://www.fool.com/the-ascent/mortgages/best-lenders-fha-loans/\">Best
+        FHA Mortgage Lenders</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-current-mortgage-rates\" href=\"https://www.fool.com/the-ascent/mortgages/rates/\">Current
+        Mortgage Rates</a>\n                                    \n                                </li>\n
+        \                             \n                            </ul>\n                          </div>\n
+        \                       </div>\n                      </div>\n\n                    \n
+        \                     <div class=\"mega-menu-wrapper-content dub-nav\">\n
+        \                       <div class=\"columns\" id=\"hti-subnav\">\n                          <!--
+        links loaded dynamically via postLoadHeaderLinks.js -->\n                          <div
+        class=\"column promo-box-column sub-nav-group\">\n                            <a
+        id=\"hti-sa-ad\" class=\"sub-menu-link\" class=\"promo-box banner\">\n                              <img
+        src=\"https://s3.foolcdn.com/misc-assets/nav-ad-sa.png\" alt=\"MotleyFool
+        Beating The Market Since 2003\">\n                            </a>\n                          </div>\n
+        \                         <div class=\"column \">\n                            <ul
+        class=\"sub-nav-group\">\n                              <div class=\"sub-menu-header\">Guides</div>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-credit-cards-101\" href=\"https://www.fool.com/the-ascent/how-credit-cards-work-beginners-guide/\">Credit
+        Cards 101</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-bank-accounts-101\" href=\"https://www.fool.com/the-ascent/banks/\">Bank
+        Accounts 101</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-home-laons-101\" href=\"https://www.fool.com/the-ascent/mortgages/beginners-guide-home-loans/\">Home
+        Loans 101</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-pay-off-debt\" href=\"https://www.fool.com/the-ascent/personal-finance/how-to-pay-off-debt/\">Pay
+        Off Debt</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"asc-increase-credit-score\" href=\"https://www.fool.com/the-ascent/personal-finance/how-to-increase-credit-score/\">Increase
+        Your Credit Score</a>\n                                    \n                                </li>\n
+        \                             \n                            </ul>\n                          </div>\n
+        \                       </div>\n                      </div>\n\n                    \n
+        \               </div>\n            </ul>\n        </li>\n        \n          <li
+        class=\"main-menu-item dropdown\">\n            <div class=\"main-menu-item-link-wrapper\"
+        onclick=\"return true\">\n                <span class=\"main-menu-item-link\">\n
+        \                   <span class=\"dropdown\" id=\"topnav-stocks\">\n                         About
+        Us\n                        <svg class=\"fa-svg-icon\"><use xlink:href=\"#angle-right\"></use></svg>\n
+        \                   </span>\n                </span>\n            </div>\n
+        \           <ul class=\"sub-menu\">\n                <div class=\"mega-menu-wrapper\">\n
+        \                   <header class=\"sub-menu-name\">\n                         About
+        Us\n                        <button class=\"btn-level-up\">\n                            <svg
+        class=\"fa-svg-icon\"><use xlink:href=\"#chevron-left\"></use></svg>\n                        </button>\n
+        \                   </header>\n                    \n                      <div
+        class=\"mega-menu-wrapper-content dub-nav\">\n                        <div
+        class=\"columns\" id=\"hti-subnav\">\n                          <!-- links
+        loaded dynamically via postLoadHeaderLinks.js -->\n                          <div
+        class=\"column promo-box-column sub-nav-group\">\n                            <a
+        id=\"hti-sa-ad\" class=\"sub-menu-link\" class=\"promo-box banner\">\n                              <img
+        src=\"https://s3.foolcdn.com/misc-assets/nav-ad-sa.png\" alt=\"MotleyFool
+        Beating The Market Since 2003\">\n                            </a>\n                          </div>\n
+        \                         <div class=\"column \">\n                            <ul
+        class=\"sub-nav-group\">\n                              <div class=\"sub-menu-header\">Who
+        Is the Motley Fool?</div>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"community-about\"
+        href=\"/about/\">About Us</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"community-reviews\" href=\"/about/reviews/\">Reviews</a>\n
+        \                                   \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"community-foolanthropy\" href=\"https://give.fool.com\">Foolanthropy</a>\n
+        \                                   \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"community-media\" href=\"/contact/press-inquiries/\">Media
+        Inquiries</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"community-contactus\" href=\"/contact/customer-service\">Contact
+        Us</a>\n                                    \n                                </li>\n
+        \                             \n                            </ul>\n                          </div>\n
+        \                       </div>\n                      </div>\n\n                    \n
+        \                     <div class=\"mega-menu-wrapper-content dub-nav\">\n
+        \                       <div class=\"columns\" id=\"hti-subnav\">\n                          <!--
+        links loaded dynamically via postLoadHeaderLinks.js -->\n                          <div
+        class=\"column promo-box-column sub-nav-group\">\n                            <a
+        id=\"hti-sa-ad\" class=\"sub-menu-link\" class=\"promo-box banner\">\n                              <img
+        src=\"https://s3.foolcdn.com/misc-assets/nav-ad-sa.png\" alt=\"MotleyFool
+        Beating The Market Since 2003\">\n                            </a>\n                          </div>\n
+        \                         <div class=\"column \">\n                            <ul
+        class=\"sub-nav-group\">\n                              <div class=\"sub-menu-header\">Fool
+        Podcasts</div>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"community-podcast-mfm\"
+        href=\"/podcasts/motley-fool-money/\">Motley Fool Money</a>\n                                    \n
+        \                               </li>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"community-podcast-mf\"
+        href=\"/podcasts/marketfoolery/\">Marketfoolery</a>\n                                    \n
+        \                               </li>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"community-podcast-if\"
+        href=\"/podcasts/industry-focus\">Industry Focus</a>\n                                    \n
+        \                               </li>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"community-podcast-mfa\"
+        href=\"/podcasts/answers/\">Motley Fool Answers</a>\n                                    \n
+        \                               </li>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"community-podcast-rbi\"
+        href=\"/podcasts/rule-breaker-investing/\">Rule Breaker Investing</a>\n                                    \n
+        \                               </li>\n                              \n                            </ul>\n
+        \                         </div>\n                        </div>\n                      </div>\n\n
+        \                   \n                      <div class=\"mega-menu-wrapper-content
+        dub-nav\">\n                        <div class=\"columns\" id=\"hti-subnav\">\n
+        \                         <!-- links loaded dynamically via postLoadHeaderLinks.js
+        -->\n                          <div class=\"column promo-box-column sub-nav-group\">\n
+        \                           <a id=\"hti-sa-ad\" class=\"sub-menu-link\" class=\"promo-box
+        banner\">\n                              <img src=\"https://s3.foolcdn.com/misc-assets/nav-ad-sa.png\"
+        alt=\"MotleyFool Beating The Market Since 2003\">\n                            </a>\n
+        \                         </div>\n                          <div class=\"column
+        \">\n                            <ul class=\"sub-nav-group\">\n                              <div
+        class=\"sub-menu-header\">Social Media + </div>\n                              \n
+        \                               <li class=\"sub-menu-link\">\n                                  <a
+        id=\"community-facebook\" href=\"https://www.facebook.com/themotleyfool/\">Facebook</a>\n
+        \                                   \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"community-twitter\" href=\"https://twitter.com/themotleyfool\">Twitter</a>\n
+        \                                   \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"community-youtube\" href=\"https://www.youtube.com/channel/UCpRQuynBX9Qy9tPrcswpPag\">YouTube</a>\n
+        \                                   \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"community-boards\" href=\"https://boards.fool.com/\">Discussion
+        Boards</a>\n                                    \n                                </li>\n
+        \                             \n                                <li class=\"sub-menu-link\">\n
+        \                                 <a id=\"community-caps\" href=\"https://caps.fool.com/\">CAPS
+        - Stock Picking Community</a>\n                                    \n                                </li>\n
+        \                             \n                            </ul>\n                          </div>\n
+        \                       </div>\n                      </div>\n\n                    \n
+        \                     <div class=\"mega-menu-wrapper-content dub-nav\">\n
+        \                       <div class=\"columns\" id=\"hti-subnav\">\n                          <!--
+        links loaded dynamically via postLoadHeaderLinks.js -->\n                          <div
+        class=\"column promo-box-column sub-nav-group\">\n                            <a
+        id=\"hti-sa-ad\" class=\"sub-menu-link\" class=\"promo-box banner\">\n                              <img
+        src=\"https://s3.foolcdn.com/misc-assets/nav-ad-sa.png\" alt=\"MotleyFool
+        Beating The Market Since 2003\">\n                            </a>\n                          </div>\n
+        \                         <div class=\"column \">\n                            <ul
+        class=\"sub-nav-group\">\n                              <div class=\"sub-menu-header\">New
+        Ventures</div>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"about-ascent\"
+        href=\"https://www.fool.com/the-ascent/\">The Ascent</a>\n                                    \n
+        \                               </li>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"about-millionacres\"
+        href=\"https://www.fool.com/millionacres/\">Millionacres</a>\n                                    \n
+        \                               </li>\n                              \n                                <li
+        class=\"sub-menu-link\">\n                                  <a id=\"about-blueprint\"
+        href=\"https://www.fool.com/the-blueprint/\">The Blueprint</a>\n                                    \n
+        \                               </li>\n                              \n                            </ul>\n
+        \                         </div>\n                        </div>\n                      </div>\n\n
+        \                   \n                </div>\n            </ul>\n        </li>\n
+        \       \n\n        \n            <li class=\"main-menu-item\" id=\"Help\">\n
+        \               <a id=\"m-topnav-help\" href=\"https://support.fool.com\">Help</a>\n
+        \           </li>\n            <li class=\"main-menu-item\" id=\"logIn\">\n
+        \               <a id=\"m-topnav-login\" href=\"/auth/authenticate/?source=ilgsittph0000001\">Login</a>\n
+        \           </li>\n        \n    </ul>\n</nav>\n<div class=\"mobile-nav-overlay\"></div>\n\n\n
+        \   <div class=\"header-search-wrapper\">\n      <button class=\"header-search-wrapper-toggle\">\n
+        \       <svg class=\"fa-svg-icon icon-search\"><use xlink:href=\"#search\"></use></svg>\n
+        \       <svg class=\"fa-svg-icon icon-close\"><use xlink:href=\"#times\"></use></svg>\n
+        \     </button>\n      <div class=\"header-search-form-wrapper\"><form name=\"lookup\"
+        action=\"/fooldotcom/searchredirect/\" class=\"header-search-form\">\n\t<span
+        class=\"sr-only\">Search</span>\n\t<label for=\"fool-search\" class=\"fool-search-label\"
+        style=\"display:none;\">\n\t    Search:\n\t</label>\n\t<input name=\"query\"
+        label=\"search\" id=\"fool-search\" class=\"ticker-input-input\" placeholder=\"Company
+        Search\" role=\"search\" aria-hidden=\"false\" aria-haspopup=\"true\" autocomplete=\"off\"/>\n
+        \   <input type=\"submit\" class=\"sr-only\" value=\"Go\">\n    <div id=\"header-search-submit\">\n
+        \       <svg class=\"fa-svg-icon\"><use xlink:href=\"#search\"></use></svg>\n
+        \   </div>\n</form>\n</div>\n    </div>\n  </div>\n\n  <div class=\"color-line\">\n
+        \   <div class=\"color magenta\"></div>\n    <div class=\"color royalpurple\"></div>\n</div>\n</header>\n\n
+        \       \n      </section>\n\n      <div class=\"content-container\">\n        \n\n
+        \       \n\n    \n        \n<div id=\"sticky-wrapper\">\n  <header class=\"header-ads-container
+        sticky-header-ads-container\" >\n       <section class=\"header-ads ad\">\n
+        \          \n               \n                \n\n\n<!-- Create container
+        for ad -->\n    <!--Regular Ad --> <!--header_desk_sticky-->\n<div id='div-header_desk_sticky-42899'
+        class='dfp-ads wide'>\n    <script type=\"text/javascript\">\n        googletag.cmd.push(function()
+        {\n            googletag.display('div-header_desk_sticky-42899');\n        });\n
+        \   </script>\n</div>\n\n               \n           \n       </section>\n
+        \  </header>\n</div>\n\n    \n\n    <section id=\"article-page\" class=\"main-content-section
+        page-body\" >\n        <section id=\"main-content\">\n            <div class=\"endless-body\">\n
+        \               \n                    <div class=\"full_article\" style=\"overflow:hidden\"
+        id=\"article-1\">\n                        <section class=\"usmf-new article-header\">\n
+        \                           \n                            <header>\n                                <div
+        id=\"adv_text\" class=\"adv-heading\"></div>\n                                <h1>NIO,
+        Fisker Drive Markets Higher; Norwegian Sinks Cruise Ship Stocks</h1>\n                                <h2>Key
+        trends are creating crosscurrents in the broader market.</h2>\n                            </header>\n
+        \                           \n                        </section>\n\n\n                        <div
+        class=\"main-col\">\n                            <!--placeholder-->\n                            \n\n
+        \                               \n                                \n\n\n<div
+        class=\"row author-tagline author-inline\">\n    <div class=\"author-tagline-top\">\n
+        \       <div class=\"author-avatar\">\n            \n                <img
+        src=\"https://g.foolcdn.com/avatar/726979/large.ashx\" alt=\"Dan Caplinger\"/>\n
+        \           \n        </div>\n        <div class=\"author-and-date\">\n            <div
+        class=\"author-name\">\n                <svg class=\"fa-svg-icon\"> <use xlink:href=\"#user-tie\"></use></svg>\n
+        \               \n                    <a href=\"https://www.fool.com/author/1494/\">Dan
+        Caplinger</a>\n                    <div class=\"author-username\">\n                         (TMFGalagan)\n
+        \                   </div>\n                \n            </div>\n            <div
+        class=\"publication-date\">\n                <svg class=\"fa-svg-icon\"> <use
+        xlink:href=\"#calendar-alt\"></use></svg>\n                \n                    \n
+        \                       Nov 2, 2020 at 11:14AM\n                    \n                \n
+        \           </div>\n            \n            \n            \n                <div
+        class=\"author-bio\">\n                    <svg class=\"fa-svg-icon\"><use
+        xlink:href=\"#caret-up\"></use></svg>\n                    <div class=\"author-bio-popup-container\">\n
+        \                       <span>Author Bio</span>\n                        <div
+        class=\"author-bio-popup\">Dan Caplinger has been a contract writer for the
+        Motley Fool since 2006. As the Fool's Director of Investment Planning, Dan
+        oversees much of the personal-finance and investment-planning content published
+        daily on Fool.com. With a background as an estate-planning attorney and independent
+        financial consultant, Dan's articles are based on more than 20 years of experience
+        from all angles of the financial world.\n<a href=\"https://twitter.com/DanCaplinger\"
+        class=\"twitter-follow-button\" data-show-count=\"true\" data-size=\"large\">Follow
+        @DanCaplinger</a>\n<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=\"//platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");</script></div>\n
+        \                   </div>\n                </div>\n            \n        </div>\n
+        \   </div>\n\n    \n        <div class=\"author-disclaimer\">\n            This
+        article represents the opinion of the writer, who may disagree with the \u201Cofficial\u201D
+        recommendation position of a Motley Fool premium advisory service. We\u2019re
+        motley! Questioning an investing thesis -- even one of our own -- helps us
+        all think critically about investing and make decisions that help us become
+        smarter, happier, and richer.\n        </div>\n    \n\n    \n        <a href=\"https://twitter.com/@DanCaplinger\"
+        class=\"twitter-follow-button\" data-show-count=\"true\" data-size=\"large\">\n
+        \           Follow @DanCaplinger\n        </a>\n    \n</div>\n\n                                \n\n
+        \                               \n                                <section
+        class=\"usmf-new article-body\">\n                                    <span
+        class=\"article-content\">\n                                        <p>The
+        first trading day of November brought a rally to Wall Street, as investors
+        sought to claw back some of the losses from the previous week's market action.
+        It's not as though any of the concerns that market participants have gone
+        away over the weekend, as COVID-19 case counts remained high and Tuesday's
+        presidential election promises to create plenty of drama. However, investors
+        seemed willing to see at least the possibility that markets might not do a
+        repeat of the bear market from late February and March. As of 10 a.m. EST,
+        the <strong>Dow Jones Industrial Average </strong><span class=\"ticker\" data-id=\"220471\">(<a
+        href=\"https://www.fool.com/quote/djindices/dow-jones-industrial-average-price-return/%5Edji/\">DJINDICES:^DJI</a>)</span>
+        was up 376 points to 26,878. The <strong>S&amp;P 500</strong> <span class=\"ticker\"
+        data-id=\"220472\">(<a href=\"https://www.fool.com/quote/snpindex/sp-500-price-return/%5Egspc/\">SNPINDEX:^GSPC</a>)</span>
+        gained 47 points to 3,317, and the <strong>Nasdaq Composite</strong> <span
+        class=\"ticker\" data-id=\"220473\">(<a href=\"https://www.fool.com/quote/nasdaqindex/nasdaq-composite-index-price-return/%5Eixic/\">NASDAQINDEX:^IXIC</a>)</span>
+        moved higher by 154 points to 11,065.</p>\n<p>In uncertain times, investors
+        like to stick with what works, and that was evident from the appetite for
+        shares of electric-vehicle manufacturers <strong>NIO </strong><span class=\"ticker\"
+        data-id=\"340413\">(<a href=\"https://www.fool.com/quote/nyse/nio-inc/nio/\">NYSE:NIO</a>)</span>
+        and <strong>Fisker </strong><span class=\"ticker\" data-id=\"343268\">(<a
+        href=\"https://www.fool.com/quote/nyse/fisker-inc/fsr/\">NYSE:FSR</a>)</span>.
+        Meanwhile, cruise ship stocks continued to feel the pain, and even as a key
+        regulatory block went away, shares of <strong>Norwegian Cruise Line Holdings
+        </strong><span class=\"ticker\" data-id=\"284388\">(<a href=\"https://www.fool.com/quote/nyse/norwegian-cruise-line-holdings-ltd/nclh/\">NYSE:NCLH</a>)</span>
+        reacted to downbeat news.</p>\n<h2>An electric performance</h2>\n<p>Shares
+        of electric automakers NIO and Fisker sprang out of the gate on Monday. The
+        two stocks were neck and neck, both rising 12% at 10 a.m. EST.</p>\n<div class=\"image\"><img
+        alt=\"Blue NIO EC6 sedan SUV, as seen on street corner in front of green building.\"
+        src=\"https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F598180%2Fnio-ec6.jpg&amp;w=700&amp;op=resize\"
+        srcset=\"https://g.foolcdn.com/image/?url=https%3A//g.foolcdn.com/editorial/images/598180/nio-ec6.jpg&amp;w=300&amp;op=resize
+        300w, https://g.foolcdn.com/image/?url=https%3A//g.foolcdn.com/editorial/images/598180/nio-ec6.jpg&amp;w=1000&amp;op=resize
+        1000w, https://g.foolcdn.com/image/?url=https%3A//g.foolcdn.com/editorial/images/598180/nio-ec6.jpg&amp;w=2000&amp;op=resize
+        2000w\"/>\n<p class=\"caption\">Image source: NIO.</p>\n</div>\n<p>For NIO,
+        good news on October sales justified the big up move. October delivery figures
+        came in at 5,055, doubling last year's 2,526 delivery count. NIO's product
+        mix was impressive, as the Chinese automaker sold 2,695 of its ES6 SUVs, 1,477
+        larger ES8 SUV models, and 883 of the company's latest EC6 coupe SUVs. Year
+        to date, NIO is on pace to more than double its annual delivery count from
+        2019.</p>\n<p>Meanwhile, Fisker's gains came as investors finally seemed to
+        realize that the company had <a href=\"https://www.fool.com/investing/2020/10/07/3-electric-car-ipos-to-add-to-your-watchlist/\">completed
+        its going-public transaction last Friday</a>. The company was the buyout target
+        of special purpose acquisition company Spartan Energy Acquisition, and Fisker
+        adopted its new ticker at the beginning of last Friday's trading session.
+        Orders for the much-anticipated Ocean SUV have been strong, and Fisker has
+        a whole line of products planned for future years.</p><div class=\"interad\"></div>\n<p>Electric
+        car companies have been popular, and it'll be interesting to see how Fisker
+        in particular does. Even with some <a href=\"https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/\">automakers</a>
+        having given up their early gains, Fisker and NIO have the potential to do
+        well if they can keep up their momentum.</p>\n<h2>Norwegian keeps passengers
+        onshore a little longer</h2>\n<p>Meanwhile, Norwegian Cruise Line Holdings
+        suffered a 6% drop. The cruise operator has finally pulled the plug on operations
+        for the rest of the year, even though a regulatory decision seemed to open
+        the possibility of a return to normal operating conditions sooner than that.</p>\n<p>Norwegian
+        said it would suspend all of its cruises scheduled between now and Dec. 31.
+        The company had already given up on November cruises, but the elimination
+        of December sailings came as a surprise to many.</p>\n<p>The move came despite
+        the fact that the Centers for Disease Control and Prevention allowed its no-sail
+        order to expire on Oct. 31. In its place, the <a href=\"https://www.fool.com/investing/2020/10/30/time-sensitive-why-carnival-corporation-norwegian/\">CDC
+        issued a conditional sail order</a> that set up a phased-in approach toward
+        returning Americans to the high seas.</p><div class=\"interad\"></div>\n<p>Norwegian's
+        decision was disappointing, but it makes sense that the cruise operator will
+        need time to convince regulators that it has the health and safety protocols
+        in place to handle COVID-19 outbreaks safely if they occur. Unfortunately,
+        other cruise lines are likely to follow suit, ending hopes among travelers
+        to get on board as soon as possible.</p>\n<p></p><div id=\"pitch\"></div>\n
+        \                                   </span>\n                                    <span
+        class=\"article-disclosure\" data-content='&lt;p&gt;&lt;em&gt;&lt;a href=&quot;http://boards.fool.com/profile/TMFGalagan/info.aspx&quot;&gt;Dan
+        Caplinger&lt;/a&gt; has no position in any of the stocks mentioned. The Motley
+        Fool has no position in any of the stocks mentioned. The Motley Fool has a
+        &lt;a href=&quot;http://www.fool.com/Legal/fool-disclosure-policy.aspx&quot;&gt;disclosure
+        policy&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;'></span>\n\n                                    \n
+        \                                       \n<div class=\"special-message\">\n
+        \   <div class=\"promoboxAd\">\n        <div id='div-promobox-78937' data-params='{\"divId\":
+        \"div-promobox-78937\", \"placement\": \"promobox\", \"height\": 300, \"width\":
+        470, \"pos\": 0, \"position\": 0, \"segment\": \"default\", \"seg\": \"default\",
+        \"tstrId\": \"\", \"bureau\": \"usmf-markets\", \"tickers\": \"[\\\"\\\"]\",
+        \"primary_tickers\": [\"NCLH\", \"NIO\", \"FSR\"], \"primary_tickers_companies\":
+        [\"Norwegian Cruise Line Holdings Ltd.\", \"NIO Inc.\", \"Fisker, Inc.\"],
+        \"pitchId\": null, \"collection\": \"/investing\", \"headline\": \"NIO, Fisker
+        Drive Markets Higher; Norwegian Sinks Cruise Ship Stocks\", \"adtags\": \"[\\\"yahoo-news\\\",
+        \\\"msn\\\", \\\"default-partners\\\"]\", \"test_bucket\": 45, \"session_count\":
+        0, \"ten_or_more_sessions\": false, \"services\": [], \"uid\": \"\"}' class='promobox-content'></div><script
+        type=\"text/javascript\">fool.ui.onFirstScroll(() => {PitcherAds.get({\"divId\":
+        \"div-promobox-78937\", \"placement\": \"promobox\", \"height\": 300, \"width\":
+        470, \"pos\": 0, \"position\": 0, \"segment\": \"default\", \"seg\": \"default\",
+        \"tstrId\": \"\", \"bureau\": \"usmf-markets\", \"tickers\": \"[\\\"\\\"]\",
+        \"primary_tickers\": [\"NCLH\", \"NIO\", \"FSR\"], \"primary_tickers_companies\":
+        [\"Norwegian Cruise Line Holdings Ltd.\", \"NIO Inc.\", \"Fisker, Inc.\"],
+        \"pitchId\": null, \"collection\": \"/investing\", \"headline\": \"NIO, Fisker
+        Drive Markets Higher; Norwegian Sinks Cruise Ship Stocks\", \"adtags\": \"[\\\"yahoo-news\\\",
+        \\\"msn\\\", \\\"default-partners\\\"]\", \"test_bucket\": 45, \"session_count\":
+        0, \"ten_or_more_sessions\": false, \"services\": [], \"uid\": \"\"})});</script>\n
+        \   </div>\n</div>\n                                    \n                                </section>\n
+        \                               \n                            \n                        </div>\n\n\n
+        \                       \n                        <div class=\"side-col article-page\">\n
+        \                           <section class=\"related-content\">\n                                <div
+        class=\"info-card ad\">\n                                    \n                                    \n
+        \                                   \n\n\n<!-- Create container for ad -->\n
+        \   <!--Regular Ad --> <!--sidebar1_desk-->\n<div id='div-sidebar1_desk-64698'
+        class='dfp-ads ad'>\n    <script type=\"text/javascript\">\n        googletag.cmd.push(function()
+        {\n            googletag.display('div-sidebar1_desk-64698');\n        });\n
+        \   </script>\n</div>\n\n                                    \n                                    \n
+        \                               </div>\n\n                                <div
+        class=\"returns-card\">\n                                    <hr class=\"wayfinder-rule\"
+        />\n                                    \n\n<div class=\"content-block market-performance-card\"
+        id=\"market_performance\">\n    <h2 class=\"content-block-label color-label
+        l-yellow\">Motley Fool Returns</h2>\n    <div class=\"market-table\">\n        \n
+        \       <div class=\"item\">\n            <span class=\"market-time-period\">
+        </span>\n            <span class=\"market-value col-name Fool100\">\n                <span>Stock
+        Advisor</span>\n            </span>\n            <span class=\"market-value
+        col-name S_P\">\n              <span>S&P 500</span>\n            </span>\n
+        \       </div>\n        <div class=\"item\">\n            <span class=\"market-value
+        up Fool100\">\n                <span>588%</span>\n                <svg class=\"fa-svg-icon\">
+        <use xlink:href=\"#caret-up\"></use> </svg>\n            </span>\n            <span
+        class=\"market-value S_P\">\n                <span>120%</span>\n                <svg
+        class=\"fa-svg-icon\"> <use xlink:href=\"#caret-up\"></use> </svg>\n            </span>\n
+        \       </div>\n        \n\n        <div class=\"item market-table-cta\">\n
+        \           <p class=\"launch-info\">Stock Advisor launched in February of
+        2002. Returns as of 02/23/2021.</p>\n            <a href=\"https://www.fool.com/mms/mark/op-sa-v-sp-wdg-art\"
+        class=\"learn-more btn\" id=\"join-SA-btn\" data-id=\"join-SA-btn\">Join Stock
+        Advisor</a>\n        </div>\n        <div class=\"item market-table-graph\">\n
+        \         <span class=\"head\">Cumulative Growth of a $10,000 Investment in
+        Stock Advisor</span>\n          <span class=\"subhead\">Calculated by Time-Weighted
+        Return</span>\n          <img alt=\"Motley Fools Stock Advisor has out performed
+        the market by over 200% over the last 18 years\" src=\"https://g.foolcdn.com/misc-assets/stock-advisor-vs-sp_small.png\"/>\n
+        \       </div>\n    </div>\n</div>\n\n                                </div>\n\n
+        \                               <!-- Related Tickers Section -->\n                                \n
+        \                               <section class=\"related-tickers\">\n                                    <div
+        class=\"wayfinder with-rule\">\n                                        <hr
+        class=\"wayfinder-rule\" />\n                                        <h2>Stocks</h2>\n
+        \                                   </div>\n\n                                    \n
+        \                                     \n                                        \n\n\n<div
+        class=\"ticker-row\" data-instrument-id=\"284388\">\n    <span class=\"image-wrap\">\n
+        \       <a href=\"https://www.fool.com/quote/nyse/norwegian-cruise-line-holdings-ltd/nclh/\"
+        class=\"quote-image\">\n        <h5>NCLH</h5>\n        <img alt=\"Norwegian
+        Cruise Line Holdings Ltd. Stock Quote\"\n                data-img-src=\"https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fart%2Fcompanylogos%2Fmark%2FNCLH.png&w=64&h=64&op=resize\"\n
+        \               src=\"\" />\n        </a>\n    </span>\n    <div class=\"ticker-text-wrap\">\n
+        \       <h3>Norwegian Cruise Line Holdings Ltd.</h3>\n        <h4 class=\"h-margin-b\">\n
+        \           <span class=\"ticker\">\n                <a title=\"Norwegian
+        Cruise Line Holdings Ltd. Stock Quote\" href=\"https://www.fool.com/quote/nyse/norwegian-cruise-line-holdings-ltd/nclh/\">\n
+        \                   NYSE:<span class=\"symbol\">NCLH</span>\n                </a>\n
+        \           </span>\n        </h4>\n        \n          <aside class=\"price-quote-container
+        smaller\">\n              <h4 class=\"current-price\">\n                  $28.56\n
+        \             </h4>\n              <h4 class=\"price-change-arrow price-pos\">\n
+        \             <span style=\"position:absolute;left:-999em;\">up</span>\n              <i
+        class=\"fool-icon-arrow-up\"></i>\n\n              </h4>\n              <h4
+        class=\"price-change-amount price-pos\">\n                  $1.71\n              </h4>\n
+        \             <h4 class=\"price-change-percent price-pos\">\n                  (6.37%)\n
+        \             </h4>\n          </aside>\n        \n    </div>\n</div>\n\n
+        \                                     \n                                    \n
+        \                                     \n                                        \n\n\n<div
+        class=\"ticker-row\" data-instrument-id=\"340413\">\n    <span class=\"image-wrap\">\n
+        \       <a href=\"https://www.fool.com/quote/nyse/nio-inc/nio/\" class=\"quote-image\">\n
+        \       <h5>NIO</h5>\n        <img alt=\"NIO Inc. Stock Quote\"\n                data-img-src=\"https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fart%2Fcompanylogos%2Fmark%2FNIO.png&w=64&h=64&op=resize\"\n
+        \               src=\"\" />\n        </a>\n    </span>\n    <div class=\"ticker-text-wrap\">\n
+        \       <h3>NIO Inc.</h3>\n        <h4 class=\"h-margin-b\">\n            <span
+        class=\"ticker\">\n                <a title=\"NIO Inc. Stock Quote\" href=\"https://www.fool.com/quote/nyse/nio-inc/nio/\">\n
+        \                   NYSE:<span class=\"symbol\">NIO</span>\n                </a>\n
+        \           </span>\n        </h4>\n        \n          <aside class=\"price-quote-container
+        smaller\">\n              <h4 class=\"current-price\">\n                  $50.68\n
+        \             </h4>\n              <h4 class=\"price-change-arrow price-neg\">\n
+        \             <span style=\"position:absolute;left:-999em;\">down</span>\n
+        \             <i class=\"fool-icon-arrow-down\"></i>\n\n              </h4>\n
+        \             <h4 class=\"price-change-amount price-neg\">\n                  $-4.36\n
+        \             </h4>\n              <h4 class=\"price-change-percent price-neg\">\n
+        \                 (-7.92%)\n              </h4>\n          </aside>\n        \n
+        \   </div>\n</div>\n\n                                      \n                                    \n
+        \                                     \n                                        \n\n\n<div
+        class=\"ticker-row\" data-instrument-id=\"343268\">\n    <span class=\"image-wrap\">\n
+        \       <a href=\"https://www.fool.com/quote/nyse/fisker-inc/fsr/\" class=\"quote-image\">\n
+        \       <h5>FSR</h5>\n        <img alt=\"Fisker, Inc. Stock Quote\"\n                data-img-src=\"https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fart%2Fcompanylogos%2Fmark%2FFSR.png&w=64&h=64&op=resize\"\n
+        \               src=\"\" />\n        </a>\n    </span>\n    <div class=\"ticker-text-wrap\">\n
+        \       <h3>Fisker, Inc.</h3>\n        <h4 class=\"h-margin-b\">\n            <span
+        class=\"ticker\">\n                <a title=\"Fisker, Inc. Stock Quote\" href=\"https://www.fool.com/quote/nyse/fisker-inc/fsr/\">\n
+        \                   NYSE:<span class=\"symbol\">FSR</span>\n                </a>\n
+        \           </span>\n        </h4>\n        \n          <aside class=\"price-quote-container
+        smaller\">\n              <h4 class=\"current-price\">\n                  $18.12\n
+        \             </h4>\n              <h4 class=\"price-change-arrow price-pos\">\n
+        \             <span style=\"position:absolute;left:-999em;\">up</span>\n              <i
+        class=\"fool-icon-arrow-up\"></i>\n\n              </h4>\n              <h4
+        class=\"price-change-amount price-pos\">\n                  $0.13\n              </h4>\n
+        \             <h4 class=\"price-change-percent price-pos\">\n                  (0.72%)\n
+        \             </h4>\n          </aside>\n        \n    </div>\n</div>\n\n
+        \                                     \n                                    \n
+        \                                     \n                                        \n\n\n<div
+        class=\"ticker-row\" data-instrument-id=\"220471\">\n    <span class=\"image-wrap\">\n
+        \       <a href=\"https://www.fool.com/quote/djindices/dow-jones-industrial-average-price-return/%5edji/\"
+        class=\"quote-image\">\n        <h5>^DJI</h5>\n        <img alt=\"Dow Jones
+        Industrial Average (Price Return) Stock Quote\"\n                data-img-src=\"https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fart%2Fcompanylogos%2Fmark%2F%5EDJI.png&w=64&h=64&op=resize\"\n
+        \               src=\"\" />\n        </a>\n    </span>\n    <div class=\"ticker-text-wrap\">\n
+        \       <h3>Dow Jones Industrial Average (Price Return)</h3>\n        <h4
+        class=\"h-margin-b\">\n            <span class=\"ticker\">\n                <a
+        title=\"Dow Jones Industrial Average (Price Return) Stock Quote\" href=\"https://www.fool.com/quote/djindices/dow-jones-industrial-average-price-return/%5edji/\">\n
+        \                   DJINDICES:<span class=\"symbol\">^DJI</span>\n                </a>\n
+        \           </span>\n        </h4>\n        \n          <aside class=\"price-quote-container
+        smaller\">\n              <h4 class=\"current-price\">\n                  $31,494.32\n
+        \             </h4>\n              <h4 class=\"price-change-arrow price-none\">\n
+        \             <span style=\"position:absolute;left:-999em;\">no change</span>\n
+        \             <i class=\"\"></i>\n\n              </h4>\n              <h4
+        class=\"price-change-amount price-none\">\n                  $0.00\n              </h4>\n
+        \             <h4 class=\"price-change-percent price-none\">\n                  (0.00%)\n
+        \             </h4>\n          </aside>\n        \n    </div>\n</div>\n\n
+        \                                     \n                                    \n
+        \                                     \n                                        \n\n\n<div
+        class=\"ticker-row\" data-instrument-id=\"220472\">\n    <span class=\"image-wrap\">\n
+        \       <a href=\"https://www.fool.com/quote/snpindex/sp-500-price-return/%5egspc/\"
+        class=\"quote-image\">\n        <h5>^GSPC</h5>\n        <img alt=\"S&amp;P
+        500 Price Return Stock Quote\"\n                data-img-src=\"https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fart%2Fcompanylogos%2Fmark%2F%5EGSPC.png&w=64&h=64&op=resize\"\n
+        \               src=\"\" />\n        </a>\n    </span>\n    <div class=\"ticker-text-wrap\">\n
+        \       <h3>S&amp;P 500 Price Return</h3>\n        <h4 class=\"h-margin-b\">\n
+        \           <span class=\"ticker\">\n                <a title=\"S&amp;P 500
+        Price Return Stock Quote\" href=\"https://www.fool.com/quote/snpindex/sp-500-price-return/%5egspc/\">\n
+        \                   SNPINDEX:<span class=\"symbol\">^GSPC</span>\n                </a>\n
+        \           </span>\n        </h4>\n        \n          <aside class=\"price-quote-container
+        smaller\">\n              <h4 class=\"current-price\">\n                  $3,876.50\n
+        \             </h4>\n              <h4 class=\"price-change-arrow price-neg\">\n
+        \             <span style=\"position:absolute;left:-999em;\">down</span>\n
+        \             <i class=\"fool-icon-arrow-down\"></i>\n\n              </h4>\n
+        \             <h4 class=\"price-change-amount price-neg\">\n                  $-30.21\n
+        \             </h4>\n              <h4 class=\"price-change-percent price-neg\">\n
+        \                 (-0.77%)\n              </h4>\n          </aside>\n        \n
+        \   </div>\n</div>\n\n                                      \n                                    \n
+        \                                     \n                                        \n\n\n<div
+        class=\"ticker-row\" data-instrument-id=\"220473\">\n    <span class=\"image-wrap\">\n
+        \       <a href=\"https://www.fool.com/quote/nasdaqindex/nasdaq-composite-index-price-return/%5eixic/\"
+        class=\"quote-image\">\n        <h5>^IXIC</h5>\n        <img alt=\"NASDAQ
+        Composite Index (Price Return) Stock Quote\"\n                data-img-src=\"https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fart%2Fcompanylogos%2Fmark%2F%5EIXIC.png&w=64&h=64&op=resize\"\n
+        \               src=\"\" />\n        </a>\n    </span>\n    <div class=\"ticker-text-wrap\">\n
+        \       <h3>NASDAQ Composite Index (Price Return)</h3>\n        <h4 class=\"h-margin-b\">\n
+        \           <span class=\"ticker\">\n                <a title=\"NASDAQ Composite
+        Index (Price Return) Stock Quote\" href=\"https://www.fool.com/quote/nasdaqindex/nasdaq-composite-index-price-return/%5eixic/\">\n
+        \                   NASDAQINDEX:<span class=\"symbol\">^IXIC</span>\n                </a>\n
+        \           </span>\n        </h4>\n        \n          <aside class=\"price-quote-container
+        smaller\">\n              <h4 class=\"current-price\">\n                  $13,874.46\n
+        \             </h4>\n              <h4 class=\"price-change-arrow price-none\">\n
+        \             <span style=\"position:absolute;left:-999em;\">no change</span>\n
+        \             <i class=\"\"></i>\n\n              </h4>\n              <h4
+        class=\"price-change-amount price-none\">\n                  $0.00\n              </h4>\n
+        \             <h4 class=\"price-change-percent price-none\">\n                  (0.00%)\n
+        \             </h4>\n          </aside>\n        \n    </div>\n</div>\n\n
+        \                                     \n                                    \n
+        \                               </section>\n                                \n\n\n
+        \                               <!-- Related Articles Section -->\n                                \n
+        \                                   <section class=\"read-more-section\">\n
+        \                                       <section class=\"read-more-section
+        \">\n    \n        <div class=\"wayfinder with-rule\">\n            <hr class=\"wayfinder-rule\"/>\n
+        \           <h2>Related Articles</h2>\n        </div>\n        <ul class=\"read-more-ul\">\n
+        \           \n                <li>\n                    <a class=\"read-more-link\"
+        href=\"/investing/2020/12/22/stock-markets-mixed-why-cruise-and-travel-stocks-a/\">Stock
+        Markets Mixed; Why Cruise and Travel Stocks Aren&#39;t Celebrating a Washington
+        Breakthrough</a>\n                </li>\n            \n                <li>\n
+        \                   <a class=\"read-more-link\" href=\"/investing/2020/11/10/why-the-stock-market-cant-make-up-its-mind/\">Why
+        the Stock Market Can&#39;t Make Up Its Mind</a>\n                </li>\n            \n
+        \               <li>\n                    <a class=\"read-more-link\" href=\"/investing/2020/10/30/the-most-shocking-winners-in-fridays-stock-market/\">The
+        Most Shocking Winners in Friday&#39;s Stock Market Rout</a>\n                </li>\n
+        \           \n                <li>\n                    <a class=\"read-more-link\"
+        href=\"/investing/2020/10/26/why-is-the-stock-market-plunging-monday/\">Why
+        Is the Stock Market Plunging Monday?</a>\n                </li>\n            \n
+        \               <li>\n                    <a class=\"read-more-link\" href=\"/investing/2020/10/13/stock-markets-sink-on-cruise-ship-stock-sales-onli/\">Stock
+        Markets Sink on Cruise Ship Stock Sales; Online Travel Shares Fall</a>\n                </li>\n
+        \           \n        </ul>\n    \n</section>\n\n                                     </section>\n
+        \                               \n\n                                \n                                <hr
+        class=\"wayfinder-rule\" />\n                                <div class=\"info-card
+        ad sidebar-ads\">\n                                    <div class=\"info-card
+        ad\">\n                                        \n                                        \n
+        \                                           \n\n\n<!-- Create container for
+        ad -->\n    <!--Regular Ad --> <!--sidebar2_desk-->\n<div id='div-sidebar2_desk-46915'
+        class='dfp-ads ad'>\n    <script type=\"text/javascript\">\n        googletag.cmd.push(function()
+        {\n            googletag.display('div-sidebar2_desk-46915');\n        });\n
+        \   </script>\n</div>\n\n                                        \n                                        \n
+        \                                   </div>\n                                    <div
+        class=\"info-card-2\">\n                                        \n                                            \n\n\n<!--
+        Create container for ad -->\n    <!--Regular Ad --> <!--sidebar_button1-->\n<div
+        id='div-sidebar_button1-30405' class='dfp-ads ad-card'>\n    <script type=\"text/javascript\">\n
+        \       googletag.cmd.push(function() {\n            googletag.display('div-sidebar_button1-30405');\n
+        \       });\n    </script>\n</div>\n\n                                        \n
+        \                                   </div>\n                                </div>\n
+        \                               \n                            </section>\n
+        \                       </div>\n                        \n\n                    </div>\n
+        \               \n            </div>\n\n            <div class=\"article-page-end\">\n
+        \               <div id=\"share-box\">\n    \n    <span id=\"twitter_title\"
+        style=\"display: none\">NIO, Fisker Drive Markets Higher; Norwegian Sinks
+        Cruise Ship Stocks @themotleyfool #stocks $NCLH $NIO $FSR $^DJI $^GSPC $^IXIC</span>\n\n
+        \   \n    <a class=\"item\" id=\"share-facebook\" name=\"facebookShareButton\"
+        href=\"https://facebook.com/sharer/sharer.php?u=https://www.fool.com/investing/2020/11/02/nio-fisker-drive-markets-higher-norwegian-sinks-cr/\"
+        target=\"_blank\" aria-label=\"Share on Facebook\">\n        <svg class=\"fa-svg-icon\">
+        <use xlink:href=\"#facebook-f\"></use> </svg>\n    </a>\n\n    <a class=\"item\"
+        id=\"share-twitter\" name=\"twitterShareButton\" href=\"https://twitter.com/intent/tweet/?text=NIO%2C%20Fisker%20Drive%20Markets%20Higher%3B%20Norwegian%20Sinks%20Cruise%20Ship%20Stocks%20%40themotleyfool%20%23stocks%20%24NCLH%20%24NIO%20%24FSR%20%24%5EDJI%20%24%5EGSPC%20%24%5EIXIC&url=https://www.fool.com/investing/2020/11/02/nio-fisker-drive-markets-higher-norwegian-sinks-cr/\"
+        target=\"_blank\" aria-label=\"Share on Twitter\">\n        <svg class=\"fa-svg-icon\">
+        <use xlink:href=\"#twitter\"></use> </svg>\n    </a>\n\n    <a class=\"item\"
+        id=\"share-linkedin\" name=\"linkedinShareButton\" href=\"https://www.linkedin.com/shareArticle?mini=true&url=https://www.fool.com/investing/2020/11/02/nio-fisker-drive-markets-higher-norwegian-sinks-cr/&title=NIO%2C%20Fisker%20Drive%20Markets%20Higher%3B%20Norwegian%20Sinks%20Cruise%20Ship%20Stocks&summary=NIO%2C%20Fisker%20Drive%20Markets%20Higher%3B%20Norwegian%20Sinks%20Cruise%20Ship%20Stocks&source=https://www.fool.com/investing/2020/11/02/nio-fisker-drive-markets-higher-norwegian-sinks-cr/\"
+        target=\"_blank\" aria-label=\"Share on LinkedIn\">\n        <svg class=\"fa-svg-icon\">
+        <use xlink:href=\"#linkedin-in\"></use> </svg>\n    </a>\n\n    <a class=\"item\"
+        id=\"share-email\" name=\"emailShareButton\" href=\"mailto:?subject=NIO%2C%20Fisker%20Drive%20Markets%20Higher%3B%20Norwegian%20Sinks%20Cruise%20Ship%20Stocks&body=https://www.fool.com/investing/2020/11/02/nio-fisker-drive-markets-higher-norwegian-sinks-cr/\"
+        target=\"_self\" aria-label=\"Share by E-Mail\">\n        <svg class=\"fa-svg-icon\">
+        <use xlink:href=\"#envelope\"></use> </svg>\n    </a>\n\n    \n    <a class=\"item\"
+        id=\"next-article\" name=\"nextArticleButton\" href=\"\" aria-label=\"Next
+        Article\">\n        <span>Next Article</span>\n        <svg class=\"fa-svg-icon\">
+        <use xlink:href=\"#chevron-right\"></use> </svg>\n    </a>\n    \n\n    \n</div>\n\n\n\n
+        \               \n                    \n<!--googleoff: all-->\n<div id=\"pagination\"
+        class=\"pagination\" style=\"clear:both;display:none;\" data-show-incontent-ads=\"\">\n
+        \ <ul>\n    <li id=\"prev\" class=\"page-prev\"><a href=\"javascript:void(0)\">Prev</a></li>\n
+        \   <li>\n      <ul>\n        <li><a href=\"/investing/2020/11/02/nio-fisker-drive-markets-higher-norwegian-sinks-cr/\"
+        id=\"1\">1</a></li>\n        \n        <li>\n            <a href=\"/investing/2020/09/18/sp-500-drops-33-points-as-mega-tech-stocks-slide-c/\"
+        id=\"2\">2</a>\n        </li>\n        \n        <li>\n            <a href=\"/investing/2020/09/03/stock-markets-sink-cruise-ship-stocks-carnival/\"
+        id=\"3\">3</a>\n        </li>\n        \n        <li>\n            <a href=\"/investing/2020/08/27/fed-lifts-stock-market-abbott-5-quick-test-travel/\"
+        id=\"4\">4</a>\n        </li>\n        \n        <li>\n            <a href=\"/investing/2020/08/24/stock-markets-jump-on-covid-19-hopes-travel-stocks/\"
+        id=\"5\">5</a>\n        </li>\n        \n      </ul>\n    </li>\n    <li id=\"next\"
+        class=\"page-next\"><a href=\"javascript:void(0)\">Next</a></li>\n  </ul>\n</div>\n<!--googleon:
+        all-->\n\n                    \n                    \n                \n            </div>\n
+        \       </section>\n    </section>\n\n    \n        \n    \n\n\n        \n
+        \       \n      </div>\n\n      <footer class=\"footer\" id=\"usmf-footer\">\n
+        \         <div class=\"legal-text footer-links\">\n              <ul>\n                  <li><a
+        id=\"footer-tos\" href=\"/legal/terms-and-conditions/fool-rules/\" title=\"Terms
+        of Use\">Terms of Use</a> </li>\n                  <li><a id=\"footer-pp\"
+        href=\"/legal/privacy-statement/\" title=\"Privacy Policy\">Privacy Policy</a>
+        </li>\n                  <li><a id=\"footer-ap\" href=\"/legal/accessibility-policy/\"
+        title=\"Accessibility Policy\">Accessibility Policy</a></li>\n                  <li><a
+        id=\"footer-tm\" href=\"/legal/stuff-we-own/\" title=\"Copyright, Trademark
+        and Patent Information\">Copyright, Trademark and Patent Information</a> </li>\n
+        \                 <li><a id=\"footer-tc\" href=\"/legal/terms-and-conditions/\"
+        title=\"Terms and Conditions\">Terms and Conditions</a> </li>\n                  <li><a
+        id=\"footer-ccpa\" href=\"/data-protection/ccpa-update/\" title=\"Do Not Sell
+        My Personal Information.\">Do Not Sell My Personal Information</a> </li>\n
+        \             </ul>\n              <p id=\"footer-copyright-text\" class=\"copyright\"><p>\n
+        \                 Market data powered by <a id=\"footer-fs\">FactSet</a> and
+        <a id=\"footer-wfbg\">Web Financial Group</a>.\n              </p>\n          </div>\n\n
+        \     </footer>\n\n      \n\n    </div>\n  </div>\n\n  <div id=\"currently-active-desc\"
+        style=\"display:none;\">Current</div>\n\n\n  \n  <script>/*!\nWaypoints -
+        4.0.0\nCopyright \xA9 2011-2015 Caleb Troughton\nLicensed under the MIT license.\nhttps://github.com/imakewebthings/waypoints/blog/master/licenses.txt\n*/!function(){\"use
+        strict\";function t(o){if(!o)throw new Error(\"No options passed to Waypoint
+        constructor\");if(!o.element)throw new Error(\"No element option passed to
+        Waypoint constructor\");if(!o.handler)throw new Error(\"No handler option
+        passed to Waypoint constructor\");this.key=\"waypoint-\"+e,this.options=t.Adapter.extend({},t.defaults,o),this.element=this.options.element,this.adapter=new
+        t.Adapter(this.element),this.callback=o.handler,this.axis=this.options.horizontal?\"horizontal\":\"vertical\",this.enabled=this.options.enabled,this.triggerPoint=null,this.group=t.Group.findOrCreate({name:this.options.group,axis:this.axis}),this.context=t.Context.findOrCreateByElement(this.options.context),t.offsetAliases[this.options.offset]&&(this.options.offset=t.offsetAliases[this.options.offset]),this.group.add(this),this.context.add(this),i[this.key]=this,e+=1}var
+        e=0,i={};t.prototype.queueTrigger=function(t){this.group.queueTrigger(this,t)},t.prototype.trigger=function(t){this.enabled&&this.callback&&this.callback.apply(this,t)},t.prototype.destroy=function(){this.context.remove(this),this.group.remove(this),delete
+        i[this.key]},t.prototype.disable=function(){return this.enabled=!1,this},t.prototype.enable=function(){return
+        this.context.refresh(),this.enabled=!0,this},t.prototype.next=function(){return
+        this.group.next(this)},t.prototype.previous=function(){return this.group.previous(this)},t.invokeAll=function(t){var
+        e=[];for(var o in i)e.push(i[o]);for(var n=0,r=e.length;r>n;n++)e[n][t]()},t.destroyAll=function(){t.invokeAll(\"destroy\")},t.disableAll=function(){t.invokeAll(\"disable\")},t.enableAll=function(){t.invokeAll(\"enable\")},t.refreshAll=function(){t.Context.refreshAll()},t.viewportHeight=function(){return
+        window.innerHeight||document.documentElement.clientHeight},t.viewportWidth=function(){return
+        document.documentElement.clientWidth},t.adapters=[],t.defaults={context:window,continuous:!0,enabled:!0,group:\"default\",horizontal:!1,offset:0},t.offsetAliases={\"bottom-in-view\":function(){return
+        this.context.innerHeight()-this.adapter.outerHeight()},\"right-in-view\":function(){return
+        this.context.innerWidth()-this.adapter.outerWidth()}},window.Waypoint=t}(),function(){\"use
+        strict\";function t(t){window.setTimeout(t,1e3/60)}function e(t){this.element=t,this.Adapter=n.Adapter,this.adapter=new
+        this.Adapter(t),this.key=\"waypoint-context-\"+i,this.didScroll=!1,this.didResize=!1,this.oldScroll={x:this.adapter.scrollLeft(),y:this.adapter.scrollTop()},this.waypoints={vertical:{},horizontal:{}},t.waypointContextKey=this.key,o[t.waypointContextKey]=this,i+=1,this.createThrottledScrollHandler(),this.createThrottledResizeHandler()}var
+        i=0,o={},n=window.Waypoint,r=window.onload;e.prototype.add=function(t){var
+        e=t.options.horizontal?\"horizontal\":\"vertical\";this.waypoints[e][t.key]=t,this.refresh()},e.prototype.checkEmpty=function(){var
+        t=this.Adapter.isEmptyObject(this.waypoints.horizontal),e=this.Adapter.isEmptyObject(this.waypoints.vertical);t&&e&&(this.adapter.off(\".waypoints\"),delete
+        o[this.key])},e.prototype.createThrottledResizeHandler=function(){function
+        t(){e.handleResize(),e.didResize=!1}var e=this;this.adapter.on(\"resize.waypoints\",function(){e.didResize||(e.didResize=!0,n.requestAnimationFrame(t))})},e.prototype.createThrottledScrollHandler=function(){function
+        t(){e.handleScroll(),e.didScroll=!1}var e=this;this.adapter.on(\"scroll.waypoints\",function(){(!e.didScroll||n.isTouch)&&(e.didScroll=!0,n.requestAnimationFrame(t))})},e.prototype.handleResize=function(){n.Context.refreshAll()},e.prototype.handleScroll=function(){var
+        t={},e={horizontal:{newScroll:this.adapter.scrollLeft(),oldScroll:this.oldScroll.x,forward:\"right\",backward:\"left\"},vertical:{newScroll:this.adapter.scrollTop(),oldScroll:this.oldScroll.y,forward:\"down\",backward:\"up\"}};for(var
+        i in e){var o=e[i],n=o.newScroll>o.oldScroll,r=n?o.forward:o.backward;for(var
+        s in this.waypoints[i]){var a=this.waypoints[i][s],l=o.oldScroll<a.triggerPoint,h=o.newScroll>=a.triggerPoint,p=l&&h,u=!l&&!h;(p||u)&&(a.queueTrigger(r),t[a.group.id]=a.group)}}for(var
+        c in t)t[c].flushTriggers();this.oldScroll={x:e.horizontal.newScroll,y:e.vertical.newScroll}},e.prototype.innerHeight=function(){return
+        this.element==this.element.window?n.viewportHeight():this.adapter.innerHeight()},e.prototype.remove=function(t){delete
+        this.waypoints[t.axis][t.key],this.checkEmpty()},e.prototype.innerWidth=function(){return
+        this.element==this.element.window?n.viewportWidth():this.adapter.innerWidth()},e.prototype.destroy=function(){var
+        t=[];for(var e in this.waypoints)for(var i in this.waypoints[e])t.push(this.waypoints[e][i]);for(var
+        o=0,n=t.length;n>o;o++)t[o].destroy()},e.prototype.refresh=function(){var
+        t,e=this.element==this.element.window,i=e?void 0:this.adapter.offset(),o={};this.handleScroll(),t={horizontal:{contextOffset:e?0:i.left,contextScroll:e?0:this.oldScroll.x,contextDimension:this.innerWidth(),oldScroll:this.oldScroll.x,forward:\"right\",backward:\"left\",offsetProp:\"left\"},vertical:{contextOffset:e?0:i.top,contextScroll:e?0:this.oldScroll.y,contextDimension:this.innerHeight(),oldScroll:this.oldScroll.y,forward:\"down\",backward:\"up\",offsetProp:\"top\"}};for(var
+        r in t){var s=t[r];for(var a in this.waypoints[r]){var l,h,p,u,c,d=this.waypoints[r][a],f=d.options.offset,w=d.triggerPoint,y=0,g=null==w;d.element!==d.element.window&&(y=d.adapter.offset()[s.offsetProp]),\"function\"==typeof
+        f?f=f.apply(d):\"string\"==typeof f&&(f=parseFloat(f),d.options.offset.indexOf(\"%\")>-1&&(f=Math.ceil(s.contextDimension*f/100))),l=s.contextScroll-s.contextOffset,d.triggerPoint=y+l-f,h=w<s.oldScroll,p=d.triggerPoint>=s.oldScroll,u=h&&p,c=!h&&!p,!g&&u?(d.queueTrigger(s.backward),o[d.group.id]=d.group):!g&&c?(d.queueTrigger(s.forward),o[d.group.id]=d.group):g&&s.oldScroll>=d.triggerPoint&&(d.queueTrigger(s.forward),o[d.group.id]=d.group)}}return
+        n.requestAnimationFrame(function(){for(var t in o)o[t].flushTriggers()}),this},e.findOrCreateByElement=function(t){return
+        e.findByElement(t)||new e(t)},e.refreshAll=function(){for(var t in o)o[t].refresh()},e.findByElement=function(t){return
+        o[t.waypointContextKey]},window.onload=function(){r&&r(),e.refreshAll()},n.requestAnimationFrame=function(e){var
+        i=window.requestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||t;i.call(window,e)},n.Context=e}(),function(){\"use
+        strict\";function t(t,e){return t.triggerPoint-e.triggerPoint}function e(t,e){return
+        e.triggerPoint-t.triggerPoint}function i(t){this.name=t.name,this.axis=t.axis,this.id=this.name+\"-\"+this.axis,this.waypoints=[],this.clearTriggerQueues(),o[this.axis][this.name]=this}var
+        o={vertical:{},horizontal:{}},n=window.Waypoint;i.prototype.add=function(t){this.waypoints.push(t)},i.prototype.clearTriggerQueues=function(){this.triggerQueues={up:[],down:[],left:[],right:[]}},i.prototype.flushTriggers=function(){for(var
+        i in this.triggerQueues){var o=this.triggerQueues[i],n=\"up\"===i||\"left\"===i;o.sort(n?e:t);for(var
+        r=0,s=o.length;s>r;r+=1){var a=o[r];(a.options.continuous||r===o.length-1)&&a.trigger([i])}}this.clearTriggerQueues()},i.prototype.next=function(e){this.waypoints.sort(t);var
+        i=n.Adapter.inArray(e,this.waypoints),o=i===this.waypoints.length-1;return
+        o?null:this.waypoints[i+1]},i.prototype.previous=function(e){this.waypoints.sort(t);var
+        i=n.Adapter.inArray(e,this.waypoints);return i?this.waypoints[i-1]:null},i.prototype.queueTrigger=function(t,e){this.triggerQueues[e].push(t)},i.prototype.remove=function(t){var
+        e=n.Adapter.inArray(t,this.waypoints);e>-1&&this.waypoints.splice(e,1)},i.prototype.first=function(){return
+        this.waypoints[0]},i.prototype.last=function(){return this.waypoints[this.waypoints.length-1]},i.findOrCreate=function(t){return
+        o[t.axis][t.name]||new i(t)},n.Group=i}(),function(){\"use strict\";function
+        t(t){this.$element=e(t)}var e=window.jQuery,i=window.Waypoint;e.each([\"innerHeight\",\"innerWidth\",\"off\",\"offset\",\"on\",\"outerHeight\",\"outerWidth\",\"scrollLeft\",\"scrollTop\"],function(e,i){t.prototype[i]=function(){var
+        t=Array.prototype.slice.call(arguments);return this.$element[i].apply(this.$element,t)}}),e.each([\"extend\",\"inArray\",\"isEmptyObject\"],function(i,o){t[o]=e[o]}),i.adapters.push({name:\"jquery\",Adapter:t}),i.Adapter=t}(),function(){\"use
+        strict\";function t(t){return function(){var i=[],o=arguments[0];return t.isFunction(arguments[0])&&(o=t.extend({},arguments[1]),o.handler=arguments[0]),this.each(function(){var
+        n=t.extend({},o,{element:this});\"string\"==typeof n.context&&(n.context=t(this).closest(n.context)[0]),i.push(new
+        e(n))}),i}}var e=window.Waypoint;window.jQuery&&(window.jQuery.fn.waypoint=t(window.jQuery)),window.Zepto&&(window.Zepto.fn.waypoint=t(window.Zepto))}();;(function(){jQuery('.header-search-wrapper-toggle').on('click',function(){jQuery(this).closest('.header-search-wrapper').toggleClass('open');});})();(function(){var
+        menu=jQuery('.mobile-nav-container');var toggleMenu=function(){jQuery('#mobile-menu-toggle').toggleClass('close-menu');jQuery('body').toggleClass('mobile-menu-open');menu.toggleClass('open');};jQuery('#mobile-menu-toggle').on('click',toggleMenu);jQuery('#m-topnav-picks').on('click',toggleMenu);jQuery(document).on('mouseup',function(e){var
+        container=menu;if(!container.is(e.target)&&!jQuery(\".close-menu\").is(e.target)&&container.has(e.target).length===0)\n{container.removeClass('open');jQuery('#mobile-menu-toggle').removeClass('close-menu');jQuery('body').removeClass('mobile-menu-open');}});menu.find('.main-menu-item-link').on('click',function(){jQuery(this).closest('.main-menu-item.dropdown').addClass('expanded');return
+        false;});menu.find('.sub-menu-name').find('.btn-level-up').on('click',function(){jQuery(this).closest('.main-menu-item.dropdown').removeClass('expanded');});$('#main-content').waypoint(function(direction){if(direction=='up'){}else
+        if(direction=='down'){$('#share-box').addClass('visible');}},{offset:'-900px'});})();;(function($,window,document){\"use
+        strict\";var pluginName=\"accessibleMegaMenu\",defaults={uuidPrefix:\"accessible-megamenu\",menuClass:\"accessible-megamenu\",topNavItemClass:\"accessible-megamenu-top-nav-item\",panelClass:\"accessible-megamenu-panel\",panelGroupClass:\"accessible-megamenu-panel-group\",hoverClass:\"hover\",focusClass:\"focus\",openClass:\"open\"},Keyboard={BACKSPACE:8,COMMA:188,DELETE:46,DOWN:40,END:35,ENTER:13,ESCAPE:27,HOME:36,LEFT:37,PAGE_DOWN:34,PAGE_UP:33,PERIOD:190,RIGHT:39,SPACE:32,TAB:9,UP:38,keyMap:{48:\"0\",49:\"1\",50:\"2\",51:\"3\",52:\"4\",53:\"5\",54:\"6\",55:\"7\",56:\"8\",57:\"9\",59:\";\",65:\"a\",66:\"b\",67:\"c\",68:\"d\",69:\"e\",70:\"f\",71:\"g\",72:\"h\",73:\"i\",74:\"j\",75:\"k\",76:\"l\",77:\"m\",78:\"n\",79:\"o\",80:\"p\",81:\"q\",82:\"r\",83:\"s\",84:\"t\",85:\"u\",86:\"v\",87:\"w\",88:\"x\",89:\"y\",90:\"z\",96:\"0\",97:\"1\",98:\"2\",99:\"3\",100:\"4\",101:\"5\",102:\"6\",103:\"7\",104:\"8\",105:\"9\",190:\".\"}};function
+        AccessibleMegaMenu(element,options){this.element=element;this.settings=$.extend({},defaults,options);this._defaults=defaults;this._name=pluginName;this.mouseTimeoutID=null;this.focusTimeoutID=null;this.mouseFocused=false;this.justFocused=false;this.init();}\nAccessibleMegaMenu.prototype=(function(){var
+        uuid=0,keydownTimeoutDuration=1000,keydownSearchString=\"\",isTouch=typeof
+        window.hasOwnProperty===\"function\"&&!!window.hasOwnProperty(\"ontouchstart\"),_getPlugin,_addUniqueId,_togglePanel,_clickHandler,_clickOutsideHandler,_DOMAttrModifiedHandler,_focusInHandler,_focusOutHandler,_keyDownHandler,_mouseDownHandler,_mouseOverHandler,_mouseOutHandler,_toggleExpandedEventHandlers;_getPlugin=function(element){return
+        $(element).closest(':data(plugin_'+pluginName+')').data(\"plugin_\"+pluginName);};_addUniqueId=function(element){element=$(element);var
+        settings=this.settings;if(!element.attr(\"id\")){element.attr(\"id\",settings.uuidPrefix+\"-\"+new
+        Date().getTime()+\"-\"+(++uuid));}};_togglePanel=function(event,hide){var
+        target=$(event.target),that=this,settings=this.settings,menu=this.menu,topli=target.closest('.'+settings.topNavItemClass),panel=target.hasClass(settings.panelClass)?target:target.closest('.'+settings.panelClass),newfocus;_toggleExpandedEventHandlers.call(this,true);if(hide){topli=menu.find('.'+settings.topNavItemClass+'
+        .'+settings.openClass+':first').closest('.'+settings.topNavItemClass);if(!(topli.is(event.relatedTarget)||topli.has(event.relatedTarget).length>0)){if((event.type==='mouseout'||event.type==='focusout')&&topli.has(document.activeElement).length>0){return;}\ntopli.find('[aria-expanded]').attr('aria-expanded','false').removeClass(settings.openClass).filter('.'+settings.panelClass).attr('aria-hidden','true');if((event.type==='keydown'&&event.keyCode===Keyboard.ESCAPE)||event.type==='DOMAttrModified'){newfocus=topli.find(':tabbable:first');setTimeout(function(){menu.find('[aria-expanded].'+that.settings.panelClass).off('DOMAttrModified.accessible-megamenu');newfocus.focus();that.justFocused=false;},99);}}else
+        if(topli.length===0){menu.find('[aria-expanded=true]').attr('aria-expanded','false').removeClass(settings.openClass).filter('.'+settings.panelClass).attr('aria-hidden','true');}}else{clearTimeout(that.focusTimeoutID);topli.siblings().find('[aria-expanded]').attr('aria-expanded','false').removeClass(settings.openClass).filter('.'+settings.panelClass).attr('aria-hidden','true');topli.find('[aria-expanded]').attr('aria-expanded','true').addClass(settings.openClass).filter('.'+settings.panelClass).attr('aria-hidden','false');if(event.type==='mouseover'&&target.is(':tabbable')&&topli.length===1&&panel.length===0&&menu.has(document.activeElement).length>0){target.focus();that.justFocused=false;}\n_toggleExpandedEventHandlers.call(that);}};_clickHandler=function(event){var
+        target=$(event.currentTarget),topli=target.closest('.'+this.settings.topNavItemClass),panel=target.closest('.'+this.settings.panelClass);if(topli.length===1&&panel.length===0&&topli.find('.'+this.settings.panelClass).length===1){if(!target.hasClass(this.settings.openClass)){event.preventDefault();event.stopPropagation();_togglePanel.call(this,event);this.justFocused=false;}else{if(this.justFocused){event.preventDefault();event.stopPropagation();this.justFocused=false;}else
+        if(isTouch){event.preventDefault();event.stopPropagation();_togglePanel.call(this,event,target.hasClass(this.settings.openClass));}}}};_clickOutsideHandler=function(event){if($(event.target).closest(this.menu).length===0){event.preventDefault();event.stopPropagation();_togglePanel.call(this,event,true);}};_DOMAttrModifiedHandler=function(event){if(event.originalEvent.attrName==='aria-expanded'&&event.originalEvent.newValue==='false'&&$(event.target).hasClass(this.settings.openClass)){event.preventDefault();event.stopPropagation();_togglePanel.call(this,event,true);}};_focusInHandler=function(event){clearTimeout(this.focusTimeoutID);var
+        target=$(event.target),panel=target.closest('.'+this.settings.panelClass);target.addClass(this.settings.focusClass).on('click.accessible-megamenu',$.proxy(_clickHandler,this));this.justFocused=!this.mouseFocused;this.mouseFocused=false;if(this.panels.not(panel).filter('.'+this.settings.openClass).length){_togglePanel.call(this,event);}};_focusOutHandler=function(event){this.justFocused=false;var
+        that=this,target=$(event.target),topli=target.closest('.'+this.settings.topNavItemClass),keepOpen=false;target.removeClass(this.settings.focusClass).off('click.accessible-megamenu');if(window.cvox){that.focusTimeoutID=setTimeout(function(){window.cvox.Api.getCurrentNode(function(node){if(topli.has(node).length){clearTimeout(that.focusTimeoutID);}else{that.focusTimeoutID=setTimeout(function(scope,event,hide){_togglePanel.call(scope,event,hide);},275,that,event,true);}});},25);}else{that.focusTimeoutID=setTimeout(function(){_togglePanel.call(that,event,true);},300);}};_keyDownHandler=function(event){var
+        that=(this.constructor===AccessibleMegaMenu)?this:_getPlugin(this),settings=that.settings,target=$($(this).is('.'+settings.hoverClass+':tabbable')?this:event.target),menu=that.menu,topnavitems=that.topnavitems,topli=target.closest('.'+settings.topNavItemClass),tabbables=menu.find(':tabbable'),panel=target.hasClass(settings.panelClass)?target:target.closest('.'+settings.panelClass),panelGroups=panel.find('.'+settings.panelGroupClass),currentPanelGroup=target.closest('.'+settings.panelGroupClass),next,keycode=event.keyCode||event.which,start,i,o,label,found=false,newString=Keyboard.keyMap[event.keyCode]||'',regex,isTopNavItem=(topli.length===1&&panel.length===0);if(target.is(\"input:focus,
+        select:focus, textarea:focus, button:focus\")){return;}\nif(target.is('.'+settings.hoverClass+':tabbable')){$('html').off('keydown.accessible-megamenu');}\nswitch(keycode){case
+        Keyboard.ESCAPE:_togglePanel.call(that,event,true);break;case Keyboard.DOWN:event.preventDefault();if(isTopNavItem){_togglePanel.call(that,event);found=(topli.find('.'+settings.panelClass+'
+        :tabbable:first').focus().length===1);}else{found=(tabbables.filter(':gt('+tabbables.index(target)+'):first').focus().length===1);}\nif(!found&&window.opera&&opera.toString()===\"[object
+        Opera]\"&&(event.ctrlKey||event.metaKey)){tabbables=$(':tabbable');i=tabbables.index(target);found=($(':tabbable:gt('+$(':tabbable').index(target)+'):first').focus().length===1);}\nbreak;case
+        Keyboard.UP:event.preventDefault();if(isTopNavItem&&target.hasClass(settings.openClass)){_togglePanel.call(that,event,true);next=topnavitems.filter(':lt('+topnavitems.index(topli)+'):last');if(next.children('.'+settings.panelClass).length){found=(next.children().attr('aria-expanded','true').addClass(settings.openClass).filter('.'+settings.panelClass).attr('aria-hidden','false').find(':tabbable:last').focus()===1);}}else
+        if(!isTopNavItem){found=(tabbables.filter(':lt('+tabbables.index(target)+'):last').focus().length===1);}\nif(!found&&window.opera&&opera.toString()===\"[object
+        Opera]\"&&(event.ctrlKey||event.metaKey)){tabbables=$(':tabbable');i=tabbables.index(target);found=($(':tabbable:lt('+$(':tabbable').index(target)+'):first').focus().length===1);}\nbreak;case
+        Keyboard.RIGHT:event.preventDefault();if(isTopNavItem){found=(topnavitems.filter(':gt('+topnavitems.index(topli)+'):first').find(':tabbable:first').focus().length===1);}else{if(panelGroups.length&&currentPanelGroup.length){found=(panelGroups.filter(':gt('+panelGroups.index(currentPanelGroup)+'):first').find(':tabbable:first').focus().length===1);}\nif(!found){found=(topli.find(':tabbable:first').focus().length===1);}}\nbreak;case
+        Keyboard.LEFT:event.preventDefault();if(isTopNavItem){found=(topnavitems.filter(':lt('+topnavitems.index(topli)+'):last').find(':tabbable:first').focus().length===1);}else{if(panelGroups.length&&currentPanelGroup.length){found=(panelGroups.filter(':lt('+panelGroups.index(currentPanelGroup)+'):last').find(':tabbable:first').focus().length===1);}\nif(!found){found=(topli.find(':tabbable:first').focus().length===1);}}\nbreak;case
+        Keyboard.TAB:i=tabbables.index(target);if(event.shiftKey&&isTopNavItem&&target.hasClass(settings.openClass)){_togglePanel.call(that,event,true);next=topnavitems.filter(':lt('+topnavitems.index(topli)+'):last');if(next.children('.'+settings.panelClass).length){found=next.children().attr('aria-expanded','true').addClass(settings.openClass).filter('.'+settings.panelClass).attr('aria-hidden','false').find(':tabbable:last').focus();}}else
+        if(event.shiftKey&&i>0){found=(tabbables.filter(':lt('+i+'):last').focus().length===1);}else
+        if(!event.shiftKey&&i<tabbables.length-1){found=(tabbables.filter(':gt('+i+'):first').focus().length===1);}else
+        if(window.opera&&opera.toString()===\"[object Opera]\"){tabbables=$(':tabbable');i=tabbables.index(target);if(event.shiftKey){found=($(':tabbable:lt('+$(':tabbable').index(target)+'):last').focus().length===1);}else{found=($(':tabbable:gt('+$(':tabbable').index(target)+'):first').focus().length===1);}}\nif(found){event.preventDefault();}\nbreak;case
+        Keyboard.SPACE:if(isTopNavItem){event.preventDefault();_clickHandler.call(that,event);}else{return
+        true;}\nbreak;case Keyboard.ENTER:return true;break;default:clearTimeout(this.keydownTimeoutID);keydownSearchString+=newString!==keydownSearchString?newString:'';if(keydownSearchString.length===0){return;}\nthis.keydownTimeoutID=setTimeout(function(){keydownSearchString='';},keydownTimeoutDuration);if(isTopNavItem&&!target.hasClass(settings.openClass)){tabbables=tabbables.filter(':not(.'+settings.panelClass+'
+        :tabbable)');}else{tabbables=topli.find(':tabbable');}\nif(event.shiftKey){tabbables=$(tabbables.get().reverse());}\nfor(i=0;i<tabbables.length;i++){o=tabbables.eq(i);if(o.is(target)){start=(keydownSearchString.length===1)?i+1:i;break;}}\nregex=new
+        RegExp('^'+keydownSearchString.replace(/[\\-\\[\\]{}()*+?.,\\\\\\^$|#\\s]/g,'\\\\$&'),'i');for(i=start;i<tabbables.length;i++){o=tabbables.eq(i);label=$.trim(o.text());if(regex.test(label)){found=true;o.focus();break;}}\nif(!found){for(i=0;i<start;i++){o=tabbables.eq(i);label=$.trim(o.text());if(regex.test(label)){o.focus();break;}}}\nbreak;}\nthat.justFocused=false;};_mouseDownHandler=function(event){if($(event.target).is(this.settings.panelClass)||$(event.target).closest(\":focusable\").length){this.mouseFocused=true;}\nthis.mouseTimeoutID=setTimeout(function(){clearTimeout(this.focusTimeoutID);},1);};_mouseOverHandler=function(event){clearTimeout(this.mouseTimeoutID);$(event.target).addClass(this.settings.hoverClass);_togglePanel.call(this,event);if($(event.target).is(':tabbable')){$('html').on('keydown.accessible-megamenu',$.proxy(_keyDownHandler,event.target));}};_mouseOutHandler=function(event){var
+        that=this;$(event.target).removeClass(that.settings.hoverClass);that.mouseTimeoutID=setTimeout(function(){_togglePanel.call(that,event,true);},250);if($(event.target).is(':tabbable')){$('html').off('keydown.accessible-megamenu');}};_toggleExpandedEventHandlers=function(hide){var
+        menu=this.menu;if(hide){$('html').off('mouseup.outside-accessible-megamenu,
+        touchend.outside-accessible-megamenu, mspointerup.outside-accessible-megamenu,
+        \ pointerup.outside-accessible-megamenu');menu.find('[aria-expanded].'+this.settings.panelClass).off('DOMAttrModified.accessible-megamenu');}else{$('html').on('mouseup.outside-accessible-megamenu,
+        touchend.outside-accessible-megamenu, mspointerup.outside-accessible-megamenu,
+        \ pointerup.outside-accessible-megamenu',$.proxy(_clickOutsideHandler,this));menu.find('[aria-expanded=true].'+this.settings.panelClass).on('DOMAttrModified.accessible-megamenu',$.proxy(_DOMAttrModifiedHandler,this));}};return{constructor:AccessibleMegaMenu,init:function(){var
+        settings=this.settings,nav=$(this.element),menu=nav.children().first(),topnavitems=menu.children();this.start(settings,nav,menu,topnavitems);},start:function(settings,nav,menu,topnavitems){var
+        that=this;this.settings=settings;this.menu=menu;this.topnavitems=topnavitems;nav.attr(\"role\",\"navigation\");menu.addClass(settings.menuClass);topnavitems.each(function(i,topnavitem){var
+        topnavitemlink,topnavitempanel;topnavitem=$(topnavitem);topnavitem.addClass(settings.topNavItemClass);topnavitemlink=topnavitem.find(\":tabbable:first\");topnavitempanel=topnavitem.children(\":not(:tabbable):last\");_addUniqueId.call(that,topnavitemlink);if(topnavitempanel.length){_addUniqueId.call(that,topnavitempanel);topnavitemlink.attr({\"aria-haspopup\":true,\"aria-controls\":topnavitempanel.attr(\"id\"),\"aria-expanded\":false});topnavitempanel.attr({\"role\":\"group\",\"aria-expanded\":false,\"aria-hidden\":true}).addClass(settings.panelClass).not(\"[aria-labelledby]\").attr(\"aria-labelledby\",topnavitemlink.attr(\"id\"));}});this.panels=menu.find(\".\"+settings.panelClass);menu.on(\"focusin.accessible-megamenu\",\":focusable,
+        .\"+settings.panelClass,$.proxy(_focusInHandler,this)).on(\"focusout.accessible-megamenu\",\":focusable,
+        .\"+settings.panelClass,$.proxy(_focusOutHandler,this)).on(\"keydown.accessible-megamenu\",$.proxy(_keyDownHandler,this)).on(\"mouseover.accessible-megamenu\",$.proxy(_mouseOverHandler,this)).on(\"mouseout.accessible-megamenu\",$.proxy(_mouseOutHandler,this)).on(\"mousedown.accessible-megamenu\",$.proxy(_mouseDownHandler,this));if(isTouch){menu.on(\"touchstart.accessible-megamenu\",$.proxy(_clickHandler,this));}\nmenu.find(\"hr\").attr(\"role\",\"separator\");if($(document.activeElement).closest(menu).length){$(document.activeElement).trigger(\"focusin.accessible-megamenu\");}},getDefaults:function(){return
+        this._defaults;},getOption:function(opt){return this.settings[opt];},getAllOptions:function(){return
+        this.settings;},setOption:function(opt,value,reinitialize){this.settings[opt]=value;if(reinitialize){this.init();}}};}());$.fn[pluginName]=function(options){return
+        this.each(function(){if(!$.data(this,\"plugin_\"+pluginName)){$.data(this,\"plugin_\"+pluginName,new
+        $.fn[pluginName].AccessibleMegaMenu(this,options));}});};$.fn[pluginName].AccessibleMegaMenu=AccessibleMegaMenu;function
+        visible(element){return $.expr.pseudos.visible(element)&&!$(element).parents().addBack().filter(function(){return
+        $.css(this,\"visibility\")===\"hidden\";}).length;}\nfunction focusable(element,isTabIndexNotNaN){var
+        map,mapName,img,nodeName=element.nodeName.toLowerCase();if(\"area\"===nodeName){map=element.parentNode;mapName=map.name;if(!element.href||!mapName||map.nodeName.toLowerCase()!==\"map\"){return
+        false;}\nimg=$(\"img[usemap=#\"+mapName+\"]\")[0];return!!img&&visible(img);}\nreturn(/input|select|textarea|button|object/.test(nodeName)?!element.disabled:\"a\"===nodeName?element.href||isTabIndexNotNaN:isTabIndexNotNaN)&&visible(element);}\n$.extend($.expr.pseudos,{data:$.expr.createPseudo?$.expr.createPseudo(function(dataName){return
+        function(elem){return!!$.data(elem,dataName);};}):function(elem,i,match){return!!$.data(elem,match[3]);},focusable:function(element){return
+        focusable(element,!isNaN($.attr(element,\"tabindex\")));},tabbable:function(element){var
+        tabIndex=$.attr(element,\"tabindex\"),isTabIndexNaN=isNaN(tabIndex);return(isTabIndexNaN||tabIndex>=0)&&focusable(element,!isTabIndexNaN);}});}(jQuery,window,document));;$(\"nav:first\").accessibleMegaMenu({uuidPrefix:\"accessible-megamenu\",menuClass:\"nav-menu\",topNavItemClass:\"nav-item\",panelClass:\"sub-nav\",panelGroupClass:\"sub-nav-group\",hoverClass:\"hover\",focusClass:\"focus\",openClass:\"open\"});;$(\"body\").on('click','.main-menu
+        .main-menu-item > a',function(){Infotrack.track('Click-'+$(this).attr('id'),{category:'Navigation
+        -- Desktop',label:$(this).text()});});var menu_hover_timer;$('body').on('mouseenter','.main-menu
+        .main-menu-item > a',function(){menu_hover_timer=window.setTimeout(function(menu_id,menu_text){Infotrack.track('Hover-'+menu_id,{category:'Navigation
+        -- Desktop',label:menu_text});},500,$(this).attr('id'),$(this).text());}).on('mouseleave','.main-menu
+        .main-menu-item > a',function(){window.clearTimeout(menu_hover_timer);});$(\"body\").on('click','.main-menu
+        .mega-menu-wrapper-content a',function(){Infotrack.track('Click-'+$(this).attr('id'),{category:'Navigation
+        -- Desktop',label:$(this).text()});});$('.mobile-nav .main-menu-item-link-wrapper
+        .main-menu-item-link > span').on('click',function(){Infotrack.track('Click-'+$(this).attr('id'),{category:'Navigation
+        -- Mobile',label:$(this).text()});});$(\"body\").on('click','.mobile-nav .mega-menu-wrapper-content
+        a',function(){Infotrack.track('Click-'+$(this).attr('id'),{category:'Navigation
+        -- Mobile',label:$(this).text()});});$(\".fool-tophat a\").on('click',function(){Infotrack.track('Click',{category:'Navigation
+        -- Tophat',label:$(this).text()});});;$(\".footer-links a\").on('click',function(){Infotrack.track('Click',{category:'Navigation
+        - Footer',label:$(this).text(),});});window._wq=window._wq||[];_wq.push({'_all':function(video){video_categoty=\"\";if($('#home-page').length>0){video_categoty=\"HP-Video\";}\nelse{video_categoty=\"AP-Video\";}\nvideo.bind('play',function(){Infotrack.track('play',{category:video_categoty,label:video.name(),});});video.bind('pause',function(){Infotrack.track('pause',{category:video_categoty,label:video.name(),});});video.bind('end',function(){Infotrack.track('end',{category:video_categoty,label:video.name(),});});}});;$('a[href*=\\\\#]:not([href=\\\\#])').on('click',function(){if(location.pathname.replace(/^\\//,'')==this.pathname.replace(/^\\//,'')||location.hostname==this.hostname){var
+        target=$(this.hash);if(target.length){target=target;}else if($('[id='+this.hash.slice(1)+']').length){target=$('[id='+this.hash.slice(1)+']');}else
+        if($('[name='+this.hash.slice(1)+']').length){target=$('[name='+this.hash.slice(1)+']');}\nif(target.length){if(screen.width>1024){menuOffset=120;}else{menuOffset=80;}\n$('html,body').animate({scrollTop:target.offset().top-menuOffset},1000);target.focus();if(target.is(\":focus\")){return
+        false;}else{target.attr('tabindex','-1');target.focus();};}}});;(function(){const
+        UTM_KEYS=[\"utm_source\",\"utm_medium\",\"utm_campaign\",\"utm_term\",\"utm_content\"];const
+        getParameterByName=function(name,url){if(!url)url=window.location.href;name=name.replace(/[\\[\\]]/g,'\\\\$&');const
+        regex=new RegExp('[?&]'+name+'(=([^&#]*)|&|#|$)'),results=regex.exec(url);if(!results)return
+        null;if(!results[2])return'';return decodeURIComponent(results[2].replace(/\\+/g,'
+        '));}\nconst getCookieString=function(cname){var name=cname+\"=\";var ca=document.cookie.split(';');for(var
+        i=0;i<ca.length;i++){var c=ca[i];while(c.charAt(0)==' ')c=c.substring(1);if(c.indexOf(name)===0){var
+        value=c.substring(name.length,c.length);var startsWithQuote=(value.lastIndexOf('\"',0)===0);var
+        endsWithQuote=(value.lastIndexOf('\"')===value.length-1);if(startsWithQuote&&endsWithQuote){value=value.slice(1,-1);}\nreturn
+        value;}}};const shouldAddCookie=function(){let existingCookie=getCookieString('utms');if(existingCookie){return
+        true;}\nfor(let param of UTM_KEYS){if(getParameterByName(param)){return true;}}\nreturn
+        false;};const getExpiryString=function(){let now=new Date;now.setMinutes(now.getMinutes()+90);return
+        now.toUTCString();};const setUTMSCookie=function(){if(shouldAddCookie()){let
+        existingCookie=getCookieString('utms');if(existingCookie){document.cookie=`utms=${existingCookie};
+        expires=${getExpiryString()}`;}else{let cookieData=[];UTM_KEYS.forEach(function(param){let
+        value=getParameterByName(param);if(value){cookieData.push(`${param}=${value}`);}});if(cookieData.length>0){document.cookie=`utms=${cookieData.join('&')};
+        expires=${getExpiryString()}`;}}}};setUTMSCookie();})();;</script>\n\n  <script
+        type=\"text/javascript\" src=\"//g.foolcdn.com/misc-assets/tmf-top-hat-build.js?v=master-2c3c72906f66\"
+        defer></script>\n\n  \n      <script>\n    !function(l,a){a.liosetup=a.liosetup||{},a.liosetup.callback=a.liosetup.callback||[],a.liosetup.addEntityLoadedCallback=function(l,o){if(\"function\"==typeof
+        a.liosetup.callback){var i=[];i.push(a.liosetup.callback),a.liosetup.callback=i}a.lio&&a.lio.loaded?l(a.lio.data):o?a.liosetup.callback.unshift(l):a.liosetup.callback.push(l)}}(document,window);\n
+        \   window.liosetup.addEntityLoadedCallback(function(data){\n        if(typeof(data)
+        !== \"undefined\" && typeof(data.segments) !== \"undefined\") {\n            dataLayer.push({'event':
+        'LyticsSegmentsReady', 'segments': data.segments});\n            window.googletag
+        = window.googletag || {};\n            window.googletag.cmd.push(function
+        () {\n                var lytics_segments_string = \"\";\n\n                for
+        (var i = 0; i < data.segments.length; i++) {\n                    if (data.segments[i].indexOf(\"dfp_\")
+        !== -1) {\n                        if (lytics_segments_string != \"\") {\n
+        \                           lytics_segments_string = lytics_segments_string
+        + \", \" + data.segments[i];\n                        } else {\n                            lytics_segments_string
+        = data.segments[i];\n                        }\n\n                    }\n
+        \               }\n                window.googletag.pubads().setTargeting(\"LyticsSegments\",
+        lytics_segments_string);\n            });\n        }\n    });\n</script>\n
+        \ \n\n  <script src=\"//g.foolcdn.com/static/dubs/CACHE/js/output.7040ec618664.js\"
+        defer></script>\n<script src=\"//g.foolcdn.com/static/dubs/CACHE/js/output.f0d6a3793600.js\"></script>\n
+        \ \n\n  \n    <div id=\"fb-root\"></div>\n\n    <script src=\"//g.foolcdn.com/static/dubs/CACHE/js/output.df55a85ff6b6.js\"
+        defer></script>\n\n    <script>\n        fool.insertScript('facebook-jssdk',
+        '//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3', true);\n        fool.insertScript('twitter-wjs',
+        '//platform.twitter.com/widgets.js', true);\n    </script>\n\n\n  <script>\n
+        \   if (typeof window.Infotrack !== \"undefined\")  {\n        var infotrackUrl
+        = 'https://g.foolcdn.com/mms/resources/js/infotrack_min.js';\n        Infotrack.load(infotrackUrl);\n
+        \       var infotrackInitializeWait = infotrackInitializeWait || 0;\n        setTimeout(function(){\n
+        \           window.Infotrack.initialize(\"usmf\");\n        }, infotrackInitializeWait);\n
+        \   }\n  </script>\n  </body>\n\n</html>\n"
+    headers:
+      Accept-Ranges:
+      - bytes
+      Connection:
+      - keep-alive
+      Content-Security-Policy:
+      - 'frame-src ''self'' https: https://optimize.google.com; font-src ''self''
+        data: https: https://fonts.gstatic.com; connect-src ''self'' https: wss://www.fool.com
+        wss://*.33across.com wss://*.hotjar.com https://api.pink-boat.fool.com; style-src
+        ''self'' data: ''unsafe-inline'' https: http://fonts.googleapis.com https://fonts.googleapis.com
+        https://optimize.google.com; media-src ''self'' https:; script-src ''self''
+        blob: ''unsafe-inline'' ''unsafe-eval'' https://www.google-analytics.com https://optimize.google.com
+        https: https://evs.pink-boat.fool.com; default-src ''self'' data: blob: ''unsafe-inline''
+        ''unsafe-eval'' https:; img-src ''self'' data: https: https://g.foolcdn.com
+        http://px.moatads.com https://optimize.google.com https://www.google-analytics.com;
+        upgrade-insecure-requests'
+      Content-Type:
+      - text/html; charset=utf-8
+      Cookie-Counter:
+      - '0'
+      Date:
+      - Tue, 23 Feb 2021 13:56:49 GMT
+      Referrer-Policy:
+      - no-referrer-when-downgrade
+      Set-Cookie:
+      - Visitor=uid=&username=&account=&registered=false&ecapped=false&dskPrf=false&version=7&visits=0&visitor=403e78ec-3e4d-4958-a4e7-b0fbeb834b32;
+        Domain=.fool.com; expires=Fri, 21 Feb 2031 13:56:49 GMT; Max-Age=315360000;
+        Path=/
+      - sessionid=g7pwpyyoevg1oc2dld20r2stb91ccu8y; expires=Tue, 23 Feb 2021 14:56:49
+        GMT; HttpOnly; Max-Age=3600; Path=/; SameSite=Lax
+      Strict-Transport-Security:
+      - max-age=300
+      Vary:
+      - Accept-Encoding, Cookie, Accept-Encoding
+      Via:
+      - 1.1 varnish, 1.1 varnish
+      X-Cache:
+      - MISS, MISS
+      X-Cache-Hits:
+      - 0, 0
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Served-By:
+      - cache-dca17767-DCA, cache-vie21626-VIE
+      X-Timer:
+      - S1614088606.779739,VS0,VE3298
+      content-length:
+      - '173382'
+      transfer-encoding:
+      - chunked
+    status:
+      code: 200
+      message: OK
+version: 1

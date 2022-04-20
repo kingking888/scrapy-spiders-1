@@ -1,0 +1,1634 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - agfax.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://agfax.com/tag/wheat-news/
+  response:
+    body:
+      string: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n<meta charset=\"UTF-8\"\
+        >\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"\
+        >\n<link rel=\"profile\" href=\"https://gmpg.org/xfn/11\">\n<title>wheat news\
+        \ &#8211; AgFax</title>\n<style>@font-face {font-family: \"sw-icon-font\"\
+        ;src:url(\"https://agfax.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=3.6.1\"\
+        );src:url(\"https://agfax.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=3.6.1#iefix\"\
+        ) format(\"embedded-opentype\"),url(\"https://agfax.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.woff?ver=3.6.1\"\
+        ) format(\"woff\"),\n\turl(\"https://agfax.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.ttf?ver=3.6.1\"\
+        ) format(\"truetype\"),url(\"https://agfax.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.svg?ver=3.6.1#1445203416\"\
+        ) format(\"svg\");font-weight: normal;font-style: normal;}</style>\n\n<link\
+        \ rel='dns-prefetch' href='//s0.wp.com' />\n<link rel='dns-prefetch' href='//fonts.googleapis.com'\
+        \ />\n<link rel='dns-prefetch' href='//s.w.org' />\n<link rel=\"alternate\"\
+        \ type=\"application/rss+xml\" title=\"AgFax &raquo; Feed\" href=\"https://agfax.com/feed/\"\
+        \ />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"AgFax &raquo;\
+        \ Comments Feed\" href=\"https://agfax.com/comments/feed/\" />\n<link rel=\"\
+        alternate\" type=\"text/calendar\" title=\"AgFax &raquo; iCal Feed\" href=\"\
+        https://agfax.com/events/?ical=1\" />\n<link rel=\"alternate\" type=\"application/rss+xml\"\
+        \ title=\"AgFax &raquo; wheat news Tag Feed\" href=\"https://agfax.com/tag/wheat-news/feed/\"\
+        \ />\n\n<script type=\"text/javascript\" data-cfasync=\"false\">\r\n\tvar\
+        \ mi_version         = '7.10.4';\r\n\tvar mi_track_user      = true;\r\n\t\
+        var mi_no_track_reason = '';\r\n\t\r\n\tvar disableStr = 'ga-disable-UA-31123020-1';\r\
+        \n\r\n\t/* Function to detect opted out users */\r\n\tfunction __gaTrackerIsOptedOut()\
+        \ {\r\n\t\treturn document.cookie.indexOf(disableStr + '=true') > -1;\r\n\t\
+        }\r\n\r\n\t/* Disable tracking if the opt-out cookie exists. */\r\n\tif (\
+        \ __gaTrackerIsOptedOut() ) {\r\n\t\twindow[disableStr] = true;\r\n\t}\r\n\
+        \r\n\t/* Opt-out function */\r\n\tfunction __gaTrackerOptout() {\r\n\t  document.cookie\
+        \ = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';\r\
+        \n\t  window[disableStr] = true;\r\n\t}\r\n\t\r\n\tif ( mi_track_user ) {\r\
+        \n\t\t(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\
+        \n\t\t\t(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\
+        \n\t\t\tm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\
+        \n\t\t})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');\r\
+        \n\r\n\t\t__gaTracker('create', 'UA-31123020-1', 'auto');\n\t\t__gaTracker('set',\
+        \ 'forceSSL', true);\n\t\t__gaTracker('send','pageview');\n\t} else {\r\n\t\
+        \tconsole.log( \"\" );\r\n\t\t(function() {\r\n\t\t\t/* https://developers.google.com/analytics/devguides/collection/analyticsjs/\
+        \ */\r\n\t\t\tvar noopfn = function() {\r\n\t\t\t\treturn null;\r\n\t\t\t\
+        };\r\n\t\t\tvar noopnullfn = function() {\r\n\t\t\t\treturn null;\r\n\t\t\t\
+        };\r\n\t\t\tvar Tracker = function() {\r\n\t\t\t\treturn null;\r\n\t\t\t};\r\
+        \n\t\t\tvar p = Tracker.prototype;\r\n\t\t\tp.get = noopfn;\r\n\t\t\tp.set\
+        \ = noopfn;\r\n\t\t\tp.send = noopfn;\r\n\t\t\tvar __gaTracker = function()\
+        \ {\r\n\t\t\t\tvar len = arguments.length;\r\n\t\t\t\tif ( len === 0 ) {\r\
+        \n\t\t\t\t\treturn;\r\n\t\t\t\t}\r\n\t\t\t\tvar f = arguments[len-1];\r\n\t\
+        \t\t\tif ( typeof f !== 'object' || f === null || typeof f.hitCallback !==\
+        \ 'function' ) {\r\n\t\t\t\t\tconsole.log( 'Not running function __gaTracker('\
+        \ + arguments[0] + \" ....) because you are not being tracked. \" + mi_no_track_reason\
+        \ );\r\n\t\t\t\t\treturn;\r\n\t\t\t\t}\r\n\t\t\t\ttry {\r\n\t\t\t\t\tf.hitCallback();\r\
+        \n\t\t\t\t} catch (ex) {\r\n\r\n\t\t\t\t}\r\n\t\t\t};\r\n\t\t\t__gaTracker.create\
+        \ = function() {\r\n\t\t\t\treturn new Tracker();\r\n\t\t\t};\r\n\t\t\t__gaTracker.getByName\
+        \ = noopnullfn;\r\n\t\t\t__gaTracker.getAll = function() {\r\n\t\t\t\treturn\
+        \ [];\r\n\t\t\t};\r\n\t\t\t__gaTracker.remove = noopfn;\r\n\t\t\twindow['__gaTracker']\
+        \ = __gaTracker;\r\n\t\t\t\t\t})();\r\n\t\t}\r\n</script>\n\n<script type=\"\
+        text/javascript\">\n\t\t\twindow._wpemojiSettings = {\"baseUrl\":\"https:\\\
+        /\\/s.w.org\\/images\\/core\\/emoji\\/13.0.0\\/72x72\\/\",\"ext\":\".png\"\
+        ,\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.0.0\\/svg\\\
+        /\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\":\"https:\\/\\/agfax.com\\\
+        /wp-includes\\/js\\/wp-emoji-release.min.js?ver=5.5.3\"}};\n\t\t\t!function(e,a,t){var\
+        \ r,n,o,i,p=a.createElement(\"canvas\"),s=p.getContext&&p.getContext(\"2d\"\
+        );function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var\
+        \ r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function\
+        \ l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline=\"top\",s.font=\"\
+        600 32px Arial\",e){case\"flag\":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case\"\
+        emoji\":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function\
+        \ d(e){var t=a.createElement(\"script\");t.src=e,t.defer=t.type=\"text/javascript\"\
+        ,a.getElementsByTagName(\"head\")[0].appendChild(t)}for(i=Array(\"flag\",\"\
+        emoji\"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],\"\
+        flag\"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener(\"\
+        DOMContentLoaded\",n,!1),e.addEventListener(\"load\",n,!1)):(e.attachEvent(\"\
+        onload\",n),a.attachEvent(\"onreadystatechange\",function(){\"complete\"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);\n\
+        \t\t</script>\n<style type=\"text/css\">\nimg.wp-smiley,\nimg.emoji {\n\t\
+        display: inline !important;\n\tborder: none !important;\n\tbox-shadow: none\
+        \ !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin:\
+        \ 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground:\
+        \ none !important;\n\tpadding: 0 !important;\n}\n</style>\n<link rel='stylesheet'\
+        \ id='social-warfare-block-css-css' href='https://agfax.com/wp-content/plugins/social-warfare/assets/js/post-editor/dist/blocks.style.build.css?ver=5.5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='tribe-common-skeleton-style-css'\
+        \ href='https://agfax.com/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css?ver=4.11.0'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='tribe-tooltip-css'\
+        \ href='https://agfax.com/wp-content/plugins/the-events-calendar/common/src/resources/css/tooltip.min.css?ver=4.11.0'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='wp-block-library-css'\
+        \ href='https://agfax.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='wp-polls-css'\
+        \ href='https://agfax.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.75.4'\
+        \ type='text/css' media='all' />\n<style id='wp-polls-inline-css' type='text/css'>\n\
+        .wp-polls .pollbar {\n\tmargin: 1px;\n\tfont-size: 6px;\n\tline-height: 8px;\n\
+        \theight: 8px;\n\tbackground-image: url('https://agfax.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');\n\
+        \tborder: 1px solid #c8c8c8;\n}\n\n</style>\n<link rel='stylesheet' id='wp-pagenavi-css'\
+        \ href='https://agfax.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='social_warfare-css'\
+        \ href='https://agfax.com/wp-content/plugins/social-warfare/assets/css/style.min.css?ver=3.6.1'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='agfax-2-0-style-css'\
+        \ href='https://agfax.com/wp-content/themes/agfax-2-0/style.css?ver=5.5.3'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='tablepress-default-css'\
+        \ href='https://agfax.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.10'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='sccss_style-css'\
+        \ href='https://agfax.com/?sccss=1&#038;ver=5.5.3' type='text/css' media='all'\
+        \ />\n<link rel='stylesheet' id='frs-css-css' href='https://agfax.com/wp-content/plugins/fluid-responsive-slideshow/css/frs.css?ver=2.3.1'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='frs-position-css'\
+        \ href='https://agfax.com/wp-content/plugins/fluid-responsive-slideshow/css/frs-position.css?ver=2.3.1'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='OpenSans-css'\
+        \ href='https://fonts.googleapis.com/css?family=Open+Sans%3A400italic%2C700italic%2C400%2C700&#038;ver=2.3.1'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='jetpack_css-css'\
+        \ href='https://agfax.com/wp-content/plugins/jetpack/css/jetpack.css?ver=7.0'\
+        \ type='text/css' media='all' />\n<script type='text/javascript' src='https://agfax.com/wp-content/plugins/tag-grouping/grouptags_scripts.js?ver=5.5.3'\
+        \ id='my_script_handle-js'></script>\n<script type='text/javascript' src='https://agfax.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'\
+        \ id='jquery-core-js'></script>\n<script type='text/javascript' src='https://agfax.com/wp-content/plugins/fluid-responsive-slideshow/js/frs.js?ver=2.3.1'\
+        \ id='fluid-responsive-slideshow-js'></script>\n<script type='text/javascript'\
+        \ src='https://agfax.com/wp-content/plugins/fluid-responsive-slideshow/js/jquery.touchSwipe.min.js?ver=5.5.3'\
+        \ id='touchSwipe_js-js'></script>\n<script type='text/javascript' src='https://agfax.com/wp-content/plugins/fluid-responsive-slideshow/js/imagesloaded.min.js?ver=2.3.1'\
+        \ id='images-loaded-js'></script>\n<script type='text/javascript' id='monsterinsights-frontend-script-js-extra'>\n\
+        /* <![CDATA[ */\nvar monsterinsights_frontend = {\"js_events_tracking\":\"\
+        true\",\"download_extensions\":\"doc,pdf,ppt,zip,xls,docx,pptx,xlsx\",\"inbound_paths\"\
+        :\"[]\",\"home_url\":\"https:\\/\\/agfax.com\",\"hash_tracking\":\"false\"\
+        };\n/* ]]> */\n</script>\n<script type='text/javascript' src='https://agfax.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.10.4'\
+        \ id='monsterinsights-frontend-script-js'></script>\n<link rel=\"https://api.w.org/\"\
+        \ href=\"https://agfax.com/wp-json/\" /><link rel=\"alternate\" type=\"application/json\"\
+        \ href=\"https://agfax.com/wp-json/wp/v2/tags/6638\" /><link rel=\"EditURI\"\
+        \ type=\"application/rsd+xml\" title=\"RSD\" href=\"https://agfax.com/xmlrpc.php?rsd\"\
+        \ />\n<link rel=\"wlwmanifest\" type=\"application/wlwmanifest+xml\" href=\"\
+        https://agfax.com/wp-includes/wlwmanifest.xml\" />\n<meta name=\"tec-api-version\"\
+        \ content=\"v1\"><meta name=\"tec-api-origin\" content=\"https://agfax.com\"\
+        ><link rel=\"https://theeventscalendar.com/\" href=\"https://agfax.com/wp-json/tribe/events/v1/events/?tags=wheat-news\"\
+        \ />\n<link rel='dns-prefetch' href='//i0.wp.com' />\n<link rel='dns-prefetch'\
+        \ href='//i1.wp.com' />\n<link rel='dns-prefetch' href='//i2.wp.com' />\n\
+        <style type='text/css'>img#wpstats{display:none}</style> <script type=\"text/javascript\"\
+        >\n\t\t\tvar cli_flush_cache=1;\n\t\t</script>\n<script type=\"text/javascript\"\
+        >\r\nsetTimeout(function(){var a=document.createElement(\"script\");\r\nvar\
+        \ b=document.getElementsByTagName(\"script\")[0];\r\na.src=document.location.protocol+\"\
+        //script.crazyegg.com/pages/scripts/0063/4096.js?\"+Math.floor(new Date().getTime()/3600000);\r\
+        \na.async=true;a.type=\"text/javascript\";b.parentNode.insertBefore(a,b)},\
+        \ 1);\r\n</script> <style type=\"text/css\">\n\t\t\t.site-title,\n\t\t.site-description\
+        \ {\n\t\t\tposition: absolute;\n\t\t\tclip: rect(1px, 1px, 1px, 1px);\n\t\t\
+        }\n\t\t</style>\n<style type=\"text/css\">\n\t\t\t\t/* If html does not have\
+        \ either class, do not show lazy loaded images. */\n\t\t\t\thtml:not( .jetpack-lazy-images-js-enabled\
+        \ ):not( .js ) .jetpack-lazy-image {\n\t\t\t\t\tdisplay: none;\n\t\t\t\t}\n\
+        \t\t\t</style>\n<script>\n\t\t\t\tdocument.documentElement.classList.add(\n\
+        \t\t\t\t\t'jetpack-lazy-images-js-enabled'\n\t\t\t\t);\n\t\t\t</script>\n\
+        <link rel=\"icon\" href=\"https://i0.wp.com/agfax.com/wp-content/uploads/favicon.gif?fit=17%2C19&#038;ssl=1\"\
+        \ sizes=\"32x32\" />\n<link rel=\"icon\" href=\"https://i0.wp.com/agfax.com/wp-content/uploads/favicon.gif?fit=17%2C19&#038;ssl=1\"\
+        \ sizes=\"192x192\" />\n<link rel=\"apple-touch-icon\" href=\"https://i0.wp.com/agfax.com/wp-content/uploads/favicon.gif?fit=17%2C19&#038;ssl=1\"\
+        \ />\n<meta name=\"msapplication-TileImage\" content=\"https://i0.wp.com/agfax.com/wp-content/uploads/favicon.gif?fit=17%2C19&#038;ssl=1\"\
+        \ />\n<style>button#responsive-menu-button,\n#responsive-menu-container {\n\
+        \    display: none;\n    -webkit-text-size-adjust: 100%;\n}\n\n@media screen\
+        \ and (max-width: 1000px) {\n\n    #responsive-menu-container {\n        display:\
+        \ block;\n        position: fixed;\n        top: 0;\n        bottom: 0;\n\
+        \        z-index: 99998;\n        padding-bottom: 5px;\n        margin-bottom:\
+        \ -5px;\n        outline: 1px solid transparent;\n        overflow-y: auto;\n\
+        \        overflow-x: hidden;\n    }\n\n    #responsive-menu-container .responsive-menu-search-box\
+        \ {\n        width: 100%;\n        padding: 0 2%;\n        border-radius:\
+        \ 2px;\n        height: 50px;\n        -webkit-appearance: none;\n    }\n\n\
+        \    #responsive-menu-container.push-left,\n    #responsive-menu-container.slide-left\
+        \ {\n        transform: translateX(-100%);\n        -ms-transform: translateX(-100%);\n\
+        \        -webkit-transform: translateX(-100%);\n        -moz-transform: translateX(-100%);\n\
+        \    }\n\n    .responsive-menu-open #responsive-menu-container.push-left,\n\
+        \    .responsive-menu-open #responsive-menu-container.slide-left {\n     \
+        \   transform: translateX(0);\n        -ms-transform: translateX(0);\n   \
+        \     -webkit-transform: translateX(0);\n        -moz-transform: translateX(0);\n\
+        \    }\n\n    #responsive-menu-container.push-top,\n    #responsive-menu-container.slide-top\
+        \ {\n        transform: translateY(-100%);\n        -ms-transform: translateY(-100%);\n\
+        \        -webkit-transform: translateY(-100%);\n        -moz-transform: translateY(-100%);\n\
+        \    }\n\n    .responsive-menu-open #responsive-menu-container.push-top,\n\
+        \    .responsive-menu-open #responsive-menu-container.slide-top {\n      \
+        \  transform: translateY(0);\n        -ms-transform: translateY(0);\n    \
+        \    -webkit-transform: translateY(0);\n        -moz-transform: translateY(0);\n\
+        \    }\n\n    #responsive-menu-container.push-right,\n    #responsive-menu-container.slide-right\
+        \ {\n        transform: translateX(100%);\n        -ms-transform: translateX(100%);\n\
+        \        -webkit-transform: translateX(100%);\n        -moz-transform: translateX(100%);\n\
+        \    }\n\n    .responsive-menu-open #responsive-menu-container.push-right,\n\
+        \    .responsive-menu-open #responsive-menu-container.slide-right {\n    \
+        \    transform: translateX(0);\n        -ms-transform: translateX(0);\n  \
+        \      -webkit-transform: translateX(0);\n        -moz-transform: translateX(0);\n\
+        \    }\n\n    #responsive-menu-container.push-bottom,\n    #responsive-menu-container.slide-bottom\
+        \ {\n        transform: translateY(100%);\n        -ms-transform: translateY(100%);\n\
+        \        -webkit-transform: translateY(100%);\n        -moz-transform: translateY(100%);\n\
+        \    }\n\n    .responsive-menu-open #responsive-menu-container.push-bottom,\n\
+        \    .responsive-menu-open #responsive-menu-container.slide-bottom {\n   \
+        \     transform: translateY(0);\n        -ms-transform: translateY(0);\n \
+        \       -webkit-transform: translateY(0);\n        -moz-transform: translateY(0);\n\
+        \    }\n\n    #responsive-menu-container,\n    #responsive-menu-container:before,\n\
+        \    #responsive-menu-container:after,\n    #responsive-menu-container *,\n\
+        \    #responsive-menu-container *:before,\n    #responsive-menu-container\
+        \ *:after {\n         box-sizing: border-box;\n         margin: 0;\n     \
+        \    padding: 0;\n    }\n\n    #responsive-menu-container #responsive-menu-search-box,\n\
+        \    #responsive-menu-container #responsive-menu-additional-content,\n   \
+        \ #responsive-menu-container #responsive-menu-title {\n        padding: 25px\
+        \ 5%;\n    }\n\n    #responsive-menu-container #responsive-menu,\n    #responsive-menu-container\
+        \ #responsive-menu ul {\n        width: 100%;\n    }\n    #responsive-menu-container\
+        \ #responsive-menu ul.responsive-menu-submenu {\n        display: none;\n\
+        \    }\n\n    #responsive-menu-container #responsive-menu ul.responsive-menu-submenu.responsive-menu-submenu-open\
+        \ {\n         display: block;\n    }\n\n    #responsive-menu-container #responsive-menu\
+        \ ul.responsive-menu-submenu-depth-1 a.responsive-menu-item-link {\n     \
+        \   padding-left: 10%;\n    }\n\n    #responsive-menu-container #responsive-menu\
+        \ ul.responsive-menu-submenu-depth-2 a.responsive-menu-item-link {\n     \
+        \   padding-left: 15%;\n    }\n\n    #responsive-menu-container #responsive-menu\
+        \ ul.responsive-menu-submenu-depth-3 a.responsive-menu-item-link {\n     \
+        \   padding-left: 20%;\n    }\n\n    #responsive-menu-container #responsive-menu\
+        \ ul.responsive-menu-submenu-depth-4 a.responsive-menu-item-link {\n     \
+        \   padding-left: 25%;\n    }\n\n    #responsive-menu-container #responsive-menu\
+        \ ul.responsive-menu-submenu-depth-5 a.responsive-menu-item-link {\n     \
+        \   padding-left: 30%;\n    }\n\n    #responsive-menu-container li.responsive-menu-item\
+        \ {\n        width: 100%;\n        list-style: none;\n    }\n\n    #responsive-menu-container\
+        \ li.responsive-menu-item a {\n        width: 100%;\n        display: block;\n\
+        \        text-decoration: none;\n        \n        position: relative;\n \
+        \   }\n\n\n     #responsive-menu-container #responsive-menu li.responsive-menu-item\
+        \ a {\n                    padding: 0 5%;\n            }\n\n    #responsive-menu-container\
+        \ .responsive-menu-submenu li.responsive-menu-item a {\n                 \
+        \   padding: 0 5%;\n            }\n\n    #responsive-menu-container li.responsive-menu-item\
+        \ a .fa {\n        margin-right: 15px;\n    }\n\n    #responsive-menu-container\
+        \ li.responsive-menu-item a .responsive-menu-subarrow {\n        position:\
+        \ absolute;\n        top: 0;\n        bottom: 0;\n        text-align: center;\n\
+        \        overflow: hidden;\n    }\n\n    #responsive-menu-container li.responsive-menu-item\
+        \ a .responsive-menu-subarrow  .fa {\n        margin-right: 0;\n    }\n\n\
+        \    button#responsive-menu-button .responsive-menu-button-icon-inactive {\n\
+        \        display: none;\n    }\n\n    button#responsive-menu-button {\n  \
+        \      z-index: 99999;\n        display: none;\n        overflow: hidden;\n\
+        \        outline: none;\n    }\n\n    button#responsive-menu-button img {\n\
+        \        max-width: 100%;\n    }\n\n    .responsive-menu-label {\n       \
+        \ display: inline-block;\n        font-weight: 600;\n        margin: 0 5px;\n\
+        \        vertical-align: middle;\n    }\n\n    .responsive-menu-label .responsive-menu-button-text-open\
+        \ {\n        display: none;\n    }\n\n    .responsive-menu-accessible {\n\
+        \        display: inline-block;\n    }\n\n    .responsive-menu-accessible\
+        \ .responsive-menu-box {\n        display: inline-block;\n        vertical-align:\
+        \ middle;\n    }\n\n    .responsive-menu-label.responsive-menu-label-top,\n\
+        \    .responsive-menu-label.responsive-menu-label-bottom\n    {\n        display:\
+        \ block;\n        margin: 0 auto;\n    }\n\n    button#responsive-menu-button\
+        \ {\n        padding: 0 0;\n        display: inline-block;\n        cursor:\
+        \ pointer;\n        transition-property: opacity, filter;\n        transition-duration:\
+        \ 0.15s;\n        transition-timing-function: linear;\n        font: inherit;\n\
+        \        color: inherit;\n        text-transform: none;\n        background-color:\
+        \ transparent;\n        border: 0;\n        margin: 0;\n        overflow:\
+        \ visible;\n    }\n\n    .responsive-menu-box {\n        width: 25px;\n  \
+        \      height: 19px;\n        display: inline-block;\n        position: relative;\n\
+        \    }\n\n    .responsive-menu-inner {\n        display: block;\n        top:\
+        \ 50%;\n        margin-top: -1.5px;\n    }\n\n    .responsive-menu-inner,\n\
+        \    .responsive-menu-inner::before,\n    .responsive-menu-inner::after {\n\
+        \         width: 25px;\n         height: 3px;\n         background-color:\
+        \ #ffffff;\n         border-radius: 4px;\n         position: absolute;\n \
+        \        transition-property: transform;\n         transition-duration: 0.15s;\n\
+        \         transition-timing-function: ease;\n    }\n\n    .responsive-menu-open\
+        \ .responsive-menu-inner,\n    .responsive-menu-open .responsive-menu-inner::before,\n\
+        \    .responsive-menu-open .responsive-menu-inner::after {\n        background-color:\
+        \ #ffffff;\n    }\n\n    button#responsive-menu-button:hover .responsive-menu-inner,\n\
+        \    button#responsive-menu-button:hover .responsive-menu-inner::before,\n\
+        \    button#responsive-menu-button:hover .responsive-menu-inner::after,\n\
+        \    button#responsive-menu-button:hover .responsive-menu-open .responsive-menu-inner,\n\
+        \    button#responsive-menu-button:hover .responsive-menu-open .responsive-menu-inner::before,\n\
+        \    button#responsive-menu-button:hover .responsive-menu-open .responsive-menu-inner::after,\n\
+        \    button#responsive-menu-button:focus .responsive-menu-inner,\n    button#responsive-menu-button:focus\
+        \ .responsive-menu-inner::before,\n    button#responsive-menu-button:focus\
+        \ .responsive-menu-inner::after,\n    button#responsive-menu-button:focus\
+        \ .responsive-menu-open .responsive-menu-inner,\n    button#responsive-menu-button:focus\
+        \ .responsive-menu-open .responsive-menu-inner::before,\n    button#responsive-menu-button:focus\
+        \ .responsive-menu-open .responsive-menu-inner::after {\n        background-color:\
+        \ #ffffff;\n    }\n\n    .responsive-menu-inner::before,\n    .responsive-menu-inner::after\
+        \ {\n         content: \"\";\n         display: block;\n    }\n\n    .responsive-menu-inner::before\
+        \ {\n         top: -8px;\n    }\n\n    .responsive-menu-inner::after {\n \
+        \        bottom: -8px;\n    }\n\n            .responsive-menu-boring .responsive-menu-inner,\n\
+        .responsive-menu-boring .responsive-menu-inner::before,\n.responsive-menu-boring\
+        \ .responsive-menu-inner::after {\n    transition-property: none;\n}\n\n.responsive-menu-boring.is-active\
+        \ .responsive-menu-inner {\n    transform: rotate(45deg);\n}\n\n.responsive-menu-boring.is-active\
+        \ .responsive-menu-inner::before {\n    top: 0;\n    opacity: 0;\n}\n\n.responsive-menu-boring.is-active\
+        \ .responsive-menu-inner::after {\n    bottom: 0;\n    transform: rotate(-90deg);\n\
+        }    \n    button#responsive-menu-button {\n        width: 55px;\n       \
+        \ height: 55px;\n        position: fixed;\n        top: 15px;\n        right:\
+        \ 5%;\n                    background: #000000\n            }\n\n        \
+        \    .responsive-menu-open button#responsive-menu-button {\n            background:\
+        \ #000000\n        }\n    \n            .responsive-menu-open button#responsive-menu-button:hover,\n\
+        \        .responsive-menu-open button#responsive-menu-button:focus,\n    \
+        \    button#responsive-menu-button:hover,\n        button#responsive-menu-button:focus\
+        \ {\n            background: #000000\n        }\n    \n    button#responsive-menu-button\
+        \ .responsive-menu-box {\n        color: #ffffff;\n    }\n\n    .responsive-menu-open\
+        \ button#responsive-menu-button .responsive-menu-box {\n        color: #ffffff;\n\
+        \    }\n\n    .responsive-menu-label {\n        color: #ffffff;\n        font-size:\
+        \ 14px;\n        line-height: 13px;\n            }\n\n    button#responsive-menu-button\
+        \ {\n        display: inline-block;\n        transition: transform 0.5s, background-color\
+        \ 0.5s;\n    }\n\n    \n    \n    #responsive-menu-container {\n        width:\
+        \ 75%;\n        left: 0;\n        transition: transform 0.5s;\n        text-align:\
+        \ left;\n                                            background: #212121;\n\
+        \            }\n\n    #responsive-menu-container #responsive-menu-wrapper\
+        \ {\n        background: #212121;\n    }\n\n    #responsive-menu-container\
+        \ #responsive-menu-additional-content {\n        color: #ffffff;\n    }\n\n\
+        \    #responsive-menu-container .responsive-menu-search-box {\n        background:\
+        \ #ffffff;\n        border: 2px solid #dadada;\n        color: #333333;\n\
+        \    }\n\n    #responsive-menu-container .responsive-menu-search-box:-ms-input-placeholder\
+        \ {\n        color: #c7c7cd;\n    }\n\n    #responsive-menu-container .responsive-menu-search-box::-webkit-input-placeholder\
+        \ {\n        color: #c7c7cd;\n    }\n\n    #responsive-menu-container .responsive-menu-search-box:-moz-placeholder\
+        \ {\n        color: #c7c7cd;\n        opacity: 1;\n    }\n\n    #responsive-menu-container\
+        \ .responsive-menu-search-box::-moz-placeholder {\n        color: #c7c7cd;\n\
+        \        opacity: 1;\n    }\n\n    #responsive-menu-container .responsive-menu-item-link,\n\
+        \    #responsive-menu-container #responsive-menu-title,\n    #responsive-menu-container\
+        \ .responsive-menu-subarrow {\n        transition: background-color 0.5s,\
+        \ border-color 0.5s, color 0.5s;\n    }\n\n    #responsive-menu-container\
+        \ #responsive-menu-title {\n        background-color: #212121;\n        color:\
+        \ #ffffff;\n        font-size: 13px;\n        text-align: left;\n    }\n\n\
+        \    #responsive-menu-container #responsive-menu-title a {\n        color:\
+        \ #ffffff;\n        font-size: 13px;\n        text-decoration: none;\n   \
+        \ }\n\n    #responsive-menu-container #responsive-menu-title a:hover {\n \
+        \       color: #ffffff;\n    }\n\n    #responsive-menu-container #responsive-menu-title:hover\
+        \ {\n        background-color: #212121;\n        color: #ffffff;\n    }\n\n\
+        \    #responsive-menu-container #responsive-menu-title:hover a {\n       \
+        \ color: #ffffff;\n    }\n\n    #responsive-menu-container #responsive-menu-title\
+        \ #responsive-menu-title-image {\n        display: inline-block;\n       \
+        \ vertical-align: middle;\n        max-width: 100%;\n        margin-bottom:\
+        \ 15px;\n    }\n\n    #responsive-menu-container #responsive-menu-title #responsive-menu-title-image\
+        \ img {\n                        max-width: 100%;\n    }\n\n    #responsive-menu-container\
+        \ #responsive-menu > li.responsive-menu-item:first-child > a {\n        border-top:\
+        \ 1px solid #212121;\n    }\n\n    #responsive-menu-container #responsive-menu\
+        \ li.responsive-menu-item .responsive-menu-item-link {\n        font-size:\
+        \ 13px;\n    }\n\n    #responsive-menu-container #responsive-menu li.responsive-menu-item\
+        \ a {\n        line-height: 40px;\n        border-bottom: 1px solid #212121;\n\
+        \        color: #ffffff;\n        background-color: #212121;\n           \
+        \         height: 40px;\n            }\n\n    #responsive-menu-container #responsive-menu\
+        \ li.responsive-menu-item a:hover {\n        color: #ffffff;\n        background-color:\
+        \ #3f3f3f;\n        border-color: #212121;\n    }\n\n    #responsive-menu-container\
+        \ #responsive-menu li.responsive-menu-item a:hover .responsive-menu-subarrow\
+        \ {\n        color: #ffffff;\n        border-color: #3f3f3f;\n        background-color:\
+        \ #3f3f3f;\n    }\n\n    #responsive-menu-container #responsive-menu li.responsive-menu-item\
+        \ a:hover .responsive-menu-subarrow.responsive-menu-subarrow-active {\n  \
+        \      color: #ffffff;\n        border-color: #3f3f3f;\n        background-color:\
+        \ #3f3f3f;\n    }\n\n    #responsive-menu-container #responsive-menu li.responsive-menu-item\
+        \ a .responsive-menu-subarrow {\n        right: 0;\n        height: 40px;\n\
+        \        line-height: 40px;\n        width: 40px;\n        color: #ffffff;\n\
+        \                        border-left: 1px \n                solid #212121;\n\
+        \        background-color: #212121;\n    }\n\n    #responsive-menu-container\
+        \ #responsive-menu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active\
+        \ {\n        color: #ffffff;\n        border-color: #212121;\n        background-color:\
+        \ #212121;\n    }\n\n    #responsive-menu-container #responsive-menu li.responsive-menu-item\
+        \ a .responsive-menu-subarrow.responsive-menu-subarrow-active:hover {\n  \
+        \      color: #ffffff;\n        border-color: #3f3f3f;\n        background-color:\
+        \ #3f3f3f;\n    }\n\n    #responsive-menu-container #responsive-menu li.responsive-menu-item\
+        \ a .responsive-menu-subarrow:hover {\n        color: #ffffff;\n        border-color:\
+        \ #3f3f3f;\n        background-color: #3f3f3f;\n    }\n\n    #responsive-menu-container\
+        \ #responsive-menu li.responsive-menu-current-item > .responsive-menu-item-link\
+        \ {\n        background-color: #212121;\n        color: #ffffff;\n       \
+        \ border-color: #212121;\n    }\n\n    #responsive-menu-container #responsive-menu\
+        \ li.responsive-menu-current-item > .responsive-menu-item-link:hover {\n \
+        \       background-color: #3f3f3f;\n        color: #ffffff;\n        border-color:\
+        \ #3f3f3f;\n    }\n\n            #responsive-menu-container #responsive-menu\
+        \ ul.responsive-menu-submenu li.responsive-menu-item .responsive-menu-item-link\
+        \ {\n                        font-size: 13px;\n            text-align: left;\n\
+        \        }\n\n        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu\
+        \ li.responsive-menu-item a {\n                            height: 40px;\n\
+        \                        line-height: 40px;\n            border-bottom: 1px\
+        \ solid #212121;\n            color: #ffffff;\n            background-color:\
+        \ #212121;\n        }\n\n        #responsive-menu-container #responsive-menu\
+        \ ul.responsive-menu-submenu li.responsive-menu-item a:hover {\n         \
+        \   color: #ffffff;\n            background-color: #3f3f3f;\n            border-color:\
+        \ #212121;\n        }\n\n        #responsive-menu-container #responsive-menu\
+        \ ul.responsive-menu-submenu li.responsive-menu-item a:hover .responsive-menu-subarrow\
+        \ {\n            color: #ffffff;\n            border-color: #3f3f3f;\n   \
+        \         background-color: #3f3f3f;\n        }\n\n        #responsive-menu-container\
+        \ #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a:hover\
+        \ .responsive-menu-subarrow.responsive-menu-subarrow-active {\n          \
+        \  color: #ffffff;\n            border-color: #3f3f3f;\n            background-color:\
+        \ #3f3f3f;\n        }\n\n        #responsive-menu-container #responsive-menu\
+        \ ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow\
+        \ {\n                                        left:unset;\n               \
+        \ right:0;\n                        height: 40px;\n            line-height:\
+        \ 40px;\n            width: 40px;\n            color: #ffffff;\n         \
+        \                               border-left: 1px solid #212121  !important;\n\
+        \                border-right:unset  !important;\n                       \
+        \ background-color: #212121;\n        }\n\n        #responsive-menu-container\
+        \ #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active\
+        \ {\n            color: #ffffff;\n            border-color: #212121;\n   \
+        \         background-color: #212121;\n        }\n\n        #responsive-menu-container\
+        \ #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow.responsive-menu-subarrow-active:hover\
+        \ {\n            color: #ffffff;\n            border-color: #3f3f3f;\n   \
+        \         background-color: #3f3f3f;\n        }\n\n        #responsive-menu-container\
+        \ #responsive-menu ul.responsive-menu-submenu li.responsive-menu-item a .responsive-menu-subarrow:hover\
+        \ {\n            color: #ffffff;\n            border-color: #3f3f3f;\n   \
+        \         background-color: #3f3f3f;\n        }\n\n        #responsive-menu-container\
+        \ #responsive-menu ul.responsive-menu-submenu li.responsive-menu-current-item\
+        \ > .responsive-menu-item-link {\n            background-color: #212121;\n\
+        \            color: #ffffff;\n            border-color: #212121;\n       \
+        \ }\n\n        #responsive-menu-container #responsive-menu ul.responsive-menu-submenu\
+        \ li.responsive-menu-current-item > .responsive-menu-item-link:hover {\n \
+        \           background-color: #3f3f3f;\n            color: #ffffff;\n    \
+        \        border-color: #3f3f3f;\n        }\n    \n    \n    }</style><script>jQuery(document).ready(function($)\
+        \ {\n\n    var ResponsiveMenu = {\n        trigger: '#responsive-menu-button',\n\
+        \        animationSpeed: 500,\n        breakpoint: 1000,\n        pushButton:\
+        \ 'off',\n        animationType: 'slide',\n        animationSide: 'left',\n\
+        \        pageWrapper: '',\n        isOpen: false,\n        triggerTypes: 'click',\n\
+        \        activeClass: 'is-active',\n        container: '#responsive-menu-container',\n\
+        \        openClass: 'responsive-menu-open',\n        accordion: 'off',\n \
+        \       activeArrow: '\u25B2',\n        inactiveArrow: '\u25BC',\n       \
+        \ wrapper: '#responsive-menu-wrapper',\n        closeOnBodyClick: 'off',\n\
+        \        closeOnLinkClick: 'off',\n        itemTriggerSubMenu: 'off',\n  \
+        \      linkElement: '.responsive-menu-item-link',\n        subMenuTransitionTime:\
+        \ 200,\n        openMenu: function() {\n            $(this.trigger).addClass(this.activeClass);\n\
+        \            $('html').addClass(this.openClass);\n            $('.responsive-menu-button-icon-active').hide();\n\
+        \            $('.responsive-menu-button-icon-inactive').show();\n        \
+        \    this.setButtonTextOpen();\n            this.setWrapperTranslate();\n\
+        \            this.isOpen = true;\n        },\n        closeMenu: function()\
+        \ {\n            $(this.trigger).removeClass(this.activeClass);\n        \
+        \    $('html').removeClass(this.openClass);\n            $('.responsive-menu-button-icon-inactive').hide();\n\
+        \            $('.responsive-menu-button-icon-active').show();\n          \
+        \  this.setButtonText();\n            this.clearWrapperTranslate();\n    \
+        \        this.isOpen = false;\n        },\n        setButtonText: function()\
+        \ {\n            if($('.responsive-menu-button-text-open').length > 0 && $('.responsive-menu-button-text').length\
+        \ > 0) {\n                $('.responsive-menu-button-text-open').hide();\n\
+        \                $('.responsive-menu-button-text').show();\n            }\n\
+        \        },\n        setButtonTextOpen: function() {\n            if($('.responsive-menu-button-text').length\
+        \ > 0 && $('.responsive-menu-button-text-open').length > 0) {\n          \
+        \      $('.responsive-menu-button-text').hide();\n                $('.responsive-menu-button-text-open').show();\n\
+        \            }\n        },\n        triggerMenu: function() {\n          \
+        \  this.isOpen ? this.closeMenu() : this.openMenu();\n        },\n       \
+        \ triggerSubArrow: function(subarrow) {\n            var sub_menu = $(subarrow).parent().siblings('.responsive-menu-submenu');\n\
+        \            var self = this;\n            if(this.accordion == 'on') {\n\
+        \                /* Get Top Most Parent and the siblings */\n            \
+        \    var top_siblings = sub_menu.parents('.responsive-menu-item-has-children').last().siblings('.responsive-menu-item-has-children');\n\
+        \                var first_siblings = sub_menu.parents('.responsive-menu-item-has-children').first().siblings('.responsive-menu-item-has-children');\n\
+        \                /* Close up just the top level parents to key the rest as\
+        \ it was */\n                top_siblings.children('.responsive-menu-submenu').slideUp(self.subMenuTransitionTime,\
+        \ 'linear').removeClass('responsive-menu-submenu-open');\n               \
+        \ /* Set each parent arrow to inactive */\n                top_siblings.each(function()\
+        \ {\n                    $(this).find('.responsive-menu-subarrow').first().html(self.inactiveArrow);\n\
+        \                    $(this).find('.responsive-menu-subarrow').first().removeClass('responsive-menu-subarrow-active');\n\
+        \                });\n                /* Now Repeat for the current item siblings\
+        \ */\n                first_siblings.children('.responsive-menu-submenu').slideUp(self.subMenuTransitionTime,\
+        \ 'linear').removeClass('responsive-menu-submenu-open');\n               \
+        \ first_siblings.each(function() {\n                    $(this).find('.responsive-menu-subarrow').first().html(self.inactiveArrow);\n\
+        \                    $(this).find('.responsive-menu-subarrow').first().removeClass('responsive-menu-subarrow-active');\n\
+        \                });\n            }\n            if(sub_menu.hasClass('responsive-menu-submenu-open'))\
+        \ {\n                sub_menu.slideUp(self.subMenuTransitionTime, 'linear').removeClass('responsive-menu-submenu-open');\n\
+        \                $(subarrow).html(this.inactiveArrow);\n                $(subarrow).removeClass('responsive-menu-subarrow-active');\n\
+        \            } else {\n                sub_menu.slideDown(self.subMenuTransitionTime,\
+        \ 'linear').addClass('responsive-menu-submenu-open');\n                $(subarrow).html(this.activeArrow);\n\
+        \                $(subarrow).addClass('responsive-menu-subarrow-active');\n\
+        \            }\n        },\n        menuHeight: function() {\n           \
+        \ return $(this.container).height();\n        },\n        menuWidth: function()\
+        \ {\n            return $(this.container).width();\n        },\n        wrapperHeight:\
+        \ function() {\n            return $(this.wrapper).height();\n        },\n\
+        \        setWrapperTranslate: function() {\n            switch(this.animationSide)\
+        \ {\n                case 'left':\n                    translate = 'translateX('\
+        \ + this.menuWidth() + 'px)'; break;\n                case 'right':\n    \
+        \                translate = 'translateX(-' + this.menuWidth() + 'px)'; break;\n\
+        \                case 'top':\n                    translate = 'translateY('\
+        \ + this.wrapperHeight() + 'px)'; break;\n                case 'bottom':\n\
+        \                    translate = 'translateY(-' + this.menuHeight() + 'px)';\
+        \ break;\n            }\n            if(this.animationType == 'push') {\n\
+        \                $(this.pageWrapper).css({'transform':translate});\n     \
+        \           $('html, body').css('overflow-x', 'hidden');\n            }\n\
+        \            if(this.pushButton == 'on') {\n                $('#responsive-menu-button').css({'transform':translate});\n\
+        \            }\n        },\n        clearWrapperTranslate: function() {\n\
+        \            var self = this;\n            if(this.animationType == 'push')\
+        \ {\n                $(this.pageWrapper).css({'transform':''});\n        \
+        \        setTimeout(function() {\n                    $('html, body').css('overflow-x',\
+        \ '');\n                }, self.animationSpeed);\n            }\n        \
+        \    if(this.pushButton == 'on') {\n                $('#responsive-menu-button').css({'transform':''});\n\
+        \            }\n        },\n        init: function() {\n            var self\
+        \ = this;\n            $(this.trigger).on(this.triggerTypes, function(e){\n\
+        \                e.stopPropagation();\n                self.triggerMenu();\n\
+        \            });\n            $(this.trigger).mouseup(function(){\n      \
+        \          $(self.trigger).blur();\n            });\n            $('.responsive-menu-subarrow').on('click',\
+        \ function(e) {\n                e.preventDefault();\n                e.stopPropagation();\n\
+        \                self.triggerSubArrow(this);\n            });\n          \
+        \  $(window).resize(function() {\n                if($(window).width() > self.breakpoint)\
+        \ {\n                    if(self.isOpen){\n                        self.closeMenu();\n\
+        \                    }\n                } else {\n                    if($('.responsive-menu-open').length>0){\n\
+        \                        self.setWrapperTranslate();\n                   \
+        \ }\n                }\n            });\n            if(this.closeOnLinkClick\
+        \ == 'on') {\n                $(this.linkElement).on('click', function(e)\
+        \ {\n                    e.preventDefault();\n                    /* Fix for\
+        \ when close menu on parent clicks is on */\n                    if(self.itemTriggerSubMenu\
+        \ == 'on' && $(this).is('.responsive-menu-item-has-children > ' + self.linkElement))\
+        \ {\n                        return;\n                    }\n            \
+        \        old_href = $(this).attr('href');\n                    old_target\
+        \ = typeof $(this).attr('target') == 'undefined' ? '_self' : $(this).attr('target');\n\
+        \                    if(self.isOpen) {\n                        if($(e.target).closest('.responsive-menu-subarrow').length)\
+        \ {\n                            return;\n                        }\n    \
+        \                    self.closeMenu();\n                        setTimeout(function()\
+        \ {\n                            window.open(old_href, old_target);\n    \
+        \                    }, self.animationSpeed);\n                    }\n   \
+        \             });\n            }\n            if(this.closeOnBodyClick ==\
+        \ 'on') {\n                $(document).on('click', 'body', function(e) {\n\
+        \                    if(self.isOpen) {\n                        if($(e.target).closest('#responsive-menu-container').length\
+        \ || $(e.target).closest('#responsive-menu-button').length) {\n          \
+        \                  return;\n                        }\n                  \
+        \  }\n                    self.closeMenu();\n                });\n       \
+        \     }\n            if(this.itemTriggerSubMenu == 'on') {\n             \
+        \   $('.responsive-menu-item-has-children > ' + this.linkElement).on('click',\
+        \ function(e) {\n                    e.preventDefault();\n               \
+        \     self.triggerSubArrow($(this).children('.responsive-menu-subarrow').first());\n\
+        \                });\n            }\n        }\n    };\n    ResponsiveMenu.init();\n\
+        });</script> <meta name=\"msvalidate.01\" content=\"FD59BA695D37F449688AF532EC7D064D\"\
+        \ />\n<link href=\"https://fonts.googleapis.com/css?family=Anton\" rel=\"\
+        stylesheet\">\n</head>\n<body class=\"archive tag tag-wheat-news tag-6638\
+        \ desktop chrome tribe-no-js group-blog hfeed responsive-menu-slide-left\"\
+        >\n<div id=\"page\" class=\"site\">\n<a class=\"skip-link screen-reader-text\"\
+        \ href=\"#content\">Skip to content</a>\n<header id=\"masthead\" class=\"\
+        site-header\" role=\"banner\">\n<div class=\"site-branding\">\n<a href=\"\
+        /\"><img src=\"https://agfax.com/wp-content/uploads/agfax-site-logo-20190408.jpg\"\
+        \ width=\"250\" border=\"0\" alt=\"AgFax Logo\" /></a>\n<p class=\"site-title\"\
+        ><a href=\"https://agfax.com/\" rel=\"home\">AgFax</a></p>\n</div>\n<nav id=\"\
+        site-navigation\" class=\"main-navigation\" role=\"navigation\">\n<button\
+        \ class=\"menu-toggle\" aria-controls=\"primary-menu\" aria-expanded=\"false\"\
+        >Primary Menu</button>\n<section id=\"search-4\" class=\"widget widget_search\"\
+        ><form role=\"search\" method=\"get\" class=\"search-form\" action=\"https://agfax.com/\"\
+        >\n<label>\n<span class=\"screen-reader-text\">Search for:</span>\n<input\
+        \ type=\"search\" class=\"search-field\" placeholder=\"Search &hellip;\" value=\"\
+        \" name=\"s\" />\n</label>\n<input type=\"submit\" class=\"search-submit\"\
+        \ value=\"Search\" />\n</form></section>\n<div class=\"menu-home-page-navigation-container\"\
+        ><ul id=\"primary-menu\" class=\"menu\"><li id=\"menu-item-193942\" class=\"\
+        bluebtn menu-item menu-item-type-custom menu-item-object-custom menu-item-193942\"\
+        ><a href=\"/\">Home</a></li>\n<li id=\"menu-item-193941\" class=\"bluebtn\
+        \ menu-item menu-item-type-custom menu-item-object-custom menu-item-193941\"\
+        ><a href=\"/subscriptions\">Subscribe</a></li>\n<li id=\"menu-item-193943\"\
+        \ class=\"bluebtn menu-item menu-item-type-post_type menu-item-object-page\
+        \ menu-item-193943\"><a href=\"https://agfax.com/about-agfax/\">About AgFax</a></li>\n\
+        <li id=\"menu-item-193945\" class=\"bluebtn menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-193945\"><a href=\"https://agfax.com/advertise/\"\
+        >Advertise</a></li>\n<li id=\"menu-item-205385\" class=\"mobilemenu menu-item\
+        \ menu-item-type-taxonomy menu-item-object-category menu-item-205385\"><a\
+        \ href=\"https://agfax.com/category/rssfeeds/grain/\">Grain</a></li>\n<li\
+        \ id=\"menu-item-205383\" class=\"mobilemenu menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-205383\"><a href=\"https://agfax.com/category/rssfeeds/soybeans/\"\
+        >Soybeans</a></li>\n<li id=\"menu-item-205386\" class=\"mobilemenu menu-item\
+        \ menu-item-type-taxonomy menu-item-object-category menu-item-205386\"><a\
+        \ href=\"https://agfax.com/category/rssfeeds/cotton/\">Cotton</a></li>\n<li\
+        \ id=\"menu-item-205382\" class=\"mobilemenu menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-205382\"><a href=\"https://agfax.com/category/rssfeeds/rice/\"\
+        >Rice</a></li>\n<li id=\"menu-item-205387\" class=\"mobilemenu menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-205387\"><a href=\"https://agfax.com/category/rssfeeds/peanuts/\"\
+        >Peanuts</a></li>\n<li id=\"menu-item-205384\" class=\"mobilemenu menu-item\
+        \ menu-item-type-taxonomy menu-item-object-category menu-item-205384\"><a\
+        \ href=\"https://agfax.com/category/rssfeeds/tree-and-vine/\">Tree and Vine</a></li>\n\
+        <li id=\"menu-item-205390\" class=\"mobilemenu menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-205390\"><a href=\"https://agfax.com/category/rssfeeds/policy/\"\
+        >Policy</a></li>\n<li id=\"menu-item-205391\" class=\"mobilemenu menu-item\
+        \ menu-item-type-taxonomy menu-item-object-category menu-item-205391\"><a\
+        \ href=\"https://agfax.com/category/rssfeeds/markets-rssfeeds/\">Markets</a></li>\n\
+        <li id=\"menu-item-205389\" class=\"mobilemenu menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-205389\"><a href=\"https://agfax.com/category/rssfeeds/editors-picks/\"\
+        >Editor&#8217;s Picks</a></li>\n</ul></div>\n</nav>\n</header>\n<div id=\"\
+        content\" class=\"site-content\">\n<div id=\"top_ad\">\n\n<script type=\"\
+        text/javascript\" src=\"https://g.adspeed.net/ad.php?do=js&zid=22773&oid=7403&wd=-1&ht=-1&target=_blank&noerror=1&viewable=1\"\
+        ></script>\n\n</div>\n<div id=\"ss_left\">\n<div class=\"ad sky\">\n\n\n\n\
+        </div>\n</div>\n<div id=\"ss_right\">\n<div class=\"ad sky one\">\n\n<script\
+        \ type=\"text/javascript\" src=\"https://g.adspeed.net/ad.php?do=js&zid=22774&oid=7403&wd=-1&ht=-1&target=_blank&noerror=1&viewable=1\"\
+        ></script>\n\n</div>\n\n\n\n\n\n</div>\n<div id=\"primary\" class=\"content-area\"\
+        >\n<main id=\"main\" class=\"site-main\" role=\"main\">\n<div class=\"column\
+        \ last desktop\">\n\n<div id=\"widget_code_php_in_widget-10\" class=\"widget\
+        \ code_php_in_widget\" data-version=\"1.4\">\n<h3 class=\"widget-title widget_title\"\
+        >\n<span></span>\n</h3>\n<div>\n<div class=\"execphpwidget\"><ul class=\"\
+        sunbelt\"></ul></div>\n</div>\n</div> <section id=\"nav_menu-6\" class=\"\
+        widget widget_nav_menu\"><h2 class=\"widget-title\">Weather</h2><div class=\"\
+        menu-weather-container\"><ul id=\"menu-weather\" class=\"menu\"><li id=\"\
+        menu-item-197028\" class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-197028\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=1\"\
+        >Local Weather</a></li>\n<li id=\"menu-item-197029\" class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197029\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=2\"\
+        >Radar</a></li>\n<li id=\"menu-item-197030\" class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197030\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=6\"\
+        >U.S. Satellite</a></li>\n<li id=\"menu-item-197031\" class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197031\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=11\"\
+        >24-Hour Surface F&#8217;cast</a></li>\n<li id=\"menu-item-197032\" class=\"\
+        menu-item menu-item-type-custom menu-item-object-custom menu-item-197032\"\
+        ><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=13\">24-Hour Rainfall\
+        \ Est.</a></li>\n<li id=\"menu-item-197033\" class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197033\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=15\"\
+        >48-Storm Path Accum.</a></li>\n<li id=\"menu-item-197034\" class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom menu-item-197034\"><a href=\"\
+        http://dtn.agfax.com/index.cfm?show=1&#038;mapID=16\">6-10 Day Temp F&#8217;cast</a></li>\n\
+        <li id=\"menu-item-197035\" class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-197035\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=17\"\
+        >6-10 Day Precip. F&#8217;Cast</a></li>\n<li id=\"menu-item-197036\" class=\"\
+        menu-item menu-item-type-custom menu-item-object-custom menu-item-197036\"\
+        ><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=18\">Thunderstorm\
+        \ Outlook</a></li>\n<li id=\"menu-item-197037\" class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197037\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=19\"\
+        >US Drought Monitor</a></li>\n<li id=\"menu-item-197038\" class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom menu-item-197038\"><a href=\"\
+        http://dtn.agfax.com/index.cfm?show=1&#038;mapID=33\">US Palmer Drought Index</a></li>\n\
+        <li id=\"menu-item-197039\" class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-197039\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=34\"\
+        >US Crop Moisture Index</a></li>\n<li id=\"menu-item-197040\" class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom menu-item-197040\"><a href=\"\
+        http://dtn.agfax.com/index.cfm?show=1&#038;mapID=20\">US Growing Degree Days</a></li>\n\
+        <li id=\"menu-item-197041\" class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-197041\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=21\"\
+        >Hurricane Tracks</a></li>\n</ul></div></section><section id=\"nav_menu-7\"\
+        \ class=\"widget widget_nav_menu\"><h2 class=\"widget-title\">Markets</h2><div\
+        \ class=\"menu-futures-and-options-container\"><ul id=\"menu-futures-and-options\"\
+        \ class=\"menu\"><li id=\"menu-item-197042\" class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197042\"><a href=\"http://www.commonwealthgin.com/index.cfm?show=62&#038;subtype=18\"\
+        >Cotton Futures/Options</a></li>\n<li id=\"menu-item-197048\" class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom menu-item-197048\"><a href=\"\
+        https://agfax.com/news/markets/daily-cotton\">Cotton Daily</a></li>\n<li id=\"\
+        menu-item-197049\" class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-197049\"><a href=\"https://agfax.com/news/markets/usda-weekly-cotton\"\
+        >Cotton Weekly</a></li>\n<li id=\"menu-item-197044\" class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197044\"><a href=\"http://dtn.agfax.com/index.cfm?show=62&#038;subtype=2\"\
+        >Soybeans Futures/Options</a></li>\n<li id=\"menu-item-197045\" class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom menu-item-197045\"><a href=\"\
+        http://dtn.agfax.com/index.cfm?show=62&#038;subtype=1\">Corn Futures/Options</a></li>\n\
+        <li id=\"menu-item-197046\" class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-197046\"><a href=\"http://dtn.agfax.com/index.cfm?show=62&#038;subtype=5\"\
+        >Wheat Futures/Options</a></li>\n<li id=\"menu-item-197043\" class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom menu-item-197043\"><a href=\"\
+        http://dtn.agfax.com/index.cfm?show=62&#038;subtype=6\">Rice Futures/Options</a></li>\n\
+        <li id=\"menu-item-197051\" class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-197051\"><a href=\"https://agfax.com/news/markets/milled-rice-prices\"\
+        >Rice &#8211; Milled</a></li>\n<li id=\"menu-item-197052\" class=\"menu-item\
+        \ menu-item-type-custom menu-item-object-custom menu-item-197052\"><a href=\"\
+        https://agfax.com/news/markets/usda-weekly-grain-report\">Weekly Grain Review</a></li>\n\
+        <li id=\"menu-item-197047\" class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-197047\"><a href=\"http://dtn.agfax.com/index.cfm?show=62\">All\
+        \ Commodities</a></li>\n</ul></div></section>\n<div id=\"widget_code_php_in_widget-11\"\
+        \ class=\"widget code_php_in_widget\" data-version=\"1.4\">\n<h3 class=\"\
+        widget-title widget_title\">\n<span></span>\n</h3>\n<div>\n<div class=\"execphpwidget\"\
+        ><h2 class=\"widget-title\">Editor's Picks</h2>\n<ul class=\"editors\"><li><div\
+        \ class=\"thumb\"></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/29/arkansas-winter-county-production-meetings-move-online/\"\
+        >Arkansas: Winter County Production Meetings Move Online</a></span><span class=\"\
+        date\">11-29</span></div></li><li><div class=\"thumb\"><img width=\"300\"\
+        \ height=\"150\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/soybeans-broadcast-hooded-sprayer-redball-642E-3-pt.jpg?fit=300%2C150&amp;ssl=1\"\
+        \ class=\"attachment-300x300 size-300x300 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/soybeans-broadcast-hooded-sprayer-redball-642E-3-pt.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/soybeans-broadcast-hooded-sprayer-redball-642E-3-pt.jpg?resize=300%2C150&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 300px) 100vw, 300px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/soybeans-broadcast-hooded-sprayer-redball-642E-3-pt.jpg?fit=300%2C150&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfaxweedsolutions.com/2020/11/29/hooded-sprayers-get-another-look-dtn/\"\
+        >Hooded Sprayers Get Another Look &#8211; DTN</a></span><span class=\"date\"\
+        >11-29</span></div></li><li><div class=\"thumb\"><img width=\"300\" height=\"\
+        200\" src=\"https://i1.wp.com/agfax.com/wp-content/uploads/planter-units-weeds-pre-emerge-spray-nozzles-DF-20160510-006.jpg?fit=300%2C200&amp;ssl=1\"\
+        \ class=\"attachment-300x300 size-300x300 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i1.wp.com/agfax.com/wp-content/uploads/planter-units-weeds-pre-emerge-spray-nozzles-DF-20160510-006.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i1.wp.com/agfax.com/wp-content/uploads/planter-units-weeds-pre-emerge-spray-nozzles-DF-20160510-006.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 300px) 100vw, 300px\" data-lazy-src=\"\
+        https://i1.wp.com/agfax.com/wp-content/uploads/planter-units-weeds-pre-emerge-spray-nozzles-DF-20160510-006.jpg?fit=300%2C200&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfaxweedsolutions.com/2020/11/29/glyphosate-still-under-review-dtn/\"\
+        >Glyphosate Still Under Review &#8211; DTN</a></span><span class=\"date\"\
+        >11-29</span></div></li><li><div class=\"thumb\"><img width=\"300\" height=\"\
+        200\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/soybean_cyst_nematodes_south_dakota_state_university.jpg?fit=300%2C200&amp;ssl=1\"\
+        \ class=\"attachment-300x300 size-300x300 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/soybean_cyst_nematodes_south_dakota_state_university.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/soybean_cyst_nematodes_south_dakota_state_university.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 300px) 100vw, 300px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/soybean_cyst_nematodes_south_dakota_state_university.jpg?fit=300%2C200&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/29/nebraska-soybean-cyst-nematodes-updates-video/\"\
+        >Nebraska: Soybean Cyst Nematodes Updates &#8211; Video</a></span><span class=\"\
+        date\">11-29</span></div></li><li><div class=\"thumb\"><img width=\"300\"\
+        \ height=\"200\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/shipping-container-export-trade-snagit-20191210.jpg?fit=300%2C200&amp;ssl=1\"\
+        \ class=\"attachment-300x300 size-300x300 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/shipping-container-export-trade-snagit-20191210.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/shipping-container-export-trade-snagit-20191210.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 300px) 100vw, 300px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/shipping-container-export-trade-snagit-20191210.jpg?fit=300%2C200&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/25/ag-export-projections-for-2021-a-really-mixed-bag/\"\
+        >Ag Export Projections For 2021: A Really Mixed Bag</a></span><span class=\"\
+        date\">11-25</span></div></li></ul><br />\n<br />\n</div>\n</div>\n</div>\
+        \ </div>\n<div class=\"column middle\">\n<header class=\"page-header\">\n\
+        <h1 class=\"page-title\">Tag: <span>wheat news</span></h1> </header>\n<div\
+        \ class=\"block-content\"><div class=\"article-big featured\"><h2><a href=\"\
+        https://agfax.com/2020/11/27/dtn-grain-closing-higher-finish-for-the-week/\"\
+        >DTN Grain Closing: Higher Finish for the Week</a> <span>Nov 27, 2020</span></h2><div\
+        \ class=\"article-photo\"><a href=\"https://agfax.com/2020/11/27/dtn-grain-closing-higher-finish-for-the-week/\"\
+        \ class=\"hover-effect delegate\"><span class=\"cover\"><img width=\"250\"\
+        \ height=\"167\" src=\"https://i0.wp.com/agfax.com/wp-content/uploads/corn_pouring_into_bin_university_of_tennessee.jpg?fit=250%2C167&amp;ssl=1\"\
+        \ class=\"attachment-250x250 size-250x250 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i0.wp.com/agfax.com/wp-content/uploads/corn_pouring_into_bin_university_of_tennessee.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i0.wp.com/agfax.com/wp-content/uploads/corn_pouring_into_bin_university_of_tennessee.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 250px) 100vw, 250px\" data-lazy-src=\"\
+        https://i0.wp.com/agfax.com/wp-content/uploads/corn_pouring_into_bin_university_of_tennessee.jpg?fit=250%2C167&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></span></a></div><div class=\"article-content\"><span class=\"meta timestamp\"\
+        ><span class=\"icon-text\">&#128340;</span>Nov 27, 2020</span> <br /><span\
+        \ class=\"excerpt\">Grains Finish Week Higher March contracts of corn and\
+        \ all three wheats plus January contracts of soybeans, meal and soybean oil\
+        \ all closed higher in light volume trading the day [&hellip;]</span></div></div></div>\n\
+        <div class=\"block-content\"><div class=\"article-big featured\"><h2><a href=\"\
+        https://agfax.com/2020/11/27/dtn-grain-midday-all-crops-higher/\">DTN Grain\
+        \ Midday: All Crops Higher</a> <span>Nov 27, 2020</span></h2><div class=\"\
+        article-photo\"><a href=\"https://agfax.com/2020/11/27/dtn-grain-midday-all-crops-higher/\"\
+        \ class=\"hover-effect delegate\"><span class=\"cover\"><img width=\"250\"\
+        \ height=\"167\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybean-harvest-drone-grain-cart-042.jpg?fit=250%2C167&amp;ssl=1\"\
+        \ class=\"attachment-250x250 size-250x250 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybean-harvest-drone-grain-cart-042.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybean-harvest-drone-grain-cart-042.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 250px) 100vw, 250px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybean-harvest-drone-grain-cart-042.jpg?fit=250%2C167&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></span></a></div><div class=\"article-content\"><span class=\"meta timestamp\"\
+        ><span class=\"icon-text\">&#128340;</span>Nov 27, 2020</span> <br /><span\
+        \ class=\"excerpt\">Corn is 3 to 5 cents higher, soybeans are 5 to 6 cents\
+        \ higher and wheat is 2 to 11 cents higher. MARKET SUMMARY: The U.S. stock\
+        \ market is firmer [&hellip;]</span></div></div></div>\n<div class=\"block-content\"\
+        ><div class=\"article-big featured\"><h2><a href=\"https://agfax.com/2020/11/27/dtn-grain-open-stabilizing-after-thanksgiving/\"\
+        >DTN Grain Open: Stabilizing After Thanksgiving</a> <span>Nov 27, 2020</span></h2><div\
+        \ class=\"article-photo\"><a href=\"https://agfax.com/2020/11/27/dtn-grain-open-stabilizing-after-thanksgiving/\"\
+        \ class=\"hover-effect delegate\"><span class=\"cover\"><img width=\"250\"\
+        \ height=\"141\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/weed-seed-destruciton-windrow-20201020-lsu.jpg?fit=250%2C141&amp;ssl=1\"\
+        \ class=\"attachment-250x250 size-250x250 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/weed-seed-destruciton-windrow-20201020-lsu.jpg?w=1024&amp;ssl=1\
+        \ 1024w, https://i2.wp.com/agfax.com/wp-content/uploads/weed-seed-destruciton-windrow-20201020-lsu.jpg?resize=300%2C169&amp;ssl=1\
+        \ 300w, https://i2.wp.com/agfax.com/wp-content/uploads/weed-seed-destruciton-windrow-20201020-lsu.jpg?resize=768%2C432&amp;ssl=1\
+        \ 768w\" data-lazy-sizes=\"(max-width: 250px) 100vw, 250px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/weed-seed-destruciton-windrow-20201020-lsu.jpg?fit=250%2C141&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></span></a></div><div class=\"article-content\"><span class=\"meta timestamp\"\
+        ><span class=\"icon-text\">&#128340;</span>Nov 27, 2020</span> <br /><span\
+        \ class=\"excerpt\">Corn is called steady to up 1-2 cents, soybeans are steady\
+        \ to up 2-3 cents and wheat is called steady to up 1-2 cents. Pre-6 a.m. Globex\
+        \ Prices: Corn is [&hellip;]</span></div></div></div>\n<div class=\"block-content\"\
+        ><div class=\"article-big featured\"><h2><a href=\"https://agfax.com/2020/11/25/dtn-grain-midday-stock-market-weaker-2/\"\
+        >DTN Grain Midday: Stock Market Weaker</a> <span>Nov 25, 2020</span></h2><div\
+        \ class=\"article-photo\"><a href=\"https://agfax.com/2020/11/25/dtn-grain-midday-stock-market-weaker-2/\"\
+        \ class=\"hover-effect delegate\"><span class=\"cover\"><img width=\"250\"\
+        \ height=\"167\" src=\"https://i1.wp.com/agfax.com/wp-content/uploads/wheat_field_university_of_arkansas-1-e1586298868483.jpg?fit=250%2C167&amp;ssl=1\"\
+        \ class=\"attachment-250x250 size-250x250 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i1.wp.com/agfax.com/wp-content/uploads/wheat_field_university_of_arkansas-1-e1586298868483.jpg?w=599&amp;ssl=1\
+        \ 599w, https://i1.wp.com/agfax.com/wp-content/uploads/wheat_field_university_of_arkansas-1-e1586298868483.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 250px) 100vw, 250px\" data-lazy-src=\"\
+        https://i1.wp.com/agfax.com/wp-content/uploads/wheat_field_university_of_arkansas-1-e1586298868483.jpg?fit=250%2C167&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></span></a></div><div class=\"article-content\"><span class=\"meta timestamp\"\
+        ><span class=\"icon-text\">&#128340;</span>Nov 25, 2020</span> <br /><span\
+        \ class=\"excerpt\">Corn futures are 3 to 4 cents lower, soybeans are 5 to\
+        \ 6 cents lower and wheat is 6 to 16 cents lower. MARKET SUMMARY: The U.S.\
+        \ stock market is [&hellip;]</span></div></div></div>\n<div class=\"block-content\"\
+        ><div class=\"article-big featured\"><h2><a href=\"https://agfax.com/2020/11/25/dtn-grain-open-mixed-ahead-of-thanksgiving-break/\"\
+        >DTN Grain Open: Mixed Ahead of Thanksgiving Break</a> <span>Nov 25, 2020</span></h2><div\
+        \ class=\"article-photo\"><a href=\"https://agfax.com/2020/11/25/dtn-grain-open-mixed-ahead-of-thanksgiving-break/\"\
+        \ class=\"hover-effect delegate\"><span class=\"cover\"><img width=\"250\"\
+        \ height=\"167\" src=\"https://i0.wp.com/agfax.com/wp-content/uploads/corn_pouring_into_bin_university_of_tennessee.jpg?fit=250%2C167&amp;ssl=1\"\
+        \ class=\"attachment-250x250 size-250x250 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i0.wp.com/agfax.com/wp-content/uploads/corn_pouring_into_bin_university_of_tennessee.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i0.wp.com/agfax.com/wp-content/uploads/corn_pouring_into_bin_university_of_tennessee.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 250px) 100vw, 250px\" data-lazy-src=\"\
+        https://i0.wp.com/agfax.com/wp-content/uploads/corn_pouring_into_bin_university_of_tennessee.jpg?fit=250%2C167&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></span></a></div><div class=\"article-content\"><span class=\"meta timestamp\"\
+        ><span class=\"icon-text\">&#128340;</span>Nov 25, 2020</span> <br /><span\
+        \ class=\"excerpt\">March corn is down 1 1/4 cents per bushel, January soybeans\
+        \ are up 1 3/4 cents, and March KC wheat is down 3/4 cent. Pre-6 a.m. Globex\
+        \ Prices: March corn [&hellip;]</span></div></div></div>\n<div class=\"block-content\"\
+        ><div class=\"article-big featured\"><h2><a href=\"https://agfax.com/2020/11/24/dtn-grain-closing-early-setbacks-survived/\"\
+        >DTN Grain Closing: Early Setbacks Survived</a> <span>Nov 24, 2020</span></h2><div\
+        \ class=\"article-photo\"><a href=\"https://agfax.com/2020/11/24/dtn-grain-closing-early-setbacks-survived/\"\
+        \ class=\"hover-effect delegate\"><span class=\"cover\"><img width=\"250\"\
+        \ height=\"167\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybeans-harvest-Louisiana-Tate-Farm-truck-056.jpg?fit=250%2C167&amp;ssl=1\"\
+        \ class=\"attachment-250x250 size-250x250 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybeans-harvest-Louisiana-Tate-Farm-truck-056.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybeans-harvest-Louisiana-Tate-Farm-truck-056.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 250px) 100vw, 250px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybeans-harvest-Louisiana-Tate-Farm-truck-056.jpg?fit=250%2C167&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></span></a></div><div class=\"article-content\"><span class=\"meta timestamp\"\
+        ><span class=\"icon-text\">&#128340;</span>Nov 24, 2020</span> <br /><span\
+        \ class=\"excerpt\">Row Crops Survive Early Setback; Wheats End Higher March\
+        \ corn and January soybeans both survived early selling attempts and ended\
+        \ with slight losses Tuesday. All three U.S. wheats closed higher, [&hellip;]</span></div></div></div>\n\
+        <div class=\"block-content\"><div class=\"article-big featured\"><h2><a href=\"\
+        https://agfax.com/2020/11/24/dtn-grain-midday-corn-soybeans-lower-2/\">DTN\
+        \ Grain Midday: Corn, Soybeans Lower</a> <span>Nov 24, 2020</span></h2><div\
+        \ class=\"article-photo\"><a href=\"https://agfax.com/2020/11/24/dtn-grain-midday-corn-soybeans-lower-2/\"\
+        \ class=\"hover-effect delegate\"><span class=\"cover\"><img width=\"250\"\
+        \ height=\"167\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybean-harvest-drone-grain-cart-042.jpg?fit=250%2C167&amp;ssl=1\"\
+        \ class=\"attachment-250x250 size-250x250 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybean-harvest-drone-grain-cart-042.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybean-harvest-drone-grain-cart-042.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 250px) 100vw, 250px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybean-harvest-drone-grain-cart-042.jpg?fit=250%2C167&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></span></a></div><div class=\"article-content\"><span class=\"meta timestamp\"\
+        ><span class=\"icon-text\">&#128340;</span>Nov 24, 2020</span> <br /><span\
+        \ class=\"excerpt\">Corn is 2 to 3 cents lower, soybeans are 5 to 6 cents\
+        \ lower and wheat is 1 to 6 cents higher. MARKET SUMMARY: The U.S. stock market\
+        \ is firmer [&hellip;]</span></div></div></div>\n<div class=\"block-content\"\
+        ><div class=\"article-big featured\"><h2><a href=\"https://agfax.com/2020/11/24/dtn-grain-open-sharp-retreats/\"\
+        >DTN Grain Open: Sharp Retreats</a> <span>Nov 24, 2020</span></h2><div class=\"\
+        article-photo\"><a href=\"https://agfax.com/2020/11/24/dtn-grain-open-sharp-retreats/\"\
+        \ class=\"hover-effect delegate\"><span class=\"cover\"><img width=\"250\"\
+        \ height=\"167\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybeans-harvest-Louisiana-Tate-Farm-truck-056.jpg?fit=250%2C167&amp;ssl=1\"\
+        \ class=\"attachment-250x250 size-250x250 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybeans-harvest-Louisiana-Tate-Farm-truck-056.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybeans-harvest-Louisiana-Tate-Farm-truck-056.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 250px) 100vw, 250px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybeans-harvest-Louisiana-Tate-Farm-truck-056.jpg?fit=250%2C167&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></span></a></div><div class=\"article-content\"><span class=\"meta timestamp\"\
+        ><span class=\"icon-text\">&#128340;</span>Nov 24, 2020</span> <br /><span\
+        \ class=\"excerpt\">December corn is down 8 cents per bushel, January soybeans\
+        \ are down 6 3/4 cents, and March KC wheat is down 5 cents. Pre-6 a.m. Globex\
+        \ Prices: December corn is [&hellip;]</span></div></div></div>\n<div class=\"\
+        block-content\"><div class=\"article-big featured\"><h2><a href=\"https://agfax.com/2020/11/23/dtn-grain-closing-vaccines-within-reach/\"\
+        >DTN Grain Closing: Vaccines Within Reach</a> <span>Nov 23, 2020</span></h2><div\
+        \ class=\"article-photo\"><a href=\"https://agfax.com/2020/11/23/dtn-grain-closing-vaccines-within-reach/\"\
+        \ class=\"hover-effect delegate\"><span class=\"cover\"><img width=\"250\"\
+        \ height=\"141\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/weed-seed-destruciton-windrow-20201020-lsu.jpg?fit=250%2C141&amp;ssl=1\"\
+        \ class=\"attachment-250x250 size-250x250 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/weed-seed-destruciton-windrow-20201020-lsu.jpg?w=1024&amp;ssl=1\
+        \ 1024w, https://i2.wp.com/agfax.com/wp-content/uploads/weed-seed-destruciton-windrow-20201020-lsu.jpg?resize=300%2C169&amp;ssl=1\
+        \ 300w, https://i2.wp.com/agfax.com/wp-content/uploads/weed-seed-destruciton-windrow-20201020-lsu.jpg?resize=768%2C432&amp;ssl=1\
+        \ 768w\" data-lazy-sizes=\"(max-width: 250px) 100vw, 250px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/weed-seed-destruciton-windrow-20201020-lsu.jpg?fit=250%2C141&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></span></a></div><div class=\"article-content\"><span class=\"meta timestamp\"\
+        ><span class=\"icon-text\">&#128340;</span>Nov 23, 2020</span> <br /><span\
+        \ class=\"excerpt\">January soybeans closed up 10 1/2 cents Monday after briefly\
+        \ trading as high as $12.00 for the first time in over four years. Corn and\
+        \ wheat prices ended modestly higher [&hellip;]</span></div></div></div>\n\
+        <div class=\"block-content\"><div class=\"article-big featured\"><h2><a href=\"\
+        https://agfax.com/2020/11/23/dtn-grain-midday-stock-market-firm/\">DTN Grain\
+        \ Midday: Stock Market Firm</a> <span>Nov 23, 2020</span></h2><div class=\"\
+        article-photo\"><a href=\"https://agfax.com/2020/11/23/dtn-grain-midday-stock-market-firm/\"\
+        \ class=\"hover-effect delegate\"><span class=\"cover\"><img width=\"250\"\
+        \ height=\"167\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybean-harvest-drone-grain-cart-042.jpg?fit=250%2C167&amp;ssl=1\"\
+        \ class=\"attachment-250x250 size-250x250 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybean-harvest-drone-grain-cart-042.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybean-harvest-drone-grain-cart-042.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 250px) 100vw, 250px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybean-harvest-drone-grain-cart-042.jpg?fit=250%2C167&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></span></a></div><div class=\"article-content\"><span class=\"meta timestamp\"\
+        ><span class=\"icon-text\">&#128340;</span>Nov 23, 2020</span> <br /><span\
+        \ class=\"excerpt\">Corn is 2 to 4 cents higher, soybeans are 9 to 11 cents\
+        \ higher and wheat is 2 to 7 cents higher at midday Monday. MARKET SUMMARY:\
+        \ The U.S. stock [&hellip;]</span></div></div></div>\n<nav class=\"navigation\
+        \ posts-navigation\" role=\"navigation\" aria-label=\"Posts\">\n<h2 class=\"\
+        screen-reader-text\">Posts navigation</h2>\n<div class=\"nav-links\"><div\
+        \ class=\"nav-previous\"><a href=\"https://agfax.com/tag/wheat-news/page/2/\"\
+        >Older posts</a></div></div>\n</nav>\n</div>\n<div class=\"column last mobile\"\
+        >\n\n<div id=\"widget_code_php_in_widget-3\" class=\"widget code_php_in_widget\"\
+        \ data-version=\"1.4\">\n<h3 class=\"widget-title widget_title\">\n<span></span>\n\
+        </h3>\n<div>\n<div class=\"execphpwidget\"><ul class=\"sunbelt\"></ul></div>\n\
+        </div>\n</div> <section id=\"nav_menu-4\" class=\"widget widget_nav_menu\"\
+        ><h2 class=\"widget-title\">Weather</h2><div class=\"menu-weather-container\"\
+        ><ul id=\"menu-weather-1\" class=\"menu\"><li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197028\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=1\"\
+        >Local Weather</a></li>\n<li class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-197029\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=2\"\
+        >Radar</a></li>\n<li class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-197030\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=6\"\
+        >U.S. Satellite</a></li>\n<li class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-197031\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=11\"\
+        >24-Hour Surface F&#8217;cast</a></li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197032\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=13\"\
+        >24-Hour Rainfall Est.</a></li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197033\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=15\"\
+        >48-Storm Path Accum.</a></li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197034\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=16\"\
+        >6-10 Day Temp F&#8217;cast</a></li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197035\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=17\"\
+        >6-10 Day Precip. F&#8217;Cast</a></li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197036\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=18\"\
+        >Thunderstorm Outlook</a></li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197037\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=19\"\
+        >US Drought Monitor</a></li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197038\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=33\"\
+        >US Palmer Drought Index</a></li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197039\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=34\"\
+        >US Crop Moisture Index</a></li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197040\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=20\"\
+        >US Growing Degree Days</a></li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197041\"><a href=\"http://dtn.agfax.com/index.cfm?show=1&#038;mapID=21\"\
+        >Hurricane Tracks</a></li>\n</ul></div></section><section id=\"nav_menu-5\"\
+        \ class=\"widget widget_nav_menu\"><h2 class=\"widget-title\">Markets</h2><div\
+        \ class=\"menu-futures-and-options-container\"><ul id=\"menu-futures-and-options-1\"\
+        \ class=\"menu\"><li class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-197042\"><a href=\"http://www.commonwealthgin.com/index.cfm?show=62&#038;subtype=18\"\
+        >Cotton Futures/Options</a></li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197048\"><a href=\"https://agfax.com/news/markets/daily-cotton\"\
+        >Cotton Daily</a></li>\n<li class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-197049\"><a href=\"https://agfax.com/news/markets/usda-weekly-cotton\"\
+        >Cotton Weekly</a></li>\n<li class=\"menu-item menu-item-type-custom menu-item-object-custom\
+        \ menu-item-197044\"><a href=\"http://dtn.agfax.com/index.cfm?show=62&#038;subtype=2\"\
+        >Soybeans Futures/Options</a></li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197045\"><a href=\"http://dtn.agfax.com/index.cfm?show=62&#038;subtype=1\"\
+        >Corn Futures/Options</a></li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197046\"><a href=\"http://dtn.agfax.com/index.cfm?show=62&#038;subtype=5\"\
+        >Wheat Futures/Options</a></li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197043\"><a href=\"http://dtn.agfax.com/index.cfm?show=62&#038;subtype=6\"\
+        >Rice Futures/Options</a></li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197051\"><a href=\"https://agfax.com/news/markets/milled-rice-prices\"\
+        >Rice &#8211; Milled</a></li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197052\"><a href=\"https://agfax.com/news/markets/usda-weekly-grain-report\"\
+        >Weekly Grain Review</a></li>\n<li class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-197047\"><a href=\"http://dtn.agfax.com/index.cfm?show=62\"\
+        >All Commodities</a></li>\n</ul></div></section>\n<div id=\"widget_code_php_in_widget-4\"\
+        \ class=\"widget code_php_in_widget\" data-version=\"1.4\">\n<h3 class=\"\
+        widget-title widget_title\">\n<span></span>\n</h3>\n<div>\n<div class=\"execphpwidget\"\
+        ><h2 class=\"widget-title\">Editor's Picks</h2>\n<ul class=\"editors\"><li><div\
+        \ class=\"thumb\"></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/29/arkansas-winter-county-production-meetings-move-online/\"\
+        >Arkansas: Winter County Production Meetings Move Online</a></span><span class=\"\
+        date\">11-29</span></div></li><li><div class=\"thumb\"><img width=\"300\"\
+        \ height=\"150\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/soybeans-broadcast-hooded-sprayer-redball-642E-3-pt.jpg?fit=300%2C150&amp;ssl=1\"\
+        \ class=\"attachment-300x300 size-300x300 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/soybeans-broadcast-hooded-sprayer-redball-642E-3-pt.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/soybeans-broadcast-hooded-sprayer-redball-642E-3-pt.jpg?resize=300%2C150&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 300px) 100vw, 300px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/soybeans-broadcast-hooded-sprayer-redball-642E-3-pt.jpg?fit=300%2C150&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfaxweedsolutions.com/2020/11/29/hooded-sprayers-get-another-look-dtn/\"\
+        >Hooded Sprayers Get Another Look &#8211; DTN</a></span><span class=\"date\"\
+        >11-29</span></div></li><li><div class=\"thumb\"><img width=\"300\" height=\"\
+        200\" src=\"https://i1.wp.com/agfax.com/wp-content/uploads/planter-units-weeds-pre-emerge-spray-nozzles-DF-20160510-006.jpg?fit=300%2C200&amp;ssl=1\"\
+        \ class=\"attachment-300x300 size-300x300 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i1.wp.com/agfax.com/wp-content/uploads/planter-units-weeds-pre-emerge-spray-nozzles-DF-20160510-006.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i1.wp.com/agfax.com/wp-content/uploads/planter-units-weeds-pre-emerge-spray-nozzles-DF-20160510-006.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 300px) 100vw, 300px\" data-lazy-src=\"\
+        https://i1.wp.com/agfax.com/wp-content/uploads/planter-units-weeds-pre-emerge-spray-nozzles-DF-20160510-006.jpg?fit=300%2C200&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfaxweedsolutions.com/2020/11/29/glyphosate-still-under-review-dtn/\"\
+        >Glyphosate Still Under Review &#8211; DTN</a></span><span class=\"date\"\
+        >11-29</span></div></li><li><div class=\"thumb\"><img width=\"300\" height=\"\
+        200\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/soybean_cyst_nematodes_south_dakota_state_university.jpg?fit=300%2C200&amp;ssl=1\"\
+        \ class=\"attachment-300x300 size-300x300 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/soybean_cyst_nematodes_south_dakota_state_university.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/soybean_cyst_nematodes_south_dakota_state_university.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 300px) 100vw, 300px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/soybean_cyst_nematodes_south_dakota_state_university.jpg?fit=300%2C200&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/29/nebraska-soybean-cyst-nematodes-updates-video/\"\
+        >Nebraska: Soybean Cyst Nematodes Updates &#8211; Video</a></span><span class=\"\
+        date\">11-29</span></div></li><li><div class=\"thumb\"><img width=\"300\"\
+        \ height=\"200\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/shipping-container-export-trade-snagit-20191210.jpg?fit=300%2C200&amp;ssl=1\"\
+        \ class=\"attachment-300x300 size-300x300 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/shipping-container-export-trade-snagit-20191210.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/shipping-container-export-trade-snagit-20191210.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 300px) 100vw, 300px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/shipping-container-export-trade-snagit-20191210.jpg?fit=300%2C200&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/25/ag-export-projections-for-2021-a-really-mixed-bag/\"\
+        >Ag Export Projections For 2021: A Really Mixed Bag</a></span><span class=\"\
+        date\">11-25</span></div></li></ul><br />\n<br />\n<div class=\"block\">\n\
+        <div class=\"block-title\" style=\"background: #cc0000;\">\n<strong>From Industry</strong>\n\
+        </div>\n<div class=\"block-content\">\n<div class=\"paragraph-row\">\n<div\
+        \ class=\"column6\">\n<ul class=\"article-block\">\n<li>\n<div class=\"article-photo\"\
+        >\n<a href=\"https://agfax.com/2020/11/02/rice-horizon-ag-rolls-out-two-new-clearfield-varieties/\"\
+        \ class=\"hover-effect\">\n<img width=\"700\" height=\"400\" src=\"https://agfax.com/wp-content/uploads/DF-20160903-Drone-Rice-Harvest-047.jpg\"\
+        \ class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i0.wp.com/agfax.com/wp-content/uploads/DF-20160903-Drone-Rice-Harvest-047.jpg?w=700&amp;ssl=1\
+        \ 700w, https://i0.wp.com/agfax.com/wp-content/uploads/DF-20160903-Drone-Rice-Harvest-047.jpg?resize=300%2C171&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 700px) 100vw, 700px\" data-lazy-src=\"\
+        https://agfax.com/wp-content/uploads/DF-20160903-Drone-Rice-Harvest-047.jpg?is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /> </a>\n</div>\n<div class=\"article-content\">\n<h4>\n<a href=\"https://agfax.com/2020/11/02/rice-horizon-ag-rolls-out-two-new-clearfield-varieties/\"\
+        >Rice: Horizon Ag Rolls Out Two New Clearfield Varieties</a>\n<span class=\"\
+        meta\"></span>\n</h4>\n<span class=\"meta\"></span>\n</div>\n</li>\n</ul>\n\
+        \n</div>\n<div class=\"column6\">\n<ul class=\"article-block\">\n<li>\n<div\
+        \ class=\"article-photo\">\n<a href=\"https://agfax.com/2020/10/28/texas-meadow-ffa-wins-phytogen-cottonseeds-denim-drive/\"\
+        \ class=\"hover-effect\">\n<img width=\"600\" height=\"400\" src=\"https://agfax.com/wp-content/uploads/FFA_logo.svg_.jpg\"\
+        \ class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i0.wp.com/agfax.com/wp-content/uploads/FFA_logo.svg_.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i0.wp.com/agfax.com/wp-content/uploads/FFA_logo.svg_.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 600px) 100vw, 600px\" data-lazy-src=\"\
+        https://agfax.com/wp-content/uploads/FFA_logo.svg_.jpg?is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /> </a>\n</div>\n<div class=\"article-content\">\n<h4>\n<a href=\"https://agfax.com/2020/10/28/texas-meadow-ffa-wins-phytogen-cottonseeds-denim-drive/\"\
+        >Texas: Meadow FFA Wins PhytoGen Cottonseed&#8217;s Denim Drive</a>\n<span\
+        \ class=\"meta\"></span>\n</h4>\n<span class=\"meta\"></span>\n</div>\n</li>\n\
+        </ul>\n\n</div>\n<div class=\"column6\">\n<ul class=\"article-block\">\n<li>\n\
+        <div class=\"article-photo\">\n<a href=\"https://agfax.com/2020/10/21/california-aprovia-top-fungicide-from-syngenta-gains-state-registration/\"\
+        \ class=\"hover-effect\">\n<img width=\"600\" height=\"300\" src=\"https://agfax.com/wp-content/uploads/grapes-wine-vineyard-california.jpg\"\
+        \ class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/grapes-wine-vineyard-california.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/grapes-wine-vineyard-california.jpg?resize=300%2C150&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 600px) 100vw, 600px\" data-lazy-src=\"\
+        https://agfax.com/wp-content/uploads/grapes-wine-vineyard-california.jpg?is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /> </a>\n</div>\n<div class=\"article-content\">\n<h4>\n<a href=\"https://agfax.com/2020/10/21/california-aprovia-top-fungicide-from-syngenta-gains-state-registration/\"\
+        >California: Syngenta&#8217;s Aprovia Top Fungicide Gains State Registration</a>\n\
+        <span class=\"meta\"></span>\n</h4>\n<span class=\"meta\"></span>\n</div>\n\
+        </li>\n</ul>\n\n</div>\n<div class=\"column6\">\n<ul class=\"article-block\"\
+        >\n<li>\n<div class=\"article-photo\">\n<a href=\"https://agfax.com/2020/10/16/helm-gains-epa-registration-for-reviton-hergicide/\"\
+        \ class=\"hover-effect\">\n<img width=\"576\" height=\"346\" src=\"https://agfax.com/wp-content/uploads/herbicide-spraying-preplant-preemerge-nathan-kind-04042015.jpg\"\
+        \ class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/herbicide-spraying-preplant-preemerge-nathan-kind-04042015.jpg?w=576&amp;ssl=1\
+        \ 576w, https://i2.wp.com/agfax.com/wp-content/uploads/herbicide-spraying-preplant-preemerge-nathan-kind-04042015.jpg?resize=300%2C180&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 576px) 100vw, 576px\" data-lazy-src=\"\
+        https://agfax.com/wp-content/uploads/herbicide-spraying-preplant-preemerge-nathan-kind-04042015.jpg?is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /> </a>\n</div>\n<div class=\"article-content\">\n<h4>\n<a href=\"https://agfax.com/2020/10/16/helm-gains-epa-registration-for-reviton-hergicide/\"\
+        >Helm Gains EPA Registration For Reviton Herbicide</a>\n<span class=\"meta\"\
+        ></span>\n</h4>\n<span class=\"meta\"></span>\n</div>\n</li>\n</ul>\n\n</div>\n\
+        </div>\n</div>\n</div>\n</div>\n</div>\n</div> </div>\n<div class=\"column\
+        \ first\">\n\n<section id=\"custom_html-4\" class=\"widget_text widget widget_custom_html\"\
+        ><h2 class=\"widget-title\">The Latest</h2><div class=\"textwidget custom-html-widget\"\
+        ></div></section>\n<div id=\"widget_code_php_in_widget-5\" class=\"widget\
+        \ code_php_in_widget\" data-version=\"1.4\">\n<h3 class=\"widget-title widget_title\"\
+        >\n<span></span>\n</h3>\n<div>\n<div class=\"execphpwidget\"><ul class=\"\
+        sunbelt\"><li><div class=\"thumb\"></div><div class=\"meta\"><span><a href=\"\
+        https://agfax.com/2020/11/29/arkansas-winter-county-production-meetings-move-online/\"\
+        >Arkansas: Winter County Production Meetings Move Online</a></span><span class=\"\
+        date\">11-29</span></div></li><li><div class=\"thumb\"><img width=\"100\"\
+        \ height=\"50\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/soybeans-broadcast-hooded-sprayer-redball-642E-3-pt.jpg?fit=100%2C50&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/soybeans-broadcast-hooded-sprayer-redball-642E-3-pt.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/soybeans-broadcast-hooded-sprayer-redball-642E-3-pt.jpg?resize=300%2C150&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/soybeans-broadcast-hooded-sprayer-redball-642E-3-pt.jpg?fit=100%2C50&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfaxweedsolutions.com/2020/11/29/hooded-sprayers-get-another-look-dtn/\"\
+        >Hooded Sprayers Get Another Look &#8211; DTN</a></span><span class=\"date\"\
+        >11-29</span></div></li><div class=\"LeftSideAd\" asreq=\"//g.adspeed.net/ad.php?do=js&zid=105344&oid=7403&wd=-1&ht=-1&target=_blank&noerror=1&viewable=1\"\
+        ></div><li><div class=\"thumb\"><img width=\"100\" height=\"67\" src=\"https://i1.wp.com/agfax.com/wp-content/uploads/planter-units-weeds-pre-emerge-spray-nozzles-DF-20160510-006.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i1.wp.com/agfax.com/wp-content/uploads/planter-units-weeds-pre-emerge-spray-nozzles-DF-20160510-006.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i1.wp.com/agfax.com/wp-content/uploads/planter-units-weeds-pre-emerge-spray-nozzles-DF-20160510-006.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i1.wp.com/agfax.com/wp-content/uploads/planter-units-weeds-pre-emerge-spray-nozzles-DF-20160510-006.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfaxweedsolutions.com/2020/11/29/glyphosate-still-under-review-dtn/\"\
+        >Glyphosate Still Under Review &#8211; DTN</a></span><span class=\"date\"\
+        >11-29</span></div></li><li><div class=\"thumb\"><img width=\"100\" height=\"\
+        67\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/soybean_cyst_nematodes_south_dakota_state_university.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/soybean_cyst_nematodes_south_dakota_state_university.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/soybean_cyst_nematodes_south_dakota_state_university.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/soybean_cyst_nematodes_south_dakota_state_university.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/29/nebraska-soybean-cyst-nematodes-updates-video/\"\
+        >Nebraska: Soybean Cyst Nematodes Updates &#8211; Video</a></span><span class=\"\
+        date\">11-29</span></div></li><li><div class=\"thumb\"><img width=\"100\"\
+        \ height=\"67\" src=\"https://i1.wp.com/agfax.com/wp-content/uploads/cattle_livestock_kansas_state_university.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i1.wp.com/agfax.com/wp-content/uploads/cattle_livestock_kansas_state_university.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i1.wp.com/agfax.com/wp-content/uploads/cattle_livestock_kansas_state_university.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i1.wp.com/agfax.com/wp-content/uploads/cattle_livestock_kansas_state_university.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/27/dtn-livestock-closing-contracts-fading-lower/\"\
+        >DTN Livestock Closing: Contracts Fading Lower</a></span><span class=\"date\"\
+        >11-27</span></div></li><li><div class=\"thumb\"><img width=\"100\" height=\"\
+        67\" src=\"https://i0.wp.com/agfax.com/wp-content/uploads/IMG_0191-768x5761-e1572380313122.jpeg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i0.wp.com/agfax.com/wp-content/uploads/IMG_0191-768x5761-e1572380313122.jpeg?w=600&amp;ssl=1\
+        \ 600w, https://i0.wp.com/agfax.com/wp-content/uploads/IMG_0191-768x5761-e1572380313122.jpeg?resize=300%2C202&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i0.wp.com/agfax.com/wp-content/uploads/IMG_0191-768x5761-e1572380313122.jpeg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/27/weekly-cotton-market-review-usda-279/\"\
+        >Weekly Cotton Market Review &#8211; USDA</a></span><span class=\"date\">11-27</span></div></li><li><div\
+        \ class=\"thumb\"><img width=\"100\" height=\"67\" src=\"https://i0.wp.com/agfax.com/wp-content/uploads/corn_pouring_into_bin_university_of_tennessee.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i0.wp.com/agfax.com/wp-content/uploads/corn_pouring_into_bin_university_of_tennessee.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i0.wp.com/agfax.com/wp-content/uploads/corn_pouring_into_bin_university_of_tennessee.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i0.wp.com/agfax.com/wp-content/uploads/corn_pouring_into_bin_university_of_tennessee.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/27/dtn-grain-closing-higher-finish-for-the-week/\"\
+        >DTN Grain Closing: Higher Finish for the Week</a></span><span class=\"date\"\
+        >11-27</span></div></li><li><div class=\"thumb\"><img width=\"100\" height=\"\
+        67\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/Steer-JER-pens1-e1570630119932.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/Steer-JER-pens1-e1570630119932.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/Steer-JER-pens1-e1570630119932.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/Steer-JER-pens1-e1570630119932.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/27/dtn-livestock-midday-contracts-mixed-following-thanksgiving/\"\
+        >DTN Livestock Midday: Contracts Mixed Following Thanksgiving</a></span><span\
+        \ class=\"date\">11-27</span></div></li><li><div class=\"thumb\"><img width=\"\
+        100\" height=\"67\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybean-harvest-drone-grain-cart-042.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybean-harvest-drone-grain-cart-042.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybean-harvest-drone-grain-cart-042.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/DF-20190925-soybean-harvest-drone-grain-cart-042.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/27/dtn-grain-midday-all-crops-higher/\"\
+        >DTN Grain Midday: All Crops Higher</a></span><span class=\"date\">11-27</span></div></li><li><div\
+        \ class=\"thumb\"><img width=\"100\" height=\"67\" src=\"https://i0.wp.com/agfax.com/wp-content/uploads/cotton_boll_rot_hard_lock_rome_ethredge_facebook.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i0.wp.com/agfax.com/wp-content/uploads/cotton_boll_rot_hard_lock_rome_ethredge_facebook.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i0.wp.com/agfax.com/wp-content/uploads/cotton_boll_rot_hard_lock_rome_ethredge_facebook.jpg?resize=300%2C201&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i0.wp.com/agfax.com/wp-content/uploads/cotton_boll_rot_hard_lock_rome_ethredge_facebook.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/27/dtn-cotton-open-higher-in-abbreviated-session/\"\
+        >DTN Cotton Open: Higher In Abbreviated Session</a></span><span class=\"date\"\
+        >11-27</span></div></li><li><div class=\"thumb\"><img width=\"100\" height=\"\
+        67\" src=\"https://i1.wp.com/agfax.com/wp-content/uploads/cattle_livestock_kansas_state_university.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i1.wp.com/agfax.com/wp-content/uploads/cattle_livestock_kansas_state_university.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i1.wp.com/agfax.com/wp-content/uploads/cattle_livestock_kansas_state_university.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i1.wp.com/agfax.com/wp-content/uploads/cattle_livestock_kansas_state_university.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/27/dtn-livestock-open-sluggish-markets-expected/\"\
+        >DTN Livestock Open: Sluggish Markets Expected</a></span><span class=\"date\"\
+        >11-27</span></div></li><li><div class=\"thumb\"><img width=\"100\" height=\"\
+        56\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/weed-seed-destruciton-windrow-20201020-lsu.jpg?fit=100%2C56&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/weed-seed-destruciton-windrow-20201020-lsu.jpg?w=1024&amp;ssl=1\
+        \ 1024w, https://i2.wp.com/agfax.com/wp-content/uploads/weed-seed-destruciton-windrow-20201020-lsu.jpg?resize=300%2C169&amp;ssl=1\
+        \ 300w, https://i2.wp.com/agfax.com/wp-content/uploads/weed-seed-destruciton-windrow-20201020-lsu.jpg?resize=768%2C432&amp;ssl=1\
+        \ 768w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/weed-seed-destruciton-windrow-20201020-lsu.jpg?fit=100%2C56&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/27/dtn-grain-open-stabilizing-after-thanksgiving/\"\
+        >DTN Grain Open: Stabilizing After Thanksgiving</a></span><span class=\"date\"\
+        >11-27</span></div></li><li><div class=\"thumb\"><img width=\"100\" height=\"\
+        67\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/oilfield_water_irrigation_california_duke_university.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/oilfield_water_irrigation_california_duke_university.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/oilfield_water_irrigation_california_duke_university.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/oilfield_water_irrigation_california_duke_university.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/25/corn-market-oil-prices-exerting-an-effect-dtn/\"\
+        >Corn Market: Oil Prices Exerting An Effect &#8211; DTN</a></span><span class=\"\
+        date\">11-25</span></div></li><li><div class=\"thumb\"><img width=\"100\"\
+        \ height=\"67\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/cotton-fertilizer-arkansas-DF-20180528-0081.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/cotton-fertilizer-arkansas-DF-20180528-0081.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/cotton-fertilizer-arkansas-DF-20180528-0081.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/cotton-fertilizer-arkansas-DF-20180528-0081.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/25/dtn-retail-fertilizer-trends-market-movements-remain-erratice/\"\
+        >DTN Retail Fertilizer Trends: Market Movements Remain Erratice</a></span><span\
+        \ class=\"date\">11-25</span></div></li><li><div class=\"thumb\"><img width=\"\
+        100\" height=\"67\" src=\"https://i0.wp.com/agfax.com/wp-content/uploads/cottondefoliatedsunset-scaled-e1600803606600.jpeg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i0.wp.com/agfax.com/wp-content/uploads/cottondefoliatedsunset-scaled-e1600803606600.jpeg?w=600&amp;ssl=1\
+        \ 600w, https://i0.wp.com/agfax.com/wp-content/uploads/cottondefoliatedsunset-scaled-e1600803606600.jpeg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i0.wp.com/agfax.com/wp-content/uploads/cottondefoliatedsunset-scaled-e1600803606600.jpeg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/25/dtn-cotton-closing-lower-in-listless-holiday-trade/\"\
+        >DTN Cotton Closing: Lower in Listless Holiday Trade</a></span><span class=\"\
+        date\">11-25</span></div></li><li><div class=\"thumb\"><img width=\"100\"\
+        \ height=\"67\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/shipping-container-export-trade-snagit-20191210.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/shipping-container-export-trade-snagit-20191210.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/shipping-container-export-trade-snagit-20191210.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/shipping-container-export-trade-snagit-20191210.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/25/ag-export-projections-for-2021-a-really-mixed-bag/\"\
+        >Ag Export Projections For 2021: A Really Mixed Bag</a></span><span class=\"\
+        date\">11-25</span></div></li><li><div class=\"thumb\"><img width=\"100\"\
+        \ height=\"67\" src=\"https://i1.wp.com/agfax.com/wp-content/uploads/soybean_gall_midge_in_soybean_stem_university_of_minnesota.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i1.wp.com/agfax.com/wp-content/uploads/soybean_gall_midge_in_soybean_stem_university_of_minnesota.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i1.wp.com/agfax.com/wp-content/uploads/soybean_gall_midge_in_soybean_stem_university_of_minnesota.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i1.wp.com/agfax.com/wp-content/uploads/soybean_gall_midge_in_soybean_stem_university_of_minnesota.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/25/nebraska-soybean-gall-midge-research-updates-video/\"\
+        >Nebraska Soybeans: Gall Midge Control &#8211; Successful And Unsuccessful\
+        \ Approaches &#8211; Video</a></span><span class=\"date\">11-25</span></div></li><li><div\
+        \ class=\"thumb\"><img width=\"100\" height=\"67\" src=\"https://i0.wp.com/agfax.com/wp-content/uploads/heavy_snow_damage_to_mature_wheat_us_wheat_associates.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i0.wp.com/agfax.com/wp-content/uploads/heavy_snow_damage_to_mature_wheat_us_wheat_associates.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i0.wp.com/agfax.com/wp-content/uploads/heavy_snow_damage_to_mature_wheat_us_wheat_associates.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i0.wp.com/agfax.com/wp-content/uploads/heavy_snow_damage_to_mature_wheat_us_wheat_associates.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/25/crop-insurance-breaking-down-the-enhanced-coverage-option/\"\
+        >Crop Insurance: Breaking Down The Enhanced Coverage Option</a></span><span\
+        \ class=\"date\">11-25</span></div></li><li><div class=\"thumb\"><img width=\"\
+        100\" height=\"67\" src=\"https://i0.wp.com/agfax.com/wp-content/uploads/flood-water-truck-grain-bins-arkansas-2017.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i0.wp.com/agfax.com/wp-content/uploads/flood-water-truck-grain-bins-arkansas-2017.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i0.wp.com/agfax.com/wp-content/uploads/flood-water-truck-grain-bins-arkansas-2017.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i0.wp.com/agfax.com/wp-content/uploads/flood-water-truck-grain-bins-arkansas-2017.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/25/ags-role-in-climate-change-small-steps-taken/\"\
+        >Ag&#8217;s Role In Climate Change: Small Steps Taken</a></span><span class=\"\
+        date\">11-25</span></div></li><li><div class=\"thumb\"><img width=\"100\"\
+        \ height=\"67\" src=\"https://i1.wp.com/agfax.com/wp-content/uploads/young_soybean_field_ohio_state_university.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i1.wp.com/agfax.com/wp-content/uploads/young_soybean_field_ohio_state_university.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i1.wp.com/agfax.com/wp-content/uploads/young_soybean_field_ohio_state_university.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i1.wp.com/agfax.com/wp-content/uploads/young_soybean_field_ohio_state_university.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/25/ohio-2020-soybean-performance-trial-results/\"\
+        >Ohio: 2020 Soybean Performance Trial Results</a></span><span class=\"date\"\
+        >11-25</span></div></li><li><div class=\"thumb\"><img width=\"100\" height=\"\
+        67\" src=\"https://i0.wp.com/agfax.com/wp-content/uploads/soybean_field_university_of_minnesota.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i0.wp.com/agfax.com/wp-content/uploads/soybean_field_university_of_minnesota.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i0.wp.com/agfax.com/wp-content/uploads/soybean_field_university_of_minnesota.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i0.wp.com/agfax.com/wp-content/uploads/soybean_field_university_of_minnesota.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/25/minnesota-performance-comparisons-of-soybeans-varieties/\"\
+        >Minnesota: Performance Comparisons of Soybeans Varieties</a></span><span\
+        \ class=\"date\">11-25</span></div></li><li><div class=\"thumb\"><img width=\"\
+        100\" height=\"67\" src=\"https://i1.wp.com/agfax.com/wp-content/uploads/hands_holding_peanuts_university_of_georgia.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i1.wp.com/agfax.com/wp-content/uploads/hands_holding_peanuts_university_of_georgia.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i1.wp.com/agfax.com/wp-content/uploads/hands_holding_peanuts_university_of_georgia.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i1.wp.com/agfax.com/wp-content/uploads/hands_holding_peanuts_university_of_georgia.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/25/usda-weekly-national-posted-prices-for-peanuts/\"\
+        >USDA Weekly National Posted Prices for Peanuts</a></span><span class=\"date\"\
+        >11-25</span></div></li><li><div class=\"thumb\"><img width=\"100\" height=\"\
+        50\" src=\"https://i0.wp.com/agfax.com/wp-content/uploads/lake-water-trees-landscape-DF_20030703-0005.jpg?fit=100%2C50&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i0.wp.com/agfax.com/wp-content/uploads/lake-water-trees-landscape-DF_20030703-0005.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i0.wp.com/agfax.com/wp-content/uploads/lake-water-trees-landscape-DF_20030703-0005.jpg?resize=300%2C150&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i0.wp.com/agfax.com/wp-content/uploads/lake-water-trees-landscape-DF_20030703-0005.jpg?fit=100%2C50&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/24/epa-seeks-dismissal-of-chesapeake-bay-suit/\"\
+        >EPA Seeks Dismissal Of Chesapeake Bay Suit</a></span><span class=\"date\"\
+        >11-24</span></div></li><li><div class=\"thumb\"><img width=\"100\" height=\"\
+        67\" src=\"https://i1.wp.com/agfax.com/wp-content/uploads/cattle-cow-feed-hay-livestock-DF-03082018-GW6A2221.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i1.wp.com/agfax.com/wp-content/uploads/cattle-cow-feed-hay-livestock-DF-03082018-GW6A2221.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i1.wp.com/agfax.com/wp-content/uploads/cattle-cow-feed-hay-livestock-DF-03082018-GW6A2221.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i1.wp.com/agfax.com/wp-content/uploads/cattle-cow-feed-hay-livestock-DF-03082018-GW6A2221.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/24/shortfall-in-livestock-consumption-will-linger-dtn/\"\
+        >Shortfall In Meat Consumption Will Linger \u2013 DTN</a></span><span class=\"\
+        date\">11-24</span></div></li><li><div class=\"thumb\"><img width=\"100\"\
+        \ height=\"67\" src=\"https://i0.wp.com/agfax.com/wp-content/uploads/DFerguson-rows-water-rain-sunset-20190107-042.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i0.wp.com/agfax.com/wp-content/uploads/DFerguson-rows-water-rain-sunset-20190107-042.jpg?w=2048&amp;ssl=1\
+        \ 2048w, https://i0.wp.com/agfax.com/wp-content/uploads/DFerguson-rows-water-rain-sunset-20190107-042.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w, https://i0.wp.com/agfax.com/wp-content/uploads/DFerguson-rows-water-rain-sunset-20190107-042.jpg?resize=768%2C512&amp;ssl=1\
+        \ 768w, https://i0.wp.com/agfax.com/wp-content/uploads/DFerguson-rows-water-rain-sunset-20190107-042.jpg?resize=1024%2C683&amp;ssl=1\
+        \ 1024w, https://i0.wp.com/agfax.com/wp-content/uploads/DFerguson-rows-water-rain-sunset-20190107-042.jpg?w=1280&amp;ssl=1\
+        \ 1280w, https://i0.wp.com/agfax.com/wp-content/uploads/DFerguson-rows-water-rain-sunset-20190107-042.jpg?w=1920&amp;ssl=1\
+        \ 1920w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i0.wp.com/agfax.com/wp-content/uploads/DFerguson-rows-water-rain-sunset-20190107-042.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/24/texas-unique-process-cleans-crop-water-runoff-when-using-dairy-manure-as-fertilizer/\"\
+        >Texas: Unique Process \u2018Cleans\u2019 Crop Water Runoff When Using Dairy\
+        \ Manure as Fertilizer</a></span><span class=\"date\">11-24</span></div></li><div\
+        \ class=\"LeftSideAdScroll\" asreq=\"//g.adspeed.net/ad.php?do=js&zid=105345&oid=7403&wd=-1&ht=-1&target=_blank&noerror=1&viewable=1\"\
+        ></div><li><div class=\"thumb\"><img width=\"100\" height=\"67\" src=\"https://i1.wp.com/agfax.com/wp-content/uploads/cotton_leafroll_dwarf_virus_texas_agrilife.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i1.wp.com/agfax.com/wp-content/uploads/cotton_leafroll_dwarf_virus_texas_agrilife.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i1.wp.com/agfax.com/wp-content/uploads/cotton_leafroll_dwarf_virus_texas_agrilife.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i1.wp.com/agfax.com/wp-content/uploads/cotton_leafroll_dwarf_virus_texas_agrilife.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/24/cotton-foundation-awards-grant-for-leafroll-dwarf-virus-research/\"\
+        >Cotton: Foundation Awards Grant For Leafroll Dwarf Virus Research</a></span><span\
+        \ class=\"date\">11-24</span></div></li><li><div class=\"thumb\"><img width=\"\
+        100\" height=\"67\" src=\"https://i0.wp.com/agfax.com/wp-content/uploads/rice_variety_trial_university_of_arkansas.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i0.wp.com/agfax.com/wp-content/uploads/rice_variety_trial_university_of_arkansas.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i0.wp.com/agfax.com/wp-content/uploads/rice_variety_trial_university_of_arkansas.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i0.wp.com/agfax.com/wp-content/uploads/rice_variety_trial_university_of_arkansas.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/24/first-sale-of-us-rice-to-china-sold-out-in-weeks/\"\
+        >First Sale of US Rice to China Sold Out in Weeks</a></span><span class=\"\
+        date\">11-24</span></div></li><li><div class=\"thumb\"><img width=\"100\"\
+        \ height=\"67\" src=\"https://i1.wp.com/agfax.com/wp-content/uploads/wheat_field_in_winter_snow_kansas_state_university_facebook.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i1.wp.com/agfax.com/wp-content/uploads/wheat_field_in_winter_snow_kansas_state_university_facebook.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i1.wp.com/agfax.com/wp-content/uploads/wheat_field_in_winter_snow_kansas_state_university_facebook.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i1.wp.com/agfax.com/wp-content/uploads/wheat_field_in_winter_snow_kansas_state_university_facebook.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/24/soil-moisture-shortfall-in-parts-of-midwest-next-spring/\"\
+        >Soil Moisture Shortfall in Parts of Midwest Next Spring?</a></span><span\
+        \ class=\"date\">11-24</span></div></li><li><div class=\"thumb\"><img width=\"\
+        100\" height=\"67\" src=\"https://i1.wp.com/agfax.com/wp-content/uploads/pigs-hogs-NCRS-Montana-Flickr-31228411467_a1a4dd4957-.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i1.wp.com/agfax.com/wp-content/uploads/pigs-hogs-NCRS-Montana-Flickr-31228411467_a1a4dd4957-.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i1.wp.com/agfax.com/wp-content/uploads/pigs-hogs-NCRS-Montana-Flickr-31228411467_a1a4dd4957-.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i1.wp.com/agfax.com/wp-content/uploads/pigs-hogs-NCRS-Montana-Flickr-31228411467_a1a4dd4957-.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/23/smithfield-settles-north-carolina-hog-nuisance-case-dtn/\"\
+        >Smithfield Settles North Carolina Hog Nuisance Case &#8211; DTN</a></span><span\
+        \ class=\"date\">11-23</span></div></li><li><div class=\"thumb\"><img width=\"\
+        100\" height=\"67\" src=\"https://i0.wp.com/agfax.com/wp-content/uploads/Dried-Distillers-Grains-for-feedstock-flickr.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i0.wp.com/agfax.com/wp-content/uploads/Dried-Distillers-Grains-for-feedstock-flickr.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i0.wp.com/agfax.com/wp-content/uploads/Dried-Distillers-Grains-for-feedstock-flickr.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i0.wp.com/agfax.com/wp-content/uploads/Dried-Distillers-Grains-for-feedstock-flickr.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/23/distillers-grain-prices-strengthen-dtn/\"\
+        >Distillers Grain Prices Strengthen &#8211; DTN</a></span><span class=\"date\"\
+        >11-23</span></div></li><li><div class=\"thumb\"><img width=\"100\" height=\"\
+        67\" src=\"https://i2.wp.com/agfax.com/wp-content/uploads/carinata_biofuel_crop_alabama_cooperative_extension.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i2.wp.com/agfax.com/wp-content/uploads/carinata_biofuel_crop_alabama_cooperative_extension.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i2.wp.com/agfax.com/wp-content/uploads/carinata_biofuel_crop_alabama_cooperative_extension.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i2.wp.com/agfax.com/wp-content/uploads/carinata_biofuel_crop_alabama_cooperative_extension.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/23/biofuel-groups-ask-court-to-restore-rfs-gallons-dtn/\"\
+        >Biofuel Groups Ask Court To Restore RFS Gallons &#8211; DTN</a></span><span\
+        \ class=\"date\">11-23</span></div></li><li><div class=\"thumb\"><img width=\"\
+        100\" height=\"67\" src=\"https://i1.wp.com/agfax.com/wp-content/uploads/wheat_field_university_of_arkansas-1-e1586298868483.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i1.wp.com/agfax.com/wp-content/uploads/wheat_field_university_of_arkansas-1-e1586298868483.jpg?w=599&amp;ssl=1\
+        \ 599w, https://i1.wp.com/agfax.com/wp-content/uploads/wheat_field_university_of_arkansas-1-e1586298868483.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i1.wp.com/agfax.com/wp-content/uploads/wheat_field_university_of_arkansas-1-e1586298868483.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/23/nwf-announces-national-winners-for-the-2020-national-wheat-yield-contest/\"\
+        >Wheat Foundation Announces 2020 National Yield Winners</a></span><span class=\"\
+        date\">11-23</span></div></li><li><div class=\"thumb\"><img width=\"100\"\
+        \ height=\"67\" src=\"https://i0.wp.com/agfax.com/wp-content/uploads/soybean_field_university_of_minnesota.jpg?fit=100%2C67&amp;ssl=1\"\
+        \ class=\"attachment-100x100 size-100x100 wp-post-image jetpack-lazy-image\"\
+        \ alt=\"\" loading=\"lazy\" data-lazy-srcset=\"https://i0.wp.com/agfax.com/wp-content/uploads/soybean_field_university_of_minnesota.jpg?w=600&amp;ssl=1\
+        \ 600w, https://i0.wp.com/agfax.com/wp-content/uploads/soybean_field_university_of_minnesota.jpg?resize=300%2C200&amp;ssl=1\
+        \ 300w\" data-lazy-sizes=\"(max-width: 100px) 100vw, 100px\" data-lazy-src=\"\
+        https://i0.wp.com/agfax.com/wp-content/uploads/soybean_field_university_of_minnesota.jpg?fit=100%2C67&amp;ssl=1&amp;is-pending-load=1\"\
+        \ srcset=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"\
+        \ /></div><div class=\"meta\"><span><a href=\"https://agfax.com/2020/11/23/mississippi-2020-soybean-stem-canker-inoculated-variety-trial-evaluations/\"\
+        >Mississippi: 2020 Soybean Stem Canker Inoculated Variety Trial Evaluations</a></span><span\
+        \ class=\"date\">11-23</span></div></li></ul></div>\n</div>\n</div> <section\
+        \ id=\"custom_html-5\" class=\"widget_text widget widget_custom_html\"><div\
+        \ class=\"textwidget custom-html-widget\"><center><a class=\"more\" href=\"\
+        /category/a-agfax-news\">More News Items</a></center></div></section>\n<div\
+        \ id=\"widget_code_php_in_widget-12\" class=\"widget code_php_in_widget\"\
+        \ data-version=\"1.4\">\n<h3 class=\"widget-title widget_title\">\n<span></span>\n\
+        </h3>\n<div>\n<div class=\"execphpwidget\"><br />\n<center>Send press releases\
+        \ to Ernst@Agfax.com.<br /><br /><a class=\"more\" href=\"/upcoming-events\"\
+        >View All Events</a></center><br />\n<ul class=\"ecs-event-list\"><li class=\"\
+        ecs-event\"><h4 class=\"entry-title summary\"><a href=\"https://agfax.com/2020/10/30/missouri-virtual-crop-management-conference-dec-1-2/?#new_tab/\"\
+        \ rel=\"bookmark\">Missouri: Virtual Crop Management Conference, Dec. 1-2</a></h4><span\
+        \ class=\"duration time\"><span class=\"tribe-event-date-start\">December\
+        \ 1 @ 8:00 am</span> - <span class=\"tribe-event-date-end\">December 2 @ 5:00\
+        \ pm</span></span></li><li class=\"ecs-event\"><h4 class=\"entry-title summary\"\
+        ><a href=\"https://agfax.com/2020/11/09/minnesota-online-ag-drainage-research-forum-dec-1/?#new_tab/\"\
+        \ rel=\"bookmark\">Minnesota: Online Ag Drainage Research Forum, Dec. 1</a></h4><span\
+        \ class=\"duration time\"><span class=\"tribe-event-date-start\">December\
+        \ 1 @ 8:00 am</span> - <span class=\"tribe-event-time\">5:00 pm</span></span></li><li\
+        \ class=\"ecs-event\"><h4 class=\"entry-title summary\"><a href=\"https://agfax.com/2020/11/13/arkansas-crop-protection-conference-moves-online-dec-1-2/?#new_tab/\"\
+        \ rel=\"bookmark\">Arkansas Crop Protection Conference Moves Online Dec. 1-2</a></h4><span\
+        \ class=\"duration time\"><span class=\"tribe-event-date-start\">December\
+        \ 1 @ 8:00 am</span> - <span class=\"tribe-event-date-end\">December 2 @ 5:00\
+        \ pm</span></span></li><li class=\"ecs-event\"><h4 class=\"entry-title summary\"\
+        ><a href=\"https://agfax.com/2020/11/20/ag-producers-income-tax-management-program-online-dec-1/?#new_tab/\"\
+        \ rel=\"bookmark\">Ag Producers Income Tax Management Program, Online, Dec.\
+        \ 1</a></h4><span class=\"duration time\"><span class=\"tribe-event-date-start\"\
+        >December 1 @ 8:00 am</span> - <span class=\"tribe-event-time\">5:00 pm</span></span></li><li\
+        \ class=\"ecs-event\"><h4 class=\"entry-title summary\"><a href=\"https://agfax.com/2020/10/16/north-carolina-2020-crop-protection-school-will-be-online-dec-2/?#new_tab/\"\
+        \ rel=\"bookmark\">North Carolina: 2020 Crop Protection School Will Be Online,\
+        \ Dec. 2</a></h4><span class=\"duration time\"><span class=\"tribe-event-date-start\"\
+        >December 2 @ 8:00 am</span> - <span class=\"tribe-event-time\">5:00 pm</span></span></li></ul><script\
+        \ type=\"application/ld+json\">\r\n[{\"@context\":\"http://schema.org\",\"\
+        @type\":\"Event\",\"name\":\"Missouri: Virtual Crop Management Conference,\
+        \ Dec. 1-2\",\"description\":\"\",\"url\":\"https://agfax.com/2020/10/30/missouri-virtual-crop-management-conference-dec-1-2/?#new_tab/\"\
+        ,\"startDate\":\"2020-12-01T08:00:00-06:00\",\"endDate\":\"2020-12-02T17:00:00-06:00\"\
+        ,\"performer\":\"Organization\"},{\"@context\":\"http://schema.org\",\"@type\"\
+        :\"Event\",\"name\":\"Minnesota: Online Ag Drainage Research Forum, Dec. 1\"\
+        ,\"description\":\"\",\"url\":\"https://agfax.com/2020/11/09/minnesota-online-ag-drainage-research-forum-dec-1/?#new_tab/\"\
+        ,\"startDate\":\"2020-12-01T08:00:00-06:00\",\"endDate\":\"2020-12-01T17:00:00-06:00\"\
+        ,\"performer\":\"Organization\"},{\"@context\":\"http://schema.org\",\"@type\"\
+        :\"Event\",\"name\":\"Arkansas Crop Protection Conference Moves Online Dec.\
+        \ 1-2\",\"description\":\"\",\"url\":\"https://agfax.com/2020/11/13/arkansas-crop-protection-conference-moves-online-dec-1-2/?#new_tab/\"\
+        ,\"startDate\":\"2020-12-01T08:00:00-06:00\",\"endDate\":\"2020-12-02T17:00:00-06:00\"\
+        ,\"performer\":\"Organization\"},{\"@context\":\"http://schema.org\",\"@type\"\
+        :\"Event\",\"name\":\"Ag Producers Income Tax Management Program, Online,\
+        \ Dec. 1\",\"description\":\"\",\"url\":\"https://agfax.com/2020/11/20/ag-producers-income-tax-management-program-online-dec-1/?#new_tab/\"\
+        ,\"startDate\":\"2020-12-01T08:00:00-06:00\",\"endDate\":\"2020-12-01T17:00:00-06:00\"\
+        ,\"performer\":\"Organization\"},{\"@context\":\"http://schema.org\",\"@type\"\
+        :\"Event\",\"name\":\"North Carolina: 2020 Crop Protection School Will Be\
+        \ Online, Dec. 2\",\"description\":\"\",\"url\":\"https://agfax.com/2020/10/16/north-carolina-2020-crop-protection-school-will-be-online-dec-2/?#new_tab/\"\
+        ,\"startDate\":\"2020-12-02T08:00:00-06:00\",\"endDate\":\"2020-12-02T17:00:00-06:00\"\
+        ,\"performer\":\"Organization\"}]\r\n</script>\n<br />\n<center>Send press\
+        \ releases to Ernst@Agfax.com.<br /><br /><a class=\"more\" href=\"/upcoming-events\"\
+        >View All Events</a></center><br /></div>\n</div>\n</div> </div>\n</main>\n\
+        </div>\n</div>\n<footer id=\"colophon\" class=\"site-footer\" role=\"contentinfo\"\
+        >\n<div class=\"site-info\">\n<a href=\"/\"> AgFax </a>\n<span class=\"copyright\"\
+        > &copy; 2020 All Rights Reserved. </span>\n</div>\n</footer>\n</div>\n<div\
+        \ id=\"adspace\">\n<div class=\"ad normal\">\n\n<script type=\"text/javascript\"\
+        \ src=\"https://g.adspeed.net/ad.php?do=js&zid=33235&oid=7403&wd=-1&ht=-1&target=_blank&noerror=1&viewable=1\"\
+        ></script>\n\n</div>\n</div>\n<div style=\"display: none;\"><div id=\"boxzilla-box-156113-content\"\
+        ><p style=\"text-align: left;\">\_<a href=\"http://www.magnetmail.net/actions/subscription_form_sip.cfm\"\
+        \ target=\"_blank\" rel=\"noopener\"><img class=\"aligncenter wp-image-163194\
+        \ size-full\" src=\"https://i1.wp.com/agfax.com/wp-content/uploads/sub-block-revised-20160509.jpg?resize=300%2C250\"\
+        \ alt=\"sub-block-revised-20160509\" width=\"300\" height=\"250\" data-recalc-dims=\"\
+        1\" /></a></p>\n</div></div> \n<script>\r\n\t\t\t<!--\r\n\t\t\tvar sc_project=8951049;\r\
+        \n\t\t\tvar sc_security=\"96d2ae65\";\r\n\t\t\t      var sc_invisible=1;\n\
+        \t\t\tvar scJsHost = ((\"https:\" == document.location.protocol) ?\r\n\t\t\
+        \t\t\"https://secure.\" : \"http://www.\");\r\n\t\t\t//-->\r\n\t\t\t\t\t</script>\n\
+        <script type=\"text/javascript\" src=\"https://secure.statcounter.com/counter/counter.js\"\
+        \ async></script> <noscript><div class=\"statcounter\"><a title=\"web analytics\"\
+        \ href=\"https://statcounter.com/\"><img class=\"statcounter\" src=\"https://c.statcounter.com/8951049/0/96d2ae65/1/\"\
+        \ alt=\"web analytics\" /></a></div></noscript>\n\n<script type=\"text/javascript\"\
+        >\n\t\t\t\tjQuery(document).ready(function(){\n\t\t\t\t\tvar wpfcWpfcAjaxCall\
+        \ = function(polls){\n\t\t\t\t\t\tif(polls.length > 0){\n\t\t\t\t\t\t\tpoll_id\
+        \ = polls.last().attr('id').match(/\\d+/)[0];\n\n\t\t\t\t\t\t\tjQuery.ajax({\n\
+        \t\t\t\t\t\t\t\ttype: 'POST', \n\t\t\t\t\t\t\t\turl: pollsL10n.ajax_url,\n\
+        \t\t\t\t\t\t\t\tdataType : \"json\",\n\t\t\t\t\t\t\t\tdata : {\"action\":\
+        \ \"wpfc_wppolls_ajax_request\", \"poll_id\": poll_id, \"nonce\" : \"563677c5f1\"\
+        },\n\t\t\t\t\t\t\t\tcache: false, \n\t\t\t\t\t\t\t\tsuccess: function(data){\n\
+        \t\t\t\t\t\t\t\t\tif(data === true){\n\t\t\t\t\t\t\t\t\t\tpoll_result(poll_id);\n\
+        \t\t\t\t\t\t\t\t\t}else if(data === false){\n\t\t\t\t\t\t\t\t\t\tpoll_booth(poll_id);\n\
+        \t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\tpolls.length = polls.length - 1;\n\n\
+        \t\t\t\t\t\t\t\t\tsetTimeout(function(){\n\t\t\t\t\t\t\t\t\t\twpfcWpfcAjaxCall(polls);\n\
+        \t\t\t\t\t\t\t\t\t}, 1000);\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t});\n\t\t\t\t\
+        \t\t}\n\t\t\t\t\t};\n\n\t\t\t\t\tvar polls = jQuery('div[id^=\\\"polls-\\\"\
+        ][id$=\\\"-loading\\\"]');\n\t\t\t\t\twpfcWpfcAjaxCall(polls);\n\t\t\t\t});\n\
+        \t\t\t</script> <script>\n\t\t( function ( body ) {\n\t\t\t'use strict';\n\
+        \t\t\tbody.className = body.className.replace( /\\btribe-no-js\\b/, 'tribe-js'\
+        \ );\n\t\t} )( document.body );\n\t\t</script>\n<script> /* <![CDATA[ */var\
+        \ tribe_l10n_datatables = {\"aria\":{\"sort_ascending\":\": activate to sort\
+        \ column ascending\",\"sort_descending\":\": activate to sort column descending\"\
+        },\"length_menu\":\"Show _MENU_ entries\",\"empty_table\":\"No data available\
+        \ in table\",\"info\":\"Showing _START_ to _END_ of _TOTAL_ entries\",\"info_empty\"\
+        :\"Showing 0 to 0 of 0 entries\",\"info_filtered\":\"(filtered from _MAX_\
+        \ total entries)\",\"zero_records\":\"No matching records found\",\"search\"\
+        :\"Search:\",\"all_selected_text\":\"All items on this page were selected.\
+        \ \",\"select_all_link\":\"Select all pages\",\"clear_selection\":\"Clear\
+        \ Selection.\",\"pagination\":{\"all\":\"All\",\"next\":\"Next\",\"previous\"\
+        :\"Previous\"},\"select\":{\"rows\":{\"0\":\"\",\"_\":\": Selected %d rows\"\
+        ,\"1\":\": Selected 1 row\"}},\"datepicker\":{\"dayNames\":[\"Sunday\",\"\
+        Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\"],\"\
+        dayNamesShort\":[\"Sun\",\"Mon\",\"Tue\",\"Wed\",\"Thu\",\"Fri\",\"Sat\"],\"\
+        dayNamesMin\":[\"S\",\"M\",\"T\",\"W\",\"T\",\"F\",\"S\"],\"monthNames\":[\"\
+        January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\"\
+        ,\"September\",\"October\",\"November\",\"December\"],\"monthNamesShort\"\
+        :[\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"\
+        August\",\"September\",\"October\",\"November\",\"December\"],\"monthNamesMin\"\
+        :[\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\",\"Jul\",\"Aug\",\"Sep\"\
+        ,\"Oct\",\"Nov\",\"Dec\"],\"nextText\":\"Next\",\"prevText\":\"Prev\",\"currentText\"\
+        :\"Today\",\"closeText\":\"Done\",\"today\":\"Today\",\"clear\":\"Clear\"\
+        }};/* ]]> */ </script><button id=\"responsive-menu-button\" class=\"responsive-menu-button\
+        \ responsive-menu-boring\n         responsive-menu-accessible\" type=\"button\"\
+        \ aria-label=\"Menu\">\n<span class=\"responsive-menu-box\">\n<span class=\"\
+        responsive-menu-inner\"></span>\n</span>\n</button><div id=\"responsive-menu-container\"\
+        \ class=\"slide-left\">\n<div id=\"responsive-menu-wrapper\">\n<ul id=\"responsive-menu\"\
+        \ class=\"\"><li id=\"responsive-menu-item-193942\" class=\"bluebtn menu-item\
+        \ menu-item-type-custom menu-item-object-custom responsive-menu-item\"><a\
+        \ href=\"/\" class=\"responsive-menu-item-link\">Home</a></li><li id=\"responsive-menu-item-193941\"\
+        \ class=\"bluebtn menu-item menu-item-type-custom menu-item-object-custom\
+        \ responsive-menu-item\"><a href=\"/subscriptions\" class=\"responsive-menu-item-link\"\
+        >Subscribe</a></li><li id=\"responsive-menu-item-193943\" class=\"bluebtn\
+        \ menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item\"\
+        ><a href=\"https://agfax.com/about-agfax/\" class=\"responsive-menu-item-link\"\
+        >About AgFax</a></li><li id=\"responsive-menu-item-193945\" class=\"bluebtn\
+        \ menu-item menu-item-type-post_type menu-item-object-page responsive-menu-item\"\
+        ><a href=\"https://agfax.com/advertise/\" class=\"responsive-menu-item-link\"\
+        >Advertise</a></li><li id=\"responsive-menu-item-205385\" class=\"mobilemenu\
+        \ menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item\"\
+        ><a href=\"https://agfax.com/category/rssfeeds/grain/\" class=\"responsive-menu-item-link\"\
+        >Grain</a></li><li id=\"responsive-menu-item-205383\" class=\"mobilemenu menu-item\
+        \ menu-item-type-taxonomy menu-item-object-category responsive-menu-item\"\
+        ><a href=\"https://agfax.com/category/rssfeeds/soybeans/\" class=\"responsive-menu-item-link\"\
+        >Soybeans</a></li><li id=\"responsive-menu-item-205386\" class=\"mobilemenu\
+        \ menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item\"\
+        ><a href=\"https://agfax.com/category/rssfeeds/cotton/\" class=\"responsive-menu-item-link\"\
+        >Cotton</a></li><li id=\"responsive-menu-item-205382\" class=\"mobilemenu\
+        \ menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item\"\
+        ><a href=\"https://agfax.com/category/rssfeeds/rice/\" class=\"responsive-menu-item-link\"\
+        >Rice</a></li><li id=\"responsive-menu-item-205387\" class=\"mobilemenu menu-item\
+        \ menu-item-type-taxonomy menu-item-object-category responsive-menu-item\"\
+        ><a href=\"https://agfax.com/category/rssfeeds/peanuts/\" class=\"responsive-menu-item-link\"\
+        >Peanuts</a></li><li id=\"responsive-menu-item-205384\" class=\"mobilemenu\
+        \ menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item\"\
+        ><a href=\"https://agfax.com/category/rssfeeds/tree-and-vine/\" class=\"responsive-menu-item-link\"\
+        >Tree and Vine</a></li><li id=\"responsive-menu-item-205390\" class=\"mobilemenu\
+        \ menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item\"\
+        ><a href=\"https://agfax.com/category/rssfeeds/policy/\" class=\"responsive-menu-item-link\"\
+        >Policy</a></li><li id=\"responsive-menu-item-205391\" class=\"mobilemenu\
+        \ menu-item menu-item-type-taxonomy menu-item-object-category responsive-menu-item\"\
+        ><a href=\"https://agfax.com/category/rssfeeds/markets-rssfeeds/\" class=\"\
+        responsive-menu-item-link\">Markets</a></li><li id=\"responsive-menu-item-205389\"\
+        \ class=\"mobilemenu menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ responsive-menu-item\"><a href=\"https://agfax.com/category/rssfeeds/editors-picks/\"\
+        \ class=\"responsive-menu-item-link\">Editor&#8217;s Picks</a></li></ul> <div\
+        \ id=\"responsive-menu-search-box\">\n<form action=\"https://agfax.com\" class=\"\
+        responsive-menu-search-form\" role=\"search\">\n<input type=\"search\" name=\"\
+        s\" title=\"Search\" placeholder=\"Search\" class=\"responsive-menu-search-box\"\
+        >\n</form>\n</div> <div id=\"responsive-menu-additional-content\"></div> </div>\n\
+        </div>\n<script type='text/javascript' src='https://agfax.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122'\
+        \ id='jetpack-photon-js'></script>\n<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202048'\
+        \ id='devicepx-js'></script>\n<script type='text/javascript' id='wp-polls-js-extra'>\n\
+        /* <![CDATA[ */\nvar pollsL10n = {\"ajax_url\":\"https:\\/\\/agfax.com\\/wp-admin\\\
+        /admin-ajax.php\",\"text_wait\":\"Your last request is still being processed.\
+        \ Please wait a while ...\",\"text_valid\":\"Please choose a valid poll answer.\"\
+        ,\"text_multiple\":\"Maximum number of choices allowed: \",\"show_loading\"\
+        :\"1\",\"show_fading\":\"1\"};\n/* ]]> */\n</script>\n<script type='text/javascript'\
+        \ src='https://agfax.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.75.4'\
+        \ id='wp-polls-js'></script>\n<script type='text/javascript' id='social_warfare_script-js-extra'>\n\
+        /* <![CDATA[ */\nvar socialWarfare = {\"addons\":[\"pro\"],\"post_id\":\"\
+        219081\",\"floatBeforeContent\":\"\"};\n/* ]]> */\n</script>\n<script type='text/javascript'\
+        \ src='https://agfax.com/wp-content/plugins/social-warfare/assets/js/script.min.js?ver=3.6.1'\
+        \ id='social_warfare_script-js'></script>\n<script type='text/javascript'\
+        \ src='https://agfax.com/wp-content/themes/agfax-2-0/js/navigation.js?ver=20151215'\
+        \ id='agfax-2-0-navigation-js'></script>\n<script type='text/javascript' src='https://agfax.com/wp-content/themes/agfax-2-0/js/skip-link-focus-fix.js?ver=20151215'\
+        \ id='agfax-2-0-skip-link-focus-fix-js'></script>\n<script type='text/javascript'\
+        \ src='https://agfax.com/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.2.2'\
+        \ id='page-links-to-js'></script>\n<script type='text/javascript' src='https://agfax.com/wp-content/plugins/jetpack/_inc/build/lazy-images/js/lazy-images.min.js?ver=7.0'\
+        \ id='jetpack-lazy-images-js'></script>\n<script type='text/javascript' id='boxzilla-js-extra'>\n\
+        /* <![CDATA[ */\nvar boxzilla_options = {\"testMode\":\"\",\"boxes\":[{\"\
+        id\":156113,\"icon\":\"&times;\",\"content\":\"\",\"css\":{\"width\":320,\"\
+        position\":\"center\"},\"trigger\":{\"method\":\"percentage\",\"value\":50},\"\
+        animation\":\"slide\",\"cookie\":{\"triggered\":168,\"dismissed\":0},\"rehide\"\
+        :false,\"position\":\"center\",\"screenWidthCondition\":null,\"closable\"\
+        :true,\"post\":{\"id\":156113,\"title\":\"Subscribe Block\",\"slug\":\"subscribe-block\"\
+        }}]};\n/* ]]> */\n</script>\n<script type='text/javascript' src='https://agfax.com/wp-content/plugins/boxzilla/assets/js/script.min.js?ver=3.2.20'\
+        \ id='boxzilla-js'></script>\n<script type='text/javascript' src='https://agfax.com/wp-includes/js/wp-embed.min.js?ver=5.5.3'\
+        \ id='wp-embed-js'></script>\n<script type=\"text/javascript\"> var swp_nonce\
+        \ = \"b735de35ab\";var swpFloatBeforeContent = false;var swpClickTracking\
+        \ = false; swpPinIt={\"enabled\":false};</script><script type='text/javascript'\
+        \ src='https://stats.wp.com/e-202048.js' async='async' defer='defer'></script>\n\
+        <script type='text/javascript'>\n\t_stq = window._stq || [];\n\t_stq.push([\
+        \ 'view', {v:'ext',j:'1:7.0',blog:'32042788',post:'0',tz:'-6',srv:'agfax.com'}\
+        \ ]);\n\t_stq.push([ 'clickTrackerInit', '32042788', '0' ]);\n</script>\n\
+        <script src=\"/__utm.js\" type=\"text/javascript\"></script>\n<script src=\"\
+        https://g.adspeed.net/js/jquery.viewablead.min.js\"></script>\n\n<script>\n\
+        \t\njQuery(document).ready(function($) {\n\t\n\tvar adLaunched = 0;\n\tvar\
+        \ adLaunched2 = 0;\n\tvar adLaunched3 = 0;\n\tvar ismobile=0;\n\tvar threshold\
+        \ = 225;\n\tvar threshold2 = 1;\n\t\n\t$('div.admobile').setupViewableAd();\n\
+        \t$('div.LeftSideAd').setupViewableAd();\n\t$('div.AdSpeedInsideArticle').setupViewableAd();\n\
+        \t\t\t$('div.StateAd1').setupViewableAd();\n\t\t\t$('div.StateAd2').setupViewableAd();\n\
+        \t$('.singlepost').setupViewableAd();\n\n\tif ( $('body').hasClass('mobile')\
+        \ ) {\n\t\tismobile=1;\n\t\tvar screenwidth = $( window ).width();\n\t\tif\
+        \ (screenwidth > 500) { \n\t\t\tthreshold = 100;\n\t\t} else {\n\t\t\tthreshold\
+        \ = 150;\n\t\t}\n\t\tthreshold2 = 25;\n\t}\n \t$( window ).scroll(function()\
+        \ {\n\t\t var topspot = $(window).scrollTop();\n\t\t\t\t \n\t\t if (topspot\
+        \ > threshold) {\n\t\t\t if (adLaunched==0) {\n\t\t\t\t // Inside Article\n\
+        \t\t\t\t adLaunched=1;\n\t\t\t }\n\t\t } else {\n\t\t }\n\t\t if (topspot\
+        \ > threshold2) {\n\t\t\t if (adLaunched2==0) {\n\t\t\t\t  if (ismobile >0)\
+        \ {\n\t\t\t\t\t $('div.MobileAdScroll').setupViewableAd();\n\t\t\t\t }\n\t\
+        \t\t\t adLaunched2=1;\n\t\t\t }\n\t\t } else {\n\t\t }\n    });\n\t\n\tif\
+        \ ($('body').hasClass('desktop')) { \n\t\t\n         scrollDown = 0;\n\n\t\
+        \t$( window ).scroll(function() {\n        \tvar topspot = $(window).scrollTop();\n\
+        \n            if (topspot > 2) {\n\t\t\t\t$('#top_ad').addClass('stick');\n\
+        \             } else {\n\t\t\t\t$('#top_ad').removeClass('stick');\n     \
+        \        }\n\t\t\t\n\n             if (topspot > 750 && scrollDown == 0) {\n\
+        \t\t\t\t//$('#masthead').fadeOut(2000, function() {\n\t\t\t\t\t//$('.fixed').fadeOut(2000);\n\
+        \t\t\t\t\t//$('#ss_right').addClass('anchortop');\n\t\t\t\t//});\n\t\t\t\t\
+        //$('#top_ad').fadeOut(2000);\n\t\t\t\t//\n\t\t\t\tif ($('body').hasClass('blankpage'))\
+        \ { return false; } else {\n\t\t\t\t\t$('#adspace').fadeIn(2000);\n\t\t\t\t\
+        \ \n\t\t\t\t \t\t\t if (adLaunched3==0) {\n\t\t\t\t\t\t\t\t// LeftSideAdScroll\n\
+        \t\t\t\t \t\t\t\tadLaunched3=1;\n\n\t\t\t\t\t\t\t }\n\t\t\t\t}\n\n\t\t\t\t\
+        //$('#ss_right .ad.sky.one').fadeOut(1000);\n\t\t\t\t//\t$('#ss_right .ad.sky.two').fadeIn(1000);\n\
+        \             } else {\n\t\t\t\t//\t$('#ss_right .ad.sky.one').fadeIn(1000);\n\
+        \t\t\t\t//\t$('#ss_right .ad.sky.two').fadeOut(1000);\n             }\n  \
+        \       });\n\n \t\t\tvar lastScrollTop = 0;\n            var scrollAmt =\
+        \ 0;\n\n    \t\t$(window).on('scroll', function() {\n        \t\tst = $(this).scrollTop();\n\
+        \n        \t\tif(st < lastScrollTop) {\n                    scrollDown = 1;\n\
+        \t\t\t\t\tscrollAmt=scrollAmt+1;\n                    if(scrollAmt > 20 &&\
+        \ st < 275) { \n\t\t\t\t\t\t$('#masthead').fadeIn();\n\t\t\t\t\t\t$('#top_ad').fadeIn();\n\
+        \t\t\t\t\t\t$('#adspace').fadeOut();\n\t\t\t\t\t\t$('.fixed').removeClass('anchortop');\n\
+        \t\t\t\t \t\t$('#ss_right').removeClass('anchortop');\n                  \
+        \  }\n        \t\t} else {\n\t\t\t\t\tscrollDown = 0;\n\t\t\t\t\tscrollAmt=0;\n\
+        \        \t\t}\n        \t\tlastScrollTop = st;\n    \t\t});\n\t}\n\n\tvar\
+        \ leftadscrolled = 0;\n\t\n    \t\t$(window).on('scroll', function() {\n \
+        \       \t\tst = $(this).scrollTop();\n\n\t\t\t\tif (st > 50) {\n\t\t\t\t\t\
+        $('.inline-ad').fadeIn();\n\t\t\t\t\t$('#text-23').fadeIn();\n\t\t\t\t\tif\
+        \ (leftadscrolled == 0) {\n\t\t\t\t\t\t$('div.LeftSideAdScroll').setupViewableAd();\n\
+        \t\t\t\t\t\tleftadscrolled=1;\n\t\t\t\t\t}\n\t\t\t\t}\n\n\t\t\t});\n\n});\n\
+        \n</script>\n</body>\n</html>\n"
+    headers:
+      CF-Cache-Status:
+      - DYNAMIC
+      CF-RAY:
+      - 5fa012cd88e83deb-EWR
+      Cache-Control:
+      - max-age=600, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Sun, 29 Nov 2020 23:22:55 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Link:
+      - <https://agfax.com/wp-json/>; rel="https://api.w.org/"
+      - <https://agfax.com/wp-json/wp/v2/tags/6638>; rel="alternate"; type="application/json"
+      NEL:
+      - '{"report_to":"cf-nel","max_age":604800}'
+      Pragma:
+      - no-cache
+      Report-To:
+      - '{"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=saWxY1XfL%2F%2F3icx1kHiyLl%2BGVqq1lkjglosDYFZbahAP4qai7zGQX1Gy1mJaZk0SZAd4nM6RVOhBYNHLykVJbi8zljRtYiBmWS9lCxJywp3wRCkHl0M%3D"}],"group":"cf-nel","max_age":604800}'
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=db5c4e8eb9eee5d211128e7e0922a64571606692174; expires=Tue, 29-Dec-20
+        23:22:54 GMT; path=/; domain=.agfax.com; HttpOnly; SameSite=Lax
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      - Accept-Encoding,Cookie
+      X-Cache:
+      - 'HIT: 4'
+      X-Cache-Group:
+      - normal
+      X-Cacheable:
+      - SHORT
+      X-Powered-By:
+      - WP Engine
+      X-TEC-API-ORIGIN:
+      - https://agfax.com
+      X-TEC-API-ROOT:
+      - https://agfax.com/wp-json/tribe/events/v1/events/?tags=wheat-news
+      X-TEC-API-VERSION:
+      - v1
+      cf-request-id:
+      - 06b7ea147700003deb3abb3000000001
+      content-length:
+      - '139791'
+    status:
+      code: 200
+      message: OK
+version: 1

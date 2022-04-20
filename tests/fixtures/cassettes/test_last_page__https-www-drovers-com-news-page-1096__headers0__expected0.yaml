@@ -1,0 +1,799 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.drovers.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.drovers.com/news?page=1096
+  response:
+    body:
+      string: "<!DOCTYPE html>\n<html lang=\"en\" dir=\"ltr\" prefix=\"content: http://purl.org/rss/1.0/modules/content/
+        \ dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#
+        \ rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/
+        \ sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos:
+        http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema#
+        \">\n  <head>\n    <meta charset=\"utf-8\" /><script type=\"text/javascript\">(window.NREUM||(NREUM={})).loader_config={licenseKey:\"31a9736cc2\",applicationID:\"675072341\"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function
+        r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var
+        i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if(\"function\"==typeof
+        __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return
+        r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return
+        o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e(\"handle\"),a=e(6),c=e(7),f=e(\"ee\").get(\"tracer\"),u=e(\"loader\"),s=NREUM;\"undefined\"==typeof
+        window.newrelic&&(newrelic=s);var d=[\"setPageViewName\",\"setCustomAttribute\",\"setErrorHandler\",\"finished\",\"addToTrace\",\"inlineHit\",\"addRelease\"],p=\"api-\",l=p+\"ixn-\";a(d,function(e,t){s[t]=i(p+t,!0,\"api\")}),s.addPageAction=i(p+\"addPageAction\",!0),s.setCurrentRouteName=i(p+\"routeName\",!0),t.exports=newrelic,s.interaction=function(){return(new
+        r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i=\"function\"==typeof
+        t;return o(l+\"tracer\",[u.now(),e,n],r),function(){if(f.emit((i?\"\":\"no-\")+\"fn-start\",[u.now(),r,i],n),i)try{return
+        t.apply(this,arguments)}catch(e){throw f.emit(\"fn-err\",[arguments,this,e],n),e}finally{f.emit(\"fn-end\",[u.now()],n)}}}};a(\"actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get\".split(\",\"),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){\"string\"==typeof
+        e&&(e=new Error(e)),o(\"err\",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function
+        r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new
+        Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(8);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function
+        r(e,t){var n=e.getEntries();n.forEach(function(e){\"first-paint\"===e.name?d(\"timing\",[\"fp\",Math.floor(e.startTime)]):\"first-contentful-paint\"===e.name&&d(\"timing\",[\"fcp\",Math.floor(e.startTime)])})}function
+        i(e,t){var n=e.getEntries();n.length>0&&d(\"lcp\",[n[n.length-1]])}function
+        o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d(\"cls\",[e])})}function
+        a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d(\"timing\",[\"fi\",t,n])}}function
+        c(e){d(\"pageHide\",[p.now(),e])}if(!(\"init\"in NREUM&&\"page_view_timing\"in
+        NREUM.init&&\"enabled\"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var
+        f,u,s,d=e(\"handle\"),p=e(\"loader\"),l=e(5),m=NREUM.o.EV;if(\"PerformanceObserver\"in
+        window&&\"function\"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:[\"paint\"]})}catch(v){}u=new
+        PerformanceObserver(i);try{u.observe({entryTypes:[\"largest-contentful-paint\"]})}catch(v){}s=new
+        PerformanceObserver(o);try{s.observe({type:\"layout-shift\",buffered:!0})}catch(v){}}if(\"addEventListener\"in
+        document){var g=!1,y=[\"click\",\"keydown\",\"mousedown\",\"pointerdown\",\"touchstart\"];y.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],4:[function(e,t,n){function
+        r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var
+        n=o.split(\".\"),r=t.split(\".\"),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var
+        i=null,o=null,a=/Version\\/(\\S+)\\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf(\"Chrome\")===-1&&c.indexOf(\"Chromium\")===-1&&(i=\"Safari\",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],5:[function(e,t,n){function
+        r(e){function t(){e(a&&document[a]?document[a]:document[i]?\"hidden\":\"visible\")}\"addEventListener\"in
+        document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;\"undefined\"!=typeof
+        document.hidden?(i=\"hidden\",o=\"visibilitychange\",a=\"visibilityState\"):\"undefined\"!=typeof
+        document.msHidden?(i=\"msHidden\",o=\"msvisibilitychange\"):\"undefined\"!=typeof
+        document.webkitHidden&&(i=\"webkitHidden\",o=\"webkitvisibilitychange\",a=\"webkitVisibilityState\")},{}],6:[function(e,t,n){function
+        r(e,t){var n=[],r=\"\",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return
+        n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],7:[function(e,t,n){function
+        r(e,t,n){t||(t=0),\"undefined\"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return
+        o}t.exports=r},{}],8:[function(e,t,n){t.exports={exists:\"undefined\"!=typeof
+        window.performance&&window.performance.timing&&\"undefined\"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function
+        r(){}function i(e){function t(e){return e&&e instanceof r?e:e?f(e,c,o):o()}function
+        n(n,r,i,o){if(!p.aborted||o){e&&e(n,r,i);for(var a=t(i),c=v(n),f=c.length,u=0;u<f;u++)c[u].apply(a,r);var
+        d=s[w[n]];return d&&d.push([b,n,r,a]),a}}function l(e,t){h[e]=v(e).concat(t)}function
+        m(e,t){var n=h[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function
+        v(e){return h[e]||[]}function g(e){return d[e]=d[e]||i(n)}function y(e,t){u(e,function(e,n){t=t||\"feature\",w[n]=t,t
+        in s||(s[t]=[])})}var h={},w={},b={on:l,addEventListener:l,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:y,abort:a,aborted:!1};return
+        b}function o(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var
+        c=\"nr@context\",f=e(\"gos\"),u=e(6),s={},d={},p=t.exports=i();p.backlog=s},{}],gos:[function(e,t,n){function
+        r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return
+        Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return
+        e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function
+        r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e(\"ee\").get(\"handle\");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function
+        r(e){var t=typeof e;return!e||\"object\"!==t&&\"function\"!==t?-1:e===window?0:a(e,o,function(){return
+        i++})}var i=1,o=\"nr@id\",a=e(\"gos\");t.exports=r},{}],loader:[function(e,t,n){function
+        r(){if(!E++){var e=b.info=NREUM.info,t=p.getElementsByTagName(\"script\")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return
+        u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c(\"mark\",[\"onload\",n+b.offset],null,\"api\"),c(\"timing\",[\"load\",n]);var
+        r=p.createElement(\"script\");r.src=\"https://\"+e.agent,t.parentNode.insertBefore(r,t)}}function
+        i(){\"complete\"===p.readyState&&o()}function o(){c(\"mark\",[\"domContent\",a()+b.offset],null,\"api\")}var
+        a=e(2),c=e(\"handle\"),f=e(6),u=e(\"ee\"),s=e(4),d=window,p=d.document,l=\"addEventListener\",m=\"attachEvent\",v=d.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:v,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var
+        y=\"\"+location,h={beacon:\"bam.nr-data.net\",errorBeacon:\"bam.nr-data.net\",agent:\"js-agent.newrelic.com/nr-1184.min.js\"},w=v&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:w,userAgent:s};e(1),e(3),p[l]?(p[l](\"DOMContentLoaded\",o,!1),d[l](\"load\",r,!1)):(p[m](\"onreadystatechange\",i),d[m](\"onload\",r)),c(\"mark\",[\"firstbyte\",a.getLastTimestamp()],null,\"api\");var
+        E=0},{}],\"wrap-function\":[function(e,t,n){function r(e){return!(e&&e instanceof
+        Function&&e.apply&&!e[a])}var i=e(\"ee\"),o=e(7),a=\"nr@original\",c=Object.prototype.hasOwnProperty,f=!1;t.exports=function(e,t){function
+        n(e,t,n,i){function nrWrapper(){var r,a,c,f;try{a=this,r=o(arguments),c=\"function\"==typeof
+        n?n(r,a):n||{}}catch(u){p([u,\"\",[r,a,i],c])}s(t+\"start\",[r,a,i],c);try{return
+        f=e.apply(a,r)}catch(d){throw s(t+\"err\",[r,a,d],c),d}finally{s(t+\"end\",[r,a,f],c)}}return
+        r(e)?e:(t||(t=\"\"),nrWrapper[a]=e,d(e,nrWrapper),nrWrapper)}function u(e,t,i,o){i||(i=\"\");var
+        a,c,f,u=\"-\"===i.charAt(0);for(f=0;f<t.length;f++)c=t[f],a=e[c],r(a)||(e[c]=n(a,u?c+i:i,o,c))}function
+        s(n,r,i){if(!f||t){var o=f;f=!0;try{e.emit(n,r,i,t)}catch(a){p([a,n,r,i])}f=o}}function
+        d(e,t){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(e);return
+        n.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return
+        e[n]=t,t}})}),t}catch(r){p([r])}for(var i in e)c.call(e,i)&&(t[i]=e[i]);return
+        t}function p(t){try{e.emit(\"internal-error\",t)}catch(n){}}return e||(e=i),n.inPlace=u,n.flag=a,n}},{}]},{},[\"loader\"]);</script>\n<script>!function(a,b,c,d,e,f){a.ddjskey=e;a.ddoptions=f||null;var
+        m=b.createElement(c),n=b.getElementsByTagName(c)[0];m.async=1,m.src=d,n.parentNode.insertBefore(m,n)}(window,document,\"script\",\"https://js.datadome.co/tags.js\",\"891E521169DA76887ED69C04821021\");</script>\n<script
+        src=\"https://cdn.cookielaw.org/scripttemplates/otSDKStub.js\" type=\"text/javascript\"
+        charset=\"UTF-8\" data-domain-script=\"bf42af6c-ecce-448b-b24f-54a8c53622ce\"></script><script
+        type=\"text/javascript\">function OptanonWrapper() { }</script><script>document.write('\\x3Cscript
+        type=\"text/javascript\" src=\"https://z.moatads.com/fjprebidheader819878417714/yi.js\">\\x3C/script>');</script>\n<script>!function(l,a){a.liosetup=a.liosetup||{},a.liosetup.callback=a.liosetup.callback||[],a.liosetup.addCallback=function(l){if(\"function\"==typeof
+        a.liosetup.callback){var o=[];o.push(a.liosetup.callback),a.liosetup.callback=o}a.lio&&a.lio.loaded?l(a.lio.data):a.liosetup.callback.push(l)}}(document,window);!function(o,g){g.googletag=g.googletag||{},g.googletag.cmd=g.googletag.cmd||[],g.liosetup.callback.push(function(o){o||o.segments?g.googletag.cmd.push(function(){g.googletag.pubads().setTargeting(\"LyticsSegments\",o.segments)}):(console.warn(\"unable
+        to load Lytics audiences for Google Ad Manager\"))})}(document,window);</script>\n<script>!function(){\"use
+        strict\";var o=window.jstag||(window.jstag={}),r=[];function n(e){o[e]=function(){for(var
+        n=arguments.length,t=new Array(n),i=0;i<n;i++)t[i]=arguments[i];r.push([e,t])}}n(\"send\"),n(\"mock\"),n(\"identify\"),n(\"pageView\"),n(\"unblock\"),n(\"getid\"),n(\"setid\"),n(\"loadEntity\"),n(\"getEntity\"),n(\"on\"),n(\"once\"),n(\"call\"),o.loadScript=function(n,t,i){var
+        e=document.createElement(\"script\");e.async=!0,e.src=n,e.onload=t,e.onerror=i;var
+        o=document.getElementsByTagName(\"script\")[0],r=o&&o.parentNode||document.head||document.body,c=o||r.lastChild;return
+        null!=c?r.insertBefore(e,c):r.appendChild(e),this},o.init=function n(t){return
+        this.config=t,this.loadScript(t.src,function(){if(o.init===n)throw new Error(\"Load
+        error!\");o.init(o.config),function(){for(var n=0;n<r.length;n++){var t=r[n][0],i=r[n][1];o[t].apply(o,i)}r=void
+        0}()}),this}}();\n    // Define config and initialize Lytics tracking tag.\n
+        \   jstag.init({\n        src: \"//c.lytics.io/api/tag/234a5e4d20506b18e84cc22ef032a726/latest.min.js\",\n
+        \       loadid: true,\n        stream: \"drovers\"\n    });</script>\n<link
+        rel=\"canonical\" href=\"https://www.drovers.com/news\" />\n<meta name=\"Generator\"
+        content=\"fsociety 2015.5.9\" />\n<meta name=\"MobileOptimized\" content=\"width\"
+        />\n<meta name=\"HandheldFriendly\" content=\"true\" />\n<meta name=\"viewport\"
+        content=\"width=device-width, initial-scale=1.0\" />\n<link rel=\"icon\" type=\"image/x-icon\"
+        href=\"/themes/custom/scythe/build/images/favicons/drovers.ico\" />\n<link
+        rel=\"preload\" as=\"font\" type=\"font/woff\" crossorigin=\"anonymous\" href=\"/themes/custom/scythe/build/fonts/Montserrat-Regular.woff\"
+        />\n<link rel=\"preload\" as=\"font\" type=\"font/woff\" crossorigin=\"anonymous\"
+        href=\"/themes/custom/scythe/build/fonts/Montserrat-Medium.woff\" />\n<link
+        rel=\"preload\" as=\"font\" type=\"font/woff\" crossorigin=\"anonymous\" href=\"/themes/custom/scythe/build/fonts/Merriweather-Bold.woff\"
+        />\n<script async src=\"https://securepubads.g.doubleclick.net/tag/js/gpt.js\"></script>\n<script>\nwindow.googletag
+        = window.googletag || {cmd: []};\ngoogletag.slots = googletag.slots || {};\ngoogletag.cmd.push(function()
+        {\n\nvar mapping_footer = googletag.sizeMapping()\n    .addSize([768, 1],
+        [])\n    .addSize([0, 0], [320, 50])\n    .build();\n\ngoogletag.slots[\"footer\"]
+        = googletag.defineSlot(\"/570762648/FARM_JOURNAL/LIVESTOCK/DROVER/SCB_320x50\",
+        [320, 50], \"js-dfp-tag-footer\")\n    .setTargeting('adslot_name', ['footer'])\n
+        \   .defineSizeMapping(mapping_footer)\n    .addService(googletag.pubads());\n\nvar
+        mapping_right_rail_3rd = googletag.sizeMapping()\n    .addSize([1080, 1],
+        [[300, 250], [300, 600]])\n    .addSize([768, 1], [300, 250])\n    .addSize([0,
+        0], [])\n    .build();\n\ngoogletag.slots[\"right_rail_3rd\"] = googletag.defineSlot(\"/570762648/FARM_JOURNAL/LIVESTOCK/DROVER/SCB_300x250_300x600\",
+        [[300, 250], [300, 600]], \"js-dfp-tag-right_rail_3rd\")\n    .setTargeting('adslot_name',
+        ['Spot2'])\n    .defineSizeMapping(mapping_right_rail_3rd)\n    .addService(googletag.pubads());\n\ngoogletag.slots[\"trending_native_2nd\"]
+        = googletag.defineSlot(\"/570762648/FARM_JOURNAL/LIVESTOCK/DROVER/SCB_NATIVE_RIGHTRAIL\",
+        ['fluid', [1, 1]], \"js-dfp-tag-trending_native_2nd\")\n    .setTargeting('adslot_name',
+        ['Trending_Native2'])\n      .addService(googletag.pubads());\n\ngoogletag.slots[\"trending_native_1st\"]
+        = googletag.defineSlot(\"/570762648/FARM_JOURNAL/LIVESTOCK/DROVER/SCB_NATIVE_RIGHTRAIL\",
+        ['fluid', [1, 1]], \"js-dfp-tag-trending_native_1st\")\n    .setTargeting('adslot_name',
+        ['Trending_Native1'])\n      .addService(googletag.pubads());\n\ngoogletag.slots[\"right_rail_2nd\"]
+        = googletag.defineSlot(\"/570762648/FARM_JOURNAL/LIVESTOCK/DROVER/SCB_300x250\",
+        [300, 250], \"js-dfp-tag-right_rail_2nd\")\n    .setTargeting('adslot_name',
+        ['Spot1'])\n      .addService(googletag.pubads());\n\ngoogletag.slots[\"latest_news_native_2nd\"]
+        = googletag.defineSlot(\"/570762648/FARM_JOURNAL/LIVESTOCK/DROVER/SCB_NATIVE_INLINE\",
+        [[1, 1], 'fluid'], \"js-dfp-tag-latest_news_native_2nd\")\n    .setTargeting('adslot_name',
+        ['LatestNews_Native2'])\n      .addService(googletag.pubads());\n\ngoogletag.slots[\"latest_news_native_1st\"]
+        = googletag.defineSlot(\"/570762648/FARM_JOURNAL/LIVESTOCK/DROVER/SCB_NATIVE_INLINE\",
+        [[1, 1], 'fluid'], \"js-dfp-tag-latest_news_native_1st\")\n    .setTargeting('adslot_name',
+        ['LatestNews_Native1'])\n      .addService(googletag.pubads());\n\nvar mapping_main_content_top
+        = googletag.sizeMapping()\n    .addSize([1024, 1], [728, 90])\n    .addSize([0,
+        0], [300, 250])\n    .build();\n\ngoogletag.slots[\"main_content_top\"] =
+        googletag.defineSlot(\"/570762648/FARM_JOURNAL/LIVESTOCK/DROVER/SCB_728x90\",
+        [728, 90], \"js-dfp-tag-main_content_top\")\n    .setTargeting('adslot_name',
+        ['MainContent_Top'])\n    .defineSizeMapping(mapping_main_content_top)\n    .addService(googletag.pubads());\n\nvar
+        mapping_leaderboard = googletag.sizeMapping()\n    .addSize([1024, 1], [[728,
+        90], [970, 90], [1, 1]])\n    .addSize([0, 0], [])\n    .build();\n\ngoogletag.slots[\"leaderboard\"]
+        = googletag.defineSlot(\"/570762648/FARM_JOURNAL/LIVESTOCK/DROVER/SCB_728X90_970X90_1X1\",
+        [[728, 90], [970, 90], [1, 1]], \"js-dfp-tag-leaderboard\")\n    .setTargeting('adslot_name',
+        ['Top_Leaderboard'])\n    .defineSizeMapping(mapping_leaderboard)\n    .addService(googletag.pubads());\n\ngoogletag.slots[\"generic\"]
+        = googletag.defineSlot(\"/570762648/FARM_JOURNAL/LIVESTOCK/DROVER/SCB_1X1\",
+        [1, 1], \"js-dfp-tag-generic\")\n    .setTargeting('adslot_name', ['generic'])\n
+        \     .addService(googletag.pubads());\n\n    googletag.pubads().enableAsyncRendering();\n
+        \     googletag.pubads().enableSingleRequest();\n        googletag.pubads().disableInitialLoad();\n
+        \     googletag.pubads().setTargeting('Site', ['www.drovers.com']);\n    googletag.pubads().setTargeting('Section',
+        ['News']);\n    googletag.pubads().setTargeting('Page_Type', ['Section']);\n
+        \   googletag.pubads().setTargeting('URL', ['https://www.drovers.com/news']);\n
+        \   googletag.pubads().enableLazyLoad({ fetchMarginPercent: 0, renderMarginPercent:
+        0, mobileScaling: 0 });\n  googletag.pubads().setCentering(true);\n  googletag.enableServices();\n
+        \ });\n</script>\n<link rel=\"delete-form\" href=\"/taxonomy/term/43/delete\"
+        />\n<link rel=\"edit-form\" href=\"/taxonomy/term/43/edit\" />\n<script src=\"/sites/drovers/files/google_tag/gtm_container/google_tag.script.js?qjkedi\"
+        defer></script>\n\n    <title>News | Drovers</title>\n    <link rel=\"stylesheet\"
+        media=\"all\" href=\"/sites/drovers/files/css/css_6pCmScyUvWAVMpTDK_v0o3-PlkalIKD_qMkXvDyhwIs.css\"
+        />\n<link rel=\"stylesheet\" media=\"all\" href=\"/sites/drovers/files/css/css__W6aUNOgNEGLXOQopCMIDEWtYdMu1P6jJt6knlD-Nvg.css\"
+        />\n\n    <script type=\"application/json\" data-drupal-selector=\"drupal-settings-json\">{\"path\":{\"baseUrl\":\"\\/\",\"scriptPath\":null,\"pathPrefix\":\"\",\"currentPath\":\"taxonomy\\/term\\/43\",\"currentPathIsAdmin\":false,\"isFront\":false,\"currentLanguage\":\"en\",\"currentQuery\":{\"page\":\"1096\"}},\"pluralDelimiter\":\"\\u0003\",\"suppressDeprecationErrors\":true,\"ajaxPageState\":{\"libraries\":\"classy\\/base,classy\\/messages,core\\/html5shiv,core\\/normalize,farmjournal_external_scripts\\/ads,farmjournal_optin_monster\\/optin_monster,farmjournal_search\\/farmjournal_search,farmjournal_weather\\/weather_widget,scythe\\/base,scythe\\/css-vars,scythe\\/docked-ads,scythe\\/drovers,scythe\\/footer-menu,scythe\\/header-flyout,scythe\\/header-submenus,scythe\\/search-flyout,scythe\\/sticky-ads,search_api_autocomplete\\/search_api_autocomplete,system\\/base,views\\/views.module\",\"theme\":\"scythe\",\"theme_token\":null},\"ajaxTrustedUrl\":{\"\\/search\":true},\"aeris_creds\":{\"client_id\":\"BhKMJRx6gc3KZOPCmPnOb\",\"client_secret\":\"3pdXyoYOsXs8iZTQd1ENISHrr5Yi6hDRMll64vU2\"},\"search_api_autocomplete\":{\"search\":{\"auto_submit\":true,\"min_length\":2}},\"user\":{\"uid\":0,\"permissionsHash\":\"7f45f6fc331665e01b519bdb31bed4ec189fa1b2c21031d31d9278ea7a2a0055\"}}</script>\n\n<!--[if
+        lte IE 8]>\n<script src=\"/sites/drovers/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js\"></script>\n<![endif]-->\n<script
+        src=\"/sites/drovers/files/js/js_QyQLiqSTVQuNN8kkAOaqaXGYWG4EW_bREKO9zJEn-V4.js\"></script>\n<script
+        src=\"/modules/custom/farmjournal_external_scripts/js/ads.js?v=1.x\" async></script>\n\n
+        \ </head>\n  <body class=\"path-taxonomy\">\n        <a href=\"#main-content\"
+        class=\"visually-hidden focusable skip-link\">\n      Skip to main content\n
+        \   </a>\n    <noscript aria-hidden=\"true\"><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-NXNCVXS\"
+        height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n
+        \     <div class=\"dialog-off-canvas-main-canvas\" data-off-canvas-main-canvas>\n
+        \   \n<div class=\"layout-container\">\n  \n    <div class=\"region region-top\">\n
+        \   <div id=\"block-dfptaggeneric\" class=\"block block-dfp block-dfp-adc92a0e12-7f14-45d5-b556-434b805e1bf5\">\n
+        \ \n    \n      <div id=\"js-dfp-tag-generic\"></div>\n\n  </div>\n<div id=\"block-dfptagleaderboard\"
+        class=\"block block-dfp block-dfp-ade99e6c09-a3f4-4f37-8901-75712164b38e\">\n
+        \ \n    \n      <div id=\"js-dfp-tag-leaderboard\"></div>\n\n  </div>\n<nav
+        role=\"navigation\" aria-labelledby=\"block-trending-menu\" id=\"block-trending\"
+        class=\"block block-menu navigation menu--trending\">\n      \n  <h2 id=\"block-trending-menu\">Trending:</h2>\n
+        \ \n\n        \n              <ul class=\"menu\">\n                    <li
+        class=\"menu-item\">\n        <a href=\"/topics/beef-quality\" data-drupal-link-system-path=\"taxonomy/term/74\">Beef
+        Quality</a>\n              </li>\n                <li class=\"menu-item\">\n
+        \       <a href=\"/topics/beef-biosecurity\" data-drupal-link-system-path=\"taxonomy/term/58\">Biosecurity</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"/news/industry/calving-season-prep\" data-drupal-link-system-path=\"node/11500\">Calving
+        \ Season Prep</a>\n              </li>\n                <li class=\"menu-item\">\n
+        \       <a href=\"/markets/market-reports/november-cattle-rally-continues\"
+        data-drupal-link-system-path=\"node/11518\">Cattle Market Rally</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"/topics/silage\"
+        data-drupal-link-system-path=\"taxonomy/term/600\">Silage</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"/news/industry/prepare-your-water-systems-winter\"
+        data-drupal-link-system-path=\"node/11508\">Winterize Your Water Systems</a>\n
+        \             </li>\n        </ul>\n  \n\n\n  </nav>\n\n  </div>\n\n  <header
+        class=\"layout-header header-container\" role=\"banner\">\n    <div class=\"layout-header-inner
+        header-logo-links\">\n      <button class=\"flyout-toggle flyout-toggle--small\"
+        aria-controls=\"flyout\">\n        <span class=\"visually-hidden\">Navigation
+        Toggle</span>\n        <svg class=\"icon icon--toggle\">\n      </button>\n
+        \     <button class=\"flyout-toggle search-toggle\">\n        <span class=\"visually-hidden\">Back
+        to Menu</span>\n        <svg class=\"icon icon--exit-search\">\n      </button>\n
+        \     <a href=\"/\" title=\"Home\" rel=\"home\" class=\"logo\">\n        <img
+        src=\"/themes/custom/scythe/build/images/logos/drovers.svg\" alt=\"drovers
+        Logo\">\n      </a>\n              <div class=\"region region-header\">\n
+        \   <nav role=\"navigation\" aria-labelledby=\"block-mainnavigation-menu\"
+        id=\"block-mainnavigation\" class=\"block block-menu navigation menu--main\">\n
+        \           \n  <h2 class=\"visually-hidden\" id=\"block-mainnavigation-menu\">Main
+        navigation - 1st level</h2>\n  \n\n        \n              <ul class=\"menu\">\n
+        \                   <li class=\"menu-item menu-item--collapsed menu-item--active-trail\">\n
+        \       <a href=\"/news\" data-drupal-link-system-path=\"taxonomy/term/43\">News</a>\n
+        \             </li>\n                <li class=\"menu-item menu-item--collapsed\">\n
+        \       <a href=\"/markets/futures\" data-drupal-link-system-path=\"markets/futures\">Markets</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"/weather\" data-drupal-link-system-path=\"weather\">Weather</a>\n              </li>\n
+        \               <li class=\"menu-item menu-item--collapsed\">\n        <a
+        href=\"/opinion\" data-drupal-link-system-path=\"taxonomy/term/32\">Opinion</a>\n
+        \             </li>\n                <li class=\"menu-item menu-item--collapsed\">\n
+        \       <a href=\"/topics\" data-drupal-link-system-path=\"topics\">Topics</a>\n
+        \             </li>\n                <li class=\"menu-item menu-item--collapsed\">\n
+        \       <a href=\"/events\" data-drupal-link-system-path=\"events\">Events</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://video.farmjournal.com/\">Video</a>\n              </li>\n                <li
+        class=\"menu-item menu-item--collapsed\">\n        <a href=\"/magazines\"
+        data-drupal-link-system-path=\"magazines\">Magazines</a>\n              </li>\n
+        \       </ul>\n  \n\n\n  </nav>\n\n  </div>\n\n      <div class=\"header-buttons\">\n
+        \       <button class=\"flyout-toggle flyout-toggle--large\" aria-controls=\"flyout\">\n
+        \         <span class=\"visually-hidden\">Desktop Menu Toggle</span>\n          <svg
+        class=\"icon icon--toggle\">\n        </button>\n        <button class=\"search-button
+        flyout-toggle\" aria-controls=\"flyout\">\n          <span class=\"visually-hidden\">Search</span>\n
+        \         <svg class=\"icon icon--search\">\n        </button>\n              </div>\n
+        \   </div>\n          <div id=\"flyout\">\n          <div class=\"region region-flyout\">\n
+        \   <div class=\"views-exposed-form views-exposed-form-search-page-1 block
+        block-views block-views-exposed-filter-blocksearch-page-1\" data-drupal-selector=\"views-exposed-form-search-page-1\"
+        id=\"block-exposedformsearchpage-1\">\n  \n    \n      <form action=\"/search\"
+        method=\"get\" id=\"views-exposed-form-search-page-1\" accept-charset=\"UTF-8\">\n
+        \ <div class=\"form--inline clearfix\">\n  <div class=\"js-form-item form-item
+        js-form-type-search-api-autocomplete form-type-search-api-autocomplete js-form-item-fulltext
+        form-item-fulltext\">\n      <label for=\"edit-fulltext\">Search</label>\n
+        \       <input class=\"search-suggester-input search-suggester-input--search_suggester
+        search-suggester-autocomplete-input form-autocomplete form-text\" data-drupal-selector=\"edit-fulltext\"
+        data-search-api-autocomplete-search=\"search\" data-autocomplete-path=\"/search_api_autocomplete/search?display=page_1&amp;&amp;filter=fulltext\"
+        type=\"text\" id=\"edit-fulltext\" name=\"fulltext\" value=\"\" size=\"30\"
+        maxlength=\"128\" />\n\n        </div>\n<div id=\"search-results\" data-drupal-selector=\"edit-search-results\"><div
+        id=\"no-search-results\" data-drupal-selector=\"edit-0\"><div class=\"title\">No
+        results found. Try again!</div>\r\n<div class=\"nsr spelling\">Make sure all
+        words are spelled correctly</div>\r\n<div class=\"nsr title\">Try different
+        search terms</div>\r\n<div class=\"nsr title\">Try more general search terms</div></div>\n</div>\n<div
+        data-drupal-selector=\"edit-actions\" class=\"form-actions js-form-wrapper
+        form-wrapper\" id=\"edit-actions\"><input data-drupal-selector=\"edit-submit-search\"
+        type=\"submit\" id=\"edit-submit-search\" value=\"Search\" class=\"button
+        js-form-submit form-submit\" />\n</div>\n\n</div>\n\n</form>\n\n  </div>\n<nav
+        role=\"navigation\" aria-labelledby=\"block-mainnavigation-full-menu\" id=\"block-mainnavigation-full\"
+        class=\"block block-menu navigation menu--main\">\n            \n  <h2 class=\"visually-hidden\"
+        id=\"block-mainnavigation-full-menu\">Main navigation - Full</h2>\n  \n\n
+        \       \n              <ul class=\"menu\">\n                    <li class=\"menu-item
+        menu-item--expanded menu-item--active-trail\">\n        <a href=\"/news\"
+        data-drupal-link-system-path=\"taxonomy/term/43\">News</a>\n                                <ul
+        class=\"menu\">\n                    <li class=\"menu-item\">\n        <a
+        href=\"/news/ag-policy\" data-drupal-link-system-path=\"taxonomy/term/128\">Ag
+        Policy</a>\n              </li>\n                <li class=\"menu-item\">\n
+        \       <a href=\"/news/beef-production\" data-drupal-link-system-path=\"taxonomy/term/629\">Beef
+        Production</a>\n              </li>\n                <li class=\"menu-item\">\n
+        \       <a href=\"/news/industry\" data-drupal-link-system-path=\"taxonomy/term/72\">Industry</a>\n
+        \             </li>\n        </ul>\n  \n              </li>\n                <li
+        class=\"menu-item menu-item--expanded\">\n        <a href=\"/markets/futures\"
+        data-drupal-link-system-path=\"markets/futures\">Markets</a>\n                                <ul
+        class=\"menu\">\n                    <li class=\"menu-item\">\n        <a
+        href=\"/markets/market-reports\" data-drupal-link-system-path=\"taxonomy/term/123\">Market
+        Reports</a>\n              </li>\n                <li class=\"menu-item\">\n
+        \       <a href=\"/markets/profit-tracker\" data-drupal-link-system-path=\"taxonomy/term/145\">Profit
+        Tracker</a>\n              </li>\n        </ul>\n  \n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"/weather\" data-drupal-link-system-path=\"weather\">Weather</a>\n
+        \             </li>\n                <li class=\"menu-item menu-item--expanded\">\n
+        \       <a href=\"/opinion\" data-drupal-link-system-path=\"taxonomy/term/32\">Opinion</a>\n
+        \                               <ul class=\"menu\">\n                    <li
+        class=\"menu-item\">\n        <a href=\"/authors/dave-daley-california-rancher\"
+        data-drupal-link-system-path=\"taxonomy/term/112\">Dave Daley</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"/authors/greg-henderson\"
+        data-drupal-link-system-path=\"taxonomy/term/31\">Greg Henderson</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"/authors/jennifer-shike\"
+        data-drupal-link-system-path=\"taxonomy/term/50\">Jennifer Shike</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"/authors/john-nalivka\"
+        data-drupal-link-system-path=\"taxonomy/term/105\">John Nalivka</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"/authors/justin-sexten-performance-livestock-analytics\"
+        data-drupal-link-system-path=\"taxonomy/term/501\">Justin Sexten</a>\n              </li>\n
+        \       </ul>\n  \n              </li>\n                <li class=\"menu-item
+        menu-item--expanded\">\n        <a href=\"/topics\" data-drupal-link-system-path=\"topics\">Topics</a>\n
+        \                               <ul class=\"menu\">\n                    <li
+        class=\"menu-item\">\n        <a href=\"/topics/beef-quality\" data-drupal-link-system-path=\"taxonomy/term/74\">Beef
+        Quality</a>\n              </li>\n                <li class=\"menu-item\">\n
+        \       <a href=\"/topics/beef-biosecurity\" data-drupal-link-system-path=\"taxonomy/term/58\">Biosecurity</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"/topics/silage\" data-drupal-link-system-path=\"taxonomy/term/600\">Quality
+        Silage</a>\n              </li>\n                <li class=\"menu-item\">\n
+        \       <a href=\"/topics/traceability\" data-drupal-link-system-path=\"taxonomy/term/563\">Traceability</a>\n
+        \             </li>\n        </ul>\n  \n              </li>\n                <li
+        class=\"menu-item menu-item--expanded\">\n        <a href=\"/events\" data-drupal-link-system-path=\"events\">Events</a>\n
+        \                               <ul class=\"menu\">\n                    <li
+        class=\"menu-item\">\n        <a href=\"https://www.farmjournalfielddays.com/\">Farm
+        Journal Field Days</a>\n              </li>\n        </ul>\n  \n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"https://video.farmjournal.com/\">Video</a>\n
+        \             </li>\n                <li class=\"menu-item menu-item--expanded\">\n
+        \       <a href=\"/magazines\" data-drupal-link-system-path=\"magazines\">Magazines</a>\n
+        \                               <ul class=\"menu\">\n                    <li
+        class=\"menu-item\">\n        <a href=\"https://preferences.farmjournal.com/Drovers-Subscription-Request_Drovers-Sign-up-Page.html?S=ST\">Subscribe</a>\n
+        \             </li>\n        </ul>\n  \n              </li>\n        </ul>\n
+        \ \n\n\n  </nav>\n<nav role=\"navigation\" aria-labelledby=\"block-sociallinks-2-menu\"
+        id=\"block-sociallinks-2\" class=\"block block-menu navigation menu--social-links\">\n
+        \           \n  <h2 class=\"visually-hidden\" id=\"block-sociallinks-2-menu\">Social
+        Links</h2>\n  \n\n        \n              <ul class=\"menu\">\n                    <li
+        class=\"menu-item\">\n        <a href=\"https://www.facebook.com/DroversMagazine\">Facebook</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://twitter.com/DroversCTN\">Twitter</a>\n              </li>\n
+        \       </ul>\n  \n\n\n  </nav>\n\n  </div>\n\n      </div>\n      </header>\n
+        \     <main id=\"main-content\" class=\"main-content\" role=\"main\">\n        <div
+        class=\"region region-content\">\n    <div data-drupal-messages-fallback class=\"hidden\"></div><div
+        id=\"block-scythe-page-title\" class=\"block block-core block-page-title-block\">\n
+        \ \n    \n              <h1 class=\"page-title\">Latest News From <span class=\"title-callout\">News</span></h1>\n
+        \ \n\n  </div>\n<div id=\"block-scythe-content\" class=\"block block-system
+        block-system-main-block\">\n  \n    \n      <div class=\"views-element-container\"><div
+        class=\"view view-taxonomy-term view-id-taxonomy_term view-display-id-page_1
+        js-view-dom-id-12b5d86725085056ba15c9921788850aef7c6c861bd253c57f11c631dcbf90f0\">\n
+        \ \n    \n          <div class=\"attachment attachment-before\">\n      <div
+        class=\"views-element-container\"><div class=\"view view-taxonomy-term view-id-taxonomy_term
+        view-display-id-attachment_1 js-view-dom-id-977e12f75e339fb96e61e3c9cd75587a15580a72b3ab679c843b8b0932a61413\">\n
+        \ \n    \n      \n      <div class=\"view-content\">\n          <div>\n    <div
+        class=\"teaser-featured\">\n  <div class=\"row\">\n                            \n
+        \   <div class=\"col-md-7\">\n    <div class=\"featured-media-asset\">\n      <a
+        href=\"/news/texas-tech-claims-15th-intercollegiate-meat-judging-championship\">\n
+        \       <img src=\"/themes/custom/scythe/build/images/placeholder--teaser.svg\"\n
+        \         alt=\"Farm Journal logo\">\n      </a>\n    </div>\n  </div>\n        <div
+        class=\"col-md-4 teaser-featured__description\">\n                        <a
+        href=\"/news/texas-tech-claims-15th-intercollegiate-meat-judging-championship\"
+        class=\"field--name-title\">Texas Tech Claims 15th Intercollegiate Meat Judging
+        Championship</a>\n          <div class=\"field--name-body\">\n        <p>The
+        abbreviated judging season concluded Sunday at the High Plains Intercollegiate
+        Meat Judging Contest in Hereford, which served as the 2020 national championship
+        meet.\r\n</p>\n      </div>\n      <div class=\"field--name-changed\">1 week
+        ago</div>\n    </div>\n  </div>\n</div>\n\n  </div>\n  <div>\n    <div id=\"js-dfp-tag-main_content_top\"></div>\n\n
+        \ </div>\n\n    </div>\n  \n          </div>\n</div>\n\n    </div>\n  \n      <div
+        class=\"view-content\">\n          <div>\n    <div class=\"teaser\">\n  <div
+        class=\"row no-gutters\">\n    <div class=\"col-12\">\n            \n  \n
+        \           <div class=\"field field--name-field-category field--type-entity-reference
+        field--label-hidden field__item\"><a href=\"/news\" hreflang=\"en\">News</a></div>\n
+        \     \n    </div>\n\n                    <div class=\"col-3\">\n    <div
+        class=\"featured-media-asset\">\n      <a href=\"/news/afbf-retail-food-prices-rise-slightly-second-quarter\">\n
+        \       <img src=\"/themes/custom/scythe/build/images/placeholder--teaser.svg\"\n
+        \         alt=\"Farm Journal logo\">\n      </a>\n    </div>\n  </div>\n\n
+        \       <div class=\"col\">\n      <a href=\"/news/afbf-retail-food-prices-rise-slightly-second-quarter\"
+        class=\"field--name-title\">AFBF: Retail Food Prices Rise Slightly in Second
+        Quarter</a>\n      <div class=\"field--name-body\">\n        <p>Survey shows
+        beef prices up.</p>\n      </div>\n              \n            <div class=\"field
+        field--name-field-author field--type-entity-reference field--label-hidden
+        field__item\"><a href=\"/authors/admin\" hreflang=\"en\">admin</a></div>\n
+        \     \n            <div class=\"field--name-changed\">12 years ago</div>\n
+        \   </div>\n  </div>\n</div>\n\n  </div>\n  <div>\n    <div class=\"teaser\">\n
+        \ <div class=\"row no-gutters\">\n    <div class=\"col-12\">\n            \n
+        \ \n            <div class=\"field field--name-field-category field--type-entity-reference
+        field--label-hidden field__item\"><a href=\"/news\" hreflang=\"en\">News</a></div>\n
+        \     \n    </div>\n\n                    <div class=\"col-3\">\n    <div
+        class=\"featured-media-asset\">\n      <a href=\"/news/bse-case-confirmed-canada\">\n
+        \       <img src=\"/themes/custom/scythe/build/images/placeholder--teaser.svg\"\n
+        \         alt=\"Farm Journal logo\">\n      </a>\n    </div>\n  </div>\n\n
+        \       <div class=\"col\">\n      <a href=\"/news/bse-case-confirmed-canada\"
+        class=\"field--name-title\">BSE case confirmed in Canada</a>\n      <div class=\"field--name-body\">\n
+        \       <p>&amp;nbsp;</p>\n      </div>\n              \n            <div
+        class=\"field field--name-field-author field--type-entity-reference field--label-hidden
+        field__item\"><a href=\"/authors/admin\" hreflang=\"en\">admin</a></div>\n
+        \     \n            <div class=\"field--name-changed\">12 years ago</div>\n
+        \   </div>\n  </div>\n</div>\n\n  </div>\n  <div>\n    <div id=\"js-dfp-tag-latest_news_native_1st\"></div>\n\n
+        \ </div>\n  <div>\n    <div class=\"teaser\">\n  <div class=\"row no-gutters\">\n
+        \   <div class=\"col-12\">\n            \n  \n            <div class=\"field
+        field--name-field-category field--type-entity-reference field--label-hidden
+        field__item\"><a href=\"/news\" hreflang=\"en\">News</a></div>\n      \n    </div>\n\n
+        \                   <div class=\"col-3\">\n    <div class=\"featured-media-asset\">\n
+        \     <a href=\"/news/consider-multiple-pasture-system-reduce-input-costs\">\n
+        \       <img src=\"/themes/custom/scythe/build/images/placeholder--teaser.svg\"\n
+        \         alt=\"Farm Journal logo\">\n      </a>\n    </div>\n  </div>\n\n
+        \       <div class=\"col\">\n      <a href=\"/news/consider-multiple-pasture-system-reduce-input-costs\"
+        class=\"field--name-title\">Consider multiple pasture system to reduce input
+        costs </a>\n      <div class=\"field--name-body\">\n        <p>&amp;nbsp;</p>\n
+        \     </div>\n              \n            <div class=\"field field--name-field-author
+        field--type-entity-reference field--label-hidden field__item\"><a href=\"/authors/admin\"
+        hreflang=\"en\">admin</a></div>\n      \n            <div class=\"field--name-changed\">12
+        years ago</div>\n    </div>\n  </div>\n</div>\n\n  </div>\n  <div>\n    <div
+        class=\"teaser\">\n  <div class=\"row no-gutters\">\n    <div class=\"col-12\">\n
+        \           \n  \n            <div class=\"field field--name-field-category
+        field--type-entity-reference field--label-hidden field__item\"><a href=\"/news\"
+        hreflang=\"en\">News</a></div>\n      \n    </div>\n\n                    <div
+        class=\"col-3\">\n    <div class=\"featured-media-asset\">\n      <a href=\"/news/cattle-feed-inventory-down\">\n
+        \       <img src=\"/themes/custom/scythe/build/images/placeholder--teaser.svg\"\n
+        \         alt=\"Farm Journal logo\">\n      </a>\n    </div>\n  </div>\n\n
+        \       <div class=\"col\">\n      <a href=\"/news/cattle-feed-inventory-down\"
+        class=\"field--name-title\">Cattle on Feed inventory down</a>\n      <div
+        class=\"field--name-body\">\n        <p> </p>\n      </div>\n              \n
+        \           <div class=\"field field--name-field-author field--type-entity-reference
+        field--label-hidden field__item\"><a href=\"/authors/admin\" hreflang=\"en\">admin</a></div>\n
+        \     \n            <div class=\"field--name-changed\">12 years ago</div>\n
+        \   </div>\n  </div>\n</div>\n\n  </div>\n  <div>\n    <div id=\"js-dfp-tag-latest_news_native_2nd\"></div>\n\n
+        \ </div>\n  <div>\n    <div class=\"teaser\">\n  <div class=\"row no-gutters\">\n
+        \   <div class=\"col-12\">\n            \n  \n            <div class=\"field
+        field--name-field-category field--type-entity-reference field--label-hidden
+        field__item\"><a href=\"/news\" hreflang=\"en\">News</a></div>\n      \n    </div>\n\n
+        \                   <div class=\"col-3\">\n    <div class=\"featured-media-asset\">\n
+        \     <a href=\"/news/senate-action-puts-complete-farm-bill-law\">\n        <img
+        src=\"/themes/custom/scythe/build/images/placeholder--teaser.svg\"\n          alt=\"Farm
+        Journal logo\">\n      </a>\n    </div>\n  </div>\n\n        <div class=\"col\">\n
+        \     <a href=\"/news/senate-action-puts-complete-farm-bill-law\" class=\"field--name-title\">Senate
+        action puts complete Farm Bill into law </a>\n      <div class=\"field--name-body\">\n
+        \       <p> </p>\n      </div>\n              \n            <div class=\"field
+        field--name-field-author field--type-entity-reference field--label-hidden
+        field__item\"><a href=\"/authors/admin\" hreflang=\"en\">admin</a></div>\n
+        \     \n            <div class=\"field--name-changed\">12 years ago</div>\n
+        \   </div>\n  </div>\n</div>\n\n  </div>\n  <div>\n    <div class=\"teaser\">\n
+        \ <div class=\"row no-gutters\">\n    <div class=\"col-12\">\n            \n
+        \ \n            <div class=\"field field--name-field-category field--type-entity-reference
+        field--label-hidden field__item\"><a href=\"/news\" hreflang=\"en\">News</a></div>\n
+        \     \n    </div>\n\n                    <div class=\"col-3\">\n    <div
+        class=\"featured-media-asset\">\n      <a href=\"/news/cattlemen-support-waiver-rfs-mandate\">\n
+        \       <img src=\"/themes/custom/scythe/build/images/placeholder--teaser.svg\"\n
+        \         alt=\"Farm Journal logo\">\n      </a>\n    </div>\n  </div>\n\n
+        \       <div class=\"col\">\n      <a href=\"/news/cattlemen-support-waiver-rfs-mandate\"
+        class=\"field--name-title\">Cattlemen support waiver of RFS   mandate</a>\n
+        \     <div class=\"field--name-body\">\n        <p> </p>\n      </div>\n              \n
+        \           <div class=\"field field--name-field-author field--type-entity-reference
+        field--label-hidden field__item\"><a href=\"/authors/admin\" hreflang=\"en\">admin</a></div>\n
+        \     \n            <div class=\"field--name-changed\">12 years ago</div>\n
+        \   </div>\n  </div>\n</div>\n\n  </div>\n  <div>\n    <div id=\"js-dfp-tag-latest_news_native_2nd\"></div>\n\n
+        \ </div>\n  <div>\n    <div class=\"teaser\">\n  <div class=\"row no-gutters\">\n
+        \   <div class=\"col-12\">\n            \n  \n            <div class=\"field
+        field--name-field-category field--type-entity-reference field--label-hidden
+        field__item\"><a href=\"/news\" hreflang=\"en\">News</a></div>\n      \n    </div>\n\n
+        \                   <div class=\"col-3\">\n    <div class=\"featured-media-asset\">\n
+        \     <a href=\"/news/animal-health-nutrition\">\n        <img src=\"/themes/custom/scythe/build/images/placeholder--teaser.svg\"\n
+        \         alt=\"Farm Journal logo\">\n      </a>\n    </div>\n  </div>\n\n
+        \       <div class=\"col\">\n      <a href=\"/news/animal-health-nutrition\"
+        class=\"field--name-title\">Animal Health &amp; Nutrition</a>\n      <div
+        class=\"field--name-body\">\n        <p>Management is Key to Preventing Postpartum
+        Diseases  </p>\n      </div>\n              \n            <div class=\"field
+        field--name-field-author field--type-entity-reference field--label-hidden
+        field__item\"><a href=\"/authors/drovers-editors\" hreflang=\"en\">Drovers
+        Editors</a></div>\n      \n            <div class=\"field--name-changed\">15
+        years ago</div>\n    </div>\n  </div>\n</div>\n\n  </div>\n  <div>\n    <div
+        class=\"teaser\">\n  <div class=\"row no-gutters\">\n    <div class=\"col-12\">\n
+        \           \n  \n            <div class=\"field field--name-field-category
+        field--type-entity-reference field--label-hidden field__item\"><a href=\"/news\"
+        hreflang=\"en\">News</a></div>\n      \n    </div>\n\n                    <div
+        class=\"col-3\">\n    <div class=\"featured-media-asset\">\n      <a href=\"/news/wind-new-corn-struggling-ag-producers\">\n
+        \       <img src=\"/themes/custom/scythe/build/images/placeholder--teaser.svg\"\n
+        \         alt=\"Farm Journal logo\">\n      </a>\n    </div>\n  </div>\n\n
+        \       <div class=\"col\">\n      <a href=\"/news/wind-new-corn-struggling-ag-producers\"
+        class=\"field--name-title\">Wind is the new corn for struggling ag producers</a>\n
+        \     <div class=\"field--name-body\">\n        <p></p>\n      </div>\n              \n
+        \           <div class=\"field field--name-field-author field--type-entity-reference
+        field--label-hidden field__item\"><a href=\"/authors/admin\" hreflang=\"en\">admin</a></div>\n
+        \     \n            <div class=\"field--name-changed\">50 years ago</div>\n
+        \   </div>\n  </div>\n</div>\n\n  </div>\n  <div>\n    <div id=\"js-dfp-tag-latest_news_native_2nd\"></div>\n\n
+        \ </div>\n\n    </div>\n  \n        <nav class=\"pager\" role=\"navigation\"
+        aria-labelledby=\"pagination-heading\">\n    <h4 id=\"pagination-heading\"
+        class=\"visually-hidden\">Pagination</h4>\n    <ul class=\"pager__items js-pager__items\">\n
+        \                   <li class=\"pager__item pager__item--first\">\n          <a
+        href=\"?page=0\" title=\"Go to first page\">\n            <span class=\"visually-hidden\">First
+        page</span>\n            <span aria-hidden=\"true\">\xAB First</span>\n          </a>\n
+        \       </li>\n                          <li class=\"pager__item pager__item--previous\">\n
+        \         <a href=\"?page=1095\" title=\"Go to previous page\" rel=\"prev\">\n
+        \           <span class=\"visually-hidden\">Previous page</span>\n            <span
+        aria-hidden=\"true\">\u2039\u2039</span>\n          </a>\n        </li>\n
+        \                         <li class=\"pager__item pager__item--ellipsis\"
+        role=\"presentation\">&hellip;</li>\n                          <li class=\"pager__item\">\n
+        \                                         <a href=\"?page=1089\" title=\"Go
+        to page 1090\">\n            <span class=\"visually-hidden\">\n              Page\n
+        \           </span>1090</a>\n        </li>\n              <li class=\"pager__item\">\n
+        \                                         <a href=\"?page=1090\" title=\"Go
+        to page 1091\">\n            <span class=\"visually-hidden\">\n              Page\n
+        \           </span>1091</a>\n        </li>\n              <li class=\"pager__item\">\n
+        \                                         <a href=\"?page=1091\" title=\"Go
+        to page 1092\">\n            <span class=\"visually-hidden\">\n              Page\n
+        \           </span>1092</a>\n        </li>\n              <li class=\"pager__item\">\n
+        \                                         <a href=\"?page=1092\" title=\"Go
+        to page 1093\">\n            <span class=\"visually-hidden\">\n              Page\n
+        \           </span>1093</a>\n        </li>\n              <li class=\"pager__item\">\n
+        \                                         <a href=\"?page=1093\" title=\"Go
+        to page 1094\">\n            <span class=\"visually-hidden\">\n              Page\n
+        \           </span>1094</a>\n        </li>\n              <li class=\"pager__item\">\n
+        \                                         <a href=\"?page=1094\" title=\"Go
+        to page 1095\">\n            <span class=\"visually-hidden\">\n              Page\n
+        \           </span>1095</a>\n        </li>\n              <li class=\"pager__item\">\n
+        \                                         <a href=\"?page=1095\" title=\"Go
+        to page 1096\">\n            <span class=\"visually-hidden\">\n              Page\n
+        \           </span>1096</a>\n        </li>\n              <li class=\"pager__item
+        is-active\">\n                                          <a href=\"?page=1096\"
+        title=\"Current page\">\n            <span class=\"visually-hidden\">\n              Current
+        page\n            </span>1097</a>\n        </li>\n                                              </ul>\n
+        \ </nav>\n\n          </div>\n</div>\n\n  </div>\n\n  </div>\n\n              <aside
+        class=\"layout-sidebar-first\" role=\"complementary\">\n            <div class=\"region
+        region-right-rail\">\n    <div id=\"block-weatherblock\" class=\"block block-farmjournal-weather
+        block-weather-block\">\n  \n    \n      \n\n<div id=\"obs\" class=\"aeris-wrapper\"></div>\n<script
+        type=\"text/template\" id=\"weather-widget-template\">\n  <div class=\"weather-widget-icon\">\n
+        \   <div data-weather-widget-icon></div>\n  </div>\n  <div class=\"weather-widget-details\">\n
+        \   <div class=\"weather-widget-row\">\n      <p data-weather-widget-place=\"weatherCity\"
+        class=\"w-city\"></p><svg class=\"icon icon--location\"></svg>\n    </div>\n
+        \   <div class=\"weather-widget-row\">\n        <p class=\"wx\" data-weather-widget-key=\"weatherPrimary\"></p>\n
+        \       <p class=\"temp\" data-weather-widget-key=\"tempF\" data-weather-widget-suffix=\"&deg;F\"></p>\n
+        \   </div>\n    <div class=\"weather-widget-row weather-widget-details--feel\">\n
+        \     <p class=\"fl\">Feels Like</p>\n      <p data-weather-widget-key=\"feelslikeF\"
+        data-weather-widget-suffix=\"&deg;F\"></p>\n    </div>\n  </div>\n</script>\n\n
+        \ </div>\n<div id=\"block-dfptagrightrail2nd\" class=\"block block-dfp block-dfp-ad99bf4a90-3ffa-4411-8d18-29dc15e79bc4\">\n
+        \ \n    \n      <div id=\"js-dfp-tag-right_rail_2nd\"></div>\n\n  </div>\n\n
+        \ </div>\n\n                        <div class=\"region region-secondary-right-rail\">\n
+        \   <div class=\"views-element-container block block-views block-views-blocktrending-news-block-1\"
+        id=\"block-views-block-trending-news-block-1\">\n  \n      <h2>Trending News</h2>\n
+        \   \n      <div><div class=\"view view-trending-news view-id-trending_news
+        view-display-id-block_1 js-view-dom-id-23e8d0e16103559739839bb4a3189de53710be4fb741058ed618bba0766e02ea\">\n
+        \ \n    \n      \n      <div class=\"view-content\">\n          <div class=\"views-row
+        views-row-1\">\n    <div id=\"js-dfp-tag-trending_native_1st\"></div>\n\n
+        \ </div>\n  <div class=\"views-row views-row-2\">\n    <div class=\"truncated-teaser\">\n
+        \ <div class=\"row no-gutters\">\n        <div class=\"col-12\">\n            \n
+        \ \n            <div class=\"field field--name-field-category field--type-entity-reference
+        field--label-hidden field__item\"><a href=\"/news/industry\" hreflang=\"en\">Industry</a></div>\n
+        \     \n    </div>\n\n                        <div class=\"col-4\">\n    <picture>\n
+        \     <source media=\"(min-width: 786px)\" srcset=\"https://cdn.farmjournal.com/s3fs-public/styles/345x238/public/2020-11/Cow%20silhouette.jpg?itok=sCUkRBih\"
+        />\n      <source media=\"(max-width: 787px)\" srcset=\"https://cdn.farmjournal.com/s3fs-public/styles/115x82/public/2020-11/Cow%20silhouette.jpg?itok=v36hAF0w\"
+        />\n      <img src=\"https://cdn.farmjournal.com/s3fs-public/styles/345x238/public/2020-11/Cow%20silhouette.jpg?itok=sCUkRBih\"
+        alt=\"Cow at sunset\">\n    </picture>\n  </div>\n\n\n    <div class=\"col
+        truncated-content\">\n      <a href=\"/news/industry/niaa-named-beef-checkoff-contractor\"
+        class=\"field--name-title\">NIAA Named Beef Checkoff Contractor</a>\n      <div
+        class=\"field--name-changed\">31 min ago</div>\n    </div>\n  </div>\n</div>\n\n
+        \ </div>\n  <div class=\"views-row views-row-3\">\n    <div class=\"truncated-teaser\">\n
+        \ <div class=\"row no-gutters\">\n        <div class=\"col-12\">\n            \n
+        \ \n            <div class=\"field field--name-field-category field--type-entity-reference
+        field--label-hidden field__item\"><a href=\"/news/industry\" hreflang=\"en\">Industry</a></div>\n
+        \     \n    </div>\n\n                        <div class=\"col-4\">\n    <picture>\n
+        \     <source media=\"(min-width: 786px)\" srcset=\"https://cdn.farmjournal.com/s3fs-public/styles/345x238/public/2020-11/hummus-1058000.jpg?itok=OIRUM911\"
+        />\n      <source media=\"(max-width: 787px)\" srcset=\"https://cdn.farmjournal.com/s3fs-public/styles/115x82/public/2020-11/hummus-1058000.jpg?itok=2G_KsJ29\"
+        />\n      <img src=\"https://cdn.farmjournal.com/s3fs-public/styles/345x238/public/2020-11/hummus-1058000.jpg?itok=OIRUM911\"
+        alt=\"Identifying the best chickpea crops for cattle feed\">\n    </picture>\n
+        \ </div>\n\n\n    <div class=\"col truncated-content\">\n      <a href=\"/news/industry/hummus-cows\"
+        class=\"field--name-title\">Hummus for Cows? </a>\n      <div class=\"field--name-changed\">1
+        hour ago</div>\n    </div>\n  </div>\n</div>\n\n  </div>\n  <div class=\"views-row
+        views-row-4\">\n    <div id=\"js-dfp-tag-trending_native_1st\"></div>\n\n
+        \ </div>\n  <div class=\"views-row views-row-5\">\n    <div class=\"truncated-teaser\">\n
+        \ <div class=\"row no-gutters\">\n        <div class=\"col-12\">\n            \n
+        \ \n            <div class=\"field field--name-field-category field--type-entity-reference
+        field--label-hidden field__item\"><a href=\"/news/industry\" hreflang=\"en\">Industry</a></div>\n
+        \     \n    </div>\n\n                        <div class=\"col-4\">\n    <picture>\n
+        \     <source media=\"(min-width: 786px)\" srcset=\"https://cdn.farmjournal.com/s3fs-public/styles/345x238/public/2020-11/Drovers%20and%20PORK.jpg?itok=nAsfKVp2\"
+        />\n      <source media=\"(max-width: 787px)\" srcset=\"https://cdn.farmjournal.com/s3fs-public/styles/115x82/public/2020-11/Drovers%20and%20PORK.jpg?itok=ZdFcSFLx\"
+        />\n      <img src=\"https://cdn.farmjournal.com/s3fs-public/styles/345x238/public/2020-11/Drovers%20and%20PORK.jpg?itok=nAsfKVp2\"
+        alt=\"  \">\n    </picture>\n  </div>\n\n\n    <div class=\"col truncated-content\">\n
+        \     <a href=\"/news/industry/pork-drovers-recognized-editorial-excellence\"
+        class=\"field--name-title\">PORK, Drovers Recognized for Editorial Excellence</a>\n
+        \     <div class=\"field--name-changed\">2 hours ago</div>\n    </div>\n  </div>\n</div>\n\n
+        \ </div>\n  <div class=\"views-row views-row-6\">\n    <div class=\"truncated-teaser\">\n
+        \ <div class=\"row no-gutters\">\n        <div class=\"col-12\">\n            \n
+        \ <a href=\"/authors/miranda-reiman\" class=\"field--name-field-category teaser__category-author\">Miranda
+        Reiman</a>\n    </div>\n\n                        <div class=\"col-4 teaser__author-block\">\n
+        \   <img class=\"round-image\"\n      src=\"/themes/custom/scythe/build/images/placeholder--author.svg\"\n
+        \     alt=\"Miranda Reiman\">\n  </div>\n\n\n    <div class=\"col truncated-content\">\n
+        \     <a href=\"/opinion/black-ink-look-back-better\" class=\"field--name-title\">Black
+        Ink: Look Back Better</a>\n      <div class=\"field--name-changed\">2 hours
+        ago</div>\n    </div>\n  </div>\n</div>\n\n  </div>\n  <div class=\"views-row
+        views-row-7\">\n    <div id=\"js-dfp-tag-trending_native_2nd\"></div>\n\n
+        \ </div>\n  <div class=\"views-row views-row-8\">\n    <div class=\"truncated-teaser\">\n
+        \ <div class=\"row no-gutters\">\n        <div class=\"col-12\">\n            \n
+        \ \n            <div class=\"field field--name-field-category field--type-entity-reference
+        field--label-hidden field__item\"><a href=\"/news/dairy-production\" hreflang=\"en\">Dairy
+        Production</a></div>\n      \n    </div>\n\n                        <div class=\"col-4\">\n
+        \   <picture>\n      <source media=\"(min-width: 786px)\" srcset=\"https://cdn.farmjournal.com/s3fs-public/styles/345x238/public/2020-11/Potatoes.PNG?itok=QWYJipof\"
+        />\n      <source media=\"(max-width: 787px)\" srcset=\"https://cdn.farmjournal.com/s3fs-public/styles/115x82/public/2020-11/Potatoes.PNG?itok=lnnoQP_I\"
+        />\n      <img src=\"https://cdn.farmjournal.com/s3fs-public/styles/345x238/public/2020-11/Potatoes.PNG?itok=QWYJipof\"
+        alt=\"The organization has moved thousands of potatoes from the farm to people
+        who need them.\">\n    </picture>\n  </div>\n\n\n    <div class=\"col truncated-content\">\n
+        \     <a href=\"/news/dairy-production/new-farmlink-project-helps-farmers-get-food-hungry-people\"
+        class=\"field--name-title\">New FarmLink Project Helps Farmers Get Food To
+        Hungry People</a>\n      <div class=\"field--name-changed\">3 hours ago</div>\n
+        \   </div>\n  </div>\n</div>\n\n  </div>\n\n    </div>\n  \n          </div>\n</div>\n\n
+        \ </div>\n<div id=\"block-dfptagrightrail3rd\" class=\"block block-dfp block-dfp-ade1a8d46c-a333-4eaa-be55-b493d5a47295\">\n
+        \ \n    \n      <div id=\"js-dfp-tag-right_rail_3rd\"></div>\n\n  </div>\n\n
+        \ </div>\n\n                  </aside>\n          </main>\n  \n      <footer
+        class=\"footer-primary\" role=\"contentinfo\">\n        <div class=\"region
+        region-footer\">\n    <nav role=\"navigation\" aria-labelledby=\"block-sociallinks-menu\"
+        id=\"block-sociallinks\" class=\"block block-menu navigation menu--social-links\">\n
+        \           \n  <h2 class=\"visually-hidden\" id=\"block-sociallinks-menu\">Social
+        Links</h2>\n  \n\n        \n              <ul class=\"menu\">\n                    <li
+        class=\"menu-item\">\n        <a href=\"https://www.facebook.com/DroversMagazine\">Facebook</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://twitter.com/DroversCTN\">Twitter</a>\n              </li>\n
+        \       </ul>\n  \n\n\n  </nav>\n<nav role=\"navigation\" aria-labelledby=\"block-contentmenu-menu\"
+        id=\"block-contentmenu\" class=\"block block-menu navigation menu--content-menu\">\n
+        \           \n  <h2 class=\"visually-hidden\" id=\"block-contentmenu-menu\">Content
+        Menu</h2>\n  \n\n        \n              <ul class=\"menu\">\n                    <li
+        class=\"menu-item menu-item--expanded\">\n        <a href=\"/\" data-drupal-link-system-path=\"&lt;front&gt;\">Crop</a>\n
+        \                               <ul class=\"menu\">\n                    <li
+        class=\"menu-item\">\n        <a href=\"https://www.agweb.com/cannabis\">Cannabis</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://www.agweb.com/crops/corn\">Corn</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"https://www.agweb.com/crops/cotton\">Cotton</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://www.agweb.com/crops/crop-protection\">Crop Protection</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://www.agweb.com/crops/seed\">Seed</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"https://www.agweb.com/crops/soil-health\">Soil
+        Health</a>\n              </li>\n                <li class=\"menu-item\">\n
+        \       <a href=\"https://www.agweb.com/crops/soybeans\">Soybeans</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"https://www.agweb.com/crops/weeds\">Weeds</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://www.agweb.com/crops/wheat\">Wheat</a>\n              </li>\n
+        \       </ul>\n  \n              </li>\n                <li class=\"menu-item
+        menu-item--expanded\">\n        <a href=\"/\" data-drupal-link-system-path=\"&lt;front&gt;\">Livestock</a>\n
+        \                               <ul class=\"menu\">\n                    <li
+        class=\"menu-item\">\n        <a href=\"https://www.drovers.com/\">Beef</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://www.dairyherd.com/\">Dairy</a>\n              </li>\n                <li
+        class=\"menu-item\">\n        <a href=\"https://www.porkbusiness.com/\">Pork</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://www.agweb.com/livestock/agweb-poultry\">Poultry</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"https://www.bovinevetonline.com/\">Veterinarian</a>\n
+        \             </li>\n        </ul>\n  \n              </li>\n                <li
+        class=\"menu-item menu-item--expanded\">\n        <a href=\"/\" data-drupal-link-system-path=\"&lt;front&gt;\">Produce</a>\n
+        \                               <ul class=\"menu\">\n                    <li
+        class=\"menu-item\">\n        <a href=\"https://www.producemarketguide.com/produce\">Crops</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://www.thepacker.com/category/organics\">Organics</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"https://www.thepacker.com/category/people\">People</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://www.producemarketguide.com/news\">Retail</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"https://www.thepacker.com/category/sustainability\">Sustainability</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://www.thepacker.com/news/packer-Tech\">Tech</a>\n              </li>\n
+        \       </ul>\n  \n              </li>\n                <li class=\"menu-item
+        menu-item--expanded\">\n        <a href=\"/\" data-drupal-link-system-path=\"&lt;front&gt;\">Events</a>\n
+        \                               <ul class=\"menu\">\n                    <li
+        class=\"menu-item\">\n        <a href=\"https://www.tpsummit.com/executive-women-in-agriculture/\">Executive
+        Women in Ag</a>\n              </li>\n                <li class=\"menu-item\">\n
+        \       <a href=\"https://www.profarmer.com/crop-tour\">Farm Journal Crop
+        Tour</a>\n              </li>\n                <li class=\"menu-item\">\n
+        \       <a href=\"https://www.farmjournalfielddays.com/\">Farm Journal Field
+        Days</a>\n              </li>\n                <li class=\"menu-item\">\n
+        \       <a href=\"https://www.globalorganicexpo.com/\">Global Organic Produce
+        Expo</a>\n              </li>\n                <li class=\"menu-item\">\n
+        \       <a href=\"https://www.tpsummit.com/legacy-conference/\">Legacy Conference</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://www.milkbusinessconference.com/\">Milk Business Conference</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://www.sustainableproducesummit.com/\">Sustainable Produce Summit</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://www.tpsummit.com/tomorrows-top-producer/\">Tomorrow&#039;s
+        Top Producer</a>\n              </li>\n                <li class=\"menu-item\">\n
+        \       <a href=\"https://www.tpsummit.com/\">Top Producer Summit</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"https://www.trustinfood.com/symposium/\">Trust
+        in Food Symposium</a>\n              </li>\n                <li class=\"menu-item\">\n
+        \       <a href=\"https://www.westcoastproduceexpo.com/\">West Coast Produce
+        Expo</a>\n              </li>\n        </ul>\n  \n              </li>\n                <li
+        class=\"menu-item menu-item--expanded\">\n        <a href=\"/\" data-drupal-link-system-path=\"&lt;front&gt;\">Watch,
+        Listen &amp; Read</a>\n                                <ul class=\"menu\">\n
+        \                   <li class=\"menu-item\">\n        <a href=\"https://agritalk.goodbarber.app/podcast-network\">Podcasts</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"http://www.shopfarmjournal.com/subscriptions-c1.php\">Print Magazines</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://www.agweb.com/agritalk\">Radio</a>\n              </li>\n                <li
+        class=\"menu-item\">\n        <a href=\"http://video.farmjournal.com/\">Television</a>\n
+        \             </li>\n        </ul>\n  \n              </li>\n                <li
+        class=\"menu-item menu-item--expanded\">\n        <a href=\"/\" data-drupal-link-system-path=\"&lt;front&gt;\">Marketplaces</a>\n
+        \                               <ul class=\"menu\">\n                    <li
+        class=\"menu-item\">\n        <a href=\"https://cattle-exchange.drovers.com/\">Cattle
+        Exchange</a>\n              </li>\n                <li class=\"menu-item\">\n
+        \       <a href=\"https://machinerypete.com/\">Machinery Pete</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"https://www.producemarketguide.com/\">Produce
+        Market Guide</a>\n              </li>\n        </ul>\n  \n              </li>\n
+        \               <li class=\"menu-item menu-item--expanded\">\n        <a href=\"/\"
+        data-drupal-link-system-path=\"&lt;front&gt;\">Elsewhere</a>\n                                <ul
+        class=\"menu\">\n                    <li class=\"menu-item\">\n        <a
+        href=\"https://www.trustinfood.com/#ag-movement\">America&#039;s Conservation
+        Ag Movement</a>\n              </li>\n                <li class=\"menu-item\">\n
+        \       <a href=\"https://www.farmjournalfoundation.org/\">Farm Journal Foundation</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"http://www.farmjournalmobile.com/\">Farm Journal Mobile</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"https://www.farmjournal.com/services/\">Farm
+        Reach</a>\n              </li>\n                <li class=\"menu-item\">\n
+        \       <a href=\"https://www.trustinfood.com/\">Trust in Food</a>\n              </li>\n
+        \       </ul>\n  \n              </li>\n                <li class=\"menu-item
+        menu-item--expanded\">\n        <a href=\"/\" data-drupal-link-system-path=\"&lt;front&gt;\">More</a>\n
+        \                               <ul class=\"menu\">\n                    <li
+        class=\"menu-item\">\n        <a href=\"https://www.agweb.com/farm-business/agribusiness\">Business</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://www.profarmer.com/\">Markets</a>\n              </li>\n                <li
+        class=\"menu-item\">\n        <a href=\"https://www.agweb.com/policy\">Policy</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://www.agprofessional.com/\">Retailers</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"https://www.agweb.com/technology\">Technology</a>\n
+        \             </li>\n        </ul>\n  \n              </li>\n        </ul>\n
+        \ \n\n\n  </nav>\n<nav role=\"navigation\" aria-labelledby=\"block-footer-menu\"
+        id=\"block-footer\" class=\"block block-menu navigation menu--footer\">\n
+        \           \n  <h2 class=\"visually-hidden\" id=\"block-footer-menu\">Footer</h2>\n
+        \ \n\n        \n              <ul class=\"menu\">\n                    <li
+        class=\"menu-item\">\n        <a href=\"https://www.farmjournal.com/about/\">About
+        Us</a>\n              </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"/sitemap.xml\" data-drupal-link-system-path=\"sitemap.xml\">Site Map</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://www.farmjournal.com/contact/\">Help</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"https://www.farmjournal.com/careers/\">Careers</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://www.farmjournal.com/services/\">Advertise</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"https://preferences.farmjournal.com/Newsletter-Page.html\">Newsletters</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"http://www.shopfarmjournal.com/\">Farm Journal Store</a>\n              </li>\n
+        \               <li class=\"menu-item\">\n        <a href=\"https://www.farmjournal.com/terms-conditions/\">Terms
+        &amp; Conditions</a>\n              </li>\n                <li class=\"menu-item\">\n
+        \       <a href=\"https://www.farmjournal.com/privacy-policy/\">Privacy Policy</a>\n
+        \             </li>\n                <li class=\"menu-item\">\n        <a
+        href=\"https://privacyportal.onetrust.com/webform/749ec3ae-b5ab-4add-80b8-8daa45a5517a/0ffca67b-ac70-4c50-9beb-34deb32e1f08\">Do
+        Not Sell My Personal Information</a>\n              </li>\n        </ul>\n
+        \ \n\n\n  </nav>\n\n  </div>\n\n      <div class=\"footer-meta\">\n        <p
+        class=\"footer-market-data-message\">\n        All market data delayed 10
+        minutes.\n        </p>\n        <p class=\"footer-copyright-notice\">\n        \xA9
+        1995 - 2020 Farm Journal, Inc. All Rights Reserved.\n        </p>\n        <p
+        class=\"footer-legal-note\">\n        This material may not be published,
+        broadcast, rewritten, or redistributed.\n        </p>\n      </div>\n    </footer>\n
+        \ \n    <div class=\"region region-bottom\">\n    <div id=\"block-dfptagfooter\"
+        class=\"block block-dfp block-dfp-ad70ef3be4-27af-4bd7-9dee-de642bed3457\">\n
+        \ \n    \n      <div id=\"js-dfp-tag-footer\"></div>\n\n  </div>\n\n  </div>\n\n</div>\n\n
+        \ </div>\n\n    \n    <script src=\"/sites/drovers/files/js/js_R-fRjIUnrtor0PtA5_0r3TW6wIk3iWgZFMaKqbH5H3A.js\"></script>\n<script
+        src=\"https://a.omappapi.com/app/js/api.min.js\" async data-account=\"1503\"
+        data-user=\"14660\" rel=\"preconnect\" crossorigin></script>\n<script src=\"/sites/drovers/files/js/js_EGoQr5cjGlYOBGyy3IlHBBx5Kd7GQb_5wkTda9n023Y.js\"></script>\n<script
+        src=\"https://cdn.aerisapi.com/sdk/js/latest/aerisweather.min.js\"></script>\n<script
+        src=\"/sites/drovers/files/js/js_0SOHuoq3SBlskcDAT4k331Tt9-WIFfq5Dh5jN_3sHMc.js\"></script>\n\n
+        \ <script type=\"text/javascript\">window.NREUM||(NREUM={});NREUM.info={\"beacon\":\"bam-cell.nr-data.net\",\"licenseKey\":\"31a9736cc2\",\"applicationID\":\"675072341\",\"transactionName\":\"bgFTMUJWXkIFUkAPXFdLcAZEXl9fS0FVAVZmB1AGWFI=\",\"queueTime\":0,\"applicationTime\":36,\"atts\":\"QkZQRwpMTUw=\",\"errorBeacon\":\"bam-cell.nr-data.net\",\"agent\":\"\"}</script></body>\n</html>\n"
+    headers:
+      Cache-Control:
+      - max-age=300, public
+      Connection:
+      - keep-alive
+      Content-Language:
+      - en
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Wed, 18 Nov 2020 19:54:48 GMT
+      ETag:
+      - '"1605728685"'
+      Expires:
+      - Sun, 19 Nov 1978 05:00:00 GMT
+      Last-Modified:
+      - Wed, 18 Nov 2020 19:44:45 GMT
+      Link:
+      - <https://www.drovers.com/news>; rel="canonical"
+      - </taxonomy/term/43/delete>; rel="delete-form"
+      - </taxonomy/term/43/edit>; rel="edit-form"
+      Server:
+      - Apache/2.4.29 (Ubuntu)
+      Set-Cookie:
+      - AWSALB=3Io6KCSgDLBFl8kV3T3tXZkzAE+3FpfgT4PdwCZBB+UvhNZHF4EQuxHWLNTLq42bHloJ9ensBogzh56bEJVZa8HYYlOkriD07E2aFV6PDEjJGl8PzHtujqGwupkY;
+        Expires=Wed, 25 Nov 2020 19:54:48 GMT; Path=/
+      - AWSALBCORS=3Io6KCSgDLBFl8kV3T3tXZkzAE+3FpfgT4PdwCZBB+UvhNZHF4EQuxHWLNTLq42bHloJ9ensBogzh56bEJVZa8HYYlOkriD07E2aFV6PDEjJGl8PzHtujqGwupkY;
+        Expires=Wed, 25 Nov 2020 19:54:48 GMT; Path=/; SameSite=None
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Cookie,Accept-Encoding
+      Via:
+      - 1.1 6e24e95f882f20707346a032d1fa2949.cloudfront.net (CloudFront)
+      X-Amz-Cf-Id:
+      - HT2Y3lBcJ6EWudcWyY7bkc5K6Q_I5a3lVt8sKfNpgRZGMXlADBFi4Q==
+      X-Amz-Cf-Pop:
+      - EWR52-C1
+      X-Cache:
+      - Miss from cloudfront
+      X-Content-Type-Options:
+      - nosniff
+      X-Drupal-Cache:
+      - HIT
+      X-Drupal-Dynamic-Cache:
+      - MISS
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Generator:
+      - Drupal 8 (https://www.drupal.org)
+      X-Powered-By:
+      - PHP/7.3.23-4+ubuntu18.04.1+deb.sury.org+1
+      X-UA-Compatible:
+      - IE=edge
+      content-length:
+      - '64445'
+    status:
+      code: 200
+      message: OK
+version: 1

@@ -1,0 +1,16 @@
+# To start Docker in Swarm mode, you need to run `docker swarm init`
+# To deploy the Grid, `docker stack deploy -c docker-compose-v3-swarm.yml grid`
+# Stop with `docker stack rm grid`
+# Stop swarm mode `docker swarm leave --force`
+
+version: '3.7'
+
+services:
+  chrome:
+    image: selenium/standalone-chrome:4.0.0-beta-1-prerelease-20201208
+    volumes:
+      - /dev/shm:/dev/shm
+    ports:
+      - "4444:4444"
+    deploy:
+      replicas: 1

@@ -1,0 +1,543 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - ussec.org
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://ussec.org/ussec-welcomes-senior-director-organizational-collaboration-innovation/
+  response:
+    body:
+      string: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n<meta charset=\"UTF-8\"
+        />\n<meta name=\"viewport\" content=\"width=device-width\" />\n<script type=\"text/javascript\">\n\tif((window.devicePixelRatio===undefined?1:window.devicePixelRatio)>1)\n\t\tdocument.cookie='HTTP_IS_RETINA=1;path=/';\n</script>\n<title>USSEC
+        Welcomes Senior Director \u2013 Organizational Collaboration and Innovation
+        - U.S. Soybean Export Council</title>\n<link rel=\"profile\" href=\"http://gmpg.org/xfn/11\"
+        />\n<link rel=\"pingback\" href=\"https://ussec.org/xmlrpc.php\" />\n\n\t<!--
+        This site is optimized with the Yoast SEO plugin v15.2.1 - https://yoast.com/wordpress/plugins/seo/
+        -->\n\t<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large,
+        max-video-preview:-1\" />\n\t<link rel=\"canonical\" href=\"https://ussec.org/ussec-welcomes-senior-director-organizational-collaboration-innovation/\"
+        />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
+        content=\"article\" />\n\t<meta property=\"og:title\" content=\"USSEC Welcomes
+        Senior Director \u2013 Organizational Collaboration and Innovation - U.S.
+        Soybean Export Council\" />\n\t<meta property=\"og:description\" content=\"Karey
+        Claghorn has joined USSEC as Senior Director &#8211; Organizational Collaboration
+        and Innovation. Ms. Claghorn&hellip;\" />\n\t<meta property=\"og:url\" content=\"https://ussec.org/ussec-welcomes-senior-director-organizational-collaboration-innovation/\"
+        />\n\t<meta property=\"og:site_name\" content=\"U.S. Soybean Export Council\"
+        />\n\t<meta property=\"article:published_time\" content=\"2019-11-13T03:01:38+00:00\"
+        />\n\t<meta property=\"article:modified_time\" content=\"2020-09-28T22:16:18+00:00\"
+        />\n\t<meta property=\"og:image\" content=\"https://ussec.org/wp-content/uploads/2017/09/ripe-soyplants_sml.jpg\"
+        />\n\t<meta property=\"og:image:width\" content=\"640\" />\n\t<meta property=\"og:image:height\"
+        content=\"853\" />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\"
+        />\n\t<meta name=\"twitter:label1\" content=\"Written by\">\n\t<meta name=\"twitter:data1\"
+        content=\"U.S Soybean Export Council\">\n\t<meta name=\"twitter:label2\" content=\"Est.
+        reading time\">\n\t<meta name=\"twitter:data2\" content=\"1 minute\">\n\t<script
+        type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://ussec.org/#organization\",\"name\":\"U.S.
+        Soybean Export Council\",\"url\":\"https://ussec.org/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://ussec.org/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https://ussec.org/wp-content/uploads/2020/09/apple-touch-icon.png\",\"width\":129,\"height\":129,\"caption\":\"U.S.
+        Soybean Export Council\"},\"image\":{\"@id\":\"https://ussec.org/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://ussec.org/#website\",\"url\":\"https://ussec.org/\",\"name\":\"U.S.
+        Soybean Export Council\",\"description\":\"\",\"publisher\":{\"@id\":\"https://ussec.org/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://ussec.org/?s={search_term_string}\",\"query-input\":\"required
+        name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"https://ussec.org/ussec-welcomes-senior-director-organizational-collaboration-innovation/#primaryimage\",\"inLanguage\":\"en-US\",\"url\":\"https://ussec.org/wp-content/uploads/2017/09/ripe-soyplants_sml.jpg\",\"width\":640,\"height\":853},{\"@type\":\"WebPage\",\"@id\":\"https://ussec.org/ussec-welcomes-senior-director-organizational-collaboration-innovation/#webpage\",\"url\":\"https://ussec.org/ussec-welcomes-senior-director-organizational-collaboration-innovation/\",\"name\":\"USSEC
+        Welcomes Senior Director \\u2013 Organizational Collaboration and Innovation
+        - U.S. Soybean Export Council\",\"isPartOf\":{\"@id\":\"https://ussec.org/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://ussec.org/ussec-welcomes-senior-director-organizational-collaboration-innovation/#primaryimage\"},\"datePublished\":\"2019-11-13T03:01:38+00:00\",\"dateModified\":\"2020-09-28T22:16:18+00:00\",\"breadcrumb\":{\"@id\":\"https://ussec.org/ussec-welcomes-senior-director-organizational-collaboration-innovation/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://ussec.org/ussec-welcomes-senior-director-organizational-collaboration-innovation/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://ussec.org/ussec-welcomes-senior-director-organizational-collaboration-innovation/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https://ussec.org/\",\"url\":\"https://ussec.org/\",\"name\":\"Home\"}},{\"@type\":\"ListItem\",\"position\":2,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https://ussec.org/soy-news/\",\"url\":\"https://ussec.org/soy-news/\",\"name\":\"News\"}},{\"@type\":\"ListItem\",\"position\":3,\"item\":{\"@type\":\"WebPage\",\"@id\":\"https://ussec.org/ussec-welcomes-senior-director-organizational-collaboration-innovation/\",\"url\":\"https://ussec.org/ussec-welcomes-senior-director-organizational-collaboration-innovation/\",\"name\":\"USSEC
+        Welcomes Senior Director \\u2013 Organizational Collaboration and Innovation\"}}]},{\"@type\":\"Article\",\"@id\":\"https://ussec.org/ussec-welcomes-senior-director-organizational-collaboration-innovation/#article\",\"isPartOf\":{\"@id\":\"https://ussec.org/ussec-welcomes-senior-director-organizational-collaboration-innovation/#webpage\"},\"author\":{\"@id\":\"https://ussec.org/#/schema/person/73b731a1f8638db4e21c29e24a18bbf9\"},\"headline\":\"USSEC
+        Welcomes Senior Director \\u2013 Organizational Collaboration and Innovation\",\"datePublished\":\"2019-11-13T03:01:38+00:00\",\"dateModified\":\"2020-09-28T22:16:18+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://ussec.org/ussec-welcomes-senior-director-organizational-collaboration-innovation/#webpage\"},\"publisher\":{\"@id\":\"https://ussec.org/#organization\"},\"image\":{\"@id\":\"https://ussec.org/ussec-welcomes-senior-director-organizational-collaboration-innovation/#primaryimage\"},\"articleSection\":\"General
+        News\",\"inLanguage\":\"en-US\"},{\"@type\":\"Person\",\"@id\":\"https://ussec.org/#/schema/person/73b731a1f8638db4e21c29e24a18bbf9\",\"name\":\"U.S
+        Soybean Export Council\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https://ussec.org/#personlogo\",\"inLanguage\":\"en-US\",\"url\":\"https://secure.gravatar.com/avatar/9c00c57be2a7cab7b313862d5db88867?s=96&d=mm&r=g\",\"caption\":\"U.S
+        Soybean Export Council\"}}]}</script>\n\t<!-- / Yoast SEO plugin. -->\n\n\n<link
+        rel='dns-prefetch' href='//js.hs-scripts.com' />\n<link rel='dns-prefetch'
+        href='//use.typekit.net' />\n<link rel='dns-prefetch' href='//s.w.org' />\n<link
+        rel=\"alternate\" type=\"application/rss+xml\" title=\"U.S. Soybean Export
+        Council &raquo; USSEC Welcomes Senior Director \u2013 Organizational Collaboration
+        and Innovation Comments Feed\" href=\"https://ussec.org/ussec-welcomes-senior-director-organizational-collaboration-innovation/feed/\"
+        />\n<link rel='stylesheet' id='wp-block-library-css'  href='https://ussec.org/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='swiper-css'  href='https://ussec.org/wp-content/themes/USSEC2020/assets/styles/swiper.min.css?ver=5.3.7'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='lightbox-css'  href='https://ussec.org/wp-content/themes/USSEC2020/assets/styles/magnific-popup.css?ver=1.0.0'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='ussec2020-css'
+        \ href='https://ussec.org/wp-content/themes/USSEC2020/style.css?ver=1602026269'
+        type='text/css' media='all' />\n<script type='text/javascript' src='https://ussec.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'
+        id='jquery-core-js'></script>\n<script type='text/javascript' src='https://ussec.org/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.4.21'
+        id='gform_json-js'></script>\n<script type='text/javascript' id='gform_gravityforms-js-extra'>\n/*
+        <![CDATA[ */\nvar gf_global = {\"gf_currency_config\":{\"name\":\"U.S. Dollar\",\"symbol_left\":\"$\",\"symbol_right\":\"\",\"symbol_padding\":\"\",\"thousand_separator\":\",\",\"decimal_separator\":\".\",\"decimals\":2},\"base_url\":\"https:\\/\\/ussec.org\\/wp-content\\/plugins\\/gravityforms\",\"number_formats\":[],\"spinnerUrl\":\"https:\\/\\/ussec.org\\/wp-content\\/plugins\\/gravityforms\\/images\\/spinner.gif\"};\n/*
+        ]]> */\n</script>\n<script type='text/javascript' src='https://ussec.org/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.4.21'
+        id='gform_gravityforms-js'></script>\n<script type='text/javascript' src='https://ussec.org/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js?ver=2.4.21'
+        id='gform_masked_input-js'></script>\n<script type='text/javascript' src='https://ussec.org/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.4.21'
+        id='gform_placeholder-js'></script>\n<script type='text/javascript' src='//use.typekit.net/lki4gnv.js?ver=5.5.1'
+        id='enqueue_typekit-js'></script>\n<link rel=\"https://api.w.org/\" href=\"https://ussec.org/wp-json/\"
+        /><link rel=\"alternate\" type=\"application/json\" href=\"https://ussec.org/wp-json/wp/v2/posts/15288\"
+        /><link rel=\"alternate\" type=\"application/json+oembed\" href=\"https://ussec.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fussec.org%2Fussec-welcomes-senior-director-organizational-collaboration-innovation%2F\"
+        />\n<link rel=\"alternate\" type=\"text/xml+oembed\" href=\"https://ussec.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fussec.org%2Fussec-welcomes-senior-director-organizational-collaboration-innovation%2F&#038;format=xml\"
+        />\n\t\t\t<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking
+        for HubSpot WordPress plugin v7.47.3-->\n\t\t\t<script type=\"text/javascript\">\n\t\t\t\tvar
+        _hsq = _hsq || [];\n\t\t\t\t_hsq.push([\"setContentType\", \"blog-post\"]);\n\t\t\t</script>\n\t\t\t<!--
+        DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress
+        plugin -->\n\t\t\t\t\t\t<script>\n\t\t\t\t(function() {\n\t\t\t\t\tvar hbspt
+        = window.hbspt = window.hbspt || {};\n\t\t\t\t\thbspt.forms = hbspt.forms
+        || {};\n\t\t\t\t\thbspt._wpFormsQueue = [];\n\t\t\t\t\thbspt.enqueueForm =
+        function(formDef) {\n\t\t\t\t\t\tif (hbspt.forms && hbspt.forms.create) {\n\t\t\t\t\t\t\thbspt.forms.create(formDef);\n\t\t\t\t\t\t}
+        else {\n\t\t\t\t\t\t\thbspt._wpFormsQueue.push(formDef);\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t\tObject.defineProperty(window.hbspt.forms,
+        'create', {\n\t\t\t\t\t\tconfigurable: true,\n\t\t\t\t\t\tget: function()
+        {\n\t\t\t\t\t\t\treturn hbspt._wpCreateForm;\n\t\t\t\t\t\t},\n\t\t\t\t\t\tset:
+        function(value) {\n\t\t\t\t\t\t\thbspt._wpCreateForm = value;\n\t\t\t\t\t\t\twhile
+        (hbspt._wpFormsQueue.length) {\n\t\t\t\t\t\t\t\tvar formDef = hbspt._wpFormsQueue.shift();\n\t\t\t\t\t\t\t\tif
+        (!document.currentScript) {\n\t\t\t\t\t\t\t\t\tvar formScriptId = 'leadin-forms-v2-js';\n\t\t\t\t\t\t\t\t\thubspot.utils.currentScript
+        = document.getElementsById(formScriptId);\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\thbspt._wpCreateForm.call(hbspt.forms,
+        formDef);\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t},\n\t\t\t\t\t})\n\t\t\t\t})();\n\t\t\t</script>\n\t\t<script
+        type=\"text/javascript\">try{Typekit.load();}catch(e){}</script><link rel=\"icon\"
+        href=\"https://ussec.org/wp-content/uploads/2020/09/apple-touch-icon-100x100.png\"
+        sizes=\"32x32\" />\n<link rel=\"icon\" href=\"https://ussec.org/wp-content/uploads/2020/09/apple-touch-icon.png\"
+        sizes=\"192x192\" />\n<link rel=\"apple-touch-icon\" href=\"https://ussec.org/wp-content/uploads/2020/09/apple-touch-icon.png\"
+        />\n<meta name=\"msapplication-TileImage\" content=\"https://ussec.org/wp-content/uploads/2020/09/apple-touch-icon.png\"
+        />\n</head>\n\n<body class=\"post-template-default single single-post postid-15288
+        single-format-standard\">\n<div class=\"wrapper\"> <!-- wrapper necessary
+        for sticky header -->\n  <nav class=\"header__language-nav\">\n    <div class=\"op-row\">\n
+        \     <div class=\"op-col-start-1 op-col-end-12\">\n        <ul class=\"header-language-menu
+        \"><li class=\"header-language-menu__item  header-language-menu__item--17326\"><a
+        href=\"https://ussec.org/about-ussec/espanol/\" class=\"header-language-menu__link\">Espa\xF1ol</a></li>\n<li
+        class=\"header-language-menu__item  header-language-menu__item--17331\"><a
+        href=\"https://ussec.org/about-ussec/francais/\" class=\"header-language-menu__link\">Fran\xE7ais</a></li>\n<li
+        class=\"header-language-menu__item  header-language-menu__item--17332\"><a
+        href=\"https://ussec.org/about-ussec/%e6%97%a5%e6%9c%ac%e8%aa%9e/\" class=\"header-language-menu__link\">\u65E5\u672C\u8A9E</a></li>\n<li
+        class=\"header-language-menu__item  header-language-menu__item--17333\"><a
+        href=\"https://ussec.org/about-ussec/%ed%95%9c%ea%b5%ad%ec%96%b4/\" class=\"header-language-menu__link\">\uD55C\uAD6D\uC5B4</a></li>\n<li
+        class=\"header-language-menu__item  header-language-menu__item--17334\"><a
+        href=\"https://ussec.org/about-ussec/%e4%b8%ad%e6%96%87/\" class=\"header-language-menu__link\">\u4E2D\u6587</a></li>\n</ul>
+        \     </div>\n    </div>\n  </nav>\n  <div class=\"op-row\">\n    <div class=\"op-col-start-3
+        op-col-end-12\">\n      <nav class=\"header__utility-nav\">\n      \t<form
+        id=\"search\" action=\"/\" method=\"get\" class=\"header__search-form\">\n
+        \         <input type=\"text\" id=\"s\" name=\"s\" class=\"header-search-form__input\"
+        placeholder=\"Search\"/>\n          <button class=\"header-search-form__submit\"
+        type=\"submit\"><i class=\"fa fa-search\"></i></button>\n      \t</form>\n
+        \       <ul class=\"header-utility-menu \"><li class=\"header-utility-menu__item
+        \ header-utility-menu__item--16895\"><a target=\"_blank\" href=\"https://purchase.ussec.org/\"
+        class=\"header-utility-menu__link\">Purchase U.S. Soy</a></li>\n<li class=\"header-utility-menu__item
+        \ header-utility-menu__item--17342\"><a href=\"https://ussec.org/about-ussec/become-a-member/\"
+        class=\"header-utility-menu__link\">Become a Member</a></li>\n<li class=\"header-utility-menu__item
+        \ header-utility-menu__item--17365\"><a href=\"https://ussec.org/resources/\"
+        class=\"header-utility-menu__link\">Resources</a></li>\n<li class=\"header-utility-menu__item
+        \ header-utility-menu__item--16898  header-utility-menu__item--ussoy\"><a
+        target=\"_blank\" href=\"https://ussoy.org/\" class=\"header-utility-menu__link\">USSOY</a></li>\n</ul>
+        \       <a href=\"/resources/conversion-table/\" class=\"header__calculator\"><i
+        class=\"fa fa-calculator\"></i>CONVERSION CALCULATOR</a>\n      </nav>\n    </div>\n
+        \ </div>\n<header class=\"header\">\n  <div class=\"op-row\">\n    <div class=\"op-col-start-1
+        op-col-end-12\">\n      <div class=\"header__nav\">\n        <a href=\"https://ussec.org/\"
+        title=\"U.S. Soybean Export Council\" rel=\"home\" class=\"header-logo\"><img
+        width=\"101\" height=\"61\" src=\"https://ussec.org/wp-content/uploads/2020/09/ussec_logo-1.svg\"
+        class=\"header-logo__image\" alt=\"\" loading=\"lazy\" /></a>        <nav
+        class=\"header__primary-nav\">\n        \t<form id=\"mobile-search\" action=\"/\"
+        method=\"get\" class=\"header__mobile-search-form\">\n            <input type=\"text\"
+        id=\"mobile-s\" name=\"s\" class=\"header-mobile-search-form__input\" placeholder=\"Search\"/>\n
+        \           <button class=\"header-mobile-search-form__submit\" type=\"submit\"><i
+        class=\"fa fa-search\"></i></button>\n        \t</form>\n          <ul class=\"header-primary-menu
+        \"><li class=\"header-primary-menu__item--has-children  header-primary-menu__item
+        \ header-primary-menu__item--16868  header-primary-menu__item--parent\"><a
+        href=\"https://ussec.org/market-insights/\" class=\"header-primary-menu__link\">Market
+        Insights</a>\n\t<ul class=\"header-primary-menu__sub-menu header-primary-menu__sub-menu--1\">\n
+        \   <li class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--1__item
+        \ header-primary-menu__item--16876\"><a href=\"https://ussec.org/market-insights/americas/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--1__link\">Americas</a></li>\n
+        \   <li class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--1__item
+        \ header-primary-menu__item--16877\"><a href=\"https://ussec.org/market-insights/greater-china/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--1__link\">Greater
+        China</a></li>\n    <li class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--1__item
+        \ header-primary-menu__item--16878\"><a href=\"https://ussec.org/market-insights/europe/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--1__link\">Europe</a></li>\n
+        \   <li class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--1__item
+        \ header-primary-menu__item--16879\"><a href=\"https://ussec.org/market-insights/middle-east-north-africa/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--1__link\">Middle
+        East &#038; North Africa</a></li>\n    <li class=\"header-primary-menu__sub-menu__item
+        header-primary-menu__sub-menu--1__item  header-primary-menu__item--16880\"><a
+        href=\"https://ussec.org/market-insights/northeast-asia/\" class=\"header-primary-menu__sub-menu__link
+        \ header-primary-menu__sub-menu--1__link\">Northeast Asia</a></li>\n    <li
+        class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--1__item
+        \ header-primary-menu__item--16881\"><a href=\"https://ussec.org/market-insights/south-asia/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--1__link\">South
+        Asia</a></li>\n    <li class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--1__item
+        \ header-primary-menu__item--17401\"><a href=\"https://ussec.org/market-insights/southeast-asia/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--1__link\">Southeast
+        Asia</a></li>\n    <li class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--1__item
+        \ header-primary-menu__item--16883\"><a href=\"https://ussec.org/market-insights/sub-saharan-africa/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--1__link\">Sub-Saharan
+        Africa</a></li>\n</ul>\n</li>\n<li class=\"header-primary-menu__item  header-primary-menu__item--17295\"><a
+        href=\"https://ussec.org/events/\" class=\"header-primary-menu__link\">Events</a></li>\n<li
+        class=\"header-primary-menu__item--has-children  header-primary-menu__item
+        \ header-primary-menu__item--17178  header-primary-menu__item--parent  header-primary-menu__item--columns\"><a
+        href=\"https://ussec.org/directory/\" class=\"header-primary-menu__link\">Directory</a>\n\t<ul
+        class=\"header-primary-menu__sub-menu header-primary-menu__sub-menu--1\">\n
+        \   <li class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--1__item
+        \ header-primary-menu__item--has-children  header-primary-menu__item--16967
+        \ header-primary-menu__item--parent\"><a href=\"/directory/staff-directory\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--1__link\">Directory
+        Listing</a>\n\t\t<ul class=\"header-primary-menu__sub-menu header-primary-menu__sub-menu--2\">\n
+        \       <li class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--2__item
+        \ header-primary-menu__item--17347\"><a href=\"https://ussec.org/about-ussec/board-of-directors/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--2__link\">Board
+        of Directors</a></li>\n        <li class=\"header-primary-menu__sub-menu__item
+        header-primary-menu__sub-menu--2__item  header-primary-menu__item--76\"><a
+        href=\"https://ussec.org/directory/staff-directory/category/executive-staff/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--2__link\">Executive
+        Team</a></li>\n\t</ul>\n</li>\n    <li class=\"header-primary-menu__sub-menu__item
+        header-primary-menu__sub-menu--1__item  header-primary-menu__item--has-children
+        \ header-primary-menu__item--17179  header-primary-menu__item--parent\"><a
+        href=\"https://ussec.org/directory/staff-directory/\" class=\"header-primary-menu__sub-menu__link
+        \ header-primary-menu__sub-menu--1__link\">USSEC Regions</a>\n\t\t<ul class=\"header-primary-menu__sub-menu
+        header-primary-menu__sub-menu--2\">\n        <li class=\"header-primary-menu__sub-menu__item
+        header-primary-menu__sub-menu--2__item  header-primary-menu__item--87\"><a
+        href=\"https://ussec.org/directory/staff-directory/region/americas/\" class=\"header-primary-menu__sub-menu__link
+        \ header-primary-menu__sub-menu--2__link\">Americas</a></li>\n        <li
+        class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--2__item
+        \ header-primary-menu__item--80\"><a href=\"https://ussec.org/directory/staff-directory/region/europe/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--2__link\">Europe</a></li>\n
+        \       <li class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--2__item
+        \ header-primary-menu__item--79\"><a href=\"https://ussec.org/directory/staff-directory/region/greater-china/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--2__link\">Greater
+        China</a></li>\n        <li class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--2__item
+        \ header-primary-menu__item--81\"><a href=\"https://ussec.org/directory/staff-directory/region/middle-east-north-africa/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--2__link\">Middle
+        East &amp; North Africa</a></li>\n        <li class=\"header-primary-menu__sub-menu__item
+        header-primary-menu__sub-menu--2__item  header-primary-menu__item--78\"><a
+        href=\"https://ussec.org/directory/staff-directory/region/northeast-asia/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--2__link\">Northeast
+        Asia</a></li>\n        <li class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--2__item
+        \ header-primary-menu__item--83\"><a href=\"https://ussec.org/directory/staff-directory/region/south-asia/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--2__link\">South
+        Asia</a></li>\n        <li class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--2__item
+        \ header-primary-menu__item--86\"><a href=\"https://ussec.org/directory/staff-directory/region/southeast-asia/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--2__link\">Southeast
+        Asia</a></li>\n        <li class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--2__item
+        \ header-primary-menu__item--82\"><a href=\"https://ussec.org/directory/staff-directory/region/sub-saharan-africa/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--2__link\">Sub-Saharan
+        Africa</a></li>\n\t</ul>\n</li>\n    <li class=\"header-primary-menu__sub-menu__item
+        header-primary-menu__sub-menu--1__item  header-primary-menu__item--has-children
+        \ header-primary-menu__item--17184  header-primary-menu__item--parent\"><a
+        href=\"https://ussec.org/directory/member-directory/\" class=\"header-primary-menu__sub-menu__link
+        \ header-primary-menu__sub-menu--1__link\">Member Directory</a>\n\t\t<ul class=\"header-primary-menu__sub-menu
+        header-primary-menu__sub-menu--2\">\n        <li class=\"header-primary-menu__sub-menu__item
+        header-primary-menu__sub-menu--2__item  header-primary-menu__item--75\"><a
+        href=\"https://ussec.org/directory/member-directory/category/allied-class/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--2__link\">Allied
+        Class</a></li>\n        <li class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--2__item
+        \ header-primary-menu__item--74\"><a href=\"https://ussec.org/directory/member-directory/category/exporter-class/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--2__link\">Exporter
+        Class</a></li>\n        <li class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--2__item
+        \ header-primary-menu__item--17342\"><a href=\"https://ussec.org/about-ussec/become-a-member/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--2__link\">Become
+        a Member</a></li>\n\t</ul>\n</li>\n</ul>\n</li>\n<li class=\"header-primary-menu__item
+        \ header-primary-menu__item--9\"><a href=\"https://ussec.org/soy-news/\" class=\"header-primary-menu__link\">News</a></li>\n<li
+        class=\"header-primary-menu__item--has-children  header-primary-menu__item
+        \ header-primary-menu__item--7  header-primary-menu__item--parent\"><a href=\"https://ussec.org/about-ussec/\"
+        class=\"header-primary-menu__link\">About</a>\n\t<ul class=\"header-primary-menu__sub-menu
+        header-primary-menu__sub-menu--1\">\n    <li class=\"header-primary-menu__sub-menu__item
+        header-primary-menu__sub-menu--1__item  header-primary-menu__item--17342\"><a
+        href=\"https://ussec.org/about-ussec/become-a-member/\" class=\"header-primary-menu__sub-menu__link
+        \ header-primary-menu__sub-menu--1__link\">Become a Member</a></li>\n    <li
+        class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--1__item
+        \ header-primary-menu__item--17345\"><a href=\"https://ussec.org/about-ussec/governance-funding/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--1__link\">Governance
+        &#038; Funding</a></li>\n    <li class=\"header-primary-menu__sub-menu__item
+        header-primary-menu__sub-menu--1__item  header-primary-menu__item--17347\"><a
+        href=\"https://ussec.org/about-ussec/board-of-directors/\" class=\"header-primary-menu__sub-menu__link
+        \ header-primary-menu__sub-menu--1__link\">Board of Directors</a></li>\n    <li
+        class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--1__item
+        \ header-primary-menu__item--17351\"><a href=\"https://ussec.org/about-ussec/employment-opportunities/\"
+        class=\"header-primary-menu__sub-menu__link  header-primary-menu__sub-menu--1__link\">Employment
+        Opportunities</a></li>\n    <li class=\"header-primary-menu__sub-menu__item
+        header-primary-menu__sub-menu--1__item  header-primary-menu__item--17348\"><a
+        href=\"https://ussec.org/about-ussec/open-requests-for-proposals/\" class=\"header-primary-menu__sub-menu__link
+        \ header-primary-menu__sub-menu--1__link\">Open Requests for Proposals</a></li>\n
+        \   <li class=\"header-primary-menu__sub-menu__item header-primary-menu__sub-menu--1__item
+        \ header-primary-menu__item--8\"><a href=\"https://ussec.org/contact/\" class=\"header-primary-menu__sub-menu__link
+        \ header-primary-menu__sub-menu--1__link\">Contact USSEC</a></li>\n</ul>\n</li>\n</ul><div
+        class=\"header__mobile-button\"><a href=\"https://purchase.ussec.org/requests/\"
+        class=\"header__mobile-menu-button\" target=\"\">Purchase U.S. Soy</a></div>
+        \         <div class=\"header__mobile-menus\">\n            <ul class=\"header-mobile-language-menu
+        \"><li class=\"header-mobile-language-menu__item  header-mobile-language-menu__item--17326\"><a
+        href=\"https://ussec.org/about-ussec/espanol/\" class=\"header-mobile-language-menu__link\">Espa\xF1ol</a></li>\n<li
+        class=\"header-mobile-language-menu__item  header-mobile-language-menu__item--17331\"><a
+        href=\"https://ussec.org/about-ussec/francais/\" class=\"header-mobile-language-menu__link\">Fran\xE7ais</a></li>\n<li
+        class=\"header-mobile-language-menu__item  header-mobile-language-menu__item--17332\"><a
+        href=\"https://ussec.org/about-ussec/%e6%97%a5%e6%9c%ac%e8%aa%9e/\" class=\"header-mobile-language-menu__link\">\u65E5\u672C\u8A9E</a></li>\n<li
+        class=\"header-mobile-language-menu__item  header-mobile-language-menu__item--17333\"><a
+        href=\"https://ussec.org/about-ussec/%ed%95%9c%ea%b5%ad%ec%96%b4/\" class=\"header-mobile-language-menu__link\">\uD55C\uAD6D\uC5B4</a></li>\n<li
+        class=\"header-mobile-language-menu__item  header-mobile-language-menu__item--17334\"><a
+        href=\"https://ussec.org/about-ussec/%e4%b8%ad%e6%96%87/\" class=\"header-mobile-language-menu__link\">\u4E2D\u6587</a></li>\n</ul><ul
+        class=\"header-mobile-utility-menu \"><li class=\"header-mobile-utility-menu__item
+        \ header-mobile-utility-menu__item--17184\"><a href=\"https://ussec.org/directory/member-directory/\"
+        class=\"header-mobile-utility-menu__link\">Member Directory</a></li>\n<li
+        class=\"header-mobile-utility-menu__item  header-mobile-utility-menu__item--8\"><a
+        href=\"https://ussec.org/contact/\" class=\"header-mobile-utility-menu__link\">Contact
+        USSEC</a></li>\n</ul>          </div>\n          <div class=\"social-media-widget\"><ul
+        class=\"social-media\"><li class=\"social-media__item\"><a href=\"https://twitter.com/ussec\"
+        class=\"social-media__link fa fa-twitter\" target=\"_blank\"></a></li><li
+        class=\"social-media__item\"><a href=\"https://www.facebook.com/ussoybeanexportcouncil/\"
+        class=\"social-media__link fa fa-facebook\" target=\"_blank\"></a></li><li
+        class=\"social-media__item\"><a href=\"https://www.linkedin.com/company/ussec/\"
+        class=\"social-media__link fa fa-linkedin\" target=\"_blank\"></a></li><li
+        class=\"social-media__item\"><a href=\"https://www.youtube.com/channel/UC4w5NOVhi1gp5QLVf2NIc8g\"
+        class=\"social-media__link fa fa-youtube\" target=\"_blank\"></a></li></ul></div>
+        \       </nav>\n        <a href=\"/resources/conversion-table/\" class=\"header__mobile-calculator\"><i
+        class=\"fa fa-calculator\"></i></a>\n        <div class=\"hamburger hamburger--squeeze\">\n
+        \         <span class=\"hamburger-box\">\n            <span class=\"hamburger-inner\"></span>\n
+        \         </span>\n        </div>\n      </div>\n    </div>\n  </div>\t\n\n</header><main
+        class=\"main\">\n<div class=\"page__obj-fit-image-wrapper op-obj-fit-image-wrapper\"><img
+        width=\"640\" height=\"853\" src=\"https://ussec.org/wp-content/uploads/2017/09/ripe-soyplants_sml.jpg\"
+        class=\"op-obj-fit-image page__obj-fit-image\" alt=\"\" loading=\"lazy\" srcset=\"https://ussec.org/wp-content/uploads/2017/09/ripe-soyplants_sml.jpg
+        640w, https://ussec.org/wp-content/uploads/2017/09/ripe-soyplants_sml-225x300.jpg
+        225w, https://ussec.org/wp-content/uploads/2017/09/ripe-soyplants_sml-81x108.jpg
+        81w, https://ussec.org/wp-content/uploads/2017/09/ripe-soyplants_sml-162x216.jpg
+        162w, https://ussec.org/wp-content/uploads/2017/09/ripe-soyplants_sml-100x133.jpg
+        100w, https://ussec.org/wp-content/uploads/2017/09/ripe-soyplants_sml-200x267.jpg
+        200w, https://ussec.org/wp-content/uploads/2017/09/ripe-soyplants_sml-198x264.jpg
+        198w, https://ussec.org/wp-content/uploads/2017/09/ripe-soyplants_sml-396x528.jpg
+        396w, https://ussec.org/wp-content/uploads/2017/09/ripe-soyplants_sml-123x164.jpg
+        123w, https://ussec.org/wp-content/uploads/2017/09/ripe-soyplants_sml-246x328.jpg
+        246w, https://ussec.org/wp-content/uploads/2017/09/ripe-soyplants_sml-210x280.jpg
+        210w\" sizes=\"(max-width: 640px) 100vw, 640px\" /></div><div class=\"breadcrumbs-wrapper\"><div
+        class=\"op-row\"><div class=\"op-col-start-1 op-col-end-12\"><div class=\"breadcrumbs\"><span><span><a
+        href=\"https://ussec.org/\">Home</a> / <span><a href=\"https://ussec.org/soy-news/\">News</a>
+        / <span class=\"breadcrumb_last\" aria-current=\"page\">USSEC Welcomes Senior
+        Director \u2013 Organizational Collaboration and Innovation</span></span></span></span></div></div></div></div><div
+        class=\"op-row\"><div class=\"op-col-start-1 op-col-end-8\"><div class=\"op-single-post__header\"><h2
+        class=\"op-single-post__headline\">USSEC Welcomes Senior Director \u2013 Organizational
+        Collaboration and Innovation</h2><div class=\"op-single-post__meta\"><p class=\"op-single-post__byline\">By
+        U.S Soybean Export Council <span class=\"op-single-post__byline-sep\">-</span>
+        <time class=\"op-single-post__date\" datetime=\"2019-11-12T21:01:38-06:00\"
+        pubdate>Tuesday, November 12, 2019</time> </p><div class=\"op-single-post__social\"><p
+        class=\"op-single-post__share-label\">Share This</p><ul class=\"op-single-post__share\">\n
+        \ \t<li class=\"op-single-post__share-item\"><a href=\"https://twitter.com/intent/tweet?url=https%3A%2F%2Fussec.org%2Fussec-welcomes-senior-director-organizational-collaboration-innovation%2F\"
+        class=\"op-single-post__share-link\" target=\"_blank\"><i class=\"fa fa-twitter-square\"></i></a></li>\n
+        \ \t<li class=\"op-single-post__share-item\"><a href=\"http://www.facebook.com/sharer.php?u=https%3A%2F%2Fussec.org%2Fussec-welcomes-senior-director-organizational-collaboration-innovation%2F&t=USSEC+Welcomes+Senior+Director+%E2%80%93+Organizational+Collaboration+and+Innovation\"
+        class=\"op-single-post__share-link\" target=\"_blank\"><i class=\"fa fa-facebook-square\"></i></a></li>\n
+        \ \t<li class=\"op-single-post__share-item\"><a href=\"http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fussec.org%2Fussec-welcomes-senior-director-organizational-collaboration-innovation%2F&title=USSEC+Welcomes+Senior+Director+%E2%80%93+Organizational+Collaboration+and+Innovation&summary=Karey
+        Claghorn has joined USSEC as Senior Director &#8211; Organizational Collaboration
+        and Innovation. Ms. Claghorn&hellip;\" class=\"op-single-post__share-link\"
+        target=\"_blank\"><i class=\"fa fa-linkedin-square\"></i></a></li>\n  </ul></div></div><ul
+        class=\"op-single-post__categories\"><li class=\"op-single-post__category\">Category:</li><li
+        class=\"op-single-post__category\"><a class=\"op-single-post__category-link\"
+        href=\"/category/ussec-news\">General News</a></li></ul></div><div class=\"op-single-post__content\"><div
+        class=\"op-content-block op-content-block--paragraph\"><p>Karey Claghorn has
+        joined USSEC as Senior Director &#8211; Organizational Collaboration and Innovation.
+        Ms. Claghorn was previously the Chief Operating Officer for the Iowa Soybean
+        Association.<br />\nThis new role focuses on increasing the organization\u2019s
+        effectiveness.</p>\n</div><div class=\"op-content-block op-content-block--list\"><ul>\n<li><strong>Collaboration
+        Leader</strong> \u2013 ensuring that best practices from regions, industries,
+        etc. are implemented and utilized throughout USSEC, emphasizing on increasing
+        uniformity and predictability.</li>\n<li><strong>Incubation leader</strong>
+        \u2013 to move new ideas/projects forward expeditiously.</li>\n<li><strong>Executive
+        level oversight </strong>of:\n<ul>\n<li>Unique, high profile programs such
+        as the Protein Deficiency Program in India and centralized leadership for
+        ATP Program.</li>\n<li>Director of Strategic Program Development and Director
+        of Measurement and Evaluation positions.</li>\n</ul>\n</li>\n</ul>\n</div><div
+        class=\"op-content-block op-content-block--image op-row--image-left\"><div
+        class=\"wp-block-image\">\n<figure class=\"alignleft\"><img loading=\"lazy\"
+        width=\"150\" height=\"150\" src=\"http://ussec20prod.wpengine.com/wp-content/uploads/2019/11/th-150x150.jpeg\"
+        alt=\"\" class=\"wp-image-15289\" srcset=\"https://ussec.org/wp-content/uploads/2019/11/th-150x150.jpeg
+        150w, https://ussec.org/wp-content/uploads/2019/11/th.jpeg 300w\" sizes=\"(max-width:
+        150px) 100vw, 150px\" /></figure>\n</div>\n</div><div class=\"op-content-block
+        op-content-block--paragraph\"><p>\u201CI\u2019m very pleased we have the opportunity
+        to bring an individual with Karey\u2019s experience, skills, and dedication
+        to U.S. Soy onto our great team,\u201D states USSEC CEO Jim Sutter. \u201CPlease
+        join me in welcoming Karey to her new role.\u201D</p>\n</div><div class=\"op-single-post__footer-meta\"><div
+        class=\"op-single-post__social\"><p class=\"op-single-post__share-label\">Share
+        This</p><ul class=\"op-single-post__share\">\n  \t<li class=\"op-single-post__share-item\"><a
+        href=\"https://twitter.com/intent/tweet?url=https%3A%2F%2Fussec.org%2Fussec-welcomes-senior-director-organizational-collaboration-innovation%2F\"
+        class=\"op-single-post__share-link\" target=\"_blank\"><i class=\"fa fa-twitter-square\"></i></a></li>\n
+        \ \t<li class=\"op-single-post__share-item\"><a href=\"http://www.facebook.com/sharer.php?u=https%3A%2F%2Fussec.org%2Fussec-welcomes-senior-director-organizational-collaboration-innovation%2F&t=USSEC+Welcomes+Senior+Director+%E2%80%93+Organizational+Collaboration+and+Innovation\"
+        class=\"op-single-post__share-link\" target=\"_blank\"><i class=\"fa fa-facebook-square\"></i></a></li>\n
+        \ \t<li class=\"op-single-post__share-item\"><a href=\"http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fussec.org%2Fussec-welcomes-senior-director-organizational-collaboration-innovation%2F&title=USSEC+Welcomes+Senior+Director+%E2%80%93+Organizational+Collaboration+and+Innovation&summary=Karey
+        Claghorn has joined USSEC as Senior Director &#8211; Organizational Collaboration
+        and Innovation. Ms. Claghorn&hellip;\" class=\"op-single-post__share-link\"
+        target=\"_blank\"><i class=\"fa fa-linkedin-square\"></i></a></li>\n  </ul></div></div></div></div><div
+        class=\"op-col-start-9 op-col-end-12\"><aside class=\"op-single-post__sidebar\"><div
+        class=\"op-single-post-sidebar__recent-news\"><h4 class=\"op-single-post-sidebar__headline\">Recent
+        News</h4><div class=\"op-single-post-sidebar__recent-news-post\"><h5 class=\"op-single-post-sidebar-recent-news__title\"><a
+        class=\"op-single-post-sidebar-recent-news__link\" href=\"https://ussec.org/wasde-supply-and-demand-update-november-2020/\">WASDE
+        Supply and Demand Update: November 2020</a></h5><ul class=\"op-single-post-sidebar-recent-news__categories\"><li
+        class=\"op-single-post-sidebar-recent-news__category\"><a class=\"op-single-post-sidebar-recent-news__category-link\"
+        href=\"/category/in-the-news\">In The News</a></li><li class=\"op-single-post-sidebar-recent-news__category\"><a
+        class=\"op-single-post-sidebar-recent-news__category-link\" href=\"/category/market-information\">Market
+        Information</a></li></ul></div><div class=\"op-single-post-sidebar__recent-news-post\"><h5
+        class=\"op-single-post-sidebar-recent-news__title\"><a class=\"op-single-post-sidebar-recent-news__link\"
+        href=\"https://ussec.org/opportunities-for-u-s-soy-in-sub-saharan-africa-livestock-feed/\">Opportunities
+        for U.S. Soy in Sub-Saharan Africa Livestock Feed</a></h5><ul class=\"op-single-post-sidebar-recent-news__categories\"><li
+        class=\"op-single-post-sidebar-recent-news__category\"><a class=\"op-single-post-sidebar-recent-news__category-link\"
+        href=\"/category/animal-utilization\">Animal Utilization</a></li><li class=\"op-single-post-sidebar-recent-news__category\"><a
+        class=\"op-single-post-sidebar-recent-news__category-link\" href=\"/category/virtual-events\">Virtual
+        Events</a></li></ul></div><div class=\"op-single-post-sidebar__recent-news-post\"><h5
+        class=\"op-single-post-sidebar-recent-news__title\"><a class=\"op-single-post-sidebar-recent-news__link\"
+        href=\"https://ussec.org/ussec-launches-new-global-marketing-campaign/\">USSEC
+        Launches New Global Marketing Campaign</a></h5><ul class=\"op-single-post-sidebar-recent-news__categories\"><li
+        class=\"op-single-post-sidebar-recent-news__category\"><a class=\"op-single-post-sidebar-recent-news__category-link\"
+        href=\"/category/ussec-news\">General News</a></li></ul></div><div class=\"op-single-post-sidebar__recent-news-post\"><h5
+        class=\"op-single-post-sidebar-recent-news__title\"><a class=\"op-single-post-sidebar-recent-news__link\"
+        href=\"https://ussec.org/russian-feed-industry-learns-more-about-u-s-soy-fermented-soybean-meal-at-mixed-feeds-2020-international-conference/\">Russian
+        Feed Industry Learns More about U.S. Soy, Fermented Soybean Meal at Mixed
+        Feeds \u2013 2020 International Conference</a></h5><ul class=\"op-single-post-sidebar-recent-news__categories\"><li
+        class=\"op-single-post-sidebar-recent-news__category\"><a class=\"op-single-post-sidebar-recent-news__category-link\"
+        href=\"/category/animal-utilization\">Animal Utilization</a></li><li class=\"op-single-post-sidebar-recent-news__category\"><a
+        class=\"op-single-post-sidebar-recent-news__category-link\" href=\"/category/event-followup\">Event
+        followup</a></li></ul></div></div><a class=\"op-single-post-sidebar__view-all-news\"
+        href=\"https://ussec.org/soy-news/\">View All News</a></aside></div></div></main>\n<div
+        class=\"footer__cta-widget\"><div class=\"footer-cta\"><div class=\"footer-cta__obj-fit-image-wrapper
+        op-obj-fit-image-wrapper\"><img width=\"2560\" height=\"489\" src=\"https://ussec.org/wp-content/uploads/2020/09/Placement-Area7@2x-scaled.jpg\"
+        class=\"op-obj-fit-image footer-cta__obj-fit-image\" alt=\"\" loading=\"lazy\"
+        srcset=\"https://ussec.org/wp-content/uploads/2020/09/Placement-Area7@2x-scaled.jpg
+        2560w, https://ussec.org/wp-content/uploads/2020/09/Placement-Area7@2x-300x57.jpg
+        300w, https://ussec.org/wp-content/uploads/2020/09/Placement-Area7@2x-1024x196.jpg
+        1024w, https://ussec.org/wp-content/uploads/2020/09/Placement-Area7@2x-768x147.jpg
+        768w, https://ussec.org/wp-content/uploads/2020/09/Placement-Area7@2x-1536x293.jpg
+        1536w, https://ussec.org/wp-content/uploads/2020/09/Placement-Area7@2x-2048x391.jpg
+        2048w, https://ussec.org/wp-content/uploads/2020/09/Placement-Area7@2x-1088x208.jpg
+        1088w, https://ussec.org/wp-content/uploads/2020/09/Placement-Area7@2x-2000x382.jpg
+        2000w, https://ussec.org/wp-content/uploads/2020/09/Placement-Area7@2x-320x61.jpg
+        320w\" sizes=\"(max-width: 2560px) 100vw, 2560px\" /></div><div class=\"op-row\"><div
+        class=\"op-col-start-3 op-col-end-10\"><h3 class=\"footer-cta__headline\">Purchase
+        U.S. Soy</h3><p class=\"footer-cta__text\">Click to reach a U.S. soybean exporter
+        member.</p><a href=\"https://purchase.ussec.org/\" class=\"footer-cta__button\"
+        target=\"_blank\">Purchase U.S. Soy</a></div></div></div></div>  <footer class=\"footer\">\n
+        \   <div class=\"op-row\">\n      <div class=\"op-col-start-1 op-col-end-12\">\n
+        \       <div class=\"footer__inner\">\n          <div class=\"footer__branding\">\n
+        \         <img width=\"101\" height=\"61\" src=\"https://ussec.org/wp-content/uploads/2020/09/ussec_logo-1.svg\"
+        class=\"footer__site-logo\" alt=\"\" loading=\"lazy\" />          <div class=\"footer__logos-widget\"><div
+        class=\"footer__logos\"><div class=\"footer__logo\"><img width=\"34\" height=\"17\"
+        src=\"https://ussec.org/wp-content/uploads/2020/09/ASA.svg\" class=\"footer__logo-image\"
+        alt=\"\" loading=\"lazy\" /></div><div class=\"footer__logo-sep\"></div><div
+        class=\"footer__logo\"><img width=\"49\" height=\"17\" src=\"https://ussec.org/wp-content/uploads/2020/09/USSOY_white.svg\"
+        class=\"footer__logo-image\" alt=\"\" loading=\"lazy\" /></div><div class=\"footer__logo-sep\"></div><div
+        class=\"footer__logo\"><img width=\"42\" height=\"25\" src=\"https://ussec.org/wp-content/uploads/2020/09/United_Soybean_Board.svg\"
+        class=\"footer__logo-image\" alt=\"\" loading=\"lazy\" /></div></div></div><div
+        class=\"social-media-widget\"><ul class=\"social-media\"><li class=\"social-media__item\"><a
+        href=\"https://twitter.com/ussec\" class=\"social-media__link fa fa-twitter\"
+        target=\"_blank\"></a></li><li class=\"social-media__item\"><a href=\"https://www.facebook.com/ussoybeanexportcouncil/\"
+        class=\"social-media__link fa fa-facebook\" target=\"_blank\"></a></li><li
+        class=\"social-media__item\"><a href=\"https://www.linkedin.com/company/ussec/\"
+        class=\"social-media__link fa fa-linkedin\" target=\"_blank\"></a></li><li
+        class=\"social-media__item\"><a href=\"https://www.youtube.com/channel/UC4w5NOVhi1gp5QLVf2NIc8g\"
+        class=\"social-media__link fa fa-youtube\" target=\"_blank\"></a></li></ul></div>
+        \         </div>\n          <nav class=\"footer__nav\">\n            <ul class=\"footer-menu
+        \"><li class=\"footer-menu__item--has-children  footer-menu__item  footer-menu__item--16868
+        \ footer-menu__item--parent\"><a href=\"https://ussec.org/market-insights/\"
+        class=\"footer-menu__link\">Market Insights</a>\n\t<ul class=\"footer-menu__sub-menu
+        footer-menu__sub-menu--1\">\n    <li class=\"footer-menu__sub-menu__item footer-menu__sub-menu--1__item
+        \ footer-menu__item--16876\"><a href=\"https://ussec.org/market-insights/americas/\"
+        class=\"footer-menu__sub-menu__link  footer-menu__sub-menu--1__link\">Americas</a></li>\n
+        \   <li class=\"footer-menu__sub-menu__item footer-menu__sub-menu--1__item
+        \ footer-menu__item--16877\"><a href=\"https://ussec.org/market-insights/greater-china/\"
+        class=\"footer-menu__sub-menu__link  footer-menu__sub-menu--1__link\">Greater
+        China</a></li>\n    <li class=\"footer-menu__sub-menu__item footer-menu__sub-menu--1__item
+        \ footer-menu__item--16878\"><a href=\"https://ussec.org/market-insights/europe/\"
+        class=\"footer-menu__sub-menu__link  footer-menu__sub-menu--1__link\">Europe</a></li>\n
+        \   <li class=\"footer-menu__sub-menu__item footer-menu__sub-menu--1__item
+        \ footer-menu__item--16879\"><a href=\"https://ussec.org/market-insights/middle-east-north-africa/\"
+        class=\"footer-menu__sub-menu__link  footer-menu__sub-menu--1__link\">Middle
+        East &#038; North Africa</a></li>\n    <li class=\"footer-menu__sub-menu__item
+        footer-menu__sub-menu--1__item  footer-menu__item--16880\"><a href=\"https://ussec.org/market-insights/northeast-asia/\"
+        class=\"footer-menu__sub-menu__link  footer-menu__sub-menu--1__link\">Northeast
+        Asia</a></li>\n    <li class=\"footer-menu__sub-menu__item footer-menu__sub-menu--1__item
+        \ footer-menu__item--16881\"><a href=\"https://ussec.org/market-insights/south-asia/\"
+        class=\"footer-menu__sub-menu__link  footer-menu__sub-menu--1__link\">South
+        Asia</a></li>\n    <li class=\"footer-menu__sub-menu__item footer-menu__sub-menu--1__item
+        \ footer-menu__item--17401\"><a href=\"https://ussec.org/market-insights/southeast-asia/\"
+        class=\"footer-menu__sub-menu__link  footer-menu__sub-menu--1__link\">Southeast
+        Asia</a></li>\n    <li class=\"footer-menu__sub-menu__item footer-menu__sub-menu--1__item
+        \ footer-menu__item--16883\"><a href=\"https://ussec.org/market-insights/sub-saharan-africa/\"
+        class=\"footer-menu__sub-menu__link  footer-menu__sub-menu--1__link\">Sub-Saharan
+        Africa</a></li>\n</ul>\n</li>\n<li class=\"footer-menu__item--has-children
+        \ footer-menu__item  footer-menu__item--17178  footer-menu__item--parent\"><a
+        href=\"https://ussec.org/directory/\" class=\"footer-menu__link\">Directory</a>\n\t<ul
+        class=\"footer-menu__sub-menu footer-menu__sub-menu--1\">\n    <li class=\"footer-menu__sub-menu__item
+        footer-menu__sub-menu--1__item  footer-menu__item--17179\"><a href=\"https://ussec.org/directory/staff-directory/\"
+        class=\"footer-menu__sub-menu__link  footer-menu__sub-menu--1__link\">Directory
+        Listing</a></li>\n    <li class=\"footer-menu__sub-menu__item footer-menu__sub-menu--1__item
+        \ footer-menu__item--17184\"><a href=\"https://ussec.org/directory/member-directory/\"
+        class=\"footer-menu__sub-menu__link  footer-menu__sub-menu--1__link\">Member
+        Directory</a></li>\n</ul>\n</li>\n<li class=\"footer-menu__item  footer-menu__item--17365\"><a
+        href=\"https://ussec.org/resources/\" class=\"footer-menu__link\">Resources</a></li>\n<li
+        class=\"footer-menu__item  footer-menu__item--17295\"><a href=\"https://ussec.org/events/\"
+        class=\"footer-menu__link\">Events</a></li>\n<li class=\"footer-menu__item
+        \ footer-menu__item--9\"><a href=\"https://ussec.org/soy-news/\" class=\"footer-menu__link\">News</a></li>\n<li
+        class=\"footer-menu__item--has-children  footer-menu__item  footer-menu__item--7
+        \ footer-menu__item--parent\"><a href=\"https://ussec.org/about-ussec/\" class=\"footer-menu__link\">About</a>\n\t<ul
+        class=\"footer-menu__sub-menu footer-menu__sub-menu--1\">\n    <li class=\"footer-menu__sub-menu__item
+        footer-menu__sub-menu--1__item  footer-menu__item--8\"><a href=\"https://ussec.org/contact/\"
+        class=\"footer-menu__sub-menu__link  footer-menu__sub-menu--1__link\">Contact
+        USSEC</a></li>\n</ul>\n</li>\n</ul>          </nav>\n        </div>\n      </div>\n
+        \   </div>\n  </footer>\n  <div class=\"footer-bar-wrapper\">\n    <div class=\"op-row\">\n
+        \     <div class=\"op-col-start-1 op-col-end-12\">\n        <div class=\"footer-bar\">\n
+        \         <p class=\"footer-bar__tagline\"><strong>U.S. SOY</strong> for a
+        growing world</p><ul class=\"footer-bar-menu \"><li class=\"footer-bar-menu__item
+        \ footer-bar-menu__item--17378\"><a href=\"https://ussec.org/about-ussec/non-discrimination-statement/\"
+        class=\"footer-bar-menu__link\">Non-Discrimination Statement</a></li>\n<li
+        class=\"footer-bar-menu__item  footer-bar-menu__item--17354\"><a href=\"https://ussec.org/about-ussec/privacy-policy/\"
+        class=\"footer-bar-menu__link\">Privacy Policy</a></li>\n</ul>        </div>\n
+        \     </div>\n    </div>\n  </div>\n</div> <!-- end wrapper -->\n<script type='text/javascript'
+        id='leadin-script-loader-js-js-extra'>\n/* <![CDATA[ */\nvar leadin_wordpress
+        = {\"userRole\":\"visitor\",\"pageType\":\"post\",\"leadinPluginVersion\":\"7.47.3\"};\n/*
+        ]]> */\n</script>\n<script async defer id=\"hs-script-loader\" type='text/javascript'
+        src='https://js.hs-scripts.com/2030344.js?integration=WordPress' id='leadin-script-loader-js-js'></script>\n<script
+        type='text/javascript' src='https://ussec.org/wp-includes/js/wp-embed.min.js?ver=5.5.1'
+        id='wp-embed-js'></script>\n<script type='text/javascript' src='https://ussec.org/wp-content/themes/USSEC2020/assets/scripts/swiper.min.js?ver=5.3.7'
+        id='swiper-js'></script>\n<script type='text/javascript' src='https://ussec.org/wp-content/themes/USSEC2020/assets/scripts/share-popup.js?ver=1.0.0'
+        id='share_popup-js'></script>\n<script type='text/javascript' src='https://ussec.org/wp-content/themes/USSEC2020/assets/scripts/jquery.magnific-popup.min.js?ver=1.0.0'
+        id='lightbox-js'></script>\n<script type='text/javascript' src='https://ussec.org/wp-content/themes/USSEC2020/assets/scripts/jquery.mousewheel.js?ver=3.1.13'
+        id='mousewheel-js'></script>\n<script type='text/javascript' src='https://kit.fontawesome.com/c1f8a55bbe.js?ver=1.0.0'
+        id='fontawesome-js'></script>\n<script type='text/javascript' src='https://ussec.org/wp-content/themes/USSEC2020/assets/scripts/modernizr-custom.js?ver=1.0.0'
+        id='modernizr-js'></script>\n<script type='text/javascript' id='scripts-js-extra'>\n/*
+        <![CDATA[ */\nvar scripts_vars = {\"address\":\"16305 Swingley Ridge Road,
+        \\nChesterfield, MO 63017 \",\"title\":\"U.S. Soybean Export Council\"};\nvar
+        wpApiSettings = {\"url\":\"https:\\/\\/ussec.org\\/wp-json\\/\",\"nonce\":\"965cce9134\"};\n/*
+        ]]> */\n</script>\n<script type='text/javascript' src='https://ussec.org/wp-content/themes/USSEC2020/assets/scripts/scripts.min.js?ver=1602026266'
+        id='scripts-js'></script>\n</body>\n</html>"
+    headers:
+      Cache-Control:
+      - max-age=600, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Wed, 11 Nov 2020 19:32:57 GMT
+      Keep-Alive:
+      - timeout=20
+      Link:
+      - <https://ussec.org/wp-json/>; rel="https://api.w.org/"
+      - <https://ussec.org/wp-json/wp/v2/posts/15288>; rel="alternate"; type="application/json"
+      - <https://ussec.org/?p=15288>; rel=shortlink
+      Server:
+      - nginx
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      - Accept-Encoding
+      - Accept-Encoding,Cookie
+      X-Cache:
+      - 'HIT: 1'
+      X-Cache-Group:
+      - normal
+      X-Cacheable:
+      - SHORT
+      X-Pingback:
+      - https://ussec.org/xmlrpc.php
+      X-Powered-By:
+      - WP Engine
+      content-length:
+      - '47952'
+    status:
+      code: 200
+      message: OK
+version: 1

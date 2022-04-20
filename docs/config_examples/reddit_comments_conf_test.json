@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "settings": {
+      "middlewares": {
+        "PROXY_ENABLED": false
+      },
+      "pipelines": {
+        "SENTIMENT_CLASSIFICATION": false,
+        "TOPIC_CLASSIFICATION": false,
+        "TO_API": false,
+        "TO_FILE": true,
+        "TO_S3": false,
+        "TO_SLACK": false
+      }
+    },
+    "submissions": {
+      "nwxpnm": {
+        "text_id": 20703,
+        "last_comment_id": "h1mko3q"
+      },
+      "nwxiu7": {
+        "text_id": 20702,
+        "last_comment_id": null
+      }
+    }
+  }
+}

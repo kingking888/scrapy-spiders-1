@@ -1,0 +1,811 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.businesswire.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.businesswire.com/portal/site/home/news/
+  response:
+    body:
+      string: "<!doctype html>\n\n\n\n\n\n<!--[if lt IE 7]> <html class=\"no-js lt-ie9
+        lt-ie8 lt-ie7\" lang=\"en\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js
+        lt-ie9 lt-ie8\" lang=\"en\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js
+        lt-ie9\" lang=\"en\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\"
+        lang=\"en\"> <!--<![endif]-->\n<head>\n\t<meta charset=\"utf-8\" />\n\t<meta
+        http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\" />\n\t<title>All
+        News | Business Wire</title>\n<meta name=\"description\" content=\"View press
+        releases, multimedia and other news from hundreds of issuing companies, categorized
+        by date, industry, subject, language and more.\"/>\n<meta name=\"robots\"
+        content=\"noodp,noydir\"/>\n\t<!-- Twitter Card Meta Tags -->\n<meta name=\"twitter:card\"
+        content=\"summary\" />\n<meta name=\"twitter:site\" content=\"@businesswire\"
+        />\n<meta name=\"twitter:title\" content=\"All News\" />\n\n<!-- OG Meta Tags
+        for Facebook and LinkedIn -->\n<meta property=\"og:title\" content=\"All News\"
+        />\n<meta property=\"og:url\" content=\"\" />\n<meta property=\"fb:pages\"
+        content=\"1157450754275955\" />\n\t<meta name=\"p:domain_verify\" content=\"95725e0359a14c2e1ccbd936e10d20d6\"
+        />\n\t<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"
+        />\n  \t<link rel=\"stylesheet\" href=\"/css/style.css\" />\n\t<link rel=\"stylesheet\"
+        type=\"text/css\" href=\"/css/jquery-ui.css\" />\n\t<!--[if lt IE 9]>\n\t\t<link
+        rel=\"stylesheet\" href=\"/css/libs/PIE.css\" />\n\t\t<link rel=\"stylesheet\"
+        href=\"/css/style-ie8.css\" />\n\t\t<script src=\"/js/libs/html5shiv-printshiv.js\"></script>\n\t<![endif]-->\n\t<!--
+        OneTrust Cookies Consent Notice start -->\n    <script src=\"/js/one_trust/scripttemplates/otSDKStub.js\"
+        \ type=\"text/javascript\" charset=\"UTF-8\" data-domain-script=\"a2007379-c22b-41e8-8743-1bbfd2cbb24a\"></script>\n
+        \   <script type=\"text/javascript\">\n        function OptanonWrapper() {
+        }\n    </script>\n\t<!-- OneTrust Cookies Consent Notice end -->\n\t<!-- Google
+        Tag Manager -->\n\n <script type=\"text/plain\" class=\"optanon-category-C0002\">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n
+        \   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n
+        \   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n
+        \   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n
+        \   })(window,document,'script','dataLayer','GTM-T4KGVRR');\n</script>\n\n<!--
+        End Google Tag Manager -->\n\n\n\t<script type=\"text/plain\" class=\"optanon-category-C0002\">\nwindow.NREUM||(NREUM={}),__nr_require=function(t,n,e){function
+        r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var
+        o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if(\"function\"==typeof
+        __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return
+        r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var
+        o,i=t(\"ee\"),a=t(15),s={};try{o=localStorage.getItem(\"__nr_flags\").split(\",\"),console&&\"function\"==typeof
+        console.log&&(s.console=!0,o.indexOf(\"dev\")!==-1&&(s.dev=!0),o.indexOf(\"nr_dev\")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on(\"internal-error\",function(t){r(t.stack)}),s.dev&&i.on(\"fn-err\",function(t,n,e){r(e.stack)}),s.dev&&(r(\"NR
+        AGENT IN DEVELOPMENT MODE\"),r(\"flags: \"+a(s,function(t,n){return t}).join(\",
+        \")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i(\"ierr\",[f,c.now(),!0])}catch(d){}}return\"function\"==typeof
+        u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||\"Uncaught
+        error with no additional information\",this.sourceURL=n,this.line=e}function
+        o(t,n){var e=n?null:c.now();i(\"err\",[t,e])}var i=t(\"handle\"),a=t(16),s=t(\"ee\"),c=t(\"loader\"),f=t(\"gos\"),u=window.onerror,d=!1,l=\"nr@seenError\",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw
+        new Error}catch(h){\"stack\"in h&&(t(8),t(7),\"addEventListener\"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on(\"fn-start\",function(t,n,e){d&&(p+=1)}),s.on(\"fn-err\",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on(\"fn-end\",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on(\"internal-error\",function(t){i(\"ierr\",[t,c.now(),!0])})},{}],3:[function(t,n,e){t(\"loader\").features.ins=!0},{}],4:[function(t,n,e){function
+        r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var
+        o=t(\"ee\"),i=t(\"handle\"),a=t(8),s=t(7),c=\"learResourceTimings\",f=\"addEventListener\",u=\"resourcetimingbufferfull\",d=\"bstResource\",l=\"resource\",p=\"-start\",h=\"-end\",m=\"fn\"+p,w=\"fn\"+h,v=\"bstTimer\",y=\"pushState\",g=t(\"loader\");g.features.stn=!0,t(6);var
+        b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var
+        e=t[0];e instanceof b&&i(\"bst\",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),\"requestAnimationFrame\"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i(\"bstHist\",[location.pathname+location.hash,this.startPath,this.time])}),f
+        in window.performance&&(window.performance[\"c\"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance[\"c\"+c]()},!1):window.performance[f](\"webkit\"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance[\"webkitC\"+c]()},!1)),document[f](\"scroll\",r,{passive:!0}),document[f](\"keypress\",r,!1),document[f](\"click\",r,!1)}},{}],5:[function(t,n,e){function
+        r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function
+        o(t){s.inPlace(t,[u,d],\"-\",i)}function i(t,n){return t[1]}var a=t(\"ee\").get(\"events\"),s=t(18)(a,!0),c=t(\"gos\"),f=XMLHttpRequest,u=\"addEventListener\",d=\"removeEventListener\";n.exports=a,\"getPrototypeOf\"in
+        Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+\"-start\",function(t,n){var
+        e=t[1],r=c(e,\"nr@wrapped\",function(){function t(){if(\"function\"==typeof
+        e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,\"function\":e}[typeof
+        e];return n?s(n,\"fn-\",null,n.name||\"anonymous\"):e});this.wrapped=t[1]=r}),a.on(d+\"-start\",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var
+        r=t(\"ee\").get(\"history\"),o=t(18)(r);n.exports=r,o.inPlace(window.history,[\"pushState\",\"replaceState\"],\"-\")},{}],7:[function(t,n,e){var
+        r=t(\"ee\").get(\"raf\"),o=t(18)(r),i=\"equestAnimationFrame\";n.exports=r,o.inPlace(window,[\"r\"+i,\"mozR\"+i,\"webkitR\"+i,\"msR\"+i],\"raf-\"),r.on(\"raf-start\",function(t){t[0]=o(t[0],\"fn-\")})},{}],8:[function(t,n,e){function
+        r(t,n,e){t[0]=a(t[0],\"fn-\",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],\"fn-\",this,e)}var
+        i=t(\"ee\").get(\"timer\"),a=t(18)(i),s=\"setTimeout\",c=\"setInterval\",f=\"clearTimeout\",u=\"-start\",d=\"-\";n.exports=i,a.inPlace(window,[s,\"setImmediate\"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,\"clearImmediate\"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function
+        r(t,n){d.inPlace(n,[\"onreadystatechange\"],\"fn-\",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit(\"xhr-resolved\",[],t)),d.inPlace(t,y,\"fn-\",s)}function
+        i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var
+        t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function
+        c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t(\"ee\"),u=f.get(\"xhr\"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v=\"readystatechange\",y=[\"onload\",\"onerror\",\"onabort\",\"onloadstart\",\"onloadend\",\"onprogress\",\"ontimeout\"],g=[];n.exports=u;var
+        b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit(\"new-xhr\",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit(\"internal-error\",[e])}catch(r){}}return
+        n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,[\"open\",\"send\"],\"-xhr-\",s),u.on(\"send-xhr-start\",function(t,n){r(t,n),i(n)}),u.on(\"open-xhr-start\",r),h){var
+        x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else
+        f.on(\"fn-end\",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function
+        r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var
+        r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var
+        i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader(\"X-NewRelic-App-Data\");c&&(n.cat=c.split(\",
+        \").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit(\"xhr-done\",[t],t),s(\"xhr\",[n,e,this.startTime])}}}function
+        o(t,n){var e=t.responseType;if(\"json\"===e&&null!==n)return n;var r=\"arraybuffer\"===e||\"blob\"===e||\"json\"===e?t.response:t.responseText;return
+        h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+\":\"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var
+        a=t(\"loader\");if(a.xhrWrappable){var s=t(\"handle\"),c=t(11),f=t(\"ee\"),u=[\"load\",\"error\",\"abort\",\"timeout\"],d=u.length,l=t(\"id\"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on(\"new-xhr\",function(t){var
+        n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener(\"progress\",function(t){n.lastSize=t.loaded},!1)}),f.on(\"open-xhr-start\",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on(\"open-xhr-end\",function(t,n){\"loader_config\"in
+        NREUM&&\"xpid\"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader(\"X-NewRelic-ID\",NREUM.loader_config.xpid)}),f.on(\"send-xhr-start\",function(t,n){var
+        e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{\"abort\"===t.type&&(o.params.aborted=!0),(\"load\"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||\"function\"!=typeof
+        n.onload))&&o.end(n)}catch(e){try{f.emit(\"internal-error\",[e])}catch(r){}}};for(var
+        s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on(\"xhr-cb-time\",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&\"function\"==typeof
+        e.onload||this.end(e)}),f.on(\"xhr-load-added\",function(t,n){var e=\"\"+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on(\"xhr-load-removed\",function(t,n){var
+        e=\"\"+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on(\"addEventListener-end\",function(t,n){n
+        instanceof m&&\"load\"===t[0]&&f.emit(\"xhr-load-added\",[t[1],t[2]],n)}),f.on(\"removeEventListener-end\",function(t,n){n
+        instanceof m&&\"load\"===t[0]&&f.emit(\"xhr-load-removed\",[t[1],t[2]],n)}),f.on(\"fn-start\",function(t,n,e){n
+        instanceof m&&(\"onload\"===e&&(this.onload=!0),(\"load\"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on(\"fn-end\",function(t,n){this.xhrCbStart&&f.emit(\"xhr-cb-time\",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var
+        n=document.createElement(\"a\"),e=window.location,r={};n.href=t,r.port=n.port;var
+        o=n.href.split(\"://\");!r.port&&o[1]&&(r.port=o[1].split(\"/\")[0].split(\"@\").pop().split(\":\")[1]),r.port&&\"0\"!==r.port||(r.port=\"https\"===o[0]?\"443\":\"80\"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],\"/\"!==r.pathname.charAt(0)&&(r.pathname=\"/\"+r.pathname);var
+        i=!n.protocol||\":\"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return
+        r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function
+        o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void
+        0:this}}var i=t(\"handle\"),a=t(15),s=t(16),c=t(\"ee\").get(\"tracer\"),f=t(\"loader\"),u=NREUM;\"undefined\"==typeof
+        window.newrelic&&(newrelic=u);var d=[\"setPageViewName\",\"setCustomAttribute\",\"setErrorHandler\",\"finished\",\"addToTrace\",\"inlineHit\",\"addRelease\"],l=\"api-\",p=l+\"ixn-\";a(d,function(t,n){u[n]=o(l+n,!0,\"api\")}),u.addPageAction=o(l+\"addPageAction\",!0),u.setCurrentRouteName=o(l+\"routeName\",!0),n.exports=newrelic,u.interaction=function(){return(new
+        r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o=\"function\"==typeof
+        n;return i(p+\"tracer\",[f.now(),t,e],r),function(){if(c.emit((o?\"\":\"no-\")+\"fn-start\",[f.now(),r,o],e),o)try{return
+        n.apply(this,arguments)}catch(t){throw c.emit(\"fn-err\",[arguments,this,t],e),t}finally{c.emit(\"fn-end\",[f.now()],e)}}}};a(\"setName,setAttribute,save,ignore,onEnd,getContext,end,get\".split(\",\"),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){\"string\"==typeof
+        t&&(t=new Error(t)),i(\"err\",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if(\"string\"==typeof
+        t&&t.length)return t.length;if(\"object\"==typeof t){if(\"undefined\"!=typeof
+        ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if(\"undefined\"!=typeof
+        Blob&&t instanceof Blob&&t.size)return t.size;if(!(\"undefined\"!=typeof FormData&&t
+        instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var
+        r=0,o=navigator.userAgent.match(/Firefox[\\/\\s](\\d+\\.\\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function
+        r(t,n){var e=[],r=\"\",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return
+        e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function
+        r(t,n,e){n||(n=0),\"undefined\"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return
+        i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:\"undefined\"!=typeof
+        window.performance&&window.performance.timing&&\"undefined\"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function
+        r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t(\"ee\"),i=t(16),a=\"nr@original\",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function
+        e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s=\"function\"==typeof
+        e?e(r,a):e||{}}catch(f){l([f,\"\",[r,a,o],s])}u(n+\"start\",[r,a,o],s);try{return
+        c=t.apply(a,r)}catch(d){throw u(n+\"err\",[r,a,d],s),d}finally{u(n+\"end\",[r,a,c],s)}}return
+        r(t)?t:(n||(n=\"\"),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o=\"\");var
+        a,s,c,f=\"-\"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function
+        u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function
+        d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return
+        e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return
+        t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return
+        n}function l(n){try{t.emit(\"internal-error\",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function
+        r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function
+        e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var
+        d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function
+        h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||\"feature\",y[e]=n,n
+        in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return
+        g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var
+        s=\"nr@context\",c=t(\"gos\"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function
+        r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return
+        Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return
+        t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function
+        r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t(\"ee\").get(\"handle\");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function
+        r(t){var n=typeof t;return!t||\"object\"!==n&&\"function\"!==n?-1:t===window?0:a(t,i,function(){return
+        o++})}var o=1,i=\"nr@id\",a=t(\"gos\");n.exports=r},{}],loader:[function(t,n,e){function
+        r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName(\"script\")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return
+        u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c(\"mark\",[\"onload\",a()+b.offset],null,\"api\");var
+        e=l.createElement(\"script\");e.src=\"https://\"+t.agent,n.parentNode.insertBefore(e,n)}}function
+        o(){\"complete\"===l.readyState&&i()}function i(){c(\"mark\",[\"domContent\",a()+b.offset],null,\"api\")}function
+        a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new
+        Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t(\"handle\"),f=t(15),u=t(\"ee\"),d=window,l=d.document,p=\"addEventListener\",h=\"attachEvent\",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var
+        v=\"\"+location,y={beacon:\"bam.nr-data.net\",errorBeacon:\"bam.nr-data.net\",agent:\"js-agent.newrelic.com/nr-1071.min.js\"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p](\"DOMContentLoaded\",i,!1),d[p](\"load\",r,!1)):(l[h](\"onreadystatechange\",o),d[h](\"onload\",r)),c(\"mark\",[\"firstbyte\",s],null,\"api\");var
+        x=0,E=t(17)},{}]},{},[\"loader\",2,10,4,3]);\n;NREUM.info={beacon:\"bam.nr-data.net\",errorBeacon:\"bam.nr-data.net\",licenseKey:\"fb79b04985\",applicationID:\"116575036\",sa:1}\n</script>\n\n<script
+        type=\"application/javascript\">\n  var clientIP=\"any\";\n  function getIP(json)
+        {\n\tclientIP = json.ip;\n  }\n</script>\n\n<script type=\"application/javascript\"
+        src=\"https://api.ipify.org?format=jsonp&callback=getIP\"></script>\n\n<script
+        type=\"text/plain\" class=\"optanon-category-C0002\">\n\tnewrelic.setCustomAttribute('ip_address',
+        clientIP);\n</script>\n\t\n\t<script src=\"/js/libs/modernizr-respond.js\"></script>\n\t<script
+        src=\"/js/functions.js\"></script>\n\t<script src=\"/js/popups.js\"></script>\n\t<script
+        src=\"/js/jquery.js\"></script>\n\t<script src=\"/js/jquery-ui.js\"></script>\n\t<script
+        src=\"/js/bwjsapi.js\"></script>\n<script>bazadebezolkohpepadr=\"2065819993\"</script><script
+        type=\"text/javascript\" src=\"https://www.businesswire.com/akam/11/7b21eb21\"
+        defer></script></head>\n<body id=\"bw-container\">\n\t<!-- Google Tag Manager
+        -->\n\n    <noscript>\n        <iframe data-src=\"https://www.googletagmanager.com/ns.html?id=GTM-T4KGVRR\"
+        class=\"optanon-category-C0002\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\">\n
+        \       </iframe>\n    </noscript>\n\n<!-- End Google Tag Manager -->\n\n\n\t<header
+        role=\"banner\">\n\t\t<div>\n\t\t\t<a href=\"http://www.businesswire.com/\"><img
+        id=\"bw-home-link\" src=\"/images/bwlogo_extreme.png\" title=\"\" alt=\"Business
+        Wire\" /></a>\n\t\t</div>\n\t</header>\n\n\t<div id=\"bw-main\" role=\"main\"
+        class=\"bw-news-main\">\n\t\t<div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+        \n\n<div class=\"bw-group-portlets\" id=\"bw-group-1\">\n\n\t\t\t<div class=\"moduleContainer\">\n\n
+        \   \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n<div class=\"chrome\" id=\"portlet51e19e08b5c0d441ef0130f5c6908a0c-c87e10dcd9f00b4498340be47a808a0c-ccf123a93466ea4c882a06a9149550fd\">
+        <!--  BW Portlet Chrome: Default portlet chrome for BW NewsRenderer: ALL NEWS:
+        By Date portlet - start  -->\n\n<h1>All News</h1>\n<div class=\"chromeContent\">\n\n\t\n\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<script
+        type=\"text/javascript\">\n//<![CDATA[\nfunction reload() {\n    window.location.reload();\n}\n//]]>\n</script>\n<script
+        type=\"text/javascript\">\n\tjQuery(document).ready(function(){\n\t\tjQuery('span[id*=\"hyde_mkup\"]').hide();
+        //hide all span whose id contains \"hyde_mkup\"\n\t});\n</script>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div
+        id=\"headlinesHead\">\n\n\n\t\n\t\n<div id=\"headlinesDate\">\n\n\n\t\tToday
+        is March 01, 2021.\n\t\t\n\t\tAll times in Eastern Time.\n</div>\n\t\n\n\n</div>
+        \n\n\n\n\n\n\n\n\n\n\n<div id=\"headlines\">\n\n\n\n\t\n\t\n\t\t\n\t\t\n\t\t\t<ul
+        class=\"bwNewsList\">\n\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005502/en/Advent-Technologies-Announces-Official-Launch-of-Joint-Collaboration-With-U.S.-Department-of-Energy-for-Next-Generation-Fuel-Cell-Technology\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005502/en/Advent-Technologies-Announces-Official-Launch-of-Joint-Collaboration-With-U.S.-Department-of-Energy-for-Next-Generation-Fuel-Cell-Technology\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\t<a  href=\"/news/home/20210301005502/en/Advent-Technologies-Announces-Official-Launch-of-Joint-Collaboration-With-U.S.-Department-of-Energy-for-Next-Generation-Fuel-Cell-Technology\"><img
+        src=\"https://mms.businesswire.com/media/20210301005502/en/862153/21/Advent_Logo.jpg\"
+        title=\"\" alt=\"View Press Release\" itemprop=\"thumbnailUrl\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div>
+        \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a class=\"bwTitleLink\"  href=\"/news/home/20210301005502/en/Advent-Technologies-Announces-Official-Launch-of-Joint-Collaboration-With-U.S.-Department-of-Energy-for-Next-Generation-Fuel-Cell-Technology\"><span
+        itemprop=\"headline\">Advent Technologies Announces Official Launch of Joint
+        Collaboration With U.S. Department of Energy for Next-Generation Fuel Cell
+        Technology</span></a> \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:36:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:36 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005502\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005659/en/Insights-on-the-Penetration-Testing-Global-Market-to-2027---Featuring-Acunetix-Checkmarx-and-IBM-Among-Others---ResearchAndMarkets.com\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005659/en/Insights-on-the-Penetration-Testing-Global-Market-to-2027---Featuring-Acunetix-Checkmarx-and-IBM-Among-Others---ResearchAndMarkets.com\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\t<a  href=\"/news/home/20210301005659/en/Insights-on-the-Penetration-Testing-Global-Market-to-2027---Featuring-Acunetix-Checkmarx-and-IBM-Among-Others---ResearchAndMarkets.com\"><img
+        src=\"https://mms.businesswire.com/media/20210301005659/en/371054/21/ResearchAndMarkets_800px.jpg\"
+        title=\"\" alt=\"View Press Release\" itemprop=\"thumbnailUrl\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div>
+        \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a class=\"bwTitleLink\"  href=\"/news/home/20210301005659/en/Insights-on-the-Penetration-Testing-Global-Market-to-2027---Featuring-Acunetix-Checkmarx-and-IBM-Among-Others---ResearchAndMarkets.com\"><span
+        itemprop=\"headline\">Insights on the Penetration Testing Global Market to
+        2027 - Featuring Acunetix, Checkmarx and IBM Among Others - ResearchAndMarkets.com</span></a>
+        \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:35:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:35 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005659\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005658/en/UK-Regulatory-Announcement-Net-Asset-Value-s\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005658/en/UK-Regulatory-Announcement-Net-Asset-Value-s\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div> \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a
+        class=\"bwTitleLink\"  href=\"/news/home/20210301005658/en/UK-Regulatory-Announcement-Net-Asset-Value-s\"><span
+        itemprop=\"headline\">UK Regulatory Announcement: Net Asset Value(s)</span></a>
+        \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:35:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:35 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005658\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005657/en/UK-Regulatory-Announcement-Net-Asset-Value-s\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005657/en/UK-Regulatory-Announcement-Net-Asset-Value-s\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div> \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a
+        class=\"bwTitleLink\"  href=\"/news/home/20210301005657/en/UK-Regulatory-Announcement-Net-Asset-Value-s\"><span
+        itemprop=\"headline\">UK Regulatory Announcement: Net Asset Value(s)</span></a>
+        \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:34:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:34 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005657\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005656/en/Global-1143-Billion-Iron-and-Steel-Mills-and-Ferroalloy-Markets-2015-2020-2020-2025F-2030F---ResearchAndMarkets.com\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005656/en/Global-1143-Billion-Iron-and-Steel-Mills-and-Ferroalloy-Markets-2015-2020-2020-2025F-2030F---ResearchAndMarkets.com\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\t<a  href=\"/news/home/20210301005656/en/Global-1143-Billion-Iron-and-Steel-Mills-and-Ferroalloy-Markets-2015-2020-2020-2025F-2030F---ResearchAndMarkets.com\"><img
+        src=\"https://mms.businesswire.com/media/20210301005656/en/371054/21/ResearchAndMarkets_800px.jpg\"
+        title=\"\" alt=\"View Press Release\" itemprop=\"thumbnailUrl\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div>
+        \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a class=\"bwTitleLink\"  href=\"/news/home/20210301005656/en/Global-1143-Billion-Iron-and-Steel-Mills-and-Ferroalloy-Markets-2015-2020-2020-2025F-2030F---ResearchAndMarkets.com\"><span
+        itemprop=\"headline\">Global $1143 Billion Iron and Steel Mills and Ferroalloy
+        Markets, 2015-2020, 2020-2025F, 2030F - ResearchAndMarkets.com</span></a>
+        \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:33:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:33 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005656\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005654/en/NPR-Announces-2021-How-I-Built-This-Fellowship-Application\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005654/en/NPR-Announces-2021-How-I-Built-This-Fellowship-Application\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\t<a  href=\"/news/home/20210301005654/en/NPR-Announces-2021-How-I-Built-This-Fellowship-Application\"><img
+        src=\"https://mms.businesswire.com/media/20210301005654/en/862242/21/HIBT_Fellowship_Logo_black.jpg\"
+        title=\"\" alt=\"View Press Release\" itemprop=\"thumbnailUrl\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div>
+        \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a class=\"bwTitleLink\"  href=\"/news/home/20210301005654/en/NPR-Announces-2021-How-I-Built-This-Fellowship-Application\"><span
+        itemprop=\"headline\">NPR Announces 2021 How I Built This Fellowship Application</span></a>
+        \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:33:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:33 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005654\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005652/en/Global-Pharmacovigilance-Market-2020-to-2028---Impact-Analysis-of-COVID-19-on-Growth-Opportunities---ResearchAndMarkets.com\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005652/en/Global-Pharmacovigilance-Market-2020-to-2028---Impact-Analysis-of-COVID-19-on-Growth-Opportunities---ResearchAndMarkets.com\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\t<a  href=\"/news/home/20210301005652/en/Global-Pharmacovigilance-Market-2020-to-2028---Impact-Analysis-of-COVID-19-on-Growth-Opportunities---ResearchAndMarkets.com\"><img
+        src=\"https://mms.businesswire.com/media/20210301005652/en/862200/21/ResearchAndMarkets_800px.jpg\"
+        title=\"\" alt=\"View Press Release\" itemprop=\"thumbnailUrl\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div>
+        \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a class=\"bwTitleLink\"  href=\"/news/home/20210301005652/en/Global-Pharmacovigilance-Market-2020-to-2028---Impact-Analysis-of-COVID-19-on-Growth-Opportunities---ResearchAndMarkets.com\"><span
+        itemprop=\"headline\">Global Pharmacovigilance Market (2020 to 2028) - Impact
+        Analysis of COVID-19 on Growth Opportunities - ResearchAndMarkets.com</span></a>
+        \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:32:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:32 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005652\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005653/en/Everbridge-Announces-Next-Generation-of-Mobile-App-for-Organizations-to-Manage-the-Full-Lifecycle-of-a-Critical-Event-from-a-Device\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005653/en/Everbridge-Announces-Next-Generation-of-Mobile-App-for-Organizations-to-Manage-the-Full-Lifecycle-of-a-Critical-Event-from-a-Device\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\t<a  href=\"/news/home/20210301005653/en/Everbridge-Announces-Next-Generation-of-Mobile-App-for-Organizations-to-Manage-the-Full-Lifecycle-of-a-Critical-Event-from-a-Device\"><img
+        src=\"https://mms.businesswire.com/media/20210301005653/en/862210/21/4496588_Yahoo-Finance-PR-Everbridge-Logo---640x360.jpg\"
+        title=\"\" alt=\"View Press Release\" itemprop=\"thumbnailUrl\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a
+        \ href=\"/news/home/20210301005653/en/Everbridge-Announces-Next-Generation-of-Mobile-App-for-Organizations-to-Manage-the-Full-Lifecycle-of-a-Critical-Event-from-a-Device\"><img
+        src=\"https://mms.businesswire.com/media/20210301005653/en/862205/21/ManageBridge-App-1920x1080.jpg\"
+        title=\"\" alt=\"View Press Release\"  /></a>\n\t\t\t\t\t\n\t\t\t\t\t</div>
+        \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a class=\"bwTitleLink\"  href=\"/news/home/20210301005653/en/Everbridge-Announces-Next-Generation-of-Mobile-App-for-Organizations-to-Manage-the-Full-Lifecycle-of-a-Critical-Event-from-a-Device\"><span
+        itemprop=\"headline\">Everbridge Announces Next Generation of Mobile App for
+        Organizations to Manage the Full Lifecycle of a Critical Event from a Device</span></a>
+        \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:32:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:32 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t<div
+        class=\"bwAssets\">\n\t\t\t\t\t\t\t<img src=\"/images/icons/icon_photo.gif\"
+        alt=\"Photo\" title=\"Photo\" />\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005653\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005041/en/Preventative-Wellness-Startup-Reperio-Health-Nets-6-Million-in-Seed-Funding-to-Expand-Proactive-Health-Monitoring\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005041/en/Preventative-Wellness-Startup-Reperio-Health-Nets-6-Million-in-Seed-Funding-to-Expand-Proactive-Health-Monitoring\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div> \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a
+        class=\"bwTitleLink\"  href=\"/news/home/20210301005041/en/Preventative-Wellness-Startup-Reperio-Health-Nets-6-Million-in-Seed-Funding-to-Expand-Proactive-Health-Monitoring\"><span
+        itemprop=\"headline\">Preventative Wellness Startup Reperio Health Nets $6
+        Million in Seed Funding to Expand Proactive Health Monitoring</span></a> \n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time
+        itemprop=\"dateModified\" datetime=\"2021-03-01T10:32:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:32 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005041\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005650/en/Two-Day-Online-Seminar-Ensuring-Compliance-with-Advertising-and-Promotional-Requirements-for-Drugs-and-Medical-Devices---March-18-19-2021---ResearchAndMarkets.com\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005650/en/Two-Day-Online-Seminar-Ensuring-Compliance-with-Advertising-and-Promotional-Requirements-for-Drugs-and-Medical-Devices---March-18-19-2021---ResearchAndMarkets.com\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\t<a  href=\"/news/home/20210301005650/en/Two-Day-Online-Seminar-Ensuring-Compliance-with-Advertising-and-Promotional-Requirements-for-Drugs-and-Medical-Devices---March-18-19-2021---ResearchAndMarkets.com\"><img
+        src=\"https://mms.businesswire.com/media/20210301005650/en/371054/21/ResearchAndMarkets_800px.jpg\"
+        title=\"\" alt=\"View Press Release\" itemprop=\"thumbnailUrl\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div>
+        \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a class=\"bwTitleLink\"  href=\"/news/home/20210301005650/en/Two-Day-Online-Seminar-Ensuring-Compliance-with-Advertising-and-Promotional-Requirements-for-Drugs-and-Medical-Devices---March-18-19-2021---ResearchAndMarkets.com\"><span
+        itemprop=\"headline\">Two Day Online Seminar: Ensuring Compliance with Advertising
+        and Promotional Requirements for Drugs and Medical Devices - March 18-19,
+        2021 - ResearchAndMarkets.com</span></a> \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\">
+        \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time
+        itemprop=\"dateModified\" datetime=\"2021-03-01T10:31:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:31 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005650\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005651/fr\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005651/fr\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\t<a  href=\"/news/home/20210301005651/fr\"><img
+        src=\"https://mms.businesswire.com/media/20210301005651/fr/862209/21/2863221_Domtar_logo.jpg\"
+        title=\"\" alt=\"View Press Release\" itemprop=\"thumbnailUrl\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a
+        \ href=\"/news/home/20210301005651/fr\"><img src=\"https://mms.businesswire.com/media/20210301005651/fr/862206/21/520bourney_close_PRvEN4_FR-1.jpg\"
+        title=\"\" alt=\"View Press Release\"  /></a>\n\t\t\t\t\t\n\t\t\t\t\t</div>
+        \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a class=\"bwTitleLink\"  href=\"/news/home/20210301005651/fr\"><span
+        itemprop=\"headline\">DOMTAR CORPORATION FINALISE LA VENTE DE SON SECTEUR
+        DES SOINS PERSONNELS</span></a> \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\">
+        \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time
+        itemprop=\"dateModified\" datetime=\"2021-03-01T10:31:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:31 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t<div
+        class=\"bwAssets\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<img
+        src=\"/images/icons/icon_document.gif\" alt=\"Document\" title=\"Document\"
+        />\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005651\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005593/en/EMASS-Senior-Softball-League-Opens-Registration-for-2021-Season\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005593/en/EMASS-Senior-Softball-League-Opens-Registration-for-2021-Season\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\t<a  href=\"/news/home/20210301005593/en/EMASS-Senior-Softball-League-Opens-Registration-for-2021-Season\"><img
+        src=\"https://mms.businesswire.com/media/20210301005593/en/705954/21/EMASS_Logo.jpg\"
+        title=\"\" alt=\"View Press Release\" itemprop=\"thumbnailUrl\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div>
+        \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a class=\"bwTitleLink\"  href=\"/news/home/20210301005593/en/EMASS-Senior-Softball-League-Opens-Registration-for-2021-Season\"><span
+        itemprop=\"headline\">EMASS Senior Softball League Opens Registration for
+        2021 Season</span></a> \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:30:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:30 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005593\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005649/en/Domtar-Corporation-Completes-Sale-of-Personal-Care-Business\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005649/en/Domtar-Corporation-Completes-Sale-of-Personal-Care-Business\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\t<a  href=\"/news/home/20210301005649/en/Domtar-Corporation-Completes-Sale-of-Personal-Care-Business\"><img
+        src=\"https://mms.businesswire.com/media/20210301005649/en/577358/21/Domtar_logo.jpg\"
+        title=\"\" alt=\"View Press Release\" itemprop=\"thumbnailUrl\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a
+        \ href=\"/news/home/20210301005649/en/Domtar-Corporation-Completes-Sale-of-Personal-Care-Business\"><img
+        src=\"https://mms.businesswire.com/media/20210301005649/en/862243/21/sqbJourney_close_PRvEN4-1.jpg\"
+        title=\"\" alt=\"View Press Release\"  /></a>\n\t\t\t\t\t\n\t\t\t\t\t</div>
+        \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a class=\"bwTitleLink\"  href=\"/news/home/20210301005649/en/Domtar-Corporation-Completes-Sale-of-Personal-Care-Business\"><span
+        itemprop=\"headline\">Domtar Corporation Completes Sale of Personal Care Business
+        </span></a> \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:30:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:30 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t<div
+        class=\"bwAssets\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<img
+        src=\"/images/icons/icon_document.gif\" alt=\"Document\" title=\"Document\"
+        />\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005649\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005010/en/Students-Invited-to-Get-A-Head-Start-on-College-and-Career-Goals-at-Destinations-Career-Academy-of-Colorado\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005010/en/Students-Invited-to-Get-A-Head-Start-on-College-and-Career-Goals-at-Destinations-Career-Academy-of-Colorado\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\t<a  href=\"/news/home/20210301005010/en/Students-Invited-to-Get-A-Head-Start-on-College-and-Career-Goals-at-Destinations-Career-Academy-of-Colorado\"><img
+        src=\"https://mms.businesswire.com/media/20210301005010/en/860689/21/CODCA_PB-SK12_logo_4C.jpg\"
+        title=\"\" alt=\"View Press Release\" itemprop=\"thumbnailUrl\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div>
+        \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a class=\"bwTitleLink\"  href=\"/news/home/20210301005010/en/Students-Invited-to-Get-A-Head-Start-on-College-and-Career-Goals-at-Destinations-Career-Academy-of-Colorado\"><span
+        itemprop=\"headline\">Students Invited to Get A Head Start on College and
+        Career Goals at Destinations Career Academy of Colorado</span></a> \n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time
+        itemprop=\"dateModified\" datetime=\"2021-03-01T10:30:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:30 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005010\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005635/en/UK-Regulatory-Announcement-Block-listing-Interim-Review\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005635/en/UK-Regulatory-Announcement-Block-listing-Interim-Review\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div> \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a
+        class=\"bwTitleLink\"  href=\"/news/home/20210301005635/en/UK-Regulatory-Announcement-Block-listing-Interim-Review\"><span
+        itemprop=\"headline\">UK Regulatory Announcement: Block listing Interim Review</span></a>
+        \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:30:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:30 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005635\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005645/en/Global-Renewable-Methanol-Market-2021-2028---Shifting-Trend-Towards-Sustainable-Energy-Sources---ResearchAndMarkets.com\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005645/en/Global-Renewable-Methanol-Market-2021-2028---Shifting-Trend-Towards-Sustainable-Energy-Sources---ResearchAndMarkets.com\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\t<a  href=\"/news/home/20210301005645/en/Global-Renewable-Methanol-Market-2021-2028---Shifting-Trend-Towards-Sustainable-Energy-Sources---ResearchAndMarkets.com\"><img
+        src=\"https://mms.businesswire.com/media/20210301005645/en/371054/21/ResearchAndMarkets_800px.jpg\"
+        title=\"\" alt=\"View Press Release\" itemprop=\"thumbnailUrl\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div>
+        \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a class=\"bwTitleLink\"  href=\"/news/home/20210301005645/en/Global-Renewable-Methanol-Market-2021-2028---Shifting-Trend-Towards-Sustainable-Energy-Sources---ResearchAndMarkets.com\"><span
+        itemprop=\"headline\">Global Renewable Methanol Market 2021-2028 - Shifting
+        Trend Towards Sustainable Energy Sources - ResearchAndMarkets.com</span></a>
+        \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:24:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:24 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005645\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005643/en/Global-Network-Configuration-and-Change-Management-Industry-2020-to-2027---Market-Trajectory-Analytics---ResearchAndMarkets.com\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005643/en/Global-Network-Configuration-and-Change-Management-Industry-2020-to-2027---Market-Trajectory-Analytics---ResearchAndMarkets.com\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\t<a  href=\"/news/home/20210301005643/en/Global-Network-Configuration-and-Change-Management-Industry-2020-to-2027---Market-Trajectory-Analytics---ResearchAndMarkets.com\"><img
+        src=\"https://mms.businesswire.com/media/20210301005643/en/371054/21/ResearchAndMarkets_800px.jpg\"
+        title=\"\" alt=\"View Press Release\" itemprop=\"thumbnailUrl\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div>
+        \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a class=\"bwTitleLink\"  href=\"/news/home/20210301005643/en/Global-Network-Configuration-and-Change-Management-Industry-2020-to-2027---Market-Trajectory-Analytics---ResearchAndMarkets.com\"><span
+        itemprop=\"headline\">Global Network Configuration and Change Management Industry
+        (2020 to 2027) - Market Trajectory &amp; Analytics - ResearchAndMarkets.com</span></a>
+        \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:23:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:23 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005643\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005198/en/SIMON-Welcomes-Brighthouse-Financial-to-Annuities-Platform\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005198/en/SIMON-Welcomes-Brighthouse-Financial-to-Annuities-Platform\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\t<a  href=\"/news/home/20210301005198/en/SIMON-Welcomes-Brighthouse-Financial-to-Annuities-Platform\"><img
+        src=\"https://mms.businesswire.com/media/20210301005198/en/760884/21/SIMON_-_Blue.jpg\"
+        title=\"\" alt=\"View Press Release\" itemprop=\"thumbnailUrl\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div>
+        \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a class=\"bwTitleLink\"  href=\"/news/home/20210301005198/en/SIMON-Welcomes-Brighthouse-Financial-to-Annuities-Platform\"><span
+        itemprop=\"headline\">SIMON Welcomes Brighthouse Financial to Annuities Platform</span></a>
+        \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:23:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:23 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005198\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005218/en/Evenflo%C2%AE-Gold-Launches-Revolve360%E2%84%A2-a-Turning-Point-in-Car-Seat-Innovation\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005218/en/Evenflo%C2%AE-Gold-Launches-Revolve360%E2%84%A2-a-Turning-Point-in-Car-Seat-Innovation\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\t<a  href=\"/news/home/20210301005218/en/Evenflo%C2%AE-Gold-Launches-Revolve360%E2%84%A2-a-Turning-Point-in-Car-Seat-Innovation\"><img
+        src=\"https://mms.businesswire.com/media/20210301005218/en/861733/21/FINAL_-_Evenflo_Logo.jpg\"
+        title=\"\" alt=\"View Press Release\" itemprop=\"thumbnailUrl\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a
+        \ href=\"/news/home/20210301005218/en/Evenflo%C2%AE-Gold-Launches-Revolve360%E2%84%A2-a-Turning-Point-in-Car-Seat-Innovation\"><img
+        src=\"https://mms.businesswire.com/media/20210301005218/en/861735/21/sqvid.jpg\"
+        title=\"\" alt=\"View Press Release\"  /></a>\n\t\t\t\t\t\n\t\t\t\t\t</div>
+        \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a class=\"bwTitleLink\"  href=\"/news/home/20210301005218/en/Evenflo%C2%AE-Gold-Launches-Revolve360%E2%84%A2-a-Turning-Point-in-Car-Seat-Innovation\"><span
+        itemprop=\"headline\">Evenflo&reg; Gold Launches Revolve360&trade;, a Turning
+        Point in Car Seat Innovation</span></a> \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\">
+        \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time
+        itemprop=\"dateModified\" datetime=\"2021-03-01T10:19:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:19 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t\t<div
+        class=\"bwAssets\">\n\t\t\t\t\t\t\t<img src=\"/images/icons/icon_photo.gif\"
+        alt=\"Photo\" title=\"Photo\" />\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<img
+        src=\"/images/icons/icon_video.gif\" alt=\"Video\" title=\"Video\" />\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005218\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005640/en/World-Interactive-Kiosk-Market-Size-Share-Trends-Analysis-2021-2028-Focus-on-Customized-Service-Delivery-by-Major-Industry-Players---ResearchAndMarkets.com\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005640/en/World-Interactive-Kiosk-Market-Size-Share-Trends-Analysis-2021-2028-Focus-on-Customized-Service-Delivery-by-Major-Industry-Players---ResearchAndMarkets.com\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\t<a  href=\"/news/home/20210301005640/en/World-Interactive-Kiosk-Market-Size-Share-Trends-Analysis-2021-2028-Focus-on-Customized-Service-Delivery-by-Major-Industry-Players---ResearchAndMarkets.com\"><img
+        src=\"https://mms.businesswire.com/media/20210301005640/en/371054/21/ResearchAndMarkets_800px.jpg\"
+        title=\"\" alt=\"View Press Release\" itemprop=\"thumbnailUrl\" /></a>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div>
+        \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a class=\"bwTitleLink\"  href=\"/news/home/20210301005640/en/World-Interactive-Kiosk-Market-Size-Share-Trends-Analysis-2021-2028-Focus-on-Customized-Service-Delivery-by-Major-Industry-Players---ResearchAndMarkets.com\"><span
+        itemprop=\"headline\">World Interactive Kiosk Market Size, Share &amp; Trends
+        Analysis, 2021-2028: Focus on Customized Service Delivery by Major Industry
+        Players - ResearchAndMarkets.com</span></a> \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\">
+        \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time
+        itemprop=\"dateModified\" datetime=\"2021-03-01T10:16:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:16 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005640\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005443/en/UK-Regulatory-Announcement-Form-8.3---Applegreen-plc\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005443/en/UK-Regulatory-Announcement-Form-8.3---Applegreen-plc\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div> \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a
+        class=\"bwTitleLink\"  href=\"/news/home/20210301005443/en/UK-Regulatory-Announcement-Form-8.3---Applegreen-plc\"><span
+        itemprop=\"headline\">UK Regulatory Announcement: Form 8.3 - Applegreen plc</span></a>
+        \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:15:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:15 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005443\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005447/en/UK-Regulatory-Announcement-Form-8.3---Scapa-Group-plc\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005447/en/UK-Regulatory-Announcement-Form-8.3---Scapa-Group-plc\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div> \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a
+        class=\"bwTitleLink\"  href=\"/news/home/20210301005447/en/UK-Regulatory-Announcement-Form-8.3---Scapa-Group-plc\"><span
+        itemprop=\"headline\">UK Regulatory Announcement: Form 8.3 - Scapa Group plc</span></a>
+        \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:15:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:15 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005447\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005501/en/UK-Regulatory-Announcement-Form-8.3---RSA-Insurance-Group-plc\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005501/en/UK-Regulatory-Announcement-Form-8.3---RSA-Insurance-Group-plc\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div> \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a
+        class=\"bwTitleLink\"  href=\"/news/home/20210301005501/en/UK-Regulatory-Announcement-Form-8.3---RSA-Insurance-Group-plc\"><span
+        itemprop=\"headline\">UK Regulatory Announcement: Form 8.3 - RSA Insurance
+        Group plc</span></a> \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:15:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:15 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005501\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005529/en/UK-Regulatory-Announcement-Form-8.3---Signature-Aviation-plc\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005529/en/UK-Regulatory-Announcement-Form-8.3---Signature-Aviation-plc\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div> \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a
+        class=\"bwTitleLink\"  href=\"/news/home/20210301005529/en/UK-Regulatory-Announcement-Form-8.3---Signature-Aviation-plc\"><span
+        itemprop=\"headline\">UK Regulatory Announcement: Form 8.3 - Signature Aviation
+        plc</span></a> \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:15:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:15 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005529\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\t<li>\n\t\t\t\t\t\n\t\t\t\t\t\t<div
+        itemscope=\"itemscope\" itemid=\"https://www.businesswire.com/news/home/20210301005441/en/UK-Regulatory-Announcement-Form-8.3---AA-plc\"
+        itemtype=\"http://schema.org/NewsArticle\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<meta
+        itemprop=\"url\" content=\"https://www.businesswire.com/news/home/20210301005441/en/UK-Regulatory-Announcement-Form-8.3---AA-plc\"/>\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<div
+        class=\"bwThumbs\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t</div> \n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<a
+        class=\"bwTitleLink\"  href=\"/news/home/20210301005441/en/UK-Regulatory-Announcement-Form-8.3---AA-plc\"><span
+        itemprop=\"headline\">UK Regulatory Announcement: Form 8.3 - AA plc</span></a>
+        \n\t\t\t\t\t\n\t\t\t\t\t<div class=\"bwMeta\"> \n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div
+        class=\"bwTimestamp\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<time itemprop=\"dateModified\"
+        datetime=\"2021-03-01T10:15:00Z\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t03/01/2021
+        - 10:15 AM\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\n\t\t\t\t\t</div>\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t<span
+        id=\"hyde_mkup_20210301005441\" itemprop=\"provider publisher copyrightHolder\"
+        itemscope=\"itemscope\" itemtype=\"http://schema.org/Organization\" itemid=\"https://www.businesswire.com\"><meta
+        itemprop=\"url\" content=\"https://www.businesswire.com\"/><span itemprop=\"name\">BUSINESS
+        WIRE</span></span>\n\t\t\t\t\t\n\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\n\t\t\t\t</li>\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t</ul>\n\t\t\n\t\n\n\n\t<div
+        id=\"paging\">\n\n\n\n\n\n\n\t<div class=\"pagingLinks\">\n\t\n\t\t\n\t\t<span>1</span>\n\t\t\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\t<a
+        href=\"/portal/site/home/template.PAGE/news/?javax.portlet.tpst=ccf123a93466ea4c882a06a9149550fd&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_viewID=MY_PORTAL_VIEW&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_ndmHsc=v2*A1612011600000*B1614613071176*DgroupByDate*G2*N1000003&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken\">2</a>\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\t<a
+        href=\"/portal/site/home/template.PAGE/news/?javax.portlet.tpst=ccf123a93466ea4c882a06a9149550fd&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_viewID=MY_PORTAL_VIEW&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_ndmHsc=v2*A1612011600000*B1614613071176*DgroupByDate*G3*N1000003&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken\">3</a>\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\t<a
+        href=\"/portal/site/home/template.PAGE/news/?javax.portlet.tpst=ccf123a93466ea4c882a06a9149550fd&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_viewID=MY_PORTAL_VIEW&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_ndmHsc=v2*A1612011600000*B1614613071176*DgroupByDate*G4*N1000003&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken\">4</a>\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\t<a
+        href=\"/portal/site/home/template.PAGE/news/?javax.portlet.tpst=ccf123a93466ea4c882a06a9149550fd&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_viewID=MY_PORTAL_VIEW&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_ndmHsc=v2*A1612011600000*B1614613071176*DgroupByDate*G5*N1000003&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken\">5</a>\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\t<a
+        href=\"/portal/site/home/template.PAGE/news/?javax.portlet.tpst=ccf123a93466ea4c882a06a9149550fd&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_viewID=MY_PORTAL_VIEW&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_ndmHsc=v2*A1612011600000*B1614613071176*DgroupByDate*G6*N1000003&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken\">6</a>\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\t<a
+        href=\"/portal/site/home/template.PAGE/news/?javax.portlet.tpst=ccf123a93466ea4c882a06a9149550fd&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_viewID=MY_PORTAL_VIEW&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_ndmHsc=v2*A1612011600000*B1614613071176*DgroupByDate*G7*N1000003&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken\">7</a>\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\t<a
+        href=\"/portal/site/home/template.PAGE/news/?javax.portlet.tpst=ccf123a93466ea4c882a06a9149550fd&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_viewID=MY_PORTAL_VIEW&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_ndmHsc=v2*A1612011600000*B1614613071176*DgroupByDate*G8*N1000003&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken\">8</a>\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\t<a
+        href=\"/portal/site/home/template.PAGE/news/?javax.portlet.tpst=ccf123a93466ea4c882a06a9149550fd&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_viewID=MY_PORTAL_VIEW&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_ndmHsc=v2*A1612011600000*B1614613071176*DgroupByDate*G9*N1000003&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken\">9</a>\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\t<a
+        href=\"/portal/site/home/template.PAGE/news/?javax.portlet.tpst=ccf123a93466ea4c882a06a9149550fd&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_viewID=MY_PORTAL_VIEW&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_ndmHsc=v2*A1612011600000*B1614613071176*DgroupByDate*G10*N1000003&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken\">10</a>\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\t<a
+        href=\"/portal/site/home/template.PAGE/news/?javax.portlet.tpst=ccf123a93466ea4c882a06a9149550fd&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_viewID=MY_PORTAL_VIEW&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_ndmHsc=v2*A1612011600000*B1614613071176*DgroupByDate*G11*N1000003&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken\">11</a>\n\t\t\n\t\t\n\t\n\t\t\n\t\t\n\t\t\n\t\t
+        \   ...\n\t\t\n\t\n\t\t\n\t\t\n\t\t<a href=\"/portal/site/home/template.PAGE/news/?javax.portlet.tpst=ccf123a93466ea4c882a06a9149550fd&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_viewID=MY_PORTAL_VIEW&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_ndmHsc=v2*A1612011600000*B1614613071176*DgroupByDate*G730*N1000003&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken\">730</a>\n\t\t\n\t\t\n\t\n\t</div>\n\t<div>\n\t<div
+        class=\"pagingPrev\">\n\t\n</div>\n\t<div class=\"pagingNext\">\n\t\n\t\t<a
+        href=\"/portal/site/home/template.PAGE/news/?javax.portlet.tpst=ccf123a93466ea4c882a06a9149550fd&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_viewID=MY_PORTAL_VIEW&javax.portlet.prp_ccf123a93466ea4c882a06a9149550fd_ndmHsc=v2*A1612011600000*B1614613071176*DgroupByDate*G2*N1000003&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken\">Next
+        &raquo;</a>\n\t\n  \t</div>\n</div>\n\n</div>\n\n\n</div>\n\n\n\n\n\n\t\n\t\n\n</div>
+        <!-- end .chromeContent -->\n\n</div> <!-- BW Portlet Chrome: Default portlet
+        chrome for BW NewsRenderer: ALL NEWS: By Date portlet - end -->\n\n\n\n\n\t\t\t</div>
+        <!-- end moduleContainer -->\n\t\n\n\n</div> <!-- end .bw-group-portlets -->\n\n<div
+        class=\"bw-group-portlets\" id=\"bw-group-2\">\n\n\t\t\t<div class=\"moduleContainer\">\n\n
+        \       \n\t\n\t  \n\t    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!--  Begin
+        Module Code -->\n\n\t\t<div class=\"epi\">\n\t\t    <table width=\"100%\"
+        border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n\n\t\t  <tr>\n\t\t\t\t<td
+        class=\"epi-font\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\r\n\r\n<aside class=\"bw-sidebar\">\r\n<h2>Hot
+        Topic</h2>\r\n<li><a href=\"/portal/site/home/news/topic/?vnsId=145492\">COVID-19</a></li>\r\n<li><a
+        href=\"/portal/site/home/news/topic/?vnsId=149197\">Racial Equality</a></li>\r\n</aside>\r\n\r\n\n\n\n\t\t\t\t\t\n\t\t\t\t</td>\n\t\t</tr>\n\n\t\t
+        \ <tr>\n\t\t\t\t<td class=\"epi-font\">\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t<!DOCTYPE
+        html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html>\r\n<head>\r\n</head>\r\n<body>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p><aside
+        class=\"bw-sidebar\">\r\n<h2>Trade Show News</h2>\r\n<ul>\r\n<li><a href=\"http://www.tradeshownews.com/events/game-developers-carnival-spring-2020/\">Game
+        Developers Carnival Spring 2020</a> <br />VIRTUAL EVENT</li>\r\n<li><a href=\"http://www.tradeshownews.com/events/AACR-Annual-Meeting-2020/\">AACR
+        Annual Meeting 2020</a> <br />VIRTUAL EVENT</li>\r\n<li><a href=\"http://www.tradeshownews.com/events/Red-Hat-Summit-2020/\">Red
+        Hat Summit 2020</a> <br />VIRTUAL EVENT</li>\r\n<li><a href=\"http://www.tradeshownews.com/events/2020-nab-show-express/\">2020
+        NAB Show Express</a> <br />VIRTUAL EVENT</li>\r\n<li><a href=\"http://www.tradeshownews.com/events/virtual-ea-connect-day-2020/\">Virtual
+        EA Connect Day 2020</a> <br />VIRTUAL EVENT</li>\r\n<li><a href=\"http://www.tradeshownews.com/events/2020-ASCO-Annual-Meeting/\">2020
+        ASCO Annual Meeting</a> <br />VIRTUAL EVENT</li>\r\n<li><a href=\"http://www.tradeshownews.com/events/bio-digital-2020/\">BIO
+        Digital 2020</a> <br />VIRTUAL EVENT</li>\r\n</ul>\r\n<div class=\"bw-more\"><a
+        href=\"http://www.tradeshownews.com/\">More Trade Show News</a></div>\r\n</aside></p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<noscript><img
+        src=\"https://www.businesswire.com/akam/11/pixel_7b21eb21?a=dD1kMjdjZWQ0YzhmMzFlZWU5NjRmZGE0YWY4MzVlOWMyNzZiNDIyZGQ1JmpzPW9mZg==\"
+        style=\"visibility: hidden; position: absolute; left: -999px; top: -999px;\"
+        /></noscript></body>\r\n</html>\n\n\n\t\t\t\t\t\n\t\t\t\t</td>\n\t\t</tr>\n\n\n\n\t\t
+        \   </table>\n\t\t</div>\n\n<!--  End Module Code  -->\n\n\n\t  \n\t  \n\t\n\n\n\t\t\t</div>
+        <!-- end moduleContainer -->\n\t\n\n\n</div> <!-- end .bw-group-portlets -->\n\n\n\n\n\n\t\t</div>\n\t</div>
+        <!-- end #bw-main -->\n\t<div id=\"bw-meta\">\n\t\t<div>\n\n\n\n\n\n\n\n\n\n\r\n\n\r\n\t\t\t<nav
+        id=\"bw-nav\" role=\"navigation\">\r\n\t\t\t\t<h2><span>Site Navigation</span></h2>\r\n\t\t\t\t<ul>\r\n\r\n\r\n\t\t\t\t\t<li
+        id=\"bw-nav-home\" class=\"bw-has-submenu \">\r\n\t\t\t\t\t\t<a href=\"/portal/site/home/my-business-wire/\"
+        ><span>Home</span></a>\r\n\t\t\t\t\t\t<ul>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"/portal/site/home/welcome/\" >Home</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"https://membership.businesswire.com/choose-country\" >Submit a Press
+        Release</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t</ul>\r\n\r\n\t\t\t\t\t</li>\r\n\t\t\t\t\t<li
+        class=\"\">\r\n\t\t\t\t\t\t<a href=\"https://services.businesswire.com/\"
+        target=\"6f3959bc821238e8c27d3cbc0d908a0c\"><span>Services</span></a>\r\n\t\t\t\t\t</li>\r\n\t\t\t\t\t<li
+        class=\"bw-has-submenu bw-current\">\r\n\t\t\t\t\t\t<a href=\"/portal/site/home/news/\"
+        ><span>News</span></a>\r\n\t\t\t\t\t\t<ul>\r\n\t\t\t\t\t\t\t<li class=\"bw-current\">\r\n\t\t\t\t\t\t\t\t<a
+        href=\"/portal/site/home/news/\" >All News</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"/portal/site/home/news/multimedia/\" >News with Multimedia</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"/portal/site/home/news/industries/\" >News by Industry</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"/portal/site/home/news/subjects/\" >News by Subject</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"/portal/site/home/news/languages/\" >News by Language</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"/portal/site/home/events/\" >Tradeshows &amp; Events</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t</ul>\r\n\r\n\t\t\t\t\t</li>\r\n\t\t\t\t\t<li
+        class=\"bw-has-submenu \">\r\n\t\t\t\t\t\t<a href=\"https://services.businesswire.com/resources-education\"
+        ><span>Education</span></a>\r\n\t\t\t\t\t\t<ul>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"https://services.businesswire.com/resources-education\" >Overview</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"https://blog.businesswire.com/\" >Blog</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"https://services.businesswire.com/distribution-analytics/distribution-lists\"
+        >Distribution &amp; Media</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"https://services.businesswire.com/media-journalist-tools\" >Media &amp;
+        Journalist Tools</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"https://services.businesswire.com/resources-education/sample-press-release\"
+        >Sample Press Release</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"https://services.businesswire.com/find-your-news-online\" >Find Your
+        News Online</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"https://services.businesswire.com/resources-education/disclosure-resources\"
+        >Disclosure Resources</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t</ul>\r\n\r\n\t\t\t\t\t</li>\r\n\t\t\t\t\t<li
+        class=\"bw-has-submenu \">\r\n\t\t\t\t\t\t<a href=\"https://services.businesswire.com/about-us\"
+        ><span>About Us</span></a>\r\n\t\t\t\t\t\t<ul>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"https://services.businesswire.com/about-us\" >Overview</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"https://membership.businesswire.com/sign-up\" >Become a Member</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"https://services.businesswire.com/contact-us\" >Contact Us</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"https://services.businesswire.com/careers\" target=\"39845f720a9103096b7b5acddb808a0c\">Careers</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"https://newsroom.businesswire.com\" >Business Wire Newsroom</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t<li>\r\n\t\t\t\t\t\t\t\t<a
+        href=\"https://newsroom.businesswire.com/events\" >Business Wire Events</a>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t</ul>\r\n\r\n\t\t\t\t\t</li>\r\n\r\n\t\t\t\t</ul>\r\n\t\t\t</nav>\r\n\t\t\t<script
+        src=\"/js/nav.js\"></script>\n\r\n\r\n\r\n\r\n\r\n\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t\n\n\n\n\n\n\n\n\n<div
+        id=\"bw-search\" class=\"bw-search-site\">\n\t<div>\n\t\t<h2><span>Search</span></h2>\n\t\t<div
+        id=\"bw-search-container\" >\n\t\t\t<form id=\"bw-search-form\" name=\"bw-search-form\"
+        action=\"/portal/site/home/template.SINGLEPORTLET/action.process/news/?javax.portlet.action=true&currentTemplateID=PAGE&javax.portlet.tpst=503a8767054f0df6a9e77a100d908a0c&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken\"
+        method=\"post\">\n\t\t\t\t<fieldset>\n\t\t\t\t\t<div id=\"bw-search-options\">\n\t\t\t\t\t\t<a
+        id=\"bw-search-alt\" href=\"/portal/site/home/search?javax.portlet.tpst=503a8767054f0df6a9e77a100d908a0c&javax.portlet.pbp_503a8767054f0df6a9e77a100d908a0c_view=advancedSearch&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken\"
+        title=\"Advanced News Search\"><span>Advanced News Search</span></a>\n\t\t\t\t\t</div>\n\t\t\t\t\t<label
+        for=\"bw-search-input\">Advanced News Search</label>\n\t\t\t\t\t<input type=\"search\"
+        id=\"bw-search-input\" name=\"q\" maxlength=\"256\" value=\"\" title=\"Search
+        BusinessWire.com\" placeholder=\"Search\" />\n\t\t\t\t\t<input type=\"hidden\"
+        id=\"bw-search-type\" name=\"qSearchType\" value=\"all\" />\n\t\t\t\t\t<button
+        type=\"submit\" class=\"bw-button-primary\" id=\"bw-search-button\" title=\"Search\"><span><img
+        src=\"/images/icons/icon_search.gif\" alt=\"Search\" /></span></button> \t\n\n\t\t\t\t</fieldset>\n\t\t\t</form>\n\t\t</div>\n\t</div>\n</div>\n\n\n<script>\n\t//
+        Add search options toggle\n\t\n\t// **I18N STRINGS\n\tvar strAll = 'Search
+        All';\n\tvar strNews = 'Search News';\n\tvar strSite = 'Search Site';\n\tvar
+        strAdv = 'Advanced News Search';\n\tvar strOptions = 'Search Options';\n\n\t//
+        **define search action and advanced-search target\n\tvar strAdvLocation =
+        '/portal/site/home/search?javax.portlet.tpst=503a8767054f0df6a9e77a100d908a0c&javax.portlet.pbp_503a8767054f0df6a9e77a100d908a0c_view=advancedSearch&javax.portlet.begCacheTok=com.vignette.cachetoken&javax.portlet.endCacheTok=com.vignette.cachetoken';\n\n\tfunction
+        searchByUrl() {\n\t\twindow.location.href = '/portal/site/home/search/?searchType='
+        + $('#bw-search-type').val() + '&searchTerm=' + encodeURIComponent($('#bw-search-input').val())
+        + '&searchPage=1';\n\t\treturn false;\n\t}\n\t\n</script>\n<script src=\"/js/search.js\"
+        ></script>\r\n\t\t\t\t\r\n\t\t\t\r\n\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\r\n\r\n\r\n\r\n\r\n\n\r\n\r\n\t\t\t<div
+        id=\"bw-controls\" class=\"bw-controls-site\">\r\n\t\t\t\t<div id=\"bw-controls-container\">\t\r\n\r\n\t\t\t\t\t<ul>\r\n\t\t\t\t\t\t<li><a
+        href=\"/portal/site/home/template.LOGIN/\">Log In</a></li>\r\n\t\t\t\t\t\t<li><a
+        href=\"/portal/site/home/signup/\">Sign Up</a></li>\r\n\r\n\t\t\t\t\t</ul>\r\n\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<script
+        src=\"/js/controls.js\"></script>\n\t\t</div>\n\t</div><!-- end #bw-meta -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t<footer>\n\t\t<div
+        id=\"bw-footer-container\">\n\t\t\t<div id=\"footer-follow\">\n\t\t\t\t<h2><span>Follow
+        Us</span></h2>\n\t\t\t\t<ul>\n\t\t\t\t\t<li id=\"footer-follow-twitter\"><a
+        href=\"http://twitter.com/businesswire/\" class=\"bw-outbound\"><span>Twitter</span></a></li>\n\t\t\t\t\t<li
+        id=\"footer-follow-linkedin\"><a href=\"http://www.linkedin.com/companies/business-wire\"
+        class=\"bw-outbound\"><span>LinkedIn</span></a></li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div
+        id=\"footer-sites\">\n\t\t\t\t<h2><span>More from Business Wire</span></h2>\n\t\t\t\t<ul>\n\t\t\t\t\t<li><a
+        href=\"http://www.businesswire.com/blog\" class=\"bw-outbound\">Blog</a></li>\n\t\t\t\t\t<li><a
+        href=\"http://www.businesswire.co.uk/\" class=\"bw-outbound\">UK/Ireland</a></li>\n\t\t\t\t\t<li><a
+        href=\"http://www.businesswire.de/\" class=\"bw-outbound\">Deutschland</a></li>\n\t\t\t\t\t<li><a
+        href=\"http://www.businesswire.fr/\" class=\"bw-outbound\">France</a></li>\n\t\t\t\t\t<li><a
+        href=\"http://www.businesswire.hk/\" class=\"bw-outbound\">Hong Kong</a></li>\n\t\t\t\t\t<li><a
+        href=\"http://www.businesswire.it/\" class=\"bw-outbound\">Italy</a></li>\n\t\t\t\t\t<li><a
+        href=\"http://www.businesswire.jp/\" class=\"bw-outbound\">Japan</a></li>\n\t\t\t\t\t<li><a
+        href=\"http://www.tradeshownews.com/\">Tradeshownews.com</a></li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div
+        id=\"footer-info\" role=\"contentinfo\">\n\t\t\t\t<h2><span>Business Wire
+        Information</span></h2>\n\t\t\t\t<ul>\n\t\t\t\t\t<li><a href=\"http://newsroom.businesswire.com/contact\"
+        class=\"bw-outbound\">Contact Us</a></li>\n\t\t\t\t\t<li><a href=\"https://services.businesswire.com/uk-tax-strategy-page\"
+        target=\"_blank\" class=\"bw-outbound\">UK Tax Strategy</a></li>\n\t\t\t\t\t<li><a
+        href=\"https://services.businesswire.com/privacy\">Privacy</a></li>\n\t\t\t\t\t<li><a
+        href=\"#\" class=\"ot-sdk-show-settings\" text=\"Manage Cookies\">Manage Cookies</a></li>\n\t\t\t\t\t<li><a
+        href=\"/portal/site/home/terms-of-use/\">Terms of Use</a></li>\n\t\t\t\t\t<li><a
+        href=\"/portal/site/home/copyright/\">&copy; 2021 Business Wire, Inc.</a></li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\n
+        \   <!-- <div id=\"cookie-consent\">\n      <div class=\"container\">\n        <div
+        id=\"consentText\" class=\"cookieText\">\n          <span class=\"explainRequire\">This
+        site uses cookies. By continuing to browse this Business Wire site (and/or
+        any other Business Wire website), you accept the use of cookies.</span>\n
+        \         <a aria-label=\"learn more about cookies\" role=\"button\" tabindex=\"0\"
+        class=\"privacy-link\" href=\"/portal/site/home/privacy/\" target=\"_blank\">Learn
+        more</a>\n        </div>\n        <div id=\"consentButton\" class=\"compliance\"><a
+        aria-label=\"dismiss cookie message\" role=\"button\" tabindex=\"0\" class=\"cc-btn
+        cc-dismiss\">I agree</a></div>\n      </div>\n    </div> -->\n\n  </footer>\n
+        \ <!--[if lte IE 7]>\n    <script>\n      function hasBwBrowserCookie() {\n
+        \       var allCookies=document.cookie;\n        var thisCookiePos=allCookies.indexOf('bwBrowser=');\n
+        \       if (thisCookiePos != -1) return true;\n        return false;\n      }\n
+        \     var strUnsupported = 'To get the best possible experience using our
+        website we recommend that you upgrade to a newer version of Internet Explorer
+        or another web browser.';\n      if (!hasBwBrowserCookie()) {\n        alert(strUnsupported);\n
+        \       document.cookie='bwBrowser=lteIE7;path=/;domain=.businesswire.com';\n
+        \     }\n    </script>\n  <![endif]-->\n\n  <!-- <script src=\"/js/cookie-request.js\"></script>
+        -->\n  <!-- <script type=\"text/javascript\">\n    //Cookie Banner - EU regulations\n
+        \   $(function () {\n      //Name cookie\n      var cookieName = 'BWcookie';\n
+        \     //Read cookie\n      var cookieValue = getCookie(cookieName);\n      //Does
+        cookie already exist? If not, show banner\n      if (cookieValue === undefined)
+        {\n        $('#cookie-consent').prependTo('body').slideDown('slow');\n      }\n
+        \     // Create cookie\n      $('#consentButton').on('click', function ()
+        {\n        //creates cookie\n        setCookie(cookieName,'accept'); // 1
+        == Accept\n        //Hides cookie banner\n        $('#cookie-consent .container').stop().fadeOut('slow');\n
+        \       $('#cookie-consent').stop().slideToggle('slow');\n      });\n      function
+        setCookie(key, value) {\n        Cookies.set(key, value, {expires: 1825, path:
+        '/', domain: '.businesswire.com', secure: true});\n      }\n      function
+        getCookie(key) {\n        return Cookies.get(key);\n      }\n    });\n  </script>
+        -->\n\n\t<script>\n\t\t// Cancel hover menus for touch devices, then change
+        menu link to toggle the hover (but not if whole nav is toggled)\n\t\tvar hasTouch
+        = (\"ontouchstart\" in window);\n\t\tif ( hasTouch && jQuery('#bw-nav h2').css('display')=='none'
+        ) {\n\t\t\tnew BWNav(\"#bw-nav > ul\", \"#bw-nav > ul > li > a\").toggleMenus();\n\t\t};\n\t\t\n\t\t//
+        Track outbound links\n\t\tvar followLinks = jQuery('a.bw-outbound');\n\t\tfollowLinks.each(function()
+        {\n\t\t\tjQuery(this).click(function() {\n\t\t\t\tvar thisTrack = jQuery(this).attr('href');\n\t\t\t\t_gaq.push(['_trackEvent',
+        'Ads', 'Click', thisTrack]);\n\t\t\t});\n\t\t});\n\t</script>\n\t\n</body>\n</html>\n"
+    headers:
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Content-Security-Policy:
+      - frame-ancestors 'self'
+      - frame-ancestors 'self'
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Mon, 01 Mar 2021 15:38:02 GMT
+      Expires:
+      - Mon, 01 Mar 2021 15:38:02 GMT
+      Pragma:
+      - no-cache
+      Referrer-Policy:
+      - no-referrer-when-downgrade
+      Server:
+      - Apache
+      Set-Cookie:
+      - ak_bmsc=B77CEFDA5945298D8109497CE022EBBDB81975AE422600005A0A3D6044668C5B~plnNspi3cg6IsCbWlHK4/ZGekdKu8AqNmW7uiuKsg4Hk6BsHPRYNThvn7REXYG4LS79hmsJn810RXvzTqWd7ISSU/N7hKWVtkD+PkKASbhQ1zCCuq7lk1RpSR6aRLEeo6X66oze+S6VHm/+peGxrtanfemP0OXhdBp+frHED01gRGtyAYFYz3iWDDft6XlEYH76em+l1GJjbtLTXkMMTOMvF3CX2cKQ0p2b3DVhSyYHEQ=;
+        expires=Mon, 01 Mar 2021 17:38:02 GMT; max-age=7200; path=/; domain=.businesswire.com;
+        HttpOnly
+      - bm_mi=DAA830C1A3A30C55070BA6B3A4E3F1B5~Vxdt6roF93JzIHdq5TmaBlAshRC91CWE0uZLw3uFK4piOEaYPtx2ETj7hVoHnOeguYUaTQVdUtBqnisCWbjuWf5X8UUSWZR4P+csLu10aWg8ET5ekoaac0xrfqY78RS/OV23kIvhLWnWY/nsqwGRF+c64CAaDuTJr2e4hfsV/JVmmlVJtu2xabCEircg1QoVEWbjle4c2Pa4qBEqtkiry8zRbOmNNapbL79JrGWB98VuPw4w4c5r1H8rQWRKwAYOGfVLOaSVOKM2kS6Yy3KPbw==;
+        Domain=.businesswire.com; Path=/; Max-Age=0; HttpOnly
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubDomains
+      Vary:
+      - Accept-Encoding
+      X-Akamai-Transformed:
+      - 9 - 0 pmb=mTOE,2
+      X-Frame-Options:
+      - SAMEORIGIN
+      - SAMEORIGIN
+      content-length:
+      - '81625'
+      svr:
+      - '2'
+      x-xss-protection:
+      - 1; mode=block
+    status:
+      code: 200
+      message: OK
+version: 1

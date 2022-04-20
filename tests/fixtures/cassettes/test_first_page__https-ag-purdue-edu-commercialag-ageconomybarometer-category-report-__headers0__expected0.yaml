@@ -1,0 +1,529 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - ag.purdue.edu
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://ag.purdue.edu/commercialag/ageconomybarometer/category/report/
+  response:
+    body:
+      string: "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"\
+        http://www.w3.org/TR/html4/loose.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\"\
+        \ class=\"no-js\" lang=\"en\">\r\n<head>\r\n\r\n\r\n\r\n\r\n<meta content=\"\
+        text/html; charset=UTF-8\" http-equiv=\"Content-Type\"/>\r\n<meta charset=\"\
+        utf-8\"/>\r\n<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\"/>\r\n\
+        <meta content=\"width=device-width, user-scalable=no\" name=\"viewport\"/>\r\
+        \n<title>\r\nReports Archives | Ag Economy BarometerPurdue University Ag Economy\
+        \ Barometer\r\n\r\n</title>\r\n<link href=\"favicon.ico\" rel=\"shortcut icon\"\
+        /><script async=\"true\" src=\"https://www.purdue.edu/purdue/globals/js/modernizr-1.5.min.js\"\
+        \ type=\"text/javascript\">\r\n</script>\r\n<!-- Bootstrap core CSS -->\r\n\
+        <link href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/themes/child_theme/style.css\"\
+        \ rel=\"stylesheet\">\r\n\r\n<!-- HTML5 shim and Respond.js IE8 support of\
+        \ HTML5 elements and media queries -->\r\n<!--[if lt IE 9]>\r\n  <script src=\"\
+        js/html5shiv.js\"></script>\r\n  <script src=\"js/respond.min.js\"></script>\r\
+        \n<![endif]-->\r\n<script src=\"//www.purdue.edu/assets/globals/js/google_jquery_link_tracking.js\"\
+        \ type=\"text/javascript\"></script>\r\n<script type=\"text/javascript\">//\
+        \ <![CDATA[\r\nvar _gaq = _gaq || [];\r\n\r\n  // If you have your own Google\
+        \ Analytics account,\r\n  // change the account number in the line below to\
+        \ your account\r\n  // The number here is for the main Purdue analytics account\r\
+        \n  _gaq.push(['_setAccount', 'UA-2785081-1']);\r\n  _gaq.push(['_trackPageview']);\r\
+        \n\r\n  // If you're tracking to your own account above and would also like\
+        \ track page views\r\n  // to the main Purdue account, include the block of\
+        \ code below:\r\n\r\n  // If your site is not on www.purdue.edu, change \"\
+        yoursubdomain\" to your actual subdomain.\r\n  // For example, the admissions\
+        \ site would use 'admissions.purdue.edu' in the line below.\r\n  // _gaq.push(['b._setDomainName',\
+        \ 'yoursubdomain.purdue.edu']);\r\n\r\n  // Set the account on the secondary\
+        \ tracker to the main Purdue analytics account\r\n  // _gaq.push(['b._setAccount',\
+        \ 'UA-2785081-1']);\r\n  // _gaq.push(['b._trackPageview']);\r\n\r\n  // Load\
+        \ the Google Analytics asynchronous API\r\n  (function() {\r\n    var ga =\
+        \ document.createElement('script'); ga.type = 'text/javascript'; ga.async\
+        \ = true;\r\n    ga.src = ('https:' == document.location.protocol ? 'https://ssl'\
+        \ : 'http://www') + '.google-analytics.com/ga.js';\r\n    var s = document.getElementsByTagName('script')[0];\
+        \ s.parentNode.insertBefore(ga, s);\r\n  })();\r\n// ]]>\r\n</script>\r\n\t\
+        \t\t\t\t\r\n    \n<!-- Google Tag Manager for WordPress by gtm4wp.com -->\n\
+        <script data-cfasync=\"false\" data-pagespeed-no-defer>//<![CDATA[\n\tvar\
+        \ gtm4wp_datalayer_name = \"dataLayer\";\n\tvar dataLayer = dataLayer || [];\n\
+        //]]>\n</script>\n<!-- End Google Tag Manager for WordPress by gtm4wp.com\
+        \ -->\n\t<!-- This site is optimized with the Yoast SEO plugin v15.0 - https://yoast.com/wordpress/plugins/seo/\
+        \ -->\n\t<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large,\
+        \ max-video-preview:-1\" />\n\t<link rel=\"canonical\" href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/category/report/\"\
+        \ />\n\t<link rel=\"next\" href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/category/report/page/2/\"\
+        \ />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"\
+        og:type\" content=\"article\" />\n\t<meta property=\"og:title\" content=\"\
+        Reports Archives | Ag Economy Barometer\" />\n\t<meta property=\"og:description\"\
+        \ content=\"The reports of the Ag Economy Barometer on a month by month basis.\"\
+        \ />\n\t<meta property=\"og:url\" content=\"https://ag.purdue.edu/commercialag/ageconomybarometer/category/report/\"\
+        \ />\n\t<meta property=\"og:site_name\" content=\"Ag Economy Barometer\" />\n\
+        \t<meta name=\"twitter:card\" content=\"summary\" />\n\t<meta name=\"twitter:site\"\
+        \ content=\"@PUCommercialAg\" />\n\t<script type=\"application/ld+json\" class=\"\
+        yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"\
+        @type\":\"WebSite\",\"@id\":\"https://ag.purdue.edu/commercialag/ageconomybarometer/#website\"\
+        ,\"url\":\"https://ag.purdue.edu/commercialag/ageconomybarometer/\",\"name\"\
+        :\"Ag Economy Barometer\",\"description\":\"The Ag Economy Barometer is a\
+        \ partnership between Purdue University and the CME Group designed to assess\
+        \ the health of the agriculture economy.\",\"potentialAction\":[{\"@type\"\
+        :\"SearchAction\",\"target\":\"https://ag.purdue.edu/commercialag/ageconomybarometer/?s={search_term_string}\"\
+        ,\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"\
+        en-US\"},{\"@type\":\"CollectionPage\",\"@id\":\"https://ag.purdue.edu/commercialag/ageconomybarometer/category/report/#webpage\"\
+        ,\"url\":\"https://ag.purdue.edu/commercialag/ageconomybarometer/category/report/\"\
+        ,\"name\":\"Reports Archives | Ag Economy Barometer\",\"isPartOf\":{\"@id\"\
+        :\"https://ag.purdue.edu/commercialag/ageconomybarometer/#website\"},\"inLanguage\"\
+        :\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://ag.purdue.edu/commercialag/ageconomybarometer/category/report/\"\
+        ]}]}]}</script>\n\t<!-- / Yoast SEO plugin. -->\n\n\n<link rel='dns-prefetch'\
+        \ href='//fonts.googleapis.com' />\n<link rel='dns-prefetch' href='//s.w.org'\
+        \ />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Ag Economy\
+        \ Barometer &raquo; Reports Category Feed\" href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/category/report/feed/\"\
+        \ />\n\t\t<script type=\"text/javascript\">\n\t\t\twindow._wpemojiSettings\
+        \ = {\"baseUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/13.0.0\\\
+        /72x72\\/\",\"ext\":\".png\",\"svgUrl\":\"https:\\/\\/s.w.org\\/images\\/core\\\
+        /emoji\\/13.0.0\\/svg\\/\",\"svgExt\":\".svg\",\"source\":{\"concatemoji\"\
+        :\"https:\\/\\/ag.purdue.edu\\/commercialag\\/ageconomybarometer\\/wp-includes\\\
+        /js\\/wp-emoji-release.min.js?ver=5.5.1\"}};\n\t\t\t!function(e,a,t){var r,n,o,i,p=a.createElement(\"\
+        canvas\"),s=p.getContext&&p.getContext(\"2d\");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var\
+        \ r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function\
+        \ l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline=\"top\",s.font=\"\
+        600 32px Arial\",e){case\"flag\":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case\"\
+        emoji\":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function\
+        \ d(e){var t=a.createElement(\"script\");t.src=e,t.defer=t.type=\"text/javascript\"\
+        ,a.getElementsByTagName(\"head\")[0].appendChild(t)}for(i=Array(\"flag\",\"\
+        emoji\"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],\"\
+        flag\"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener(\"\
+        DOMContentLoaded\",n,!1),e.addEventListener(\"load\",n,!1)):(e.attachEvent(\"\
+        onload\",n),a.attachEvent(\"onreadystatechange\",function(){\"complete\"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);\n\
+        \t\t</script>\n\t\t<style type=\"text/css\">\nimg.wp-smiley,\nimg.emoji {\n\
+        \tdisplay: inline !important;\n\tborder: none !important;\n\tbox-shadow: none\
+        \ !important;\n\theight: 1em !important;\n\twidth: 1em !important;\n\tmargin:\
+        \ 0 .07em !important;\n\tvertical-align: -0.1em !important;\n\tbackground:\
+        \ none !important;\n\tpadding: 0 !important;\n}\n</style>\n\t<link rel='stylesheet'\
+        \ id='wp-block-library-css'  href='https://ag.purdue.edu/commercialag/ageconomybarometer/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='wpa-style-css'\
+        \  href='https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/plugins/wp-accessibility/css/wpa-style.css?ver=5.5.1'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='purdue2014-style-css'\
+        \  href='https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/themes/purdue2014/style.css?ver=5.5.1'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='child_theme-style-css'\
+        \  href='https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/themes/child_theme/style.css?ver=5.5.1'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='font-awesome-5-css'\
+        \  href='https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/plugins/bb-plugin/fonts/fontawesome/5.12.0/css/all.min.css?ver=2.3.1.1'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='font-awesome-css'\
+        \  href='https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/plugins/bb-plugin/fonts/fontawesome/5.12.0/css/v4-shims.min.css?ver=2.3.1.1'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='google-font-archivo-css'\
+        \  href='https://fonts.googleapis.com/css?family=Archivo+Black&#038;ver=5.5.1'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='bootstrap.min-css'\
+        \  href='https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/themes/child_theme/style.css?ver=5.5.1'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='msl-main-css'\
+        \  href='https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/plugins/master-slider/public/assets/css/masterslider.main.css?ver=3.6.4'\
+        \ type='text/css' media='all' />\n<link rel='stylesheet' id='authorizer-public-css-css'\
+        \  href='https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/plugins/authorizer/css/authorizer-public.css?ver=2.8.0'\
+        \ type='text/css' media='all' />\n<script type='text/javascript' src='https://ag.purdue.edu/commercialag/ageconomybarometer/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'\
+        \ id='jquery-core-js'></script>\n<script type='text/javascript' src='https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.11.5'\
+        \ id='gtm4wp-form-move-tracker-js'></script>\n<script type='text/javascript'\
+        \ src='https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/themes/purdue2014/js/bootstrap.min.js?ver=1'\
+        \ id='bootstrap.min-js'></script>\n<script type='text/javascript' id='auth_public_scripts-js-extra'>\n\
+        /* <![CDATA[ */\nvar auth = {\"wpLoginUrl\":\"https:\\/\\/ag.purdue.edu\\\
+        /commercialag\\/ageconomybarometer\\/wp-login.php?redirect_to=%2Fcommercialag%2Fageconomybarometer%2Fcategory%2Freport%2F\"\
+        ,\"publicWarning\":\"\",\"anonymousNotice\":\"<p>Notice: You are browsing\
+        \ this site anonymously, and only have access to a portion of its content.<\\\
+        /p>\",\"logIn\":\"Log In\"};\n/* ]]> */\n</script>\n<script type='text/javascript'\
+        \ src='https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/plugins/authorizer/js/authorizer-public.js?ver=2.8.0'\
+        \ id='auth_public_scripts-js'></script>\n<script type='text/javascript' src='https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.5.4'\
+        \ id='ga-external-tracking-js'></script>\n<link rel=\"https://api.w.org/\"\
+        \ href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/wp-json/\"\
+        \ /><link rel=\"alternate\" type=\"application/json\" href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/wp-json/wp/v2/categories/2\"\
+        \ /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"\
+        https://ag.purdue.edu/commercialag/ageconomybarometer/xmlrpc.php?rsd\" />\n\
+        <link rel=\"wlwmanifest\" type=\"application/wlwmanifest+xml\" href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/wp-includes/wlwmanifest.xml\"\
+        \ /> \n<meta name=\"generator\" content=\"WordPress 5.5.1\" />\n\t\t\t\t<style\
+        \ type=\"text/css\">\n\t\t\t\t\t@font-face { font-family:Purdue-Myriad-Pro;src:url(https://ag.purdue.edu/commercialag/home/wp-content/uploads/2019/06/MyriadPro-Regular.otf)\
+        \ format('opentype');font-display: auto;}@font-face { font-family:United Sans;src:url(https://www.purdue.edu/purdue/fonts/united-sans/UnitedSansRgBd.woff2)\
+        \ format('woff2');font-display: auto;}\t\t\t\t</style>\n\t\t\t\t<style>.ms-parent-id-4\
+        \ > .master-slider{ background:#000000; }\n.ms-parent-id-3 > .master-slider{\
+        \ background:#000000; }\n.ms-parent-id-2 > .master-slider{ background:#000000;\
+        \ }</style>\n<script>var ms_grabbing_curosr = 'https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/plugins/master-slider/public/assets/css/common/grabbing.cur',\
+        \ ms_grab_curosr = 'https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/plugins/master-slider/public/assets/css/common/grab.cur';</script>\n\
+        <meta name=\"generator\" content=\"MasterSlider 3.6.4 - Responsive Touch Image\
+        \ Slider | avt.li/msf\" />\n\n<!-- Google Tag Manager for WordPress by gtm4wp.com\
+        \ -->\n<script data-cfasync=\"false\" data-pagespeed-no-defer>//<![CDATA[\n\
+        \tvar dataLayer_content = {\"pagePostType\":\"post\",\"pagePostType2\":\"\
+        category-post\",\"pageCategory\":[\"report\"]};\n\tdataLayer.push( dataLayer_content\
+        \ );//]]>\n</script>\n<script data-cfasync=\"false\">//<![CDATA[\n(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n\
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n\
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);\n\
+        })(window,document,'script','dataLayer','GTM-T5DJVVJ');//]]>\n</script>\n\
+        <!-- End Google Tag Manager -->\n<!-- End Google Tag Manager for WordPress\
+        \ by gtm4wp.com --><link rel=\"icon\" href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/uploads/2019/05/cropped-final-logo-1-32x32.png\"\
+        \ sizes=\"32x32\" />\n<link rel=\"icon\" href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/uploads/2019/05/cropped-final-logo-1-192x192.png\"\
+        \ sizes=\"192x192\" />\n<link rel=\"apple-touch-icon\" href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/uploads/2019/05/cropped-final-logo-1-180x180.png\"\
+        \ />\n<meta name=\"msapplication-TileImage\" content=\"https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/uploads/2019/05/cropped-final-logo-1-270x270.png\"\
+        \ />\n<!-- Google Analytics Tracking by Google Analyticator 6.5.4: http://www.videousermanuals.com/google-analyticator/\
+        \ -->\n<script type=\"text/javascript\">\n    var analyticsFileTypes = [''];\n\
+        \    var analyticsSnippet = 'disabled';\n    var analyticsEventTracking =\
+        \ 'enabled';\n</script>\n<script type=\"text/javascript\">\n\t(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n\
+        \t(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n\
+        \tm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n\
+        \t})(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\
+        \tga('create', 'UA-77116741-1', 'auto');\n \n\tga('send', 'pageview');\n</script>\n\
+        </head>\r\n<body style=\"\">\r\n<div class=\"navbar navbar-inverse goldbar\"\
+        \ role=\"navigation\">\r\n  <div class=\"container\">\r\n  <div class=\"navbar-header\"\
+        >\r\n    <button class=\"navbar-toggle\" data-target=\".gold\" data-toggle=\"\
+        collapse\" type=\"button\"><span class=\"icon-bar\"></span> <span class=\"\
+        icon-bar\"></span> <span class=\"icon-bar\"></span></button>\r\n  </div>\r\
+        \n  <div class=\"collapse navbar-collapse gold\">\r\n    <ul class=\"nav navbar-nav\
+        \ navbar-right search\">\r\n      <li class=\"dropdown\"><a class=\"dropdown-toggle\"\
+        \ data-toggle=\"dropdown\" href=\"#\"><i class=\"fa fa-search fa-lg\"></i></a>\r\
+        \n        <ul class=\"dropdown-menu\">\r\n          <li>\r\n            <form\
+        \ role=\"search\">\r\n              <div class=\"form-group\">\r\n       \
+        \         <div id=\"cse-search-form\">\r\n                  <div class=\"\
+        gsc-control-searchbox-only gsc-control-searchbox-only-en\" dir=\"ltr\">\r\n\
+        \                    <form class=\"gsc-search-box\" accept-charset=\"utf-8\"\
+        ><table cellspacing=\"0\" cellpadding=\"0\" class=\"gsc-search-box\"><tbody><tr><td\
+        \ class=\"gsc-input\"><input autocomplete=\"off\" type=\"text\" size=\"10\"\
+        \ class=\" gsc-input\" name=\"search\" title=\"search\" id=\"gsc-i-id1\" dir=\"\
+        ltr\" spellcheck=\"false\" style=\"outline: none; background-image: url(http://www.google.com/cse/intl/en/images/google_custom_search_watermark.gif);\
+        \ background-color: rgb(255, 255, 255); background-position: 0% 50%; background-repeat:\
+        \ no-repeat no-repeat;\"><input type=\"hidden\" name=\"bgresponse\" id=\"\
+        bgresponse\"></td><td class=\"gsc-search-button\"><input type=\"button\" value=\"\
+        Search\" class=\"gsc-search-button\" title=\"search\"></td><td class=\"gsc-clear-button\"\
+        ><div class=\"gsc-clear-button\" title=\"clear results\">&nbsp;</div></td></tr></tbody></table><table\
+        \ cellspacing=\"0\" cellpadding=\"0\" class=\"gsc-branding\"><tbody><tr><td\
+        \ class=\"gsc-branding-user-defined\"></td><td class=\"gsc-branding-text\"\
+        ><div class=\"gsc-branding-text\">powered by</div></td><td class=\"gsc-branding-img\"\
+        ><img src=\"https://www.google.com/uds/css/small-logo.png\" class=\"gsc-branding-img\"\
+        ></td></tr></tbody></table></form>\r\n                  </div>\r\n       \
+        \         </div>\r\n                <script src=\"https://www.google.com/jsapi\"\
+        \ type=\"text/javascript\"></script>\r\n                <script type=\"text/javascript\"\
+        >// <![CDATA[\r\n                google.load('search', '1', {language: 'en',\
+        \ style: google.loader.themes.MINIMALIST});\r\n                google.setOnLoadCallback(function()\
+        \ {\r\n                  var customSearchOptions = {};\r\n               \
+        \   var orderByOptions = {};\r\n                  orderByOptions['keys'] =\
+        \ [{label: 'Relevance', key: ''} , {label: 'Date', key: 'date'}];\r\n    \
+        \              customSearchOptions['enableOrderBy'] = true;\r\n          \
+        \        customSearchOptions['orderByOptions'] = orderByOptions;\r\n     \
+        \             var customSearchControl =   new google.search.CustomSearchControl('017690826183710227054:mjxnqnpskjk',\
+        \ customSearchOptions);\r\n                  customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);\r\
+        \n                  var options = new google.search.DrawOptions();\r\n   \
+        \               options.enableSearchboxOnly('//www.purdue.edu/purdue/search.html',\
+        \ 'q');\r\n                  customSearchControl.draw('cse-search-form', options);\r\
+        \n                }, true);\r\n                // ]]>\r\n                </script><script\
+        \ src=\"https://www.google.com/uds/?file=search&amp;v=1&amp;hl=en&amp;style=%2F%2Fwww.google.com%2Fcse%2Fstyle%2Flook%2Fminimalist.css\"\
+        \ type=\"text/javascript\"></script><link href=\"https://www.google.com/uds/api/search/1.0/04703ddcb4427915c6a790783dcfaed7/default+en.css\"\
+        \ type=\"text/css\" rel=\"stylesheet\"><link href=\"//www.google.com/cse/style/look/minimalist.css\"\
+        \ type=\"text/css\" rel=\"stylesheet\"><script src=\"https://www.google.com/uds/api/search/1.0/04703ddcb4427915c6a790783dcfaed7/default+en.I.js\"\
+        \ type=\"text/javascript\"></script>\r\n              </div>\r\n         \
+        \   </form>\r\n          </li>\r\n        </ul>\r\n      </li>\r\n    </ul>\r\
+        \n    <ul class=\"nav navbar-nav information\">\r\n      <li class=\"dropdown\"\
+        ><a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">Find Info\
+        \ For <b class=\"caret\"></b></a>\r\n        <ul class=\"dropdown-menu\"><p\
+        \ class=\"hide\">Find Info For</p>\r\n          <li><a href=\"//www.purdue.edu/purdue/current_students/\"\
+        >Current Students</a></li>\r\n          <li><a href=\"//www.purdue.edu/purdue/prospective_students/\"\
+        >Prospective Students</a></li>\r\n          <li><a href=\"//www.purdue.edu/purdue/alumni/\"\
+        >Alumni &amp; Friends</a></li>\r\n          <li><a href=\"//www.purdue.edu/purdue/business/\"\
+        >Business with Purdue</a></li>\r\n          <li><a href=\"//www.purdue.edu/purdue/careers/\"\
+        >Careers</a></li>\r\n          <li><a href=\"//www.purdue.edu/purdue/research/\"\
+        >Research &amp; Partnerships</a></li>\r\n        </ul>\r\n      </li>\r\n\
+        \    </ul>\r\n    <ul class=\"nav navbar-nav right quicklinks\"><p class=\"\
+        hide\">Quick Links</p>\r\n      <li><a href=\"//www.purdue.edu/admissions/\"\
+        >Apply</a></li>\r\n      <li><a href=\"//www.purdue.edu/newsroom/\">News</a></li>\r\
+        \n      <li><a href=\"http://www.purdueofficialstore.com/\">Shop</a></li>\r\
+        \n      <li><a href=\"//www.purdue.edu/visit/\">Visit</a></li>\r\n      <li><a\
+        \ href=\"//www.purdue.edu/giving/\">Give</a></li>\r\n      <li><a href=\"\
+        //www.purdue.edu/ea\">Emergency</a></li>\r\n    </ul>\r\n  </div>\r\n  <!--/.nav-collapse\
+        \ -->\r\n  </div>\r\n</div>\r\n<div class=\"top\">\r\n<div class=\"container\"\
+        >\r\n<div class=\"row\">\r\n<div class=\"logo col-lg-3 col-md-3 col-sm-3 col-xs-12\"\
+        >\r\n  <a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer\"><img\
+        \ alt=\"Commercial Agriculture\" src=\"https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/themes/child_theme/cca.png\"\
+        /></a>\r\n</div>\r\n<div class=\"logo cme col-lg-3 col-md-3 col-sm-3 col-xs-12\"\
+        >\r\n  <a rel=\"nofollow\" href=\"http://www.cmegroup.com/\"><img alt=\"CME\
+        \ Group\" src=\"https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/themes/child_theme/cme.png\"\
+        /></a>\r\n</div>\r\n<!-- <div class=\"department col-lg-9 col-md-9 col-sm-9\
+        \ col-xs-8\"><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer\"\
+        >Ag Economy Barometer</a></div> -->\r\n</div>\r\n</div>\r\n</div>\r\n<nav\
+        \ class=\"navbar navbar-inverse blackbar\" role=\"navigation\">\r\n  <div\
+        \ class=\"container\">\r\n    <div class=\"navbar-header\">\r\n      <button\
+        \ type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"\
+        .black\">\r\n        <span class=\"icon-bar\"></span>\r\n        <span class=\"\
+        icon-bar\"></span>\r\n        <span class=\"icon-bar\"></span>\r\n      </button>\r\
+        \n    </div>\r\n    <!-- Collect the nav links, forms, and other content for\
+        \ toggling -->\r\n      <!-- Site Navigation Menu -->\r\n      <div class=\"\
+        collapse navbar-collapse black\"><ul id=\"menu-primary-menu\" class=\"nav\
+        \ navbar-nav\"><li id=\"menu-item-3486\" class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-home menu-item-3486\"><a title=\"Home\"\
+        \ href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/\">Home</a></li>\n\
+        <li id=\"menu-item-86\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category\
+        \ current-menu-item menu-item-86 active\"><a title=\"Reports\" href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/category/report/\"\
+        >Reports</a></li>\n<li id=\"menu-item-204\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-204\"><a title=\"Charts\" href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/charts/\"\
+        >Charts</a></li>\n<li id=\"menu-item-211\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-211\"><a title=\"Tables\" href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/tables/\"\
+        >Tables</a></li>\n<li id=\"menu-item-212\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-212\"><a title=\"Methodology\" href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/survey-methodology/\"\
+        >Methodology</a></li>\n<li id=\"menu-item-122\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-122\"><a title=\"About\" href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/about-the-barometer/\"\
+        >About</a></li>\n<li id=\"menu-item-123\" class=\"menu-item menu-item-type-post_type\
+        \ menu-item-object-page menu-item-123\"><a title=\"Team\" href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/team/\"\
+        >Team</a></li>\n<li id=\"menu-item-220\" class=\"menu-item menu-item-type-taxonomy\
+        \ menu-item-object-category menu-item-220\"><a title=\"Media\" href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/category/media/\"\
+        >Media</a></li>\n<li id=\"menu-item-3365\" class=\"menu-item menu-item-type-custom\
+        \ menu-item-object-custom menu-item-3365\"><a title=\"Subscribe\" href=\"\
+        https://ag.purdue.edu/commercialag/ageconomybarometer/update/\">Subscribe</a></li>\n\
+        </ul></div>    <!--/.nav-collapse -->\r\n    </div>\r\n</nav>\r\n\r\n\r\n\r\
+        \n<div class=\"breadcrumb\">\r\n  <div class=\"container\">\r\n    <div class=\"\
+        row\">\r\n      <div id=\"breadcrumbs\">\r\n          <ol class=\"col-lg-12\
+        \ col-md-12 col-sm-12\"><li><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer\"\
+        title=\"Home\"><span class=\"glyphicon glyphicon-home\"></a></li><li><a href=\"\
+        https://ag.purdue.edu/commercialag/ageconomybarometer/category/report/\" rel=\"\
+        category tag\">Reports</a></ol>      </div>\r\n    </div>\r\n  </div>\r\n\
+        </div>\r\n\r\n<div class=\"container\">\r\n  <div class=\"row\">\r\n    <div\
+        \ class=\"rightnav col-lg-2 col-md-2 col-sm-2 right\">\r\n               \
+        \ </div>\r\n\r\n    <div class=\"maincontent col-lg-7 col-md-7 col-sm-7 right\"\
+        >\r\n    <h2><i class=\"fa fa-folder\"></i> Category: Reports</h2>\r\n\r\n\
+        \            <div style=\"float:left; margin-right:5px;\"><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/ag-barometer-rises-as-crop-prices-rally-and-usda-announces-cfap-2/\"\
+        \ title=\"Ag Barometer Rises as Crop Prices Rally and USDA Announces CFAP\
+        \ 2\"></a></div>\r\n\r\n      <h2><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/ag-barometer-rises-as-crop-prices-rally-and-usda-announces-cfap-2/\"\
+        >Ag Barometer Rises as Crop Prices Rally and USDA Announces CFAP 2</a></h2>\r\
+        \n          <p><em>Tuesday, October 6th, 2020</em></p>\r\n        <hr>\r\n\
+        \      <p>U.S. agricultural producers became more optimistic again in September\
+        \ as the Purdue University-CME Group Ag Economy Barometer climbed to 156,\
+        \ the highest reading for the index since the pandemic began last winter and\
+        \ 12 points higher than one-month earlier.</p>\n\r\n            <div style=\"\
+        float:left; margin-right:5px;\"><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/farmer-sentiment-rebounds-as-commodity-prices-rally-and-agriculture-trade-prospects-improve/\"\
+        \ title=\"Farmer Sentiment Rebounds as Commodity Prices Rally and Agriculture\
+        \ Trade Prospects Improve\"></a></div>\r\n\r\n      <h2><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/farmer-sentiment-rebounds-as-commodity-prices-rally-and-agriculture-trade-prospects-improve/\"\
+        >Farmer Sentiment Rebounds as Commodity Prices Rally and Agriculture Trade\
+        \ Prospects Improve</a></h2>\r\n          <p><em>Tuesday, September 1st, 2020</em></p>\r\
+        \n        <hr>\r\n      <p>Farmer sentiment improved markedly in August as\
+        \ the Purdue University-CME Group Ag Economy Barometer rose to a reading of\
+        \ 144, 26 points higher than a month earlier. The barometer and its two sub-indices\
+        \ all posted their most positive readings since February 2020 when record\
+        \ highs were established and before the pandemic began.</p>\n\r\n        \
+        \    <div style=\"float:left; margin-right:5px;\"><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/ag-economy-barometer-stable-but-farmers-less-optimistic-about-future/\"\
+        \ title=\"Ag Economy Barometer Stable, But Farmers Less Optimistic About Future\"\
+        ></a></div>\r\n\r\n      <h2><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/ag-economy-barometer-stable-but-farmers-less-optimistic-about-future/\"\
+        >Ag Economy Barometer Stable, But Farmers Less Optimistic About Future</a></h2>\r\
+        \n          <p><em>Tuesday, August 4th, 2020</em></p>\r\n        <hr>\r\n\
+        \      <p>Farmer sentiment in July was virtually unchanged from a month earlier\
+        \ as the&nbsp;Purdue University-CME Group Ag Economy Barometer&nbsp;rose just\
+        \ one point to a reading of 118. The small change in the barometer left it\
+        \ 30 percent below its February 2020 peak and 23 percent below its level a\
+        \ year ago.&nbsp;</p>\n\r\n            <div style=\"float:left; margin-right:5px;\"\
+        ><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/farmer-sentiment-rebounds-amidst-ongoing-covid-19-concerns/\"\
+        \ title=\"Farmer Sentiment Rebounds Amidst Ongoing COVID-19 Concerns\"></a></div>\r\
+        \n\r\n      <h2><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/farmer-sentiment-rebounds-amidst-ongoing-covid-19-concerns/\"\
+        >Farmer Sentiment Rebounds Amidst Ongoing COVID-19 Concerns</a></h2>\r\n \
+        \         <p><em>Tuesday, July 7th, 2020</em></p>\r\n        <hr>\r\n    \
+        \  <p>Farmer sentiment improved again in June as the Purdue University-CME\
+        \ Group Ag Economy Barometer rose 14 points to a reading of 117. The rise\
+        \ was fueled by improvements in both the Index of Current Conditions which\
+        \ rose 19% higher than a month earlier, and the Index of Future Expectations\
+        \ which climbed 12% higher than in [&hellip;]</p>\n\r\n            <div style=\"\
+        float:left; margin-right:5px;\"><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/covid-19-continues-to-impact-farmer-sentiment-majority-indicate-economic-assistance-bill-necessary/\"\
+        \ title=\"COVID-19 Continues to Impact Farmer Sentiment; Majority Indicate\
+        \ Economic Assistance Bill Necessary\"></a></div>\r\n\r\n      <h2><a href=\"\
+        https://ag.purdue.edu/commercialag/ageconomybarometer/covid-19-continues-to-impact-farmer-sentiment-majority-indicate-economic-assistance-bill-necessary/\"\
+        >COVID-19 Continues to Impact Farmer Sentiment; Majority Indicate Economic\
+        \ Assistance Bill Necessary</a></h2>\r\n          <p><em>Tuesday, June 2nd,\
+        \ 2020</em></p>\r\n        <hr>\r\n      <p>Farmer sentiment improved slightly\
+        \ in May after falling sharply in both March and April. The Purdue University-CME\
+        \ Group Ag Economy Barometer reading in May was 103; the 7 point improvement\
+        \ from April left the gauge of farmer sentiment nearly 40 percent below its\
+        \ February peak of 168.</p>\n\r\n            <div style=\"float:left; margin-right:5px;\"\
+        ><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/report-ag-barometer-index-drops-below-100-as-coronavirus-disrupts-agriculture/\"\
+        \ title=\"Ag Barometer Index Drops Below 100 as Coronavirus Disrupts Agriculture\"\
+        ></a></div>\r\n\r\n      <h2><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/report-ag-barometer-index-drops-below-100-as-coronavirus-disrupts-agriculture/\"\
+        >Ag Barometer Index Drops Below 100 as Coronavirus Disrupts Agriculture</a></h2>\r\
+        \n          <p><em>Tuesday, May 5th, 2020</em></p>\r\n        <hr>\r\n   \
+        \   <p>For the second month in a row the Purdue University-CME Group Ag Economy\
+        \ Barometer dropped sharply, falling 25 points in April to a reading of 96.\
+        \ This marks the first time the barometer has fallen below 100 since October\
+        \ 2016.</p>\n\r\n            <div style=\"float:left; margin-right:5px;\"\
+        ><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/farmer-sentiment-plummets-as-coronavirus-concerns-rise/\"\
+        \ title=\"Farmer Sentiment Plummets as Coronavirus Concerns Rise\"></a></div>\r\
+        \n\r\n      <h2><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/farmer-sentiment-plummets-as-coronavirus-concerns-rise/\"\
+        >Farmer Sentiment Plummets as Coronavirus Concerns Rise</a></h2>\r\n     \
+        \     <p><em>Tuesday, April 7th, 2020</em></p>\r\n        <hr>\r\n      <p>The\
+        \ Ag Economy Barometer plummeted in March, dipping 47 points (28%) from a\
+        \ month earlier to a reading of 121. The point drop was the largest one-month\
+        \ fall in the life of the index, which dates to October 2015.</p>\n\r\n  \
+        \          <div style=\"float:left; margin-right:5px;\"><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/optimism-about-current-conditions-pushes-farmer-sentiment-index-to-all-time-high/\"\
+        \ title=\"Optimism about current conditions pushes farmer sentiment index\
+        \ to all-time high\"></a></div>\r\n\r\n      <h2><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/optimism-about-current-conditions-pushes-farmer-sentiment-index-to-all-time-high/\"\
+        >Optimism about current conditions pushes farmer sentiment index to all-time\
+        \ high</a></h2>\r\n          <p><em>Tuesday, March 3rd, 2020</em></p>\r\n\
+        \        <hr>\r\n      <p>The Ag Economy Barometer rose slightly with a reading\
+        \ of 168 in February, just one point higher than January. The one-point rise\
+        \ in the sentiment index was enough to push the barometer to a new all-time\
+        \ high.</p>\n\r\n            <div style=\"float:left; margin-right:5px;\"\
+        ><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/expectations-for-improved-trade-with-china-sends-farmer-sentiment-soaring-2/\"\
+        \ title=\"Expectations for improved trade with China sends farmer sentiment\
+        \ soaring\"></a></div>\r\n\r\n      <h2><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/expectations-for-improved-trade-with-china-sends-farmer-sentiment-soaring-2/\"\
+        >Expectations for improved trade with China sends farmer sentiment soaring</a></h2>\r\
+        \n          <p><em>Tuesday, February 4th, 2020</em></p>\r\n        <hr>\r\n\
+        \      <p>The Ag Economy Barometer rose to a reading of 167 in January, a\
+        \ 17-point jump from December when the index stood at 150. Virtually all of\
+        \ the rise in this month\u2019s barometer was attributable to a sharp rise\
+        \ in optimism about future conditions in agriculture.</p>\n\r\n          \
+        \  <div style=\"float:left; margin-right:5px;\"><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/farmers-optimistic-about-the-future-even-as-their-perception-of-current-economic-conditions-drops-2/\"\
+        \ title=\"Farmers optimistic about the future, even as their perception of\
+        \ current economic conditions drops\"></a></div>\r\n\r\n      <h2><a href=\"\
+        https://ag.purdue.edu/commercialag/ageconomybarometer/farmers-optimistic-about-the-future-even-as-their-perception-of-current-economic-conditions-drops-2/\"\
+        >Farmers optimistic about the future, even as their perception of current\
+        \ economic conditions drops</a></h2>\r\n          <p><em>Tuesday, January\
+        \ 7th, 2020</em></p>\r\n        <hr>\r\n      <p>The Ag Economy Barometer\
+        \ dipped to a reading of 150 in December, down 3 points compared to November.\
+        \ The barometer&#8217;s decline was attributable to a decline in producers&#8217;\
+        \ perception of current economic conditions.</p>\n\r\n      \r\n      <div\
+        \ class=\"post-nav\"><ul class=\"pager\"><li class=\"active\"><span class=\"\
+        active\">01</span></li><li><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/category/report/page/2/\"\
+        >02</a></li><li><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/category/report/page/3/\"\
+        >03</a></li><li><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/category/report/page/4/\"\
+        >04</a></li><li><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/category/report/page/2/\"\
+        \ title=\"next\">Next <i class=\"fa fa-caret-right\"></i></a></li><li class=\"\
+        next\"><a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/category/report/page/6/\"\
+        >Last</a></li></ul></div>\r\n    </div>\r\n\r\n    <div class=\"sidenav col-lg-3\
+        \ col-md-3 col-sm-3\">\n\n  \n  <br>\n\t<li id=\"search-2\" class=\"widget\
+        \ widget_search\"><div class=\"row\" style=\"margin-left:-4px;\">\r\n  <form\
+        \ class=\"form-inline\" role=\"search\" method=\"get\" id=\"searchform\"\r\
+        \n      class=\"searchform\" action=\"https://ag.purdue.edu/commercialag/ageconomybarometer/\"\
+        >\r\n          <label class=\"screen-reader-text\" for=\"s\"></label>\r\n\
+        \          <input class=\"form-control\" placeholder=\"Search\" type=\"text\"\
+        \ value=\"\" name=\"s\" id=\"s\" />\r\n          <input class=\"btn btn-default\"\
+        \ type=\"submit\" id=\"searchsubmit\"\r\n              value=\"Search\" />\r\
+        \n  </form>\r\n</div>\r\n<br></li>\n</div>\n\n    <div class=\"sidecontent\
+        \ col-lg-3 col-md-3 col-sm-3\">\n<div id=\"text-6\">\t\t\t<div class=\"textwidget\"\
+        ><h2>Media Contacts</h2>\r\n\r\n<h5>Purdue University</h5>\r\nAissa Good<br>\r\
+        \n(765) 496-3884<br>\r\n<a href=\"mailto:aissa@purdue.edu\">aissa@purdue.edu</a>\r\
+        \n<br>\r\n<br>\r\n\r\nSarah Zahn<br>\r\n(765) 494-4310<br>\r\n<a href=\"mailto:smithse@purdue.edu\"\
+        >smithse@purdue.edu</a>\r\n<br>\r\n<br>\r\n\r\nKami Goodwin<br>\r\n(765) 494-6999<br>\r\
+        \n<a href=\"mailto:kami@purdue.edu\">kami@purdue.edu</a>\r\n\r\n<br>\r\n<h5>CME\
+        \ Group</h5>\r\nDana Schmidt<br>\r\n(312) 872-5443<br>\r\n<a href=\"mailto:dana.schmidt@cmegroup.com\"\
+        >dana.schmidt@cmegroup.com</a><br>\r\n<br>\r\nLaurie Bischel<br>\r\n(312)\
+        \ 648-8698<br>\r\n<a href=\"mailto:laurie.bischel@cmegroup.com\">laurie.bischel@cmegroup.com</a>\r\
+        \n<br><br>\r\n<h3>RSS Feeds</h3>\r\n<a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/category/report/feed/\"\
+        >Reports</a><br>\r\n<a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer/category/media/feed/\"\
+        >Media Releases</a><br></div>\n\t\t</div></div>\n\r\n  </div>\r\n</div>\r\n\
+        \r\n<div class=\"footer\">\r\n\t<div class=\"container\">\r\n\t\t<div class=\"\
+        row panel-group\" id=\"accordion\">\r\n\t\t<div class=\"panel panel-default\
+        \ col-lg-2 col-md-2 col-sm-2 col-xs-12 left\"> \r\n\t\t\t<div class=\"panel-heading\"\
+        >\r\n\t\t\t\t<h4 class=\"panel-title\"><a class=\"collapsed\" data-parent=\"\
+        #accordion\" data-toggle=\"collapse\" href=\"#footerone\">Communication <i\
+        \ class=\"fa fa-plus right\"></i><i class=\"fa fa-minus right\"></i></a></h4>\r\
+        \n\t\t\t</div>\r\n\t\t\t<div class=\"panel-collapse collapse\" id=\"footerone\"\
+        >\r\n\t\t\t\t<div class=\"panel-body\">\r\n\t\t\t\t\t<ul>\r\n\t\t\t\t\t\t\
+        <li><a href=\"https://www.purdue.edu/employeeportal\">Employee Portal</a></li>\r\
+        \n\t\t\t\t\t\t<li><a href=\"http://www.itap.purdue.edu/learning/tools/blackboard/\"\
+        >Blackboard</a></li>\r\n\t\t\t\t\t\t<li><a href=\"http://www.purdue.edu/newsroom/purduetoday/\"\
+        >Purdue Today</a></li>\r\n\t\t\t\t\t\t<li><a href=\"https://mymail.purdue.edu/\"\
+        >myMail</a></li>\r\n\t\t\t\t\t\t<li><a href=\"https://exchange.purdue.edu\"\
+        >Outlook</a></li>\r\n\t\t\t\t\t\t<li><a href=\"https://wl.mypurdue.purdue.edu\"\
+        >myPurdue</a></li>\r\n\t\t\t\t\t</ul>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\
+        \t\t</div>\r\n\t\t<div class=\"panel panel-default col-lg-2 col-md-2 col-sm-2\
+        \ col-xs-12 left\">\r\n\t\t\t<div class=\"panel-heading\">\r\n\t\t\t\t<h4\
+        \ class=\"panel-title\"><a class=\"collapsed\" data-parent=\"#accordion\"\
+        \ data-toggle=\"collapse\" href=\"#footertwo\">Campus <i class=\"fa fa-plus\
+        \ right\"></i><i class=\"fa fa-minus right\"></i></a></h4>\r\n\t\t\t</div>\r\
+        \n\t\t\t<div class=\"panel-collapse collapse\" id=\"footertwo\">\r\n\t\t\t\
+        \t<div class=\"panel-body\">\r\n\t\t\t\t\t<ul>\r\n\t\t\t\t\t\t<li><a href=\"\
+        http://www.purdue.edu/purdue/information_for/for_faculty_staff_re.html\">Faculty\
+        \ &amp; Staff</a></li>\r\n\t\t\t\t\t\t<li><a href=\"http://www.purdue.edu/ais/\"\
+        >AIS</a></li>\r\n\t\t\t\t\t\t<li><a href=\"https://www.purdue.edu/physicalfacilities/\"\
+        >Physical Facilities</a></li>\r\n\t\t\t\t\t\t<li><a href=\"https://www.itap.purdue.edu/directory/\"\
+        >Directory</a></li>\r\n\t\t\t\t\t\t<li><a href=\"https://www.purdue.edu/campus_map/\"\
+        >Campus Map</a></li>\r\n\t\t\t\t\t\t<li><a href=\"https://www.purdue.edu/physicalfacilities/construction/index.html\"\
+        >Construction</a></li>\r\n\t\t\t\t\t</ul>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\
+        \n\t\t</div>\r\n\t\t<div class=\"panel panel-default col-lg-2 col-md-2 col-sm-2\
+        \ col-xs-12 right\">\r\n\t\t\t<div class=\"panel-heading\">\r\n\t\t\t\t<h4\
+        \ class=\"panel-title\"><a class=\"collapsed\" data-parent=\"#accordion\"\
+        \ data-toggle=\"collapse\" href=\"#footerfour\">Information <i class=\"fa\
+        \ fa-plus right\"></i><i class=\"fa fa-minus right\"></i></a></h4>\r\n\t\t\
+        \t</div>\r\n\t\t\t<div class=\"panel-collapse collapse\" id=\"footerfour\"\
+        >\r\n\t\t\t\t<div class=\"panel-body\">\r\n\t\t\t\t\t<div id=\"text-4\">\t\
+        \t\t<div class=\"textwidget\"><ul>\r\n<li>\r\n<a href=\"http://ag.purdue.edu/commercialag\"\
+        \ target=\"_blank\" rel=\"noopener noreferrer\">Center for Commercial Agriculture</a>\
+        \ \r\n</li>\r\n<li>\r\n<a href=\"https://cmegroup.com\" target=\"_blank\"\
+        \ rel=\"noopener noreferrer\">CME Group</a> \r\n</li>\r\n<br>\r\n<br>\r\n\
+        <br>\r\n</ul></div>\n\t\t</div>\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div>\r\
+        \n\t\t<div class=\"panel panel-default col-lg-2 col-md-2 col-sm-2 col-xs-12\
+        \ right\">\r\n\t\t\t<div class=\"panel-heading\">\r\n\t\t\t\t<h4 class=\"\
+        panel-title\"><a class=\"collapsed\" data-parent=\"#accordion\" data-toggle=\"\
+        collapse\" href=\"#footerthree\">Other <i class=\"fa fa-plus right\"></i><i\
+        \ class=\"fa fa-minus right\"></i></a></h4>\r\n\t\t\t</div>\r\n\t\t\t<div\
+        \ class=\"panel-collapse collapse\" id=\"footerthree\">\r\n\t\t\t\t<div class=\"\
+        panel-body\">\r\n\t\t\t\t\t<div id=\"text-3\">\t\t\t<div class=\"textwidget\"\
+        ><ul>\r\n<li>\r\n<a href=\"https://ag.purdue.edu/agecon\" target=\"_blank\"\
+        \ rel=\"noopener noreferrer\">Department of Agricultural Economics</a> \r\n\
+        </li>\r\n<li>\r\n<a href=\"http://agribusiness.purdue.edu\" target=\"_blank\"\
+        \ rel=\"noopener noreferrer\">Center for Food and Agricultural Business</a>\
+        \ \r\n</li>\r\n<li> <a href=\"http://ag.purdue.edu\" target=\"_blank\" rel=\"\
+        noopener noreferrer\">College of Agriculture</a> </li>\r\n<br>\r\n</ul></div>\n\
+        \t\t</div>\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t\t<div class=\"\
+        motto col-lg-4 col-md-4 col-sm-4\">\r\n\t\t\t<img alt=\"Moves the World Forward\"\
+        \ src=\"https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/themes/purdue2014/images/Purdue_logo_footer_feb_2020.png\"\
+        /> \r\n\t\t\t\t\t\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n<div\
+        \ class=\"bottom\">\r\n\t<div class=\"container\">\r\n\t\t<div class=\"row\"\
+        >\r\n\t\t\t<div class=\"col-lg-12 col-md-12 col-sm-12 col-xs-12\">\r\n\t\t\
+        \t\t<p>Purdue University, 610 Purdue Mall, West Lafayette, IN 47907, (765)\
+        \ 494-4600</p>\r\n\t\t\t\t<p><a href=\"http://www.purdue.edu/purdue/disclaimer.html\"\
+        >&copy; 2020 Purdue University</a> | <a href=\"http://www.purdue.edu/purdue/ea_eou_statement.html\"\
+        >An equal access/equal opportunity university</a> | <a href=\"https://www.purdue.edu/securepurdue/security-programs/copyright-policies/reporting-alleged-copyright-infringement.php\"\
+        >Copyright Complaints</a> | Maintained by <a href=\"https://ag.purdue.edu/commercialag/ageconomybarometer\"\
+        >Ag Economy Barometer</a></p>\r\n\t\t\t\t<p>If you have trouble accessing\
+        \ this page because of a disability, please contact Ag Economy Barometer at\
+        \ <a href=\"mailto:ageconomybarometer@purdue.edu\">ageconomybarometer@purdue.edu</a>.</p>\r\
+        \n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n\r\n\n<!-- Google Tag\
+        \ Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-T5DJVVJ\"\
+        \nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n\
+        <!-- End Google Tag Manager (noscript) --><script type='text/javascript' src='https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/plugins/wp-accessibility/js/longdesc.button.js?ver=1.0'\
+        \ id='longdesc.button-js'></script>\n<script type='text/javascript' src='https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/plugins/wp-accessibility/js/current-menu-item.js?ver=1.0'\
+        \ id='current.menu-js'></script>\n<script type='text/javascript' src='https://ag.purdue.edu/commercialag/ageconomybarometer/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.4'\
+        \ id='page-links-to-js'></script>\n<script type='text/javascript' src='https://ag.purdue.edu/commercialag/ageconomybarometer/wp-includes/js/wp-embed.min.js?ver=5.5.1'\
+        \ id='wp-embed-js'></script>\n\r\n<script type='text/javascript'>\r\n//<![CDATA[\r\
+        \n(function( $ ) { 'use strict';\r\n\t\r\n\t\r\n\t\r\n\t$('input,a,select,textarea,button').removeAttr('tabindex');\r\
+        \n\t\r\n}(jQuery));\r\n//]]>\r\n</script></body>\r\n</html>\n<!-- Dynamic\
+        \ page generated in 0.919 seconds. -->\n<!-- Cached page generated by WP-Super-Cache\
+        \ on 2020-10-27 07:20:12 -->\n\n<!-- super cache -->"
+    headers:
+      Cache-Control:
+      - no-cache
+      Connection:
+      - Keep-Alive
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Tue, 27 Oct 2020 11:20:11 GMT
+      Expires:
+      - '-1'
+      Keep-Alive:
+      - timeout=2, max=100
+      Link:
+      - <https://ag.purdue.edu/commercialag/ageconomybarometer/wp-json/>; rel="https://api.w.org/",
+        <https://ag.purdue.edu/commercialag/ageconomybarometer/wp-json/wp/v2/categories/2>;
+        rel="alternate"; type="application/json"
+      Server:
+      - Apache
+      Set-Cookie:
+      - BIGipServer~WEB~pool_lpvwebwp02.itap.purdue.edu_web=!FoMIq3bK3nuYzcdqylNHPQb8WGZMoc03qZrqDd6V/ZAgU07dT4tCipBL6nkbEa816WsNAFQXHg==;
+        path=/; Httponly; Secure
+      Vary:
+      - Accept-Encoding,Cookie
+      content-length:
+      - '41549'
+    status:
+      code: 200
+      message: OK
+version: 1

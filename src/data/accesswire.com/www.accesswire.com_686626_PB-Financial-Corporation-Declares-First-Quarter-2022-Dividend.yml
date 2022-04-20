@@ -1,0 +1,264 @@
+author: accesswire.com
+created_at: '2022-02-01 12:00:00+00:00'
+raw: "<!DOCTYPE html> \n<html data-wf-page=\"5d7cd117cad5173b18c52143\" data-wf-site=\"\
+  58fe387483a3a04bcd9871aa\"> \n<head><meta charset=\"utf-8\" /><meta content=\"width=device-width,\
+  \ initial-scale=1\" name=\"viewport\" /><link href=\"https://www.accesswire.com/assets/css/normalize.css?v=1596568324\"\
+  \ rel=\"stylesheet\" type=\"text/css\" /><link href=\"https://www.accesswire.com/assets/css/components.css?v=1596568324\"\
+  \ rel=\"stylesheet\" type=\"text/css\" /><link href=\"https://www.accesswire.com/assets/css/accesswire.css?v=1597067854\"\
+  \ rel=\"stylesheet\" type=\"text/css\" /> \n<script src=\"https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js\"\
+  \ type=\"text/javascript\"></script> \n<link href=\"https://cdn.net3000.ca/themes/net3000.bootstrap.css\"\
+  \ rel=\"stylesheet\" type=\"text/css\" /> \n<script type=\"text/javascript\">WebFont.load({\
+  \ google: { families: [\"Merriweather:300,300italic,400,400italic,700,700italic,900,900italic\"\
+  , \"Roboto:100,300,regular,500,700\"] } });</script> \n<!-- [if lt IE 9]><script\
+  \ src=\"https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js\"\
+  \ type=\"text/javascript\"></script><![endif] --> \n<script type=\"text/javascript\"\
+  >!function (o, c) { var n = c.documentElement, t = \" w-mod-\"; n.className += t\
+  \ + \"js\", (\"ontouchstart\" in o || o.DocumentTouch && c instanceof DocumentTouch)\
+  \ && (n.className += t + \"touch\") }(window, document);</script> \n<link href=\"\
+  https://www.accesswire.com/assets/images/favicon.png\" rel=\"shortcut icon\" type=\"\
+  image/x-icon\" /><link href=\"https://www.accesswire.com/assets/images/webclip.png\"\
+  \ rel=\"apple-touch-icon\" /><meta name=\"google-site-verification\" content=\"\
+  MEUjBpRBLkZ2M1FpXLE2XY0Dw-0LY240ossS58zNqGA\" /> \n<style> \n.w-container { \nmax-width:\
+  \ 1170px; \n} \n \n.w-container { \nmax-width: 90%; \n} \n \n.cc-banner.cc-bottom\
+  \ { \nborder-radius: 250px; \nmargin: 10px; \nwidth: 85% !important; \nfont-family:\
+  \ 'Avenir roman webfont',Tahoma,sans-serif; \nbottom: 45px !important; \n} \n</style>\
+  \ \n<script type=\"text/javascript\"> \nvar _paq = window._paq = window._paq ||\
+  \ []; \n/* tracker methods like \"setCustomDimension\" should be called before \"\
+  trackPageView\" */ \n_paq.push([\"setCookieDomain\", \"*.accesswire.com\"]); \n\
+  _paq.push([\"setDomains\", [\"*.accesswire.com\"]]); \n_paq.push(['trackPageView']);\
+  \ \n_paq.push(['enableLinkTracking']); \n(function () { \nvar u = \"https://analytics.isdr.io/\"\
+  ; \n_paq.push(['setTrackerUrl', u + 'matomo.php']); \n_paq.push(['setSiteId', '2']);\
+  \ \nvar d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];\
+  \ \ng.type = 'text/javascript'; g.async = true; g.src = u + 'matomo.js'; s.parentNode.insertBefore(g,\
+  \ s); \n})(); \n</script> \n<noscript> \n<p> \n<img src=\"https://analytics.isdr.io/matomo.php?idsite=2&amp;rec=1\"\
+  \ style=\"border: 0;\" alt=\"\"></p> \n</noscript> \n<link href=\"https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700\"\
+  \ rel=\"stylesheet\" /><meta name=\"msvalidate.01\" content=\"63B03B971ABD2402A395C8329467E0AC\"\
+  \ /> \n<script src=\"https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.4.1.min.220afd743d.js?site=58fe387483a3a04bcd9871aa\"\
+  \ type=\"text/javascript\" integrity=\"sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=\"\
+  \ crossorigin=\"anonymous\"></script> \n<script src=\"https://www.google.com/recaptcha/api.js\"\
+  ></script> \n<link rel=\"stylesheet\" type=\"text/css\" href=\"//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css\"\
+  \ /> \n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js\"\
+  ></script> \n<script> \nwindow.addEventListener(\"load\", function () { \nwindow.cookieconsent.initialise({\
+  \ \n\"palette\": { \n\"popup\": { \n\"background\": \"#00467f\" \n}, \n\"button\"\
+  : { \n\"background\": \"#1e88e5\" \n} \n}, \n\"position\": \"bottom\", \n\"z-index\"\
+  : \"99999\", \n\"content\": { \n\"message\": \"This site uses cookies. By continuing\
+  \ to browse the site you are agreeing to our use of cookies.\", \n\"href\": \"https://www.accesswire.com/privacy-policy\"\
+  \ \n} \n}) \n}); \n</script> \n<script src=\"https://kit.fontawesome.com/fb6463f880.js\"\
+  ></script> \n<!-- Global site tag (gtag.js) - Google Analytics --> \n<script async=\"\
+  \" src=\"https://www.googletagmanager.com/gtag/js?id=UA-66177983-1\"></script> \n\
+  <script> \nwindow.dataLayer = window.dataLayer || []; \nfunction gtag() { \ndataLayer.push(arguments);\
+  \ \n} \ngtag('js', new Date()); \ngtag('config', 'UA-66177983-1', { \n'custom_map':\
+  \ { \n'dimension1': 'clientId' \n}, \n'linker': { \n'domains': ['accesswire.com']\
+  \ \n} \n}); \ngtag('config', 'AW-1020377509'); \n</script> \n<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mustache.js/3.0.3/mustache.min.js\"\
+  \ integrity=\"sha256-dANF/rwl1id4vp0nRJYv7CD3jahpI3HzIpjRaIkLesU=\" crossorigin=\"\
+  anonymous\"></script> \n<script type=\"text/javascript\" src=\"https://cdn.jsdelivr.net/momentjs/latest/moment.min.js\"\
+  ></script> \n<style> \nh4, h5, p { \nfont-family: 'Avenir roman webfont', Tahoma,\
+  \ sans-serif !important; \n} \n</style> \n<script src=\"/apps/common.js\"></script>\
+  \ \n \n \n<script src=\"https://cdn.jsdelivr.net/npm/vue@2\"></script> \n \n<style>\
+  \ \n.net3000 nav {display: none;} \n.net3000 .media {display: unset;} \n.dropdown-list-3.w--open\
+  \ { overflow: auto;} \n</style> \n<script src=\"/apps/scripts/socialaccounts.js?v=2.1\"\
+  ></script> \n<meta name=\"title\" content=\"PB Financial Corporation Declares First-Quarter,\
+  \ 2022 Dividend\" /><meta property=\"fb:app_id\" /><meta property=\"og:type\" content=\"\
+  article\" /><meta property=\"og:url\" content=\"https://www.accesswire.com/686626/PB-Financial-Corporation-Declares-First-Quarter-2022-Dividend\"\
+  \ /><meta property=\"og:title\" content=\"PB Financial Corporation Declares First-Quarter,\
+  \ 2022 Dividend\" /><meta name=\"twitter:title\" property=\"twitter:title\" content=\"\
+  PB Financial Corporation Declares First-Quarter, 2022 Dividend\" /><meta property=\"\
+  og:description\" content=\"ROCKY MOUNT, NC / ACCESSWIRE / February 1, 2022 / Ted\
+  \ E. Whitehurst, President and CEO of PB Financial Corporation (OTCQX:PBNC), the\
+  \ holding company for Providence Bank, announced today that the Board of Directors\
+  \ approved a quarterly cash dividend of $0.28 per share on common stock outstanding\
+  \ to shareholders of record at the close of business on February 8, 2022. The dividend\
+  \ is payable February 24, 2022. This is an increase of 21.74% from the\" /><meta\
+  \ name=\"twitter:description\" property=\"twitter:description\" content=\"ROCKY\
+  \ MOUNT, NC / ACCESSWIRE / February 1, 2022 / Ted E. Whitehurst, President and CEO\
+  \ of PB Financial Corporation (OTCQX:PBNC), the holding company for Providence Bank,\
+  \ announced today that the Board of Directors approved a quarterly cash dividend\
+  \ of $0.28 per share on common stock outstanding to shareholders of record at the\
+  \ close of business on February 8, 2022. The dividend is payable February 24, 2022.\
+  \ This is an increase of 21.74% from the\" /><meta property=\"og:image\" content=\"\
+  https://storage.googleapis.com/accesswire/logos/subaccounts/22235.png?v=0\" /><meta\
+  \ name=\"twitter:image\" property=\"twitter:image\" content=\"https://storage.googleapis.com/accesswire/logos/subaccounts/22235.png?v=0\"\
+  \ /><meta name=\"twitter:image:src\" property=\"twitter:image:src\" content=\"https://storage.googleapis.com/accesswire/logos/subaccounts/22235.png?v=0\"\
+  \ /><meta name=\"msapplication-TileImage\" property=\"msapplication-TileImage\"\
+  \ content=\"https://storage.googleapis.com/accesswire/logos/subaccounts/22235.png?v=0\"\
+  \ /><title> \n PB Financial Corporation Declares First-Quarter, 2022 Dividend \n\
+  </title><meta name=\"description\" content=\"ROCKY MOUNT, NC / ACCESSWIRE / February\
+  \ 1, 2022 / Ted E. Whitehurst, President and CEO of PB Financial Corporation (OTCQX:PBNC),\
+  \ the holding company for Providence Bank, announced today that the Board of Directors\
+  \ approved a quarterly cash dividend of $0.28 per share on common stock outstanding\
+  \ to shareholders of record at the close of business on February 8, 2022. The dividend\
+  \ is payable February 24, 2022. This is an increase of 21.74% from the\" /><meta\
+  \ name=\"keywords\" content=\"Providence Bank\" /></head> \n<body> \n<div class=\"\
+  placeholder _2\"></div> \n<div data-collapse=\"none\" data-animation=\"default\"\
+  \ data-duration=\"400\" role=\"banner\" class=\"navbartest w-nav\"> \n<div class=\"\
+  mainnavdiv w-clearfix\"> \n<a href=\"/\" class=\"brand-3 w-nav-brand\"> \n<div class=\"\
+  accesswire-mainlogo w-embed\"><img src=\"https://www.accesswire.com/assets/images/AW_ISDR_Company.png\"\
+  ></div> \n</a> \n<div class=\"logindiv\"> \n<div class=\"logintelldiv w-clearfix\"\
+  ><a href=\"login\" class=\"login w-button\">Login</a><a href=\"/tell-my-story\"\
+  \ class=\"tellmystory w-button\">Tell My Story</a></div> \n</div> \n<div class=\"\
+  logindiv\"> \n<div class=\"mobilenav\"><a href=\"about\" class=\"mobilenavabout\"\
+  >About</a><a href=\"/products/\" class=\"mobilenavabout\">Products</a><a href=\"\
+  resources\" class=\"mobilenavabout\">Resources</a><a href=\"#\" class=\"mobilenavabout\"\
+  >Newsroom</a></div> \n</div> \n</div> \n<div class=\"topnavdivider\"></div> \n</div>\
+  \ \n \n \n \n<div class=\"toparticlesection\"> \n<a href=\"/newsroom\" class=\"\
+  link-block-5 _2 w-inline-block w-clearfix\"> \n<img src=\"https://assets.website-files.com/58fe387483a3a04bcd9871aa/5e42d754da3a6546191b9967_BackArrow.png\"\
+  \ alt=\"\" class=\"backarrow\"><div class=\"backtext\">Back to Newsroom</div> \n\
+  </a> \n<div class=\"mentioned\">Mentioned in this Article</div> \n</div> \n<div\
+  \ class=\"section-4\"> \n<div id=\"articleContainer\" class=\"articlecontainer\"\
+  \ style=\"padding-bottom: 100px;\"> \n<div class=\"net3000\" style=\"margin-left:\
+  \ 40px;margin-right: 40px;\"> \n<div class=\"row text-left\"> \n<div class=\"col-md-9\"\
+  > \n<div class=\"net3000\" id=\"msgBox\"></div> \n<h1 id=\"articleHeading\" class=\"\
+  articleheading2 bind\">PB Financial Corporation Declares First-Quarter, 2022 Dividend</h1>\
+  \ \n<div id=\"date\" class=\"timedate bind\">Tuesday, February 1, 2022 12:00 PM</div>\
+  \ \n<div style=\"margin-bottom: 10px\"> \n<div class=\"sharearticle\">Share this\
+  \ article now</div> \n<div id=\"socialShare\" class=\"socialsharediv sharediv\"\
+  \ style=\"margin-bottom: 0\"> \n<a href=\"#\" class=\"socialsharelink sharenow w-inline-block\"\
+  \ data-share=\"twitter\"> \n<img src=\"https://www.accesswire.com/assets/images/Social_tw.png\"\
+  \ id=\"Social_tw\" alt=\"\" class=\"socialshareimage\"></a> \n \n<a href=\"#\" class=\"\
+  socialsharelink sharenow w-inline-block\" data-share=\"facebook\"> \n<img src=\"\
+  https://www.accesswire.com/assets/images/Social_fb.png\" id=\"Social_fb\" alt=\"\
+  \" class=\"socialshareimage\"></a> \n \n<a href=\"#\" class=\"socialsharelink sharenow\
+  \ w-inline-block\" data-share=\"li\"> \n<img src=\"https://www.accesswire.com/assets/images/Social_li.png\"\
+  \ id=\"Social_li\" alt=\"\" class=\"socialshareimage\"></a> \n</div> \n</div> \n\
+  <div class=\"type-div\"> \n<div class=\"articletype2 bind type\">Topic: </div> \n\
+  <div id=\"type\" class=\"articletype2 bind\">Dividends</div> \n</div> \n<div id=\"\
+  articleSubHeadline\" class=\"articlesubheadline bind\"></div> \n</div> \n<div class=\"\
+  col-md-3\"> \n<div class=\"companyinfologobox\"> \n<img src='https://storage.googleapis.com/accesswire/logos/subaccounts/22235.png?v=0'\
+  \ id=\"articleLogo\" alt='PB Financial Corporation' class=\"articlelogoimage articleimage\"\
+  > \n</div> \n<div class=\"companyinfobox mid\"> \n<div id=\"dataCompany\" class=\"\
+  companynamehead bind\">PB Financial Corporation</div> \n \n \n<div id=\"newsroomlink\"\
+  \ style=\"text-align: center; margin-top: 20px; display: none\"> \n<a target=\"\
+  _blank\"><b>Company Newsroom</b></a> \n</div> \n</div> \n \n \n</div> \n<div class=\"\
+  \ col-lg-9 col-sm-12 aticlecontainerleft\"> \n<div id=\"articleBody\" class=\"articlecopy\
+  \ bind\"><p><strong>ROCKY MOUNT, NC / ACCESSWIRE / February 1, 2022 /</strong> Ted\
+  \ E. Whitehurst, President and CEO of PB Financial Corporation (OTCQX:PBNC), the\
+  \ holding company for Providence Bank, announced today that the Board of Directors\
+  \ approved a quarterly cash dividend of $0.28 per share on common stock outstanding\
+  \ to shareholders of record at the close of business on February 8, 2022. The dividend\
+  \ is payable February 24, 2022. This is an increase of 21.74% from the dividend\
+  \ paid during the 1st quarter of 2021. This represents a $1.12 dividend on an annual\
+  \ basis and a yield of 2.81% (based on the closing price on January 31, 2022 of\
+  \ $39.80/share).</p><p>Whitehurst commented, \"This represents our 41<sup>st</sup>\
+  \ consecutive quarterly cash dividend. Our consistent financial performance has\
+  \ allowed us to increase our cash dividend every quarter since we began paying dividends\
+  \ in the 1<sup>st</sup> quarter of 2012. Increasing our cash dividend continues\
+  \ to be an important part of our strategy to enhance shareholder value.\"</p><p>PB\
+  \ Financial Corporation is headquartered at 450 N. Winstead Avenue in Rocky Mount,\
+  \ North Carolina, with branches in Rocky Mount, Tarboro, Nashville, Wilson and Raleigh.\
+  \ As of December 31, 2021, PB Financial Corporation had total assets of $701.4 million,\
+  \ loans of $550.7 million and total deposits of $573.1 million.</p><p><a href=\"\
+  https://pr.report/BNhT9-fp\">www.pbknc.com</a></p><p><i>This press release may contain\
+  \ forward-looking statements within the meaning of the Private Securities Litigation\
+  \ Reform Act of 1995 regarding PB Financial Corporation. Those statements may include\
+  \ but are not limited to statements regarding the Company's plans, objectives, expectations\
+  \ and intentions and other statements identified by words such as \"believes,\"\
+  \ \"considers,\" \"expects,\" \"anticipates,\" \"estimates,\" \"intends,\" \"plans,\"\
+  \ \"targets,\" \"projects,\" \"would be,\" and similar expressions. These statements\
+  \ are based upon current beliefs and expectations of management of PB Financial\
+  \ Corporation and are subject to significant risks and uncertainties. Actual or\
+  \ future results or events may differ from those set forth in the forward-looking\
+  \ statements. PB Financial Corporation does not undertake to update any forward-looking\
+  \ statements in this press release. The information as of and for the quarter ended\
+  \ December 31, 2021 as presented is unaudited.</i></p><p>For more information, contact:\
+  \ February 1, 2022<br>Ted E. Whitehurst, President and CEO<br>252-467-2990; <a href=\"\
+  /cdn-cgi/l/email-protection#cebab9a6a7baaba6bbbcbdba8ebeaca5a0ade0ada1a3\"><span\
+  \ class=\"__cf_email__\" data-cfemail=\"790d0e11100d1c110c0b0a0d39091b12171a571a1614\"\
+  >[email&#160;protected]</span></a></p><p><strong>SOURCE:</strong> PB Financial Corporation</p></div>\
+  \ \n \n</div> \n</div> \n</div> \n<a href=\"/newsroom/\" class=\"link-block-5 _2\
+  \ w-inline-block w-clearfix\"><img src=\"https://www.accesswire.com/assets/images/BackArrow_1.png\"\
+  \ alt=\"\" class=\"backarrow\"><div class=\"backtext\">Back to Newsroom</div></a>\
+  \ \n \n \n</div> \n \n</div> \n \n \n \n<script data-cfasync=\"false\" src=\"/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js\"\
+  ></script><script type=\"text/javascript\"> \narticle_id = '686626'; \narticle_title\
+  \ = 'PB+Financial+Corporation+Declares+First-Quarter%2c+2022+Dividend'; \narticle_url\
+  \ = 'https://www.accesswire.com/686626/PB-Financial-Corporation-Declares-First-Quarter-2022-Dividend';\
+  \ \nvar status = 'Posted'; \nvar approve = false; \n \n \n//tracking visits \n$(function\
+  \ () { \nif (status == 'Posted') { \nnet3000.common.handlePromise({ \napiurl: '/api/logging/visit/v2/686626?ip=10.82.2.9',\
+  \ \nmethod: \"Put\" \n}); \n} \n \n}); \n \nnet3000.common.handlePromise({ \napiurl:\
+  \ 'https://api.newsroom.accesswire.com/serviceurl?accountid=6947&subaccountid=22235',\
+  \ \nparameters: { \ncallBackFunction: function (myResponse) { \nif (myResponse.code\
+  \ == 302) { \nshowNewsRoom(myResponse.data); \n} \n} \n} \n}); \nfunction approvalRequest(myResponse)\
+  \ { \nif (myResponse.code == 302) { \n$(\".changesapprove\").show(); \n} else {\
+  \ \n$(\"#msgBox\").html(net3000.common.msgBox(myResponse)); \n} \n} \n \n$(\"#approve\"\
+  ).click(function () { \nsubmitApprovalResponse(true); \n}); \n \n$(\"#submit-changes\"\
+  ).click(function () { \nsubmitApprovalResponse(false); \n}); \n \nfunction submitApprovalResponse(approved)\
+  \ { \nlet myData = {}; \nmyData.id = net3000.common.getQueryString(\"approvalRequest\"\
+  ); \nmyData.approve = approved; \nmyData.comments = $(\"textarea[name=changes]\"\
+  ).val(); \nnet3000.common.handlePromise({ \nurl: \"reportApproval\", \nparameters:\
+  \ { \ncallBackFunction: function (myResponse) { \n$(\".changesapprove\").hide();\
+  \ \n$(\".makechanges-div\").hide() \n$(\"#msgBox\").html(net3000.common.msgBox(myResponse));\
+  \ \n} \n}, \nbody: JSON.stringify(myData), \nmethod: \"POST\" \n}); \n} \n \nfunction\
+  \ showNewsRoom(url) { \n$(\"#newsroomlink a\").attr(\"href\", url); \n$(\"#newsroomlink\"\
+  ).show(); \n} \n \n</script> \n \n \n<div class=\"footertest mobile\"></div> \n\
+  <div class=\"footertest\"> \n<div id=\"w-node-b615dc1f-abc4-25be-ac7e-cff022d650fc-22d650fb\"\
+  \ class=\"footerdivider\"></div> \n<div> \n<div class=\"footerdiv w-clearfix\">\
+  \ \n<div class=\"socialicons v2\"> \n<a href=\"https://twitter.com/Accesswire\"\
+  \ target=\"_blank\" class=\"sociallink test w-inline-block\"><img src=\"/assets/images/Social_tw.png\"\
+  \ alt=\"\" class=\"image-20\"></a> \n<a href=\"https://www.facebook.com/Accesswire\"\
+  \ target=\"_blank\" class=\"sociallink test w-inline-block\"><img src=\"/assets/images/Social_fb.png\"\
+  \ alt=\"\" class=\"image-19\"></a> \n<a href=\"https://www.instagram.com/accesswire/\"\
+  \ target=\"_blank\" class=\"sociallink test w-inline-block\"><img src=\"/assets/images/Social_ig.png\"\
+  \ alt=\"\" class=\"image-12\"></a> \n</div> \n<div class=\"contactdiv\"> \n<div\
+  \ class=\"footerline\">Drop us a line:</div> \n<div class=\"linetext\"> \n<a href=\"\
+  tel:888-952-4446\" class=\"footlink\">888.952.4446</a><br> \n</div> \n</div> \n\
+  <div class=\"contactdiv email\"> \n<div class=\"footerline\">Email:</div> \n<div\
+  \ class=\"linetext _2\"> \n<a href=\"/cdn-cgi/l/email-protection#284c414f415c49445b49444d5b68494b4b4d5b5b5f415a4d064b4745\"\
+  \ class=\"footlink\">Sales</a><br> \n</div> \n<div class=\"linetext _2\"> \n<a href=\"\
+  /cdn-cgi/l/email-protection#89eafac9e8eaeaecfafafee0fbeca7eae6e4\" class=\"footlink\"\
+  >Editorial</a><br> \n</div> \n<div class=\"linetext\"> \n<a href=\"/cdn-cgi/l/email-protection#680e0d0d0c1b28090b0b0d1b1b1f011a0d460b0705\"\
+  \ class=\"footlink\">Content licensing</a><br> \n</div> \n</div> \n</div> \n</div>\
+  \ \n<div class=\"div-block-31\"> \n<div class=\"copyrightupdate\">Copyright 2022\
+  \ © ACCESSWIRE. All rights reserved. \n<a href=\"/privacy-policy\">Privacy Policy</a>\
+  \ &nbsp;| &nbsp; \n<a href=\"/terms-and-conditions\">Terms and Conditions</a> \n\
+  </div> \n</div> \n<div id=\"w-node-b615dc1f-abc4-25be-ac7e-cff022d650fd-22d650fb\"\
+  \ class=\"footercontainer w-container\"></div> \n</div> \n \n<script data-cfasync=\"\
+  false\" src=\"/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js\"\
+  ></script><script src=\"https://www.accesswire.com/assets/js/accesswire.js?v=1596568325\"\
+  \ type=\"text/javascript\"></script> \n<!-- [if lte IE 9]><script src=\"https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js\"\
+  ></script><![endif] --> \n<script type=\"text/javascript\"> \npiAId = '505721';\
+  \ \npiCId = '6668'; \npiHostname = 'pi.pardot.com'; \n(function () { \nfunction\
+  \ async_load() { \nvar s = document.createElement('script'); s.type = 'text/javascript';\
+  \ \ns.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn')\
+  \ + '.pardot.com/pd.js'; \nvar c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s,\
+  \ c); \n} \nif (window.attachEvent) { window.attachEvent('onload', async_load);\
+  \ } \nelse { window.addEventListener('load', async_load, false); } \n})(); \n</script>\
+  \ \n<script src=\"https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js\"\
+  \ integrity=\"sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN\"\
+  \ crossorigin=\"anonymous\"></script> \n<script src=\"https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js\"\
+  \ integrity=\"sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV\"\
+  \ crossorigin=\"anonymous\"></script> \n</body> \n</html>"
+src: /home/talha-umer/scrapy-spiders/src/data/accesswire.com/www.accesswire.com_686626_PB-Financial-Corporation-Declares-First-Quarter-2022-Dividend.yml
+tags:
+- article
+- accesswire.com
+text: 'ROCKY MOUNT, NC / ACCESSWIRE / February 1, 2022 / Ted E. Whitehurst, President
+  and CEO of PB Financial Corporation (OTCQX:PBNC), the holding company for Providence
+  Bank, announced today that the Board of Directors approved a quarterly cash dividend
+  of $0.28 per share on common stock outstanding to shareholders of record at the
+  close of business on February 8, 2022. The dividend is payable February 24, 2022.
+  This is an increase of 21.74% from the dividend paid during the 1st quarter of 2021.
+  This represents a $1.12 dividend on an annual basis and a yield of 2.81% (based
+  on the closing price on January 31, 2022 of $39.80/share). Whitehurst commented,
+  "This represents our 41 st consecutive quarterly cash dividend. Our consistent financial
+  performance has allowed us to increase our cash dividend every quarter since we
+  began paying dividends in the 1 st quarter of 2012. Increasing our cash dividend
+  continues to be an important part of our strategy to enhance shareholder value."
+  PB Financial Corporation is headquartered at 450 N. Winstead Avenue in Rocky Mount,
+  North Carolina, with branches in Rocky Mount, Tarboro, Nashville, Wilson and Raleigh.
+  As of December 31, 2021, PB Financial Corporation had total assets of $701.4 million,
+  loans of $550.7 million and total deposits of $573.1 million. www.pbknc.com This
+  press release may contain forward-looking statements within the meaning of the Private
+  Securities Litigation Reform Act of 1995 regarding PB Financial Corporation. Those
+  statements may include but are not limited to statements regarding the Company''s
+  plans, objectives, expectations and intentions and other statements identified by
+  words such as "believes," "considers," "expects," "anticipates," "estimates," "intends,"
+  "plans," "targets," "projects," "would be," and similar expressions. These statements
+  are based upon current beliefs and expectations of management of PB Financial Corporation
+  and are subject to significant risks and uncertainties. Actual or future results
+  or events may differ from those set forth in the forward-looking statements. PB
+  Financial Corporation does not undertake to update any forward-looking statements
+  in this press release. The information as of and for the quarter ended December
+  31, 2021 as presented is unaudited. For more information, contact: February 1, 2022
+  Ted E. Whitehurst, President and CEO 252-467-2990; [email protected] SOURCE: PB
+  Financial Corporation'
+title: PB Financial Corporation Declares First-Quarter, 2022 Dividend
+url: https://www.accesswire.com/686626/PB-Financial-Corporation-Declares-First-Quarter-2022-Dividend

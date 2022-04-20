@@ -1,0 +1,1347 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.canadiancattlemen.ca
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.canadiancattlemen.ca/cca-reports/cca-reports-leveraging-public-interest-in-agriculture/
+  response:
+    body:
+      string: "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<meta
+        http-equiv=\"x-ua-compatible\" content=\"ie=edge\"><script src=\"/cdn-cgi/apps/head/u5539TUfYKO79Nj45fw-p2io97c.js\"></script><script
+        type=\"text/javascript\">(window.NREUM||(NREUM={})).loader_config={licenseKey:\"fe93da1f7d\",applicationID:\"166767472\"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function
+        r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var
+        i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if(\"function\"==typeof
+        __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return
+        r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return
+        o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e(\"handle\"),a=e(6),c=e(7),f=e(\"ee\").get(\"tracer\"),u=e(\"loader\"),s=NREUM;\"undefined\"==typeof
+        window.newrelic&&(newrelic=s);var d=[\"setPageViewName\",\"setCustomAttribute\",\"setErrorHandler\",\"finished\",\"addToTrace\",\"inlineHit\",\"addRelease\"],p=\"api-\",l=p+\"ixn-\";a(d,function(e,t){s[t]=i(p+t,!0,\"api\")}),s.addPageAction=i(p+\"addPageAction\",!0),s.setCurrentRouteName=i(p+\"routeName\",!0),t.exports=newrelic,s.interaction=function(){return(new
+        r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i=\"function\"==typeof
+        t;return o(l+\"tracer\",[u.now(),e,n],r),function(){if(f.emit((i?\"\":\"no-\")+\"fn-start\",[u.now(),r,i],n),i)try{return
+        t.apply(this,arguments)}catch(e){throw f.emit(\"fn-err\",[arguments,this,e],n),e}finally{f.emit(\"fn-end\",[u.now()],n)}}}};a(\"actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get\".split(\",\"),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){\"string\"==typeof
+        e&&(e=new Error(e)),o(\"err\",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function
+        r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new
+        Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(8);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function
+        r(e,t){var n=e.getEntries();n.forEach(function(e){\"first-paint\"===e.name?d(\"timing\",[\"fp\",Math.floor(e.startTime)]):\"first-contentful-paint\"===e.name&&d(\"timing\",[\"fcp\",Math.floor(e.startTime)])})}function
+        i(e,t){var n=e.getEntries();n.length>0&&d(\"lcp\",[n[n.length-1]])}function
+        o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d(\"cls\",[e])})}function
+        a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d(\"timing\",[\"fi\",t,n])}}function
+        c(e){d(\"pageHide\",[p.now(),e])}if(!(\"init\"in NREUM&&\"page_view_timing\"in
+        NREUM.init&&\"enabled\"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var
+        f,u,s,d=e(\"handle\"),p=e(\"loader\"),l=e(5),m=NREUM.o.EV;if(\"PerformanceObserver\"in
+        window&&\"function\"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:[\"paint\"]})}catch(v){}u=new
+        PerformanceObserver(i);try{u.observe({entryTypes:[\"largest-contentful-paint\"]})}catch(v){}s=new
+        PerformanceObserver(o);try{s.observe({type:\"layout-shift\",buffered:!0})}catch(v){}}if(\"addEventListener\"in
+        document){var g=!1,y=[\"click\",\"keydown\",\"mousedown\",\"pointerdown\",\"touchstart\"];y.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],4:[function(e,t,n){function
+        r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var
+        n=o.split(\".\"),r=t.split(\".\"),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var
+        i=null,o=null,a=/Version\\/(\\S+)\\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf(\"Chrome\")===-1&&c.indexOf(\"Chromium\")===-1&&(i=\"Safari\",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],5:[function(e,t,n){function
+        r(e){function t(){e(a&&document[a]?document[a]:document[i]?\"hidden\":\"visible\")}\"addEventListener\"in
+        document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;\"undefined\"!=typeof
+        document.hidden?(i=\"hidden\",o=\"visibilitychange\",a=\"visibilityState\"):\"undefined\"!=typeof
+        document.msHidden?(i=\"msHidden\",o=\"msvisibilitychange\"):\"undefined\"!=typeof
+        document.webkitHidden&&(i=\"webkitHidden\",o=\"webkitvisibilitychange\",a=\"webkitVisibilityState\")},{}],6:[function(e,t,n){function
+        r(e,t){var n=[],r=\"\",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return
+        n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],7:[function(e,t,n){function
+        r(e,t,n){t||(t=0),\"undefined\"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return
+        o}t.exports=r},{}],8:[function(e,t,n){t.exports={exists:\"undefined\"!=typeof
+        window.performance&&window.performance.timing&&\"undefined\"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function
+        r(){}function i(e){function t(e){return e&&e instanceof r?e:e?f(e,c,o):o()}function
+        n(n,r,i,o){if(!p.aborted||o){e&&e(n,r,i);for(var a=t(i),c=v(n),f=c.length,u=0;u<f;u++)c[u].apply(a,r);var
+        d=s[w[n]];return d&&d.push([b,n,r,a]),a}}function l(e,t){h[e]=v(e).concat(t)}function
+        m(e,t){var n=h[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function
+        v(e){return h[e]||[]}function g(e){return d[e]=d[e]||i(n)}function y(e,t){u(e,function(e,n){t=t||\"feature\",w[n]=t,t
+        in s||(s[t]=[])})}var h={},w={},b={on:l,addEventListener:l,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:y,abort:a,aborted:!1};return
+        b}function o(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var
+        c=\"nr@context\",f=e(\"gos\"),u=e(6),s={},d={},p=t.exports=i();p.backlog=s},{}],gos:[function(e,t,n){function
+        r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return
+        Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return
+        e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function
+        r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e(\"ee\").get(\"handle\");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function
+        r(e){var t=typeof e;return!e||\"object\"!==t&&\"function\"!==t?-1:e===window?0:a(e,o,function(){return
+        i++})}var i=1,o=\"nr@id\",a=e(\"gos\");t.exports=r},{}],loader:[function(e,t,n){function
+        r(){if(!E++){var e=b.info=NREUM.info,t=p.getElementsByTagName(\"script\")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return
+        u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c(\"mark\",[\"onload\",n+b.offset],null,\"api\"),c(\"timing\",[\"load\",n]);var
+        r=p.createElement(\"script\");r.src=\"https://\"+e.agent,t.parentNode.insertBefore(r,t)}}function
+        i(){\"complete\"===p.readyState&&o()}function o(){c(\"mark\",[\"domContent\",a()+b.offset],null,\"api\")}var
+        a=e(2),c=e(\"handle\"),f=e(6),u=e(\"ee\"),s=e(4),d=window,p=d.document,l=\"addEventListener\",m=\"attachEvent\",v=d.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:v,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var
+        y=\"\"+location,h={beacon:\"bam.nr-data.net\",errorBeacon:\"bam.nr-data.net\",agent:\"js-agent.newrelic.com/nr-1184.min.js\"},w=v&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:w,userAgent:s};e(1),e(3),p[l]?(p[l](\"DOMContentLoaded\",o,!1),d[l](\"load\",r,!1)):(p[m](\"onreadystatechange\",i),d[m](\"onload\",r)),c(\"mark\",[\"firstbyte\",a.getLastTimestamp()],null,\"api\");var
+        E=0},{}],\"wrap-function\":[function(e,t,n){function r(e){return!(e&&e instanceof
+        Function&&e.apply&&!e[a])}var i=e(\"ee\"),o=e(7),a=\"nr@original\",c=Object.prototype.hasOwnProperty,f=!1;t.exports=function(e,t){function
+        n(e,t,n,i){function nrWrapper(){var r,a,c,f;try{a=this,r=o(arguments),c=\"function\"==typeof
+        n?n(r,a):n||{}}catch(u){p([u,\"\",[r,a,i],c])}s(t+\"start\",[r,a,i],c);try{return
+        f=e.apply(a,r)}catch(d){throw s(t+\"err\",[r,a,d],c),d}finally{s(t+\"end\",[r,a,f],c)}}return
+        r(e)?e:(t||(t=\"\"),nrWrapper[a]=e,d(e,nrWrapper),nrWrapper)}function u(e,t,i,o){i||(i=\"\");var
+        a,c,f,u=\"-\"===i.charAt(0);for(f=0;f<t.length;f++)c=t[f],a=e[c],r(a)||(e[c]=n(a,u?c+i:i,o,c))}function
+        s(n,r,i){if(!f||t){var o=f;f=!0;try{e.emit(n,r,i,t)}catch(a){p([a,n,r,i])}f=o}}function
+        d(e,t){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(e);return
+        n.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return
+        e[n]=t,t}})}),t}catch(r){p([r])}for(var i in e)c.call(e,i)&&(t[i]=e[i]);return
+        t}function p(t){try{e.emit(\"internal-error\",t)}catch(n){}}return e||(e=i),n.inPlace=u,n.flag=a,n}},{}]},{},[\"loader\"]);</script>\n<meta
+        name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<title>CCA
+        reports: Leveraging public interest in agriculture | Canadian Cattlemen</title>\n<link
+        rel=\"profile\" href=\"https://gmpg.org/xfn/11\" />\n<link rel=\"pingback\"
+        href=\"https://www.canadiancattlemen.ca/xmlrpc.php\" />\n<style type=\"text/css\">\t\t\t.heateorSssInstagramBackground{background:radial-gradient(circle
+        at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}\n\t\t\t\t\t\t\t\t\t\t\t.heateor_sss_horizontal_sharing
+        .heateorSssSharing,.heateor_sss_standard_follow_icons_container .heateorSssSharing{\n\t\t\t\t\t\t\tcolor:
+        #fff;\n\t\t\t\t\t\tborder-width: 0px;\n\t\t\tborder-style: solid;\n\t\t\tborder-color:
+        transparent;\n\t\t}\n\t\t\t\t.heateor_sss_horizontal_sharing .heateorSssTCBackground{\n\t\t\tcolor:#666;\n\t\t}\n\t\t\t\t.heateor_sss_horizontal_sharing
+        .heateorSssSharing:hover,.heateor_sss_standard_follow_icons_container .heateorSssSharing:hover{\n\t\t\t\t\t\tborder-color:
+        transparent;\n\t\t}\n\t\t.heateor_sss_vertical_sharing .heateorSssSharing,.heateor_sss_floating_follow_icons_container
+        .heateorSssSharing{\n\t\t\t\t\t\t\tcolor: #fff;\n\t\t\t\t\t\tborder-width:
+        0px;\n\t\t\tborder-style: solid;\n\t\t\tborder-color: transparent;\n\t\t}\n\t\t\t\t.heateor_sss_vertical_sharing
+        .heateorSssTCBackground{\n\t\t\tcolor:#666;\n\t\t}\n\t\t\t\t.heateor_sss_vertical_sharing
+        .heateorSssSharing:hover,.heateor_sss_floating_follow_icons_container .heateorSssSharing:hover{\n\t\t\t\t\t\tborder-color:
+        transparent;\n\t\t}\n\t\t\n\t\t@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}@media
+        screen and (max-width:783px) {.heateor_sss_floating_follow_icons_container{display:none!important}}div.heateor_sss_mobile_footer{display:none;}@media
+        screen and (max-width:783px){i.heateorSssTCBackground{background-color:white!important}div.heateor_sss_bottom_sharing{width:100%!important;left:0!important;}div.heateor_sss_bottom_sharing
+        li{width:11.111111111111% !important;}div.heateor_sss_bottom_sharing .heateorSssSharing{width:
+        100% !important;}div.heateor_sss_bottom_sharing div.heateorSssTotalShareCount{font-size:1em!important;line-height:21px!important}div.heateor_sss_bottom_sharing
+        div.heateorSssTotalShareText{font-size:.7em!important;line-height:0px!important}div.heateor_sss_mobile_footer{display:block;height:30px;}.heateor_sss_bottom_sharing{padding:0!important;display:block!important;width:
+        auto!important;bottom:-2px!important;top: auto!important;}.heateor_sss_bottom_sharing
+        .heateor_sss_square_count{line-height: inherit;}.heateor_sss_bottom_sharing
+        .heateorSssSharingArrow{display:none;}.heateor_sss_bottom_sharing .heateorSssTCBackground{margin-right:
+        1.1em !important}}</style>\n\n<meta name=\"description\" content=\"The past
+        year has been a challenging one for our industry as we cope with the impacts
+        from the COVID-19 pandemic. It is easy to only look at the negative\" />\n<meta
+        name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large,
+        max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://www.canadiancattlemen.ca/cca-reports/cca-reports-leveraging-public-interest-in-agriculture/\"
+        />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\"
+        content=\"article\" />\n<meta property=\"og:title\" content=\"CCA reports:
+        Leveraging public interest in agriculture | Canadian Cattlemen\" />\n<meta
+        property=\"og:description\" content=\"The past year has been a challenging
+        one for our industry as we cope with the impacts from the COVID-19 pandemic.
+        It is easy to only look at the negative\" />\n<meta property=\"og:url\" content=\"https://www.canadiancattlemen.ca/cca-reports/cca-reports-leveraging-public-interest-in-agriculture/\"
+        />\n<meta property=\"og:site_name\" content=\"Canadian Cattlemen\" />\n<meta
+        property=\"article:published_time\" content=\"2020-11-13T20:16:25+00:00\"
+        />\n<meta property=\"article:modified_time\" content=\"2020-11-13T20:16:26+00:00\"
+        />\n<meta property=\"og:image\" content=\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/11/13131555/cattle-pasture-bigbluesky-0061.jpg\"
+        />\n<meta property=\"og:image:width\" content=\"1000\" />\n<meta property=\"og:image:height\"
+        content=\"675\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"Organization\",\"@id\":\"https://www.canadiancattlemen.ca/#organization\",\"name\":\"Canadian
+        Cattlemen\",\"url\":\"https://www.canadiancattlemen.ca/\",\"sameAs\":[],\"logo\":{\"@type\":\"ImageObject\",\"@id\":\"https://www.canadiancattlemen.ca/#logo\",\"inLanguage\":\"en-US\",\"url\":\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/03/17130106/canadian-cattlemen.png\",\"width\":688,\"height\":170,\"caption\":\"Canadian
+        Cattlemen\"},\"image\":{\"@id\":\"https://www.canadiancattlemen.ca/#logo\"}},{\"@type\":\"WebSite\",\"@id\":\"https://www.canadiancattlemen.ca/#website\",\"url\":\"https://www.canadiancattlemen.ca/\",\"name\":\"Canadian
+        Cattlemen\",\"description\":\"The Beef Magazine\",\"publisher\":{\"@id\":\"https://www.canadiancattlemen.ca/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://www.canadiancattlemen.ca/?s={search_term_string}\",\"query-input\":\"required
+        name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ImageObject\",\"@id\":\"https://www.canadiancattlemen.ca/cca-reports/cca-reports-leveraging-public-interest-in-agriculture/#primaryimage\",\"inLanguage\":\"en-US\",\"url\":\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/11/13131555/cattle-pasture-bigbluesky-0061.jpg\",\"width\":1000,\"height\":675},{\"@type\":\"WebPage\",\"@id\":\"https://www.canadiancattlemen.ca/cca-reports/cca-reports-leveraging-public-interest-in-agriculture/#webpage\",\"url\":\"https://www.canadiancattlemen.ca/cca-reports/cca-reports-leveraging-public-interest-in-agriculture/\",\"name\":\"CCA
+        reports: Leveraging public interest in agriculture | Canadian Cattlemen\",\"isPartOf\":{\"@id\":\"https://www.canadiancattlemen.ca/#website\"},\"primaryImageOfPage\":{\"@id\":\"https://www.canadiancattlemen.ca/cca-reports/cca-reports-leveraging-public-interest-in-agriculture/#primaryimage\"},\"datePublished\":\"2020-11-13T20:16:25+00:00\",\"dateModified\":\"2020-11-13T20:16:26+00:00\",\"description\":\"The
+        past year has been a challenging one for our industry as we cope with the
+        impacts from the COVID-19 pandemic. It is easy to only look at the negative\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://www.canadiancattlemen.ca/cca-reports/cca-reports-leveraging-public-interest-in-agriculture/\"]}],\"author\":[{\"@type\":\"Person\",\"@id\":\"https://www.canadiancattlemen.ca/contributor/bob-lowe\",\"name\":\"Bob
+        Lowe\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://secure.gravatar.com/avatar/?s=96&d=mm&r=g\",\"caption\":\"Bob
+        Lowe\"}}]},{\"@type\":\"Article\",\"@id\":\"https://www.canadiancattlemen.ca/cca-reports/cca-reports-leveraging-public-interest-in-agriculture/#article\",\"isPartOf\":{\"@id\":\"https://www.canadiancattlemen.ca/cca-reports/cca-reports-leveraging-public-interest-in-agriculture/#webpage\"},\"author\":{\"@id\":\"https://www.canadiancattlemen.ca/#/schema/person/eaba8fd331278824678c736f3e918269\"},\"headline\":\"CCA
+        reports: Leveraging public interest in agriculture\",\"datePublished\":\"2020-11-13T20:16:25+00:00\",\"dateModified\":\"2020-11-13T20:16:26+00:00\",\"mainEntityOfPage\":{\"@id\":\"https://www.canadiancattlemen.ca/cca-reports/cca-reports-leveraging-public-interest-in-agriculture/#webpage\"},\"commentCount\":0,\"publisher\":{\"@id\":\"https://www.canadiancattlemen.ca/#organization\"},\"image\":{\"@id\":\"https://www.canadiancattlemen.ca/cca-reports/cca-reports-leveraging-public-interest-in-agriculture/#primaryimage\"},\"keywords\":\"CCA
+        reports\",\"articleSection\":\"CCA reports,News\",\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"CommentAction\",\"name\":\"Comment\",\"target\":[\"https://www.canadiancattlemen.ca/cca-reports/cca-reports-leveraging-public-interest-in-agriculture/#respond\"]}]},{\"@type\":\"Person\",\"@id\":\"https://www.canadiancattlemen.ca/#/schema/person/eaba8fd331278824678c736f3e918269\",\"name\":\"undefined\",\"image\":{\"@type\":\"ImageObject\",\"@id\":\"https://www.canadiancattlemen.ca/#personlogo\",\"inLanguage\":\"en-US\",\"url\":\"https://secure.gravatar.com/avatar/ab0c509d919ef61fe65418dd3b4de136?s=96&d=mm&r=g\",\"caption\":\"undefined\"}}]}</script>\n\n<link
+        rel='dns-prefetch' href='//auth.lrcontent.com' />\n<link rel='dns-prefetch'
+        href='//ajax.googleapis.com' />\n<link rel='dns-prefetch' href='//securepubads.g.doubleclick.net'
+        />\n<link rel='dns-prefetch' href='//s.w.org' />\n<link rel=\"alternate\"
+        type=\"application/rss+xml\" title=\"Canadian Cattlemen &raquo; CCA reports:
+        Leveraging public interest in agriculture Comments Feed\" href=\"https://www.canadiancattlemen.ca/cca-reports/cca-reports-leveraging-public-interest-in-agriculture/feed/\"
+        />\n<link rel='stylesheet' id='wp-block-library-css' href='https://www.canadiancattlemen.ca/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1'
+        type='text/css' media='all' />\n<style id='wp-block-library-inline-css' type='text/css'>\n.has-text-align-justify{text-align:justify;}\n</style>\n<link
+        rel='stylesheet' id='glacier-carousel-style-css' href='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-carousel/assets/css/slick.css?ver=1.0.1'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='explore-css' href='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-explore-bar//includes/css/explore-bar.css?ver=1.5.1'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='agcanada-tv-css'
+        href='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-gvp-video/css/agcanada-tv.css?ver=1.0.4'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='gfm-notice-style-css'
+        href='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-important-notice-bar//css/important-notices.css?ver=1.1.0'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='gmm-menu-css' href='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-membership-menu/css/gfm-membership-menu.css?ver=2.0.10'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='cc-styles-css'
+        href='https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/css/cc.css?ver=2.5.402.2.7'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='related-articles-style-css'
+        href='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-related-article-widget/css/related-articles.css?ver=1.0.2'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='heateor_sss_frontend_css-css'
+        href='https://www.canadiancattlemen.ca/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=3.3.13'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='heateor_sss_sharing_default_svg-css'
+        href='https://www.canadiancattlemen.ca/wp-content/plugins/sassy-social-share/admin/css/sassy-social-share-svg.css?ver=3.3.13'
+        type='text/css' media='all' />\n<script type='text/javascript' src='https://www.canadiancattlemen.ca/wp-content/mu-plugins/gfm-core-plugin/gfm/tracking/classes/../assets/js/gfm_track.js?ver=1.3.5'
+        id='gfm_tracking_event-js'></script>\n<script type='text/javascript' async=\"async\"
+        src='https://securepubads.g.doubleclick.net/tag/js/gpt.js?ver=2.5.40' id='dfp-ads-js'></script>\n<script
+        type='text/javascript' id='dfp-ads-js-after'>\nvar browser_width = window.innerWidth
+        || window.document.documentElement.clientWidth,\n        browser_height =
+        window.innerHeight || window.document.documentElement.clientHeight,\n        breakpoints
+        = {\n            'xxlarge': 1920,\n            'xlarge': 1354,\n            'large':
+        1184,\n            'medium': 976,\n            'mobile': 590\n        };\n\n
+        \       var gptadslots = [];\n        var googletag = googletag || {};\n        googletag.cmd
+        = googletag.cmd || [];\n</script>\n<link rel=\"https://api.w.org/\" href=\"https://www.canadiancattlemen.ca/wp-json/\"
+        /><link rel=\"alternate\" type=\"application/json\" href=\"https://www.canadiancattlemen.ca/wp-json/wp/v2/posts/112715\"
+        /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://www.canadiancattlemen.ca/xmlrpc.php?rsd\"
+        />\n<link rel=\"wlwmanifest\" type=\"application/wlwmanifest+xml\" href=\"https://www.canadiancattlemen.ca/wp-includes/wlwmanifest.xml\"
+        />\n<meta name=\"generator\" content=\"WordPress 5.5.1\" />\n<link rel='shortlink'
+        href='https://www.canadiancattlemen.ca/?p=112715' />\n<link rel=\"alternate\"
+        type=\"application/json+oembed\" href=\"https://www.canadiancattlemen.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.canadiancattlemen.ca%2Fcca-reports%2Fcca-reports-leveraging-public-interest-in-agriculture%2F\"
+        />\n<link rel=\"alternate\" type=\"text/xml+oembed\" href=\"https://www.canadiancattlemen.ca/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.canadiancattlemen.ca%2Fcca-reports%2Fcca-reports-leveraging-public-interest-in-agriculture%2F&#038;format=xml\"
+        />\n<script data-cfasync=\"false\" type=\"text/javascript\">//<![CDATA[\n\tvar
+        dataLayer = dataLayer || [];\n//]]>\n</script>\n<script data-cfasync=\"false\"
+        type=\"text/javascript\">//<![CDATA[\n\tdataLayer.push({\"pagePostType\":\"post\",\n\t\"pageCategory\":[[\"news\"]],\n\t\"pageAttributes\":[[\"CCA
+        reports\"]],\n\t\"pageCommodity\":[[\"beef cattle\",\"cattle\",\"cow-calf\",\"feedlot\"]],\n\t\"pagePostAuthor\":\"Bob
+        Lowe\",\n\t\"pagePostDate\":\"November 13, 2020\",\n\t\"pagePostDateYear\":\"2020\",\n\t\"pagePostDateMonth\":\"11\",\n\t\"pagePostDateDay\":\"13\"});//]]>\n</script>\n<script
+        type='text/javascript'>\n\tvar adsToRefreshOn = {\n\t\t'small': [],\n\t\t'mobile':
+        [],\n\t\t'medium': [],\n\t\t'large': [],\n\t\t'xlarge': [],\n\t\t'galleryRefresh':
+        []\n\t};\n\n\tgoogletag.cmd.push( function() {\n\t\tgoogletag.pubads().setForceSafeFrame(true);\n\t\t\n\n\t\tvar
+        inline__1 = googletag.defineSlot('/76643716/canadian_cattlemen/news', [[300,250]],
+        \ 'dfp-ad-slot--inline--1')\n\t\t\t.setTargeting( \"position\" , [ \"content1\"
+        ] )\n\t\t\t\n\t\t\t.setCollapseEmptyDiv( true )\n           .setSafeFrameConfig({allowPushExpansion:
+        true, allowOverlayExpansion: true, sandbox: true})\n           .setForceSafeFrame(true)\n\t\t\t.addService(
+        googletag.pubads() )\n;\ngptadslots.push( inline__1 );\n\n\t\tvar inline__2
+        = googletag.defineSlot('/76643716/canadian_cattlemen/news', [[300,250]],  'dfp-ad-slot--inline--2')\n\t\t\t.setTargeting(
+        \"position\" , [ \"content2\" ] )\n\t\t\t\n\t\t\t.setCollapseEmptyDiv( true
+        )\n           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion:
+        true, sandbox: true})\n           .setForceSafeFrame(true)\n\t\t\t.addService(
+        googletag.pubads() )\n;\ngptadslots.push( inline__2 );\n\n\t\tvar inline__3
+        = googletag.defineSlot('/76643716/canadian_cattlemen/news', [[300,250]],  'dfp-ad-slot--inline--3')\n\t\t\t.setTargeting(
+        \"position\" , [ \"content3\" ] )\n\t\t\t\n\t\t\t.setCollapseEmptyDiv( true
+        )\n           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion:
+        true, sandbox: true})\n           .setForceSafeFrame(true)\n\t\t\t.addService(
+        googletag.pubads() )\n;\ngptadslots.push( inline__3 );var lazyloadleaderboard_mapping
+        = googletag.sizeMapping()\n\t\t.addSize( [ breakpoints.medium, 1], [728, 90]
+        )\n\t\t.addSize( [ 0, 0], [] )\n\t\t.build();\n\n\t\tvar lazyloadleaderboard__1
+        = googletag.defineSlot('/76643716/canadian_cattlemen/news', [[728,90]],  'dfp-ad-slot--lazy-load-leaderboard')\n\t\t\t.setTargeting(
+        \"position\" , [ \"footer1\" ] )\n\t\t\t.defineSizeMapping(lazyloadleaderboard_mapping)\n\t\t\t.setCollapseEmptyDiv(
+        true )\n           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion:
+        true, sandbox: true})\n           .setForceSafeFrame(true)\n\t\t\t.addService(
+        googletag.pubads() )\n;\ngptadslots.push( lazyloadleaderboard__1 );var under_header_leaderboard_mapping
+        = googletag.sizeMapping()\n\t\t.addSize( [ 1085, 1], [] )\n\t\t.addSize( [
+        breakpoints.medium, 1], [728, 90] )\n\t\t.addSize( [ 0, 0], [] )\n\t\t.build();\n\n\t\tvar
+        under_header_leaderboard__1 = googletag.defineSlot('/76643716/canadian_cattlemen/news',
+        [[728,90]],  'dfp-ad-slot--under_header_leaderboard')\n\t\t\t.setTargeting(
+        \"position\" , [ \"header1\" ] )\n\t\t\t.defineSizeMapping(under_header_leaderboard_mapping)\n\t\t\t.setCollapseEmptyDiv(
+        true )\n           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion:
+        true, sandbox: true})\n           .setForceSafeFrame(true)\n\t\t\t.addService(
+        googletag.pubads() )\n;\ngptadslots.push( under_header_leaderboard__1 );\nadsToRefreshOn.medium.push(
+        under_header_leaderboard__1 );var flag_leaderboard_mapping = googletag.sizeMapping()\n\t\t.addSize(
+        [ 1085, 1], [728, 90] )\n\t\t.addSize( [ 0, 0], [] )\n\t\t.build();\n\n\t\tvar
+        flag_leaderboard__1 = googletag.defineSlot('/76643716/canadian_cattlemen/news',
+        [[728,90]],  'dfp-ad-slot--flag_leaderboard')\n\t\t\t.setTargeting( \"position\"
+        , [ \"header1\" ] )\n\t\t\t.defineSizeMapping(flag_leaderboard_mapping)\n\t\t\t.setCollapseEmptyDiv(
+        true )\n           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion:
+        true, sandbox: true})\n           .setForceSafeFrame(true)\n\t\t\t.addService(
+        googletag.pubads() )\n;\ngptadslots.push( flag_leaderboard__1 );\nadsToRefreshOn.medium.push(
+        flag_leaderboard__1 );\n\n\t\tvar float__1 = googletag.defineOutOfPageSlot('/76643716/canadian_cattlemen/news',
+        \ 'dfp-ad-slot--float')\n\t\t\t.setTargeting( \"position\" , [ \"floating\"
+        ] )\n\t\t\t\n\t\t\t.setCollapseEmptyDiv( true )\n           .setSafeFrameConfig({allowPushExpansion:
+        true, allowOverlayExpansion: true, sandbox: true})\n           .setForceSafeFrame(true)\n\t\t\t.addService(
+        googletag.pubads() )\n;\ngptadslots.push( float__1 );\nadsToRefreshOn.small.push(
+        float__1 );var mobile_banner_mapping = googletag.sizeMapping()\n\t\t.addSize(
+        [ breakpoints.medium, 1], [] )\n\t\t.addSize( [ 0, 0], [320, 50] )\n\t\t.build();\n\n\t\tvar
+        mobile_banner__1 = googletag.defineSlot('/76643716/canadian_cattlemen/news',
+        [[320,50]],  'dfp-ad-slot--mobile_banner')\n\t\t\t.setTargeting( \"position\"
+        , [ \"mobile1\" ] )\n\t\t\t.defineSizeMapping(mobile_banner_mapping)\n\t\t\t.setCollapseEmptyDiv(
+        true )\n           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion:
+        true, sandbox: true})\n           .setForceSafeFrame(true)\n\t\t\t.addService(
+        googletag.pubads() )\n;\ngptadslots.push( mobile_banner__1 );\nadsToRefreshOn.medium.push(
+        mobile_banner__1 );var large_and_xlarge_bigbox_mapping = googletag.sizeMapping()\n\t\t.addSize(
+        [ breakpoints.large, 1], [300, 250] )\n\t\t.addSize( [ 0, 0], [] )\n\t\t.build();\n\n\t\tvar
+        large_and_xlarge_bigbox__1 = googletag.defineSlot('/76643716/canadian_cattlemen/news',
+        [[300,250]],  'dfp-ad-slot--large_and_xlarge_bigbox--1')\n\t\t\t.setTargeting(
+        \"position\" , [ \"rightrail1\" ] )\n\t\t\t.defineSizeMapping(large_and_xlarge_bigbox_mapping)\n\t\t\t.setCollapseEmptyDiv(
+        true )\n           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion:
+        true, sandbox: true})\n           .setForceSafeFrame(true)\n\t\t\t.addService(
+        googletag.pubads() )\n;\ngptadslots.push( large_and_xlarge_bigbox__1 );\nadsToRefreshOn.large.push(
+        large_and_xlarge_bigbox__1 );\n\n\t\tvar large_and_xlarge_bigbox__2 = googletag.defineSlot('/76643716/canadian_cattlemen/news',
+        [[300,250]],  'dfp-ad-slot--large_and_xlarge_bigbox--2')\n\t\t\t.setTargeting(
+        \"position\" , [ \"rightrail2\" ] )\n\t\t\t.defineSizeMapping(large_and_xlarge_bigbox_mapping)\n\t\t\t.setCollapseEmptyDiv(
+        true )\n           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion:
+        true, sandbox: true})\n           .setForceSafeFrame(true)\n\t\t\t.addService(
+        googletag.pubads() )\n;\ngptadslots.push( large_and_xlarge_bigbox__2 );\nadsToRefreshOn.large.push(
+        large_and_xlarge_bigbox__2 );\n\n\t\tvar large_and_xlarge_bigbox__3 = googletag.defineSlot('/76643716/canadian_cattlemen/news',
+        [[300,250]],  'dfp-ad-slot--large_and_xlarge_bigbox--3')\n\t\t\t.setTargeting(
+        \"position\" , [ \"rightrail3\" ] )\n\t\t\t.defineSizeMapping(large_and_xlarge_bigbox_mapping)\n\t\t\t.setCollapseEmptyDiv(
+        true )\n           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion:
+        true, sandbox: true})\n           .setForceSafeFrame(true)\n\t\t\t.addService(
+        googletag.pubads() )\n;\ngptadslots.push( large_and_xlarge_bigbox__3 );\nadsToRefreshOn.large.push(
+        large_and_xlarge_bigbox__3 );\n\n\t\tvar video_sponsorship__1 = googletag.defineSlot('/76643716/canadian_cattlemen/news',
+        [[298,50]],  'dfp-ad-slot--video_sponsorship')\n\t\t\t.setTargeting( \"position\"
+        , [ \"video1\" ] )\n\t\t\t\n\t\t\t.setCollapseEmptyDiv( true )\n           .setSafeFrameConfig({allowPushExpansion:
+        true, allowOverlayExpansion: true, sandbox: true})\n           .setForceSafeFrame(true)\n\t\t\t.addService(
+        googletag.pubads() )\n;\ngptadslots.push( video_sponsorship__1 );var mem_offers_rail_mapping
+        = googletag.sizeMapping()\n\t\t.addSize( [ 0, 0], [] )\n\t\t.addSize( [ breakpoints.medium,
+        1], [300, 100] )\n\t\t.build();\n\n\t\tvar mem_offers_rail__1 = googletag.defineSlot('/76643716/canadian_cattlemen/news',
+        [[300,100]],  'dfp-ad-slot--mem_offers_rail')\n\t\t\t.setTargeting( \"position\"
+        , [ \"s1\" ] )\n\t\t\t.defineSizeMapping(mem_offers_rail_mapping)\n\t\t\t.setCollapseEmptyDiv(
+        true )\n           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion:
+        true, sandbox: true})\n           .setForceSafeFrame(true)\n\t\t\t.addService(
+        googletag.pubads() )\n;\ngptadslots.push( mem_offers_rail__1 );\nadsToRefreshOn.medium.push(
+        mem_offers_rail__1 );\n\tgoogletag.pubads()\n\n\t.setTargeting(\"section\",
+        [\"news\"]).setTargeting(\"commodity\", [\"beef cattle\",\"cattle\",\"cow-calf\",\"feedlot\"]).setTargeting(\"storytags\",
+        [\"CCA reports\"] ).setTargeting(\"is_page\", [\"cca-reports-leveraging-public-interest-in-agriculture\"]
+        )\t;\n\t\t\tgoogletag.pubads().setTargeting('site',['canadiancattlemen']);\n\t\tgoogletag.enableServices();\n\t\tgoogletag.pubads().enableAsyncRendering();\n\t\tgoogletag.pubads().enableSingleRequest();\n\t}
+        );\n\t</script>\n<script>\n        var FBC = FBC || {};\n        FBC.ajaxurl
+        = \"https://www.canadiancattlemen.ca/wp-admin/admin-ajax.php\";\n        FBC.browser_width
+        = window.innerWidth || window.document.documentElement.clientWidth;\n        var
+        FBC_MBC = FBC_MBC || FBC; //backwards compat\n        </script>\n<link rel=\"shortcut
+        icon\" type=\"image/x-icon\" href=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/ico/favicon.ico\"
+        /><link rel=\"manifest\" href=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/ico/manifest.json?ver=2.2.7\"
+        /><meta name=\"msapplication-TileColor\" content=\"#aa1f23\"><meta name=\"msapplication-TileImage\"
+        content=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/ico/ms-icon-144x144.png\"
+        /><link rel=\"apple-touch-icon\" sizes=\"54x54\" href=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/ico/apple-icon-54x54.png\"
+        /><link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/ico/apple-icon-72x72.png\"
+        /><link rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/ico/apple-icon-144x144.png\"
+        /><link rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/ico/apple-icon-120x120.png\"
+        /><link rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/ico/apple-icon-152x152.png\"
+        /><link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/ico/apple-icon-180x180.png\"
+        /><link rel=\"android-icon\" sizes=\"36x36\" href=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/ico/android-icon-36x36.png\"
+        /><link rel=\"android-icon\" sizes=\"48x48\" href=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/ico/android-icon-48x48.png\"
+        /><link rel=\"android-icon\" sizes=\"72x72\" href=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/ico/android-icon-72x72.png\"
+        /><link rel=\"android-icon\" sizes=\"96x96\" href=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/ico/android-icon-96x96.png\"
+        /><link rel=\"android-icon\" sizes=\"144x144\" href=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/ico/android-icon-144x144.png\"
+        /><link rel=\"android-icon\" sizes=\"192x192\" href=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/ico/android-icon-192x192.png\"
+        /><meta name=\"msapplication-square70x70\" content=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/ico/ms-icon-70x70.png\"
+        /><meta name=\"msapplication-square150x150\" content=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/ico/ms-icon-150x150.png\"
+        /><meta name=\"msapplication-square310x310\" content=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/ico/ms-icon-310x310.png\"
+        /> <script>var CATEGORIES_FOR_GA = 'CCA reports,News';</script>\n<script>var
+        POST_TYPE_FOR_ANALYTICS = 'post';</script>\n<script>var POST_DATE_FOR_ANALYTICS
+        = '2020/11/13';</script>\n<script>var POST_SOURCE_FOR_ANALYTICS = 'indesign
+        import';</script>\n<meta property=\"site\" content=\"canadiancattlemen\"><meta
+        property=\"section\" content=\"news\"><meta property=\"subsection\" content=\"\"><meta
+        property=\"commodity\" content=\"beef cattle,cattle,cow-calf,feedlot\"><meta
+        property=\"storytags\" content=\"CCA reports\">\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n\t\tnew
+        Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\n\t\tj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n\t\t\t\t\t'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n\t\t})(window,document,'script','dataLayer','GTM-PLC7SN');</script>
+        <script>\n\t\tvar site_url__gfm = 'https://www.canadiancattlemen.ca';\n\t\ttry{Typekit.load({async:true});}catch(e){}\n\t</script>\n<meta
+        name=\"application-name\" content=\"Canadian Cattlemen\">\n\n<script type=\"text/javascript\">\n\t
+        \ TypekitConfig = {\n\t\tkitId: 'uqr6omi'\n\t  };\n\t  (function() {\n\t\tvar
+        tk = document.createElement('script');\n\t\ttk.src = '//use.typekit.com/'
+        + TypekitConfig.kitId + '.js';\n\t\ttk.type = 'text/javascript';\n\t\ttk.async
+        = 'true';\n\t\ttk.onload = tk.onreadystatechange = function() {\n\t\t  var
+        rs = this.readyState;\n\t\t  if (rs && rs != 'complete' && rs != 'loaded')
+        return;\n\t\t  try { Typekit.load(TypekitConfig); } catch (e) {}\n\t\t};\n\t\tvar
+        s = document.getElementsByTagName('script')[0];\n\t\ts.parentNode.insertBefore(tk,
+        s);\n\t  })();\n\t</script>\n</head>\n<body class=\"post-template-default
+        single single-post postid-112715 single-format-standard wrapper do-etfw\">\n\n<noscript><iframe
+        src=\"//www.googletagmanager.com/ns.html?id=GTM-PLC7SN\"\n\t\t\theight=\"0\"
+        width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n\n<div
+        class=\"off-canvas-wrap\" data-offcanvas>\n<aside class=\"left-off-canvas-menu\">\n<div
+        class=\"widget-container scroll-helper\"><h2 class=\"widget-title\">Your Reading
+        List</h2>\n<div class=\"widget\" data-show-date=\"1\" data-date-format=\"F
+        j, Y\">\n<ul class='multiple-articles'>\n<li class=\"scroll-article-112715\t\t\t\t\t\t\t\t\t\t\t\t
+        \ \t\t\t active\">\n<div class='progress-bar' role=\"progressbar\" aria-valuenow=\"0\"
+        aria-valuemin=\"0\" aria-valuemax=\"100\"></div>\n<article class=\"media\">\n<div
+        class=\"media__body\">\n<h2><a href=\"#post-112715\">CCA reports: Leveraging
+        public interest in agriculture</a></h2>\n<time class=\"updated dtstamp\" datetime=\"2020-11-13
+        13:16:25\">November 13, 2020</time>\n<span class=\"category-rubric\">CCA reports</span>\n</div>\n</article>\n</li>\n<li
+        class=\"scroll-article-112825\t\t\t\t\t\t\t\t\t\t\t\t  \">\n<div class='progress-bar'
+        role=\"progressbar\" aria-valuenow=\"0\" aria-valuemin=\"0\" aria-valuemax=\"100\"></div>\n<article
+        class=\"media\">\n<div class=\"media__body\">\n<h2><a href=\"https://www.canadiancattlemen.ca/news/accolades-for-bovine-veterinarian-practitioner/\">Accolades
+        for bovine veterinarian, practitioner</a></h2>\n<time class=\"updated dtstamp\"
+        datetime=\"2020-11-11 11:56:34\">November 11, 2020</time>\n<span class=\"category-rubric\">News</span>\n</div>\n</article>\n</li>\n<li
+        class=\"scroll-article-112200\t\t\t\t\t\t\t\t\t\t\t\t  \">\n<div class='progress-bar'
+        role=\"progressbar\" aria-valuenow=\"0\" aria-valuemin=\"0\" aria-valuemax=\"100\"></div>\n<article
+        class=\"media\">\n<div class=\"media__body\">\n<h2><a href=\"https://www.canadiancattlemen.ca/features/barbados-aiming-for-self-sufficiency-in-food-production/\">Barbados
+        aiming for self-sufficiency in food production</a></h2>\n<time class=\"updated
+        dtstamp\" datetime=\"2020-11-09 15:32:01\">November 9, 2020</time>\n<span
+        class=\"category-rubric\">Beef Cattle</span>\n</div>\n</article>\n</li>\n<li
+        class=\"scroll-article-112667\t\t\t\t\t\t\t\t\t\t\t\t  \">\n<div class='progress-bar'
+        role=\"progressbar\" aria-valuenow=\"0\" aria-valuemin=\"0\" aria-valuemax=\"100\"></div>\n<article
+        class=\"media\">\n<div class=\"media__body\">\n<h2><a href=\"https://www.canadiancattlemen.ca/features/new-vet-student-makes-the-best-of-virtual-learning/\">New
+        vet student makes the best of virtual learning</a></h2>\n<time class=\"updated
+        dtstamp\" datetime=\"2020-11-06 07:26:18\">November 6, 2020</time>\n<span
+        class=\"category-rubric\">Features</span>\n</div>\n</article>\n</li>\n<li
+        class=\"scroll-article-112208\t\t\t\t\t\t\t\t\t\t\t\t  \">\n<div class='progress-bar'
+        role=\"progressbar\" aria-valuenow=\"0\" aria-valuemin=\"0\" aria-valuemax=\"100\"></div>\n<article
+        class=\"media\">\n<div class=\"media__body\">\n<h2><a href=\"https://www.canadiancattlemen.ca/features/turning-food-waste-into-livestock-feed/\">Turning
+        food waste into livestock feed</a></h2>\n<time class=\"updated dtstamp\" datetime=\"2020-11-04
+        11:49:10\">November 4, 2020</time>\n<span class=\"category-rubric\">Features</span>\n</div>\n</article>\n</li>\n</ul>\n</div>\n</div></aside>\n<aside
+        class=\"right-off-canvas-menu\" style=\"\">\n<ul class=\"off-canvas-list membership-mobile-menu\">\n<li><label>Sections
+        </label></li>\n</ul>\n<ul id=\"menu-main-nav\" class=\"off-canvas-list\"><li
+        id=\"menu-item-55367\" class=\"menu-item menu-item-type-custom menu-item-object-custom
+        menu-item-has-children has-dropdown not-click has-submenu menu-item-55367\"><a>News</a>\n<ul
+        class=\"right-submenu\">\n<li class='back'>\n<a href='#'>Back </a>\n</li>
+        <li id=\"menu-item-55368\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category
+        current-post-ancestor current-menu-parent current-post-parent menu-item-55368\"><a
+        href=\"https://www.canadiancattlemen.ca/news/\">News</a></li>\n<li id=\"menu-item-55369\"
+        class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-55369\"><a
+        href=\"/events/\">Events</a></li>\n</ul>\n</li>\n<li id=\"menu-item-55370\"
+        class=\"menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55370\"><a
+        href=\"https://www.canadiancattlemen.ca/crops/\">Crops</a></li>\n<li id=\"menu-item-55371\"
+        class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children
+        has-dropdown not-click has-submenu menu-item-55371\"><a>Livestock</a>\n<ul
+        class=\"right-submenu\">\n<li class='back'>\n<a href='#'>Back </a>\n</li>
+        <li id=\"menu-item-55372\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category
+        menu-item-55372\"><a href=\"https://www.canadiancattlemen.ca/livestock/\">Livestock</a></li>\n<li
+        id=\"menu-item-107146\" class=\"menu-item menu-item-type-custom menu-item-object-custom
+        menu-item-107146\"><a href=\"https://www.canadiancattlemen.ca/livestock-sales/\">Livestock
+        Sales</a></li>\n<li id=\"menu-item-105938\" class=\"menu-item menu-item-type-post_type
+        menu-item-object-page menu-item-105938\"><a href=\"https://www.canadiancattlemen.ca/beef-processing-plants-in-canada/\">Beef
+        Processing Plants in Canada</a></li>\n</ul>\n</li>\n<li id=\"menu-item-55375\"
+        class=\"menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55375\"><a
+        href=\"https://www.canadiancattlemen.ca/machinery/\">Machinery and Shop</a></li>\n<li
+        id=\"menu-item-55376\" class=\"menu-item menu-item-type-custom menu-item-object-custom
+        menu-item-has-children has-dropdown not-click has-submenu menu-item-55376\"><a>Markets</a>\n<ul
+        class=\"right-submenu\">\n<li class='back'>\n<a href='#'>Back </a>\n</li>
+        <li id=\"menu-item-55377\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category
+        menu-item-55377\"><a href=\"https://www.canadiancattlemen.ca/markets/\">Markets</a></li>\n<li
+        id=\"menu-item-55378\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category
+        menu-item-55378\"><a href=\"https://www.canadiancattlemen.ca/markets/global-markets/\">Global</a></li>\n<li
+        id=\"menu-item-55379\" class=\"menu-item menu-item-type-custom menu-item-object-custom
+        menu-item-55379\"><a href=\"/markets/prairie-futures-and-cash-prices/\">Prairie
+        Futures and Cash Prices</a></li>\n<li id=\"menu-item-55380\" class=\"menu-item
+        menu-item-type-post_type menu-item-object-page menu-item-55380\"><a href=\"https://www.canadiancattlemen.ca/markets-at-a-glance/\">Markets
+        at a glance</a></li>\n</ul>\n</li>\n<li id=\"menu-item-55381\" class=\"menu-item
+        menu-item-type-taxonomy menu-item-object-category menu-item-55381\"><a href=\"https://www.canadiancattlemen.ca/history/\">History</a></li>\n</ul>\n<ul
+        class=\"off-canvas-list\">\n<li><label> Links </label></li>\n</ul>\n<ul id=\"menu-subfooter\"
+        class=\"off-canvas-list\"><li id=\"menu-item-55393\" class=\"menu-item menu-item-type-custom
+        menu-item-object-custom menu-item-55393\"><a href=\"/video/\">Video</a></li>\n<li
+        id=\"menu-item-55394\" class=\"menu-item menu-item-type-custom menu-item-object-custom
+        menu-item-55394\"><a href=\"/digital-edition/\">Digital Editions</a></li>\n<li
+        id=\"menu-item-55395\" class=\"menu-item menu-item-type-custom menu-item-object-custom
+        menu-item-55395\"><a href=\"http://farmzilla.com\">Classifieds</a></li>\n<li
+        id=\"menu-item-55396\" class=\"menu-item menu-item-type-post_type menu-item-object-page
+        menu-item-55396\"><a href=\"https://www.canadiancattlemen.ca/subscriptions/\">Subscriptions</a></li>\n<li
+        id=\"menu-item-55397\" class=\"menu-item menu-item-type-post_type menu-item-object-page
+        menu-item-55397\"><a href=\"https://www.canadiancattlemen.ca/about/\">About</a></li>\n<li
+        id=\"menu-item-55398\" class=\"menu-item menu-item-type-post_type menu-item-object-page
+        menu-item-55398\"><a href=\"https://www.canadiancattlemen.ca/mediakit/\">Advertise</a></li>\n<li
+        id=\"menu-item-55399\" class=\"menu-item menu-item-type-post_type menu-item-object-page
+        menu-item-55399\"><a href=\"https://www.canadiancattlemen.ca/contact/\">Contact
+        Us</a></li>\n</ul></aside>\n<div class=\"inner-wrap\">\n<div class=\"show-for-medium-up\">\n<script
+        type=\"text/javascript\">\n\t\tvar code = \"googletag.cmd.push( function()
+        {googletag.display('dfp-ad-slot--float'); } );\";\n\t\tif(typeof lazyAds ==
+        \"undefined\"){\n\t\t\tvar lazyAds = [];\n\t\t}\n\n\t\tlazyAds.push({divId:
+        'dfp-ad-slot--float', code: code, height: '' });\n\t</script>\n<div id=\"dfp-ad-slot--float\"
+        class=\"\">\n</div>\n</div>\n<header class=\"site-header\">\n<nav class=\"explore-brands-bar\n\t\t
+        membership-explore-bar\t\t\">\n<div class=\"explore-bar-container\">\n<div
+        class=\"explore-bar-column\">\n<div class=\"explore-bar-logos\">\n<ul class=\"nav-logos\">\n<li
+        class=\"explore-title\">\n<span class=\"explore-bg-left-side-fill\"></span>\n<a
+        href=\"https://www.farmmedia.com\" target=\"_blank\" rel=\"noopener\">\n<picture>\n<source
+        media=\"(max-width: 977px)\" srcset=\"https://static.farmmedia.com/GFM-Explore-Bar/1x1.png\"
+        />\n<img width=\"148\" src=\"https://static.farmmedia.com/GFM-Explore-Bar/gfm-profile-logo@3x.png\"
+        alt=\"Glacier FarmMedia\" />\n</picture>\n</a>\n</li>\n<li class='exp__1'>\n<a
+        class='less-opacity' href=https://www.aginmotion.ca/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=100 src=https://static.farmmedia.com/GFM-Explore-Bar/network-aim-hover.png
+        alt='Ag in Motion'>\n</picture>\n</a>\n</li><li class='exp__2'>\n<a class='less-opacity'
+        href=https://www.producer.com/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=66 src=https://static.farmmedia.com/GFM-Explore-Bar/network-wp-hover.png
+        alt='Western Producer'>\n</picture>\n</a>\n</li><li class='exp__3'>\n<a class='less-opacity'
+        href=https://www.manitobacooperator.ca/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=83 src=https://static.farmmedia.com/GFM-Explore-Bar/network-mbc-hover.png
+        alt='Manitoba Cooperator'>\n</picture>\n</a>\n</li><li class='exp__4'>\n<a
+        class='less-opacity' href=https://www.albertafarmexpress.ca/ target='_blank'
+        rel='noopener'>\n<picture>\n<source media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=85 src=https://static.farmmedia.com/GFM-Explore-Bar/network-afe-hover.png
+        alt='Alberta Farmer Express'>\n</picture>\n</a>\n</li><li class='exp__5'>\n<a
+        class='less-opacity' href=https://www.agricoleideal.com/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=85 src=https://static.farmmedia.com/GFM-Explore-Bar/network-agi-hover.png
+        alt='Agricole Id\xE9al'>\n</picture>\n</a>\n</li><li class='exp__6'>\n<a class='less-opacity'
+        href=https://www.farmforumevent.com target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=80 src=https://static.farmmedia.com/GFM-Explore-Bar/network-ffe-hover.png
+        alt='Farm Forum Event'>\n</picture>\n</a>\n</li><li class='exp__7'>\n<a class='less-opacity'
+        href=https://www.country-guide.ca/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=85 src=https://static.farmmedia.com/GFM-Explore-Bar/network-cg-hover.png
+        alt='Country-Guide'>\n</picture>\n</a>\n</li><li class='exp__8'>\n<a class='less-opacity'
+        href=https://www.lebulletin.com/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=55 src=https://static.farmmedia.com/GFM-Explore-Bar/network-leb-hover.png
+        alt='Le Bulletin des agriculteurs'>\n</picture>\n</a>\n</li><li class='exp__9'>\n<a
+        class='less-opacity' href=https://www.farmzilla.com/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=85 src=https://static.farmmedia.com/GFM-Explore-Bar/network-fz-hover.png
+        alt='Farmzilla'>\n</picture>\n</a>\n</li> <li class=\"more-pubs\">MORE<span
+        class=\"arrow-down\"></span>\n<ul class=\"drop-menu\">\n<li class='exp__10'>\n<a
+        class='less-opacity' href=https://www.albertafarmexpress.ca/ target='_blank'
+        rel='noopener'>\n<picture>\n<source media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=85 src=https://static.farmmedia.com/GFM-Explore-Bar/network-afe-hover.png
+        alt='Alberta Farmer Express'>\n</picture>\n</a>\n</li><li class='exp__11'>\n<a
+        class='less-opacity' href=https://www.agricoleideal.com/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=85 src=https://static.farmmedia.com/GFM-Explore-Bar/network-agi-hover.png
+        alt='Agricole Id\xE9al'>\n</picture>\n</a>\n</li><li class='exp__12'>\n<a
+        class='less-opacity' href=https://www.farmforumevent.com target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=80 src=https://static.farmmedia.com/GFM-Explore-Bar/network-ffe-hover.png
+        alt='Farm Forum Event'>\n</picture>\n</a>\n</li><li class='exp__13'>\n<a class='less-opacity'
+        href=https://www.country-guide.ca/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=85 src=https://static.farmmedia.com/GFM-Explore-Bar/network-cg-hover.png
+        alt='Country-Guide'>\n</picture>\n</a>\n</li><li class='exp__14'>\n<a class='less-opacity'
+        href=https://www.lebulletin.com/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=55 src=https://static.farmmedia.com/GFM-Explore-Bar/network-leb-hover.png
+        alt='Le Bulletin des agriculteurs'>\n</picture>\n</a>\n</li><li class='exp__15'>\n<a
+        class='less-opacity' href=https://www.farmzilla.com/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=85 src=https://static.farmmedia.com/GFM-Explore-Bar/network-fz-hover.png
+        alt='Farmzilla'>\n</picture>\n</a>\n</li><li class='exp__16'>\n<a class='less-opacity'
+        href=https://www.marketsfarm.com/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=85 src=https://static.farmmedia.com/GFM-Explore-Bar/network-mf-hover.png
+        alt='MarketsFarm'>\n</picture>\n</a>\n</li><li class='exp__17'>\n<a class='less-opacity'
+        href=https://discoveryfarm.ca/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=64 src=https://static.farmmedia.com/GFM-Explore-Bar/network-df-hover.png
+        alt='Discovery Farm'>\n</picture>\n</a>\n</li><li class='exp__18'>\n<a class='less-opacity'
+        href=https://www.weatherfarm.com target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=85 src=https://static.farmmedia.com/GFM-Explore-Bar/network-wf-hover.png
+        alt='Weatherfarm'>\n</picture>\n</a>\n</li><li class='exp__19'>\n<a class='less-opacity'
+        href=https://www.agdealer.com/ target='_blank' rel='noopener'>\n <picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=85 src=https://static.farmmedia.com/GFM-Explore-Bar/network-ad-hover.png
+        alt='AgDealer'>\n</picture>\n</a>\n</li><li class='exp__20'>\n<a class='less-opacity'
+        href=https://www.farmtario.com/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=70 src=https://static.farmmedia.com/GFM-Explore-Bar/network-ft-hover.png
+        alt='Farmtario'>\n</picture>\n</a>\n</li><li class='exp__21'>\n<a class='less-opacity'
+        href=https://www.farmauctionguide.com/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=66 src=https://static.farmmedia.com/GFM-Explore-Bar/network-fag-hover.png
+        alt='Farm Auction Guide'>\n</picture>\n</a>\n</li><li class='exp__22'>\n<a
+        class='less-opacity' href=https://www.foodincanada.com/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=85 src=https://static.farmmedia.com/GFM-Explore-Bar/network-fic-hover.png
+        alt='Food in Canada'>\n</picture>\n</a>\n</li><li class='exp__23'>\n<a class='less-opacity'
+        href=https://www.advancingwomenconference.ca target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=85 src=https://static.farmmedia.com/GFM-Explore-Bar/network-awc-hover.png
+        alt='Advancing Women in Agriculture Conference'>\n</picture>\n</a>\n</li><li
+        class='exp__24'>\n<a class='less-opacity' href=https://grow-pro.ca/ target='_blank'
+        rel='noopener'>\n<picture>\n<source media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=77 src=https://static.farmmedia.com/GFM-Explore-Bar/network-gp-hover.png
+        alt='GrowPro'>\n</picture>\n</a>\n</li><li class='exp__25'>\n<a class='less-opacity'
+        href=https://www.canadiancattlemen.ca/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=70 src=https://static.farmmedia.com/GFM-Explore-Bar/network-cc-hover.png
+        alt='Canadian Cattlemen'>\n</picture>\n</a>\n</li><li class='exp__26'>\n<a
+        class='less-opacity' href=https://www.grainews.ca/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=80 src=https://static.farmmedia.com/GFM-Explore-Bar/network-gn-hover.png
+        alt='Grainews'>\n</picture>\n</a>\n</li><li class='exp__27'>\n<a class='less-opacity'
+        href=https://www.outdoorfarmshow.com/ target='_blank' rel='noopener'>\n<picture>\n<source
+        media='(max-width: 977px)' srcset=https://static.farmmedia.com/GFM-Explore-Bar/1x1.png>\n<img
+        width=85 src=https://static.farmmedia.com/GFM-Explore-Bar/network-cofs-hover.png
+        alt='Canadian Outdoor Farm Show'>\n</picture>\n </a>\n</li> </ul>\n</li>\n</ul>\n<ul
+        class=\"explore-login-wrapper\">\n<li class=\"explore-login-container\"></li>\n</ul>\n</div>\n</div>\n</div>\n</nav>\n<div
+        class=\"overheader-important-notice\">\n<div class=\"overheader-important-notice--container\">\n<img
+        src=\"https://www.canadiancattlemen.ca/wp-content/plugins/gfm-important-notice-bar//images/GFM.svg\"
+        alt=\"Glacier FarmMedia\" />\n<a href=\"https://farmmedia.com/covid-19-and-the-farm/\"
+        target=\"_blank\" rel=\"noopener\">COVID-19 & the Farm</a>\n</div>\n</div>\n<div
+        id=\"logo-wrapper\">\n<div class=\"show-for-medium-up row logo\">\n<div class=\"small-24
+        columns nopadding\">\n<div class=\"flag show-for-medium-up clearfix not-front-page-banner\">\n<a
+        href=\"https://www.canadiancattlemen.ca\">\n<img class=\"logo\" src=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/flag.png\"
+        alt=\"Canadian Cattlemen\" />\n</a>\n<div class=\"leaderboard right noscale
+        ad\">\n<script type=\"text/javascript\">\n\t\tvar code = \"googletag.cmd.push(
+        function() {googletag.display('dfp-ad-slot--flag_leaderboard'); } );\";\n\t\tif(typeof
+        lazyAds == \"undefined\"){\n\t\t\tvar lazyAds = [];\n\t\t}\n\n\t\tlazyAds.push({divId:
+        'dfp-ad-slot--flag_leaderboard', code: code, height: '90' });\n\t</script>\n<div
+        id=\"dfp-ad-slot--flag_leaderboard\" class=\"\">\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div
+        class=\"sticky-wrapper\">\n<div class=\"sticky\">\n\n<nav class=\"mobile-header
+        tab-bar\">\n<div class=\"row collapse\">\n<div class=\"small-24 columns\">\n<section
+        class=\"top-bar-section left\">\n<a class=\"left-off-canvas-toggle left\"
+        aria-label=\"Open left panel\"><img class=\"mobile-toggle-left\" src='https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/mobile-menu-toggle-left@2X.png'
+        width='26' alt='' /></a>\n<div class=\"title\"><a href=\"https://www.canadiancattlemen.ca\"><img
+        class=\"logo\" src=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/flag.png\"
+        alt=\"flag\"></a></div>\n<a class=\"right-off-canvas-toggle right\" href=\"#\"
+        aria-label=\"Open right panel\"><img class=\"mobile-toggle-right\" src='https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/mobile-menu-toggle-right@2X.png'
+        width='26' alt='' /></a>\n</section>\n</div>\n</div>\n</nav>\n<div id=\"navmenu\">\n<div
+        class=\"main-nav\">\n<div class='row'>\n<div class='xlarge-23 large-18 medium-19
+        small-20 columns nav-row'>\n<div class=\"top-bar-section\"><ul id=\"menu-main-nav-1\"
+        class=\"main-sections\"><li class=\"menu-item menu-item-type-custom menu-item-object-custom
+        menu-item-has-children has-dropdown not-click has-submenu menu-item-55367\"><a>News</a>\n<ul
+        class=\"dropdown\">\n<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category
+        current-post-ancestor current-menu-parent current-post-parent menu-item-55368\"><a
+        href=\"https://www.canadiancattlemen.ca/news/\">News</a></li>\n<li class=\"menu-item
+        menu-item-type-custom menu-item-object-custom menu-item-55369\"><a href=\"/events/\">Events</a></li>\n</ul>\n</li>\n<li
+        class=\"menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55370\"><a
+        href=\"https://www.canadiancattlemen.ca/crops/\">Crops</a></li>\n<li class=\"menu-item
+        menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown
+        not-click has-submenu menu-item-55371\"><a>Livestock</a>\n<ul class=\"dropdown\">\n<li
+        class=\"menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55372\"><a
+        href=\"https://www.canadiancattlemen.ca/livestock/\">Livestock</a></li>\n<li
+        class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-107146\"><a
+        href=\"https://www.canadiancattlemen.ca/livestock-sales/\">Livestock Sales</a></li>\n<li
+        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-105938\"><a
+        href=\"https://www.canadiancattlemen.ca/beef-processing-plants-in-canada/\">Beef
+        Processing Plants in Canada</a></li>\n</ul>\n</li>\n<li class=\"menu-item
+        menu-item-type-taxonomy menu-item-object-category menu-item-55375\"><a href=\"https://www.canadiancattlemen.ca/machinery/\">Machinery
+        and Shop</a></li>\n<li class=\"menu-item menu-item-type-custom menu-item-object-custom
+        menu-item-has-children has-dropdown not-click has-submenu menu-item-55376\"><a>Markets</a>\n<ul
+        class=\"dropdown\">\n<li class=\"menu-item menu-item-type-taxonomy menu-item-object-category
+        menu-item-55377\"><a href=\"https://www.canadiancattlemen.ca/markets/\">Markets</a></li>\n<li
+        class=\"menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55378\"><a
+        href=\"https://www.canadiancattlemen.ca/markets/global-markets/\">Global</a></li>\n<li
+        class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-55379\"><a
+        href=\"/markets/prairie-futures-and-cash-prices/\">Prairie Futures and Cash
+        Prices</a></li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page
+        menu-item-55380\"><a href=\"https://www.canadiancattlemen.ca/markets-at-a-glance/\">Markets
+        at a glance</a></li>\n</ul>\n</li>\n<li class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-55381\"><a href=\"https://www.canadiancattlemen.ca/history/\">History</a></li>\n</ul></div><div
+        class=\"top-bar-section show-for-xlarge-up\"><ul id=\"menu-secondary-sections\"
+        class=\"secondary-sections\"><li id=\"menu-item-55388\" class=\"menu-item
+        menu-item-type-custom menu-item-object-custom menu-item-55388\"><a href=\"/video/\">Video</a></li>\n<li
+        id=\"menu-item-55389\" class=\"menu-item menu-item-type-custom menu-item-object-custom
+        menu-item-55389\"><a href=\"/digital-edition/\">Digital Editions</a></li>\n<li
+        id=\"menu-item-55390\" class=\"menu-item menu-item-type-custom menu-item-object-custom
+        menu-item-55390\"><a href=\"http://farmzilla.com\">Classifieds</a></li>\n<li
+        id=\"menu-item-55391\" class=\"menu-item menu-item-type-post_type menu-item-object-page
+        menu-item-55391\"><a href=\"https://www.canadiancattlemen.ca/subscriptions/\">Subscriptions</a></li>\n<li
+        id=\"menu-item-55392\" class=\"menu-item menu-item-type-post_type menu-item-object-page
+        menu-item-55392\"><a href=\"https://www.canadiancattlemen.ca/about/\">About
+        Us</a></li>\n</ul></div>\n<section class=\"top-bar-section left hide-for-xlarge-up
+        show-for-medium-up\">\n<ul class=\"right secondary-sections\">\n<li class=\"has-dropdown
+        secondary not-click menu-item has-hamburger\">\n<a class=\"secondary-submenu\"
+        href=\"#\"><i class=\"fi-list\"></i>More</a>\n<ul id=\"menu-secondary-sections-1\"
+        class=\"dropdown secondary-more-menu\"><li class=\"menu-item menu-item-type-custom
+        menu-item-object-custom menu-item-55388\"><a href=\"/video/\">Video</a></li>\n<li
+        class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-55389\"><a
+        href=\"/digital-edition/\">Digital Editions</a></li>\n<li class=\"menu-item
+        menu-item-type-custom menu-item-object-custom menu-item-55390\"><a href=\"http://farmzilla.com\">Classifieds</a></li>\n<li
+        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-55391\"><a
+        href=\"https://www.canadiancattlemen.ca/subscriptions/\">Subscriptions</a></li>\n<li
+        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-55392\"><a
+        href=\"https://www.canadiancattlemen.ca/about/\">About Us</a></li>\n</ul>
+        </li>\n</ul>\n</section>\n</div>\n<div class=\"large-5 medium-4 small-2 columns
+        container-button-newsletter\">\n<p>\n<a data-click=\"add-url-tracking\" data-module=\"newsletter-signup-medium\"
+        data-pgtype=\"article\" href=\"https://farmmedia.com/freefarmnews-signup/\"
+        class=\"btn newsletter-signup right\" target=\"_blank\" rel=\"noopener\">Newsletter
+        Signup</a>\n</p>\n</div>\n<div class=\"xlarge-1 large-1 medium-1 small-2 columns\">\n<div
+        class=\"search-div not_showing_cf\">\n<a class=\"reveal-search right\" href=\"#\"
+        aria-label=\"Open search\"><i class=\"fi-magnifying-glass large\"></i></a>\n<form
+        class=\"search row collapse\" method=\"get\" id=\"searchform\" action=\"https://www.canadiancattlemen.ca/\"
+        role=\"search\">\n<div class=\"small-20 columns\">\n<input class=\"search-field\"
+        size=\"20\" name=\"s\" placeholder=\"Keywords, author, category, etc.\" aria-label=\"Search\"
+        type=\"text\" value=\"\">\n</div>\n<div class=\"small-4 columns\">\n<button
+        type=\"submit\" class=\"button secondary postfix search-btn\" aria-label=\"Submit
+        search\">\n<i class=\"fi-magnifying-glass large\"></i>\n</button>\n</div>\n<div
+        class=\"save-search\">\n</div>\n<input type=\"hidden\" name=\"c\" value=\"n\">\n</form>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div
+        class=\"row callout-bar-container\">\n<div class=\"callout-bar medium-18 small-24
+        columns\">\n<div class=\"logged-out-callouts\"><p class=\"callout-item left
+        callout-1 \" style=\"display:none;\"><a href=\"https://membersgetmore.ca/\"><span
+        class=\"green\">BIG SAVINGS</span> WITH GLACIER FARMMEDIA MEMBERSHIP | LEARN
+        MORE <span class=\"details\">See Details</span></a><p class=\"callout-item
+        left callout-2 \" style=\"display:none;\"><a href=\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/03/19143555/Canadian-Cattlemen-Covid-19-Response.pdf\"><span
+        style=\"color:black\">canadian cattlemen</span> response to covid-19 <span
+        class=\"details\">See Details</span></a><p class=\"callout-item left callout-3
+        \" style=\"display:none;\"><a href=\"https://farmmedia.com/covid-19-and-the-farm/\"><span
+        class=\"red\">Special coverage</span> COVID-19 & the Farm <span class=\"details\">See
+        Details</span></a></div>\n<div class=\"membership-callouts\"><p class=\"callout-item
+        left callout-1 \" style=\"display:none;\"><a href=\"https://membersgetmore.ca/\"><span
+        class=\"green\">BIG SAVINGS</span> WITH GLACIER FARMMEDIA MEMBERSHIP | LEARN
+        MORE <span class=\"details\">See Details</span></a><p class=\"callout-item
+        left callout-2 \" style=\"display:none;\"><a href=\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/03/19143555/Canadian-Cattlemen-Covid-19-Response.pdf\"><span
+        style=\"color:black\">canadian cattlemen</span> response to covid-19 <span
+        class=\"details\">See Details</span></a><p class=\"callout-item left callout-3
+        \" style=\"display:none;\"><a href=\"https://farmmedia.com/covid-19-and-the-farm/\"><span
+        class=\"red\">Special coverage</span> COVID-19 & the Farm <span class=\"details\">See
+        Details</span></a></div>\n<p class=\"social show-for-large-up right\"><span><a
+        href=\"https://www.facebook.com/canadiancattlemen\" target=\"_blank\" rel=\"noopener\"><img
+        src=\"https://www.canadiancattlemen.ca/wp-content/themes/network_theme/img/fb_icon.png\"
+        alt=\"Visit our Facebook\"></a> <a href=\"https://twitter.com/cancattlemen\"
+        target=\"_blank\" rel=\"noopener\"><img src=\"https://www.canadiancattlemen.ca/wp-content/themes/network_theme/img/twitter_icon.png\"
+        alt=\"Visit our Twitter\"></a></span> <a data-click=\"add-url-tracking\" data-module=\"newsletter-signup-xlarge\"
+        data-pgtype=\"article\" href=\"https://farmmedia.com/freefarmnews-signup/\"
+        class=\"btn newsletter-signup show-for-xlarge-up\" target=\"_blank\" rel=\"noopener\">Newsletter
+        Signup</a></p>\n</div>\n<div class=\"classifieds show-for-medium-up medium-6
+        columns\">\n<a target=\"_blank\" href=\"https://www.farmzilla.com/\" rel=\"noopener\">Classifieds
+        <span>Place Ad / Search</span></a>\n</div>\n</div>\n</header>\n<div class=\"hide-for-large-up
+        tablet-ad row tablet-ad-container\">\n<div class=\"ad\">\n<div class=\"offset-leaderboard-under-nav\">\n<script
+        type=\"text/javascript\">\n\t\tvar code = \"googletag.cmd.push( function()
+        {googletag.display('dfp-ad-slot--under_header_leaderboard'); } );\";\n\t\tif(typeof
+        lazyAds == \"undefined\"){\n\t\t\tvar lazyAds = [];\n\t\t}\n\n\t\tlazyAds.push({divId:
+        'dfp-ad-slot--under_header_leaderboard', code: code, height: '90' });\n\t</script>\n<div
+        id=\"dfp-ad-slot--under_header_leaderboard\" class=\"\">\n</div>\n</div>\n</div>\n</div>\n<div
+        class=\"main-container\" role=\"main\">\n<div class=\"row\">\n<div class=\"container-2-column
+        left\">\n\n<div class=\"left-rail-container show-for-medium-up\">\n<div class=\"left-rail-wrapper\">\n<div
+        class=\"left-rail\">\n<div class=\"widget-container scroll-helper\"><h2 class=\"widget-title\">Your
+        Reading List</h2>\n<div class=\"widget\" data-show-date=\"1\" data-date-format=\"F
+        j, Y\">\n<ul class='multiple-articles'>\n<li class=\"scroll-article-112715\t\t\t\t\t\t\t\t\t\t\t\t
+        \ \t\t\t active\">\n<div class='progress-bar' role=\"progressbar\" aria-valuenow=\"0\"
+        aria-valuemin=\"0\" aria-valuemax=\"100\"></div>\n<article class=\"media\">\n<div
+        class=\"media__body\">\n<h2><a href=\"#post-112715\">CCA reports: Leveraging
+        public interest in agriculture</a></h2>\n<time class=\"updated dtstamp\" datetime=\"2020-11-13
+        13:16:25\">November 13, 2020</time>\n<span class=\"category-rubric\">CCA reports</span>\n</div>\n</article>\n</li>\n<li
+        class=\"scroll-article-112825\t\t\t\t\t\t\t\t\t\t\t\t  \">\n<div class='progress-bar'
+        role=\"progressbar\" aria-valuenow=\"0\" aria-valuemin=\"0\" aria-valuemax=\"100\"></div>\n<article
+        class=\"media\">\n<div class=\"media__body\">\n<h2><a href=\"https://www.canadiancattlemen.ca/news/accolades-for-bovine-veterinarian-practitioner/\">Accolades
+        for bovine veterinarian, practitioner</a></h2>\n<time class=\"updated dtstamp\"
+        datetime=\"2020-11-11 11:56:34\">November 11, 2020</time>\n<span class=\"category-rubric\">News</span>\n</div>\n</article>\n</li>\n<li
+        class=\"scroll-article-112200\t\t\t\t\t\t\t\t\t\t\t\t  \">\n<div class='progress-bar'
+        role=\"progressbar\" aria-valuenow=\"0\" aria-valuemin=\"0\" aria-valuemax=\"100\"></div>\n<article
+        class=\"media\">\n<div class=\"media__body\">\n<h2><a href=\"https://www.canadiancattlemen.ca/features/barbados-aiming-for-self-sufficiency-in-food-production/\">Barbados
+        aiming for self-sufficiency in food production</a></h2>\n<time class=\"updated
+        dtstamp\" datetime=\"2020-11-09 15:32:01\">November 9, 2020</time>\n<span
+        class=\"category-rubric\">Beef Cattle</span>\n</div>\n</article>\n</li>\n<li
+        class=\"scroll-article-112667\t\t\t\t\t\t\t\t\t\t\t\t  \">\n<div class='progress-bar'
+        role=\"progressbar\" aria-valuenow=\"0\" aria-valuemin=\"0\" aria-valuemax=\"100\"></div>\n<article
+        class=\"media\">\n<div class=\"media__body\">\n<h2><a href=\"https://www.canadiancattlemen.ca/features/new-vet-student-makes-the-best-of-virtual-learning/\">New
+        vet student makes the best of virtual learning</a></h2>\n<time class=\"updated
+        dtstamp\" datetime=\"2020-11-06 07:26:18\">November 6, 2020</time>\n<span
+        class=\"category-rubric\">Features</span>\n</div>\n</article>\n</li>\n<li
+        class=\"scroll-article-112208\t\t\t\t\t\t\t\t\t\t\t\t  \">\n<div class='progress-bar'
+        role=\"progressbar\" aria-valuenow=\"0\" aria-valuemin=\"0\" aria-valuemax=\"100\"></div>\n<article
+        class=\"media\">\n<div class=\"media__body\">\n<h2><a href=\"https://www.canadiancattlemen.ca/features/turning-food-waste-into-livestock-feed/\">Turning
+        food waste into livestock feed</a></h2>\n<time class=\"updated dtstamp\" datetime=\"2020-11-04
+        11:49:10\">November 4, 2020</time>\n<span class=\"category-rubric\">Features</span>\n</div>\n</article>\n</li>\n</ul>\n</div>\n</div>
+        <div class=\"rail-offer\">\n<div class=\"rail-offer-content\"> <script type=\"text/javascript\">\n\t\tvar
+        code = \"googletag.cmd.push( function() {googletag.display('dfp-ad-slot--mem_offers_rail');
+        } );\";\n\t\tif(typeof lazyAds == \"undefined\"){\n\t\t\tvar lazyAds = [];\n\t\t}\n\n\t\tlazyAds.push({divId:
+        'dfp-ad-slot--mem_offers_rail', code: code, height: '100' });\n\t</script>\n<div
+        id=\"dfp-ad-slot--mem_offers_rail\" class=\"\">\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n\n<div
+        class=\"inner-middle-column columns\" id=\"content\">\n<article id=\"post-112715\"
+        class=\"hnews item post post-112715 type-post status-publish format-standard
+        has-post-thumbnail hentry category-cca-reports category-news tag-cca-reports
+        contributor-bob-lowe region-eastern region-western commodity-beef-cattle-3
+        commodity-cattle commodity-cow-calf-3 commodity-feedlot-2 source-newspaper\">\n<header
+        class=\"entry-header\">\n<h1 class=\"entry-title\">CCA reports: Leveraging
+        public interest in agriculture</h1>\n<h2 class=\"deck\">From the November
+        2020 issue of Canadian Cattlemen</h2>\n</header>\n<div class=\"post-meta entry-meta\">\n<div
+        class=\"article-meta-info\">\n<div class=\"row article-meta-info--flex\">\n<div
+        class=\"columns small-24 medium-14 xlarge-16 article-meta-info--divider\">\n<a
+        href=\"https://www.canadiancattlemen.ca/contributor/bob-lowe\" aria-label=\"Contributor
+        archive page\">\n</a>\n<div class=\"article-meta-info--author-info\">\nBy
+        <span class=\"author follow-author-name\"><a href=\"https://www.canadiancattlemen.ca/contributor/bob-lowe/\"
+        rel=\"tag\">Bob Lowe</a></span> <br>\n<em>\nColumnist </em>\n</div>\n<span
+        class=\"span-reading-time rt-reading-time\"><span class=\"rt-label rt-prefix\">Reading
+        Time:</span> <span class=\"rt-time\"> 4</span> <span class=\"rt-label rt-postfix\">minutes</span></span>
+        </div>\n<div class=\"columns small-24 medium-10 xlarge-8\">\nPublished: <span
+        content=\"2020-11-13\">November 13, 2020</span>\n<br />\n<span class=\"article-meta-info--cat-list\"><span><a
+        href=\"https://www.canadiancattlemen.ca/cca-reports/\" rel=\"tag\">CCA reports</a></span>,
+        <span><a href=\"https://www.canadiancattlemen.ca/news/\" rel=\"tag\">News</a></span></span>\n<div
+        class=\"article-meta-info--share-container\">\n<div class=\"heateor_sss_sharing_container
+        heateor_sss_horizontal_sharing\" ss-offset=\"0\" heateor-sss-data-href='https://www.canadiancattlemen.ca/cca-reports/cca-reports-leveraging-public-interest-in-agriculture/'><ul
+        class=\"heateor_sss_sharing_ul\"><li class=\"heateorSssSharingRound\"><i style=\"width:30px;height:30px;\"
+        alt=\"Facebook\" Title=\"Facebook\" class=\"heateorSssSharing heateorSssFacebookBackground\"
+        onclick='heateorSssPopup(\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.canadiancattlemen.ca%2Fcca-reports%2Fcca-reports-leveraging-public-interest-in-agriculture%2F\")'><ss
+        style=\"display:block;\" class=\"heateorSssSharingSvg heateorSssFacebookSvg\"></ss></i></li><li
+        class=\"heateorSssSharingRound\"><i style=\"width:30px;height:30px;\" alt=\"Twitter\"
+        Title=\"Twitter\" class=\"heateorSssSharing heateorSssTwitterBackground\"
+        onclick='heateorSssPopup(\"http://twitter.com/intent/tweet?text=CCA%20reports%3A%20Leveraging%20public%20interest%20in%20agriculture&url=https%3A%2F%2Fwww.canadiancattlemen.ca%2Fcca-reports%2Fcca-reports-leveraging-public-interest-in-agriculture%2F\")'><ss
+        style=\"display:block;\" class=\"heateorSssSharingSvg heateorSssTwitterSvg\"></ss></i></li><li
+        class=\"heateorSssSharingRound\"><i style=\"width:30px;height:30px;\" alt=\"Linkedin\"
+        Title=\"Linkedin\" class=\"heateorSssSharing heateorSssLinkedinBackground\"
+        onclick='heateorSssPopup(\"http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.canadiancattlemen.ca%2Fcca-reports%2Fcca-reports-leveraging-public-interest-in-agriculture%2F&title=CCA%20reports%3A%20Leveraging%20public%20interest%20in%20agriculture\")'><ss
+        style=\"display:block;\" class=\"heateorSssSharingSvg heateorSssLinkedinSvg\"></ss></i></li><li
+        class=\"heateorSssSharingRound\"><i style=\"width:30px;height:30px;\" alt=\"Email\"
+        Title=\"Email\" class=\"heateorSssSharing heateorSssEmailBackground\" onclick=\"window.open('mailto:?subject='
+        + decodeURIComponent('CCA%20reports%3A%20Leveraging%20public%20interest%20in%20agriculture'
+        ).replace('&', '%26') + '&body=' + decodeURIComponent('https%3A%2F%2Fwww.canadiancattlemen.ca%2Fcca-reports%2Fcca-reports-leveraging-public-interest-in-agriculture%2F'
+        ), '_blank')\"><ss style=\"display:block\" class=\"heateorSssSharingSvg heateorSssEmailSvg\"></ss></i></li></ul><div
+        class=\"heateorSssClear\"></div></div> </div>\n</div>\n</div>\n</div>\n</div>\n<figure
+        class=\"featured-image hmedia\">\n<a class=\"featured-image-link\" rel=\"enclosure\"
+        type=\"image/jpg\" href=\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/11/13131555/cattle-pasture-bigbluesky-0061.jpg\"
+        aria-label=\"Image link\">\n<img width=\"1000\" height=\"675\" src=\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/11/13131555/cattle-pasture-bigbluesky-0061.jpg\"
+        class=\"photo wp-post-image\" alt=\"\" loading=\"lazy\" itemprop=\"image\"
+        srcset=\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/11/13131555/cattle-pasture-bigbluesky-0061.jpg
+        1000w, https://static.canadiancattlemen.ca/wp-content/uploads/2020/11/13131555/cattle-pasture-bigbluesky-0061-768x518.jpg
+        768w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /> </a>\n<figcaption class=\"featured-image-caption\">\n<div
+        class=\"caption\">\n<i class=\"credit\">Photo:\n<span class=\"contributor\">\nFile
+        </span></i>\n</div>\n</figcaption>\n</figure>\n<div class=\"entry-content
+        cf\">\n<div class=\"body-text\">\n<p>The past year has been a challenging
+        one for our industry as we cope with the impacts from the COVID-19 pandemic.
+        It is easy to only look at the negative outcomes and not see a silver lining,
+        but there are definitely a couple of positives we need to capitalize on as
+        an industry. Over the past seven months, the Canadian agricultural industry
+        has seen Canadians become more aware of where their food comes from and they
+        are asking more questions about food production in Canada. We have a meaningful
+        and significant opportunity to share our industry\u2019s story and raise awareness
+        of the sustainable production practices we embrace on Canadian beef farms
+        and ranches.</p><div id='related-article' class='gfm-related-article-widget
+        \ '><h3>Related Articles</h3><div class='container-related-article'><div class='container-image'><a
+        href='https://www.canadiancattlemen.ca/cca-reports/cca-reports-trade-access-livestock-price-insurance-and-agristability/'
+        aria-label='Read more about CCA reports: Trade access, livestock price insurance
+        and AgriStability'><img width=\"660\" height=\"420\" src=\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/10/28101748/cattle-swath-grazing-RS4167-winter-CanadaBeefInc.-660x420.jpg\"
+        class=\"attachment-homepage-slide size-homepage-slide wp-post-image\" alt=\"\"
+        loading=\"lazy\" /></a></div><div class='container-title'><a href='https://www.canadiancattlemen.ca/cca-reports/cca-reports-trade-access-livestock-price-insurance-and-agristability/'><p>CCA
+        reports: Trade access, livestock price insurance and AgriStability</p></a></div></div><div
+        class='container-related-article'><div class='container-image'><a href='https://www.canadiancattlemen.ca/cca-reports/cca-reports-supporting-young-producers-through-covid-and-beyond/'
+        aria-label='Read more about CCA reports: Supporting young producers through
+        COVID and beyond'><img width=\"660\" height=\"420\" src=\"https://static.canadiancattlemen.ca/wp-content/uploads/2018/03/woman-ranch-497690373-Thinkstock-660x420.jpg\"
+        class=\"attachment-homepage-slide size-homepage-slide wp-post-image\" alt=\"Young
+        woman is standing by a fence on a ranch with cattle in the distance\" loading=\"lazy\"
+        /></a></div><div class='container-title'><a href='https://www.canadiancattlemen.ca/cca-reports/cca-reports-supporting-young-producers-through-covid-and-beyond/'><p>CCA
+        reports: Supporting young producers through COVID and beyond</p></a></div></div><div
+        class='container-related-article'><div class='container-image'><a href='https://www.canadiancattlemen.ca/cca-reports/cca-reports-linking-conservation-and-cattle/'
+        aria-label='Read more about CCA Reports: Linking conservation and cattle'><img
+        width=\"660\" height=\"420\" src=\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/08/12134850/Woodjam-Ranch_The-Seelhofs_sm-660x420.jpg\"
+        class=\"attachment-homepage-slide size-homepage-slide wp-post-image\" alt=\"\"
+        loading=\"lazy\" /></a></div><div class='container-title'><a href='https://www.canadiancattlemen.ca/cca-reports/cca-reports-linking-conservation-and-cattle/'><p>CCA
+        Reports: Linking conservation and cattle</p></a></div></div></div> <div class='mobile-ad-outer
+        content-ad '> <div class='container ad'> <p id=\"bigbox__1-heading\" style='font-size:
+        10px; color: #cecece; font-family: arial, helvetica, sans-serif; margin-bottom:
+        5px; text-align: center; line-height: 100%; margin: 0 auto; overflow:hidden;
+        clear:both; display: none;\t\tbackground-color: white;'>ADVERTISEMENT</p>
+        <script>\t\t\t\t\tgoogletag.cmd.push( function() {\t\t\t\t\t\tgoogletag.pubads().addEventListener('slotRenderEnded',
+        function(event) {\t\t\t\t\t\t\t\t\tdocument.getElementById(\"bigbox__1-heading\").style.display
+        = \"block\";\t\t\t\t\t\t\t\t});\t\t\t\t\t\t\t });\t\t\t </script> <script
+        type=\"text/javascript\">\t\tvar code = \"googletag.cmd.push( function() {googletag.display('dfp-ad-slot--inline--1');
+        } );\";\t\tif(typeof lazyAds == \"undefined\"){\t\t\tvar lazyAds = [];\t\t}\t\tlazyAds.push({divId:
+        'dfp-ad-slot--inline--1', code: code, height: '250' });\t</script> <div id=\"dfp-ad-slot--inline--1\"
+        class=\"background: #cecece; border:1px solid #ccc; margin: 0px auto 10px;width:
+        300px;height: 250px;\"> </div> </div> </div> <p>We have worked hard to share
+        this message in Ottawa with policy-makers. Earlier this fall, the new parliamentary
+        session opened with the speech from the throne. This speech provided insights
+        into the key priorities of the federal government during these uncertain times.
+        We were keen to see the Government of Canada acknowledge the role our farmers
+        and ranchers across Canada play in the fight against climate change. Most
+        importantly is how producers will continue to focus on these important discussions
+        about the benefits of beef production to our environment and our economic
+        recovery post COVID-19.</p><p>Through the National Beef Strategy, we continually
+        commit to enhancements to the productivity and competitiveness of the Canadian
+        beef industry, as well as bolstering beef demand. We strive to communicate
+        the efforts undertaken by beef producers to care for their land, their animals
+        and the environment, which is critical to building trust with Canadians.</p>
+        <div class='mobile-ad-outer content-ad '> <div class='container ad'> <p id=\"bigbox__2-heading\"
+        style='font-size: 10px; color: #cecece; font-family: arial, helvetica, sans-serif;
+        margin-bottom: 5px; text-align: center; line-height: 100%; margin: 0 auto;
+        overflow:hidden; clear:both; display: none;\t\tbackground-color: white;'>ADVERTISEMENT</p>
+        <script>\t\t\t\t\tgoogletag.cmd.push( function() {\t\t\t\t\t\tgoogletag.pubads().addEventListener('slotRenderEnded',
+        function(event) {\t\t\t\t\t\t\t\t\tdocument.getElementById(\"bigbox__2-heading\").style.display
+        = \"block\";\t\t\t\t\t\t\t\t});\t\t\t\t\t\t\t });\t\t\t </script> <script
+        type=\"text/javascript\">\t\tvar code = \"googletag.cmd.push( function() {googletag.display('dfp-ad-slot--inline--2');
+        } );\";\t\tif(typeof lazyAds == \"undefined\"){\t\t\tvar lazyAds = [];\t\t}\t\tlazyAds.push({divId:
+        'dfp-ad-slot--inline--2', code: code, height: '250' });\t</script> <div id=\"dfp-ad-slot--inline--2\"
+        class=\"background: #cecece; border:1px solid #ccc; margin: 0px auto 10px;width:
+        300px;height: 250px;\"> </div> </div> </div> <p>To build upon the five-year
+        goals outlined in the 2020-2024 National Beef Strategy, our industry identified
+        a suite of ambitious 10-year goals for all national beef organizations to
+        aim for together. The aim is for these goals to result in significant innovation
+        within our industry and to solidify our role as a bona fide solution provider
+        to climate change.</p><p>The first of three goal topics were released at the
+        Canadian Roundtable of Sustainable Beef\u2019s (CRSB) annual general meeting
+        in September. They focus on greenhouse gas and carbon sequestration, animal
+        health and welfare, and land use and biodiversity. Future goal setting will
+        focus on water, beef quality and food safety, human health and safety, and
+        technology, to be completed in 2021. Through a series of webinars hosted by
+        CRSB this fall, input will be gathered to develop robust, action-oriented
+        goals for these remaining topic areas. Be sure to look for updates on the
+        consultation process and release of the goals associated with these important
+        topics coming in 2021.</p> <div class='mobile-ad-outer content-ad '> <div
+        class='container ad'> <p id=\"bigbox__3-heading\" style='font-size: 10px;
+        color: #cecece; font-family: arial, helvetica, sans-serif; margin-bottom:
+        5px; text-align: center; line-height: 100%; margin: 0 auto; overflow:hidden;
+        clear:both; display: none;\t\tbackground-color: white;'>ADVERTISEMENT</p>
+        <script>\t\t\t\t\tgoogletag.cmd.push( function() {\t\t\t\t\t\tgoogletag.pubads().addEventListener('slotRenderEnded',
+        function(event) {\t\t\t\t\t\t\t\t\tdocument.getElementById(\"bigbox__3-heading\").style.display
+        = \"block\";\t\t\t\t\t\t\t\t});\t\t\t\t\t\t\t });\t\t\t </script> <script
+        type=\"text/javascript\">\t\tvar code = \"googletag.cmd.push( function() {googletag.display('dfp-ad-slot--inline--3');
+        } );\";\t\tif(typeof lazyAds == \"undefined\"){\t\t\tvar lazyAds = [];\t\t}\t\tlazyAds.push({divId:
+        'dfp-ad-slot--inline--3', code: code, height: '250' });\t</script> <div id=\"dfp-ad-slot--inline--3\"
+        class=\"background: #cecece; border:1px solid #ccc; margin: 0px auto 10px;width:
+        300px;height: 250px;\"> </div> </div> </div> <p>The CCA will leverage these
+        goals working with all levels of government to strengthen support for beef
+        production across Canada and expand our outreach and policy efforts. The target
+        is to enhance opportunities to partner on policy, especially environmental
+        policy solutions we can crystalize with the federal government. Of course,
+        we aim to counter the negative public misunderstandings related to these issues.</p><p>Currently,
+        we are engaging the federal government on a number of key files with an environmental
+        focus and hope the comments included in the speech from the throne will result
+        in meaningful consultation and community-led and -managed engagement to achieve
+        positive outcomes.</p><p>Over the past number of years, CCA has keyed in on
+        discussions with parliamentarians, senators, and government officials concerning
+        Bill C-68, the Fisheries Act. CCA actively communicated our concerns with
+        the \u201Cdeeming habitat\u201D provision of the act and were able to influence
+        its removal during the Senate review process. The act received royal assent
+        in June 2019 prior to the regulations being developed. The Department of Fisheries
+        and Oceans (DFO) pledged to consult with stakeholders on the development of
+        standards, codes of practice and prescribed works regulations. DFO has reached
+        out to the agricultural sector informally regarding the development of six
+        interim codes of practice, and we have provided initial feedback on these
+        codes before they are to be finalized this fall.</p><p>CCA does have concerns
+        regarding the Interim Code of Practice for Beaver Dam Removal, which states
+        that beaver dams are only to be removed by hand with no use of heavy equipment.
+        CCA has provided comments to DFO on this code to offer a different approach
+        allowing for the use of heavy equipment to remove beaver dams, while minimizing
+        potential sediment downstream or in the impoundment. CCA has also requested
+        further clarification on the text included in this code concerning sediment
+        control plans and measures, which is somewhat confusing and contradictory.</p><p>CCA
+        is also engaging with DFO for clarity on the development of recovery strategies
+        for specific aquatic species including bull trout, chinook and coho salmon,
+        and others, as it is unclear how critical habitat is determined and apparently
+        results in significant restrictions being applied to landowners. CCA aims
+        to engage in meaningful consultation around these recovery strategies and
+        will include agricultural stakeholders.</p><p>Last, recognizing the role that
+        Canadian beef producers play in managing our grasslands, CCA broadly supports
+        the idea of beef producers being reimbursed for ecological goods and services
+        in a flexible manner that meets the end goals of their operation. CCA encourages
+        the development of a national framework for ecosystem services delivered regionally
+        with buyers and sellers involved.</p><p>We will continue to deliver our strong
+        environmental story in Ottawa and advocate for opportunities for continued
+        input by stakeholders in our industry for meaningful outcomes that work for
+        beef producers in regions across Canada.</p><div class='heateor_sss_sharing_container
+        heateor_sss_vertical_sharing heateor_sss_bottom_sharing' style='width:34px;left:
+        -10px;top: 100px;-webkit-box-shadow:none;box-shadow:none;' heateor-sss-data-href='https://www.canadiancattlemen.ca/cca-reports/cca-reports-leveraging-public-interest-in-agriculture/'><ul
+        class=\"heateor_sss_sharing_ul\"><li class=\"\"><i style=\"width:30px;height:30px;margin:0;\"
+        alt=\"Facebook\" Title=\"Facebook\" class=\"heateorSssSharing heateorSssFacebookBackground\"
+        onclick='heateorSssPopup(\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.canadiancattlemen.ca%2Fcca-reports%2Fcca-reports-leveraging-public-interest-in-agriculture%2F\")'><ss
+        style=\"display:block;\" class=\"heateorSssSharingSvg heateorSssFacebookSvg\"></ss></i></li><li
+        class=\"\"><i style=\"width:30px;height:30px;margin:0;\" alt=\"Twitter\" Title=\"Twitter\"
+        class=\"heateorSssSharing heateorSssTwitterBackground\" onclick='heateorSssPopup(\"http://twitter.com/intent/tweet?text=CCA%20reports%3A%20Leveraging%20public%20interest%20in%20agriculture&url=https%3A%2F%2Fwww.canadiancattlemen.ca%2Fcca-reports%2Fcca-reports-leveraging-public-interest-in-agriculture%2F\")'><ss
+        style=\"display:block;\" class=\"heateorSssSharingSvg heateorSssTwitterSvg\"></ss></i></li><li
+        class=\"\"><i style=\"width:30px;height:30px;margin:0;\" alt=\"Reddit\" Title=\"Reddit\"
+        class=\"heateorSssSharing heateorSssRedditBackground\" onclick='heateorSssPopup(\"http://reddit.com/submit?url=https%3A%2F%2Fwww.canadiancattlemen.ca%2Fcca-reports%2Fcca-reports-leveraging-public-interest-in-agriculture%2F&title=CCA%20reports%3A%20Leveraging%20public%20interest%20in%20agriculture\")'><ss
+        style=\"display:block;\" class=\"heateorSssSharingSvg heateorSssRedditSvg\"></ss></i></li><li
+        class=\"\"><i style=\"width:30px;height:30px;margin:0;\" alt=\"Linkedin\"
+        Title=\"Linkedin\" class=\"heateorSssSharing heateorSssLinkedinBackground\"
+        onclick='heateorSssPopup(\"http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.canadiancattlemen.ca%2Fcca-reports%2Fcca-reports-leveraging-public-interest-in-agriculture%2F&title=CCA%20reports%3A%20Leveraging%20public%20interest%20in%20agriculture\")'><ss
+        style=\"display:block;\" class=\"heateorSssSharingSvg heateorSssLinkedinSvg\"></ss></i></li><li
+        class=\"\"><i style=\"width:30px;height:30px;margin:0;\" alt=\"Pinterest\"
+        Title=\"Pinterest\" class=\"heateorSssSharing heateorSssPinterestBackground\"
+        onclick=\"javascript:void( (function() {var e=document.createElement('script'
+        );e.setAttribute('type','text/javascript' );e.setAttribute('charset','UTF-8'
+        );e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());\"><ss
+        style=\"display:block;\" class=\"heateorSssSharingSvg heateorSssPinterestSvg\"></ss></i></li><li
+        class=\"\"><i style=\"width:30px;height:30px;margin:0;\" alt=\"MeWe\" Title=\"MeWe\"
+        class=\"heateorSssSharing heateorSssMeWeBackground\" onclick='heateorSssPopup(\"https://mewe.com/share?link=https%3A%2F%2Fwww.canadiancattlemen.ca%2Fcca-reports%2Fcca-reports-leveraging-public-interest-in-agriculture%2F\")'><ss
+        style=\"display:block;\" class=\"heateorSssSharingSvg heateorSssMeWeSvg\"></ss></i></li><li
+        class=\"\"><i style=\"width:30px;height:30px;margin:0;\" alt=\"Mix\" Title=\"Mix\"
+        class=\"heateorSssSharing heateorSssMixBackground\" onclick='heateorSssPopup(\"https://mix.com/mixit?url=https%3A%2F%2Fwww.canadiancattlemen.ca%2Fcca-reports%2Fcca-reports-leveraging-public-interest-in-agriculture%2F\")'><ss
+        style=\"display:block;\" class=\"heateorSssSharingSvg heateorSssMixSvg\"></ss></i></li><li
+        class=\"\"><i style=\"width:30px;height:30px;margin:0;\" alt=\"Whatsapp\"
+        Title=\"Whatsapp\" class=\"heateorSssSharing heateorSssWhatsappBackground\"><a
+        href=\"https://web.whatsapp.com/send?text=CCA%20reports%3A%20Leveraging%20public%20interest%20in%20agriculture
+        https%3A%2F%2Fwww.canadiancattlemen.ca%2Fcca-reports%2Fcca-reports-leveraging-public-interest-in-agriculture%2F\"
+        rel=\"nofollow noopener\" target=\"_blank\"><ss style=\"display:block\" class=\"heateorSssSharingSvg
+        heateorSssWhatsappSvg\"></ss></a></i></li><li class=\"\"><i style=\"width:30px;height:30px;margin:0;\"
+        title=\"More\" alt=\"More\" class=\"heateorSssSharing heateorSssMoreBackground\"
+        onclick=\"heateorSssMoreSharingPopup(this, 'https://www.canadiancattlemen.ca/cca-reports/cca-reports-leveraging-public-interest-in-agriculture/',
+        'CCA%20reports%3A%20Leveraging%20public%20interest%20in%20agriculture', ''
+        )\"><ss style=\"display:block\" class=\"heateorSssSharingSvg heateorSssMoreSvg\"></ss></i></li></ul><div
+        class=\"heateorSssClear\"></div></div> </div>\n</div>\n<section class=\"main-content-subsection
+        author-full-bio\">\n<h2>About the author</h2>\n<div class=\"row\">\n<div class=\"small-24
+        medium-12 columns\">\n<div class=\"author-info-container clearfix\">\n<h3
+        class=\"author-name\"><span class=\"author\"><a href=\"https://www.canadiancattlemen.ca/contributor/bob-lowe/\"
+        rel=\"tag\">Bob Lowe</a></span></h3>\n<p class=\"author-position\">Columnist</p>\n<div
+        class=\"author-photo\">\n<a href=\"https://www.canadiancattlemen.ca/contributor/bob-lowe\"
+        title=\"Contributor archive page\" alt=\"Contributor archive page\"></a>\n</div>\n<div
+        class=\"author-info\">\n<div class=\"author-social\">\n</div>\n<p class=\"author-description\">Bob
+        Lowe is president of the Canadian Cattlemen\u2019s Association.</p>\n</div>\n</div>\n</div>\n<div
+        class=\"small-24 medium-12 columns\">\n<div class=\"author-articles\">\n<p
+        class=\"author-recent-articles\">Bob Lowe's recent articles</p>\n<ul class=\"links-list\">\n<li>\n<a
+        data-click=\"add-url-tracking\" data-module=\"author-bio-recent\" data-pgtype=\"article\"
+        data-index=\"\" href=\"https://www.canadiancattlemen.ca/cca-reports/cca-reports-leveraging-public-interest-in-agriculture/\">CCA
+        reports: Leveraging public interest in agriculture</a>\n<time class=\"updated
+        dtstamp\" datetime=\"2020-11-13T13:16:25-07:00\">\n21 hours ago\t</time>\n</li>\n<li>\n<a
+        data-click=\"add-url-tracking\" data-module=\"author-bio-recent\" data-pgtype=\"article\"
+        data-index=\"\" href=\"https://www.canadiancattlemen.ca/cca-reports/cca-reports-trade-access-livestock-price-insurance-and-agristability/\">CCA
+        reports: Trade access, livestock price insurance and AgriStability</a>\n<time
+        class=\"updated dtstamp\" datetime=\"2020-10-28T10:18:32-06:00\">\nOctober
+        28, 2020\t</time>\n</li>\n<li>\n<a data-click=\"add-url-tracking\" data-module=\"author-bio-recent\"
+        data-pgtype=\"article\" data-index=\"\" href=\"https://www.canadiancattlemen.ca/cca-reports/cca-reports-supporting-young-producers-through-covid-and-beyond/\">CCA
+        reports: Supporting young producers through COVID and beyond</a>\n<time class=\"updated
+        dtstamp\" datetime=\"2020-10-09T09:10:36-06:00\">\nOctober 9, 2020\t</time>\n</li>\n</ul>\n<p
+        class=\"author-more-articles\"><a href=\"https://www.canadiancattlemen.ca/contributor/bob-lowe/\">
+        More Articles </a></p>\n</div>\n</div>\n</div>\n</section>\n<div id=\"related_coverage\"
+        class=\"gfm-related-coverage-widget\">\n<h2>Related Coverage</h2>\n<div class=\"container-all-related-articles\">\n<div
+        class=\"container-two-article-row\">\n<div class=\"container-related-article\">\n<h3><a
+        href=\"https://www.canadiancattlemen.ca/news/\">News</a></h3>\n<hr>\n<div
+        class=\"container-title\">\n<a href=\"https://www.canadiancattlemen.ca/news/accolades-for-bovine-veterinarian-practitioner/\">\n<h3>Accolades
+        for bovine veterinarian, practitioner</h3>\n</a>\n</div>\n</div>\n<div class=\"container-related-article\">\n<h3><a
+        href=\"https://www.canadiancattlemen.ca/news/\">News</a></h3>\n<hr>\n<div
+        class=\"container-image\">\n<a href=\"https://www.canadiancattlemen.ca/features/barbados-aiming-for-self-sufficiency-in-food-production/\"
+        aria-label=\"Read more about Barbados aiming for self-sufficiency in food
+        production\"><img width=\"1000\" height=\"667\" src=\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/10/19183310/IMG_8182_cmyk.jpg\"
+        class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\"
+        loading=\"lazy\" srcset=\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/10/19183310/IMG_8182_cmyk.jpg
+        1000w, https://static.canadiancattlemen.ca/wp-content/uploads/2020/10/19183310/IMG_8182_cmyk-768x512.jpg
+        768w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></a>\n</div>\n<div class=\"container-title\">\n<a
+        href=\"https://www.canadiancattlemen.ca/features/barbados-aiming-for-self-sufficiency-in-food-production/\">\n<h3>Barbados
+        aiming for self-sufficiency in food production</h3>\n</a>\n</div>\n</div>\n</div>\n<div
+        class=\"container-two-article-row\">\n<div class=\"container-related-article\">\n<h3><a
+        href=\"https://www.canadiancattlemen.ca/news/\">News</a></h3>\n<hr>\n<div
+        class=\"container-image\">\n<a href=\"https://www.canadiancattlemen.ca/markets/sustainability-efforts-in-the-beef-industry-growing/\"
+        aria-label=\"Read more about Sustainability efforts in the beef industry growing\"><img
+        width=\"1000\" height=\"667\" src=\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/11/04120045/cattle-BlackAngus-GettyImages-932074532.jpg\"
+        class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\"
+        loading=\"lazy\" srcset=\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/11/04120045/cattle-BlackAngus-GettyImages-932074532.jpg
+        1000w, https://static.canadiancattlemen.ca/wp-content/uploads/2020/11/04120045/cattle-BlackAngus-GettyImages-932074532-768x512.jpg
+        768w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></a>\n</div>\n<div class=\"container-title\">\n<a
+        href=\"https://www.canadiancattlemen.ca/markets/sustainability-efforts-in-the-beef-industry-growing/\">\n<h3>Sustainability
+        efforts in the beef industry growing</h3>\n</a>\n</div>\n</div>\n<div class=\"container-related-article\">\n<h3><a
+        href=\"https://www.canadiancattlemen.ca/news/\">News</a></h3>\n<hr>\n<div
+        class=\"container-image\">\n<a href=\"https://www.canadiancattlemen.ca/news/research-network-to-allocate-15-million-in-first-open-call-for-proposals/\"
+        aria-label=\"Read more about Research network to allocate $15 million in first
+        open call for proposals\"><img width=\"1000\" height=\"667\" src=\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/05/22133141/farmer-man-woman-512276489-GettyImages-shotbydave.jpg\"
+        class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"\"
+        loading=\"lazy\" srcset=\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/05/22133141/farmer-man-woman-512276489-GettyImages-shotbydave.jpg
+        1000w, https://static.canadiancattlemen.ca/wp-content/uploads/2020/05/22133141/farmer-man-woman-512276489-GettyImages-shotbydave-768x512.jpg
+        768w\" sizes=\"(max-width: 1000px) 100vw, 1000px\" /></a>\n</div>\n<div class=\"container-title\">\n<a
+        href=\"https://www.canadiancattlemen.ca/news/research-network-to-allocate-15-million-in-first-open-call-for-proposals/\">\n<h3>Research
+        network to allocate $15 million in first open call for proposals</h3>\n</a>\n</div>\n</div>\n</div>\n<div
+        class=\"container-two-article-row\">\n<div class=\"container-related-article\">\n<h3><a
+        href=\"https://www.canadiancattlemen.ca/news/\">News</a></h3>\n<hr>\n<div
+        class=\"container-title\">\n<a href=\"https://www.canadiancattlemen.ca/news/condolences-to-the-ballard-family/\">\n<h3>Condolences
+        to the Ballard family</h3>\n</a>\n</div>\n</div>\n<div class=\"container-related-article\">\n<h3><a
+        href=\"https://www.canadiancattlemen.ca/news/\">News</a></h3>\n<hr>\n<div
+        class=\"container-title\">\n<a href=\"https://www.canadiancattlemen.ca/news/manitoba-youth-beef-roundup-holds-cattle-photography-workshop-scholarships-awarded/\">\n<h3>Manitoba
+        Youth Beef Roundup holds cattle photography workshop, scholarships awarded</h3>\n</a>\n</div>\n</div>\n</div>\n\n</div>\n</div>\n<section
+        class=\"main-content-subsection gfm-comments-discuss\">\n<div id='comments-112715'
+        class='comments-content\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t'>\n<h2 id=\"comments-thread\">Comments</h2>\n<div
+        id=\"disqus_thread\"></div>\n<button class='button open-comments'><i class='fi-comment'></i>
+        Show Comments</button>\n</div>\n</section>\n<section class='explore-widget'>\n<header
+        class=\"explore-widget-title-bar\">\n<h2>explore</h2>\n<p>Stories from our
+        other publications</p>\n</header>\n<div class=\"explore-widget-container\">\n<ul>\n<li
+        class='explore-widget-box'>\n<article>\n<p class=\"explore-widget-pub\">\n<a
+        data-click=\"add-url-tracking\" data-module=\"explore_widget\" data-pgtype=\"article\"
+        href=\"https://www.manitobacooperator.ca/markets/cattle-values-up-with-u-s-futures/\"
+        target=\"_blank\" rel=\"noopener\">\nManitoba Co-operator </a>\n</p>\n<a href=\"https://www.manitobacooperator.ca/markets/cattle-values-up-with-u-s-futures/\"
+        data-click=\"add-url-tracking\" data-module=\"explore_widget\" data-pgtype=\"article\"
+        target=\"_blank\" rel=\"noopener\">\n<figure class=\"explore-widget-thumb-container\">\n<img
+        src=\"https://static.manitobacooperator.ca/wp-content/uploads/2020/11/13164553/livestock-auctions-MBC11122020-150x150.jpg\"
+        alt='Cattle values up with U.S. futures' />\n</figure>\n<p class=\"explore-widget-category\">livestock
+        markets</p>\n<p>Cattle values up with U.S. futures</p>\n</a>\n</article>\n</li>\n<li
+        class='explore-widget-box'>\n<article>\n<p class=\"explore-widget-pub\">\n<a
+        data-click=\"add-url-tracking\" data-module=\"explore_widget\" data-pgtype=\"article\"
+        href=\"https://www.manitobacooperator.ca/markets/canola-gets-bounce-off-soybeans-gains/\"
+        target=\"_blank\" rel=\"noopener\">\nManitoba Co-operator </a>\n</p>\n<a href=\"https://www.manitobacooperator.ca/markets/canola-gets-bounce-off-soybeans-gains/\"
+        data-click=\"add-url-tracking\" data-module=\"explore_widget\" data-pgtype=\"article\"
+        target=\"_blank\" rel=\"noopener\">\n<figure class=\"explore-widget-thumb-container\">\n<img
+        src=\"https://static.manitobacooperator.ca/wp-content/uploads/2020/11/09141413/F_CanolaField_0401_JeannetteGreaves_cmyk-150x150.jpg\"
+        alt='Canola gets bounce off soybeans\u2019 gains' />\n</figure>\n<p class=\"explore-widget-category\">grain
+        markets</p>\n<p>Canola gets bounce off soybeans\u2019 gains</p>\n</a>\n</article>\n</li>\n<li
+        class='explore-widget-box'>\n<article>\n<p class=\"explore-widget-pub\">\n<a
+        data-click=\"add-url-tracking\" data-module=\"explore_widget\" data-pgtype=\"article\"
+        href=\"https://www.producer.com/2020/11/crushers-ride-sharp-rise-in-demand/\"
+        target=\"_blank\" rel=\"noopener\">\nThe Western Producer </a>\n</p>\n<a href=\"https://www.producer.com/2020/11/crushers-ride-sharp-rise-in-demand/\"
+        data-click=\"add-url-tracking\" data-module=\"explore_widget\" data-pgtype=\"article\"
+        target=\"_blank\" rel=\"noopener\">\n<figure class=\"explore-widget-thumb-container\">\n<img
+        src=\"https://static.producer.com/wp-content/uploads/2020/11/12100443/06-05-col-canola-150x150.jpg\"
+        alt='Crushers ride sharp rise in demand' />\n</figure>\n<p class=\"explore-widget-category\">markets</p>\n<p>Crushers
+        ride sharp rise in demand</p>\n</a>\n</article>\n</li>\n<li class='explore-widget-box'>\n<article>\n<p
+        class=\"explore-widget-pub\">\n<a data-click=\"add-url-tracking\" data-module=\"explore_widget\"
+        data-pgtype=\"article\" href=\"https://www.producer.com/2020/11/canola-seen-gaining-ground-as-biofuel-during-covid-19/\"
+        target=\"_blank\" rel=\"noopener\">\nThe Western Producer </a>\n</p>\n<a href=\"https://www.producer.com/2020/11/canola-seen-gaining-ground-as-biofuel-during-covid-19/\"
+        data-click=\"add-url-tracking\" data-module=\"explore_widget\" data-pgtype=\"article\"
+        target=\"_blank\" rel=\"noopener\">\n<figure class=\"explore-widget-thumb-container\">\n<img
+        src=\"https://static.producer.com/wp-content/uploads/2020/11/12100505/6-LMZ041607frenchfries-150x150.jpg\"
+        alt='Canola seen gaining ground as biofuel during COVID-19' />\n</figure>\n<p
+        class=\"explore-widget-category\">markets</p>\n<p>Canola seen gaining ground
+        as biofuel during COVID-19</p>\n</a>\n</article>\n</li>\n</ul>\n</div>\n</section>\n</article>\n</div>\n</div>\n<div
+        class=\"show-for-large-up inner-right-column columns sidebar-single right-column\">\n<div
+        class=\"right-rail-ad-container\">\n<div class=\"rail ad\">\n<script type=\"text/javascript\">\n\t\tvar
+        code = \"googletag.cmd.push( function() {googletag.display('dfp-ad-slot--large_and_xlarge_bigbox--1');
+        } );\";\n\t\tif(typeof lazyAds == \"undefined\"){\n\t\t\tvar lazyAds = [];\n\t\t}\n\n\t\tlazyAds.push({divId:
+        'dfp-ad-slot--large_and_xlarge_bigbox--1', code: code, height: '250' });\n\t</script>\n<div
+        id=\"dfp-ad-slot--large_and_xlarge_bigbox--1\" class=\"\">\n</div>\n</div>\n</div>\n<div
+        id=\"recent-post-type-1\" class=\"widget-container recent-post-type\"><div
+        class=\"widget\"><h2 class=\"widget-title\">GFM Network News</h2>\n<div class=\"widget\">\n<ul
+        class='multiple-articles'>\n<li>\n<article class=\"media\">\n<a data-click=\"add-url-tracking\"
+        data-module=\"the-latest\" data-pgtype=\"homepage\" class=\"media__img\" href=\"https://www.canadiancattlemen.ca/daily/u-s-livestock-cattle-futures-sag-as-covid-surge-threatens-meat-demand/\"
+        aria-label=\"U.S. livestock: Cattle futures sag as COVID surge threatens meat
+        demand\">\n<img width=\"150\" height=\"150\" src=\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/11/13185306/CMEdec20cattle-23-150x150.jpg\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" loading=\"lazy\"
+        /> </a>\n<div class=\"media__body\">\n<h2><a href=\"https://www.canadiancattlemen.ca/daily/u-s-livestock-cattle-futures-sag-as-covid-surge-threatens-meat-demand/\">U.S.
+        livestock: Cattle futures sag as COVID surge threatens meat demand</a></h2>\n<time
+        class=\"updated dtstamp\" datetime=\"2020-11-13 18:32:41\">15 hours ago</time>\n</div>\n</article>\n</li>\n<li>\n<article
+        class=\"media\">\n<a data-click=\"add-url-tracking\" data-module=\"the-latest\"
+        data-pgtype=\"homepage\" class=\"media__img\" href=\"https://www.canadiancattlemen.ca/daily/u-s-grains-soybeans-up-again-on-export-demand-supply-concerns/\"
+        aria-label=\"U.S. grains: Soybeans up again on export demand, supply concerns\">\n<img
+        width=\"150\" height=\"150\" src=\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/11/13145313/CBOTjan20soy-16-150x150.jpg\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" loading=\"lazy\"
+        /> </a>\n<div class=\"media__body\">\n<h2><a href=\"https://www.canadiancattlemen.ca/daily/u-s-grains-soybeans-up-again-on-export-demand-supply-concerns/\">U.S.
+        grains: Soybeans up again on export demand, supply concerns</a></h2>\n<time
+        class=\"updated dtstamp\" datetime=\"2020-11-13 14:49:56\">19 hours ago</time>\n</div>\n</article>\n</li>\n<li>\n<article
+        class=\"media\">\n<div class=\"media__body\">\n<h2><a href=\"https://www.canadiancattlemen.ca/daily/jbs-gears-up-for-u-s-and-brazil-expansions/\">JBS
+        gears up for U.S. and Brazil expansions</a></h2>\n<time class=\"updated dtstamp\"
+        datetime=\"2020-11-13 01:21:08\">1 day ago</time>\n</div>\n</article>\n</li>\n</ul>\n<div
+        class='more-link'>\n<a href='https://www.canadiancattlemen.ca/daily/'>More
+        News \u2192</a>\n</div>\n</div>\n</div></div><div id=\"gfm_podcast_widget-5\"
+        class=\"widget-container widget_gfm_podcast_widget\"><div class=\"widget\"><h2
+        class=\"widget-title\">GFM Podcasts</h2><ul class=\"multiple-articles latest\"
+        style=\"margin-bottom: auto !important\"><li>\n<a href=\"https://www.agcanada.com/podcasts/between-the-rows\"
+        target=\"_blank\" rel=\"noopener\">\n<img src=\"https://static.agcanada.com/wp-content/uploads/2019/05/BTR_cover-art.jpg\"
+        alt=\"between-the-rows\">\n</a>\n</li><li><h2><a href=\"https://feedproxy.google.com/~r/GFMBetweenTheRows/~3/NAAA-MDqir4/navigating-trade-with-china-the-secret-lives-of-farm-writers-grain-market-gains\"
+        target=\"_blank\" rel=\"noopener\">Navigating trade with China, the secret
+        lives of farm writers, grain market gains</a></h2><span class=\"rss-date\">November
+        12, 2020</span></li><li class=\"more-link\"><a href=\"https://www.agcanada.com/podcasts/between-the-rows\"
+        target=\"_blank\" rel=\"noopener\">Listen Now \u2192</a></li></ul></div></div><div
+        id=\"custom_html-2\" class=\"widget_text widget-container widget_custom_html\"><div
+        class=\"widget_text widget\"><h2 class=\"widget-title\">Special Podcast Series</h2><div
+        class=\"textwidget custom-html-widget\"><div>\n<p class=\"no-margin\"><img
+        class=\"full\" src=\"https://static.canadiancattlemen.ca/wp-content/uploads/2020/05/05111321/BTR_4PtSeries_Pandemic_Twitter_1024x512.jpg\"
+        alt=\"Special 4-part series Farming through the pandemic\" width=\"100%\"
+        /></p>\n<ul class=\"block-list text-center\">\n<li><a class=\"normal\" href=\"https://www.agcanada.com/podcasts/between-the-rows/farming-through-the-pandemic-part-1\"
+        target=\"blank\" rel=\"noopener noreferrer\">Listen \xBB <strong>Part 1: Economic
+        Impacts</strong></a></li>\n<li><a class=\"normal\" href=\"https://www.agcanada.com/podcasts/between-the-rows/farming-through-the-pandemic-part-2\"
+        target=\"blank\" rel=\"noopener noreferrer\">Listen \xBB <strong>Part 2: The
+        Challenges Ahead</strong></a></li>\n<li><a class=\"normal\" href=\"https://www.agcanada.com/podcasts/between-the-rows/farming-through-the-pandemic-part-3\"
+        target=\"blank\" rel=\"noopener noreferrer\">Listen \xBB <strong>Part 3: All
+        About Livestock</strong></a></li>\n<li><a class=\"normal\" href=\"https://www.agcanada.com/podcasts/between-the-rows/farming-through-the-pandemic-part-4\"
+        target=\"blank\" rel=\"noopener noreferrer\">Listen \xBB <strong>Part 4: A
+        Cross-Country Perspective</strong></a></li>\n</ul>\n</div></div></div></div>\n<div
+        id=\"agcanada-tv-3\" class=\"widget-container widget_agcanadatv\"><div class=\"widget\">
+        <div class=\"agcanadatv agblock ag-tv-width\">\n<h2 class=\"widget-title\"><i
+        class=\"fi-video\"></i> AgCanadaTV</h2> <div class=\"ag-tv-widget-border\">\n<h2
+        class=\"video-title ag-tv-video-title\">\n<a data-click=\"add-url-tracking\"
+        data-module=\"agcanada-tv\" data-pgtype=\"article\" href=\"https://www.canadiancattlemen.ca/video/agcanadatv-in-case-you-missed-it-your-national-ag-news-recap-for-the-week-ending-november-13-2020/\"
+        class=\"ag-tv-video-title-link\">\nAGCanadaTV: In Case You Missed It \u2013\_Your
+        National Ag News Recap for the week ending November 13, 2020. </a>\n</h2>\n<div
+        class=\"ag-tv-video\">\n<div style=\"display: block; max-width: 400px;\"><div
+        style=\"padding-top: 56.25%;\"><video data-video-id=\"6209751196001\" data-account=\"2206156280001\"
+        data-player=\"S18VXWyL\" data-embed=\"default\" class=\"video-js\" controls
+        style=\"width: 100%; height: 100%; position: absolute; top: 0px; bottom: 0px;
+        right: 0px; left: 0px;\"></video> <script src=\"//players.brightcove.net/2206156280001/S18VXWyL_default/index.min.js\"></script></div></div>
+        </div>\n<div class=\"ag-tv-ads-container\">\n<small>Sponsored By:</small>\n<script
+        type=\"text/javascript\">\n\t\tvar code = \"googletag.cmd.push( function()
+        {googletag.display('dfp-ad-slot--video_sponsorship'); } );\";\n\t\tif(typeof
+        lazyAds == \"undefined\"){\n\t\t\tvar lazyAds = [];\n\t\t}\n\n\t\tlazyAds.push({divId:
+        'dfp-ad-slot--video_sponsorship', code: code, height: '0' });\n\t</script>\n<div
+        id=\"dfp-ad-slot--video_sponsorship\" class=\"\">\n</div>\n</div>\n<div class=\"ag-tv-see-more-link
+        more-link\">\n<a href='https://www.canadiancattlemen.ca/video/'>More Videos
+        \u2192</a>\n</div>\n</div>\n</div>\n</div></div>\n<div class=\"sub widget-container
+        xlarge-right-rail-markets-widget\"></div>\n<div class=\"widget-container daily-newsletter\">\n<h1
+        class=\"widget-title\">Daily Newsletter</h1>\n<div class=\"multiple-articles\">\n<p
+        class=\"subscribe-title\">Subscribe to the Canadian Cattlemen daily newsletter</p>\n<p>You'll
+        receive current daily news every morning free, as well as market updates and
+        special features.</p>\n<form class=\"horizontal_sidesub\" autocomplete=\"off\"
+        method=\"post\" action=\"#\" id=\"gfm-newsletter-subscribe-form\">\n<input
+        type=\"hidden\" name=\"action\" value=\"newsletter_signup_form\">\n<input
+        type=\"hidden\" name=\"list_key\" value=\"cattlemen\">\n<div class=\"newsltr_sub_control-group\">\n<input
+        name=\"email\" type=\"email\" id=\"newsletter-main-email-address\" placeholder=\"Email*\"
+        aria-label=\"Email*\" required>\n</div>\n<div class=\"newsltr_sub_control-group\">\n<input
+        name=\"postalcode\" type=\"text\" id=\"newsletter-main-postal\" placeholder=\"Postal/Zip
+        Code*\" aria-label=\"Postal/Zip Code*\" required>\n</div>\n<p class=\"subscribe_legal\"><small>*
+        PERMISSION TO CONTACT YOU BY EMAIL By providing your e-mail address, you confirm
+        that you are providing consent to Glacier Farm Media LP, on its own behalf
+        and on behalf of its <a href=\"http://farmmedia.com/affiliates-and-divisions/\"
+        target=\"_blank\" rel=\"noopener\">affiliates</a>, and carrying on business
+        through its <a href=\"http://farmmedia.com/affiliates-and-divisions/\" target=\"_blank\"
+        rel=\"noopener\">divisions</a>, to receive emails containing news, updates
+        and promotions, including third party promotions, as well as product and/or
+        service information, including that of third parties, that may be of interest
+        to you, and that you understand you may unsubscribe at any time. Please see
+        <a href=\"http://farmmedia.com/affiliates-and-divisions/\" target=\"_blank\"
+        rel=\"noopener\">contact us</a> for more information.</small></p>\n<p><input
+        type=\"radio\" name=\"casl_optin\" value=\"yes\" id=\"casl_optin_yes\"> <label
+        for=\"casl_optin_yes\">YES</label><br /><input type=\"radio\" name=\"casl_optin\"
+        value=\"no\" id=\"casl_optin_no\"> <label for=\"casl_optin_no\">NO, send select
+        newsletters only.</label></p>\n<p class=\"gfm-newsletter-message\"></p>\n<input
+        class=\"btn newsletter-submit\" type=\"submit\" value=\"Subscribe\" style=\"font-size:
+        16px; font-weight: bold; width: 100%\">\n</form>\n</div>\n</div>\n</div>\n</div>\n</div>\n<style>\n\t@media
+        screen and (max-width: 445px){\n\t\t.logo-footer {width:240px;}\n\t}\n\t</style>\n<div
+        class=\"row container-bottom-ad\">\n<div class=\"columns medium-24\">\n<div
+        class=\"show-for-medium-up\" style=\"margin: 20px auto 0; width:728px;\">
+        <script type=\"text/javascript\">\n\t\tvar code = \"googletag.cmd.push( function()
+        {googletag.display('dfp-ad-slot--lazy-load-leaderboard'); } );\";\n\t\tif(typeof
+        lazyAds == \"undefined\"){\n\t\t\tvar lazyAds = [];\n\t\t}\n\n\t\tlazyAds.push({divId:
+        'dfp-ad-slot--lazy-load-leaderboard', code: code, height: '0' });\n\t</script>\n<div
+        id=\"dfp-ad-slot--lazy-load-leaderboard\" class=\"\">\n</div>\n</div>\n</div>\n</div>\n<footer
+        class=\"footer\">\n<div class=\"wrap\">\n<div class=\"row\">\n<div class=\"small-24
+        medium-16 columns\">\n<img class=\"left logo-footer\" src=\"https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/images/footer-logo.png\"
+        alt=\"flag\">\n</div>\n<div class=\"small-24 medium-8 columns\">\n<div class=\"right
+        footer-search-container\">\n<form method=\"get\" id=\"searchform-footer\"
+        action=\"https://www.canadiancattlemen.ca/\" role=\"search\">\n<input class=\"search\"
+        name=\"s\" type=\"text\" aria-label=\"Search\" placeholder=\"Enter search
+        words here\" value=\"\"><button class=\"button footer-search\" aria-label=\"Submit
+        search\" type=\"submit\"><i class=\"fi-magnifying-glass medium\"></i></button>\n</form>\n<a
+        href=\"https://farmmedia.com/freefarmnews-signup/\" class=\"btn\" target=\"_blank\"
+        rel=\"noopener\">Signup to our Newsletter</a>\n</div>\n</div>\n</div>\n<nav>\n<div
+        class=\"row main-footer-nav\">\n<ul id=\"menu-footer\" class=\"small-12 medium-24
+        columns\"><li id=\"menu-item-55382\" class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category current-post-ancestor current-menu-parent current-post-parent
+        menu-item-55382\"><a href=\"https://www.canadiancattlemen.ca/news/\">News</a></li>\n<li
+        id=\"menu-item-55383\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category
+        menu-item-55383\"><a href=\"https://www.canadiancattlemen.ca/crops/\">Crops</a></li>\n<li
+        id=\"menu-item-55384\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category
+        menu-item-55384\"><a href=\"https://www.canadiancattlemen.ca/livestock/\">Livestock</a></li>\n<li
+        id=\"menu-item-55385\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category
+        menu-item-55385\"><a href=\"https://www.canadiancattlemen.ca/machinery/\">Machinery</a></li>\n<li
+        id=\"menu-item-55386\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category
+        menu-item-55386\"><a href=\"https://www.canadiancattlemen.ca/markets/\">Markets</a></li>\n<li
+        id=\"menu-item-55387\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category
+        menu-item-55387\"><a href=\"https://www.canadiancattlemen.ca/history/\">History</a></li>\n</ul><ul
+        id=\"menu-subfooter-1\" class=\"small-12 medium-24 columns sub-footer-nav\"><li
+        class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-55393\"><a
+        href=\"/video/\">Video</a></li>\n<li class=\"menu-item menu-item-type-custom
+        menu-item-object-custom menu-item-55394\"><a href=\"/digital-edition/\">Digital
+        Editions</a></li>\n<li class=\"menu-item menu-item-type-custom menu-item-object-custom
+        menu-item-55395\"><a href=\"http://farmzilla.com\">Classifieds</a></li>\n<li
+        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-55396\"><a
+        href=\"https://www.canadiancattlemen.ca/subscriptions/\">Subscriptions</a></li>\n<li
+        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-55397\"><a
+        href=\"https://www.canadiancattlemen.ca/about/\">About</a></li>\n<li class=\"menu-item
+        menu-item-type-post_type menu-item-object-page menu-item-55398\"><a href=\"https://www.canadiancattlemen.ca/mediakit/\">Advertise</a></li>\n<li
+        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-55399\"><a
+        href=\"https://www.canadiancattlemen.ca/contact/\">Contact Us</a></li>\n</ul>
+        </div>\n</nav>\n<div class=\"row footer-signup\">\n<div class=\"small-24 medium-16
+        columns left\"><p class=\"terms\"><a href=\"/terms-of-use/\">Terms and Conditions</a>
+        | <a href=\"/privacy/\">Privacy Policy</a> | &copy; 2020, Glacier FarmMedia
+        Limited Partnership</p></div>\n</div>\n</div>\n</footer>\n<a class=\"exit-off-canvas\"></a>\n</div>\n</div>\n<script
+        type=\"text/javascript\">\n\t\t\t//<![CDATA[\n\t\t\tvar gfm_infinite = {\"settings\":{\"id\":\"content\",\"ajaxurl\":\"https:\\/\\/www.canadiancattlemen.ca\\/?infinity_single=scrolling\",\"type\":\"semi-auto\",\"wrapper\":true,\"wrapper_class\":\"infinite-wrap\",\"footer\":false,\"click_handle\":\"1\",\"text\":\"Click
+        To Read More\",\"totop\":\"Scroll back to top\",\"currentday\":\"13.11.20\",\"order\":\"DESC\",\"scripts\":[],\"styles\":[],\"offset\":0,\"history\":{\"host\":\"www.canadiancattlemen.ca\",\"path\":\"\\/cca-reports\\/cca-reports-leveraging-public-interest-in-agriculture\\/page\\/%d\\/\",\"use_trailing_slashes\":true,\"parameters\":\"\"},\"query_args\":{\"page\":0,\"name\":\"cca-reports-leveraging-public-interest-in-agriculture\",\"category_name\":\"cca-reports\",\"error\":\"\",\"m\":\"\",\"p\":0,\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"pagename\":\"\",\"page_id\":0,\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":10,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"},\"last_post_date\":null,\"body_class\":\"\",\"show_page_num\":true,\"ajaxurl_original\":\"https:\\/\\/www.canadiancattlemen.ca\\/?infinity=scrolling\",\"post_id\":112715}};\n\t\t\t//]]>\n\t\t\t</script>\n<div
+        class=\"gfm-subscriptions-popup-overlay\"></div>\n<div class=\"gfm-subscriptions-popup\">\n<div
+        class=\"gfm-subscriptions-image\" style=\"background-color: #fff\">\n<img
+        src=\"https://www.canadiancattlemen.ca/wp-content/plugins/gfm-subscriptions-popup/includes/uploads/cdn_cattlemen.png\"
+        alt=\"Banner image\" />\n<a class=\"gfm-subscriptions-popup-close\" href=\"#\"><img
+        src=\"https://www.canadiancattlemen.ca/wp-content/plugins/gfm-subscriptions-popup/includes/images/X@2x.png\"
+        alt=\"Close\" /></a>\n</div>\n<div class=\"gfm-subscriptions-content\">\n<p>Holding
+        back calves this year? We\u2019re here to help. Feeding & backgrounding info
+        relevant to your operation, all in one place. Get tips from the experts to
+        get you through the season in Canadian Cattlemen: The Best of Feeding & Backgrounding.</p>\n<p><a
+        class=\"gfm-subscriptions-link\" href=\"https://store.canadiancattlemen.ca/products/focused-series-grazing-and-forage-greatest-hits\"
+        style=\"background-color: #aa1f23\" target=\"_blank\" rel=\"noopener\">Download
+        Today!</a></p>\n<p><a class=\"gfm-subscriptions-newsletter\" style=\"color:#aa1f23;\"
+        href=\"https://farmmedia.com/freefarmnews-signup\" target=\"_blank\" rel=\"noopener\">Free
+        Newsletter Signup</a></p>\n</div>\n</div>\n</div>\n<link rel='stylesheet'
+        id='gis-scroll-helper-css' href='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-infinite-scrolling/css/gfm-scroll-helper.css?ver=1.6.2'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='gfm_scroll_helper-css'
+        href='https://www.canadiancattlemen.ca/wp-content/themes/network_theme/css/gfm_scroll_helper.css?ver=2.5.40'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='cg__scroll_helper-css'
+        href='https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/css/gfm_scroll_helper.css?ver=2.2.7'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='related-coverage-style-css'
+        href='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-related-coverage-widget/css/related-coverage-widget.css?ver=1.0.6'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='custom-recent-post-type-css'
+        href='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-custom-recent-post-type-widget/css/custom-recent-post-type-widget.css?ver=1.3.6'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='gfm-podcast-widget-css'
+        href='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-podcast-widget/includes/css/gfm-podcast-widget.css?ver=3.0.4'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='gis_gfm-infinite-styles-css'
+        href='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-infinite-scrolling/css/gfm-infinite-scrolling.css?ver=1.6.2'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='barchart-integration-style-css'
+        href='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-barchart-integration/assets/css/barchart-integration.css?ver=1.2.12'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='upcoming-events-css'
+        href='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-events/assets/css/upcoming-events.css?ver=1.2.4'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='sponsored-content-css'
+        href='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-sponsored-content/css/sponsored-content.css?ver=1.0.7'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='gsop-style-css'
+        href='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-stories-from-other-pubs/css/stories-from-other-publications.css?ver=1.0.5'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='gfm-subscriptions-popup-css'
+        href='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-subscriptions-popup/includes/css/gfm-subscriptions-popup.css?ver=2.1.3'
+        type='text/css' media='all' />\n<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js'
+        id='jquery-js'></script>\n<script type='text/javascript' src='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-newsletter-subscribe/includes/js/form.js?ver=1.0'
+        id='gfm-newsletter-subscribe-form-js'></script>\n<script type='text/javascript'
+        src='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-infinite-scrolling/js/gfm-infinite-scrolling.js?ver=1.6.2'
+        id='gis_gfm-infinite-scrolling-js'></script>\n<script type='text/javascript'
+        src='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-infinite-scrolling/js/lib/spin.js?ver=1.6.2'
+        id='gis-spin.js-js'></script>\n<script type='text/javascript' src='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-infinite-scrolling/js/lib/jquery.spin.js?ver=1.6.2'
+        id='gis-jquery.spin-js'></script>\n<script type='text/javascript' id='disqus_count-js-extra'>\n/*
+        <![CDATA[ */\nvar countVars = {\"disqusShortname\":\"canadiancattlemen\"};\n/*
+        ]]> */\n</script>\n<script type='text/javascript' src='https://www.canadiancattlemen.ca/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.17'
+        id='disqus_count-js'></script>\n<script type='text/javascript' id='disqus_embed-js-extra'>\n/*
+        <![CDATA[ */\nvar embedVars = {\"disqusConfig\":{\"integration\":\"wordpress
+        3.0.17\"},\"disqusIdentifier\":\"112715 https:\\/\\/www.canadiancattlemen.ca\\/?p=112715\",\"disqusShortname\":\"canadiancattlemen\",\"disqusTitle\":\"CCA
+        reports: Leveraging public interest in agriculture\",\"disqusUrl\":\"https:\\/\\/www.canadiancattlemen.ca\\/cca-reports\\/cca-reports-leveraging-public-interest-in-agriculture\\/\",\"postId\":\"112715\"};\n/*
+        ]]> */\n</script>\n<script type='text/javascript' src='https://www.canadiancattlemen.ca/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.17'
+        id='disqus_embed-js'></script>\n<script type='text/javascript' src='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-all-markets/assets/js/widget/latest-markets-news.js?ver=1.2.4'
+        id='latest-markets-news-js'></script>\n<script type='text/javascript' src='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-carousel/assets/js/slick.min.js?ver=1.0.1'
+        id='glacier-carousel-slick-js'></script>\n<script type='text/javascript' src='https://auth.lrcontent.com/v2/js/LoginRadiusV2.js?ver=2.0.10'
+        id='loginradius-js'></script>\n<script type='text/javascript' id='gmm-menu-js-extra'>\n/*
+        <![CDATA[ */\nvar gmm_menu = {\"current_pub_subscription_link\":\"\\/subscriptions\\/\",\"dashboard\":\"Dashboard\",\"log_out\":\"Log
+        Out\",\"member_login\":\"Member Login\",\"member_offers\":\"Member Offers\",\"profile\":\"Profile\",\"set_alerts\":\"Set
+        Alerts\",\"set_follows\":\"Set Follows\",\"sign_in_to_your_account\":\"Sign
+        In To Your Account\",\"sign_up_for_membership\":\"Sign Up For Membership\",\"subscribe\":\"Subscribe\",\"sign_in\":\"Sign
+        In\",\"manage_account\":\"Manage Account\",\"login\":\"Login\",\"membership\":\"Membership\",\"register\":\"Register\",\"forgot_password\":\"Forgot
+        Password\",\"hello\":\"Hello\"};\nvar LR_Config = {\"lrApiKey\":\"75141eeb-8c9b-4a8e-8a29-653c80621116\",\"recaptcha\":\"6LfOQgoUAAAAAHKokES9b7Jm2cD7rWW9_XyV_20w\",\"idapi\":\"https:\\/\\/id.fbcwebservices.com\\/\",\"subscriptionUrl\":\"https:\\/\\/www.glacierfarmmedia.com\\/\",\"appName\":\"farmmedia\"};\n/*
+        ]]> */\n</script>\n<script type='text/javascript' src='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-membership-menu/js/gfm-membership-menu.js?ver=2.0.10'
+        id='gmm-menu-js'></script>\n<script type='text/javascript' src='https://www.canadiancattlemen.ca/wp-content/themes/cc_theme_single/js/js.js?ver=2.2.7'
+        id='cc-js'></script>\n<script type='text/javascript' src='https://www.canadiancattlemen.ca/wp-content/themes/network_theme/js/ads.js?ver=2.5.40'
+        id='lazy-ads-js'></script>\n<script type='text/javascript' id='agc_common-scripts-js-extra'>\n/*
+        <![CDATA[ */\nvar agc_common_localization = {\"adblock_title\":\"We want to
+        continue to bring you content that you enjoy!\",\"adblock_thankyou\":\"Thank
+        you.\",\"adblock_copy1\":\"Unfortunately parts of our site will not work with
+        ad, tracking, or privacy blocking software enabled. Please disable all blockers
+        or whitelist this site to view our content. \",\"adblock_copy2\":\"NOTE: If
+        you are using Firefox, please be sure to turn off \\\"Content Blocking\\\"
+        (the shield icon next to the URL). \",\"adblock_message\":\"This site relies
+        on advertising to provide the news you\\u2019ve come to expect and we don't
+        want you to miss out on offers from agricultural companies you love.\",\"adblock_whitelist\":\"Please
+        consider allowing those great offers to appear for you by adding this website
+        to the whitelist in your ad blocker.\",\"adblock_instructions\":\"Here's how
+        to whitelist this site.\"};\nvar localizedStrings = {\"advertisementText\":\"ADVERTISEMENT\"};\nvar
+        GFM_MBC = {\"follow_author_meta\":{\"twitter\":\"\",\"facebook\":\"\",\"author_email\":\"\"},\"is_single\":\"true\",\"page_title\":\"CCA
+        reports: Leveraging public interest in agriculture\",\"current_url\":\"https:\\/\\/www.canadiancattlemen.ca\\/cca-reports\\/cca-reports-leveraging-public-interest-in-agriculture\\/\",\"imp\":\"b347a94bfc43e91bc3dd386a5847853b\"};\n/*
+        ]]> */\n</script>\n<script type='text/javascript' src='https://www.canadiancattlemen.ca/wp-content/themes/network_theme/js/common-scripts-concat.28045088614.js?ver=2.5.40'
+        id='agc_common-scripts-js'></script>\n<script type='text/javascript' src='https://www.canadiancattlemen.ca/wp-content/themes/network_theme/js/lazysizes.min.js?ver=5.2.0'
+        id='lazysizes-js'></script>\n<script type='text/javascript' src='https://www.canadiancattlemen.ca/wp-content/plugins/easy-twitter-feed-widget/js/twitter-widgets.js?ver=1.0'
+        id='do-etfw-twitter-widgets-js'></script>\n<script type='text/javascript'
+        id='heateor_sss_sharing_js-js-before'>\nfunction heateorSssLoadEvent(e) {var
+        t=window.onload;if (typeof window.onload!=\"function\") {window.onload=e}else{window.onload=function()
+        {t();e()}}};\tvar heateorSssSharingAjaxUrl = 'https://www.canadiancattlemen.ca/wp-admin/admin-ajax.php',
+        heateorSssCloseIconPath = 'https://www.canadiancattlemen.ca/wp-content/plugins/sassy-social-share/public/../images/close.png',
+        heateorSssPluginIconPath = 'https://www.canadiancattlemen.ca/wp-content/plugins/sassy-social-share/public/../images/logo.png',
+        heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable
+        = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled
+        = 1;var heateorSssCopyLinkMessage = \"Link copied.\";var heateorSssUrlCountFetched
+        = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function
+        heateorSssPopup(e) {window.open(e,\"popUpWindow\",\"height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status\")};var
+        heateorSssWhatsappShareAPI = \"web\";\n</script>\n<script type='text/javascript'
+        src='https://www.canadiancattlemen.ca/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=3.3.13'
+        id='heateor_sss_sharing_js-js'></script>\n<script type='text/javascript' src='https://www.canadiancattlemen.ca/wp-content/themes/network_theme/js/gfm-infinite-scroll.js?ver=2.5.40'
+        id='infinite-scroll-trigger-js'></script>\n<script type='text/javascript'
+        src='https://www.canadiancattlemen.ca/wp-includes/js/wp-embed.min.js?ver=5.5.1'
+        id='wp-embed-js'></script>\n<script type='text/javascript' id='gis-scroll-helper-js-extra'>\n/*
+        <![CDATA[ */\nvar gis_scroll_helper = {\"ajax_url\":\"https:\\/\\/www.canadiancattlemen.ca\\/wp-admin\\/admin-ajax.php\"};\n/*
+        ]]> */\n</script>\n<script type='text/javascript' src='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-infinite-scrolling/js/gfm-scroll-helper.js?ver=1.6.2'
+        id='gis-scroll-helper-js'></script>\n<script type='text/javascript' src='https://www.canadiancattlemen.ca/wp-content/plugins/gfm-subscriptions-popup/includes/js/gfm-subscriptions-popup.js?ver=2.1.3'
+        id='gfm-subscriptions-popup-js'></script>\n<script type=\"text/javascript\">\n\t\t\t\tjQuery.extend(
+        gfm_infinite.settings.scripts, [\"gfm_tracking_event\",\"dfp-ads\",\"jquery\",\"gfm-newsletter-subscribe-form\",\"gis_gfm-infinite-scrolling\",\"gis-spin.js\",\"gis-jquery.spin\",\"disqus_count\",\"disqus_embed\",\"latest-markets-news\",\"glacier-carousel-slick\",\"loginradius\",\"gmm-menu\",\"cc\",\"lazy-ads\",\"agc_common-scripts\",\"lazysizes\",\"do-etfw-twitter-widgets\",\"heateor_sss_sharing_js\",\"infinite-scroll-trigger\",\"wp-embed\",\"gis-scroll-helper\",\"gfm-subscriptions-popup\"]
+        );\n\t\t\t\tjQuery.extend( gfm_infinite.settings.styles, [\"wp-block-library\",\"glacier-carousel-style\",\"explore\",\"agcanada-tv\",\"gfm-notice-style\",\"gmm-menu\",\"cc-styles\",\"related-articles-style\",\"heateor_sss_frontend_css\",\"heateor_sss_sharing_default_svg\",\"gis-scroll-helper\",\"gfm_scroll_helper\",\"cg__scroll_helper\",\"related-coverage-style\",\"custom-recent-post-type\",\"gfm-podcast-widget\",\"gis_gfm-infinite-styles\",\"barchart-integration-style\",\"upcoming-events\",\"sponsored-content\",\"gsop-style\",\"gfm-subscriptions-popup\"]
+        );\n\t\t\t</script>\n\n<script type=\"text/javascript\">\n\t\tsetTimeout(function(){var
+        a=document.createElement(\"script\");\n\t\tvar b=document.getElementsByTagName(\"script\")[0];\n\t\ta.src=document.location.protocol+\"//dnn506yrbagrg.cloudfront.net/pages/scripts/0014/1625.js?\"+Math.floor(new
+        Date().getTime()/3600000);\n\t\ta.async=true;a.type=\"text/javascript\";b.parentNode.insertBefore(a,b)},
+        1);\n\t</script>\n\n<script type=\"text/javascript\">window.NREUM||(NREUM={});NREUM.info={\"beacon\":\"bam-cell.nr-data.net\",\"licenseKey\":\"fe93da1f7d\",\"applicationID\":\"166767472\",\"transactionName\":\"NFdSZUNVWUtTWhIMXg0dcVJFXVhWHUoPC1YPVw==\",\"queueTime\":0,\"applicationTime\":2894,\"atts\":\"GBBREwtPSkU=\",\"errorBeacon\":\"bam-cell.nr-data.net\",\"agent\":\"\"}</script></body>\n</html>\n"
+    headers:
+      Age:
+      - '195'
+      CF-Cache-Status:
+      - DYNAMIC
+      CF-RAY:
+      - 5f2244db0d30cf0c-IAD
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Sat, 14 Nov 2020 16:56:59 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Link:
+      - <https://www.canadiancattlemen.ca/wp-json/>; rel="https://api.w.org/"
+      - <https://www.canadiancattlemen.ca/wp-json/wp/v2/posts/112715>; rel="alternate";
+        type="application/json"
+      - <https://www.canadiancattlemen.ca/?p=112715>; rel=shortlink
+      NEL:
+      - '{"report_to":"cf-nel","max_age":604800}'
+      Pragma:
+      - no-cache
+      Report-To:
+      - '{"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report?s=JGYcg0oysWBtQxEeISAWJsOpLSvO2Vp2eAC%2F8%2BS3yyYofHmckA5qEJBDkIeDsVreaajtdLCvJ559rK5ry821w4BLxem%2BbnvNFMPtbnDL0SDcDkhsnyriHM0%3D"}],"group":"cf-nel","max_age":604800}'
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d20f5c56837b1b86d38423c8830bd7cd11605373019; expires=Mon, 14-Dec-20
+        16:56:59 GMT; path=/; domain=.canadiancattlemen.ca; HttpOnly; SameSite=Lax
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      Via:
+      - 1.1 varnish
+      X-Cache:
+      - HIT
+      X-Cacheable:
+      - YES:cacheable for 15m
+      X-Caching-Reason:
+      - catch the rest
+      X-Pingback:
+      - https://www.canadiancattlemen.ca/xmlrpc.php
+      X-Varnish:
+      - 1011226740 1011225916
+      cf-request-id:
+      - 0669495ce50000cf0c16262000000001
+      content-length:
+      - '127085'
+    status:
+      code: 200
+      message: OK
+version: 1

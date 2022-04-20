@@ -1,0 +1,1374 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.fxstreet.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/87.0.4280.88 Safari/537.36 '
+    method: GET
+    uri: https://www.fxstreet.com/news/australia-queensland-state-premier-greater-brisbane-to-go-into-three-day-covid-lockdown-reuters-202101072222
+  response:
+    body:
+      string: " <!DOCTYPE html> <html lang=\"en\" > <head> <meta http-equiv=\"Content-Type\"\
+        \ content=\"text/html; charset=utf-8\"><script type=\"text/javascript\">window.NREUM||(NREUM={});NREUM.info\
+        \ = {\"beacon\":\"bam-cell.nr-data.net\",\"errorBeacon\":\"bam-cell.nr-data.net\"\
+        ,\"licenseKey\":\"c2da35057c\",\"applicationID\":\"492039093\",\"transactionName\"\
+        :\"YQZSbUNSD0cABRBeV1hMcWphHBJSDBAHR1lRBkNcQ0UIVwRJVVUMAFIFDQYeWQRZAEkBD1IBHQEFVQMZBwBUAggGBwkJAgdUaw8JEF9dWwZvXF8dAEcRHg==\"\
+        ,\"queueTime\":0,\"applicationTime\":141,\"agent\":\"\",\"atts\":\"\"}</script><script\
+        \ type=\"text/javascript\">(window.NREUM||(NREUM={})).loader_config={licenseKey:\"\
+        c2da35057c\",applicationID:\"492039093\"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function\
+        \ r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var\
+        \ i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if(\"function\"\
+        ==typeof __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return\
+        \ r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return\
+        \ o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e(\"\
+        handle\"),a=e(6),c=e(7),f=e(\"ee\").get(\"tracer\"),u=e(\"loader\"),s=NREUM;\"\
+        undefined\"==typeof window.newrelic&&(newrelic=s);var d=[\"setPageViewName\"\
+        ,\"setCustomAttribute\",\"setErrorHandler\",\"finished\",\"addToTrace\",\"\
+        inlineHit\",\"addRelease\"],p=\"api-\",l=p+\"ixn-\";a(d,function(e,t){s[t]=i(p+t,!0,\"\
+        api\")}),s.addPageAction=i(p+\"addPageAction\",!0),s.setCurrentRouteName=i(p+\"\
+        routeName\",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var\
+        \ m=r.prototype={createTracer:function(e,t){var n={},r=this,i=\"function\"\
+        ==typeof t;return o(l+\"tracer\",[u.now(),e,n],r),function(){if(f.emit((i?\"\
+        \":\"no-\")+\"fn-start\",[u.now(),r,i],n),i)try{return t.apply(this,arguments)}catch(e){throw\
+        \ f.emit(\"fn-err\",[arguments,this,e],n),e}finally{f.emit(\"fn-end\",[u.now()],n)}}}};a(\"\
+        actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get\".split(\"\
+        ,\"),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){\"string\"\
+        ==typeof e&&(e=new Error(e)),o(\"err\",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function\
+        \ r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new\
+        \ Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(8);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function\
+        \ r(e,t){var n=e.getEntries();n.forEach(function(e){\"first-paint\"===e.name?d(\"\
+        timing\",[\"fp\",Math.floor(e.startTime)]):\"first-contentful-paint\"===e.name&&d(\"\
+        timing\",[\"fcp\",Math.floor(e.startTime)])})}function i(e,t){var n=e.getEntries();n.length>0&&d(\"\
+        lcp\",[n[n.length-1]])}function o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d(\"\
+        cls\",[e])})}function a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d(\"\
+        timing\",[\"fi\",t,n])}}function c(e){d(\"pageHide\",[p.now(),e])}if(!(\"\
+        init\"in NREUM&&\"page_view_timing\"in NREUM.init&&\"enabled\"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var\
+        \ f,u,s,d=e(\"handle\"),p=e(\"loader\"),l=e(5),m=NREUM.o.EV;if(\"PerformanceObserver\"\
+        in window&&\"function\"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:[\"\
+        paint\"]})}catch(v){}u=new PerformanceObserver(i);try{u.observe({entryTypes:[\"\
+        largest-contentful-paint\"]})}catch(v){}s=new PerformanceObserver(o);try{s.observe({type:\"\
+        layout-shift\",buffered:!0})}catch(v){}}if(\"addEventListener\"in document){var\
+        \ g=!1,y=[\"click\",\"keydown\",\"mousedown\",\"pointerdown\",\"touchstart\"\
+        ];y.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],4:[function(e,t,n){function\
+        \ r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var\
+        \ n=o.split(\".\"),r=t.split(\".\"),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var\
+        \ i=null,o=null,a=/Version\\/(\\S+)\\s+Safari/;if(navigator.userAgent){var\
+        \ c=navigator.userAgent,f=c.match(a);f&&c.indexOf(\"Chrome\")===-1&&c.indexOf(\"\
+        Chromium\")===-1&&(i=\"Safari\",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],5:[function(e,t,n){function\
+        \ r(e){function t(){e(a&&document[a]?document[a]:document[i]?\"hidden\":\"\
+        visible\")}\"addEventListener\"in document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var\
+        \ i,o,a;\"undefined\"!=typeof document.hidden?(i=\"hidden\",o=\"visibilitychange\"\
+        ,a=\"visibilityState\"):\"undefined\"!=typeof document.msHidden?(i=\"msHidden\"\
+        ,o=\"msvisibilitychange\"):\"undefined\"!=typeof document.webkitHidden&&(i=\"\
+        webkitHidden\",o=\"webkitvisibilitychange\",a=\"webkitVisibilityState\")},{}],6:[function(e,t,n){function\
+        \ r(e,t){var n=[],r=\"\",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return\
+        \ n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],7:[function(e,t,n){function\
+        \ r(e,t,n){t||(t=0),\"undefined\"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return\
+        \ o}t.exports=r},{}],8:[function(e,t,n){t.exports={exists:\"undefined\"!=typeof\
+        \ window.performance&&window.performance.timing&&\"undefined\"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function\
+        \ r(){}function i(e){function t(e){return e&&e instanceof r?e:e?f(e,c,o):o()}function\
+        \ n(n,r,i,o){if(!p.aborted||o){e&&e(n,r,i);for(var a=t(i),c=v(n),f=c.length,u=0;u<f;u++)c[u].apply(a,r);var\
+        \ d=s[w[n]];return d&&d.push([b,n,r,a]),a}}function l(e,t){h[e]=v(e).concat(t)}function\
+        \ m(e,t){var n=h[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function\
+        \ v(e){return h[e]||[]}function g(e){return d[e]=d[e]||i(n)}function y(e,t){u(e,function(e,n){t=t||\"\
+        feature\",w[n]=t,t in s||(s[t]=[])})}var h={},w={},b={on:l,addEventListener:l,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:y,abort:a,aborted:!1};return\
+        \ b}function o(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var\
+        \ c=\"nr@context\",f=e(\"gos\"),u=e(6),s={},d={},p=t.exports=i();p.backlog=s},{}],gos:[function(e,t,n){function\
+        \ r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return\
+        \ Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return\
+        \ e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function\
+        \ r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e(\"ee\").get(\"handle\"\
+        );t.exports=r,r.ee=i},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||\"\
+        object\"!==t&&\"function\"!==t?-1:e===window?0:a(e,o,function(){return i++})}var\
+        \ i=1,o=\"nr@id\",a=e(\"gos\");t.exports=r},{}],loader:[function(e,t,n){function\
+        \ r(){if(!E++){var e=b.info=NREUM.info,t=p.getElementsByTagName(\"script\"\
+        )[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return\
+        \ u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c(\"mark\",[\"onload\"\
+        ,n+b.offset],null,\"api\"),c(\"timing\",[\"load\",n]);var r=p.createElement(\"\
+        script\");r.src=\"https://\"+e.agent,t.parentNode.insertBefore(r,t)}}function\
+        \ i(){\"complete\"===p.readyState&&o()}function o(){c(\"mark\",[\"domContent\"\
+        ,a()+b.offset],null,\"api\")}var a=e(2),c=e(\"handle\"),f=e(6),u=e(\"ee\"\
+        ),s=e(4),d=window,p=d.document,l=\"addEventListener\",m=\"attachEvent\",v=d.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:v,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var\
+        \ y=\"\"+location,h={beacon:\"bam.nr-data.net\",errorBeacon:\"bam.nr-data.net\"\
+        ,agent:\"js-agent.newrelic.com/nr-1184.min.js\"},w=v&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:w,userAgent:s};e(1),e(3),p[l]?(p[l](\"\
+        DOMContentLoaded\",o,!1),d[l](\"load\",r,!1)):(p[m](\"onreadystatechange\"\
+        ,i),d[m](\"onload\",r)),c(\"mark\",[\"firstbyte\",a.getLastTimestamp()],null,\"\
+        api\");var E=0},{}],\"wrap-function\":[function(e,t,n){function r(e){return!(e&&e\
+        \ instanceof Function&&e.apply&&!e[a])}var i=e(\"ee\"),o=e(7),a=\"nr@original\"\
+        ,c=Object.prototype.hasOwnProperty,f=!1;t.exports=function(e,t){function n(e,t,n,i){function\
+        \ nrWrapper(){var r,a,c,f;try{a=this,r=o(arguments),c=\"function\"==typeof\
+        \ n?n(r,a):n||{}}catch(u){p([u,\"\",[r,a,i],c])}s(t+\"start\",[r,a,i],c);try{return\
+        \ f=e.apply(a,r)}catch(d){throw s(t+\"err\",[r,a,d],c),d}finally{s(t+\"end\"\
+        ,[r,a,f],c)}}return r(e)?e:(t||(t=\"\"),nrWrapper[a]=e,d(e,nrWrapper),nrWrapper)}function\
+        \ u(e,t,i,o){i||(i=\"\");var a,c,f,u=\"-\"===i.charAt(0);for(f=0;f<t.length;f++)c=t[f],a=e[c],r(a)||(e[c]=n(a,u?c+i:i,o,c))}function\
+        \ s(n,r,i){if(!f||t){var o=f;f=!0;try{e.emit(n,r,i,t)}catch(a){p([a,n,r,i])}f=o}}function\
+        \ d(e,t){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(e);return\
+        \ n.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return\
+        \ e[n]=t,t}})}),t}catch(r){p([r])}for(var i in e)c.call(e,i)&&(t[i]=e[i]);return\
+        \ t}function p(t){try{e.emit(\"internal-error\",t)}catch(n){}}return e||(e=i),n.inPlace=u,n.flag=a,n}},{}]},{},[\"\
+        loader\"]);</script> <meta name=\"google-site-verification\" content=\"xatunrX549RT_RGs4DQzzK3W7EYphAqTiZ-1akhRkEw\"\
+        \ /> <meta name=\"viewport\" content=\"initial-scale=1, maximum-scale=1\"\
+        > <meta charset=\"utf-8\" /> <meta property=\"fb:app_id\" content=\"165130350199320\"\
+        \ /> <meta name=\"msapplication-TileImage\" content=\"https://staticcontent.fxstreet.com/website/static-html/mstile-144x144.png\"\
+        > <meta name=\"msapplication-TileColor\" content=\"#00aba9\"> <!-- ATTENTION:\
+        \ this must be add in header --> <!-- all images must be allocated in the\
+        \ root of the site --> <link rel=\"icon\" type=\"image/x-icon\" href=\"https://staticcontent.fxstreet.com/website/static-html/favicon.ico\"\
+        \ /> <link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"https://staticcontent.fxstreet.com/website/static-html/apple-touch-icon.png\"\
+        > <link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"https://staticcontent.fxstreet.com/website/static-html/favicon-32x32.png\"\
+        > <link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"https://staticcontent.fxstreet.com/website/static-html/favicon-16x16.png\"\
+        > <link rel=\"manifest\" href=\"/site.webmanifest\"> <link rel=\"mask-icon\"\
+        \ href=\"https://staticcontent.fxstreet.com/website/static-html/safari-pinned-tab.svg\"\
+        \ color=\"#e4871b\"> <meta name=\"apple-mobile-web-app-title\" content=\"\
+        FXStreet\"> <meta name=\"application-name\" content=\"FXStreet\"> <meta name=\"\
+        msapplication-TileColor\" content=\"#ffffff\"> <meta name=\"theme-color\"\
+        \ content=\"#ffffff\"> <!--preload--> <link rel=\"preload\" href='https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i&display=swap'\
+        \ as=\"style\"> <link rel=\"preload\" href=\"https://staticcontent.fxstreet.com/website/css/fxs_post.min.css?staticContentUpdate=202012310830\"\
+        \ as=\"style\"> <link rel=\"preload\" href=\"https://staticcontent.fxstreet.com/website-v2/js/fxs-init-mini.js?staticContentUpdate=202012310830\"\
+        \ as=\"script\"> <!--preload--> <link rel=\"preconnect\" href=\"https://authorization.fxstreet.com\"\
+        \ crossorigin> <link rel=\"preconnect\" href=\"https://editorial.fxstreet.com\"\
+        \ crossorigin> <link rel=\"preconnect\" href=\"https://editorial.azureedge.net\"\
+        \ crossorigin> <link rel=\"preconnect\" href=\"https://staticcontent.fxstreet.com\"\
+        \ crossorigin> <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"\
+        \ crossorigin> <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\"\
+        \ crossorigin> <link rel=\"preconnect\" href=\"https://use.fontawesome.com\"\
+        \ crossorigin> <link rel=\"preconnect\" href=\"https://spreads.myfxbook.com\"\
+        \ crossorigin> <link rel=\"preconnect\" href=\"https://push.ttweb.net\" crossorigin>\
+        \ <link href=\"https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i&display=swap\"\
+        \ rel=\"stylesheet\"> <link href=\"https://staticcontent.fxstreet.com/website/css/fxs_post.min.css?staticContentUpdate=202012310830\"\
+        \ rel=\"stylesheet\"> <script src=\"https://kit.fontawesome.com/22a9d93fa2.js\"\
+        ></script> <script data-schema=\"Organization\" type=\"application/ld+json\"\
+        >\r\n    {\"name\":\"FXStreet\",\r\n    \"url\":\"http://www.fxstreet.com\"\
+        ,\r\n    \"logo\":\"https://staticcontent.fxstreet.com/website/img/fxs_logo.png\"\
+        ,\r\n    \"sameAs\":[\"https://www.facebook.com/FXstreet\",\"https://twitter.com/fxstreetupdate\"\
+        ,\"https://plus.google.com/+fxstreet/\",\"https://www.youtube.com/user/fxstreetcom\"\
+        ],\r\n    \"@type\":\"Organization\",\r\n    \"@context\":\"http://schema.org\"\
+        }\r\n</script> <script src=\"https://staticcontent.fxstreet.com/website-v2/js/fxs-init-mini.js?staticContentUpdate=202012310830\"\
+        ></script> <script defer src=\"https://staticcontent.fxstreet.com/website-v2/js/fxs-init.js?staticContentUpdate=202012310830\"\
+        ></script> <script type=\"text/javascript\">\r\n    var fxs_widget_hosts_config\
+        \ =    {\r\n        \"Calendar\": \"https://calendar.fxstreet.com\",\r\n \
+        \       \"MarketTools\": \"https://markettools.fxstreet.com/\",\r\n      \
+        \  \"Post\": \"https://subscriptions.fxstreet.com/\"\r\n    };\r\n</script>\
+        \ <script type=\"text/javascript\">\r\n\r\n    var fxstreetResource = atob('eyJNYWNoaW5lTmFtZSI6IlJEMDAxNTVENzE0MjJFIiwiU3RhdGljQ29udGVudFNjcmlwdCI6Imh0dHBzOi8vc3RhdGljY29udGVudC5meHN0cmVldC5jb20vd2Vic2l0ZS9qcy8iLCJTdGF0aWNDb250ZW50Q3NzIjoiaHR0cHM6Ly9zdGF0aWNjb250ZW50LmZ4c3RyZWV0LmNvbS93ZWJzaXRlL2Nzcy8iLCJTdGF0aWNDb250ZW50VmlkZW8iOiJodHRwczovL3N0YXRpY2NvbnRlbnQuZnhzdHJlZXQuY29tL3dlYnNpdGUvdmlkZW8vIiwiU3RhdGljQ29udGVudEZvbnQiOiJodHRwczovL3N0YXRpY2NvbnRlbnQuZnhzdHJlZXQuY29tL3dlYnNpdGUvZm9udC8iLCJTdGF0aWNDb250ZW50SW1hZ2UiOiJodHRwczovL3N0YXRpY2NvbnRlbnQuZnhzdHJlZXQuY29tL3dlYnNpdGUvaW1nLyIsIlN0YXRpY0NvbnRlbnRRdWVyeVN0cmluZ1JlZnJlc2giOiI/c3RhdGljQ29udGVudFVwZGF0ZT0yMDIwMTIzMTA4MzAiLCJJc0Rlc2lnbk1vZGUiOiJmYWxzZSIsIklzUHJldmlld01vZGUiOiJmYWxzZSIsIkZ4c0FwaVJvdXRlcyI6eyJOZXdzbGV0dGVyU3Vic2NyaWJlIjoiL2FwaS9TdWJzY3JpYmVUb05ld3NsZXR0ZXJBcGkvU3Vic2NyaWJlIiwiQ2F0ZWdvcnlHZXRGbGF0IjoiL2FwaS9DYXRlZ29yeUFwaS9HZXRGbGF0Q2F0ZWdvcmllcyIsIkdldEF1dGhvcnNGaWx0ZXIiOiIvYXBpL0F1dGhvcnNBcGkvR2V0QXV0aG9yc0ZpbHRlciIsIkdldEF1dGhvcnNGb2xsb3ciOiIvYXBpL0F1dGhvcnNGb2xsb3dBcGkvR2V0QXV0aG9ycyIsIkdldFNvY2lhbE1lZGlhQmFyIjoiL2FwaS9Tb2NpYWxNZWRpYUFwaS9HZXRTb2NpYWxNZWRpYUJhciIsIkdldENvbXBhbmllc0ZpbHRlciI6Ii9hcGkvQ29tcGFuaWVzQXBpL0dldENvbXBhbmllc0ZpbHRlciIsIlJhdGVzVGFibGVBc3NldHMiOiIvYXBpL1JhdGVzRGF0YVRhYmxlQXBpL0dldEFzc2V0cyIsIk5ld3NJdGVtR2V0SXRlbXMiOiIvYXBpL1Bvc3RBcGkvR2V0SXRlbXMiLCJOZXdzSXRlbUdldFNpZGViYXJJdGVtcyI6Ii9hcGkvUG9zdEFwaS9HZXRTaWRlYmFySXRlbXMiLCJOZXdzSXRlbUdldFJlbGF0ZWQiOiIvYXBpL1Bvc3RBcGkvR2V0SXRlbXNSZWxhdGVkIiwiTmV3c0l0ZW1HZXRJdGVtQnlVcmwiOiIvYXBpL1Bvc3RBcGkvR2V0SXRlbUJ5VXJsIiwiQW5hbHlzaXNJdGVtR2V0SXRlbXMiOiIvYXBpL1Bvc3RBcGkvR2V0SXRlbXMiLCJBbmFseXNpc0l0ZW1HZXRTaWRlYmFySXRlbXMiOiIvYXBpL1Bvc3RBcGkvR2V0U2lkZWJhckl0ZW1zIiwiQW5hbHlzaXNJdGVtR2V0UmVsYXRlZCI6Ii9hcGkvUG9zdEFwaS9HZXRJdGVtc1JlbGF0ZWQiLCJBbmFseXNpc0l0ZW1HZXRJdGVtQnlVcmwiOiIvYXBpL1Bvc3RBcGkvR2V0SXRlbUJ5VXJsIiwiQ3J5cHRvc0l0ZW1HZXRJdGVtcyI6Ii9hcGkvUG9zdEFwaS9HZXRJdGVtcyIsIkNyeXB0b3NJdGVtR2V0U2lkZWJhckl0ZW1zIjoiL2FwaS9Qb3N0QXBpL0dldFNpZGViYXJJdGVtcyIsIkNyeXB0b3NJdGVtR2V0UmVsYXRlZCI6Ii9hcGkvUG9zdEFwaS9HZXRJdGVtc1JlbGF0ZWQiLCJDcnlwdG9zSXRlbUdldEl0ZW1CeVVybCI6Ii9hcGkvUG9zdEFwaS9HZXRJdGVtQnlVcmwiLCJFZHVjYXRpb25JdGVtR2V0SXRlbXMiOiIvYXBpL1Bvc3RBcGkvR2V0SXRlbXMiLCJFZHVjYXRpb25JdGVtR2V0U2lkZWJhckl0ZW1zIjoiL2FwaS9Qb3N0QXBpL0dldFNpZGViYXJJdGVtcyIsIkVkdWNhdGlvbkl0ZW1HZXRSZWxhdGVkIjoiL2FwaS9Qb3N0QXBpL0dldEl0ZW1zUmVsYXRlZCIsIkVkdWNhdGlvbkl0ZW1HZXRJdGVtQnlVcmwiOiIvYXBpL1Bvc3RBcGkvR2V0SXRlbUJ5VXJsIiwiVmlkZW9HZXRJdGVtcyI6Ii9hcGkvUG9zdEFwaS9HZXRJdGVtcyIsIlZpZGVvR2V0U2lkZWJhckl0ZW1zIjoiL2FwaS9Qb3N0QXBpL0dldFNpZGViYXJJdGVtcyIsIlZpZGVvc0dldEl0ZW1CeVVybCI6Ii9hcGkvUG9zdEFwaS9HZXRJdGVtQnlVcmwiLCJWaWRlb0l0ZW1HZXRSZWxhdGVkIjoiL2FwaS9Qb3N0QXBpL0dldEl0ZW1zUmVsYXRlZCIsIlZpZGVvTGVhZCI6Ii9hcGkvUG9zdEFwaS9MZWFkIiwiUmF0ZXNBbmRDaGFydHNJdGVtR2V0SXRlbXMiOiIvYXBpL1JhdGVzQW5kQ2hhcnRzQXBpL0dldEl0ZW1zIiwiUmF0ZXNBbmRDaGFydHNJdGVtR2V0U2lkZWJhckl0ZW1zIjoiL2FwaS9SYXRlc0FuZENoYXJ0c0FwaS9HZXRTaWRlYmFySXRlbXMiLCJSYXRlc0FuZENoYXJ0c0l0ZW1HZXRSZWxhdGVkIjoiL2FwaS9SYXRlc0FuZENoYXJ0c0FwaS9HZXRJdGVtc1JlbGF0ZWQiLCJSYXRlc0FuZENoYXJ0c0l0ZW1HZXRJdGVtQnlVcmwiOiIvYXBpL1JhdGVzQW5kQ2hhcnRzQXBpL0dldEl0ZW1CeVVybCIsIkJyb2tlckl0ZW1HZXRJdGVtcyI6Ii9hcGkvQnJva2VyQXBpL0dldEl0ZW1zIiwiQnJva2VySXRlbUdldFNpZGViYXJJdGVtcyI6Ii9hcGkvQnJva2VyQXBpL0dldFNpZGViYXJJdGVtcyIsIkJyb2tlckl0ZW1HZXRJdGVtQnlVcmwiOiIvYXBpL0Jyb2tlckFwaS9HZXRJdGVtQnlVcmwiLCJCcm9rZXJMZWFkIjoiL2FwaS9Ccm9rZXJBcGkvTGVhZCIsIkJyb2tlcnNTcHJlYWRzUmFuZG9tIjoiL2FwaS9Ccm9rZXJBcGkvR2V0QnJva2Vyc1NwcmVhZHNSYW5kb20iLCJCcm9rZXJzRm9vdGVyUmFuZG9tIjoiL2FwaS9Ccm9rZXJBcGkvR2V0QnJva2Vyc0Zvb3RlclJhbmRvbSIsIlNwb25zb3JCcm9rZXIiOiIvYXBpL0Jyb2tlckFwaS9HZXRTcG9uc29yQnJva2VyIiwiR2V0Q3VycmVuY2llcyI6Ii9hcGkvQXNzZXRBcGkvR2V0Q3VycmVuY2llcyIsIkdldENvbW1vZGl0aWVzIjoiL2FwaS9Bc3NldEFwaS9HZXRDb21tb2RpdGllcyIsIkdldEluZGV4ZXMiOiIvYXBpL0Fzc2V0QXBpL0dldEluZGV4ZXMiLCJHZXRBc3NldHMiOiIvYXBpL0Fzc2V0QXBpL0dldEFzc2V0cyIsIkV2ZW50c0dldEl0ZW1zIjoiL2FwaS9FdmVudEFwaS9HZXRJdGVtcyIsIkZpbHRlcmVkUG9zdHNHZXRJdGVtcyI6Ii9hcGkvQ29udHJpYnV0b3JGaWx0ZXJlZFBvc3RBcGkvR2V0SXRlbXMiLCJGaWx0ZXJlZE5ld3NHZXRJdGVtcyI6Ii9hcGkvQ29udHJpYnV0b3JGaWx0ZXJlZFBvc3RBcGkvR2V0TmV3cyIsIkZpbHRlcmVkQW5hbHlzaXNHZXRJdGVtcyI6Ii9hcGkvQ29udHJpYnV0b3JGaWx0ZXJlZFBvc3RBcGkvR2V0QW5hbHlzaXMiLCJGaWx0ZXJlZFZpZGVvc0dldEl0ZW1zIjoiL2FwaS9Db250cmlidXRvckZpbHRlcmVkUG9zdEFwaS9HZXRWaWRlbyIsIkZpbHRlcmVkRWR1Y2F0aW9uR2V0SXRlbXMiOiIvYXBpL0NvbnRyaWJ1dG9yRmlsdGVyZWRQb3N0QXBpL0dldEVkdWNhdGlvbiIsIkZpbHRlcmVkTGl2ZVNob3dzR2V0SXRlbXMiOiIvYXBpL0NvbnRyaWJ1dG9yRmlsdGVyZWRQb3N0QXBpL0dldExpdmVTaG93cyIsIkZpbHRlcmVkTmV3c0NyeXB0b3NHZXRJdGVtcyI6Ii9hcGkvQ29udHJpYnV0b3JGaWx0ZXJlZFBvc3RBcGkvR2V0Q3J5cHRvcyIsIkNvdW50cnlBcGlHZXRBbGwiOiIvYXBpL0NvdW50cnlBcGkvZ2V0IiwiQ2FnQXBpR2V0TW9kZWwiOiIvYXBpL0NhZ0FwaS9HZXRNb2RlbCIsIlRpbWVab25lR2V0IjoiL2FwaS90aW1lem9uZWFwaS9nZXQiLCJUaW1lWm9uZVB1dCI6Ii9hcGkvdGltZXpvbmVhcGkvcHV0IiwiUG9zdExpc3RNdWx0aUZlZWRHZXRJdGVtcyI6Ii9hcGkvUG9zdExpc3RNdWx0aUZlZWRBcGkvR2V0SXRlbXMiLCJBc3NldE5hdmlnYXRpb25HZXRBc3NldHMiOiIvYXBpL0Fzc2V0TmF2aWdhdGlvbkFwaS9HZXRBc3NldHMiLCJJbWFnZUNyZWF0ZUltYWdlIjoiL2FwaWJvL0ltYWdlQXBpL0NyZWF0ZUltYWdlIiwiUG9zdEJPR2V0QnlJZCI6Ii9hcGliby9Qb3N0QXBpQk8vR2V0QnlJZCIsIlBvc3RCT0NyZWF0ZSI6Ii9hcGliby9Qb3N0QXBpQk8vQ3JlYXRlIiwiUG9zdEJPVXBkYXRlIjoiL2FwaWJvL1Bvc3RBcGlCTy9VcGRhdGUiLCJQb3N0Qk9EZWxldGUiOiIvYXBpYm8vUG9zdEFwaUJPL0RlbGV0ZSIsIlBvc3RCT0RlbGV0ZUJ5TW9udGhzIjoiL2FwaWJvL1Bvc3RBcGlCTy9kZWxldGVCeU1vbnRocyIsIlRhZ0JPQ3JlYXRlIjoiL2FwaWJvL1RhZ0FwaUJPL0NyZWF0ZSIsIlRhZ0JPRGVsZXRlIjoiL2FwaWJvL1RhZ0FwaUJPL0RlbGV0ZSIsIlRhZ0JPVXBkYXRlIjoiL2FwaWJvL1RhZ0FwaUJPL1VwZGF0ZSIsIkxvZ291dFVybCI6Ii9jdHJsL3NlY3VyaXR5L2xvZ291dCIsIkV4dGVybmFsTG9naW5VcmwiOiIvY3RybC9zZWN1cml0eS9leHRlcm5hbGxvZ2luIn0sIkN1bHR1cmVOYW1lIjoiZW4iLCJMYW5ndWFnZUlkIjoiN2NiN2E2MWQtNWQ0Mi00NmFkLWI5YzAtZmE4M2NhMGQ3MTFlIiwiUGFnZVVybCI6Imh0dHBzOi8vd3d3LmZ4c3RyZWV0LmNvbS9uZXdzIiwiR29vZ2xlUmVDYXB0Y2hhU2l0ZUtleSI6IjZMZWoyUnNVQUFBQUFFYmlXc2VJalJIa21mYl82STlXQUVOa0lXMmciLCJUZWxldHJhZGVyU2VjdXJpdHlVcmwiOiJodHRwczovL21hcmtldHRvb2xzLmZ4c3RyZWV0LmNvbS92MS9wcmljZVByb3ZpZGVyL1ByaWNlUHJvdmlkZXJUb2tlbiIsIkF1dGhvcml6YXRpb25VcmwiOiJodHRwczovL2F1dGhvcml6YXRpb24uZnhzdHJlZXQuY29tL3Rva2VuIiwiRGF0YVByb3ZpZGVyVXJsIjoiaHR0cHM6Ly9wdXNoLnR0d2ViLm5ldC9odHRwX3B1c2gvIiwiVGVsZXRyYWRlclByaWNlUHJvdmlkZXJVcmwiOiJodHRwczovL21hcmtldHRvb2xzLmZ4c3RyZWV0LmNvbS92MS9wcmljZVByb3ZpZGVyL1ByaWNlUHJvdmlkZXJIaXN0b3J5IiwiUGhvbmVTZXJ2aWNlVXJsIjoiaHR0cHM6Ly9leHRlcm5hbHNlcnZpY2VzLmZ4c3RyZWV0LmNvbS9BcGkvUGhvbmVTZXJ2aWNlL0dldFBob25lRGF0YT9waG9uZW51bWJlcj17MH0iLCJVc2VySWQiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAiLCJUcmFuc2xhdGlvbnMiOnt9LCJHZW5lcmljRGF0YSI6e30sIlNvY2lhbE1lZGlhQmFyIjp7IlNoYXJlRGlzcGxheSI6IlNIQVJFIiwiTW9yZU9wdGlvbnNEaXNwbGF5IjoiTW9yZSBvcHRpb25zIiwiU2hhcmVPcHRpb25zRGlzcGxheSI6IlNoYXJlIE9wdGlvbnMiLCJTb2NpYWxNZWRpYUNoYW5uZWxzIjpbeyJOYW1lIjoiVHdpdHRlciIsIkltYWdlVXJsIjoibm91cmwiLCJVcmwiOiJodHRwczovL3R3aXR0ZXIuY29tLyIsIlNoYXJlVXJsIjoiaHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ/dGV4dD0iLCJTaGFyZVRpdGxlRGlzcGxheSI6IlNoYXJlIG9uIFR3aXR0ZXIiLCJQcmlvcml0eSI6MH0seyJOYW1lIjoiRmFjZWJvb2siLCJJbWFnZVVybCI6Im5vdXJsIiwiVXJsIjoiaHR0cDovL3d3dy5mYWNlYm9vay5jb20vIiwiU2hhcmVVcmwiOiJodHRwczovL3d3dy5mYWNlYm9vay5jb20vc2hhcmVyL3NoYXJlci5waHA/dT0iLCJTaGFyZVRpdGxlRGlzcGxheSI6IlNoYXJlIG9uIEZhY2Vib29rIiwiUHJpb3JpdHkiOjB9LHsiTmFtZSI6IkxpbmtlZGluIiwiSW1hZ2VVcmwiOiJub3VybCIsIlVybCI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS8iLCJTaGFyZVVybCI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9zaGFyZUFydGljbGU/bWluaT10cnVlJnVybD0iLCJTaGFyZVRpdGxlRGlzcGxheSI6IlNoYXJlIG9uIExpbmtlZGluIiwiUHJpb3JpdHkiOjB9LHsiTmFtZSI6Ikdvb2dsZSsiLCJJbWFnZVVybCI6Im5vdXJsIiwiVXJsIjoiaHR0cHM6Ly9wbHVzLmdvb2dsZS5jb20vIiwiU2hhcmVVcmwiOiJodHRwczovL3BsdXMuZ29vZ2xlLmNvbS9zaGFyZT91cmw9IiwiU2hhcmVUaXRsZURpc3BsYXkiOiJTaGFyZSBvbiBHb29nbGUrIiwiUHJpb3JpdHkiOjB9XX0sIkRmcFNsb3RzIjp7Ik5ld3MiOiIvNzEzOC9GWFMzMC9OZXdzIiwiQW5hbHlzaXMiOiIvNzEzOC9GWFMzMC9BbmFseXNpcyIsIkNyeXB0b2N1cnJlbmNpZXMiOiIvNzEzOC9GWFMzMC9DcnlwdG8iLCJFZHVjYXRpb24iOiIvNzEzOC9GWFMzMC9FZHVjYXRpb24iLCJWaWRlbyI6Ii83MTM4L0ZYUzMwL0xpdmVWaWRlbyIsIkV2ZW50IjoiLzcxMzgvRlhTMzAvTGl2ZVZpZGVvIiwiUmF0ZXNDaGFydHMiOiIvNzEzOC9GWFMzMC9SYXRlc19DaGFydHMiLCJTcG9uc29yQnJva2VyIjoiLzcxMzgvRlhTMzAvU3BvbnNvckJyb2tlciIsIkZvb3Rlck1vYmlsZSI6Ii83MTM4L0ZYUzMwL0Zvb3Rlck1vYmlsZSJ9LCJFdmVudEh1YlRva2VuVXJsIjoiaHR0cHM6Ly9leHRlcm5hbHNlcnZpY2VzLmZ4c3RyZWV0LmNvbS9hcGkvRXZlbnRIdWJUb2tlbi8iLCJFdmVudEh1Yk5hbWVzcGFjZVVybCI6Imh0dHBzOi8vZXZlbnRodWItZnhzLXByby1ucy5zZXJ2aWNlYnVzLndpbmRvd3MubmV0LyIsIkV2ZW50SHViTG9nZ2VyQ29uZmlnIjoie1wiRW50aXR5Q29uZmlnTmFtZVwiOlwiaHR0cHB1c2hcIixcIk5hbWVcIjpcImV2ZW50aHViLWh0dHBwdXNoXCIsXCJQdWJsaXNoZXJcIjpcIlB1c2hMb2dcIn0iLCJVc2VyQXV0aEFwaVVybCI6Imh0dHBzOi8vdXNlcmF1dGhhcGkuZnhzdHJlZXQuY29tLyIsIlVzZXJBdXRob3JGb2xsb3dBcGlVcmwiOiJodHRwczovL2F1dGhvcmZvbGxvd2FwaS5meHN0cmVldC5jb20vIiwiVXNlck5ld3NsZXR0ZXJBcGlVcmwiOiJodHRwczovL25ld3NsZXR0ZXJhcGkuZnhzdHJlZXQuY29tLyIsIlVzZXJTZXR0aW5nc0FwaVVybCI6Imh0dHBzOi8vdXNlcnNldHRpbmdzYXBpLmZ4c3RyZWV0LmNvbS8iLCJVc2VyRXZlbnRGb2xsb3dBcGlVcmwiOiJodHRwczovL2V2ZW50Zm9sbG93YXBpLmZ4c3RyZWV0LmNvbS8iLCJBcHBsZVN0b3JlQXBwVXJsIjoiaHR0cHM6Ly9hcHBzLmFwcGxlLmNvbS9hcHAvaWQ2MzY0NTM5NzYiLCJQbGF5U3RvcmVBcHBVcmwiOiJodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM/aWQ9Y29tLmZ4c3RyZWV0LmZvcmV4bmV3cyJ9');\r\
+        \n    FXStreet.Resource = JSON.parse(fxstreetResource);\r\n</script> <!--\
+        \ Google Analytics --> <script>\r\n    window.ga = window.ga || function ()\
+        \ { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;\r\n    ga('create',\
+        \ 'UA-XXXXX-Y', 'auto');\r\n    ga(function (tracker) {\r\n        if (tracker\
+        \ && ga.getAll().length === 1) {\r\n            const cookieName = \"cid\"\
+        ;\r\n            const cookieValue = tracker.get('clientId');\r\n        \
+        \    const twoyears = 63115200000;\r\n            const date = new Date();\r\
+        \n            const dateTimeNow = date.getTime();\r\n\r\n            date.setTime(dateTimeNow\
+        \ + twoyears);\r\n            const expirationTime = date.toUTCString();\r\
+        \n            document.cookie = cookieName + \"=\" + cookieValue + \"; expires=\"\
+        \ + expirationTime + \"; path=/; domain=.\" + location.hostname.replace(/^www\\\
+        ./i, \"\");\r\n\r\n            ga.remove(tracker.get('name'));\r\n       \
+        \ }\r\n    });\r\n</script> <!-- End Google Analytics --> <!-- Google Tag\
+        \ Manager --> <script>\r\n    dataLayer = [{\r\n        //Data layer content\r\
+        \n    }];\r\n</script> <script>\r\n    (function (w, d, s, l, i) {\r\n   \
+        \     w[l] = w[l] || []; w[l].push({\r\n            'gtm.start':\r\n     \
+        \           new Date().getTime(), event: 'gtm.js'\r\n        }); var f = d.getElementsByTagName(s)[0],\r\
+        \n            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l :\
+        \ ''; j.async = true; j.src =\r\n            '//www.googletagmanager.com/gtm.js?id='\
+        \ + i + dl; f.parentNode.insertBefore(j, f);\r\n    })(window, document, 'script',\
+        \ 'dataLayer', 'GTM-PN69BN');\r\n</script> <!-- End Google Tag Manager -->\
+        \ <!-- Intercom --> <!-- End Intercom --> <!-- ActiveCampaign --> <!-- End\
+        \ ActiveCampaign --> <script async src=\"https://securepubads.g.doubleclick.net/tag/js/gpt.js\"\
+        ></script> <script type=\"text/javascript\">\r\n    FXStreet.Global.AsyncDfp\
+        \ = true;\r\n    window.googletag = window.googletag || { cmd: [] };\r\n\r\
+        \n    googletag.cmd.push(function () {\r\n        // Infinite scroll requires\
+        \ SRA\r\n        googletag.pubads().enableSingleRequest();\r\n\r\n       \
+        \ // Disable initial load, we will use refresh() to fetch ads.\r\n       \
+        \ // Calling this function means that display() calls just\r\n        // register\
+        \ the slot as ready, but do not fetch ads for it.\r\n        googletag.pubads().disableInitialLoad();\r\
+        \n\r\n        // Enable services\r\n        googletag.enableServices();\r\n\
+        \    });\r\n</script> <script src=\"https://cdn.onesignal.com/sdks/OneSignalSDK.js\"\
+        \ async='async'></script> <script>\r\n\r\n    var setRandomABTest = function\
+        \ () {\r\n        var cookieName = \"Calendar_AB_Test\";\r\n         document.addEventListener(\"\
+        DOMContentLoaded\", function(event) {\r\n            var oneSignalCookie =\
+        \ FXStreet.Util.getCookie(cookieName);\r\n\r\n            if (oneSignalCookie\
+        \ == null) {\r\n                OneSignal.sendTags({\r\n                 \
+        \   calendar_abtest: Math.floor(Math.random() * 2),\r\n                }).then(function\
+        \ (tagsSent) {\r\n                    console.log(JSON.stringify(tagsSent));\r\
+        \n                });\r\n\r\n                FXStreet.Util.setCookie(cookieName,1,\
+        \ 365);\r\n            }\r\n      });\r\n\r\n\r\n    };\r\n\r\n    var OneSignal\
+        \ = window.OneSignal || [];\r\n    OneSignal.push([\"init\", {\r\n       \
+        \ appId: \"375191e5-6a0c-4c1a-998b-2741aa62d5c7\",\r\n        autoRegister:\
+        \ true, /* Set to true to automatically prompt visitors */\r\n        notifyButton:\
+        \ {\r\n            enable: false,\r\n            size: \"small\",\r\n    \
+        \        location: 'bottom-right',\r\n            colors: { // Customize the\
+        \ colors of the main button and dialog popup button\r\n                 'circle.background':\
+        \ 'rgb(228,135,27)',\r\n                 'circle.foreground': 'white',\r\n\
+        \                 'badge.background': 'rgb(228,135,27)',\r\n             \
+        \    'badge.foreground': 'white',\r\n                 'badge.bordercolor':\
+        \ 'white',\r\n                'pulse.color': 'white'\r\n            },\r\n\
+        \            offset: {\r\n                  bottom: '45px',\r\n          \
+        \        left: '15px', /* Only applied if bottom-left */\r\n             \
+        \     right: '4px' /* Only applied if bottom-right */\r\n            },\r\n\
+        \        }\r\n    }]);\r\n    OneSignal.push(function () {\r\n        var\
+        \ json =  \"{\\r\\n  \\\"cryptocurrencies\\\": \\\"cryptos\\\",\\r\\n  \\\"\
+        /rates-charts/forecast\\\": \\\"trading\\\",\\r\\n  \\\"/rates-charts/trading-positions\\\
+        \": \\\"trading\\\"\\r\\n}\";\r\n        var list = JSON.parse(json);\r\n\r\
+        \n        const keys = Object.keys(list);\r\n\r\n        for (const key of\
+        \ keys) {\r\n\r\n             if (window.location.href.includes(key)) {\r\n\
+        \                OneSignal.sendTags({\r\n                    section: list[key]\r\
+        \n                }).then(function (tagsSent) {\r\n                    console.log(JSON.stringify(tagsSent));\r\
+        \n                });\r\n            }\r\n        }\r\n     \r\n        if\
+        \ (window.location.href.includes(\"economic-calendar\")) {          \r\n \
+        \           setRandomABTest();\r\n        }\r\n    });\r\n    if (FXStreet.Util.isMobileDevice())\
+        \ {\r\n        OneSignal.push([\"sendTag\", \"mobile\", \"1\"]);\r\n    }\r\
+        \n    else {\r\n        OneSignal.push([\"sendTag\", \"desktop\", \"1\"]);\r\
+        \n    }\r\n    OneSignal.push([\"sendTag\", \"site\", \"en\"])\r\n</script>\
+        \ <script type=\"text/javascript\">var sf_appPath='/';</script> <title>\r\n\
+        \tAustralia Queensland State Premier: Greater Brisbane to go into three day\
+        \ covid lockdown - Reuters\r\n</title><meta name=\"twitter:image\" content=\"\
+        https://editorial.blob.core.windows.net/images/Psychology/businessman-reading-newspaper-52940474_Small.jpg\"\
+        \ /><style>.async-hide { opacity: 0 !important} </style><meta name=\"Generator\"\
+        \ content=\"Sitefinity 11.0.6732.0 PE\" /><meta property=\"og:site_name\"\
+        \ content=\"FXStreet\" /><meta property=\"og:type\" content=\"website\" /><meta\
+        \ property=\"og:title\" content=\"Australia Queensland State Premier: Greater\
+        \ Brisbane to go into three day covid lockdown - Reuters\" /><meta property=\"\
+        og:url\" content=\"https://www.fxstreet.com/news/australia-queensland-state-premier-greater-brisbane-to-go-into-three-day-covid-lockdown-reuters-202101072222\"\
+        \ /><meta property=\"og:image\" content=\"https://editorial.fxstreet.com/images/Macroeconomics/Countries/Oceania/Australia/australian-flag-1704567_Large.jpg\"\
+        \ /><meta name=\"twitter:card\" content=\"summary\" /><meta name=\"twitter:site\"\
+        \ content=\"@FXStreetUpdate\" /><meta name=\"twitter:title\" content=\"Australia\
+        \ Queensland State Premier: Greater Brisbane to go into three day covid lockdown\
+        \ - Reuters\" /><meta name=\"twitter:url\" content=\"https://www.fxstreet.com/news/australia-queensland-state-premier-greater-brisbane-to-go-into-three-day-covid-lockdown-reuters-202101072222\"\
+        \ /><meta name=\"twitter:description\" content=\"Early Friday morning in Asia,\
+        \ Queensland\u2019s State Premier Annastacia Palaszczuk announced a three-day\
+        \ activity restriction in Greater Brisbane, per Reu\" /><meta name=\"twitter:image\"\
+        \ content=\"https://editorial.fxstreet.com/images/Macroeconomics/Countries/Oceania/Australia/australian-flag-1704567_Large.jpg\"\
+        \ /><link href=\"https://www.fxstreet.com/news/australia-queensland-state-premier-greater-brisbane-to-go-into-three-day-covid-lockdown-reuters-202101072222\"\
+        \ rel=\"canonical\" /><meta name=\"lang\" content=\"en\" /><script data-schema='WebPage'\
+        \ type='application/ld+json'>{\"url\":\"https://www.fxstreet.com/news/australia-queensland-state-premier-greater-brisbane-to-go-into-three-day-covid-lockdown-reuters-202101072222\"\
+        ,\"@type\":\"WebPage\",\"@context\":\"http://schema.org\"}</script><link href=\"\
+        https://www.fxstreet.com/amp/news/australia-queensland-state-premier-greater-brisbane-to-go-into-three-day-covid-lockdown-reuters-202101072222\"\
+        \ rel=\"amphtml\" /><meta name=\"description\" content=\"Early Friday morning\
+        \ in Asia, Queensland\u2019s State Premier Annastacia Palaszczuk announced\
+        \ a three-day activity restriction in Greater Brisbane, per Reu\" /><meta\
+        \ name=\"keywords\" content=\"Australia, Coronavirus, NewsTrading, RiskAppetite,\
+        \ AUDUSD\" /></head> <body class=\"cbp-spmenu-push fxs_has_sponsor\"> <!--\
+        \ Google Tag Manager --> <noscript> <iframe src=\"//www.googletagmanager.com/ns.html?id=GTM-PN69BN\"\
+        \r\n            height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"\
+        ></iframe> </noscript> <script>\r\n    if (generatePopup) {\r\n        generatePopup();\r\
+        \n    }\r\n</script> <!-- End Google Tag Manager --> <script>\r\n    FXStreet.Util.createObjectFromBase64String(\"\
+        GoogleDriveManager\", 'eyJHb29nbGVEcml2ZVVybCI6Imh0dHBzOi8vZXh0ZXJuYWxzZXJ2aWNlcy5meHN0cmVldC5jb20vYXBpL0dvb2dsZURyaXZlL1VwZGF0ZUZpbGUifQ==');\r\
+        \n    FXStreet.Util.createObjectFromBase64String(\"MarketingLeadsManager\"\
+        , 'eyJNYXJrZXRpbmdMZWFkc1JlY29yZGVyVXJsIjoiaHR0cHM6Ly9meHNmdW5jdGlvbnMuYXp1cmV3ZWJzaXRlcy5uZXQvYXBpL01hcmtldGluZ0xlYWRzUmVjb3JkZXI/Y29kZT1JVlV0T3ZLZXZjTnhEdUtCTzRsYTZDOEpHcGFJWHg0V2hoV0hnTmJYM09CVmI3Y0FyNmVZMGc9PSZlPTEiLCJNYXJrZXRpbmdMZWFkc1JlYWRlclVybCI6Imh0dHBzOi8vZnhzZnVuY3Rpb25zLmF6dXJld2Vic2l0ZXMubmV0L2FwaS9NYXJrZXRpbmdMZWFkc1JlYWRlcj9jb2RlPTJ1Z0RuWUdsb2xxYXJDTDU1Q1JZQ2xqczI3ZzdsWGhIa3VoZTdtL1lnbW04MnJNcnRTeXR1Zz09JmU9MSJ9');\r\
+        \n    FXStreet.Resource.UserInfo = {\"Id\":\"00000000-0000-0000-0000-000000000000\"\
+        ,\"IsLogged\":false,\"IsPremium\":false,\"Email\":\"\",\"Phone\":\"\",\"FirstName\"\
+        :\"\",\"CountryCode\":\"RU\",\"TimezoneOffsetMinutes\":0,\"Token\":null};\r\
+        \n</script> <a id=\"\" class=\"fxs_skip\" href=\"#fxs_content\">Skip to main\
+        \ content</a> <div class=\"fxs_bgHeader\"> <div class=\"fxs_mediaHeader_bar\
+        \ fxs_hidden_s\"> <div class=\"fxs_mediaHeader_content\"> <span class=\"fxs_mediaHeader_icon\"\
+        ></span> <div class=\"fxs_mediaHeader_items\"> <ul class=\"fxs_mediaHeader_social\"\
+        > <li><div class=\"fxs_sectionTitle_header\"><span></span></div></li> <li>\
+        \ <a rel=\"nofollow\" href=\"https://twitter.com/FXStreetNews\" target=\"\
+        _blank\" title=\"Twitter\"> <i class=\"fab fa-twitter\" aria-hidden=\"true\"\
+        ></i> </a> </li> <li> <a rel=\"nofollow\" href=\"http://www.facebook.com/FXstreet\"\
+        \ target=\"_blank\" title=\"Facebook\"> <i class=\"fab fa-facebook\" aria-hidden=\"\
+        true\"></i> </a> </li> <li> <a rel=\"nofollow\" href=\"https://www.instagram.com/fx_street/\"\
+        \ target=\"_blank\" title=\"Instagram\"> <i class=\"fab fa-instagram\" aria-hidden=\"\
+        true\"></i> </a> </li> <li> <a rel=\"nofollow\" href=\"https://www.linkedin.com/company/fxstreet\"\
+        \ target=\"_blank\" title=\"Linkedin\"> <i class=\"fab fa-linkedin\" aria-hidden=\"\
+        true\"></i> </a> </li> <li> <a rel=\"nofollow\" href=\"https://www.youtube.com/user/fxstreetcom/\"\
+        \ target=\"_blank\" title=\"Youtube\"> <i class=\"fab fa-youtube\" aria-hidden=\"\
+        true\"></i> </a> </li> <li> <a rel=\"nofollow\" href=\"https://chrome.google.com/webstore/detail/fxstreet-the-foreign-exch/ibbcojjolkfhjaecoicbmnokmbcaaigi\"\
+        \ target=\"_blank\" title=\"Chrome\"> <i class=\"fab fa-chrome\" aria-hidden=\"\
+        true\"></i> </a> </li> <li> <a rel=\"nofollow\" href=\"https://www.financialjuice.com/company/FXStreet\"\
+        \ target=\"_blank\" title=\"FinancialJuice\"> <i class=\"fab fa-financialjuice\"\
+        \ aria-hidden=\"true\"></i> </a> </li> <li>|</li> <li><a rel=\"nofollow\"\
+        \ href=\"http://about.fxstreet.com/blog/\">FXStreet Blog</a></li> <li>|</li>\
+        \ <li class=\"fxs_sectionTitle_header\">GET THE APP</li> <li> <a href=\"https://play.google.com/store/apps/details?id=com.fxstreet.forexnews\"\
+        > <i class=\"fxs_google_play\"></i> </a> </li> <li> <a href=\"https://apps.apple.com/app/id636453976\"\
+        > <i class=\"fxs_app_store_ios\"></i> </a> </li> <li>|</li> <li><i class=\"\
+        fal fa-envelope\" aria-hidden=\"true\"></i>&nbsp; &nbsp;<a rel=\"nofollow\"\
+        \ href=\"/subscriptions\">Newsletter</a></li> </ul> </div> </div> </div> <div\
+        \ class=\"fxs_staticHeader\"> <header class=\"fxs_header\"> <div id=\"fxs_socialLogo_header\"\
+        \ class=\"fxs_socialHeader\"> <div fxs_sponsorbroker_placement position=\"\
+        TopBanner\" class=\"fxs_header_sponsor\"> </div> <button type=\"button\" id=\"\
+        fxs_showLeftPush\" class=\"fxs_show_navmenu\"> <span class=\"fxs_menu_txt\"\
+        >MENU</span> <i class=\"fas fa-bars\"></i> <span class=\"fxs_skip\">Show navigation</span>\
+        \ </button> <a class=\"fxs_logo\" href=\"/\" title=\"FXStreet\">FXStreet</a>\
+        \ <div id=\"fxs_getAppIOS\" class=\"fxs_hideElements fxs_appDownload\"> <a\
+        \ href=https://apps.apple.com/app/id636453976 target=\"_blank\"> <i class=\"\
+        fab fa-app-store\" aria-hidden=\"true\"></i> </a> </div> <div id=\"fxs_getAppAndroid\"\
+        \ class=\"fxs_hideElements fxs_appDownload\"> <a href=https://play.google.com/store/apps/details?id=com.fxstreet.forexnews\
+        \ target=\"_blank\"> <i class=\"fab fa-google-play\" aria-hidden=\"true\"\
+        ></i> </a> </div> <div id=\"fxs-usermenu\" class=\"fxs_user_menu\"></div>\
+        \ <div class=\"fxs_site_clock fxs_btn_group\" id=\"fxs-timezone\"></div> <!--\
+        \ /Main-nav --> </div> <div class=\"fxs_clearfix\"></div> <div id=\"fxs_nav_position\"\
+        \ class=\"fxs_clearfix fxs_navControl\"> <div class=\"fxs_navBg\"> <a id=\"\
+        fxs_logo_reduced\" class=\"fxs_logo fxs_logo_reduced\" href=\"/\" title=\"\
+        FXStreet\">\r\n                            FXStreet - The forex market\r\n\
+        \                        </a> <!-- Main-nav --> <div id=\"fxs_it_horizontalMenu\"\
+        > <nav class=\"fxs_nav_menu fxs_main_nav\" role=\"navigation\"> <ul> <li fxs-section-entry>\
+        \ <a fxs-desktop-menu-entry id=\"HOME_SECTION\" class=\"fxs_nav_main_menu_desktop\
+        \ \" href=\"/\">Home</a> </li> <li fxs-section-entry> <a fxs-desktop-menu-entry\
+        \ id=\"RATES_CHARTS_SECTION\" class=\"fxs_nav_main_menu_desktop \" href=\"\
+        /rates-charts\">RATES &amp; CHARTS</a> <div class=\"fxs_nav_itemsContainer\
+        \ fxs_hideElements\"> <div class=\"fxs_navBg\"> <div class=\"fxs_subNav_rates\"\
+        > <div class=\"fxs_navItemsBox\"> <ul class=\"fxs_subNav_col_2 fxs_list_unstyled\"\
+        > <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/rates-charts/chart\" >Live Chart <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/rates-charts/trading-positions\"\
+        \ >Trading Positions <span class=\"fxs_label fxs_label_highlight\"></span></a>\
+        \ </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a\
+        \ fxs-desktop-menu-item-entry href=\"/rates-charts/forecast\" >Forecast Poll\
+        \ <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li> <i\
+        \ class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/rates-charts/rates\" >Rates Table <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/rates-charts/indicators/technical-levels/\"\
+        \ >Technical Levels <span class=\"fxs_label fxs_label_highlight\"></span></a>\
+        \ </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a\
+        \ fxs-desktop-menu-item-entry href=\"/rates-charts/indicators\" >Technical\
+        \ Confluences <span class=\"fxs_label fxs_label_highlight\"></span></a> </li>\
+        \ </ul> </div> <div class=\"fxs_navItemsBox\"> <ul class=\"fxs_subNav_col_3\
+        \ fxs_list_unstyled\"> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"\
+        true\"></i> <a fxs-desktop-menu-item-entry href=\"/rates-charts/eurusd\" >EUR/USD\
+        \ <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li> <i\
+        \ class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/rates-charts/gbpusd\" >GBP/USD <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/rates-charts/usdjpy\" >USD/JPY\
+        \ <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li> <i\
+        \ class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/rates-charts/audusd\" >AUD/USD <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/rates-charts/nzdusd\" >NZD/USD\
+        \ <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li> <i\
+        \ class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/rates-charts/usdcad\" >USD/CAD <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/rates-charts/gbpjpy\" >GBP/JPY\
+        \ <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li> <i\
+        \ class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/rates-charts/eurjpy\" >EUR/JPY <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/rates-charts/dollarindexspot\"\
+        \ >Dollar Index <span class=\"fxs_label fxs_label_highlight\"></span></a>\
+        \ </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a\
+        \ fxs-desktop-menu-item-entry href=\"/rates-charts/xauusd\" >Gold <span class=\"\
+        fxs_label fxs_label_highlight\"></span></a> </li> <li> <i class=\"fas fa-angle-right\"\
+        \ aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry href=\"/rates-charts/westtexasintermediate\"\
+        \ >Oil <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li>\
+        \ <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/rates-charts/sp500\" >SP500 <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> </ul> </div> </div> </div> </div> </li> <li fxs-section-entry>\
+        \ <a fxs-desktop-menu-entry id=\"NEWS_SECTION\" class=\"fxs_nav_main_menu_desktop\
+        \ \" href=\"/news\">News</a> <div class=\"fxs_nav_itemsContainer fxs_hideElements\"\
+        > <div class=\"fxs_navBg\"> <div class=\"fxs_subNav_rates\"> <div class=\"\
+        fxs_navItemsBox\"> <ul class=\"fxs_subNav_col_1 fxs_list_unstyled\"> <li>\
+        \ <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/news\" >Latest News <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/news?dFR[Category][0]=News&amp;dFR[Tags][0]=Banks\"\
+        \ >Institutional Research <span class=\"fxs_label fxs_label_highlight\"></span></a>\
+        \ </li> </ul> </div> <div class=\"fxs_navItemsBox\"> <ul class=\"fxs_subNav_col_3\
+        \ fxs_list_unstyled\"> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"\
+        true\"></i> <a fxs-desktop-menu-item-entry href=\"/news/latest/asset?dFR[Category][0]=News&amp;dFR[Tags][0]=EURUSD\"\
+        \  rel=\"nofollow\" >EUR/USD <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/news/latest/asset?dFR[Category][0]=News&amp;dFR[Tags][0]=GBPUSD\"\
+        \  rel=\"nofollow\" >GBP/USD <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/news/latest/asset?dFR[Category][0]=News&amp;dFR[Tags][0]=USDJPY\"\
+        \  rel=\"nofollow\" >USD/JPY <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/news/latest/asset?dFR[Category][0]=News&amp;dFR[Tags][0]=AUDUSD\"\
+        \  rel=\"nofollow\" >AUD/USD <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/news/latest/asset?dFR[Category][0]=News&amp;dFR[Tags][0]=NZDUSD\"\
+        \  rel=\"nofollow\" >NZD/USD <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/news/latest/asset?dFR[Category][0]=News&amp;dFR[Tags][0]=USDCAD\"\
+        \  rel=\"nofollow\" >USD/CAD <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/news/latest/asset?dFR[Category][0]=News&amp;dFR[Tags][0]=USDCHF\"\
+        \  rel=\"nofollow\" >USD/CHF <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/news/latest/asset?dFR[Category][0]=News&amp;dFR[Tags][0]=EURGBP\"\
+        \  rel=\"nofollow\" >EUR/GBP <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/news/latest/asset?dFR[Category][0]=News&amp;dFR[Tags][0]=DollarIndex\"\
+        \  rel=\"nofollow\" >Dollar Index <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/news?dFR[Category][0]=News&amp;dFR[Tags][0]=Commodities\"\
+        \ >Commodities <span class=\"fxs_label fxs_label_highlight\"></span></a> </li>\
+        \ <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/news?dFR[Category][0]=News&amp;dFR[Tags][0]=Bonds\" >Bonds <span\
+        \ class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li> <i class=\"\
+        fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/news?dFR[Category][0]=News&amp;dFR[Tags][0]=Equities\" >Equities\
+        \ <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> </ul> </div>\
+        \ </div> </div> </div> </li> <li fxs-section-entry> <a fxs-desktop-menu-entry\
+        \ id=\"ANALYSIS_SECTION\" class=\"fxs_nav_main_menu_desktop \" href=\"/analysis\"\
+        >Analysis</a> <div class=\"fxs_nav_itemsContainer fxs_hideElements\"> <div\
+        \ class=\"fxs_navBg\"> <div class=\"fxs_subNav_rates\"> <div class=\"fxs_navItemsBox\"\
+        > <ul class=\"fxs_subNav_col_1 fxs_list_unstyled\"> <li> <i class=\"fas fa-angle-right\"\
+        \ aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry href=\"/analysis/latest\"\
+        \ >Latest Analysis <span class=\"fxs_label fxs_label_highlight\"></span></a>\
+        \ </li> </ul> </div> <div class=\"fxs_navItemsBox\"> <ul class=\"fxs_subNav_col_4\
+        \ fxs_list_unstyled\"> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"\
+        true\"></i> <a fxs-desktop-menu-item-entry href=\"/currencies/eurusd\" >EUR/USD\
+        \ <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li> <i\
+        \ class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/currencies/gbpusd\" >GBP/USD <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/currencies/usdjpy\" >USD/JPY\
+        \ <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li> <i\
+        \ class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/currencies/audusd\" >AUD/USD <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/currencies/usdcad\" >USD/CAD\
+        \ <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li> <i\
+        \ class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/currencies/us-dollar-index\" >Dollar Index <span class=\"fxs_label\
+        \ fxs_label_highlight\"></span></a> </li> <li> <i class=\"fas fa-angle-right\"\
+        \ aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry href=\"/markets/commodities/energy/oil\"\
+        \ >Oil <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li>\
+        \ <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/markets/commodities/metals/gold\" >Gold <span class=\"fxs_label\
+        \ fxs_label_highlight\"></span></a> </li> <li> <i class=\"fas fa-angle-right\"\
+        \ aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry href=\"/markets/equities\"\
+        \ >Stocks <span class=\"fxs_label fxs_label_highlight\"></span></a> </li>\
+        \ <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/markets/commodities\" >Commodities <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/bonds\" >Bonds <span class=\"\
+        fxs_label fxs_label_highlight\"></span></a> </li> <li> <i class=\"fas fa-angle-right\"\
+        \ aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry href=\"/technical-analysis/sentiment/risk-appetite\"\
+        \ >Risk On/Off <span class=\"fxs_label fxs_label_highlight\"></span></a> </li>\
+        \ <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/technical-analysis/support-resistance\" >Support and Resistance\
+        \ <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li> <i\
+        \ class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/technical-analysis/elliott-wave\" >Elliott Wave <span class=\"fxs_label\
+        \ fxs_label_highlight\"></span></a> </li> <li> <i class=\"fas fa-angle-right\"\
+        \ aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry href=\"/technical-analysis/cycle-analysis\"\
+        \ >Cycles <span class=\"fxs_label fxs_label_highlight\"></span></a> </li>\
+        \ <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/technical-analysis/sentiment\" >Sentiment <span class=\"fxs_label\
+        \ fxs_label_highlight\"></span></a> </li> </ul> </div> </div> </div> </div>\
+        \ </li> <li fxs-section-entry> <a fxs-desktop-menu-entry id=\"ECONOMIC_CALENDAR_SECTION\"\
+        \ class=\"fxs_nav_main_menu_desktop \" href=\"/economic-calendar\">Economic\
+        \ Calendar</a> <div class=\"fxs_nav_itemsContainer fxs_hideElements\"> <div\
+        \ class=\"fxs_navBg\"> <div class=\"fxs_subNav_rates\"> <div class=\"fxs_navItemsBox\"\
+        > <ul class=\"fxs_subNav_col_1 fxs_list_unstyled\"> <li> <i class=\"fas fa-angle-right\"\
+        \ aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry href=\"/economic-calendar\"\
+        \ >Economic Calendar <span class=\"fxs_label fxs_label_highlight\"></span></a>\
+        \ </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a\
+        \ fxs-desktop-menu-item-entry href=\"/economic-calendar/world-interest-rates\"\
+        \ >Interest Rates <span class=\"fxs_label fxs_label_highlight\"></span></a>\
+        \ </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a\
+        \ fxs-desktop-menu-item-entry href=\"/economic-calendar/forex-market-hours\"\
+        \ >Market Hours <span class=\"fxs_label fxs_label_highlight\"></span></a>\
+        \ </li> </ul> </div> <div class=\"fxs_navItemsBox\"> <ul class=\"fxs_subNav_col_3\
+        \ fxs_list_unstyled\"> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"\
+        true\"></i> <a fxs-desktop-menu-item-entry href=\"/macroeconomics/events/coronavirus\"\
+        \ >Coronavirus <span class=\"fxs_label fxs_label_highlight\"></span></a> </li>\
+        \ <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/macroeconomics/events/brexit\" >Brexit <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/macroeconomics/economic-indicator/nfp\"\
+        \ >Nonfarm Payrolls <span class=\"fxs_label fxs_label_highlight\"></span></a>\
+        \ </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a\
+        \ fxs-desktop-menu-item-entry href=\"/macroeconomics/events/election-us\"\
+        \ >US Elections <span class=\"fxs_label fxs_label_highlight\"></span></a>\
+        \ </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a\
+        \ fxs-desktop-menu-item-entry href=\"/macroeconomics/central-banks/fed\" >Fed\
+        \ <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li> <i\
+        \ class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/macroeconomics/central-banks/boc\" >BoC <span class=\"fxs_label\
+        \ fxs_label_highlight\"></span></a> </li> <li> <i class=\"fas fa-angle-right\"\
+        \ aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry href=\"/macroeconomics/central-banks/ecb\"\
+        \ >ECB <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li>\
+        \ <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/macroeconomics/central-banks/boe\" >BoE <span class=\"fxs_label\
+        \ fxs_label_highlight\"></span></a> </li> <li> <i class=\"fas fa-angle-right\"\
+        \ aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry href=\"/macroeconomics/central-banks/boj\"\
+        \ >BoJ <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li>\
+        \ <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/macroeconomics/central-banks/rba\" >RBA <span class=\"fxs_label\
+        \ fxs_label_highlight\"></span></a> </li> <li> <i class=\"fas fa-angle-right\"\
+        \ aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry href=\"/macroeconomics/central-banks/rbnz\"\
+        \ >RBNZ <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li>\
+        \ <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/macroeconomics/central-banks/snb\" >SNB <span class=\"fxs_label\
+        \ fxs_label_highlight\"></span></a> </li> </ul> </div> </div> </div> </div>\
+        \ </li> <li fxs-section-entry> <a fxs-desktop-menu-entry id=\"CRYPTOS_SECTION\"\
+        \ class=\"fxs_nav_main_menu_desktop \" href=\"/cryptocurrencies\">Cryptos</a>\
+        \ <div class=\"fxs_nav_itemsContainer fxs_hideElements\"> <div class=\"fxs_navBg\"\
+        > <div class=\"fxs_subNav_rates\"> <div class=\"fxs_navItemsBox\"> <ul class=\"\
+        fxs_subNav_col_1 fxs_list_unstyled\"> <li> <i class=\"fas fa-angle-right\"\
+        \ aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry href=\"/cryptocurrencies/news\"\
+        \ >Latest News <span class=\"fxs_label fxs_label_highlight\"></span></a> </li>\
+        \ <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/cryptocurrencies/rates-charts\" >Rates &amp; Charts <span class=\"\
+        fxs_label fxs_label_highlight\"></span></a> </li> <li> <i class=\"fas fa-angle-right\"\
+        \ aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry href=\"/cryptocurrencies/resources\"\
+        \ >Education <span class=\"fxs_label fxs_label_highlight\"></span></a> </li>\
+        \ </ul> </div> <div class=\"fxs_navItemsBox\"> <ul class=\"fxs_subNav_col_2\
+        \ fxs_list_unstyled\"> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"\
+        true\"></i> <a fxs-desktop-menu-item-entry href=\"/cryptocurrencies/bitcoin\"\
+        \ >BTC/USD <span class=\"fxs_label fxs_label_highlight\"></span></a> </li>\
+        \ <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/cryptocurrencies/ethereum\" >ETH/USD <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/cryptocurrencies/ripple\" >XRP/USD\
+        \ <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li> <i\
+        \ class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/cryptocurrencies/litecoin\" >LTC/USD <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/cryptocurrencies/bitcoin-cash\"\
+        \ >BCH/USD <span class=\"fxs_label fxs_label_highlight\"></span></a> </li>\
+        \ </ul> </div> </div> </div> </div> </li> <li fxs-section-entry> <a fxs-desktop-menu-entry\
+        \ id=\"LIVE_VIDEO_SECTION\" class=\"fxs_nav_main_menu_desktop \" href=\"/live-video\"\
+        >Video</a> <div class=\"fxs_nav_itemsContainer fxs_hideElements\"> <div class=\"\
+        fxs_navBg\"> <div class=\"fxs_subNav_rates\"> <div class=\"fxs_navItemsBox\"\
+        > <ul class=\"fxs_subNav_col_1 fxs_list_unstyled\"> <li> <i class=\"fas fa-angle-right\"\
+        \ aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry href=\"/live-video/latest\"\
+        \ >Latest Live Videos <span class=\"fxs_label fxs_label_highlight\"></span></a>\
+        \ </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a\
+        \ fxs-desktop-menu-item-entry href=\"/live-video/shows\" >Shows Schedule <span\
+        \ class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li> <i class=\"\
+        fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/info/premium\" >Become Premium <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> </ul> </div> <div class=\"fxs_navItemsBox\"> <ul class=\"\
+        fxs_subNav_col_3 fxs_list_unstyled\"> <li> <i class=\"fas fa-angle-right\"\
+        \ aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry href=\"/author/ed-ponsi\"\
+        \ >Ed Ponsi <span class=\"fxs_label fxs_label_highlight\"></span></a> </li>\
+        \ <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/author/giuseppe-basile-cmt\" >Giuseppe Basile <span class=\"fxs_label\
+        \ fxs_label_highlight\"></span></a> </li> <li> <i class=\"fas fa-angle-right\"\
+        \ aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry href=\"/author/sarid-harper\"\
+        \ >Sarid Harper <span class=\"fxs_label fxs_label_highlight\"></span></a>\
+        \ </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a\
+        \ fxs-desktop-menu-item-entry href=\"/author/alex-ong\" >Alex Ong <span class=\"\
+        fxs_label fxs_label_highlight\"></span></a> </li> <li> <i class=\"fas fa-angle-right\"\
+        \ aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry href=\"/author/sam-seiden\"\
+        \ >Sam Seiden <span class=\"fxs_label fxs_label_highlight\"></span></a> </li>\
+        \ <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/author/steve-ruffley\" >Steve Ruffley <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/author/rob-colville\" >Rob Colville\
+        \ <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li> <i\
+        \ class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/author/nenad-kerkez\" >Nenad Kerkez <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/author/goncalo-moreira-cmt\"\
+        \ >Gon&#231;alo Moreira <span class=\"fxs_label fxs_label_highlight\"></span></a>\
+        \ </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a\
+        \ fxs-desktop-menu-item-entry href=\"/author/navin-prithyani\" >Navin Prithyani\
+        \ <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li> <i\
+        \ class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/author/david-pegler\" >David Pegler <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"\
+        ></i> <a fxs-desktop-menu-item-entry href=\"/author/walter-peters\" >Walter\
+        \ Peters <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> </ul>\
+        \ </div> </div> </div> </div> </li> <li fxs-section-entry> <a fxs-desktop-menu-entry\
+        \ id=\"EDUCATION_SECTION\" class=\"fxs_nav_main_menu_desktop \" href=\"/education\"\
+        >Education</a> </li> <li fxs-section-entry> <a fxs-desktop-menu-entry id=\"\
+        BROKERS_SECTION\" class=\"fxs_nav_main_menu_desktop \" href=\"/brokers\">Brokers</a>\
+        \ <div class=\"fxs_nav_itemsContainer fxs_hideElements\"> <div class=\"fxs_navBg\"\
+        > <div class=\"fxs_subNav_rates\"> <div class=\"fxs_navItemsBox\"> <ul class=\"\
+        fxs_subNav_col_1 fxs_list_unstyled\"> <li> <i class=\"fas fa-angle-right\"\
+        \ aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry href=\"/brokers\"\
+        \ >Forex Brokers <span class=\"fxs_label fxs_label_highlight\"></span></a>\
+        \ </li> <li> <i class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a\
+        \ fxs-desktop-menu-item-entry href=\"/brokers/press-releases\" >Broker News\
+        \ <span class=\"fxs_label fxs_label_highlight\"></span></a> </li> <li> <i\
+        \ class=\"fas fa-angle-right\" aria-hidden=\"true\"></i> <a fxs-desktop-menu-item-entry\
+        \ href=\"/brokers/all-spreads\" >Broker Spreads <span class=\"fxs_label fxs_label_highlight\"\
+        ></span></a> </li> </ul> </div> </div> </div> </div> </li> <li fxs-section-entry>\
+        \ <a fxs-desktop-menu-entry id=\"PREMIUM_SECTION\" class=\"fxs_nav_main_menu_desktop\
+        \ \" href=\"/signals\">Signals</a> </li> </ul> </nav> </div> <div id=\"fxs-search-area\"\
+        \ class=\"fxs_search_module\"></div> </div> </div> </header> </div> </div>\
+        \ <script>\r\n        FXStreet.Util.createObjectFromBase64String(\"SearchManager\"\
+        , 'eyJDb250YWluZXJJZCI6ImZ4cy1zZWFyY2gtYXJlYSIsIlNlYXJjaEljb25JZCI6ImZ4cy1zZWFyY2gtaWNvbiIsIkFwaUFjY291bnQiOiI1MERFVjZQOUswIiwiQXBpS2V5IjoiY2QyZGQxMzhjOGQ2NGY0MGY2ZDA2YTYwNTA4MzEyYjAiLCJJbmRleElkIjoiRnhzSW5kZXhQcm8iLCJUcmFuc2xhdGlvbnMiOnsiQWJvdXRGb3JUZXh0IjoiQWJvdXQge3tIaXRzfX0gcmVzdWx0cyBmb3I6IiwiQWJvdXRUZXh0IjoiQWJvdXQge3tIaXRzfX0gcmVzdWx0cyIsIkFkdmFuY2VkU2VhcmNoIjoiR28gdG8gQWR2YW5jZWQgU2VhcmNoIiwiQWxlcnRDb250ZW50IjoiVGhlcmUgYXJlIG5ldyBwb3N0cyBhdmFpbGFibGUuIFBsZWFzZSwgY2xpY2sgaGVyZSB0byBzZWUgdGhlIG5ldyB1cGRhdGVzIiwiQWxlcnRUaXRsZSI6Ik5ldyBVcGRhdGVzIiwiQWxnb2xpYUZlZWRfQ2xvc2VGaWx0ZXIiOiJDbG9zZSBGaWx0ZXIiLCJBdXRob3JzUGxhY2VIb2xkZXIiOiJTZWFyY2ggZm9yIGF1dGhvcnMiLCJBdXRob3JzVGl0bGUiOiJBdXRob3JzIiwiQnkiOiJCeSIsIkNhdGVnb3JpZXNQbGFjZUhvbGRlciI6IlNlYXJjaCBmb3IgY2F0ZWdvcmllcyIsIkNhdGVnb3JpZXNUaXRsZSI6IkNhdGVnb3JpZXMiLCJDbGVhckFsbFRpdGxlIjoiQ2xlYXIgZmlsdGVycyIsIkNsb3NlQWxlcnQiOiJDbG9zZSBhbGVydCIsIkZpbHRlckJ5IjoiRklMVEVSIEJZLi4uIiwiRmlsdGVyVGl0bGUiOiJBZHZhbmNlZCBTZWFyY2giLCJMaXZlU3BlZWNoIjoiTGl2ZSBTcGVlY2giLCJNaW51dGVzQWdvIjoiIG1pbnV0ZXMgYWdvIiwiTmV4dCI6Ik5leHQgcGFnZSIsIk5vUmVzdWx0cyI6Ik5vIHJlc3VsdHMiLCJOb3RpZmljYXRpb25zIjoiTm90aWZpY2F0aW9ucyIsIlByZXZpb3VzIjoiUHJldmlvdXMgcGFnZSIsInJlZ2lzdGVyVG9BY3RpdmF0ZSI6IkxvZyBpbiB0byBsaXN0ZW4gdG8gRlhTdHJlZXQgaGVhZGxpbmVzIGZvciBmcmVlIiwiU2VhcmNoVGV4dCI6IkZpbmQgaW4gb3VyIGNvbnRlbnQuLi4iLCJzZWVtb3JlIjoiU2VlIE1vcmUgU2lnbmFscyIsIlNob3dMaXN0TGVmdEJ1dHRvbiI6IlNob3cgZmlsdGVycyIsIlRhZ3NQbGFjZUhvbGRlciI6IlNlYXJjaCBmb3IgdGFncyIsIlRhZ3NUaXRsZSI6IlRhZ3MifX0=');\r\
+        \n            </script> <script>\r\n            FXStreet.Util.createObjectFromBase64String(\"\
+        DateTime\", 'eyJUaW1lWm9uZUlzRnJvbVVzZXJEZXZpY2UiOmZhbHNlLCJDdXJyZW50VGltZVpvbmUiOnsiVGltZVpvbmVJZCI6IlVUQyIsIlRpbWVTcGFuIjpudWxsLCJMb2NhdGlvbiI6bnVsbCwiQ3VycmVudFRpbWVab25lIjpmYWxzZSwiSG91cnNVdGNPZmZzZXQiOjAuMH0sIlRpbWVEaXNwbGF5Rm9ybWF0IjoiSEg6bW06c3MiLCJDb250YWluZXJJZCI6ImZ4cy10aW1lem9uZSIsIkNoYW5nZVRpbWVab25lVGl0bGUiOiJDaGFuZ2UgdGltZXpvbmUifQ==');\r\
+        \n        </script> <script>\r\n            FXStreet.Util.createObjectFromBase64String(\"\
+        UserMenu\", 'eyJVc2VySW5mbyI6eyJJZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMCIsIklzTG9nZ2VkIjpmYWxzZSwiSXNQcmVtaXVtIjpmYWxzZSwiRW1haWwiOiIiLCJQaG9uZSI6IiIsIkZpcnN0TmFtZSI6IiIsIkNvdW50cnlDb2RlIjoiUlUiLCJUaW1lem9uZU9mZnNldE1pbnV0ZXMiOjAsIlRva2VuIjpudWxsfSwiU2lnbnVwVXJsIjoiL2FjY291bnQvbG9naW4/YXV0aEFjdGlvbj1zaWdudXAiLCJMb2dpblVybCI6Ii9hY2NvdW50L2xvZ2luIiwiU2lnbnVwTGFiZWwiOiJTaWduIFVwIiwiTG9naW5MYWJlbCI6IkxvZyBpbiIsIk15U3VzY3JpcHRpb25zTGFiZWwiOiJNeSBQcm9maWxlIiwiTXlTdXNjcmlwdGlvbnNVcmwiOiIvcHJvZmlsZSIsIkxvZ291dExhYmVsIjoiTG9nIG91dCIsIkNvbnRhaW5lcklkIjoiZnhzLXVzZXJtZW51In0=');\r\
+        \n            </script> <script>\r\n            FXStreet.Util.createObjectFromBase64String(\"\
+        SponsorBroker\", 'eyJUcmFuc2xhdGlvbnMiOnsiU3BvbnNvckJyb2tlck1lbnVFbnRyeSI6Ik9QRU4gQU4gQUNDT1VOVCBXSVRIIiwiU3BvbnNvcmVkQnkiOiJTcG9uc29yZWQgYnkifSwiRW5hYmxlZCI6dHJ1ZSwiQ291bnRyeUNvZGUiOiJSVSJ9');\r\
+        \n            </script> <script>\r\n    FXStreet.Util.createObjectFromBase64String(\"\
+        AdBlocker\", 'eyJFbmFibGVkIjp0cnVlLCJUaW1lc0JlZm9yZUFkdmljZSI6NSwiVHJhbnNsYXRpb25zIjp7IkFkdmljZUNvbnRlbnRIdG1sIjoiPHA+PHN0cm9uZz5GWFN0cmVldCBpcyBhIGZyZWUgd2Vic2l0ZSBzcG9uc29yZWQgYnkgYWR2ZXJ0aXNlbWVudC48L3N0cm9uZz48L3A+PHA+UGxlYXNlIGRpc2FibGUgeW91ciBhZGJsb2NrZXIgc28gd2UgY2FuIGNvbnRpbnVlIHRvIG9mZmVyIG91ciBzZXJ2aWNlcyBmb3IgZnJlZS48L3A+IiwiQ2xvc2VNb2RhbCI6IkNsb3NlIE1vZGFsIn0sIkNvbnRhaW5lcklkIjoiYWRibG9ja2VyXzMwMTY0MTIxLWJhMWItNDkxZS1iNzE3LTdhMDQ2ZDAyMzZkMiIsIkpzTmFtZSI6IkFkQmxvY2tlciIsIkpzQ3JlYXRlRXZlbnQiOiJsb2FkIn0=',\
+        \ \"load\");\r\n</script> <div id=\"adblocker_30164121-ba1b-491e-b717-7a046d0236d2\"\
+        > </div> <!-- Add class \"in\" to show alerts --> <script>\r\n    FXStreet.Util.createObjectFromBase64String(\"\
+        GlobalAlert\", 'eyJIdHRwUHVzaFNlcnZlcktleXNVcmwiOiJodHRwczovL2F1dGhvcml6YXRpb24uZnhzdHJlZXQuY29tL3Rva2VuIiwiSHR0cFB1c2hTZXJ2ZXJVcmwiOiJodHRwczovL3B1c2gtYXBpLmZ4c3RyZWV0LmNvbSIsIkltYWdlVXJsIjpudWxsLCJUaXRsZSI6bnVsbCwiTGluayI6bnVsbCwiQ29udGFpbmVySWQiOiJnbG9iYWxhbGVydF80MmEyNzAwYS0wNWY3LTRmYzctYmIwOS0xMWI4YzE0YjhjMjUiLCJKc05hbWUiOiJHbG9iYWxBbGVydCIsIkpzQ3JlYXRlRXZlbnQiOiJsb2FkIn0=',\
+        \ \"load\");\r\n</script> <div id=\"globalalert_42a2700a-05f7-4fc7-bb09-11b8c14b8c25\"\
+        \ role=\"alert\"> </div> <!-- /Space for Global Alerts & Notifications -->\
+        \ <!-- global alert placeholder --> \r\n\r\n\r\n <!--/global alert placeholder\
+        \ --> <!-- The wrapper --> <div class=\"fxs_wrapper fxs_post-layout fxs_content_wide\"\
+        > <div class=\"fxs_pageSidebar fxs_sidebar_nav\" id=\"cbp-spmenu-s1\"> <div\
+        \ id=\"fxs_it_verticalMenu\"> <nav class=\"fxs_nav_menu fxs_main_nav\" role=\"\
+        navigation\"> <ul class=\"fxs_nav_menu_mobile\"> <li fxs-section-entry> <a\
+        \ id=\"HOME_SECTION\" href=\"/\" class=\"fxs_nav_menu_main_items \">Home</a>\
+        \ <hr /> </li> <li fxs-section-entry> <input type=\"checkbox\" id=\"RATES_CHARTS_SECTION_trigger\"\
+        \ class=\"fxs_mobile-opening-trigger-input\" /> <label for=\"RATES_CHARTS_SECTION_trigger\"\
+        \ class=\"fxs_mobile-opening-trigger-label\"> <a id=\"RATES_CHARTS_SECTION\"\
+        \ href=\"/rates-charts\" class=\"fxs_nav_menu_main_items \">RATES &amp; CHARTS</a>\
+        \ <span class=\"fxs_mobile-opening-trigger-icon\"></span> </label> <div class=\"\
+        fxs_nav_itemsContainer\"> <div class=\"fxs_navBg\"> <div class=\"fxs_subNav_rates\"\
+        > <div class=\"fxs_navItemsBox\"> <span class=\"fxs_headline_tiny\">TOOLS</span>\
+        \ <ul class=\"fxs_subNav_col_2 fxs_list_unstyled\"> <li><i class=\"fas fa-circle\"\
+        \ aria-hidden=\"true\"></i> <a href=\"/rates-charts/chart\" >Live Chart</a></li>\
+        \ <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/rates-charts/trading-positions\"\
+        \ >Trading Positions</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"\
+        true\"></i> <a href=\"/rates-charts/forecast\" >Forecast Poll</a></li> <li><i\
+        \ class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/rates-charts/rates\"\
+        \ >Rates Table</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"\
+        ></i> <a href=\"/rates-charts/indicators/technical-levels/\" >Technical Levels</a></li>\
+        \ <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/rates-charts/indicators\"\
+        \ >Technical Confluences</a></li> </ul> </div> <div class=\"fxs_navItemsBox\"\
+        > <span class=\"fxs_headline_tiny\">ASSETS</span> <ul class=\"fxs_subNav_col_3\
+        \ fxs_list_unstyled\"> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"\
+        ></i> <a href=\"/rates-charts/eurusd\" >EUR/USD</a></li> <li><i class=\"fas\
+        \ fa-circle\" aria-hidden=\"true\"></i> <a href=\"/rates-charts/gbpusd\" >GBP/USD</a></li>\
+        \ <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/rates-charts/usdjpy\"\
+        \ >USD/JPY</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i>\
+        \ <a href=\"/rates-charts/audusd\" >AUD/USD</a></li> <li><i class=\"fas fa-circle\"\
+        \ aria-hidden=\"true\"></i> <a href=\"/rates-charts/nzdusd\" >NZD/USD</a></li>\
+        \ <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/rates-charts/usdcad\"\
+        \ >USD/CAD</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i>\
+        \ <a href=\"/rates-charts/gbpjpy\" >GBP/JPY</a></li> <li><i class=\"fas fa-circle\"\
+        \ aria-hidden=\"true\"></i> <a href=\"/rates-charts/eurjpy\" >EUR/JPY</a></li>\
+        \ <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/rates-charts/dollarindexspot\"\
+        \ >Dollar Index</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"\
+        ></i> <a href=\"/rates-charts/xauusd\" >Gold</a></li> <li><i class=\"fas fa-circle\"\
+        \ aria-hidden=\"true\"></i> <a href=\"/rates-charts/westtexasintermediate\"\
+        \ >Oil</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a\
+        \ href=\"/rates-charts/sp500\" >SP500</a></li> </ul> </div> </div> </div>\
+        \ </div> </li> <li fxs-section-entry> <input type=\"checkbox\" id=\"NEWS_SECTION_trigger\"\
+        \ class=\"fxs_mobile-opening-trigger-input\" /> <label for=\"NEWS_SECTION_trigger\"\
+        \ class=\"fxs_mobile-opening-trigger-label\"> <a id=\"NEWS_SECTION\" href=\"\
+        /news\" class=\"fxs_nav_menu_main_items \">News</a> <span class=\"fxs_mobile-opening-trigger-icon\"\
+        ></span> </label> <div class=\"fxs_nav_itemsContainer\"> <div class=\"fxs_navBg\"\
+        > <div class=\"fxs_subNav_rates\"> <div class=\"fxs_navItemsBox\"> <span class=\"\
+        fxs_headline_tiny\">LATEST FOREX NEWS</span> <ul class=\"fxs_subNav_col_1\
+        \ fxs_list_unstyled\"> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"\
+        ></i> <a href=\"/news\" >Latest News</a></li> <li><i class=\"fas fa-circle\"\
+        \ aria-hidden=\"true\"></i> <a href=\"/news?dFR[Category][0]=News&amp;dFR[Tags][0]=Banks\"\
+        \ >Institutional Research</a></li> </ul> </div> <div class=\"fxs_navItemsBox\"\
+        > <span class=\"fxs_headline_tiny\">LATEST NEWS BY ASSETS</span> <ul class=\"\
+        fxs_subNav_col_3 fxs_list_unstyled\"> <li><i class=\"fas fa-circle\" aria-hidden=\"\
+        true\"></i> <a href=\"/news/latest/asset?dFR[Category][0]=News&amp;dFR[Tags][0]=EURUSD\"\
+        \  rel=\"nofollow\" >EUR/USD</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"\
+        true\"></i> <a href=\"/news/latest/asset?dFR[Category][0]=News&amp;dFR[Tags][0]=GBPUSD\"\
+        \  rel=\"nofollow\" >GBP/USD</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"\
+        true\"></i> <a href=\"/news/latest/asset?dFR[Category][0]=News&amp;dFR[Tags][0]=USDJPY\"\
+        \  rel=\"nofollow\" >USD/JPY</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"\
+        true\"></i> <a href=\"/news/latest/asset?dFR[Category][0]=News&amp;dFR[Tags][0]=AUDUSD\"\
+        \  rel=\"nofollow\" >AUD/USD</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"\
+        true\"></i> <a href=\"/news/latest/asset?dFR[Category][0]=News&amp;dFR[Tags][0]=NZDUSD\"\
+        \  rel=\"nofollow\" >NZD/USD</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"\
+        true\"></i> <a href=\"/news/latest/asset?dFR[Category][0]=News&amp;dFR[Tags][0]=USDCAD\"\
+        \  rel=\"nofollow\" >USD/CAD</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"\
+        true\"></i> <a href=\"/news/latest/asset?dFR[Category][0]=News&amp;dFR[Tags][0]=USDCHF\"\
+        \  rel=\"nofollow\" >USD/CHF</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"\
+        true\"></i> <a href=\"/news/latest/asset?dFR[Category][0]=News&amp;dFR[Tags][0]=EURGBP\"\
+        \  rel=\"nofollow\" >EUR/GBP</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"\
+        true\"></i> <a href=\"/news/latest/asset?dFR[Category][0]=News&amp;dFR[Tags][0]=DollarIndex\"\
+        \  rel=\"nofollow\" >Dollar Index</a></li> <li><i class=\"fas fa-circle\"\
+        \ aria-hidden=\"true\"></i> <a href=\"/news?dFR[Category][0]=News&amp;dFR[Tags][0]=Commodities\"\
+        \ >Commodities</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"\
+        ></i> <a href=\"/news?dFR[Category][0]=News&amp;dFR[Tags][0]=Bonds\" >Bonds</a></li>\
+        \ <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/news?dFR[Category][0]=News&amp;dFR[Tags][0]=Equities\"\
+        \ >Equities</a></li> </ul> </div> </div> </div> </div> </li> <li fxs-section-entry>\
+        \ <input type=\"checkbox\" id=\"ANALYSIS_SECTION_trigger\" class=\"fxs_mobile-opening-trigger-input\"\
+        \ /> <label for=\"ANALYSIS_SECTION_trigger\" class=\"fxs_mobile-opening-trigger-label\"\
+        > <a id=\"ANALYSIS_SECTION\" href=\"/analysis\" class=\"fxs_nav_menu_main_items\
+        \ \">Analysis</a> <span class=\"fxs_mobile-opening-trigger-icon\"></span>\
+        \ </label> <div class=\"fxs_nav_itemsContainer\"> <div class=\"fxs_navBg\"\
+        > <div class=\"fxs_subNav_rates\"> <div class=\"fxs_navItemsBox\"> <span class=\"\
+        fxs_headline_tiny\">SECTIONS</span> <ul class=\"fxs_subNav_col_1 fxs_list_unstyled\"\
+        > <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/analysis/latest\"\
+        \ >Latest Analysis</a></li> </ul> </div> <div class=\"fxs_navItemsBox\"> <span\
+        \ class=\"fxs_headline_tiny\">EDITORIAL SELECTION</span> <ul class=\"fxs_subNav_col_4\
+        \ fxs_list_unstyled\"> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"\
+        ></i> <a href=\"/currencies/eurusd\" >EUR/USD</a></li> <li><i class=\"fas\
+        \ fa-circle\" aria-hidden=\"true\"></i> <a href=\"/currencies/gbpusd\" >GBP/USD</a></li>\
+        \ <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/currencies/usdjpy\"\
+        \ >USD/JPY</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i>\
+        \ <a href=\"/currencies/audusd\" >AUD/USD</a></li> <li><i class=\"fas fa-circle\"\
+        \ aria-hidden=\"true\"></i> <a href=\"/currencies/usdcad\" >USD/CAD</a></li>\
+        \ <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/currencies/us-dollar-index\"\
+        \ >Dollar Index</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"\
+        ></i> <a href=\"/markets/commodities/energy/oil\" >Oil</a></li> <li><i class=\"\
+        fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/markets/commodities/metals/gold\"\
+        \ >Gold</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i>\
+        \ <a href=\"/markets/equities\" >Stocks</a></li> <li><i class=\"fas fa-circle\"\
+        \ aria-hidden=\"true\"></i> <a href=\"/markets/commodities\" >Commodities</a></li>\
+        \ <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/bonds\"\
+        \ >Bonds</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i>\
+        \ <a href=\"/technical-analysis/sentiment/risk-appetite\" >Risk On/Off</a></li>\
+        \ <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/technical-analysis/support-resistance\"\
+        \ >Support and Resistance</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"\
+        true\"></i> <a href=\"/technical-analysis/elliott-wave\" >Elliott Wave</a></li>\
+        \ <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/technical-analysis/cycle-analysis\"\
+        \ >Cycles</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i>\
+        \ <a href=\"/technical-analysis/sentiment\" >Sentiment</a></li> </ul> </div>\
+        \ </div> </div> </div> </li> <li fxs-section-entry> <input type=\"checkbox\"\
+        \ id=\"ECONOMIC_CALENDAR_SECTION_trigger\" class=\"fxs_mobile-opening-trigger-input\"\
+        \ /> <label for=\"ECONOMIC_CALENDAR_SECTION_trigger\" class=\"fxs_mobile-opening-trigger-label\"\
+        > <a id=\"ECONOMIC_CALENDAR_SECTION\" href=\"/economic-calendar\" class=\"\
+        fxs_nav_menu_main_items \">Economic Calendar</a> <span class=\"fxs_mobile-opening-trigger-icon\"\
+        ></span> </label> <div class=\"fxs_nav_itemsContainer\"> <div class=\"fxs_navBg\"\
+        > <div class=\"fxs_subNav_rates\"> <div class=\"fxs_navItemsBox\"> <span class=\"\
+        fxs_headline_tiny\">TOOLS</span> <ul class=\"fxs_subNav_col_1 fxs_list_unstyled\"\
+        > <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/economic-calendar\"\
+        \ >Economic Calendar</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"\
+        true\"></i> <a href=\"/economic-calendar/world-interest-rates\" >Interest\
+        \ Rates</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i>\
+        \ <a href=\"/economic-calendar/forex-market-hours\" >Market Hours</a></li>\
+        \ </ul> </div> <div class=\"fxs_navItemsBox\"> <span class=\"fxs_headline_tiny\"\
+        >TOP EVENTS</span> <ul class=\"fxs_subNav_col_3 fxs_list_unstyled\"> <li><i\
+        \ class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/macroeconomics/events/coronavirus\"\
+        \ >Coronavirus</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"\
+        ></i> <a href=\"/macroeconomics/events/brexit\" >Brexit</a></li> <li><i class=\"\
+        fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/macroeconomics/economic-indicator/nfp\"\
+        \ >Nonfarm Payrolls</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"\
+        true\"></i> <a href=\"/macroeconomics/events/election-us\" >US Elections</a></li>\
+        \ <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/macroeconomics/central-banks/fed\"\
+        \ >Fed</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a\
+        \ href=\"/macroeconomics/central-banks/boc\" >BoC</a></li> <li><i class=\"\
+        fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/macroeconomics/central-banks/ecb\"\
+        \ >ECB</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a\
+        \ href=\"/macroeconomics/central-banks/boe\" >BoE</a></li> <li><i class=\"\
+        fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/macroeconomics/central-banks/boj\"\
+        \ >BoJ</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a\
+        \ href=\"/macroeconomics/central-banks/rba\" >RBA</a></li> <li><i class=\"\
+        fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/macroeconomics/central-banks/rbnz\"\
+        \ >RBNZ</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i>\
+        \ <a href=\"/macroeconomics/central-banks/snb\" >SNB</a></li> </ul> </div>\
+        \ </div> </div> </div> </li> <li fxs-section-entry> <input type=\"checkbox\"\
+        \ id=\"CRYPTOS_SECTION_trigger\" class=\"fxs_mobile-opening-trigger-input\"\
+        \ /> <label for=\"CRYPTOS_SECTION_trigger\" class=\"fxs_mobile-opening-trigger-label\"\
+        > <a id=\"CRYPTOS_SECTION\" href=\"/cryptocurrencies\" class=\"fxs_nav_menu_main_items\
+        \ \">Cryptos</a> <span class=\"fxs_mobile-opening-trigger-icon\"></span> </label>\
+        \ <div class=\"fxs_nav_itemsContainer\"> <div class=\"fxs_navBg\"> <div class=\"\
+        fxs_subNav_rates\"> <div class=\"fxs_navItemsBox\"> <span class=\"fxs_headline_tiny\"\
+        >SECTIONS</span> <ul class=\"fxs_subNav_col_1 fxs_list_unstyled\"> <li><i\
+        \ class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/cryptocurrencies/news\"\
+        \ >Latest News</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"\
+        ></i> <a href=\"/cryptocurrencies/rates-charts\" >Rates &amp; Charts</a></li>\
+        \ <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/cryptocurrencies/resources\"\
+        \ >Education</a></li> </ul> </div> <div class=\"fxs_navItemsBox\"> <span class=\"\
+        fxs_headline_tiny\">SECTIONS</span> <ul class=\"fxs_subNav_col_2 fxs_list_unstyled\"\
+        > <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/cryptocurrencies/bitcoin\"\
+        \ >BTC/USD</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i>\
+        \ <a href=\"/cryptocurrencies/ethereum\" >ETH/USD</a></li> <li><i class=\"\
+        fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/cryptocurrencies/ripple\"\
+        \ >XRP/USD</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i>\
+        \ <a href=\"/cryptocurrencies/litecoin\" >LTC/USD</a></li> <li><i class=\"\
+        fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/cryptocurrencies/bitcoin-cash\"\
+        \ >BCH/USD</a></li> </ul> </div> </div> </div> </div> </li> <li fxs-section-entry>\
+        \ <input type=\"checkbox\" id=\"LIVE_VIDEO_SECTION_trigger\" class=\"fxs_mobile-opening-trigger-input\"\
+        \ /> <label for=\"LIVE_VIDEO_SECTION_trigger\" class=\"fxs_mobile-opening-trigger-label\"\
+        > <a id=\"LIVE_VIDEO_SECTION\" href=\"/live-video\" class=\"fxs_nav_menu_main_items\
+        \ \">Video</a> <span class=\"fxs_mobile-opening-trigger-icon\"></span> </label>\
+        \ <div class=\"fxs_nav_itemsContainer\"> <div class=\"fxs_navBg\"> <div class=\"\
+        fxs_subNav_rates\"> <div class=\"fxs_navItemsBox\"> <span class=\"fxs_headline_tiny\"\
+        >SECTIONS</span> <ul class=\"fxs_subNav_col_1 fxs_list_unstyled\"> <li><i\
+        \ class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/live-video/latest\"\
+        \ >Latest Live Videos</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"\
+        true\"></i> <a href=\"/live-video/shows\" >Shows Schedule</a></li> <li><i\
+        \ class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/info/premium\"\
+        \ >Become Premium</a></li> </ul> </div> <div class=\"fxs_navItemsBox\"> <span\
+        \ class=\"fxs_headline_tiny\">MOST POPULAR COACHES</span> <ul class=\"fxs_subNav_col_3\
+        \ fxs_list_unstyled\"> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"\
+        ></i> <a href=\"/author/ed-ponsi\" >Ed Ponsi</a></li> <li><i class=\"fas fa-circle\"\
+        \ aria-hidden=\"true\"></i> <a href=\"/author/giuseppe-basile-cmt\" >Giuseppe\
+        \ Basile</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i>\
+        \ <a href=\"/author/sarid-harper\" >Sarid Harper</a></li> <li><i class=\"\
+        fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/author/alex-ong\" >Alex\
+        \ Ong</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a\
+        \ href=\"/author/sam-seiden\" >Sam Seiden</a></li> <li><i class=\"fas fa-circle\"\
+        \ aria-hidden=\"true\"></i> <a href=\"/author/steve-ruffley\" >Steve Ruffley</a></li>\
+        \ <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/author/rob-colville\"\
+        \ >Rob Colville</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"\
+        ></i> <a href=\"/author/nenad-kerkez\" >Nenad Kerkez</a></li> <li><i class=\"\
+        fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/author/goncalo-moreira-cmt\"\
+        \ >Gon&#231;alo Moreira</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"\
+        true\"></i> <a href=\"/author/navin-prithyani\" >Navin Prithyani</a></li>\
+        \ <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/author/david-pegler\"\
+        \ >David Pegler</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"\
+        ></i> <a href=\"/author/walter-peters\" >Walter Peters</a></li> </ul> </div>\
+        \ </div> </div> </div> </li> <li fxs-section-entry> <a id=\"EDUCATION_SECTION\"\
+        \ href=\"/education\" class=\"fxs_nav_menu_main_items \">Education</a> <hr\
+        \ /> </li> <li fxs-section-entry> <input type=\"checkbox\" id=\"BROKERS_SECTION_trigger\"\
+        \ class=\"fxs_mobile-opening-trigger-input\" /> <label for=\"BROKERS_SECTION_trigger\"\
+        \ class=\"fxs_mobile-opening-trigger-label\"> <a id=\"BROKERS_SECTION\" href=\"\
+        /brokers\" class=\"fxs_nav_menu_main_items \">Brokers</a> <span class=\"fxs_mobile-opening-trigger-icon\"\
+        ></span> </label> <div class=\"fxs_nav_itemsContainer\"> <div class=\"fxs_navBg\"\
+        > <div class=\"fxs_subNav_rates\"> <div class=\"fxs_navItemsBox\"> <span class=\"\
+        fxs_headline_tiny\">SECTIONS</span> <ul class=\"fxs_subNav_col_1 fxs_list_unstyled\"\
+        > <li><i class=\"fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/brokers\"\
+        \ >Forex Brokers</a></li> <li><i class=\"fas fa-circle\" aria-hidden=\"true\"\
+        ></i> <a href=\"/brokers/press-releases\" >Broker News</a></li> <li><i class=\"\
+        fas fa-circle\" aria-hidden=\"true\"></i> <a href=\"/brokers/all-spreads\"\
+        \ >Broker Spreads</a></li> </ul> </div> </div> </div> </div> </li> <li fxs-section-entry>\
+        \ <a id=\"PREMIUM_SECTION\" href=\"/signals\" class=\"fxs_nav_menu_main_items\
+        \ \">Signals</a> <hr /> </li> <li fxs-section-entry fxs_sponsorbroker_placement\
+        \ position=\"MenuEntry\"> </li> </ul> </nav>\r\n;\r\n        </div> </div>\
+        \ <div class=\"fxs_content\"> <div id=\"fxs_content\"> <div class=\"fxs_contentView\"\
+        > <div class=\"fxs_leaderboard fxs_leaderboard_transition\"> <div class=\"\
+        fxs_roadblock_slide\"> \r\n\r\n    <div class=\"fxs_ad\">\r\n        <div\
+        \ id=\"advertisenormal_4f28be89-f3fe-4532-a273-f2c4ad936b72\">\r\n       \
+        \         <script type=\"text/javascript\">\r\n                if (FXStreet.Global.AsyncDfp)\
+        \ {\r\n                    FXStreet.Util.createObjectFromBase64String(\"AdvertiseNormal\"\
+        , 'eyJTbG90TmFtZSI6IjcxMzgvRlhTMzAvTmV3cyIsIkFkdmVydGlzZVR5cGUiOjAsIkxhYmVscyI6W3siS2V5Ijoicm9zIiwiVmFsdWUiOiJsZWFkZXIifV0sIk1vYmlsZVNpemUiOiJbMzIwLCAxMDBdIiwiVGFibGV0U2l6ZSI6Ils3MjgsIDE4MF0iLCJEZXNrdG9wU2l6ZSI6IlsxMDI0LCAzMDBdIiwiRGVza3RvcEhkU2l6ZSI6IlsxMjgwLCAzMDBdIiwiUG9wdXBTaG93SW50ZXJ2YWxJbk1pbnV0ZXMiOjAsIkNvb2tpZUdyb3VwIjpudWxsLCJHcm91cEtleSI6bnVsbCwiSnNOYW1lIjoiQWR2ZXJ0aXNlTm9ybWFsIiwiQ29udGFpbmVySWQiOiJhZHZlcnRpc2Vub3JtYWxfNGYyOGJlODktZjNmZS00NTMyLWEyNzMtZjJjNGFkOTM2YjcyIiwiSnNDcmVhdGVFdmVudCI6ImxvYWQifQ==',\
+        \ \"load\");\r\n                } else {\r\n                    FXStreet.Util.createObjectFromBase64String(\"\
+        AdvertiseNormal\", 'eyJTbG90TmFtZSI6IjcxMzgvRlhTMzAvTmV3cyIsIkFkdmVydGlzZVR5cGUiOjAsIkxhYmVscyI6W3siS2V5Ijoicm9zIiwiVmFsdWUiOiJsZWFkZXIifV0sIk1vYmlsZVNpemUiOiJbMzIwLCAxMDBdIiwiVGFibGV0U2l6ZSI6Ils3MjgsIDE4MF0iLCJEZXNrdG9wU2l6ZSI6IlsxMDI0LCAzMDBdIiwiRGVza3RvcEhkU2l6ZSI6IlsxMjgwLCAzMDBdIiwiUG9wdXBTaG93SW50ZXJ2YWxJbk1pbnV0ZXMiOjAsIkNvb2tpZUdyb3VwIjpudWxsLCJHcm91cEtleSI6bnVsbCwiSnNOYW1lIjoiQWR2ZXJ0aXNlTm9ybWFsIiwiQ29udGFpbmVySWQiOiJhZHZlcnRpc2Vub3JtYWxfNGYyOGJlODktZjNmZS00NTMyLWEyNzMtZjJjNGFkOTM2YjcyIiwiSnNDcmVhdGVFdmVudCI6ImxvYWQifQ==',\
+        \ \"googletagloaded\");\r\n                }\r\n                </script>\r\
+        \n        </div>\r\n    </div>\r\n </div> </div> <div class=\"fxs_wallpaper_wrap\"\
+        > <div class=\"fxs_wallpaper_img fxs_image_left\"> \r\n\r\n    <div class=\"\
+        fxs_ad\">\r\n        <div id=\"advertisenormal_589d4680-a925-4ff0-a974-8083de2a2a2e\"\
+        >\r\n                <script type=\"text/javascript\">\r\n               \
+        \ if (FXStreet.Global.AsyncDfp) {\r\n                    FXStreet.Util.createObjectFromBase64String(\"\
+        AdvertiseNormal\", 'eyJTbG90TmFtZSI6IjcxMzgvRlhTMzAvTmV3cyIsIkFkdmVydGlzZVR5cGUiOjAsIkxhYmVscyI6W10sIk1vYmlsZVNpemUiOiJbXSIsIlRhYmxldFNpemUiOiJbXSIsIkRlc2t0b3BTaXplIjoiWzU4MCwgMTE5MF0iLCJEZXNrdG9wSGRTaXplIjoiWzU4NSwgMTE5MF0iLCJQb3B1cFNob3dJbnRlcnZhbEluTWludXRlcyI6MCwiQ29va2llR3JvdXAiOm51bGwsIkdyb3VwS2V5Ijoid2FsbHBhcGVyIiwiSnNOYW1lIjoiQWR2ZXJ0aXNlTm9ybWFsIiwiQ29udGFpbmVySWQiOiJhZHZlcnRpc2Vub3JtYWxfNTg5ZDQ2ODAtYTkyNS00ZmYwLWE5NzQtODA4M2RlMmEyYTJlIiwiSnNDcmVhdGVFdmVudCI6ImxvYWQifQ==',\
+        \ \"load\");\r\n                } else {\r\n                    FXStreet.Util.createObjectFromBase64String(\"\
+        AdvertiseNormal\", 'eyJTbG90TmFtZSI6IjcxMzgvRlhTMzAvTmV3cyIsIkFkdmVydGlzZVR5cGUiOjAsIkxhYmVscyI6W10sIk1vYmlsZVNpemUiOiJbXSIsIlRhYmxldFNpemUiOiJbXSIsIkRlc2t0b3BTaXplIjoiWzU4MCwgMTE5MF0iLCJEZXNrdG9wSGRTaXplIjoiWzU4NSwgMTE5MF0iLCJQb3B1cFNob3dJbnRlcnZhbEluTWludXRlcyI6MCwiQ29va2llR3JvdXAiOm51bGwsIkdyb3VwS2V5Ijoid2FsbHBhcGVyIiwiSnNOYW1lIjoiQWR2ZXJ0aXNlTm9ybWFsIiwiQ29udGFpbmVySWQiOiJhZHZlcnRpc2Vub3JtYWxfNTg5ZDQ2ODAtYTkyNS00ZmYwLWE5NzQtODA4M2RlMmEyYTJlIiwiSnNDcmVhdGVFdmVudCI6ImxvYWQifQ==',\
+        \ \"googletagloaded\");\r\n                }\r\n                </script>\r\
+        \n        </div>\r\n    </div>\r\n </div> <div class=\"fxs_wallpaper_img fxs_image_right\"\
+        > \r\n\r\n    <div class=\"fxs_ad\">\r\n        <div id=\"advertisenormal_d0d7a2cd-87ba-46ad-8460-431137bf45b5\"\
+        >\r\n                <script type=\"text/javascript\">\r\n               \
+        \ if (FXStreet.Global.AsyncDfp) {\r\n                    FXStreet.Util.createObjectFromBase64String(\"\
+        AdvertiseNormal\", 'eyJTbG90TmFtZSI6IjcxMzgvRlhTMzAvTmV3cyIsIkFkdmVydGlzZVR5cGUiOjAsIkxhYmVscyI6W10sIk1vYmlsZVNpemUiOiJbXSIsIlRhYmxldFNpemUiOiJbXSIsIkRlc2t0b3BTaXplIjoiWzU3OSwgMTE5MF0iLCJEZXNrdG9wSGRTaXplIjoiWzU4NCwgMTE5MF0iLCJQb3B1cFNob3dJbnRlcnZhbEluTWludXRlcyI6MCwiQ29va2llR3JvdXAiOm51bGwsIkdyb3VwS2V5Ijoid2FsbHBhcGVyIiwiSnNOYW1lIjoiQWR2ZXJ0aXNlTm9ybWFsIiwiQ29udGFpbmVySWQiOiJhZHZlcnRpc2Vub3JtYWxfZDBkN2EyY2QtODdiYS00NmFkLTg0NjAtNDMxMTM3YmY0NWI1IiwiSnNDcmVhdGVFdmVudCI6ImxvYWQifQ==',\
+        \ \"load\");\r\n                } else {\r\n                    FXStreet.Util.createObjectFromBase64String(\"\
+        AdvertiseNormal\", 'eyJTbG90TmFtZSI6IjcxMzgvRlhTMzAvTmV3cyIsIkFkdmVydGlzZVR5cGUiOjAsIkxhYmVscyI6W10sIk1vYmlsZVNpemUiOiJbXSIsIlRhYmxldFNpemUiOiJbXSIsIkRlc2t0b3BTaXplIjoiWzU3OSwgMTE5MF0iLCJEZXNrdG9wSGRTaXplIjoiWzU4NCwgMTE5MF0iLCJQb3B1cFNob3dJbnRlcnZhbEluTWludXRlcyI6MCwiQ29va2llR3JvdXAiOm51bGwsIkdyb3VwS2V5Ijoid2FsbHBhcGVyIiwiSnNOYW1lIjoiQWR2ZXJ0aXNlTm9ybWFsIiwiQ29udGFpbmVySWQiOiJhZHZlcnRpc2Vub3JtYWxfZDBkN2EyY2QtODdiYS00NmFkLTg0NjAtNDMxMTM3YmY0NWI1IiwiSnNDcmVhdGVFdmVudCI6ImxvYWQifQ==',\
+        \ \"googletagloaded\");\r\n                }\r\n                </script>\r\
+        \n        </div>\r\n    </div>\r\n </div> </div> <!-- /Leaderboard --> <main\
+        \ id=\"fxs_it_detail\" role=\"main\"> <div fxs_section id=\"fxs_home\" class=\"\
+        fxs_detail\"> \r\n\r\n\r\n\r\n\r\n    <section fxs-it-id=\"header-959b1b23-d929-01b1-f225-6a6b1f791999\"\
+        \ fxs_it_url=\"australia-queensland-state-premier-greater-brisbane-to-go-into-three-day-covid-lockdown-reuters-202101072222\"\
+        >\r\n        <article class=\"fxs_article\">\r\n            <header class=\"\
+        fxs_article_header\" id=\"fxs_article_header\">\r\n                <h1 class=\"\
+        fxs_headline_large\">Australia Queensland State Premier: Greater Brisbane\
+        \ to go into three-day covid lockdown - Reuters</h1>\r\n                <span\
+        \ class=\"fxs_entry_metaInfo\">\r\n                    <a class=\"fxs_entry_sectionlink\"\
+        \ data-gtmid=\"lateralnavigation-post-section\" href=\"https://www.fxstreet.com/news\"\
+        >NEWS</a> | <time pubdate=\"\" datetime=\"2021-01-07T22:22:51Z\">Jan 07, 22:22\
+        \ GMT</time>\r\n                    |\r\n                    By <a href=\"\
+        /author/anil-panchal\" data-gtmid=\"lateralnavigation-post-author\">Anil Panchal</a>\r\
+        \n                </span>\r\n                <div id=\"fxs_socialmedia_bar_header\"\
+        \ class=\"fxs_socialmedia_bar_header\"></div>\r\n            </header>\r\n\
+        \        </article>\r\n    </section>\r\n\r\n\r\n<script>\r\n\r\n    FXStreet.Util.createObjectFromBase64String(\"\
+        ArticleDetails\", 'eyJBQlRlc3RpbmdDb25maWd1cmF0aW9uIjp7Ik1pblBhcmFncmFwaExlbmd0aCI6MTgwLCJBQlRlc3RpbmdWZXJzaW9uIjoibmV3c2RlZjEuMSIsIlNsb3ROYW1lIjpudWxsLCJUYWJsZXRTaXplIjpudWxsLCJEZXNrdG9wU2l6ZSI6bnVsbCwiRGVza3RvcEhkU2l6ZSI6bnVsbCwiTW9iaWxlU2l6ZSI6bnVsbH0sIlRlbXBsYXRlIjoiYXJ0aWNsZWRldGFpbHNfbmV3c19oZWFkZXJfbGVmdF9ib3R0b20iLCJBcnRpY2xlRGV0YWlscyI6eyJJZCI6Ijk1OWIxYjIzLWQ5MjktMDFiMS1mMjI1LTZhNmIxZjc5MTk5OSIsIlN1bW1hcnkiOm51bGwsIkNvbnRlbnRQbGFpblRleHQiOm51bGwsIkl0ZW1UeXBlTmFtZSI6Ik5ld3NJdGVtVHlwZURpc3BsYXkiLCJTcG9uc29yZWQiOmZhbHNlLCJDYWdBc3NldCI6bnVsbCwiTWV0YURlc2NyaXB0aW9uUGxhaW5UZXh0IjpudWxsLCJBQlRlc3RpbmdJZCI6bnVsbCwiVXJsIjoiYXVzdHJhbGlhLXF1ZWVuc2xhbmQtc3RhdGUtcHJlbWllci1ncmVhdGVyLWJyaXNiYW5lLXRvLWdvLWludG8tdGhyZWUtZGF5LWNvdmlkLWxvY2tkb3duLXJldXRlcnMtMjAyMTAxMDcyMjIyIiwiSXRlbVR5cGVVcmwiOiJodHRwczovL3d3dy5meHN0cmVldC5jb20vbmV3cyIsIlB1YmxpY2F0aW9uRGF0ZSI6IjIwMjEtMDEtMDdUMjI6MjI6NTFaIiwiQ3JlYXRpb25EYXRlIjoiMjAyMS0wMS0wN1QyMjoyMjo1MS41MzNaIiwiUHVibGljYXRpb25EYXRlRGlzcGxheSI6IkphbiAwNywgMjI6MjIgR01UIiwiVGl0bGUiOiJBdXN0cmFsaWEgUXVlZW5zbGFuZCBTdGF0ZSBQcmVtaWVyOiBHcmVhdGVyIEJyaXNiYW5lIHRvIGdvIGludG8gdGhyZWUtZGF5IGNvdmlkIGxvY2tkb3duIC0gUmV1dGVycyIsIkNvbnRlbnQiOm51bGwsIlRpdGxlUGxhaW5UZXh0IjpudWxsLCJNZXRhVGl0bGVQbGFpblRleHQiOm51bGwsIldvcmRDb3VudCI6MCwiSG9zdFVybCI6bnVsbCwiRmVlZElkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDAwMDAwMDAwIiwiSnNUeXBlIjpudWxsLCJQb3N0Q29udGVudFR5cGUiOm51bGwsIkNhdGVnb3JpZXMiOm51bGwsIkNvbXBhbnkiOnsiTmFtZSI6IkZYU3RyZWV0IiwiQ29tcGFueVVybCI6bnVsbCwiQWRkcmVzcyI6bnVsbCwiVXJsU0VPIjpudWxsLCJJbWFnZVJlc3BvbnNlIjp7IlVybF9YdHJhTGFyZ2UiOiJodHRwczovL2VkaXRvcmlhbC5meHN0cmVldC5jb20vYXV0aG9ycy9Db21wYW5pZXMvRlhTX1h0cmFMYXJnZS5wbmciLCJVcmxfTGFyZ2UiOiJodHRwczovL2VkaXRvcmlhbC5meHN0cmVldC5jb20vYXV0aG9ycy9Db21wYW5pZXMvRlhTX0xhcmdlLnBuZyIsIlVybF9NZWRpdW0iOiJodHRwczovL2VkaXRvcmlhbC5meHN0cmVldC5jb20vYXV0aG9ycy9Db21wYW5pZXMvRlhTX01lZGl1bS5wbmciLCJVcmxfU21hbGwiOiJodHRwczovL2VkaXRvcmlhbC5meHN0cmVldC5jb20vYXV0aG9ycy9Db21wYW5pZXMvRlhTX1NtYWxsLnBuZyIsIlVybF9YdHJhU21hbGwiOiJodHRwczovL2VkaXRvcmlhbC5meHN0cmVldC5jb20vYXV0aG9ycy9Db21wYW5pZXMvRlhTX1h0cmFTbWFsbC5wbmciLCJVcmxfTmFubyI6Imh0dHBzOi8vZWRpdG9yaWFsLmZ4c3RyZWV0LmNvbS9hdXRob3JzL0NvbXBhbmllcy9GWFNfTmFuby5wbmciLCJDYXB0aW9uIjoiIiwiQ29weXJpZ2h0IjoiIiwiVGl0bGUiOiIifSwiSW1hZ2VVcmwiOm51bGwsIkRlc2NyaXB0aW9uIjoiPHA+IDxzdHJvbmc+RlhTdHJlZXQ8L3N0cm9uZz4gaXMgdGhlIGxlYWRpbmcgaW5kZXBlbmRlbnQgcG9ydGFsIGRlZGljYXRlZCB0byB0aGUgRm9yZWlnbiBFeGNoYW5nZSAoRm9yZXgpIG1hcmtldCBhbmQgd2FzIGZvdW5kZWQgaW4gMjAwMC48L3A+IFxuXG48cD5UaGUgd2Vic2l0ZSBvZmZlcnMgYSB3aWRlIHJhbmdlIG9mIHRvb2xzIGFuZCByZXNvdXJjZXM6IDI0LzUgY3VycmVuY3kgbmV3cywgcmVhbC10aW1lIGVjb25vbWljIGNhbGVuZGFyLCBhZHZhbmNlZCByYXRlcyBhbmQgY2hhcnRzLCBlZHVjYXRpb25hbCB3ZWJpbmFycywgYW5hbHlzaXMgcmVwb3J0cywgZm9yZWNhc3RzLCBMZWFybmluZyBDZW50ZXIsIG5ld3NsZXR0ZXJzLCBpbmR1c3RyeSBzZXJ2aWNlcywgRlggY3VzdG9taXphYmxlIHN0dWRpZXMuLi48L3A+XG5cbjxwPkFzIGl0cyBkaXN0aW5jdGl2ZSB0cmFkZW1hcmssIHRoZSBwb3J0YWwgaGFzIGFsd2F5cyBiZWVuIHByb3VkIG9mIGl0cyB1bnlpZWxkaW5nIGNvbXByb21pc2UgdG8gcHJvdmlkZSBuZXV0cmFsIGFuZCB1bmJpYXNlZCBpbmZvcm1hdGlvbiBhbmQgdG8gZW5hYmxlIGl0cyB1c2VycyB0byB0YWtlIGJldHRlciBhbmQgbW9yZSBjb25maWRlbnQgZGVjaXNpb25zLiBGWFN0cmVldCBoYXMgbWFuYWdlZCB0byBnYWluIHRoZSBjb2xsYWJvcmF0aW9uIG9mIHRoZSBlbnRpcmUgRm9yZXggaW5kdXN0cnksIGZyb20gaW5kaXZpZHVhbCBwcm9mZXNzaW9uYWxzIGFuZCBzbWFsbCBjb21wYW5pZXMgcmlnaHQgdXAgdG8gRm9yZXggQnJva2VycyBhbmQgSW52ZXN0bWVudCBCYW5rcy4gRlhTdHJlZXQgY292ZXJzIHRoZSBGWCBNYXJrZXQgMjQvNTogYW4gZXhwZXJ0IHRlYW0gb2Ygam91cm5hbGlzdHMsIHRyYWRlcnMgYW5kIGVjb25vbWlzdHMgcGljdHVyZSB3aGF0IHRoZSBtYXJrZXQgaXMgZG9pbmcgYW5kIHdoYXQgaXMgaGFwcGVuaW5nIGFzIGl0IGhhcHBlbnMuPC9wPlxuXG48cD5CZXNpZGVzIHRoZSBtYWluIHdlYnNpdGUgaW4gRW5nbGlzaCwgdGhlIHBvcnRhbCBpcyBhdmFpbGFibGUgaW4gMTYgb3RoZXIgbGFuZ3VhZ2VzIChFbmdsaXNoLCBKYXBhbmVzZSwgU2ltcGxpZmllZCBDaGluZXNlLCBUcmFkaXRpb25hbCBDaGluZXNlLCBTcGFuaXNoLCBSdXNzaWFuLCBBcmFiaWMsIFR1cmtpc2gsIEluZG9uZXNpYW4sIFBvcnR1Z3Vlc2UsIEdlcm1hbiwgRnJlbmNoLCBJdGFsaWFuLCBIdW5nYXJpYW4gYW5kIFZpZXRuYW1lc2UsIEtvcmVhbiBhbmQgQ2F0YWxhbikuPC9wPlxuXG48cD5GWFN0cmVldCB3YXMgc2hvcnQgbGlzdGVkIGFzIOKAnEJlc3QgZS1GWCBpbml0aWF0aXZlIG9mIHRoZSB5ZWFyICh2ZW5kb3Ip4oCdIGZvciB0aGUgRlggV2VlayBlLUZYIEF3YXJkcyAyMDEwLjwvcD4iLCJEaXNjbGFpbWVySHRtbCI6IkluZm9ybWF0aW9uIG9uIHRoZXNlIHBhZ2VzIGNvbnRhaW5zIGZvcndhcmQtbG9va2luZyBzdGF0ZW1lbnRzIHRoYXQgaW52b2x2ZSByaXNrcyBhbmQgdW5jZXJ0YWludGllcy4gTWFya2V0cyBhbmQgaW5zdHJ1bWVudHMgcHJvZmlsZWQgb24gdGhpcyBwYWdlIGFyZSBmb3IgaW5mb3JtYXRpb25hbCBwdXJwb3NlcyBvbmx5IGFuZCBzaG91bGQgbm90IGluIGFueSB3YXkgY29tZSBhY3Jvc3MgYXMgYSByZWNvbW1lbmRhdGlvbiB0byBidXkgb3Igc2VsbCBpbiB0aGVzZSBhc3NldHMuIFlvdSBzaG91bGQgZG8geW91ciBvd24gdGhvcm91Z2ggcmVzZWFyY2ggYmVmb3JlIG1ha2luZyBhbnkgaW52ZXN0bWVudCBkZWNpc2lvbnMuIEZYU3RyZWV0IGRvZXMgbm90IGluIGFueSB3YXkgZ3VhcmFudGVlIHRoYXQgdGhpcyBpbmZvcm1hdGlvbiBpcyBmcmVlIGZyb20gbWlzdGFrZXMsIGVycm9ycywgb3IgbWF0ZXJpYWwgbWlzc3RhdGVtZW50cy4gSXQgYWxzbyBkb2VzIG5vdCBndWFyYW50ZWUgdGhhdCB0aGlzIGluZm9ybWF0aW9uIGlzIG9mIGEgdGltZWx5IG5hdHVyZS4gSW52ZXN0aW5nIGluIE9wZW4gTWFya2V0cyBpbnZvbHZlcyBhIGdyZWF0IGRlYWwgb2YgcmlzaywgaW5jbHVkaW5nIHRoZSBsb3NzIG9mIGFsbCBvciBhIHBvcnRpb24gb2YgeW91ciBpbnZlc3RtZW50LCBhcyB3ZWxsIGFzIGVtb3Rpb25hbCBkaXN0cmVzcy4gQWxsIHJpc2tzLCBsb3NzZXMgYW5kIGNvc3RzIGFzc29jaWF0ZWQgd2l0aCBpbnZlc3RpbmcsIGluY2x1ZGluZyB0b3RhbCBsb3NzIG9mIHByaW5jaXBhbCwgYXJlIHlvdXIgcmVzcG9uc2liaWxpdHkuIFRoZSB2aWV3cyBhbmQgb3BpbmlvbnMgZXhwcmVzc2VkIGluIHRoaXMgYXJ0aWNsZSBhcmUgdGhvc2Ugb2YgdGhlIGF1dGhvcnMgYW5kIGRvIG5vdCBuZWNlc3NhcmlseSByZWZsZWN0IHRoZSBvZmZpY2lhbCBwb2xpY3kgb3IgcG9zaXRpb24gb2YgRlhTdHJlZXQgbm9yIGl0cyBhZHZlcnRpc2Vycy4iLCJTb2NpYWxNZWRpYXMiOm51bGwsIlRlcm1zQW5kQ29uZGl0aW9uc0h0bWwiOm51bGwsIklkIjoiODUyYjk5MzItMWNjYi00YTIzLWJiNDktM2U2NzcyZGIyOGJjIiwiVXJsIjoiL2NvbXBhbnkvZnhzdHJlZXQifSwiSW1hZ2UiOm51bGwsIlNFTyI6eyJNZXRhVGl0bGUiOiJBdXN0cmFsaWEgUXVlZW5zbGFuZCBTdGF0ZSBQcmVtaWVyOiBHcmVhdGVyIEJyaXNiYW5lIHRvIGdvIGludG8gdGhyZWUgZGF5IGNvdmlkIGxvY2tkb3duIC0gUmV1dGVycyIsIk1ldGFEZXNjcmlwdGlvbiI6IkVhcmx5IEZyaWRheSBtb3JuaW5nIGluIEFzaWEsIFF1ZWVuc2xhbmTigJlzIFN0YXRlIFByZW1pZXIgQW5uYXN0YWNpYSBQYWxhc3pjenVrIGFubm91bmNlZCBhIHRocmVlLWRheSBhY3Rpdml0eSByZXN0cmljdGlvbiBpbiBHcmVhdGVyIEJyaXNiYW5lLCBwZXIgUmV1IiwiS2V5V29yZHMiOiJBdXN0cmFsaWEsIENvcm9uYXZpcnVzLCBOZXdzVHJhZGluZywgUmlza0FwcGV0aXRlLCBBVURVU0QiLCJGdWxsVXJsIjoiaHR0cHM6Ly93d3cuZnhzdHJlZXQuY29tL25ld3MvYXVzdHJhbGlhLXF1ZWVuc2xhbmQtc3RhdGUtcHJlbWllci1ncmVhdGVyLWJyaXNiYW5lLXRvLWdvLWludG8tdGhyZWUtZGF5LWNvdmlkLWxvY2tkb3duLXJldXRlcnMtMjAyMTAxMDcyMjIyIiwiRm9sbG93IjpmYWxzZSwiQW1wVXJsIjpudWxsLCJEZWZhdWx0SW1hZ2VVcmwiOiJodHRwczovL2VkaXRvcmlhbC5meHN0cmVldC5jb20vaW1hZ2VzL1Jlc291cmNlcy9maW5hbmNpYWwtYW5hbHlzaXMtNTUzMTQ2ODhfU21hbGwuanBnIiwiUHVibGljYXRpb25EYXRlIjoiMjAyMS0wMS0wN1QyMjoyMjo1MVoiLCJOZXdzQXJ0aWNsZUltYWdlTGlzdCI6IltcImh0dHBzOi8vZWRpdG9yaWFsLmZ4c3RyZWV0LmNvbS9pbWFnZXMvTWFjcm9lY29ub21pY3MvQ291bnRyaWVzL09jZWFuaWEvQXVzdHJhbGlhL2F1c3RyYWxpYW4tZmxhZy0xNzA0NTY3XzE2eDkuanBnXCIsXCJodHRwczovL2VkaXRvcmlhbC5meHN0cmVldC5jb20vaW1hZ2VzL01hY3JvZWNvbm9taWNzL0NvdW50cmllcy9PY2VhbmlhL0F1c3RyYWxpYS9hdXN0cmFsaWFuLWZsYWctMTcwNDU2N180eDMuanBnXCIsXCJodHRwczovL2VkaXRvcmlhbC5meHN0cmVldC5jb20vaW1hZ2VzL01hY3JvZWNvbm9taWNzL0NvdW50cmllcy9PY2VhbmlhL0F1c3RyYWxpYS9hdXN0cmFsaWFuLWZsYWctMTcwNDU2N18xeDEuanBnXCJdIn0sIkF1dGhvciI6eyJJZCI6IjBjMWU3N2NhLTM2MDctNDA4Yi04ZDgzLTNhNzVmYzdjZDVlMCIsIlVybCI6Ii9hdXRob3IvYW5pbC1wYW5jaGFsIiwiTmFtZSI6IkFuaWwgUGFuY2hhbCIsIkZvbGxvd0VuYWJsZWQiOnRydWUsIkltYWdlUmVzcG9uc2UiOnsiVXJsX1h0cmFMYXJnZSI6Imh0dHBzOi8vZWRpdG9yaWFsLmZ4c3RyZWV0LmNvbS9hdXRob3JzL0FuaWwlMjBQYW5jaGFsX1h0cmFMYXJnZS5qcGVnIiwiVXJsX0xhcmdlIjoiaHR0cHM6Ly9lZGl0b3JpYWwuZnhzdHJlZXQuY29tL2F1dGhvcnMvQW5pbCUyMFBhbmNoYWxfTGFyZ2UuanBlZyIsIlVybF9NZWRpdW0iOiJodHRwczovL2VkaXRvcmlhbC5meHN0cmVldC5jb20vYXV0aG9ycy9BbmlsJTIwUGFuY2hhbF9NZWRpdW0uanBlZyIsIlVybF9TbWFsbCI6Imh0dHBzOi8vZWRpdG9yaWFsLmZ4c3RyZWV0LmNvbS9hdXRob3JzL0FuaWwlMjBQYW5jaGFsX1NtYWxsLmpwZWciLCJVcmxfWHRyYVNtYWxsIjoiaHR0cHM6Ly9lZGl0b3JpYWwuZnhzdHJlZXQuY29tL2F1dGhvcnMvQW5pbCUyMFBhbmNoYWxfWHRyYVNtYWxsLmpwZWciLCJVcmxfTmFubyI6Imh0dHBzOi8vZWRpdG9yaWFsLmZ4c3RyZWV0LmNvbS9hdXRob3JzL0FuaWwlMjBQYW5jaGFsX05hbm8uanBlZyIsIkNhcHRpb24iOiIiLCJDb3B5cmlnaHQiOiIiLCJUaXRsZSI6IiJ9fSwiVmlkZW8iOm51bGwsIlNvY2lhbE1lZGlhSW5Gb290ZXIiOmZhbHNlfX0=');\r\
+        \n</script>\r\n <div class=\"fxs_clearfix\"></div> <div class=\"fxs_row\"\
+        > <div class=\"fxs_col fxs_col_100\"> <hr class=\"fxs_divider_first\"> </div>\
+        \ </div> <div class=\"fxs_row sticky-holder\"> <div fxs_section class=\"fxs_flex_col\"\
+        > <div fxs_section class=\"fxs_detail\"> \r\n\r\n\r\n\r\n\r\n    <section\
+        \ fxs-it-id=\"body-959b1b23-d929-01b1-f225-6a6b1f791999\" fxs_it_url=\"australia-queensland-state-premier-greater-brisbane-to-go-into-three-day-covid-lockdown-reuters-202101072222\"\
+        >\r\n        <article class=\"fxs_article\">\r\n            <div id=\"fxs_article_body\"\
+        \ class=\"fxs_article_body\">\r\n                <div id=\"fxs_article_content\"\
+        \ class=\"fxs_article_content\">\r\n                    <p>Early Friday morning\
+        \ in Asia, Queensland&rsquo;s State Premier Annastacia Palaszczuk announced\
+        \ a three-day activity restriction in Greater Brisbane, per Reuters. The news\
+        \ cites Thursday&rsquo;s founding of the UK coronavirus strain as the key\
+        \ reason for the latest lockdown. The restrictions also make mask-wearing\
+        \ compulsory.</p>\n\n<p>&quot;We will be mandating&nbsp;masks in those areas\
+        \ if you are&nbsp;leaving home,&quot; said Ms. Palaszczuk.&nbsp;</p>\n\n<p>The\
+        \ policymaker also mentioned, &quot;So, if you are leaving&nbsp;home, you\
+        \ are leaving your place of&nbsp;residence, from 6:00 pm Friday to&nbsp;6:00\
+        \ pm Monday and you will living in&nbsp;those council areas, again, let me\
+        \ say them - Brisbane, Logan, Ipswich,&nbsp;Moreton and Redlands - you must\
+        \ wear&nbsp;a mask.&quot;</p>\n\n<p>State Premier Palaszczuk also said that\
+        \ If we&nbsp;do not do this now, it could end up&nbsp;being a 30-day lockdown.</p>\n\
+        \n<p>On the positive side, Victoria marks zero locally acquired cases of the\
+        \ coronavirus (COVID-19).</p>\n\n<h2 class=\"fxs_headline_medium\">FX implications</h2>\n\
+        \n<p>AUD/USD cools down to 0.7760, from 0.7773, while following the <a href=\"\
+        https://www.fxstreet.com/news\">news</a>. However, optimism concerning the\
+        \ <a href=\"https://www.fxstreet.com/economic-calendar/united-states\">US</a>\
+        \ stimulus keeps the bulls hopeful.</p>\n\n<p>Read:&nbsp;<a href=\"https://www.fxstreet.com/news/aud-usd-eyes-07800-as-bulls-fight-amid-upbeat-market-mood-202101072143\"\
+        \ target=\"_blank\">AUD/USD eyes 0.7800 as bulls fight amid upbeat market\
+        \ mood</a></p>\n\r\n                </div>\r\n            </div>\r\n     \
+        \       <!-- Disclaimer in post! -->\r\n            <div class=\"fxs_disclaimer_block\"\
+        >\r\n                <p>\r\n                    Information on these pages\
+        \ contains forward-looking statements that involve risks and uncertainties.\
+        \ Markets and instruments profiled on this page are for informational purposes\
+        \ only and should not in any way come across as a recommendation to buy or\
+        \ sell in these assets. You should do your own thorough research before making\
+        \ any investment decisions. FXStreet does not in any way guarantee that this\
+        \ information is free from mistakes, errors, or material misstatements. It\
+        \ also does not guarantee that this information is of a timely nature. Investing\
+        \ in Open Markets involves a great deal of risk, including the loss of all\
+        \ or a portion of your investment, as well as emotional distress. All risks,\
+        \ losses and costs associated with investing, including total loss of principal,\
+        \ are your responsibility. The views and opinions expressed in this article\
+        \ are those of the authors and do not necessarily reflect the official policy\
+        \ or position of FXStreet nor its advertisers.\r\n                </p>\r\n\
+        \            </div>\r\n            <!-- /Disclaimer in post! -->\r\n     \
+        \       <div id=\"fxs_socialmedia_bar_footer\" class=\"fxs_socialmedia_bar_footer\"\
+        ></div>\r\n            <a href=\"/news/feed\" target=\"_blank\" data-gtmid=\"\
+        lateralnavigation-post-feed\" class=\"fxs_mutedLink fxs_txt_size_nano fxs_fRight\
+        \ fxs_post-feed-link\">Feed news</a>\r\n            <!--<div id=\"fxs_cag_widget_959b1b23-d929-01b1-f225-6a6b1f791999\"\
+        ></div>-->\r\n        </article>\r\n        <script type=\"application/ld+json\"\
+        >\r\n        {\r\n        \"@context\": \"http://schema.org\",\r\n       \
+        \ \"@type\": \"ShareAction\",\r\n        \"object\":\r\n        {\r\n    \
+        \    \"@type\": \"CreativeWork\",\r\n        \"name\": \"Australia Queensland\
+        \ State Premier: Greater Brisbane to go into three-day covid lockdown - Reuters\"\
+        ,\r\n        \"url\": \"https://www.fxstreet.com/news/australia-queensland-state-premier-greater-brisbane-to-go-into-three-day-covid-lockdown-reuters-202101072222\"\
+        \r\n        }\r\n        }\r\n    </script><script id=\"SeoApplicationJsonId\"\
+        \ type=\"application/ld+json\">\r\n        {\r\n        \"@context\": \"http://schema.org\"\
+        ,\r\n        \"@type\": \"NewsArticle\",\r\n        \"headline\": \"Australia\
+        \ Queensland State Premier: Greater Brisbane to go into three-day covid lockdown\
+        \ - Reuters\",\r\n        \"name\": \"Australia Queensland State Premier:\
+        \ Greater Brisbane to go into three day covid lockdown - Reuters\",\r\n  \
+        \      \"keywords\": \"AUDUSD,Australia,Coronavirus,NewsTrading,RiskAppetite,\"\
+        ,\r\n        \"datePublished\": \"2021-01-07T22:22:51Z\",\r\n        \"dateModified\"\
+        :  \"2021-01-07T22:22:51Z\",\r\n        \"mainEntityOfPage\": \"https://www.fxstreet.com/news/australia-queensland-state-premier-greater-brisbane-to-go-into-three-day-covid-lockdown-reuters-202101072222\"\
+        ,\r\n        \"url\": \"https://www.fxstreet.com/news/australia-queensland-state-premier-greater-brisbane-to-go-into-three-day-covid-lockdown-reuters-202101072222\"\
+        ,\r\n        \"articleBody\": \"Early Friday morning in Asia, Queensland&rsquo;s\
+        \ State Premier Annastacia Palaszczuk announced a three-day activity restriction\
+        \ in Greater Brisbane, per Reuters. The news cites Thursday&rsquo;s founding\
+        \ of the UK coronavirus strain as the key reason for the latest lockdown.\
+        \ The restrictions also make mask-wearing compulsory. &quot;We will be mandatingmasks\
+        \ in those areas if you areleaving home,&quot; said Ms. Palaszczuk. The policymaker\
+        \ also mentioned, &quot;So, if you are leavinghome, you are leaving your place\
+        \ ofresidence, from 6:00 pm Friday to6:00 pm Monday and you will living inthose\
+        \ council areas, again, let me say them - Brisbane, Logan, Ipswich,Moreton\
+        \ and Redlands - you must weara mask.&quot; State Premier Palaszczuk also\
+        \ said that If wedo not do this now, it could end upbeing a 30-day lockdown.\
+        \ On the positive side, Victoria marks zero locally acquired cases of the\
+        \ coronavirus (COVID-19). FX implications AUD/USD cools down to 0.7760, from\
+        \ 0.7773, while following the news. However, optimism concerning the US stimulus\
+        \ keeps the bulls hopeful. Read:AUD/USD eyes 0.7800 as bulls fight amid upbeat\
+        \ market mood\",\r\n        \"description\": \"Early Friday morning in Asia,\
+        \ Queensland&#8217;s State Premier Annastacia Palaszczuk announced a three-day\
+        \ activity restriction in Greater Brisbane, per Reu\",\r\n        \"author\"\
+        : {\r\n        \"@type\": \"Person\",\r\n        \"name\": \"Anil Panchal\"\
+        ,\r\n        \"url\": \"https://www.fxstreet.com/author/anil-panchal\",\r\n\
+        \        \"worksfor\": {\r\n        \"@type\": \"Organization\",\r\n     \
+        \   \"name\": \"FXStreet\",\r\n        \"url\": \"https://www.fxstreet.com/company/fxstreet\"\
+        \r\n        }\r\n        },\r\n        \"publisher\": {\r\n        \"@type\"\
+        : \"Organization\",\r\n        \"name\": \"FXStreet\",\r\n        \"logo\"\
+        : {\r\n        \"@type\": \"ImageObject\",\r\n        \"url\": \"https://editorial.fxstreet.com/images/Others/logo-600x60.png\"\
+        ,\r\n        \"width\": 600,\r\n        \"height\": 60\r\n        }\r\n  \
+        \      },\r\n        \"image\": [\"https://editorial.fxstreet.com/images/Macroeconomics/Countries/Oceania/Australia/australian-flag-1704567_16x9.jpg\"\
+        ,\"https://editorial.fxstreet.com/images/Macroeconomics/Countries/Oceania/Australia/australian-flag-1704567_4x3.jpg\"\
+        ,\"https://editorial.fxstreet.com/images/Macroeconomics/Countries/Oceania/Australia/australian-flag-1704567_1x1.jpg\"\
+        ]\r\n        }\r\n    </script>    </section>\r\n\r\n\r\n<script>\r\n\r\n\
+        \    FXStreet.Util.createObjectFromBase64String(\"ArticleDetails\", 'eyJBQlRlc3RpbmdDb25maWd1cmF0aW9uIjp7Ik1pblBhcmFncmFwaExlbmd0aCI6MTgwLCJBQlRlc3RpbmdWZXJzaW9uIjoibmV3c2RlZjEuMSIsIlNsb3ROYW1lIjoiNzEzOC9GWFMzMC9OZXdzIiwiVGFibGV0U2l6ZSI6Ils3MjgsIDkwXSIsIkRlc2t0b3BTaXplIjoiWzcyOCwgOTBdIiwiRGVza3RvcEhkU2l6ZSI6Ils3MjgsIDkwXSIsIk1vYmlsZVNpemUiOiJbMzAwLCAyNTBdIn0sIlRlbXBsYXRlIjoiYXJ0aWNsZWRldGFpbHNfbmV3c19ib2R5IiwiQXJ0aWNsZURldGFpbHMiOnsiSWQiOiI5NTliMWIyMy1kOTI5LTAxYjEtZjIyNS02YTZiMWY3OTE5OTkiLCJTdW1tYXJ5IjoiRWFybHkgRnJpZGF5IG1vcm5pbmcgaW4gQXNpYSwgUXVlZW5zbGFuZOKAmXMgU3RhdGUgUHJlbWllciBBbm5hc3RhY2lhIFBhbGFzemN6dWsgYW5ub3VuY2VkIGEgdGhyZWUtZGF5IGFjdGl2aXR5IHJlc3RyaWN0aW9uIGluIEdyZWF0ZXIgQnJpc2JhbmUsIHBlciBSZXUiLCJDb250ZW50UGxhaW5UZXh0IjoiRWFybHkgRnJpZGF5IG1vcm5pbmcgaW4gQXNpYSwgUXVlZW5zbGFuZCZyc3F1bztzIFN0YXRlIFByZW1pZXIgQW5uYXN0YWNpYSBQYWxhc3pjenVrIGFubm91bmNlZCBhIHRocmVlLWRheSBhY3Rpdml0eSByZXN0cmljdGlvbiBpbiBHcmVhdGVyIEJyaXNiYW5lLCBwZXIgUmV1dGVycy4gVGhlIG5ld3MgY2l0ZXMgVGh1cnNkYXkmcnNxdW87cyBmb3VuZGluZyBvZiB0aGUgVUsgY29yb25hdmlydXMgc3RyYWluIGFzIHRoZSBrZXkgcmVhc29uIGZvciB0aGUgbGF0ZXN0IGxvY2tkb3duLiBUaGUgcmVzdHJpY3Rpb25zIGFsc28gbWFrZSBtYXNrLXdlYXJpbmcgY29tcHVsc29yeS4gJnF1b3Q7V2Ugd2lsbCBiZSBtYW5kYXRpbmdtYXNrcyBpbiB0aG9zZSBhcmVhcyBpZiB5b3UgYXJlbGVhdmluZyBob21lLCZxdW90OyBzYWlkIE1zLiBQYWxhc3pjenVrLiBUaGUgcG9saWN5bWFrZXIgYWxzbyBtZW50aW9uZWQsICZxdW90O1NvLCBpZiB5b3UgYXJlIGxlYXZpbmdob21lLCB5b3UgYXJlIGxlYXZpbmcgeW91ciBwbGFjZSBvZnJlc2lkZW5jZSwgZnJvbSA2OjAwIHBtIEZyaWRheSB0bzY6MDAgcG0gTW9uZGF5IGFuZCB5b3Ugd2lsbCBsaXZpbmcgaW50aG9zZSBjb3VuY2lsIGFyZWFzLCBhZ2FpbiwgbGV0IG1lIHNheSB0aGVtIC0gQnJpc2JhbmUsIExvZ2FuLCBJcHN3aWNoLE1vcmV0b24gYW5kIFJlZGxhbmRzIC0geW91IG11c3Qgd2VhcmEgbWFzay4mcXVvdDsgU3RhdGUgUHJlbWllciBQYWxhc3pjenVrIGFsc28gc2FpZCB0aGF0IElmIHdlZG8gbm90IGRvIHRoaXMgbm93LCBpdCBjb3VsZCBlbmQgdXBiZWluZyBhIDMwLWRheSBsb2NrZG93bi4gT24gdGhlIHBvc2l0aXZlIHNpZGUsIFZpY3RvcmlhIG1hcmtzIHplcm8gbG9jYWxseSBhY3F1aXJlZCBjYXNlcyBvZiB0aGUgY29yb25hdmlydXMgKENPVklELTE5KS4gRlggaW1wbGljYXRpb25zIEFVRC9VU0QgY29vbHMgZG93biB0byAwLjc3NjAsIGZyb20gMC43NzczLCB3aGlsZSBmb2xsb3dpbmcgdGhlIG5ld3MuIEhvd2V2ZXIsIG9wdGltaXNtIGNvbmNlcm5pbmcgdGhlIFVTIHN0aW11bHVzIGtlZXBzIHRoZSBidWxscyBob3BlZnVsLiBSZWFkOkFVRC9VU0QgZXllcyAwLjc4MDAgYXMgYnVsbHMgZmlnaHQgYW1pZCB1cGJlYXQgbWFya2V0IG1vb2QiLCJJdGVtVHlwZU5hbWUiOiJOZXdzSXRlbVR5cGVEaXNwbGF5IiwiU3BvbnNvcmVkIjpmYWxzZSwiQ2FnQXNzZXQiOm51bGwsIk1ldGFEZXNjcmlwdGlvblBsYWluVGV4dCI6IkVhcmx5IEZyaWRheSBtb3JuaW5nIGluIEFzaWEsIFF1ZWVuc2xhbmTigJlzIFN0YXRlIFByZW1pZXIgQW5uYXN0YWNpYSBQYWxhc3pjenVrIGFubm91bmNlZCBhIHRocmVlLWRheSBhY3Rpdml0eSByZXN0cmljdGlvbiBpbiBHcmVhdGVyIEJyaXNiYW5lLCBwZXIgUmV1IiwiQUJUZXN0aW5nSWQiOm51bGwsIlVybCI6ImF1c3RyYWxpYS1xdWVlbnNsYW5kLXN0YXRlLXByZW1pZXItZ3JlYXRlci1icmlzYmFuZS10by1nby1pbnRvLXRocmVlLWRheS1jb3ZpZC1sb2NrZG93bi1yZXV0ZXJzLTIwMjEwMTA3MjIyMiIsIkl0ZW1UeXBlVXJsIjoiaHR0cHM6Ly93d3cuZnhzdHJlZXQuY29tL25ld3MiLCJQdWJsaWNhdGlvbkRhdGUiOiIyMDIxLTAxLTA3VDIyOjIyOjUxWiIsIkNyZWF0aW9uRGF0ZSI6IjIwMjEtMDEtMDdUMjI6MjI6NTEuNTMzWiIsIlB1YmxpY2F0aW9uRGF0ZURpc3BsYXkiOiJKYW4gMDcsIDIyOjIyIEdNVCIsIlRpdGxlIjoiQXVzdHJhbGlhIFF1ZWVuc2xhbmQgU3RhdGUgUHJlbWllcjogR3JlYXRlciBCcmlzYmFuZSB0byBnbyBpbnRvIHRocmVlLWRheSBjb3ZpZCBsb2NrZG93biAtIFJldXRlcnMiLCJDb250ZW50IjoiPHA+RWFybHkgRnJpZGF5IG1vcm5pbmcgaW4gQXNpYSwgUXVlZW5zbGFuZCZyc3F1bztzIFN0YXRlIFByZW1pZXIgQW5uYXN0YWNpYSBQYWxhc3pjenVrIGFubm91bmNlZCBhIHRocmVlLWRheSBhY3Rpdml0eSByZXN0cmljdGlvbiBpbiBHcmVhdGVyIEJyaXNiYW5lLCBwZXIgUmV1dGVycy4gVGhlIG5ld3MgY2l0ZXMgVGh1cnNkYXkmcnNxdW87cyBmb3VuZGluZyBvZiB0aGUgVUsgY29yb25hdmlydXMgc3RyYWluIGFzIHRoZSBrZXkgcmVhc29uIGZvciB0aGUgbGF0ZXN0IGxvY2tkb3duLiBUaGUgcmVzdHJpY3Rpb25zIGFsc28gbWFrZSBtYXNrLXdlYXJpbmcgY29tcHVsc29yeS48L3A+XG5cbjxwPiZxdW90O1dlIHdpbGwgYmUgbWFuZGF0aW5nJm5ic3A7bWFza3MgaW4gdGhvc2UgYXJlYXMgaWYgeW91IGFyZSZuYnNwO2xlYXZpbmcgaG9tZSwmcXVvdDsgc2FpZCBNcy4gUGFsYXN6Y3p1ay4mbmJzcDs8L3A+XG5cbjxwPlRoZSBwb2xpY3ltYWtlciBhbHNvIG1lbnRpb25lZCwgJnF1b3Q7U28sIGlmIHlvdSBhcmUgbGVhdmluZyZuYnNwO2hvbWUsIHlvdSBhcmUgbGVhdmluZyB5b3VyIHBsYWNlIG9mJm5ic3A7cmVzaWRlbmNlLCBmcm9tIDY6MDAgcG0gRnJpZGF5IHRvJm5ic3A7NjowMCBwbSBNb25kYXkgYW5kIHlvdSB3aWxsIGxpdmluZyBpbiZuYnNwO3Rob3NlIGNvdW5jaWwgYXJlYXMsIGFnYWluLCBsZXQgbWUgc2F5IHRoZW0gLSBCcmlzYmFuZSwgTG9nYW4sIElwc3dpY2gsJm5ic3A7TW9yZXRvbiBhbmQgUmVkbGFuZHMgLSB5b3UgbXVzdCB3ZWFyJm5ic3A7YSBtYXNrLiZxdW90OzwvcD5cblxuPHA+U3RhdGUgUHJlbWllciBQYWxhc3pjenVrIGFsc28gc2FpZCB0aGF0IElmIHdlJm5ic3A7ZG8gbm90IGRvIHRoaXMgbm93LCBpdCBjb3VsZCBlbmQgdXAmbmJzcDtiZWluZyBhIDMwLWRheSBsb2NrZG93bi48L3A+XG5cbjxwPk9uIHRoZSBwb3NpdGl2ZSBzaWRlLCBWaWN0b3JpYSBtYXJrcyB6ZXJvIGxvY2FsbHkgYWNxdWlyZWQgY2FzZXMgb2YgdGhlIGNvcm9uYXZpcnVzIChDT1ZJRC0xOSkuPC9wPlxuXG48aDIgY2xhc3M9XCJmeHNfaGVhZGxpbmVfbWVkaXVtXCI+RlggaW1wbGljYXRpb25zPC9oMj5cblxuPHA+QVVEL1VTRCBjb29scyBkb3duIHRvIDAuNzc2MCwgZnJvbSAwLjc3NzMsIHdoaWxlIGZvbGxvd2luZyB0aGUgPGEgaHJlZj1cImh0dHBzOi8vd3d3LmZ4c3RyZWV0LmNvbS9uZXdzXCI+bmV3czwvYT4uIEhvd2V2ZXIsIG9wdGltaXNtIGNvbmNlcm5pbmcgdGhlIDxhIGhyZWY9XCJodHRwczovL3d3dy5meHN0cmVldC5jb20vZWNvbm9taWMtY2FsZW5kYXIvdW5pdGVkLXN0YXRlc1wiPlVTPC9hPiBzdGltdWx1cyBrZWVwcyB0aGUgYnVsbHMgaG9wZWZ1bC48L3A+XG5cbjxwPlJlYWQ6Jm5ic3A7PGEgaHJlZj1cImh0dHBzOi8vd3d3LmZ4c3RyZWV0LmNvbS9uZXdzL2F1ZC11c2QtZXllcy0wNzgwMC1hcy1idWxscy1maWdodC1hbWlkLXVwYmVhdC1tYXJrZXQtbW9vZC0yMDIxMDEwNzIxNDNcIiB0YXJnZXQ9XCJfYmxhbmtcIj5BVUQvVVNEIGV5ZXMgMC43ODAwIGFzIGJ1bGxzIGZpZ2h0IGFtaWQgdXBiZWF0IG1hcmtldCBtb29kPC9hPjwvcD5cbiIsIlRpdGxlUGxhaW5UZXh0IjoiQXVzdHJhbGlhIFF1ZWVuc2xhbmQgU3RhdGUgUHJlbWllcjogR3JlYXRlciBCcmlzYmFuZSB0byBnbyBpbnRvIHRocmVlLWRheSBjb3ZpZCBsb2NrZG93biAtIFJldXRlcnMiLCJNZXRhVGl0bGVQbGFpblRleHQiOiJBdXN0cmFsaWEgUXVlZW5zbGFuZCBTdGF0ZSBQcmVtaWVyOiBHcmVhdGVyIEJyaXNiYW5lIHRvIGdvIGludG8gdGhyZWUgZGF5IGNvdmlkIGxvY2tkb3duIC0gUmV1dGVycyIsIldvcmRDb3VudCI6MCwiSG9zdFVybCI6Imh0dHBzOi8vd3d3LmZ4c3RyZWV0LmNvbSIsIkZlZWRJZCI6IjYyZDUwNGYwLWFlMzEtNGQzZC1iYmE1LTExZmI0NzlkNTFhZSIsIkpzVHlwZSI6bnVsbCwiUG9zdENvbnRlbnRUeXBlIjoiTmV3cyIsIkNhdGVnb3JpZXMiOlt7IklkIjoiMmI5MDVlODAtNzRlYi00MjI0LTgxNjMtZGUyNTU3YTczNzUwIiwiTmFtZSI6IkFVRFVTRCIsIkZ1bGxVcmwiOiIvL3d3dy5meHN0cmVldC5jb20vcmF0ZXMtY2hhcnRzL2F1ZHVzZCJ9LHsiSWQiOiJlOTBjODIyZS00MWI1LTQ3NmUtYmQ3Yi0xYTdkMzhmODM5ZmQiLCJOYW1lIjoiQXVzdHJhbGlhIiwiRnVsbFVybCI6Ii8vd3d3LmZ4c3RyZWV0LmNvbS9lY29ub21pYy1jYWxlbmRhci9jb3VudHJ5L2YwYjcyMDg4LTM0YmItNDc1Mi05MzM3LWM0MWYzMjljNzc5OCJ9LHsiSWQiOiI0NWE2NDhjMy1iMjYxLTQxYjctOWMyZi1hODJjMmQ0ZjY4ODkiLCJOYW1lIjoiQ29yb25hdmlydXMiLCJGdWxsVXJsIjoiLy93d3cuZnhzdHJlZXQuY29tL2Nvcm9uYXZpcnVzIn0seyJJZCI6ImEyOTYzNGUxLTU5MmQtNGVhMi1iZDI0LTFjOTQ0ZDYxNDM1MyIsIk5hbWUiOiJOZXdzVHJhZGluZyIsIkZ1bGxVcmwiOiIvL3d3dy5meHN0cmVldC5jb20vc3RyYXRlZ3kvbmV3cy10cmFkaW5nIn0seyJJZCI6ImViYmU5NjA2LTg0ODctNDMzYi1hODllLTA0ZjljYTdlZWJhMyIsIk5hbWUiOiJSaXNrQXBwZXRpdGUiLCJGdWxsVXJsIjoiLy93d3cuZnhzdHJlZXQuY29tL3RlY2huaWNhbC1hbmFseXNpcy9zZW50aW1lbnQvcmlzay1hcHBldGl0ZSJ9XSwiQ29tcGFueSI6eyJOYW1lIjoiRlhTdHJlZXQiLCJDb21wYW55VXJsIjpudWxsLCJBZGRyZXNzIjpudWxsLCJVcmxTRU8iOm51bGwsIkltYWdlUmVzcG9uc2UiOnsiVXJsX1h0cmFMYXJnZSI6Imh0dHBzOi8vZWRpdG9yaWFsLmZ4c3RyZWV0LmNvbS9hdXRob3JzL0NvbXBhbmllcy9GWFNfWHRyYUxhcmdlLnBuZyIsIlVybF9MYXJnZSI6Imh0dHBzOi8vZWRpdG9yaWFsLmZ4c3RyZWV0LmNvbS9hdXRob3JzL0NvbXBhbmllcy9GWFNfTGFyZ2UucG5nIiwiVXJsX01lZGl1bSI6Imh0dHBzOi8vZWRpdG9yaWFsLmZ4c3RyZWV0LmNvbS9hdXRob3JzL0NvbXBhbmllcy9GWFNfTWVkaXVtLnBuZyIsIlVybF9TbWFsbCI6Imh0dHBzOi8vZWRpdG9yaWFsLmZ4c3RyZWV0LmNvbS9hdXRob3JzL0NvbXBhbmllcy9GWFNfU21hbGwucG5nIiwiVXJsX1h0cmFTbWFsbCI6Imh0dHBzOi8vZWRpdG9yaWFsLmZ4c3RyZWV0LmNvbS9hdXRob3JzL0NvbXBhbmllcy9GWFNfWHRyYVNtYWxsLnBuZyIsIlVybF9OYW5vIjoiaHR0cHM6Ly9lZGl0b3JpYWwuZnhzdHJlZXQuY29tL2F1dGhvcnMvQ29tcGFuaWVzL0ZYU19OYW5vLnBuZyIsIkNhcHRpb24iOiIiLCJDb3B5cmlnaHQiOiIiLCJUaXRsZSI6IiJ9LCJJbWFnZVVybCI6bnVsbCwiRGVzY3JpcHRpb24iOiI8cD4gPHN0cm9uZz5GWFN0cmVldDwvc3Ryb25nPiBpcyB0aGUgbGVhZGluZyBpbmRlcGVuZGVudCBwb3J0YWwgZGVkaWNhdGVkIHRvIHRoZSBGb3JlaWduIEV4Y2hhbmdlIChGb3JleCkgbWFya2V0IGFuZCB3YXMgZm91bmRlZCBpbiAyMDAwLjwvcD4gXG5cbjxwPlRoZSB3ZWJzaXRlIG9mZmVycyBhIHdpZGUgcmFuZ2Ugb2YgdG9vbHMgYW5kIHJlc291cmNlczogMjQvNSBjdXJyZW5jeSBuZXdzLCByZWFsLXRpbWUgZWNvbm9taWMgY2FsZW5kYXIsIGFkdmFuY2VkIHJhdGVzIGFuZCBjaGFydHMsIGVkdWNhdGlvbmFsIHdlYmluYXJzLCBhbmFseXNpcyByZXBvcnRzLCBmb3JlY2FzdHMsIExlYXJuaW5nIENlbnRlciwgbmV3c2xldHRlcnMsIGluZHVzdHJ5IHNlcnZpY2VzLCBGWCBjdXN0b21pemFibGUgc3R1ZGllcy4uLjwvcD5cblxuPHA+QXMgaXRzIGRpc3RpbmN0aXZlIHRyYWRlbWFyaywgdGhlIHBvcnRhbCBoYXMgYWx3YXlzIGJlZW4gcHJvdWQgb2YgaXRzIHVueWllbGRpbmcgY29tcHJvbWlzZSB0byBwcm92aWRlIG5ldXRyYWwgYW5kIHVuYmlhc2VkIGluZm9ybWF0aW9uIGFuZCB0byBlbmFibGUgaXRzIHVzZXJzIHRvIHRha2UgYmV0dGVyIGFuZCBtb3JlIGNvbmZpZGVudCBkZWNpc2lvbnMuIEZYU3RyZWV0IGhhcyBtYW5hZ2VkIHRvIGdhaW4gdGhlIGNvbGxhYm9yYXRpb24gb2YgdGhlIGVudGlyZSBGb3JleCBpbmR1c3RyeSwgZnJvbSBpbmRpdmlkdWFsIHByb2Zlc3Npb25hbHMgYW5kIHNtYWxsIGNvbXBhbmllcyByaWdodCB1cCB0byBGb3JleCBCcm9rZXJzIGFuZCBJbnZlc3RtZW50IEJhbmtzLiBGWFN0cmVldCBjb3ZlcnMgdGhlIEZYIE1hcmtldCAyNC81OiBhbiBleHBlcnQgdGVhbSBvZiBqb3VybmFsaXN0cywgdHJhZGVycyBhbmQgZWNvbm9taXN0cyBwaWN0dXJlIHdoYXQgdGhlIG1hcmtldCBpcyBkb2luZyBhbmQgd2hhdCBpcyBoYXBwZW5pbmcgYXMgaXQgaGFwcGVucy48L3A+XG5cbjxwPkJlc2lkZXMgdGhlIG1haW4gd2Vic2l0ZSBpbiBFbmdsaXNoLCB0aGUgcG9ydGFsIGlzIGF2YWlsYWJsZSBpbiAxNiBvdGhlciBsYW5ndWFnZXMgKEVuZ2xpc2gsIEphcGFuZXNlLCBTaW1wbGlmaWVkIENoaW5lc2UsIFRyYWRpdGlvbmFsIENoaW5lc2UsIFNwYW5pc2gsIFJ1c3NpYW4sIEFyYWJpYywgVHVya2lzaCwgSW5kb25lc2lhbiwgUG9ydHVndWVzZSwgR2VybWFuLCBGcmVuY2gsIEl0YWxpYW4sIEh1bmdhcmlhbiBhbmQgVmlldG5hbWVzZSwgS29yZWFuIGFuZCBDYXRhbGFuKS48L3A+XG5cbjxwPkZYU3RyZWV0IHdhcyBzaG9ydCBsaXN0ZWQgYXMg4oCcQmVzdCBlLUZYIGluaXRpYXRpdmUgb2YgdGhlIHllYXIgKHZlbmRvcinigJ0gZm9yIHRoZSBGWCBXZWVrIGUtRlggQXdhcmRzIDIwMTAuPC9wPiIsIkRpc2NsYWltZXJIdG1sIjoiSW5mb3JtYXRpb24gb24gdGhlc2UgcGFnZXMgY29udGFpbnMgZm9yd2FyZC1sb29raW5nIHN0YXRlbWVudHMgdGhhdCBpbnZvbHZlIHJpc2tzIGFuZCB1bmNlcnRhaW50aWVzLiBNYXJrZXRzIGFuZCBpbnN0cnVtZW50cyBwcm9maWxlZCBvbiB0aGlzIHBhZ2UgYXJlIGZvciBpbmZvcm1hdGlvbmFsIHB1cnBvc2VzIG9ubHkgYW5kIHNob3VsZCBub3QgaW4gYW55IHdheSBjb21lIGFjcm9zcyBhcyBhIHJlY29tbWVuZGF0aW9uIHRvIGJ1eSBvciBzZWxsIGluIHRoZXNlIGFzc2V0cy4gWW91IHNob3VsZCBkbyB5b3VyIG93biB0aG9yb3VnaCByZXNlYXJjaCBiZWZvcmUgbWFraW5nIGFueSBpbnZlc3RtZW50IGRlY2lzaW9ucy4gRlhTdHJlZXQgZG9lcyBub3QgaW4gYW55IHdheSBndWFyYW50ZWUgdGhhdCB0aGlzIGluZm9ybWF0aW9uIGlzIGZyZWUgZnJvbSBtaXN0YWtlcywgZXJyb3JzLCBvciBtYXRlcmlhbCBtaXNzdGF0ZW1lbnRzLiBJdCBhbHNvIGRvZXMgbm90IGd1YXJhbnRlZSB0aGF0IHRoaXMgaW5mb3JtYXRpb24gaXMgb2YgYSB0aW1lbHkgbmF0dXJlLiBJbnZlc3RpbmcgaW4gT3BlbiBNYXJrZXRzIGludm9sdmVzIGEgZ3JlYXQgZGVhbCBvZiByaXNrLCBpbmNsdWRpbmcgdGhlIGxvc3Mgb2YgYWxsIG9yIGEgcG9ydGlvbiBvZiB5b3VyIGludmVzdG1lbnQsIGFzIHdlbGwgYXMgZW1vdGlvbmFsIGRpc3RyZXNzLiBBbGwgcmlza3MsIGxvc3NlcyBhbmQgY29zdHMgYXNzb2NpYXRlZCB3aXRoIGludmVzdGluZywgaW5jbHVkaW5nIHRvdGFsIGxvc3Mgb2YgcHJpbmNpcGFsLCBhcmUgeW91ciByZXNwb25zaWJpbGl0eS4gVGhlIHZpZXdzIGFuZCBvcGluaW9ucyBleHByZXNzZWQgaW4gdGhpcyBhcnRpY2xlIGFyZSB0aG9zZSBvZiB0aGUgYXV0aG9ycyBhbmQgZG8gbm90IG5lY2Vzc2FyaWx5IHJlZmxlY3QgdGhlIG9mZmljaWFsIHBvbGljeSBvciBwb3NpdGlvbiBvZiBGWFN0cmVldCBub3IgaXRzIGFkdmVydGlzZXJzLiIsIlNvY2lhbE1lZGlhcyI6bnVsbCwiVGVybXNBbmRDb25kaXRpb25zSHRtbCI6bnVsbCwiSWQiOiI4NTJiOTkzMi0xY2NiLTRhMjMtYmI0OS0zZTY3NzJkYjI4YmMiLCJVcmwiOiIvY29tcGFueS9meHN0cmVldCJ9LCJJbWFnZSI6eyJVcmxfWHRyYUxhcmdlIjoiaHR0cHM6Ly9lZGl0b3JpYWwuZnhzdHJlZXQuY29tL2ltYWdlcy9NYWNyb2Vjb25vbWljcy9Db3VudHJpZXMvT2NlYW5pYS9BdXN0cmFsaWEvYXVzdHJhbGlhbi1mbGFnLTE3MDQ1NjdfWHRyYUxhcmdlLmpwZyIsIlVybF9MYXJnZSI6Imh0dHBzOi8vZWRpdG9yaWFsLmZ4c3RyZWV0LmNvbS9pbWFnZXMvTWFjcm9lY29ub21pY3MvQ291bnRyaWVzL09jZWFuaWEvQXVzdHJhbGlhL2F1c3RyYWxpYW4tZmxhZy0xNzA0NTY3X0xhcmdlLmpwZyIsIlVybF9NZWRpdW0iOiJodHRwczovL2VkaXRvcmlhbC5meHN0cmVldC5jb20vaW1hZ2VzL01hY3JvZWNvbm9taWNzL0NvdW50cmllcy9PY2VhbmlhL0F1c3RyYWxpYS9hdXN0cmFsaWFuLWZsYWctMTcwNDU2N19NZWRpdW0uanBnIiwiVXJsX1NtYWxsIjoiaHR0cHM6Ly9lZGl0b3JpYWwuZnhzdHJlZXQuY29tL2ltYWdlcy9NYWNyb2Vjb25vbWljcy9Db3VudHJpZXMvT2NlYW5pYS9BdXN0cmFsaWEvYXVzdHJhbGlhbi1mbGFnLTE3MDQ1NjdfU21hbGwuanBnIiwiVXJsX1h0cmFTbWFsbCI6Imh0dHBzOi8vZWRpdG9yaWFsLmZ4c3RyZWV0LmNvbS9pbWFnZXMvTWFjcm9lY29ub21pY3MvQ291bnRyaWVzL09jZWFuaWEvQXVzdHJhbGlhL2F1c3RyYWxpYW4tZmxhZy0xNzA0NTY3X1h0cmFTbWFsbC5qcGciLCJVcmxfTmFubyI6Imh0dHBzOi8vZWRpdG9yaWFsLmZ4c3RyZWV0LmNvbS9pbWFnZXMvTWFjcm9lY29ub21pY3MvQ291bnRyaWVzL09jZWFuaWEvQXVzdHJhbGlhL2F1c3RyYWxpYW4tZmxhZy0xNzA0NTY3X05hbm8uanBnIiwiQ2FwdGlvbiI6IkF1c3RyYWxpYSBRdWVlbnNsYW5kIFN0YXRlIFByZW1pZXI6IEdyZWF0ZXIgQnJpc2JhbmUgdG8gZ28gaW50byB0aHJlZS1kYXkgY292aWQgbG9ja2Rvd24gLSBSZXV0ZXJzIiwiQ29weXJpZ2h0IjoiaVN0b2NrIiwiVGl0bGUiOiJBdXN0cmFsaWEgUXVlZW5zbGFuZCBTdGF0ZSBQcmVtaWVyOiBHcmVhdGVyIEJyaXNiYW5lIHRvIGdvIGludG8gdGhyZWUtZGF5IGNvdmlkIGxvY2tkb3duIC0gUmV1dGVycyJ9LCJTRU8iOnsiTWV0YVRpdGxlIjoiQXVzdHJhbGlhIFF1ZWVuc2xhbmQgU3RhdGUgUHJlbWllcjogR3JlYXRlciBCcmlzYmFuZSB0byBnbyBpbnRvIHRocmVlIGRheSBjb3ZpZCBsb2NrZG93biAtIFJldXRlcnMiLCJNZXRhRGVzY3JpcHRpb24iOiJFYXJseSBGcmlkYXkgbW9ybmluZyBpbiBBc2lhLCBRdWVlbnNsYW5k4oCZcyBTdGF0ZSBQcmVtaWVyIEFubmFzdGFjaWEgUGFsYXN6Y3p1ayBhbm5vdW5jZWQgYSB0aHJlZS1kYXkgYWN0aXZpdHkgcmVzdHJpY3Rpb24gaW4gR3JlYXRlciBCcmlzYmFuZSwgcGVyIFJldSIsIktleVdvcmRzIjoiQXVzdHJhbGlhLCBDb3JvbmF2aXJ1cywgTmV3c1RyYWRpbmcsIFJpc2tBcHBldGl0ZSwgQVVEVVNEIiwiRnVsbFVybCI6Imh0dHBzOi8vd3d3LmZ4c3RyZWV0LmNvbS9uZXdzL2F1c3RyYWxpYS1xdWVlbnNsYW5kLXN0YXRlLXByZW1pZXItZ3JlYXRlci1icmlzYmFuZS10by1nby1pbnRvLXRocmVlLWRheS1jb3ZpZC1sb2NrZG93bi1yZXV0ZXJzLTIwMjEwMTA3MjIyMiIsIkZvbGxvdyI6ZmFsc2UsIkFtcFVybCI6bnVsbCwiRGVmYXVsdEltYWdlVXJsIjoiaHR0cHM6Ly9lZGl0b3JpYWwuZnhzdHJlZXQuY29tL2ltYWdlcy9SZXNvdXJjZXMvZmluYW5jaWFsLWFuYWx5c2lzLTU1MzE0Njg4X1NtYWxsLmpwZyIsIlB1YmxpY2F0aW9uRGF0ZSI6IjIwMjEtMDEtMDdUMjI6MjI6NTFaIiwiTmV3c0FydGljbGVJbWFnZUxpc3QiOiJbXCJodHRwczovL2VkaXRvcmlhbC5meHN0cmVldC5jb20vaW1hZ2VzL01hY3JvZWNvbm9taWNzL0NvdW50cmllcy9PY2VhbmlhL0F1c3RyYWxpYS9hdXN0cmFsaWFuLWZsYWctMTcwNDU2N18xNng5LmpwZ1wiLFwiaHR0cHM6Ly9lZGl0b3JpYWwuZnhzdHJlZXQuY29tL2ltYWdlcy9NYWNyb2Vjb25vbWljcy9Db3VudHJpZXMvT2NlYW5pYS9BdXN0cmFsaWEvYXVzdHJhbGlhbi1mbGFnLTE3MDQ1NjdfNHgzLmpwZ1wiLFwiaHR0cHM6Ly9lZGl0b3JpYWwuZnhzdHJlZXQuY29tL2ltYWdlcy9NYWNyb2Vjb25vbWljcy9Db3VudHJpZXMvT2NlYW5pYS9BdXN0cmFsaWEvYXVzdHJhbGlhbi1mbGFnLTE3MDQ1NjdfMXgxLmpwZ1wiXSJ9LCJBdXRob3IiOnsiSWQiOiIwYzFlNzdjYS0zNjA3LTQwOGItOGQ4My0zYTc1ZmM3Y2Q1ZTAiLCJVcmwiOiIvYXV0aG9yL2FuaWwtcGFuY2hhbCIsIk5hbWUiOiJBbmlsIFBhbmNoYWwiLCJGb2xsb3dFbmFibGVkIjp0cnVlLCJJbWFnZVJlc3BvbnNlIjp7IlVybF9YdHJhTGFyZ2UiOiJodHRwczovL2VkaXRvcmlhbC5meHN0cmVldC5jb20vYXV0aG9ycy9BbmlsJTIwUGFuY2hhbF9YdHJhTGFyZ2UuanBlZyIsIlVybF9MYXJnZSI6Imh0dHBzOi8vZWRpdG9yaWFsLmZ4c3RyZWV0LmNvbS9hdXRob3JzL0FuaWwlMjBQYW5jaGFsX0xhcmdlLmpwZWciLCJVcmxfTWVkaXVtIjoiaHR0cHM6Ly9lZGl0b3JpYWwuZnhzdHJlZXQuY29tL2F1dGhvcnMvQW5pbCUyMFBhbmNoYWxfTWVkaXVtLmpwZWciLCJVcmxfU21hbGwiOiJodHRwczovL2VkaXRvcmlhbC5meHN0cmVldC5jb20vYXV0aG9ycy9BbmlsJTIwUGFuY2hhbF9TbWFsbC5qcGVnIiwiVXJsX1h0cmFTbWFsbCI6Imh0dHBzOi8vZWRpdG9yaWFsLmZ4c3RyZWV0LmNvbS9hdXRob3JzL0FuaWwlMjBQYW5jaGFsX1h0cmFTbWFsbC5qcGVnIiwiVXJsX05hbm8iOiJodHRwczovL2VkaXRvcmlhbC5meHN0cmVldC5jb20vYXV0aG9ycy9BbmlsJTIwUGFuY2hhbF9OYW5vLmpwZWciLCJDYXB0aW9uIjoiIiwiQ29weXJpZ2h0IjoiIiwiVGl0bGUiOiIifX0sIlZpZGVvIjpudWxsLCJTb2NpYWxNZWRpYUluRm9vdGVyIjp0cnVlfX0=');\r\
+        \n</script>\r\n </div> </div> <div class=\"fxs_flex_col fxs_flex_ad_col sticky\
+        \ fxs-fixto-fixed fxs_post_right_sticky_sidebar\"> <div class=\"fxs_RightStickyAlternativeNav\"\
+        > \r\n\n<div class=\"sponsor-test\" style=\"margin:0 auto;\">\n    <div id=\"\
+        9b2e046e-d959-089e-e8e0-97947eb304e7\" fxs_createevent=\"load\" fxs_objtype=\"\
+        AdvertiseNormal\" fxs_json=\"%7B%22ContainerId%22%3A%229b2e046e-d959-089e-e8e0-97947eb304e7%22%2C%22SlotName%22%3A%227138%2FFXS30%22%2C%22Labels%22%3A%5B%5D%2C%22MobileSize%22%3A%22%5B%5D%22%2C%22TabletSize%22%3A%22%5B%5D%22%2C%22DesktopSize%22%3A%22%5B235%2C%2036%5D%22%2C%22DesktopHdSize%22%3A%22%5B320%2C%2040%5D%22%7D\"\
+        >&nbsp;</div>\n</div>\n<div class=\"fxs_marginBase_top\"></div>\n<div class=\"\
+        fxs_content_panel\">\n  <h3 class=\"fxs_headline_small\">FXS Real-time Trading\
+        \ Signals!</h3>\n  <p style=\"text-align:left;\"><a data-gtmid=\"conversion-signals-content\"\
+        \ target=\"_blank\" href=\"https://www.fxstreet.com/signals?utm_medium=display&utm_source=content&utm_campaign=signals-galaxy&utm_term=FXS-22\"\
+        >Multiple daily strategies running 24/7 and FX expert guidance</a></p>\n</div>\n\
+        <h3 class=\"fxs_headline_highlight\"><a href=\"https://www.fxstreet.com/news\"\
+        >Latest Forex News <span class=\"fa fa-angle-double-right\"></span></a>\n\
+        </h3>\r\n\r\n\r\n\r\n<div id=\"responsivepositioner_ce4246f1-142f-44de-85f9-0e6d4d33411b\"\
+        ></div>\r\n\r\n<script>\r\n    FXStreet.Util.createObjectFromBase64String(\"\
+        ResponsivePositioner\", 'eyJSZXNwb25zaXZlR3JvdXBJZCI6Im5ld3MxLXJlc3BvbnNpdmUiLCJSZXNwb25zaXZlVGFyZ2V0U2l6ZSI6MTI4MCwiUmVzcG9uc2l2ZUFib3ZlT3JFcXVhbCI6dHJ1ZSwiQ29udGFpbmVySWQiOiJyZXNwb25zaXZlcG9zaXRpb25lcl9jZTQyNDZmMS0xNDJmLTQ0ZGUtODVmOS0wZTZkNGQzMzQxMWIiLCJKc05hbWUiOiJSZXNwb25zaXZlUG9zaXRpb25lciIsIkpzQ3JlYXRlRXZlbnQiOiJsb2FkIn0=',\
+        \ \"load\");\r\n</script>\r\n</div> <div class=\"fxs_RightStickySky\">\r\n\
+        \r\n    <div class=\"fxs_ad\">\r\n        <div id=\"advertisenormal_89f771e2-0e67-4f9c-b7a2-24574186ea83\"\
+        >\r\n                <script type=\"text/javascript\">\r\n               \
+        \ if (FXStreet.Global.AsyncDfp) {\r\n                    FXStreet.Util.createObjectFromBase64String(\"\
+        AdvertiseNormal\", 'eyJTbG90TmFtZSI6IjcxMzgvRlhTMzAvTmV3cyIsIkFkdmVydGlzZVR5cGUiOjAsIkxhYmVscyI6W10sIk1vYmlsZVNpemUiOiJbXSIsIlRhYmxldFNpemUiOiJbMTIwLCA2MDBdIiwiRGVza3RvcFNpemUiOiJbMTIwLCA2MDBdIiwiRGVza3RvcEhkU2l6ZSI6IlsxMjAsIDYwMF0iLCJQb3B1cFNob3dJbnRlcnZhbEluTWludXRlcyI6MCwiQ29va2llR3JvdXAiOm51bGwsIkdyb3VwS2V5IjpudWxsLCJKc05hbWUiOiJBZHZlcnRpc2VOb3JtYWwiLCJDb250YWluZXJJZCI6ImFkdmVydGlzZW5vcm1hbF84OWY3NzFlMi0wZTY3LTRmOWMtYjdhMi0yNDU3NDE4NmVhODMiLCJKc0NyZWF0ZUV2ZW50IjoibG9hZCJ9',\
+        \ \"load\");\r\n                } else {\r\n                    FXStreet.Util.createObjectFromBase64String(\"\
+        AdvertiseNormal\", 'eyJTbG90TmFtZSI6IjcxMzgvRlhTMzAvTmV3cyIsIkFkdmVydGlzZVR5cGUiOjAsIkxhYmVscyI6W10sIk1vYmlsZVNpemUiOiJbXSIsIlRhYmxldFNpemUiOiJbMTIwLCA2MDBdIiwiRGVza3RvcFNpemUiOiJbMTIwLCA2MDBdIiwiRGVza3RvcEhkU2l6ZSI6IlsxMjAsIDYwMF0iLCJQb3B1cFNob3dJbnRlcnZhbEluTWludXRlcyI6MCwiQ29va2llR3JvdXAiOm51bGwsIkdyb3VwS2V5IjpudWxsLCJKc05hbWUiOiJBZHZlcnRpc2VOb3JtYWwiLCJDb250YWluZXJJZCI6ImFkdmVydGlzZW5vcm1hbF84OWY3NzFlMi0wZTY3LTRmOWMtYjdhMi0yNDU3NDE4NmVhODMiLCJKc0NyZWF0ZUV2ZW50IjoibG9hZCJ9',\
+        \ \"googletagloaded\");\r\n                }\r\n                </script>\r\
+        \n        </div>\r\n    </div>\r\n</div> </div> </div> <div class=\"fxs_clearfix\"\
+        ></div> <hr class=\"fxs_divider_wide\"> <div class=\"fxs_post_bottom fxs_visible_l\"\
+        > \r\n\n<h3 class=\"fxs_subtitle\">Latest Forex News</h3>\r\n\r\n<div id=\"\
+        postlistmultifeed_fb8b38b1-4ee3-4bc1-8b7d-4ddefe1e8887\"></div>\r\n\r\n<script>\r\
+        \n    FXStreet.Util.createObjectFromBase64String(\"PostListMultiFeed\", 'eyJUYWtlIjoxMCwiSGlnaGxpZ2h0ZWRGaXJzdEl0ZW0iOmZhbHNlLCJXaXRoSW1hZ2UiOmZhbHNlLCJUYWdJZHMiOm51bGwsIkZlZWRJZHMiOiI2MmQ1MDRmMC1hZTMxLTRkM2QtYmJhNS0xMWZiNDc5ZDUxYWUsNjRlYWFkNDEtODUzZC00NDBkLTllNGEtNWUwZGQ1MzhmOWQwLGQ4MjcwYTljLTgxMTgtNGI2YS1hMzA5LTFjYzQ2OWNhMTNhMiIsIlNpemVDbGFzc05hbWUiOm51bGwsIlRhZ3NJZHMiOltdLCJGZWVkc0lkcyI6WyI2MmQ1MDRmMC1hZTMxLTRkM2QtYmJhNS0xMWZiNDc5ZDUxYWUiLCI2NGVhYWQ0MS04NTNkLTQ0MGQtOWU0YS01ZTBkZDUzOGY5ZDAiLCJkODI3MGE5Yy04MTE4LTRiNmEtYTMwOS0xY2M0NjljYTEzYTIiXSwiSHRtbCI6bnVsbCwiUG9zdEltYWdlcyI6dHJ1ZSwiQXV0aG9ySW1hZ2VzIjpmYWxzZSwiUmVuZGVyT25DbGllbnQiOnRydWUsIkpzTmFtZSI6IlBvc3RMaXN0TXVsdGlGZWVkIiwiUmVzcG9uc2l2ZUdyb3VwSWQiOiJuZXdzMS1yZXNwb25zaXZlIiwiUmVzcG9uc2l2ZVRhcmdldFNpemUiOjEyODAsIlJlc3BvbnNpdmVBYm92ZU9yRXF1YWwiOmZhbHNlLCJDb250YWluZXJJZCI6InBvc3RsaXN0bXVsdGlmZWVkX2ZiOGIzOGIxLTRlZTMtNGJjMS04YjdkLTRkZGVmZTFlODg4NyIsIkpzQ3JlYXRlRXZlbnQiOiJsb2FkIn0=',\
+        \ \"load\");\r\n</script>\r\n\n<div class=\"fxs_marginBase_top\"></div> </div>\
+        \ <div class=\"fxs_post_bottom \"> \r\n\n<h3 class=\"fxs_subtitle\">Editors\u2019\
+        \ Picks</h3>\r\n\r\n<div class=\"fxs_row\">\r\n    <div class=\"fxs_col fxs_col_33_xl\"\
+        >\r\n        <div id=\"BottomFirst_C009_Col00\" class=\"sf_colsIn\">\r\n\r\
+        \n\r\n    <div fxs_sf_widget fxs_name=\"editorialhighlight_medium_3df09965-4c55-4ac6-a946-7c6bb6078141\"\
+        \ class=\"fxs_col editorialhighlight editorialhighlight_medium\">\r\n    \
+        \    <h3 class=\"fxs_headline_small\">\r\n                <a href=\"https://www.fxstreet.com/currencies/eurusd\"\
+        \ title=\"EUR/USD falls below 1.22 amid rising US yields, risk-off mood\"\
+        \ data-element=\"title\" data-layout=\"editorialhighlight_medium\" data-name=\"\
+        Editorial EUR/USD\">EUR/USD falls below 1.22 amid rising US yields, risk-off\
+        \ mood</a>\r\n        </h3>\r\n        <div class=\"fxs_row\">\r\n       \
+        \     <div class=\"fxs_col fxs_col_33 fxs_anchor_image\">\r\n            \
+        \    <a href=\"https://www.fxstreet.com/currencies/eurusd\" title=\"EUR/USD\
+        \ falls below 1.22 amid rising US yields, risk-off mood\" data-element=\"\
+        image\" data-layout=\"editorialhighlight_medium\" data-name=\"Editorial EUR/USD\"\
+        >\r\n                    <img class=\"lazyload\" data-src=\"https://editorial.fxstreet.com/images/Markets/Currencies/Majors/EURUSD/money-13797882_Small.jpg\"\
+        \ alt=\"EUR/USD falls below 1.22 amid rising US yields, risk-off mood\">\r\
+        \n                </a>\r\n            </div>\r\n            <div class=\"\
+        fxs_col fxs_entryPlain_txt\"><p>EUR/USD has dropped below 1.22, the lowest\
+        \ in three weeks. Rising US yields and the Fed&#39;s reluctance to act are\
+        \ boosting the dollar. Covid developments are eyed.</p>\n</div>\r\n      \
+        \      <div class=\"fxs_marginBase_top\"></div>\r\n            <a href=\"\
+        https://www.fxstreet.com/news?q=&amp;hPP=17&amp;idx=FxsIndexPro&amp;p=0&amp;dFR%5BTags%5D%5B0%5D=EURUSD\"\
+        \ rel=\"nofollow\" class=\"fxs_more\" data-element=\"more\" data-layout=\"\
+        editorialhighlight_medium\" data-name=\"Editorial EUR/USD\">\r\n         \
+        \       <span>EUR/USD News</span>\r\n                <span class=\"fas fa-angle-double-right\"\
+        ></span>\r\n            </a>\r\n\r\n        </div>  \r\n        <div class=\"\
+        fxs_marginBase_top fxs_clearfix\"></div>\r\n        <script type=\"application/ld+json\"\
+        >\r\n                {\r\n                \"@context\": \"http://schema.org\"\
+        ,\r\n                \"@type\": \"SiteNavigationElement\",\r\n           \
+        \     \"name\": \"EUR/USD falls below 1.22 amid rising US yields, risk-off\
+        \ mood\",\r\n                \"headline\": \"EUR/USD falls below 1.22 amid\
+        \ rising US yields, risk-off mood\",\r\n                \"url\" : \"https://www.fxstreet.com/currencies/eurusd\"\
+        ,\r\n                \"author\": {\r\n                \"@type\":\"Person\"\
+        ,\r\n                \"name\":\"Dhwani Mehta\",\r\n                \"url\"\
+        : \"https://www.fxstreet.com/author/dhwani-mehta\"\r\n                }\r\n\
+        \                }\r\n            </script>    </div>\r\n\n<div class=\"fxs_marginBase_top\"\
+        ></div>\r\n        </div>\r\n    </div>\r\n    <div class=\"fxs_col fxs_col_33_xl\"\
+        >\r\n        <div id=\"BottomFirst_C009_Col01\" class=\"sf_colsIn\">\r\n\r\
+        \n\r\n    <div fxs_sf_widget fxs_name=\"editorialhighlight_medium_1caf9b1c-e3ff-4feb-9a5e-e84e23e98c4e\"\
+        \ class=\"fxs_col editorialhighlight editorialhighlight_medium\">\r\n    \
+        \    <h3 class=\"fxs_headline_small\">\r\n                <a href=\"https://www.fxstreet.com/currencies/gbpusd\"\
+        \ title=\"GBP/USD tumbles to 1.35 amid US dollar strength\" data-element=\"\
+        title\" data-layout=\"editorialhighlight_medium\" data-name=\"Editorial GBP/USD\"\
+        >GBP/USD tumbles to 1.35 amid US dollar strength</a>\r\n        </h3>\r\n\
+        \        <div class=\"fxs_row\">\r\n            <div class=\"fxs_col fxs_col_33\
+        \ fxs_anchor_image\">\r\n                <a href=\"https://www.fxstreet.com/currencies/gbpusd\"\
+        \ title=\"GBP/USD tumbles to 1.35 amid US dollar strength\" data-element=\"\
+        image\" data-layout=\"editorialhighlight_medium\" data-name=\"Editorial GBP/USD\"\
+        >\r\n                    <img class=\"lazyload\" data-src=\"https://editorial.fxstreet.com/images/Markets/Currencies/Majors/GBPUSD/iStock-1178148633_Small.jpg\"\
+        \ alt=\"GBP/USD tumbles to 1.35 amid US dollar strength\">\r\n           \
+        \     </a>\r\n            </div>\r\n            <div class=\"fxs_col fxs_entryPlain_txt\"\
+        ><p>GBP/USD has been extending its gains as the dollar gains ground alongside\
+        \ US Treasury yields. The UK may tighten its restrictions are hospitals are\
+        \ under immense pressure from the flood of coronavirus patients.</p>\n\n<p><strong></strong></p>\n\
+        </div>\r\n            <div class=\"fxs_marginBase_top\"></div>\r\n       \
+        \     <a href=\"https://www.fxstreet.com/news?q=&amp;hPP=17&amp;idx=FxsIndexPro&amp;p=0&amp;dFR%5BTags%5D%5B0%5D=GBPUSD\"\
+        \ rel=\"nofollow\" class=\"fxs_more\" data-element=\"more\" data-layout=\"\
+        editorialhighlight_medium\" data-name=\"Editorial GBP/USD\">\r\n         \
+        \       <span>GBP/USD News</span>\r\n                <span class=\"fas fa-angle-double-right\"\
+        ></span>\r\n            </a>\r\n\r\n        </div>  \r\n        <div class=\"\
+        fxs_marginBase_top fxs_clearfix\"></div>\r\n        <script type=\"application/ld+json\"\
+        >\r\n                {\r\n                \"@context\": \"http://schema.org\"\
+        ,\r\n                \"@type\": \"SiteNavigationElement\",\r\n           \
+        \     \"name\": \"GBP/USD tumbles to 1.35 amid US dollar strength\",\r\n \
+        \               \"headline\": \"GBP/USD tumbles to 1.35 amid US dollar strength\"\
+        ,\r\n                \"url\" : \"https://www.fxstreet.com/currencies/gbpusd\"\
+        ,\r\n                \"author\": {\r\n                \"@type\":\"Person\"\
+        ,\r\n                \"name\":\"Dhwani Mehta\",\r\n                \"url\"\
+        : \"https://www.fxstreet.com/author/dhwani-mehta\"\r\n                }\r\n\
+        \                }\r\n            </script>    </div>\r\n\n<div class=\"fxs_marginBase_top\"\
+        ></div>\r\n        </div>\r\n    </div>\r\n    <div class=\"fxs_col fxs_col_33_xl\"\
+        >\r\n        <div id=\"BottomFirst_C009_Col02\" class=\"sf_colsIn\">\r\n\r\
+        \n\r\n    <div fxs_sf_widget fxs_name=\"editorialhighlight_medium_43a312c5-6f52-458d-8e73-f49e8d3f1f86\"\
+        \ class=\"fxs_col editorialhighlight editorialhighlight_medium\">\r\n    \
+        \    <h3 class=\"fxs_headline_small\">\r\n                <a href=\"https://www.fxstreet.com/markets/commodities/metals/gold\"\
+        \ title=\"Gold bounces off multi-day low, flits with 10-month-old support\
+        \ line\" data-element=\"title\" data-layout=\"editorialhighlight_medium\"\
+        \ data-name=\"Editorial Gold\">Gold bounces off multi-day low, flits with\
+        \ 10-month-old support line</a>\r\n        </h3>\r\n        <div class=\"\
+        fxs_row\">\r\n            <div class=\"fxs_col fxs_col_33 fxs_anchor_image\"\
+        >\r\n                <a href=\"https://www.fxstreet.com/markets/commodities/metals/gold\"\
+        \ title=\"Gold bounces off multi-day low, flits with 10-month-old support\
+        \ line\" data-element=\"image\" data-layout=\"editorialhighlight_medium\"\
+        \ data-name=\"Editorial Gold\">\r\n                    <img class=\"lazyload\"\
+        \ data-src=\"https://editorial.fxstreet.com/images/Markets/Commodities/Metals/Gold/stack-of-golden-bars-in-the-bank-vault-60756080_Small.jpg\"\
+        \ alt=\"Gold bounces off multi-day low, flits with 10-month-old support line\"\
+        >\r\n                </a>\r\n            </div>\r\n            <div class=\"\
+        fxs_col fxs_entryPlain_txt\"><p>Gold remains on the back foot despite recent\
+        \ corrective pullback. Sustained break of 200-day SMA, most bearish MACD in\
+        \ six weeks favor gold sellers.The $1,800 threshold can offer intermediate\
+        \ support.&nbsp;</p>\n</div>\r\n            <div class=\"fxs_marginBase_top\"\
+        ></div>\r\n            <a href=\"https://www.fxstreet.com/markets/commodities/metals/gold\"\
+        \ rel=\"nofollow\" class=\"fxs_more\" data-element=\"more\" data-layout=\"\
+        editorialhighlight_medium\" data-name=\"Editorial Gold\">\r\n            \
+        \    <span>Gold news</span>\r\n                <span class=\"fas fa-angle-double-right\"\
+        ></span>\r\n            </a>\r\n\r\n        </div>  \r\n        <div class=\"\
+        fxs_marginBase_top fxs_clearfix\"></div>\r\n        <script type=\"application/ld+json\"\
+        >\r\n                {\r\n                \"@context\": \"http://schema.org\"\
+        ,\r\n                \"@type\": \"SiteNavigationElement\",\r\n           \
+        \     \"name\": \"Gold bounces off multi-day low, flits with 10-month-old\
+        \ support line\",\r\n                \"headline\": \"Gold bounces off multi-day\
+        \ low, flits with 10-month-old support line\",\r\n                \"url\"\
+        \ : \"https://www.fxstreet.com/markets/commodities/metals/gold\",\r\n    \
+        \            \"author\": {\r\n                \"@type\":\"Person\",\r\n  \
+        \              \"name\":\"Anil Panchal\",\r\n                \"url\": \"https://www.fxstreet.com/author/anil-panchal\"\
+        \r\n                }\r\n                }\r\n            </script>    </div>\r\
+        \n\n<div class=\"fxs_marginBase_top\"></div>\r\n        </div>\r\n    </div>\r\
+        \n</div> </div> <div class=\"fxs_clearfix\"></div> <div class=\"fxs_post_bottom\
+        \ \"> \r\n\r\n\r\n<div class=\"fxs_row\">\r\n    <div class=\"fxs_col fxs_col_33_xl\"\
+        >\r\n        <div id=\"BottomSecond_C010_Col00\" class=\"sf_colsIn\">\r\n\r\
+        \n\r\n    <div fxs_sf_widget fxs_name=\"editorialhighlight_medium_75d875fc-b15b-4063-847d-19d7dbacc1a8\"\
+        \ class=\"fxs_col editorialhighlight editorialhighlight_medium\">\r\n    \
+        \    <h3 class=\"fxs_headline_small\">\r\n                <a href=\"https://www.fxstreet.com/news/forex-today-dollar-extends-gains-amid-rising-yields-coronavirus-developments-eyed-202101110706\"\
+        \ title=\"Forex Today: Dollar extends gains amid rising yields, coronavirus\
+        \ developments eyed\" data-element=\"title\" data-layout=\"editorialhighlight_medium\"\
+        \ data-name=\"MISCELLANEOUS 4 HP\">Forex Today: Dollar extends gains amid\
+        \ rising yields, coronavirus developments eyed</a>\r\n        </h3>\r\n  \
+        \      <div class=\"fxs_row\">\r\n            <div class=\"fxs_col fxs_col_33\
+        \ fxs_anchor_image\">\r\n                <a href=\"https://www.fxstreet.com/news/forex-today-dollar-extends-gains-amid-rising-yields-coronavirus-developments-eyed-202101110706\"\
+        \ title=\"Forex Today: Dollar extends gains amid rising yields, coronavirus\
+        \ developments eyed\" data-element=\"image\" data-layout=\"editorialhighlight_medium\"\
+        \ data-name=\"MISCELLANEOUS 4 HP\">\r\n                    <img class=\"lazyload\"\
+        \ data-src=\"https://editorial.fxstreet.com/images/Macroeconomics/Events/Coronavirus/coronavirus7_Small.JPG\"\
+        \ alt=\"Forex Today: Dollar extends gains amid rising yields, coronavirus\
+        \ developments eyed\">\r\n                </a>\r\n            </div>\r\n \
+        \           <div class=\"fxs_col fxs_entryPlain_txt\"><p>The market mood has\
+        \ soured after US Nonfarm Payrolls showed the first job loss since last spring\
+        \ and the Federal Reserve is reluctant to act. The dollar is rising alongside\
+        \ Treasury yields.&nbsp;</p>\n</div>\r\n            <div class=\"fxs_marginBase_top\"\
+        ></div>\r\n            <a href=\"https://www.fxstreet.com/news/forex-today-dollar-extends-gains-amid-rising-yields-coronavirus-developments-eyed-202101110706\"\
+        \ rel=\"nofollow\" class=\"fxs_more\" data-element=\"more\" data-layout=\"\
+        editorialhighlight_medium\" data-name=\"MISCELLANEOUS 4 HP\">\r\n        \
+        \        <span>Read more</span>\r\n                <span class=\"fas fa-angle-double-right\"\
+        ></span>\r\n            </a>\r\n\r\n        </div>  \r\n        <div class=\"\
+        fxs_marginBase_top fxs_clearfix\"></div>\r\n        <script type=\"application/ld+json\"\
+        >\r\n                {\r\n                \"@context\": \"http://schema.org\"\
+        ,\r\n                \"@type\": \"SiteNavigationElement\",\r\n           \
+        \     \"name\": \"Forex Today: Dollar extends gains amid rising yields, coronavirus\
+        \ developments eyed\",\r\n                \"headline\": \"Forex Today: Dollar\
+        \ extends gains amid rising yields, coronavirus developments eyed\",\r\n \
+        \               \"url\" : \"https://www.fxstreet.com/news/forex-today-dollar-extends-gains-amid-rising-yields-coronavirus-developments-eyed-202101110706\"\
+        ,\r\n                \"author\": {\r\n                \"@type\":\"Person\"\
+        ,\r\n                \"name\":\"Yohay Elam\",\r\n                \"url\":\
+        \ \"https://www.fxstreet.com/author/yohay-elam\"\r\n                }\r\n\
+        \                }\r\n            </script>    </div>\r\n\r\n        </div>\r\
+        \n    </div>\r\n    <div class=\"fxs_col fxs_col_33_xl\">\r\n        <div\
+        \ id=\"BottomSecond_C010_Col01\" class=\"sf_colsIn\">\r\n    <div class=\"\
+        fxs_ad\">\r\n        <div id=\"advertisenormal_5620806f-2aaa-4b00-86b9-d00436c270a1\"\
+        >\r\n                <script type=\"text/javascript\">\r\n               \
+        \ if (FXStreet.Global.AsyncDfp) {\r\n                    FXStreet.Util.createObjectFromBase64String(\"\
+        AdvertiseNormal\", 'eyJTbG90TmFtZSI6IjcxMzgvRlhTMzAvTmV3cyIsIkFkdmVydGlzZVR5cGUiOjAsIkxhYmVscyI6W10sIk1vYmlsZVNpemUiOiJbMzIwLCA0ODBdIiwiVGFibGV0U2l6ZSI6IlsyNTAsIDI1MF0iLCJEZXNrdG9wU2l6ZSI6IlszMDAsIDI1MF0iLCJEZXNrdG9wSGRTaXplIjoiWzMwMCwgMjUwXSIsIlBvcHVwU2hvd0ludGVydmFsSW5NaW51dGVzIjowLCJDb29raWVHcm91cCI6bnVsbCwiR3JvdXBLZXkiOm51bGwsIkpzTmFtZSI6IkFkdmVydGlzZU5vcm1hbCIsIkNvbnRhaW5lcklkIjoiYWR2ZXJ0aXNlbm9ybWFsXzU2MjA4MDZmLTJhYWEtNGIwMC04NmI5LWQwMDQzNmMyNzBhMSIsIkpzQ3JlYXRlRXZlbnQiOiJsb2FkIn0=',\
+        \ \"load\");\r\n                } else {\r\n                    FXStreet.Util.createObjectFromBase64String(\"\
+        AdvertiseNormal\", 'eyJTbG90TmFtZSI6IjcxMzgvRlhTMzAvTmV3cyIsIkFkdmVydGlzZVR5cGUiOjAsIkxhYmVscyI6W10sIk1vYmlsZVNpemUiOiJbMzIwLCA0ODBdIiwiVGFibGV0U2l6ZSI6IlsyNTAsIDI1MF0iLCJEZXNrdG9wU2l6ZSI6IlszMDAsIDI1MF0iLCJEZXNrdG9wSGRTaXplIjoiWzMwMCwgMjUwXSIsIlBvcHVwU2hvd0ludGVydmFsSW5NaW51dGVzIjowLCJDb29raWVHcm91cCI6bnVsbCwiR3JvdXBLZXkiOm51bGwsIkpzTmFtZSI6IkFkdmVydGlzZU5vcm1hbCIsIkNvbnRhaW5lcklkIjoiYWR2ZXJ0aXNlbm9ybWFsXzU2MjA4MDZmLTJhYWEtNGIwMC04NmI5LWQwMDQzNmMyNzBhMSIsIkpzQ3JlYXRlRXZlbnQiOiJsb2FkIn0=',\
+        \ \"googletagloaded\");\r\n                }\r\n                </script>\r\
+        \n        </div>\r\n    </div>\r\n\n<div class=\"fxs_marginBase_top\"></div>\r\
+        \n        </div>\r\n    </div>\r\n    <div class=\"fxs_col fxs_col_33_xl\"\
+        >\r\n        <div id=\"BottomSecond_C010_Col02\" class=\"sf_colsIn\">\r\n\r\
+        \n\r\n    <div fxs_sf_widget fxs_name=\"editorialhighlight_medium_35035c6a-b26b-436a-bb38-bf59f513710d\"\
+        \ class=\"fxs_col editorialhighlight editorialhighlight_medium\">\r\n    \
+        \    <h3 class=\"fxs_headline_small\">\r\n                <a href=\"https://www.fxstreet.com/currencies/us-dollar-index\"\
+        \ title=\"US Dollar refreshes two-week high, bulls eye 200-bar SMA\" data-element=\"\
+        title\" data-layout=\"editorialhighlight_medium\" data-name=\"Editorial US\
+        \ Dollar Index\">US Dollar refreshes two-week high, bulls eye 200-bar SMA</a>\r\
+        \n        </h3>\r\n        <div class=\"fxs_row\">\r\n            <div class=\"\
+        fxs_col fxs_col_33 fxs_anchor_image\">\r\n                <a href=\"https://www.fxstreet.com/currencies/us-dollar-index\"\
+        \ title=\"US Dollar refreshes two-week high, bulls eye 200-bar SMA\" data-element=\"\
+        image\" data-layout=\"editorialhighlight_medium\" data-name=\"Editorial US\
+        \ Dollar Index\">\r\n                    <img class=\"lazyload\" data-src=\"\
+        https://editorial.fxstreet.com/images/Markets/Currencies/Majors/DollarIndex/dollars-roll-gm178824866-25196405_Small.jpg\"\
+        \ alt=\"US Dollar refreshes two-week high, bulls eye 200-bar SMA\">\r\n  \
+        \              </a>\r\n            </div>\r\n            <div class=\"fxs_col\
+        \ fxs_entryPlain_txt\"><p>DXY takes the bids near multi-day high after crossing\
+        \ immediate horizontal resistance. Bullish MACD, risk-off mood favor further\
+        \ upside to the key SMA. Sellers should wait for a downside break of short-term\
+        \ rising channel.</p>\n</div>\r\n            <div class=\"fxs_marginBase_top\"\
+        ></div>\r\n            <a href=\"https://www.fxstreet.com/news?q=&amp;hPP=17&amp;idx=FxsIndexPro&amp;p=0&amp;dFR%5BTags%5D%5B0%5D=usdollarindex\"\
+        \ rel=\"nofollow\" class=\"fxs_more\" data-element=\"more\" data-layout=\"\
+        editorialhighlight_medium\" data-name=\"Editorial US Dollar Index\">\r\n \
+        \               <span>US Dollar Index News</span>\r\n                <span\
+        \ class=\"fas fa-angle-double-right\"></span>\r\n            </a>\r\n\r\n\
+        \        </div>  \r\n        <div class=\"fxs_marginBase_top fxs_clearfix\"\
+        ></div>\r\n        <script type=\"application/ld+json\">\r\n             \
+        \   {\r\n                \"@context\": \"http://schema.org\",\r\n        \
+        \        \"@type\": \"SiteNavigationElement\",\r\n                \"name\"\
+        : \"US Dollar refreshes two-week high, bulls eye 200-bar SMA\",\r\n      \
+        \          \"headline\": \"US Dollar refreshes two-week high, bulls eye 200-bar\
+        \ SMA\",\r\n                \"url\" : \"https://www.fxstreet.com/currencies/us-dollar-index\"\
+        ,\r\n                \"author\": {\r\n                \"@type\":\"Person\"\
+        ,\r\n                \"name\":\"Omkar Godbole\",\r\n                \"url\"\
+        : \"https://www.fxstreet.com/author/omkar-godbole\"\r\n                }\r\
+        \n                }\r\n            </script>    </div>\r\n\r\n        </div>\r\
+        \n    </div>\r\n</div>\n<div class=\"fxs_marginBase_top\"></div> </div> <div\
+        \ class=\"fxs_post_bottom \"> \r\n\r\n\r\n<div class=\"fxs_row\">\r\n    <div\
+        \ class=\"fxs_col fxs_col_33_xl\">\r\n        <div id=\"BottomThird_C011_Col00\"\
+        \ class=\"sf_colsIn\">\n<h3 class=\"fxs_subtitle\">Forex MAJORS</h3>\r\n\r\
+        \n<div id=\"postlistmultifeed_ed97e8c3-9196-4ede-8894-cb5f3b7f9b7e\"></div>\r\
+        \n\r\n<script>\r\n    FXStreet.Util.createObjectFromBase64String(\"PostListMultiFeed\"\
+        , 'eyJUYWtlIjozLCJIaWdobGlnaHRlZEZpcnN0SXRlbSI6ZmFsc2UsIldpdGhJbWFnZSI6ZmFsc2UsIlRhZ0lkcyI6IjVmOTFhZDhmLTI2Y2QtNDY0My05MjMzLTQ2YmQxOGIwM2E3MCxhNjc0NGMxOS1mZTg4LTQ4OGYtODA0NC1mYjFmNTc0Y2E4MTgsNzFmMDg0YWEtODYzNi00NWE4LWIwOGMtYmE0MWEwOTFiZTg1LGE2MjIxY2VhLTFmMmYtNDZjNi1hNjIzLWJjMDg1NDEyYWM0Yyw5MTk1MzYyNy0zZTJjLTQzM2QtOTdlMy02YTUwZDgzYzNmOWQsMmI5MDVlODAtNzRlYi00MjI0LTgxNjMtZGUyNTU3YTczNzUwLDMxY2RmYmEwLTViMDAtNGU1YS1hODVjLWUwODNkZjI2ODlhMSIsIkZlZWRJZHMiOiI2MmQ1MDRmMC1hZTMxLTRkM2QtYmJhNS0xMWZiNDc5ZDUxYWUiLCJTaXplQ2xhc3NOYW1lIjpudWxsLCJUYWdzSWRzIjpbIjVmOTFhZDhmLTI2Y2QtNDY0My05MjMzLTQ2YmQxOGIwM2E3MCIsImE2NzQ0YzE5LWZlODgtNDg4Zi04MDQ0LWZiMWY1NzRjYTgxOCIsIjcxZjA4NGFhLTg2MzYtNDVhOC1iMDhjLWJhNDFhMDkxYmU4NSIsImE2MjIxY2VhLTFmMmYtNDZjNi1hNjIzLWJjMDg1NDEyYWM0YyIsIjkxOTUzNjI3LTNlMmMtNDMzZC05N2UzLTZhNTBkODNjM2Y5ZCIsIjJiOTA1ZTgwLTc0ZWItNDIyNC04MTYzLWRlMjU1N2E3Mzc1MCIsIjMxY2RmYmEwLTViMDAtNGU1YS1hODVjLWUwODNkZjI2ODlhMSJdLCJGZWVkc0lkcyI6WyI2MmQ1MDRmMC1hZTMxLTRkM2QtYmJhNS0xMWZiNDc5ZDUxYWUiXSwiSHRtbCI6bnVsbCwiUG9zdEltYWdlcyI6dHJ1ZSwiQXV0aG9ySW1hZ2VzIjpmYWxzZSwiUmVuZGVyT25DbGllbnQiOnRydWUsIkpzTmFtZSI6IlBvc3RMaXN0TXVsdGlGZWVkIiwiUmVzcG9uc2l2ZUdyb3VwSWQiOm51bGwsIlJlc3BvbnNpdmVUYXJnZXRTaXplIjowLCJSZXNwb25zaXZlQWJvdmVPckVxdWFsIjp0cnVlLCJDb250YWluZXJJZCI6InBvc3RsaXN0bXVsdGlmZWVkX2VkOTdlOGMzLTkxOTYtNGVkZS04ODk0LWNiNWYzYjdmOWI3ZSIsIkpzQ3JlYXRlRXZlbnQiOiJsb2FkIn0=',\
+        \ \"load\");\r\n</script>\r\n\r\n        </div>\r\n    </div>\r\n    <div\
+        \ class=\"fxs_col fxs_col_33_xl\">\r\n        <div id=\"BottomThird_C011_Col01\"\
+        \ class=\"sf_colsIn\">\n<h3 class=\"fxs_subtitle\">Cryptocurrencies</h3>\r\
+        \n\r\n<div id=\"postlistmultifeed_55cb4691-f546-464d-a326-722f770325ec\"></div>\r\
+        \n\r\n<script>\r\n    FXStreet.Util.createObjectFromBase64String(\"PostListMultiFeed\"\
+        , 'eyJUYWtlIjozLCJIaWdobGlnaHRlZEZpcnN0SXRlbSI6ZmFsc2UsIldpdGhJbWFnZSI6ZmFsc2UsIlRhZ0lkcyI6bnVsbCwiRmVlZElkcyI6IjI1NGI5ZDcwLTdjNGItNDgxYi1hOTRlLWFhYWMwYzYwZWQxNCIsIlNpemVDbGFzc05hbWUiOm51bGwsIlRhZ3NJZHMiOltdLCJGZWVkc0lkcyI6WyIyNTRiOWQ3MC03YzRiLTQ4MWItYTk0ZS1hYWFjMGM2MGVkMTQiXSwiSHRtbCI6bnVsbCwiUG9zdEltYWdlcyI6dHJ1ZSwiQXV0aG9ySW1hZ2VzIjpmYWxzZSwiUmVuZGVyT25DbGllbnQiOnRydWUsIkpzTmFtZSI6IlBvc3RMaXN0TXVsdGlGZWVkIiwiUmVzcG9uc2l2ZUdyb3VwSWQiOm51bGwsIlJlc3BvbnNpdmVUYXJnZXRTaXplIjowLCJSZXNwb25zaXZlQWJvdmVPckVxdWFsIjp0cnVlLCJDb250YWluZXJJZCI6InBvc3RsaXN0bXVsdGlmZWVkXzU1Y2I0NjkxLWY1NDYtNDY0ZC1hMzI2LTcyMmY3NzAzMjVlYyIsIkpzQ3JlYXRlRXZlbnQiOiJsb2FkIn0=',\
+        \ \"load\");\r\n</script>\r\n\r\n        </div>\r\n    </div>\r\n    <div\
+        \ class=\"fxs_col fxs_col_33_xl\">\r\n        <div id=\"BottomThird_C011_Col02\"\
+        \ class=\"sf_colsIn\">\n<h3 class=\"fxs_subtitle\">Signatures</h3>\r\n\r\n\
+        <div id=\"postlistmultifeed_dec4c138-5911-49a8-ae31-7ba1cf64e95b\"></div>\r\
+        \n\r\n<script>\r\n    FXStreet.Util.createObjectFromBase64String(\"PostListMultiFeed\"\
+        , 'eyJUYWtlIjozLCJIaWdobGlnaHRlZEZpcnN0SXRlbSI6ZmFsc2UsIldpdGhJbWFnZSI6ZmFsc2UsIlRhZ0lkcyI6bnVsbCwiRmVlZElkcyI6IjMwMTFmM2E2LWRmYmQtNDYwYS1hYjU0LThiZDU5MjFhMTBhMCw4MTUyMTQwNC0zZGZkLTQ1MTQtOTcwYi04Y2NhYzRkZDJiMjIiLCJTaXplQ2xhc3NOYW1lIjpudWxsLCJUYWdzSWRzIjpbXSwiRmVlZHNJZHMiOlsiMzAxMWYzYTYtZGZiZC00NjBhLWFiNTQtOGJkNTkyMWExMGEwIiwiODE1MjE0MDQtM2RmZC00NTE0LTk3MGItOGNjYWM0ZGQyYjIyIl0sIkh0bWwiOm51bGwsIlBvc3RJbWFnZXMiOmZhbHNlLCJBdXRob3JJbWFnZXMiOnRydWUsIlJlbmRlck9uQ2xpZW50Ijp0cnVlLCJKc05hbWUiOiJQb3N0TGlzdE11bHRpRmVlZCIsIlJlc3BvbnNpdmVHcm91cElkIjpudWxsLCJSZXNwb25zaXZlVGFyZ2V0U2l6ZSI6MCwiUmVzcG9uc2l2ZUFib3ZlT3JFcXVhbCI6dHJ1ZSwiQ29udGFpbmVySWQiOiJwb3N0bGlzdG11bHRpZmVlZF9kZWM0YzEzOC01OTExLTQ5YTgtYWUzMS03YmExY2Y2NGU5NWIiLCJKc0NyZWF0ZUV2ZW50IjoibG9hZCJ9',\
+        \ \"load\");\r\n</script>\r\n\r\n        </div>\r\n    </div>\r\n</div>\n\
+        <div class=\"fxs_marginBase_top\"></div> </div> <div class=\"fxs_clearfix\"\
+        ></div> <div class=\"fxs_extra-bottom\"> \r\n\n<hr class=\"fxs_divider_wide\"\
+        >\r\n\r\n\r\n\r\n<div id=\"brokersfooter_70fbccfc-7fb4-4c88-bb11-ef1bce2f269c\"\
+        ></div>\r\n\r\n<script>\r\n    FXStreet.Util.createObjectFromBase64String(\"\
+        BrokersFooter\", 'eyJCcm9rZXJzIjpbeyJJZCI6ImQ5YTNkODQ2LTgwOGYtNjdkYi04NGZiLWZmMDUwMGQ5MDM0NSIsIk5hbWUiOiJBeGkiLCJJbWFnZVVybCI6Imh0dHBzOi8vZWRpdG9yaWFsLmJsb2IuY29yZS53aW5kb3dzLm5ldC9icm9rZXJzL0F4aWxvZ29fR3Jhbi5wbmciLCJTcHJlYWRzSW1hZ2VVcmwiOiJodHRwczovL2VkaXRvcmlhbC5ibG9iLmNvcmUud2luZG93cy5uZXQvYnJva2Vycy9BeGlsb2dvX0dyYW5fU3ByZWFkcy5wbmciLCJGb290ZXJJbWFnZVVybCI6Imh0dHBzOi8vZWRpdG9yaWFsLmJsb2IuY29yZS53aW5kb3dzLm5ldC9icm9rZXJzL0F4aWxvZ29fR3Jhbl9Gb290ZXIucG5nIiwiU2l0ZWZpbml0eVVybCI6Ii9icm9rZXJzL2F4aSIsIldlYnNpdGVVcmwiOiJodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vY2xrLzQ1OTc3NzE4MzsyNjQ4NDcyOTQ7ZyIsIk15RnhCb29rU3ByZWFkU2VydmVyIjoxNzM2LCJOb3RBbGxvd2VkSW5TZXNzaW9uIjpmYWxzZSwiSXNQYXJ0bmVyIjpmYWxzZSwiSXNBY3RpdmUiOnRydWUsIkxpdmVBY2NvdW50VXJsIjoiaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL2Nsay80NTk3Nzc0OTI7MjY1MDYxOTQ0O2EiLCJEYXRhTGF5ZXJJZCI6InAzSWoiLCJGaXhlZFNwcmVhZHMiOm51bGx9LHsiSWQiOiI1ZWNkY2E0Ni04MDhmLTY3ZGItODRmYi1mZjA1MDBkOTAzNDUiLCJOYW1lIjoiRHVrYXNjb3B5IEJhbmsgU0EiLCJJbWFnZVVybCI6Imh0dHBzOi8vZWRpdG9yaWFsLmZ4c3RyZWV0LmNvbS9icm9rZXJzL0R1a2FzY29weV9HcmFuLnBuZyIsIlNwcmVhZHNJbWFnZVVybCI6Imh0dHBzOi8vZWRpdG9yaWFsLmZ4c3RyZWV0LmNvbS9icm9rZXJzL0R1a2FzY29weV9HcmFuX1NwcmVhZHMucG5nIiwiRm9vdGVySW1hZ2VVcmwiOiJodHRwczovL2VkaXRvcmlhbC5meHN0cmVldC5jb20vYnJva2Vycy9EdWthc2NvcHlfR3Jhbl9Gb290ZXIucG5nIiwiU2l0ZWZpbml0eVVybCI6Ii9icm9rZXJzL2R1a2FzY29weS1iYW5rLXNhIiwiV2Vic2l0ZVVybCI6Imh0dHBzOi8vd3d3LmR1a2FzY29weS5jb20vcmVmcHJvL2luLnBocD9yPW5lbWFjLWZ4c3RyZWV0LWxpc3RpbmcubGl2ZSZ1cmw9aHR0cHM6Ly93d3cuZHVrYXNjb3B5LmNvbS9sYW5kL3RyYWRpbmcvYmFuay8iLCJNeUZ4Qm9va1NwcmVhZFNlcnZlciI6NTA1MSwiTm90QWxsb3dlZEluU2Vzc2lvbiI6ZmFsc2UsIklzUGFydG5lciI6ZmFsc2UsIklzQWN0aXZlIjp0cnVlLCJMaXZlQWNjb3VudFVybCI6Imh0dHBzOi8vd3d3LmR1a2FzY29weS5jb20vcmVmcHJvL2luLnBocD9yPW5lbWFjLWZ4c3RyZWV0LWxpc3RpbmcubGl2ZSZ1cmw9aHR0cHM6Ly93d3cuZHVrYXNjb3B5LmNvbS9sYW5kL3RyYWRpbmcvYmFuay9mb3JleC8iLCJEYXRhTGF5ZXJJZCI6IjAwMDU4IiwiRml4ZWRTcHJlYWRzIjpudWxsfSx7IklkIjoiNGE0NWVlMjQtNjlmYS00MjllLWE3ZWYtZmNhMzBjMTI4N2ZiIiwiTmFtZSI6IlNxdWFyZWRGaW5hbmNpYWwiLCJJbWFnZVVybCI6Imh0dHBzOi8vZWRpdG9yaWFsLmJsb2IuY29yZS53aW5kb3dzLm5ldC9pbWFnZXMvT3RoZXJzL1NRRl9HcmFuLnBuZyIsIlNwcmVhZHNJbWFnZVVybCI6Imh0dHBzOi8vZWRpdG9yaWFsLmJsb2IuY29yZS53aW5kb3dzLm5ldC9pbWFnZXMvT3RoZXJzL1NRRl9HcmFuX1NwcmVhZHMucG5nIiwiRm9vdGVySW1hZ2VVcmwiOiJodHRwczovL2VkaXRvcmlhbC5ibG9iLmNvcmUud2luZG93cy5uZXQvaW1hZ2VzL090aGVycy9TUUZfR3Jhbl9Gb290ZXIucG5nIiwiU2l0ZWZpbml0eVVybCI6Ii9icm9rZXJzL1NxdWFyZWRGaW5hbmNpYWwiLCJXZWJzaXRlVXJsIjoiaHR0cHM6Ly9wb3J0YWwtZXUuc3F1YXJlZGZpbmFuY2lhbC5jb20vbWFya2V0aW5nL2xpbmtzL2dvLzIwMiIsIk15RnhCb29rU3ByZWFkU2VydmVyIjo5MjQ1LCJOb3RBbGxvd2VkSW5TZXNzaW9uIjpmYWxzZSwiSXNQYXJ0bmVyIjpmYWxzZSwiSXNBY3RpdmUiOnRydWUsIkxpdmVBY2NvdW50VXJsIjoiaHR0cHM6Ly9wb3J0YWwtZXUuc3F1YXJlZGZpbmFuY2lhbC5jb20vbWFya2V0aW5nL2xpbmtzL2dvLzIwMiIsIkRhdGFMYXllcklkIjoiTTlSNyIsIkZpeGVkU3ByZWFkcyI6bnVsbH0seyJJZCI6IjExZWUxZGUyLWY0ZjUtNGY4NC1iY2MxLWUwZmIzNmIzYmU4OCIsIk5hbWUiOiJUTUdNIiwiSW1hZ2VVcmwiOiJodHRwczovL2VkaXRvcmlhbC5ibG9iLmNvcmUud2luZG93cy5uZXQvYnJva2Vycy9UTUdNX0dyYW4ucG5nIiwiU3ByZWFkc0ltYWdlVXJsIjoiaHR0cHM6Ly9lZGl0b3JpYWwuYmxvYi5jb3JlLndpbmRvd3MubmV0L2Jyb2tlcnMvVE1HTV9HcmFuX1NwcmVhZHMucG5nIiwiRm9vdGVySW1hZ2VVcmwiOiJodHRwczovL2VkaXRvcmlhbC5ibG9iLmNvcmUud2luZG93cy5uZXQvYnJva2Vycy9UTUdNX0dyYW5fRm9vdGVyLnBuZyIsIlNpdGVmaW5pdHlVcmwiOiIvYnJva2Vycy9UTUdNIiwiV2Vic2l0ZVVybCI6Imh0dHBzOi8vd3d3LnRtZ20uY29tLz91dG1fc291cmNlPXRoZWJ1bGwmdXRtX21lZGl1bT1sb2dvJnV0bV9jYW1wYWlnbj1icmFuZCIsIk15RnhCb29rU3ByZWFkU2VydmVyIjo3MTgwLCJOb3RBbGxvd2VkSW5TZXNzaW9uIjpmYWxzZSwiSXNQYXJ0bmVyIjpmYWxzZSwiSXNBY3RpdmUiOnRydWUsIkxpdmVBY2NvdW50VXJsIjoiaHR0cHM6Ly9wb3J0YWwudG1nbS5jb20vcmVnaXN0ZXI/dXRtX3NvdXJjZT1meHN0cmVldCZ1dG1fbWVkaXVtPWZ4c3RyZWV0JTIwYnJva2VyJTIwbGlzdGluZyZ1dG1fY2FtcGFpZ249ZnhzdHJlZXQlMjBicm9rZXIlMjBsaXN0aW5nJnV0bV9jb250ZW50PWJyb2tlciUyMGxpc3RpbmciLCJEYXRhTGF5ZXJJZCI6IjNwZkYiLCJGaXhlZFNwcmVhZHMiOm51bGx9LHsiSWQiOiIyMDgxMDU0Ny04MDhmLTY3ZGItODRmYi1mZjA1MDBkOTAzNDUiLCJOYW1lIjoiRk9SRVguY29tIiwiSW1hZ2VVcmwiOiJodHRwczovL2VkaXRvcmlhbC5meHN0cmVldC5jb20vYnJva2Vycy9HYWluX2dyYW4ucG5nIiwiU3ByZWFkc0ltYWdlVXJsIjoiaHR0cHM6Ly9lZGl0b3JpYWwuZnhzdHJlZXQuY29tL2Jyb2tlcnMvR2Fpbl9ncmFuX1NwcmVhZHMucG5nIiwiRm9vdGVySW1hZ2VVcmwiOiJodHRwczovL2VkaXRvcmlhbC5meHN0cmVldC5jb20vYnJva2Vycy9HYWluX2dyYW5fRm9vdGVyLnBuZyIsIlNpdGVmaW5pdHlVcmwiOiIvYnJva2Vycy9mb3JleC5jb20iLCJXZWJzaXRlVXJsIjoiaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL041ODc3LjE1NTk3OEZYU1RSRUVULkNPTTUvQjIyNzMzMTQ4LjI2OTQzMDc2NTtkY190cmtfYWlkPTQ2Mzk4Nzk1ODtkY190cmtfY2lkPTEyOTg1NjU3MztjaWQ9MDAwMjQ2MjYyMTtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPSIsIk15RnhCb29rU3ByZWFkU2VydmVyIjoxMTgwLCJOb3RBbGxvd2VkSW5TZXNzaW9uIjpmYWxzZSwiSXNQYXJ0bmVyIjpmYWxzZSwiSXNBY3RpdmUiOnRydWUsIkxpdmVBY2NvdW50VXJsIjoiaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL041ODc3LjE1NTk3OEZYU1RSRUVULkNPTTUvQjIyNzMzMTQ4LjI2OTExNjg2ODtkY190cmtfYWlkPTQ2NDA1Mjg4MDtkY190cmtfY2lkPTEyOTg1NjU3MztjaWQ9MDAwMjQ2MjYyMTtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPSIsIkRhdGFMYXllcklkIjoiMDAyMTkiLCJGaXhlZFNwcmVhZHMiOm51bGx9XSwiVGFrZSI6NSwiVHlwZSI6MCwiVHJhbnNsYXRpb25zIjp7IkJyb2tlcnNJbkxvY2F0aW9uIjoiUGFydG5lciBicm9rZXJzIGluIHlvdXIgbG9jYXRpb24iLCJPcGVuTGl2ZUFjY291bnQiOiJPcGVuIExpdmUgQWNjb3VudCJ9LCJDb250YWluZXJJZCI6ImJyb2tlcnNmb290ZXJfNzBmYmNjZmMtN2ZiNC00Yzg4LWJiMTEtZWYxYmNlMmYyNjljIiwiSnNOYW1lIjoiQnJva2Vyc0Zvb3RlciIsIkpzQ3JlYXRlRXZlbnQiOiJsb2FkIn0=',\
+        \ \"load\");\r\n</script> </div> </div> </main> </div> </div> </div> <div\
+        \ class=\"fxs_stickyAd-mobile fxs_txt_center\"> <div class=\"fxs_stickyAd-mobile-btn\"\
+        ><i class=\"fas fa-times\" aria-hidden=\"true\"></i></div> <div id=\"fxs_stickyFooterAd\"\
+        ></div> </div> <!-- Site footer --> <footer class=\"fxs_footer fxs_modal_footer\"\
+        > <div class=\"fxs_copy_disclaimer\"> <div class=\"fxs_terms_nav\"> <small\
+        \ class=\"fxs_copyRight\">&#169;2020 &quot;FXStreet&quot; All Rights Reserved</small>\
+        \ <ul class=\"fxs_plainInlined_list fxs_txt_size_nano\"> <li class=\"fxs_btn_group\"\
+        > <button type=\"button\" class=\"fxs_btn fxs_btn_phantom fxs_btn_dd\" data-toggle=\"\
+        dropdown\" data-gtmid=\"lateralnavigation-footer-aboutdropdown\">About Us\
+        \ <i class=\"fas fa-caret-up\"></i></button> <ul class=\"fxs_dropdownList\
+        \ dropup\"> <li> <a href=\"https://www.fxstreet.com/info/about-us\" data-gtmid=\"\
+        lateralnavigation-footer-aboutus\"> <span>About Us</span> </a> </li> <li>\
+        \ <a href=\"https://www.fxstreet.com/info/editorial-guidelines\" data-gtmid=\"\
+        lateralnavigation-footer-edguidelines\"> <span>Editorial Guidelines</span>\
+        \ </a> </li> <li> <a href=\"https://www.fxstreet.com/info/ethical-code\" data-gtmid=\"\
+        lateralnavigation-footer-ethcode\"> <span>Ethical Code</span> </a> </li> <li>\
+        \ <a href=\"https://www.fxstreet.com/info/corporate-identity\" data-gtmid=\"\
+        lateralnavigation-footer-https://www.fxstreet.com/info/corporate-identity\"\
+        > <span>Corporate Identity</span> </a> </li> </ul> </li> <li><a href=\"http://about.fxstreet.com/blog/\"\
+        \ class=\"fxs_mutedLink\" title=\"FXStreet Blog\" data-gtmid=\"lateralnavigation-footer-blog\"\
+        >FXStreet Blog</a></li> <li><a href=\"/info/sitemap/\" class=\"fxs_mutedLink\"\
+        \ title=\"Site Map\" data-gtmid=\"lateralnavigation-footer-sitemap\">Site\
+        \ Map</a></li> <li><a href=\"/info/terms-conditions\" class=\"fxs_mutedLink\"\
+        \ title=\"Terms and conditions\" data-gtmid=\"lateralnavigation-footer-termscond\"\
+        >Terms and conditions</a></li> <li><a href=\"/info/contact-us/\" class=\"\
+        fxs_mutedLink\" title=\"Contact us\" data-gtmid=\"lateralnavigation-footer-contactus\"\
+        >Contact us</a></li> <li><a href=\"https://www.fxstreet.com/info/advertising-and-sponsorship/\"\
+        \ class=\"fxs_mutedLink\" title=\"Advertising\" data-gtmid=\"lateralnavigation-footer-advertising\"\
+        >Advertising</a></li> <li><a href=\"/info/jobs/\" class=\"fxs_mutedLink\"\
+        \ title=\"Jobs\" data-gtmid=\"lateralnavigation-footer-jobs\">Jobs</a></li>\
+        \ <li class=\"fxs_btn_group\"> <button type=\"button\" class=\"fxs_btn fxs_btn_phantom\
+        \ fxs_btn_dd\" data-toggle=\"dropdown\" data-gtmid=\"lateralnavigation-footer-languagesdropdown\"\
+        >Languages <i class=\"fas fa-caret-up\"></i></button> <ul class=\"fxs_dropdownList\
+        \ dropup\"> <li class=\"fxs_dropdownHeader\">Edition</li> <li><a href=\"https://www.fxstreet.es\"\
+        \ data-gtmid=\"lateralnavigation-footer-languages-es-es\"><b class=\"tags-flag-custom\
+        \ es-es\"></b> Espa&#241;ol </a></li> <li><a href=\"https://www.fxstreet.it\"\
+        \ data-gtmid=\"lateralnavigation-footer-languages-it-it\"><b class=\"tags-flag-custom\
+        \ it-it\"></b> Italiano </a></li> <li><a href=\"https://www.fxstreet-id.com\"\
+        \ data-gtmid=\"lateralnavigation-footer-languages-id-id\"><b class=\"tags-flag-custom\
+        \ id-id\"></b> Bahasa Indonesia </a></li> <li><a href=\"https://pt.fxstreet.com\"\
+        \ data-gtmid=\"lateralnavigation-footer-languages-pt-br\"><b class=\"tags-flag-custom\
+        \ pt-br\"></b> Portugu&#234;s </a></li> <li><a href=\"https://www.fxstreet.jp\"\
+        \ data-gtmid=\"lateralnavigation-footer-languages-ja-jp\"><b class=\"tags-flag-custom\
+        \ ja-jp\"></b> \u65E5\u672C\u8A9E </a></li> <li><a href=\"https://www.fxstreet.hk\"\
+        \ data-gtmid=\"lateralnavigation-footer-languages-zh-cn\"><b class=\"tags-flag-custom\
+        \ zh-cn\"></b> \u7E41\u9AD4\u4E2D\u6587 </a></li> <li><a href=\"http://www.fxstreet.cn\"\
+        \ data-gtmid=\"lateralnavigation-footer-languages-zh-cht\"><b class=\"tags-flag-custom\
+        \ zh-cht\"></b> \u7B80\u4F53\u4E2D\u6587 </a></li> <li><a href=\"https://www.fxstreet.ru.com\"\
+        \ data-gtmid=\"lateralnavigation-footer-languages-ru-ru\"><b class=\"tags-flag-custom\
+        \ ru-ru\"></b> \u0420\u0443\u0441\u0441\u043A\u0438\u0439 </a></li> <li><a\
+        \ href=\"https://www.fxstreet.fr\" data-gtmid=\"lateralnavigation-footer-languages-fr-fr\"\
+        ><b class=\"tags-flag-custom fr-fr\"></b> Fran&#231;ais </a></li> <li><a href=\"\
+        https://ar.fxstreet.com\" data-gtmid=\"lateralnavigation-footer-languages-ar-sa\"\
+        ><b class=\"tags-flag-custom ar-sa\"></b> \u0627\u0644\u0639\u0631\u0628\u064A\
+        \u0629 </a></li> <li><a href=\"https://www.fxstreet.de.com\" data-gtmid=\"\
+        lateralnavigation-footer-languages-de-de\"><b class=\"tags-flag-custom de-de\"\
+        ></b> Deutsch </a></li> <li><a href=\"https://www.fxstreet.hu\" data-gtmid=\"\
+        lateralnavigation-footer-languages-hu-hu\"><b class=\"tags-flag-custom hu-hu\"\
+        ></b> Magyar </a></li> <li><a href=\"https://www.fxstreet.com.tr\" data-gtmid=\"\
+        lateralnavigation-footer-languages-tr-tr\"><b class=\"tags-flag-custom tr-tr\"\
+        ></b> T&#252;rk&#231;e </a></li> <li><a href=\"https://www.fxstreet.com.vn\"\
+        \ data-gtmid=\"lateralnavigation-footer-languages-vi-vn\"><b class=\"tags-flag-custom\
+        \ vi-vn\"></b> Ti\u1EBFng Vi\u1EC7t </a></li> </ul> </li> </ul> </div> <button\
+        \ type=\"button\" class=\"fxs_btn fxs_btn_phantom fxs_btn_dd fxs_fRight\"\r\
+        \n                data-toggle=\"dropdown\">\r\n            Disclaimer <i class=\"\
+        fas fa-caret-up\"></i> </button> <div class=\"fxs_disclaimer_block\"> <p>Note:\
+        \ All information on this page is subject to change. The use of this website\
+        \ constitutes acceptance of our user agreement. Please read our privacy policy\
+        \ and legal disclaimer.</p><p>Trading foreign exchange on margin carries a\
+        \ high level of risk and may not be suitable for all investors. The high degree\
+        \ of leverage can work against you as well as for you. Before deciding to\
+        \ trade foreign exchange you should carefully consider your investment objectives,\
+        \ level of experience and risk appetite. The possibility exists that you could\
+        \ sustain a loss of some or all of your initial investment and therefore you\
+        \ should not invest money that you cannot afford to lose. You should be aware\
+        \ of all the risks associated with foreign exchange trading and seek advice\
+        \ from an independent financial advisor if you have any doubts.</p><p>Opinions\
+        \ expressed at FXStreet are those of the individual authors and do not necessarily\
+        \ represent the opinion of FXStreet or its management. FXStreet has not verified\
+        \ the accuracy or basis-in-fact of any claim or statement made by any independent\
+        \ author: errors and Omissions may occur.Any opinions, news, research, analyses,\
+        \ prices or other information contained on this website, by FXStreet, its\
+        \ employees, partners or contributors, is provided as general market commentary\
+        \ and does not constitute investment advice. FXStreet will not accept liability\
+        \ for any loss or damage, including without limitation to, any loss of profit,\
+        \ which may arise directly or indirectly from use of or reliance on such information.</p>\
+        \ </div> </div> </footer> <script>\r\n    FXStreet.Resource.Translations['GenericResources']\
+        \ = {\"By\":\"By\",\"GenericResourcesDescription\":\"Fxs IT Generic\",\"GenericResourcesTitle\"\
+        :\"Fxs IT Generic\",\"Language\":\"en\",\"Months\":\"Jan,Feb,Mar,Apr,May,Jun,Jul,Ago,Sep,Oct,Nov,Dec\"\
+        ,\"SponsoredContent\":\"Sponsored content\",\"TimeZoneUTC\":\"GMT\"};\r\n\
+        </script> <!-- /Site footer --> </div> <!-- /The wrapper --> <script>\r\n\
+        \    FXStreet.Util.createObjectFromBase64String(\"CookiesAlert\", 'eyJUaXRsZSI6IldFTENPTUUiLCJNZXNzYWdlIjoiV2UgdXNlIGNvb2tpZXMgdG8gZW5oYW5jZSB5b3VyIGV4cGVyaWVuY2UgbGlrZSByZW1lbWJlcmluZyB5b3VyIFRpbWUgWm9uZS4gV2UgaGF2ZSB1cGRhdGVkIG91ciBwcml2YWN5IHBvbGljeSBwbGVhc2UgY2hlY2sgb3VyICA8YSBocmVmPVwiL2luZm8vdGVybXMtY29uZGl0aW9ucyNjb29raWVzXCI+VGVybXMmQ29uZGl0aW9uczwvYT4iLCJCdXR0b25UZXh0IjoiQWNjZXB0IGFuZCBDb250aW51ZSIsIklzTW9kYWwiOmZhbHNlLCJDb250YWluZXJJZCI6ImNvb2tpZXNhbGVydF8xNjcyNjZkZi04MmYxLTRjZmItOGEwYy01ZWI0N2M2ZTM1NjkiLCJKc05hbWUiOiJDb29raWVzQWxlcnQiLCJKc0NyZWF0ZUV2ZW50IjoibG9hZCJ9',\
+        \ \"load\");\r\n    </script> <div id=\"cookiesalert_167266df-82f1-4cfb-8a0c-5eb47c6e3569\"\
+        \ role=\"alert\"> </div> <script type=\"text/javascript\">\r\n    var fxs_widget_config\
+        \ = {\r\n        Host: \"https://staticcontent.fxstreet.com/\",\r\n      \
+        \  ServerName: \"https://staticcontent.fxstreet.com/\",\r\n        StaticContentQueryStringRefresh:\
+        \ \"?t=\" + \"202012310830\",\r\n        Culture: \"en\",\r\n        AuthorizationUrl:\
+        \ \"https://authorization.fxstreet.com/token\",\r\n        JsCores: [],\r\n\
+        \        CssCores: [],\r\n        FontAwesome: [],\r\n        FontGoogle:\
+        \ [],\r\n        Resources: {\r\n            scripts: {\r\n              \
+        \  \"Vue.js\": \"//cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.min.js\",\r\n\
+        \                \"axios\": \"//unpkg.com/axios@0.18.0/dist/axios.min.js\"\
+        ,\r\n                \"promise\": \"//cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js\"\
+        \r\n            },\r\n            styles: {\r\n            }\r\n        }\r\
+        \n    };\r\n</script> <script>\r\n\r\n            FXStreet.Util.createObjectFromBase64String(\"\
+        TemplateBase\", 'eyJWZXJ0aWNhbE1lbnVJZCI6ImZ4c19pdF92ZXJ0aWNhbE1lbnUiLCJIb3Jpem9udGFsTWVudUlkIjoiZnhzX2l0X2hvcml6b250YWxNZW51In0=',\
+        \ \"ready\");\r\n        </script> </body> </html>"
+    headers:
+      CF-Cache-Status:
+      - DYNAMIC
+      CF-RAY:
+      - 60fcfaebdcaa3a56-DME
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Mon, 11 Jan 2021 07:38:47 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - '-1'
+      Pragma:
+      - no-cache
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d1bd398e45685093a57d6cd56f1e088da1610350727; expires=Wed, 10-Feb-21
+        07:38:47 GMT; path=/; domain=.fxstreet.com; HttpOnly; SameSite=Lax
+      - ABTestingTestNumber=newsdef1.1; expires=Tue, 11-Jan-2022 07:38:47 GMT; path=/
+      - ASP.NET_SessionId=zlhfjo1yst4vqkjyd24zlhon; path=/; HttpOnly; SameSite=Lax
+      - UserSessionId=8f3bd778-894a-4daf-ab74-79b0d672117f; expires=Tue, 11-Jan-2022
+        07:38:47 GMT; path=/
+      - ABTestingTestNumber=newsdef1.1; expires=Tue, 11-Jan-2022 07:38:47 GMT; path=/
+      - ASP.NET_SessionId=zlhfjo1yst4vqkjyd24zlhon; path=/; HttpOnly; SameSite=Lax
+      - UserSessionId=8f3bd778-894a-4daf-ab74-79b0d672117f; expires=Tue, 11-Jan-2022
+        07:38:47 GMT; path=/
+      - ARRAffinity=519d0f33e8ca84402abccb6f29ac6c309c2c7ff7da03b262009aadabb8e93a20;Path=/;HttpOnly;Secure;Domain=www.fxstreet.com
+      - ARRAffinitySameSite=519d0f33e8ca84402abccb6f29ac6c309c2c7ff7da03b262009aadabb8e93a20;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.fxstreet.com
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-AspNet-Version:
+      - 4.0.30319
+      X-Frame-Options:
+      - sameorigin
+      X-Powered-By:
+      - ASP.NET
+      cf-request-id:
+      - 0791fb276300003a562f940000000001
+      content-length:
+      - '151493'
+    status:
+      code: 200
+      message: OK
+version: 1

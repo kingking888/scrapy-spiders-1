@@ -1,0 +1,1003 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - insideevs.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/
+  response:
+    body:
+      string: "<!DOCTYPE html><html prefix=\"og: http://ogp.me/ns#\" lang=\"en\">\n<head>\n
+        \   <meta charset=\"utf-8\">\n    <title>Fisker Reveals Long-Range Electric
+        Crossover: Claims Sub-$40,000 Price</title>\n\n    <link rel=\"icon\" type=\"image/png\"
+        sizes=\"32x32\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-32.png\">\n
+        \   <link rel=\"icon\" type=\"image/png\" sizes=\"96x96\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-96.png\">\n
+        \   <link rel=\"icon\" type=\"image/png\" sizes=\"128x128\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-128.png\">\n
+        \   <link rel=\"icon\" type=\"image/png\" sizes=\"195x195\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-195.png\">\n
+        \   <link rel=\"icon\" type=\"image/png\" sizes=\"196x196\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-196.png\">\n
+        \   <link rel=\"icon\" type=\"image/png\" sizes=\"228x228\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-228.png\">\n
+        \   <link rel=\"apple-touch-icon-precomposed\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-57.png\">\n
+        \   <link rel=\"apple-touch-icon\" sizes=\"114x114\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-114.png\">\n
+        \   <link rel=\"apple-touch-icon\" sizes=\"72x72\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-72.png\">\n
+        \   <link rel=\"apple-touch-icon\" sizes=\"144x144\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-144.png\">\n
+        \   <link rel=\"apple-touch-icon\" sizes=\"60x60\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-60.png\">\n
+        \   <link rel=\"apple-touch-icon\" sizes=\"120x120\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-120.png\">\n
+        \   <link rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-76.png\">\n
+        \   <link rel=\"apple-touch-icon\" sizes=\"152x152\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-152.png\">\n
+        \   <link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"https://cdn.motor1.com/images/static/insideevs/favicon-180.png\">\n\n
+        \   <meta name=\"msapplication-square128x128logo\" content=\"https://cdn.motor1.com/images/static/insideevs/smalltile.png\"/>\n
+        \   <meta name=\"msapplication-square270x270logo\" content=\"https://cdn.motor1.com/images/static/insideevs/mediumtile.png\"/>\n
+        \   <meta name=\"msapplication-square580x580logo\" content=\"https://cdn.motor1.com/images/static/insideevs/largetile.png\"/>\n\n
+        \   <link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"/favicon.ico\"/>\n
+        \           <link href=\"https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700\"
+        rel=\"stylesheet\">\n    \n    \n\n        <script>\n        window.polymerLocale
+        = 'en-US';\n        window.polymerLocalePath = 'https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/polymer2/locales1605794794/en-US.json';\n
+        \       var jsVars = {\"services\":{\"brealtime\":{\"load\":0,\"id\":\"12851701\"}},\"ads\":{\"dfp\":{\"id\":\"6122441\"}},\"ui\":{\"auto_infinite_scroll\":true}};
+        \   </script>\n\n    \n    <link title=\"Latest news\" type=\"application/rss+xml\"
+        rel=\"alternate\" href=\"/rss/news/all/\"/>\n    <link title=\"Latest videos\"
+        type=\"application/rss+xml\" rel=\"alternate\" href=\"/rss/videos/all/\"/>\n
+        \       <meta name=\"description\" content=\"Last week we alerted you that
+        Henrik Fisker was set to reveal an upcoming long-range electric crossover.
+        Well, here it is. Under $40,000 with a big battery. Seems unbelievable.\">\n<meta
+        property=\"og:title\" content=\"Fisker Reveals Long-Range Electric Crossover:
+        Claims Sub-$40,000 Price\">\n<meta property=\"og:type\" content=\"article\">\n<meta
+        property=\"og:url\" content=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\">\n<meta
+        property=\"og:image\" content=\"https://cdn.motor1.com/images/mgl/pNVwo/s1/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.jpg\">\n<meta
+        property=\"og:image:url\" content=\"https://cdn.motor1.com/images/mgl/pNVwo/s1/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.jpg\">\n<meta
+        property=\"og:image:secure_url\" content=\"https://cdn.motor1.com/images/mgl/pNVwo/s1/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.jpg\">\n<meta
+        property=\"og:image:type\" content=\"image/jpeg\">\n<meta property=\"og:image:width\"
+        content=\"1920\">\n<meta property=\"og:image:height\" content=\"1080\">\n<meta
+        property=\"og:image:alt\" content=\"Fisker Reveals Long-Range Electric Crossover:
+        Claims Sub-$40,000 Price:  Fisker Karma, \">\n<meta property=\"og:description\"
+        content=\"Last week we alerted you that Henrik Fisker was set to reveal an
+        upcoming long-range electric crossover. Well, here it is. Under $40,000 with
+        a big battery. Seems unbelievable.\">\n<meta property=\"og:site_name\" content=\"InsideEVs\">\n<meta
+        property=\"fb:admins\" content=\"100001157785488\">\n<meta property=\"fb:app_id\"
+        content=\"984245018262500\">\n<meta property=\"fb:pages\" content=\"357684877628739\">\n<meta
+        property=\"twitter:card\" content=\"summary_large_image\">\n<meta property=\"twitter:site\"
+        content=\"InsideEVs\">\n<meta property=\"twitter:title\" content=\"Fisker
+        Reveals Long-Range Electric Crossover: Claims Sub-$40,000 Price\">\n<meta
+        property=\"twitter:description\" content=\"Last week we alerted you that Henrik
+        Fisker was set to reveal an upcoming long-range electric crossover. Well,
+        here it is. Under $40,000 with a big battery. Seems unbelievable.\">\n<meta
+        property=\"twitter:image\" content=\"https://cdn.motor1.com/images/mgl/pNVwo/s3/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.jpg\">\n<meta
+        property=\"robots\" content=\"max-snippet:500, max-image-preview:large\">\n<meta
+        name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta
+        http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><link href=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        hreflang=\"en\" rel=\"alternate\">\n<link href=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        hreflang=\"x-default\" rel=\"alternate\">\n<link href=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        rel=\"canonical\">\n<link href=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/amp/\"
+        rel=\"amphtml\">    <link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/design/dist/css/0_02ec9e7c2da3a31bc5ca.css\"><link
+        rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/design/dist/css/1_02ec9e7c2da3a31bc5ca.css\"><link
+        rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/design/dist/css/3_02ec9e7c2da3a31bc5ca.css\"><link
+        rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/design/dist/css/4_02ec9e7c2da3a31bc5ca.css\"><link
+        rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/design/dist/css/13_02ec9e7c2da3a31bc5ca.css\"><link
+        rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/design/dist/css/21_02ec9e7c2da3a31bc5ca.css\"><link
+        rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/design/dist/css/index_articles_detail_02ec9e7c2da3a31bc5ca.css\">
+        \           <link rel=\"stylesheet\" type=\"text/css\" href=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/ev-design/dist/css/0_116ce13b406a5a353f1f.css\">
+        \   \n    <script>\n        window.isAuthorized = 0    </script>\n\n\n    \n\n
+        \       \n        \n</head>\n<body         class=\"nojs not-touch m1-skin-layout\n
+        \           bgWhite lightHeader hangingHeader                                                            \"\n
+        \       data-spotim-id=\"\" data-edtn=\"ev_us\"\n        data-track-url=\"\"
+        >\n<div class=\"hiddenBlock\">\n    <div class=\"apOutstream\"><div class=\"ap\"
+        data-place=\"8\" style=\"width:1px;min-height:1px;\" data-dfp-code=\"EV/ev_us/Outstream\"
+        data-width=\"1\" data-height=\"1\" data-dfp-attrs='{\"msnt_env\":\"production\",\"m1_banner_place\":\"outstream\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"outstream\"}'></div></div></div>\n<div
+        class=\"apOverlay m1-ap-overlay\"><div class=\"ap\" data-place=\"17\" style=\"width:0px;min-height:0px;\"
+        data-dfp-code=\"EV/ev_us/Overlay\" data-width=\"0\" data-height=\"0\" data-dfp-attrs='{\"msnt_env\":\"production\",\"m1_banner_place\":\"overlay\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"overlay\"}'></div></div><div
+        class=\"apOverlay m1-ap-overlay-2\"><div class=\"ap\" data-place=\"18\" style=\"width:0px;min-height:0px;\"
+        data-dfp-code=\"EV/ev_us/Overlay2\" data-width=\"0\" data-height=\"0\" data-dfp-attrs='{\"msnt_env\":\"production\",\"m1_banner_place\":\"overlay2\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"overlay2\"}'></div></div><div
+        class=\"apOverlay m1-ap-overlay-3\"><div class=\"ap\" data-place=\"20\" style=\"width:0px;min-height:0px;\"
+        data-dfp-code=\"EV/ev_us/Overlay3\" data-width=\"0\" data-height=\"0\" data-dfp-attrs='{\"msnt_env\":\"production\",\"m1_banner_place\":\"overlay3\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"overlay3\"}'></div></div><div
+        class=\"apOverlay m1-ap-overlay-4\"><div class=\"ap\" data-place=\"21\" style=\"width:0px;min-height:0px;\"
+        data-dfp-code=\"EV/ev_us/Overlay4\" data-width=\"0\" data-height=\"0\" data-dfp-attrs='{\"msnt_env\":\"production\",\"m1_banner_place\":\"overlay4\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"overlay4\"}'></div></div><div
+        data-role=\"page\" id=\"page_index_articles_detail\" class=\"root\">\n\n    <div
+        id=\"layout_header_spacer\"></div>\n<div class=\"m1-header-main\">\n    <div
+        class=\"m1-header-main-box\">\n        <div class=\"m1-header-main-box-wrapper\">\n
+        \           <div class=\"box-item-left\">\n                <div class=\"m1-hamburger-button\"
+        data-hide-scroll=\"m1-left-side-box\" data-close-delay=\"0.5\" data-delay=\"0.01\"
+        onclick=\"\" data-button data-id=\"toggleBox\" data-value=\"mainMenu\" data-clear=\"2\"
+        data-multi>\n                    <span></span>\n                    <span></span>\n
+        \                   <span></span>\n                </div>\n\n            </div>\n
+        \           <div class=\"wrapper-box-item-center\">\n                <div
+        class=\"box-item-center\">\n                    <a class=\"m1-header-logo\"
+        href=\"/\" title=\"Home\">\n                        <img class=\"logo_placeholder\"
+        src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAAoCAYAAAC7HLUcAAABN2lDQ1BBZG9iZSBSR0IgKDE5OTgpAAAokZWPv0rDUBSHvxtFxaFWCOLgcCdRUGzVwYxJW4ogWKtDkq1JQ5ViEm6uf/oQjm4dXNx9AidHwUHxCXwDxamDQ4QMBYvf9J3fORzOAaNi152GUYbzWKt205Gu58vZF2aYAoBOmKV2q3UAECdxxBjf7wiA10277jTG+38yH6ZKAyNguxtlIYgK0L/SqQYxBMygn2oQD4CpTto1EE9AqZf7G1AKcv8ASsr1fBBfgNlzPR+MOcAMcl8BTB1da4Bakg7UWe9Uy6plWdLuJkEkjweZjs4zuR+HiUoT1dFRF8jvA2AxH2w3HblWtay99X/+PRHX82Vun0cIQCw9F1lBeKEuf1UYO5PrYsdwGQ7vYXpUZLs3cLcBC7dFtlqF8hY8Dn8AwMZP/fNTP8gAAAAJcEhZcwAACxMAAAsTAQCanBgAAAXcaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjYtYzE0MiA3OS4xNjA5MjQsIDIwMTcvMDcvMTMtMDE6MDY6MzkgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpwaG90b3Nob3A9Imh0dHA6Ly9ucy5hZG9iZS5jb20vcGhvdG9zaG9wLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDQyAoV2luZG93cykiIHhtcDpDcmVhdGVEYXRlPSIyMDE5LTAzLTIxVDE5OjQwOjU4KzAyOjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxOS0wNC0xN1QxNjozMTowNyswMzowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxOS0wNC0xN1QxNjozMTowNyswMzowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHBob3Rvc2hvcDpJQ0NQcm9maWxlPSJBZG9iZSBSR0IgKDE5OTgpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmUyNzkxOGJjLWMwNzUtMGI0MC05NjZhLTYyYzc5YWU4MTQ3MyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo5M2MwZTZhMy0wZWRkLTdiNGQtYWNhMC1lNzYyOWI2MWMzNjQiIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo5M2MwZTZhMy0wZWRkLTdiNGQtYWNhMC1lNzYyOWI2MWMzNjQiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOjkzYzBlNmEzLTBlZGQtN2I0ZC1hY2EwLWU3NjI5YjYxYzM2NCIgc3RFdnQ6d2hlbj0iMjAxOS0wMy0yMVQxOTo0MDo1OCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIChXaW5kb3dzKSIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6ZTI3OTE4YmMtYzA3NS0wYjQwLTk2NmEtNjJjNzlhZTgxNDczIiBzdEV2dDp3aGVuPSIyMDE5LTA0LTE3VDE2OjMxOjA3KzAzOjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgQ0MgKFdpbmRvd3MpIiBzdEV2dDpjaGFuZ2VkPSIvIi8+IDwvcmRmOlNlcT4gPC94bXBNTTpIaXN0b3J5PiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pi6NzcEAAACESURBVHic7dOxEcAgEMCwkP13fhbg3EIhTeDGa2Y+4Oy/HQAvMwgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0AwCASDQDAIBINAMAgEg0DYHQwDTc0ccLgAAAAASUVORK5CYII=\"
+        alt=\"logo\">\n                    </a>\n                </div>\n            </div>\n
+        \           <div class=\"m1-header-main-box-wrapper-sub\" style=\"position:
+        relative;\">\n                <div class=\"box-item-pre-left\">\n                    <ul
+        class=\"m1-navigation-main print-hide\">\n                        <li class=\"grand
+        top left mobile\">\n            <a href=\"/news/\"  >\n                                    News
+        \                           </a>\n        </li>\n                    <li class=\"grand
+        top left\">\n            <a href=\"/reviews/\"  >\n                                    Reviews
+        \                           </a>\n        </li>\n                    <li class=\"grand
+        left\">\n            <a href=\"/features/\"  >\n                                    Features
+        \                           </a>\n        </li>\n                    <li class=\"mobile\">\n
+        \           <a href=\"/tesla/\"  >\n                                    Tesla
+        \                           </a>\n        </li>\n                    <li class=\"top
+        left\">\n            <a href=\"/reviews/344001/compare-evs/\"  >\n                                    Compare
+        EVs                            </a>\n        </li>\n                    <li
+        class=\"left\">\n            <a href=\"/features/341500/the-ultimate-buyers-guide-to-home-ev-chargers-plus-top-5-picks/\"
+        \ >\n                                    Charger Guide                            </a>\n
+        \       </li>\n                    <li class=\"left\">\n            <a href=\"/features/category/buying-advice/\"
+        \ >\n                                    Buying Advice                            </a>\n
+        \       </li>\n                    <li class=\"left\">\n            <a href=\"/news/343998/monthly-plug-in-ev-sales-scorecard/\"
+        \ >\n                                    EV Sales Scorecard                            </a>\n
+        \       </li>\n                    <li class=\"mobile\">\n            <a href=\"/news/343998/monthly-plug-in-ev-sales-scorecard/\"
+        \ >\n                                    EV Sales                            </a>\n
+        \       </li>\n                    <li class=\"left\">\n            <a href=\"/makes/\"
+        \ >\n                                    Makes                            </a>\n
+        \       </li>\n                    <li class=\"left\">\n            <a href=\"/body-styles/\"
+        \ >\n                                    Body Style                            </a>\n
+        \       </li>\n                    <li class=\"left top _blank\">\n            <a
+        href=\"https://insideevsforum.com/community/index.php\"  target = \"_blank\">\n
+        \                                   Forum                            </a>\n
+        \       </li>\n                    <li class=\"left _blank\">\n            <a
+        href=\"https://www.myev.com/cars-for-sale\"  target = \"_blank\">\n                                    Buy
+        \                           </a>\n        </li>\n                    <li class=\"podcast
+        ico left\">\n            <a href=\"https://insideevs.com/features/category/podcast/\"
+        \ >\n                                    Podcast                            </a>\n
+        \       </li>\n                    <li class=\"photos ico left\">\n            <a
+        href=\"/photos/\"  >\n                                    Photos                            </a>\n
+        \       </li>\n                    <li class=\"videos ico left\">\n            <a
+        href=\"/videos/\"  >\n                                    Videos                            </a>\n
+        \       </li>\n                    <li class=\"top plugin-sale\">\n            <a
+        href=\"/news/343998/monthly-plug-in-ev-sales-scorecard/\"  >\n                                    Ev
+        Sales Scorecard                            </a>\n        </li>\n    </ul>
+        \               </div>\n                                    <!-- <div class=\"wrapper-plugin-sale\">\n
+        \                       <div class=\"top plugin-sale\">\n                            <a
+        href=\"https://insideevs.com/monthly-plug-in-sales-scorecard/\">Ev Sales Scorecard</a>\n
+        \                       </div>\n                    </div> -->\n                                                    <div
+        class=\"m1-search-form-button-wrapper\">\n                        <button
+        class=\"m1-search-form-button-animate icon-search\"\n                                onclick\n
+        \                               data-button\n                                data-id=\"toggleBox\"\n
+        \                               data-clear=\"1\"\n                                data-value=\"searchBox\"\n
+        \                               data-multi\n                                type=\"submit\">\n
+        \                       </button>\n                        <div class=\"m1-search-panel\">\n
+        \                           <form action=\"/search/\" class=\"m1-search-form\"
+        method=\"GET\" id=\"header_search_form\" data-native=\"0\" novalidate=\"novalidate\">\n
+        \                               <input class=\"m1-search-panel-input m1-search-form-text\"
+        id=\"search_input\" type=\"text\" value=\"\" name=\"q\" placeholder=\"Search\"
+        autocomplete=\"off\">\n                                <button class=\"m1-search-panel-button
+        m1-search-form-button-animate icon-search \" type=\"submit\">\n                                </button>\n
+        \                               <button onclick=\"\"\n                                        data-button\n
+        \                                       data-id=\"toggleBox\"\n                                        data-value=\"searchBox\"\n
+        \                                       data-clear=\"1\"\n                                        data-toggle=\"1\"\n
+        \                                       data-multi\n                                        class=\"m1-search-panel-button
+        m1-drawer-close-button\">\n                                </button>\n                            </form>\n
+        \                       </div>\n                    </div>\n                            </div>\n\n
+        \                          <div class=\"box-item-right\">\n                    <div
+        class=\"m1-editions-switcher-m\" data-hide-scroll=\"m1-scrollbar\" data-close-delay=\"0.5\"
+        \ data-delay=\"0.01\" onclick=\"\" data-button data-id=\"toggleBox\" data-value=\"editionsMenu\"
+        data-clear=\"2\" data-multi>\n                                                <span
+        class=\"edf edf-230\"></span>\n                                            </div>\n
+        \                   <div class=\"m1-editions-switcher\" data-hide-scroll=\"m1-scrollbar\"
+        data-close-delay=\"0.5\" data-delay=\"0.01\" onclick=\"\" data-button data-id=\"toggleBox\"
+        data-value=\"editionsMenu\" data-clear=\"2\" data-multi>\n                                                <span
+        class=\"edf edf-230\"></span>\n                                                <span
+        class=\"title\">USA / Global</span>\n                    </div>\n                </div>\n
+        \                   </div>\n    </div>\n</div>\n<div class=\"m1-header-ad
+        top-banner-placeholder\">\n    <div class=\"m1-gapb-topside\"><div class=\"m1-apb
+        mleaderboard\"><div class=\"ap\" data-place=\"10\" style=\"width:320px;min-height:1px;\"
+        data-dfp-code=\"EV/ev_us/Mobile_Leaderboard\" data-sizes=\"320x1,320x50,320x100\"
+        data-width=\"320\" data-height=\"1\" data-dfp-attrs='{\"msnt_env\":\"production\",\"m1_banner_place\":\"top-banners\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"top\",\"m1_banner_position_view\":\"above-the-fold\"}'></div></div><div
+        class=\"m1-apb leaderboard\"><div class=\"ap\" data-place=\"1\" style=\"width:728px;min-height:1px;\"
+        data-dfp-code=\"EV/ev_us/Leaderboard\" data-sizes=\"728x1,1x1,728x90\" data-width=\"728\"
+        data-height=\"1\" data-dfp-attrs='{\"msnt_env\":\"production\",\"m1_banner_place\":\"top-banners\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"top\",\"m1_banner_position_view\":\"above-the-fold\"}'></div></div><div
+        class=\"m1-apb super\"><div class=\"ap\" data-place=\"6\" style=\"width:970px;min-height:1px;\"
+        data-dfp-code=\"EV/ev_us/Super\" data-sizes=\"970x1,1x1,970x90,970x250,980x250\"
+        data-width=\"970\" data-height=\"1\" data-dfp-attrs='{\"msnt_env\":\"production\",\"m1_banner_place\":\"top-banners\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"top\",\"m1_banner_position_view\":\"above-the-fold\"}'></div></div></div></div>
+        \   <div class=\"pageAdSkin\" id=\"page_skin_top\">\n        <div class=\"adSizer\"><img
+        alt=\"\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==\"></div>\n
+        \       <a class=\"pageAdSkinUrl\"></a>\n    </div>\n    \n<script type=\"application/ld+json\">\n
+        \   {\"@context\":\"http:\\/\\/schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Fisker
+        Reveals Long-Range Electric Crossover: Claims Sub-$40,000 Price\",\"description\":\"Last
+        week we alerted you that Henrik Fisker was set to reveal an upcoming long-range
+        electric crossover. Well, here it is. Under $40,000 with a big battery. Seems
+        unbelievable.\",\"author\":{\"@type\":\"Person\",\"name\":\"Steven Loveday\"},\"url\":\"https:\\/\\/insideevs.com\\/news\\/343447\\/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price\\/\",\"datePublished\":\"2019-03-18T14:25:13Z\",\"dateModified\":\"2019-04-24T13:49:14Z\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"InsideEVs\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/insideevs.com\\/logo.jpg\",\"width\":\"512\",\"height\":\"60\"}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/cdn.motor1.com\\/images\\/mgl\\/pNVwo\\/s1\\/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.jpg\",\"width\":\"1920\",\"height\":\"1080\"},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"url\":\"https:\\/\\/insideevs.com\\/news\\/343447\\/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price\\/\"},\"wordCount\":\"404\"}</script>\n\n\n\n
+        \       <script type=\"application/ld+json\">\n        {\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\\/\\/insideevs.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Fisker\",\"item\":\"https:\\/\\/insideevs.com\\/fisker\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Karma\",\"item\":\"https:\\/\\/insideevs.com\\/fisker\\/karma\\/\"},{\"@type\":\"ListItem\",\"position\":4,\"name\":\"News\",\"item\":\"https:\\/\\/insideevs.com\\/fisker\\/karma\\/news\\/\"}]}
+        \   </script>\n\n\n    <div class=\"pre-center breadcrumbs-area \">\n                <div
+        slot=\"breadcrumbs\" class=\"breadcrumbs\">\r\n        <a href=\"/\">Home</a><span
+        class=\"sep\"></span><a href=\"/fisker/\">Fisker</a><span class=\"sep\"></span><a
+        href=\"/fisker/karma/\">Karma</a><span class=\"sep\"></span><a href=\"/fisker/karma/news/\">News</a>
+        \   </div>\r\n        <h1 class=\"m1-article-title\">Fisker Reveals Long-Range
+        Electric Crossover: Claims Sub-$40,000 Price</h1>\n    </div>\n            <div
+        class=\"pre-center\">\n            <div class=\"articleHeader\">\n                <div
+        class=\"box-center\">\n                    <div class=\"originalImage\">\n
+        \                       <img src=\"https://cdn.motor1.com/images/mgl/pNVwo/s3/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.jpg\"
+        alt=\"Fisker Reveals Long-Range Electric Crossover: Claims Sub-$40,000 Price\"
+        />\n                    </div>\n                    <div id=\"article_poster\"
+        class=\"articlePoster scrollTieBox\">\n                                                    <style
+        type=\"text/css\">\r\n@media only screen{\r\n    .webp #article_poster{\r\n
+        \       background-image:url(https://cdn.motor1.com/images/mgl/pNVwo/s6/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.webp);\r\n
+        \   }\r\n\r\n    .no-webp #article_poster{\r\n        background-image:url(https://cdn.motor1.com/images/mgl/pNVwo/s6/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.jpg);\r\n
+        \   }\r\n}\r\n@media only screen and (min-width : 445px){\r\n    .webp #article_poster{\r\n
+        \       background-image:url(https://cdn.motor1.com/images/mgl/pNVwo/s4/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.webp);\r\n
+        \   }\r\n\r\n    .no-webp #article_poster{\r\n        background-image:url(https://cdn.motor1.com/images/mgl/pNVwo/s4/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.jpg);\r\n
+        \   }\r\n}\r\n@media only screen and (min-width : 1024px){\r\n    .webp #article_poster{\r\n
+        \       background-image:url(https://cdn.motor1.com/images/mgl/pNVwo/s3/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.webp);\r\n
+        \   }\r\n\r\n    .no-webp #article_poster{\r\n        background-image:url(https://cdn.motor1.com/images/mgl/pNVwo/s3/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.jpg);\r\n
+        \   }\r\n}\r\n@media only screen and (min-width : 1280px){\r\n    .webp #article_poster{\r\n
+        \       background-image:url(https://cdn.motor1.com/images/mgl/pNVwo/s2/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.webp);\r\n
+        \   }\r\n\r\n    .no-webp #article_poster{\r\n        background-image:url(https://cdn.motor1.com/images/mgl/pNVwo/s2/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.jpg);\r\n
+        \   }\r\n}\r\n@media only screen and (min-width : 1440px){\r\n    .webp #article_poster{\r\n
+        \       background-image:url(https://cdn.motor1.com/images/mgl/pNVwo/s1/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.webp);\r\n
+        \   }\r\n\r\n    .no-webp #article_poster{\r\n        background-image:url(https://cdn.motor1.com/images/mgl/pNVwo/s1/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.jpg);\r\n
+        \   }\r\n}\r\n\r\n\r\n@media only screen and (-webkit-min-device-pixel-ratio
+        : 2),\r\n       only screen and (min--moz-device-pixel-ratio : 2),\r\n       only
+        screen and (min-device-pixel-ratio : 2){\r\n            .wepb #article_poster{\r\n
+        \              background-image:url(https://cdn.motor1.com/images/mgl/pNVwo/s1/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.webp);\r\n
+        \           }\r\n\r\n            .no-wepb #article_poster{\r\n               background-image:url(https://cdn.motor1.com/images/mgl/pNVwo/s1/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.jpg);\r\n
+        \           }\r\n        }\r\n\r\n@media only screen and (min-width : 445px)
+        and (-webkit-min-device-pixel-ratio : 2),\r\n       only screen and (min-width
+        : 445px) and (min--moz-device-pixel-ratio : 2),\r\n       only screen and
+        (min-width : 445px) and (min-device-pixel-ratio : 2){\r\n            .wepb
+        #article_poster{\r\n               background-image:url(https://cdn.motor1.com/images/mgl/pNVwo/s3/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.webp);\r\n
+        \           }\r\n\r\n            .no-wepb #article_poster{\r\n               background-image:url(https://cdn.motor1.com/images/mgl/pNVwo/s3/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.jpg);\r\n
+        \           }\r\n        }\r\n\r\n@media only screen and (min-width : 1024px)
+        and (-webkit-min-device-pixel-ratio : 2),\r\n       only screen and (min-width
+        : 1024px) and (min--moz-device-pixel-ratio : 2),\r\n       only screen and
+        (min-width : 1024px) and (min-device-pixel-ratio : 2){\r\n            .wepb
+        #article_poster{\r\n               background-image:url(https://cdn.motor1.com/images/mgl/pNVwo/s1/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.webp);\r\n
+        \           }\r\n            \r\n            .no-wepb #article_poster{\r\n
+        \              background-image:url(https://cdn.motor1.com/images/mgl/pNVwo/s1/fisker-reveals-long-range-electric-crossover-claims-sub-40-000-price.jpg);\r\n
+        \           }\r\n        }\r\n</style>                                                \r\n<img
+        class=\"sizer\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAYAAAA7KqwyAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABpJREFUeNpi/P//PwMlgImBQjBqwLAwACDAAOVfAw9/ZDvcAAAAAElFTkSuQmCC\"
+        alt=\"\"/>                    </div>\n                </div>\n                <div
+        class=\"articleTitle\">\n                    <div class=\"box-center\">\n
+        \                       <div class=\"pre-center\">\n                                                    </div>\n
+        \                   </div>\n                </div>\n            </div>\n        </div>\n
+        \   \n\n<div class=\"pre-center padding  b-padding-skin pre-center-feature\"
+        id=\"post_box\">\n    <div data-bubbles=\"keyword\" data-url=\"/news/store-keywords/\"
+        data-name=\"id\"></div>\n    <div class=\"content-area  \" id=\"article_box\"
+        >\n                    <span class=\"item\" style=\"display: none;\">\n                <a
+        style=\"display: none\" href=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\">\n
+        \                   Fisker Reveals Long-Range Electric Crossover: Claims Sub-$40,000
+        Price                </a>\n            </span>\n\n\n            <span style=\"display:
+        none;\" class=\"type\">product</span>\n\n                    <span style=\"display:
+        none;\" class=\"dt-published\">2019-03-18 14:25:13</span>\n\n                    <a
+        style=\"display: none\" rel=\"bookmark\" href=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        class=\"u-url\">https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/</a>\n\n
+        \               <span class=\"p-item item\" style=\"display: none;\">\n            <span
+        class=\"fn\">\n                                                            Fisker
+        Karma                                                </span>\n        </span>\n\n
+        \               <span class=\"p-category\" style=\"display: none;\">\n                                                                                                    \n
+        \           fisker emotion        </span>\n\n        <div class=\"content-area-box\">\n
+        \                           <div class=\"postTopInfo \">\n                    <div
+        class=\"postMeta-Top\">\n                                                        <div
+        class=\"postDate\"><span class=\"date\" data-time=\"1552904713\"><a href=\"/2019/03/18/\">Mar
+        18, 2019</a><span class=\"small\"> at</span> 10:25am ET</span></div>                                                                            <div
+        class=\"shareTrendingBox\">\n                                                                                                            <script
+        id=\"dsq-count-scr\" src=\"//insideevscom.disqus.com/count.js\" async></script>
+        \                                       <a title=\"Add a comment\" href=\"/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/#comments\"
+        class=\"disqus-comment-count\" data-disqus-identifier=\"en-article-343447\"
+        data-disqus-url=\"/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"></a>
+        \                                                                                                                                   <div
+        slot=\"share-box\" class=\"big-shareBox shareBox share-box-dropdown to-down\"><div
+        class=\"share-box-wrapper\"><span class=\"shareBox-separator\" data-value=\"share-list-1605997709\"
+        data-button onClick=\"\" data-id=\"toggleBox\" data-static> <span class=\"active\"><span
+        class=\"icon-plus\">+</span></span><span class=\"passive\"><span class=\"icon-plus\">+</span></span></span><a
+        href=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        class=\"share-button share-button-gallery\"><span class=\"icon share-empty\"></span></a><div
+        class=\"share-list\" data-button-target=\"share-list-1605997709\"><ul><li
+        class=\"facebook\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-extra-params=\"id:'343447',type_id:'1'\"
+        data-value=\"1\" data-share-network=\"Facebook\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"600\" data-height=\"600\" href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F\"><span
+        class=\"social-bg icon facebook\"></span><span class=\"name\">Share on Facebook</span></a></li><li
+        class=\"twitter\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-extra-params=\"id:'343447',type_id:'1'\"
+        data-value=\"2\" data-share-network=\"Twitter\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"600\" data-height=\"450\" href=\"https://twitter.com/intent/tweet?url=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F&text=Fisker+Reveals+Long-Range+Electric+Crossover%3A+Claims+Sub-%2440%2C000+Price&via=insideevs.com\"><span
+        class=\"social-bg icon twitter\"></span><span class=\"name\">Share on Twitter</span></a></li><li
+        class=\"linkedin\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-extra-params=\"id:'343447',type_id:'1'\"
+        data-value=\"3\" data-share-network=\"LinkedIn\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"600\" data-height=\"600\" href=\"https://www.linkedin.com/cws/share?url=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F\"><span
+        class=\"social-bg icon linkedin\"></span><span class=\"name\">Share on LinkedIn</span></a></li><li
+        class=\"flipboard\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-extra-params=\"id:'343447',type_id:'1'\"
+        data-value=\"7\" data-share-network=\"Flipboard\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"600\" data-height=\"600\" href=\"https://share.flipboard.com/bookmarklet/popout?url=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F&title=Fisker+Reveals+Long-Range+Electric+Crossover%3A+Claims+Sub-%2440%2C000+Price&v=2\"><span
+        class=\"social-bg icon flipboard\"></span><span class=\"name\">Share on Flipboard</span></a></li><li
+        class=\"reddit\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-extra-params=\"id:'343447',type_id:'1'\"
+        data-value=\"6\" data-share-network=\"Reddit\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"900\" data-height=\"600\" href=\"https://www.reddit.com/submit?url=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F\"><span
+        class=\"social-bg icon reddit\"></span><span class=\"name\">Share on Reddit</span></a></li><li
+        class=\"whatsapp\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-extra-params=\"id:'343447',type_id:'1'\"
+        data-value=\"6\" data-share-network=\"WhatsApp\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"600\" data-height=\"600\" href=\"https://api.whatsapp.com/send?text=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F\"><span
+        class=\"social-bg icon whatsapp\"></span><span class=\"name\">Share on WhatsApp</span></a></li><li
+        class=\"mailto\"><a data-button=\"\" data-id=\"mailTo\" target=\"_blank\"
+        data-extra-params=\"id:'343447',type_id:'1'\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"600\" data-height=\"400\" href=\"mailto:?body=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F&subject=Fisker%20Reveals%20Long-Range%20Electric%20Crossover%3A%20Claims%20Sub-%2440%2C000%20Price\"><span
+        class=\"social-bg icon mailto\"></span><span class=\"name\">Send to email</span></a></li></ul></div></div></div>
+        \                           </div>\n                                            </div>\n\n\n
+        \                       <div class=\"postAuthorBox withAvatar\" xmlns=\"http://www.w3.org/1999/xhtml\">\r\n
+        \                   <div class=\"postAuthorThumb\">\r\n                <a
+        class=\"userRThumb\" href=\"/info/team/steven-loveday/\">\r\n                    <picture>\r\n
+        \                       <source type=\"image/webp\" srcset=\"https://cdn.motor1.com/images/atr/z37/s4/steven-loveday.webp\">\r\n
+        \                       <source type=\"image/jpeg\" srcset=\"https://cdn.motor1.com/images/atr/z37/s4/steven-loveday.jpg\">\r\n
+        \                       <img src=\"https://cdn.motor1.com/images/atr/z37/s4/steven-loveday.jpg\"
+        alt=\"Steven Loveday\" />\r\n                    </picture>\r\n                </a>\r\n
+        \           </div>\r\n                <div class=\"postAuthorInfo\">\r\n            <div
+        class=\"postAuthor\">\r\n                <span class=\"name\">\r\n                    <span
+        class=\"label\">By</span>:\r\n                                            <a
+        class=\"author\" content=\"Steven Loveday\" href=\"/info/team/steven-loveday/\">Steven
+        Loveday</a>\r\n                                    </span>\r\n            </div>\r\n
+        \                                           </div>\r\n    </div>\r\n                    <div
+        class=\"clear\"></div>\n\n                </div>\n\n            <div class=\"postContent
+        content-wrapper\">\n\n                                                <div
+        class=\"postBody description e-content\">\n                                <h3>And,
+        the all-new sub-$40,000 Fisker teaser arrives as planned.</h3>\r\n<p>We told
+        you about a week ago that\_<a href=\"https://insideevs.com/category/fisker/\">Henrik
+        Fisker</a> teased an <a href=\"https://insideevs.com/fisker-teases-40000-pure-electric-car/\">upcoming
+        prototype</a>. He said his plan was to further tease it on March 18, 2019.
+        However, he was clear that it wouldn't be any official launch or livestream
+        situation, but instead, more of a \"tease\" of the tease. Of course, more
+        details were to be divulged at that point.</p>\r\n\r\n<section class=\"relatedContent-new\"
+        contenteditable=\"false\" draggable=\"true\" data-widget=\"related-content\"
+        data-widget-size=\"content\"  data-params=\"%7B%22type_id%22%3A0%2C%22title_id%22%3A%22%22%2C%22items%22%3A%5B%7B%22article_edition_id%22%3A%22338039%22%2C%22title%22%3A%22Exclusive%3A+Henrik+Fisker+Talks+EMotion%2C+Solid-State+Batteries%22%2C%22alias%22%3A%22exclusive-henrik-fisker-talks-emotion-solid-state-batteries%22%2C%22section%22%3A%221%22%2C%22is_checked%22%3Afalse%2C%22is_video%22%3A%220%22%2C%22images%22%3A%7B%22s5%22%3A%22https%3A%5C%2F%5C%2Fcdn.motor1.com%5C%2Fimages%5C%2Fmgl%5C%2FEgnbR%5C%2Fs5%5C%2Fexclusive-henrik-fisker-talks-emotion-solid-state-batteries.jpg%22%7D%7D%2C%7B%22article_edition_id%22%3A%22340529%22%2C%22title%22%3A%22Caterpillar+Invests+In+Fisker%27s+Solid-State+Battery+Tech%22%2C%22alias%22%3A%22caterpillar-invests-in-fiskers-solid-state-battery-tech%22%2C%22section%22%3A%221%22%2C%22is_checked%22%3Afalse%2C%22is_video%22%3A%220%22%2C%22images%22%3A%7B%22s5%22%3A%22https%3A%5C%2F%5C%2Fcdn.motor1.com%5C%2Fimages%5C%2Fmgl%5C%2Fxjxqk%5C%2Fs5%5C%2Fcaterpillar-invests-in-fisker-s-solid-state-battery-tech.jpg%22%7D%7D%5D%7D\">
+        <h2 class=\"trending-content_header\">More Fisker News:</h2> <div class=\"wrapper-related-item\">
+        <div class=\"related-item\"><a href=\"/news/338039/exclusive-henrik-fisker-talks-emotion-solid-state-batteries/\">
+        <span class=\"lazy related-item-img\"> <img src=\"https://cdn.motor1.com/custom/share/placeholder_0.jpg\"
+        data-srcset=\"https://cdn.motor1.com/images/mgl/EgnbR/s6/exclusive-henrik-fisker-talks-emotion-solid-state-batteries.jpg
+        1x,\nhttps://cdn.motor1.com/images/mgl/EgnbR/s4/exclusive-henrik-fisker-talks-emotion-solid-state-batteries.jpg
+        2x\" data-src=\"https://cdn.motor1.com/images/mgl/EgnbR/s6/exclusive-henrik-fisker-talks-emotion-solid-state-batteries.jpg\"
+        /> </span> <span class=\"title-related-item\">Exclusive: Henrik Fisker Talks
+        EMotion, Solid-State Batteries</span> </a></div> <div class=\"related-item\"><a
+        href=\"/news/340529/caterpillar-invests-in-fiskers-solid-state-battery-tech/\">
+        <span class=\"lazy related-item-img\"> <img src=\"https://cdn.motor1.com/custom/share/placeholder_1.jpg\"
+        data-srcset=\"https://cdn.motor1.com/images/mgl/xjxqk/s6/caterpillar-invests-in-fisker-s-solid-state-battery-tech.jpg
+        1x,\nhttps://cdn.motor1.com/images/mgl/xjxqk/s4/caterpillar-invests-in-fisker-s-solid-state-battery-tech.jpg
+        2x\" data-src=\"https://cdn.motor1.com/images/mgl/xjxqk/s6/caterpillar-invests-in-fisker-s-solid-state-battery-tech.jpg\"
+        /> </span> <span class=\"title-related-item\">Caterpillar Invests In Fisker's
+        Solid-State Battery Tech</span> </a></div>  </div> </section><div class=\"apInarticleSmallRes\"><div
+        class=\"ap\" data-place=\"25\" style=\"width:300px;min-height:1px;\" data-dfp-code=\"EV/ev_us/Rectangle\"
+        data-sizes=\"300x1,300x250\" data-width=\"300\" data-height=\"1\" data-dfp-attrs='{\"lazy\":1,\"msnt_env\":\"production\",\"m1_banner_place\":\"rectangle_first\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"first-inarticle-small-res\"}'></div></div>\r\n\r\n<p>Fast
+        forward to today, and true to his word, Fisker has come forth with the information.
+        While the vehicle remains unnamed, it's apparently capable of 300 miles of
+        range. In addition, it may have at least an 80-kWh battery pack. As anticipated,
+        the potential offering will be of the crossover variety. The most important
+        piece of information is that it will carry a starting price below $40,000.
+        But, a dual-motor, all-wheel-drive variant will cost you more. Will the sub-$40,000
+        vehicle have the bigger pack and the 300-mile range? Not likely, of course.</p>\r\n<blockquote
+        class=\"twitter-tweet\">\r\n<p dir=\"ltr\" lang=\"en\">New affordable Fisker
+        electric SUV getting announced tomorrow. I\u2019m proud we have a business
+        case to make a +80 kWh big battery pack standard! See rest of spec tomorrow.<a
+        href=\"https://twitter.com/hashtag/battery?src=hash&ref_src=twsrc%5Etfw\">#battery</a>
+        <a href=\"https://twitter.com/hashtag/Fisker?src=hash&ref_src=twsrc%5Etfw\">#Fisker</a>
+        <a href=\"https://twitter.com/hashtag/innovation?src=hash&ref_src=twsrc%5Etfw\">#innovation</a>
+        <a href=\"https://twitter.com/hashtag/EVs?src=hash&ref_src=twsrc%5Etfw\">#EVs</a>
+        <a href=\"https://twitter.com/hashtag/ElectricVehicles?src=hash&ref_src=twsrc%5Etfw\">#ElectricVehicles</a>
+        <a href=\"https://t.co/vhSg5WKYKa\">pic.twitter.com/vhSg5WKYKa</a></p>\r\n<p>\u2014
+        Henrik Fisker (@henrikfisker) <a href=\"https://twitter.com/henrikfisker/status/1107329019765125122?ref_src=twsrc%5Etfw\">March
+        17, 2019</a></p>\r\n</blockquote>\r\n<p><script async src=\"https://platform.twitter.com/widgets.js\"
+        charset=\"utf-8\"></script></p>\r\n<blockquote class=\"twitter-tweet\">\r\n<p
+        dir=\"ltr\" lang=\"en\">Fisker All Electric SUV coming in 2nd half of 2021.
+        Less than $40,000. Standard battery +80kWh. 4WD. Around 300 mile range. Direct
+        Sales. Franchised Service.<a href=\"https://twitter.com/hashtag/Fisker?src=hash&ref_src=twsrc%5Etfw\">#Fisker</a>
+        <a href=\"https://twitter.com/hashtag/EVs?src=hash&ref_src=twsrc%5Etfw\">#EVs</a>
+        <a href=\"https://twitter.com/hashtag/ElectricVehicles?src=hash&ref_src=twsrc%5Etfw\">#ElectricVehicles</a>
+        <a href=\"https://twitter.com/hashtag/SUV?src=hash&ref_src=twsrc%5Etfw\">#SUV</a>
+        <a href=\"https://t.co/jDn868J47I\">pic.twitter.com/jDn868J47I</a></p>\r\n<p>\u2014
+        Henrik Fisker (@henrikfisker) <a href=\"https://twitter.com/henrikfisker/status/1107625124608376832?ref_src=twsrc%5Etfw\">March
+        18, 2019</a></p>\r\n</blockquote>\r\n<p><script async src=\"https://platform.twitter.com/widgets.js\"
+        charset=\"utf-8\"></script></p>\r\n\r\n<p>Fisker claims that the new concept's
+        cabin layout and materials will be modern, which is expected. It will feature
+        a head-up display and a state-of-the-art, user-friendly infotainment interface.
+        The new SUV will employ a very open concept, without causing any safety concerns.
+        To top it off, as previously reported, Fisker plans to manufacture it in the
+        United States.</p><div class=\"item m1-ap-native\"><div class=\"ap\" data-place=\"22\"
+        \ data-dfp-code=\"EV/ev_us/Native\" data-sizes=\"fluid,1x1\" data-width=\"1\"
+        data-height=\"1\" data-dfp-attrs='{\"m1_native\":\"2\",\"msnt_env\":\"production\",\"m1_banner_place\":\"native\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"native\"}'></div></div>\r\n\r\n<p>In
+        terms of timeline, if this new crossover comes to be, it could grace our presence
+        in 2021. Reservations for the electric SUV could open before the end of 2019,
+        with the car becoming available in the second half of 2021. Moreover, it may
+        come with Fisker's new <a href=\"https://insideevs.com/fisker-aims-to-launch-emotion-with-solid-state-battery-in-2020/\">solid-state
+        batteries</a>.</p><div class=\"apInarticleSmallRes\"><div class=\"ap\" data-place=\"16\"
+        style=\"width:300px;min-height:1px;\" data-dfp-code=\"EV/ev_us/Mobile_Rectangle\"
+        data-sizes=\"300x1,300x250,300x600\" data-width=\"300\" data-height=\"1\"
+        data-dfp-attrs='{\"lazy\":1,\"msnt_env\":\"production\",\"m1_banner_place\":\"inarticle-small-res\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"inarticle-small-res\"}'></div></div>\r\n\r\n<p>At
+        this point, we have no way of knowing the reality of this announcement. Additionally,
+        the whole solid-state battery situation is up in the air. However, if Fisker
+        can pull this off, we have yet another compelling EV on the way sooner rather
+        than later.</p>                </div>\n\n\n                    \n                    <!--
+        new gallery place -->\n                    \n                    \n\n                \n\n
+        \               \n                \n\n                \n\n\n\n                                \n\n\n
+        \                                   <div class=\"parent-shareBox parent-shareBox-bottom\">\n
+        \                                                                                                           <script
+        id=\"dsq-count-scr\" src=\"//insideevscom.disqus.com/count.js\" async></script>
+        \                               <a title=\"Add a comment\" href=\"/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/#comments\"
+        class=\"disqus-comment-count\" data-disqus-identifier=\"en-article-343447\"
+        data-disqus-url=\"/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"></a>
+        \                                                                           <div
+        slot=\"share-box\" class=\"big-shareBox shareBox share-box-dropdown to-down\"><div
+        class=\"share-box-wrapper\"><span class=\"shareBox-separator\" data-value=\"share-list-1605998525\"
+        data-button onClick=\"\" data-id=\"toggleBox\" data-static> <span class=\"active\"><span
+        class=\"icon-plus\">+</span></span><span class=\"passive\"><span class=\"icon-plus\">+</span></span></span><a
+        href=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        class=\"share-button share-button-gallery\"><span class=\"icon share-empty\"></span></a><div
+        class=\"share-list\" data-button-target=\"share-list-1605998525\"><ul><li
+        class=\"facebook\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-extra-params=\"id:'343447',type_id:'1'\"
+        data-value=\"1\" data-share-network=\"Facebook\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"600\" data-height=\"600\" href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F\"><span
+        class=\"social-bg icon facebook\"></span><span class=\"name\">Share on Facebook</span></a></li><li
+        class=\"twitter\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-extra-params=\"id:'343447',type_id:'1'\"
+        data-value=\"2\" data-share-network=\"Twitter\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"600\" data-height=\"450\" href=\"https://twitter.com/intent/tweet?url=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F&text=Fisker+Reveals+Long-Range+Electric+Crossover%3A+Claims+Sub-%2440%2C000+Price&via=insideevs.com\"><span
+        class=\"social-bg icon twitter\"></span><span class=\"name\">Share on Twitter</span></a></li><li
+        class=\"linkedin\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-extra-params=\"id:'343447',type_id:'1'\"
+        data-value=\"3\" data-share-network=\"LinkedIn\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"600\" data-height=\"600\" href=\"https://www.linkedin.com/cws/share?url=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F\"><span
+        class=\"social-bg icon linkedin\"></span><span class=\"name\">Share on LinkedIn</span></a></li><li
+        class=\"flipboard\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-extra-params=\"id:'343447',type_id:'1'\"
+        data-value=\"7\" data-share-network=\"Flipboard\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"600\" data-height=\"600\" href=\"https://share.flipboard.com/bookmarklet/popout?url=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F&title=Fisker+Reveals+Long-Range+Electric+Crossover%3A+Claims+Sub-%2440%2C000+Price&v=2\"><span
+        class=\"social-bg icon flipboard\"></span><span class=\"name\">Share on Flipboard</span></a></li><li
+        class=\"reddit\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-extra-params=\"id:'343447',type_id:'1'\"
+        data-value=\"6\" data-share-network=\"Reddit\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"900\" data-height=\"600\" href=\"https://www.reddit.com/submit?url=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F\"><span
+        class=\"social-bg icon reddit\"></span><span class=\"name\">Share on Reddit</span></a></li><li
+        class=\"whatsapp\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-extra-params=\"id:'343447',type_id:'1'\"
+        data-value=\"6\" data-share-network=\"WhatsApp\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"600\" data-height=\"600\" href=\"https://api.whatsapp.com/send?text=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F\"><span
+        class=\"social-bg icon whatsapp\"></span><span class=\"name\">Share on WhatsApp</span></a></li><li
+        class=\"mailto\"><a data-button=\"\" data-id=\"mailTo\" target=\"_blank\"
+        data-extra-params=\"id:'343447',type_id:'1'\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"600\" data-height=\"400\" href=\"mailto:?body=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F&subject=Fisker%20Reveals%20Long-Range%20Electric%20Crossover%3A%20Claims%20Sub-%2440%2C000%20Price\"><span
+        class=\"social-bg icon mailto\"></span><span class=\"name\">Send to email</span></a></li></ul></div></div></div>
+        \                   </div>\n                    <div class=\"sapb\"><div class=\"apb
+        mleaderboard\" style=\"padding:15px 0 15px 0;\"><div class=\"ap\" data-place=\"24\"
+        style=\"width:290px;min-height:1px;\" data-dfp-code=\"EV/ev_us/Mobile_Leaderboard/Social\"
+        data-sizes=\"290x1,290x100\" data-width=\"290\" data-height=\"1\" data-dfp-attrs='{\"lazy\":1,\"msnt_env\":\"production\",\"m1_banner_place\":\"article_socials\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"article_socials\"}'></div></div><div
+        class=\"apb leaderboard\" style=\"padding:15px 0 15px 0;\"><div class=\"ap\"
+        data-place=\"23\" style=\"width:650px;min-height:1px;\" data-dfp-code=\"EV/ev_us/Leaderboard/Social\"
+        data-sizes=\"650x1,650x100\" data-width=\"650\" data-height=\"1\" data-dfp-attrs='{\"lazy\":1,\"msnt_env\":\"production\",\"m1_banner_place\":\"article_socials\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"article_socials\"}'></div></div></div>
+        \               \n                \n                \n                \n                \n\n
+        \                               \n\n                \n            </div>\n
+        \       </div>\n\n\n\n\n\n\n                    <div class=\"sidebar\" id=\"post_sidebar\">\n
+        \                                   <div class=\"apb apb-dmpu\"><div class=\"ap\"
+        data-place=\"4\" style=\"width:300px;min-height:250px;\" data-dfp-code=\"EV/ev_us/DMPU\"
+        data-sizes=\"300x250,300x600\" data-width=\"300\" data-height=\"250\" data-dfp-attrs='{\"msnt_env\":\"production\",\"m1_banner_place\":\"dmpu_first\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"sidebar\"}'></div></div>
+        \                                   \n                                                            <div
+        class=\"trending-content\">\n                            <div class=\"content-header\">\n
+        \                               <p class=\"trending-content_header\">Trending</p>\n
+        \                           </div>\n                                                                                                                            <div
+        class=\"trending-content_item\">\n                                    <a class=\"trending-content_thumb
+        thumb zoom\"  href=\"/news/455665/porsche-taycan-crash-landed-on-another-car/\">\n
+        \                                                                                           <span
+        class=\"icon play\"></span>\n                                                                                    <picture
+        class=\"lazy\">\n                                            <source type=\"image/webp\"
+        srcset=\"https://cdn.motor1.com/images/mgl/ErGwo/s6/taycan-uk-crash.webp\">\n
+        \                                           <source type=\"image/jpeg\" srcset=\"https://cdn.motor1.com/images/mgl/ErGwo/s6/taycan-uk-crash.jpg\">\n
+        \                                           <img src=\"https://cdn.motor1.com/custom/share/placeholder_0.jpg\"
+        alt=\"Porsche Taycan Parking Goes Wrong - It Hits One Car, Lands On Another\"
+        data-src=\"https://cdn.motor1.com/images/mgl/ErGwo/s6/taycan-uk-crash.jpg\"
+        class=\"desaturate\">                                        </picture>\n
+        \                                   </a>\n                                    <a
+        class=\"trending-content_link\"  href=\"/news/455665/porsche-taycan-crash-landed-on-another-car/\">Porsche
+        Taycan Parking Goes Wrong - It Hits One Car, Lands On Another</a>\n                                </div>\n
+        \                                                                                                                           <div
+        class=\"trending-content_item\">\n                                    <a class=\"trending-content_thumb
+        thumb zoom\"  href=\"/features/455777/tesla-cybertruck-undergoing-refresh/\">\n
+        \                                                                                   <picture
+        class=\"lazy\">\n                                            <source type=\"image/webp\"
+        srcset=\"https://cdn.motor1.com/images/mgl/ZBXN3/s6/tesla-cybertruck-outdoor-image.webp\">\n
+        \                                           <source type=\"image/jpeg\" srcset=\"https://cdn.motor1.com/images/mgl/ZBXN3/s6/tesla-cybertruck-outdoor-image.jpg\">\n
+        \                                           <img src=\"https://cdn.motor1.com/custom/share/placeholder_1.jpg\"
+        alt=\"Tesla Cybertruck 2.0: More On The Electric Pickup Truck's Makeover\"
+        data-src=\"https://cdn.motor1.com/images/mgl/ZBXN3/s6/tesla-cybertruck-outdoor-image.jpg\"
+        class=\"desaturate\">                                        </picture>\n
+        \                                   </a>\n                                    <a
+        class=\"trending-content_link\"  href=\"/features/455777/tesla-cybertruck-undergoing-refresh/\">Tesla
+        Cybertruck 2.0: More On The Electric Pickup Truck's Makeover</a>\n                                </div>\n
+        \                                                                                                                           <div
+        class=\"trending-content_item\">\n                                    <a class=\"trending-content_thumb
+        thumb zoom\"  href=\"/reviews/455667/tesla-model-y-vs-porsche-taycan-range-battle/\">\n
+        \                                                                                   <picture
+        class=\"lazy\">\n                                            <source type=\"image/webp\"
+        srcset=\"https://cdn.motor1.com/images/mgl/mp3O4/s6/porsche-taycan-turbo-blue.webp\">\n
+        \                                           <source type=\"image/jpeg\" srcset=\"https://cdn.motor1.com/images/mgl/mp3O4/s6/porsche-taycan-turbo-blue.jpg\">\n
+        \                                           <img src=\"https://cdn.motor1.com/custom/share/placeholder_2.jpg\"
+        alt=\"Porsche Taycan Vs Tesla Model Y Real-World Range Test Vs EPA\" data-src=\"https://cdn.motor1.com/images/mgl/mp3O4/s6/porsche-taycan-turbo-blue.jpg\"
+        class=\"desaturate\">                                        </picture>\n
+        \                                   </a>\n                                    <a
+        class=\"trending-content_link\"  href=\"/reviews/455667/tesla-model-y-vs-porsche-taycan-range-battle/\">Porsche
+        Taycan Vs Tesla Model Y Real-World Range Test Vs EPA</a>\n                                </div>\n
+        \                                                                                                                           <div
+        class=\"trending-content_item\">\n                                    <a class=\"trending-content_thumb
+        thumb zoom\"  href=\"/features/455167/video-tesla-owner-reviews-porsche-taycan-turbo/\">\n
+        \                                                                                           <span
+        class=\"icon play\"></span>\n                                                                                    <picture
+        class=\"lazy\">\n                                            <source type=\"image/webp\"
+        srcset=\"https://cdn.motor1.com/images/mgl/x4RXp/s6/porsche-taycan-turbo-white-3.webp\">\n
+        \                                           <source type=\"image/jpeg\" srcset=\"https://cdn.motor1.com/images/mgl/x4RXp/s6/porsche-taycan-turbo-white-3.jpg\">\n
+        \                                           <img src=\"https://cdn.motor1.com/custom/share/placeholder_3.jpg\"
+        alt=\"Tesla Owner Drives Porsche Taycan Turbo: Offers Honest Review\" data-src=\"https://cdn.motor1.com/images/mgl/x4RXp/s6/porsche-taycan-turbo-white-3.jpg\"
+        class=\"desaturate\">                                        </picture>\n
+        \                                   </a>\n                                    <a
+        class=\"trending-content_link\"  href=\"/features/455167/video-tesla-owner-reviews-porsche-taycan-turbo/\">Tesla
+        Owner Drives Porsche Taycan Turbo: Offers Honest Review</a>\n                                </div>\n
+        \                                                                                                                           <div
+        class=\"trending-content_item\">\n                                    <a class=\"trending-content_thumb
+        thumb zoom\"  href=\"/news/455375/ford-big-depreciation-numbers-mustang-mach-e/\">\n
+        \                                                                                   <picture
+        class=\"lazy\">\n                                            <source type=\"image/webp\"
+        srcset=\"https://cdn.motor1.com/images/mgl/G6BzA/s6/ford-mustang-mach-e-in-europe.webp\">\n
+        \                                           <source type=\"image/jpeg\" srcset=\"https://cdn.motor1.com/images/mgl/G6BzA/s6/ford-mustang-mach-e-in-europe.jpg\">\n
+        \                                           <img src=\"https://cdn.motor1.com/custom/share/placeholder_4.jpg\"
+        alt=\"Report: Ford Preps For Big Depreciation For Mustang Mach-E: 39%\" data-src=\"https://cdn.motor1.com/images/mgl/G6BzA/s6/ford-mustang-mach-e-in-europe.jpg\"
+        class=\"desaturate\">                                        </picture>\n
+        \                                   </a>\n                                    <a
+        class=\"trending-content_link\"  href=\"/news/455375/ford-big-depreciation-numbers-mustang-mach-e/\">Report:
+        Ford Preps For Big Depreciation For Mustang Mach-E: 39%</a>\n                                </div>\n
+        \                                                   </div>\n                                                                        <div
+        class=\"apb apb-dmpu\"><div class=\"ap\" data-place=\"4\" style=\"width:300px;min-height:250px;\"
+        data-dfp-code=\"EV/ev_us/DMPU\" data-sizes=\"300x250,300x600\" data-width=\"300\"
+        data-height=\"250\" data-dfp-attrs='{\"lazy\":1,\"msnt_env\":\"production\",\"m1_banner_place\":\"dmpu\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"sidebar\"}'></div></div>
+        \                           </div>\n                <div class=\"clear\"></div>\n
+        \   </div>\n</div>\n\n        \n\n<div id=\"container_3rd_party_service\"
+        class=\"container_3rd_party pre-center padding print-hide\" data-edtn=\"ev_us\">\n\n
+        \           <div id=\"strossle-container\">\n        </div>\n    \n    <div
+        class=\"content-area\">\n        <div class=\"content-area-box\">\n                            <div
+        class=\"trending-content b-m-padding b-padding trending-content_mobile\">\n
+        \                   <div class=\"content-header\">\n                        <p
+        class=\"trending-content_header\">Trending</p>\n                    </div>\n
+        \                                                                   <div class=\"trending-content_item
+        trending-content_item-mobile\">\n                            <a class=\"trending-content_thumb
+        thumb zoom lazy\" href=\"/news/455665/porsche-taycan-crash-landed-on-another-car/\"
+        data-srcset=\"https://cdn.motor1.com/images/mgl/ErGwo/s6/taycan-uk-crash.jpg\"
+        data-srcset2x=\"https://cdn.motor1.com/images/mgl/ErGwo/s6/taycan-uk-crash.jpg\">\n
+        \                                                                   <span
+        class=\"icon play\"></span>\n                                                                <picture
+        class=\"lazy\">\n                                    <source type=\"image/webp\"
+        srcset=\"https://cdn.motor1.com/images/mgl/ErGwo/s6/taycan-uk-crash.webp\">\n
+        \                                   <source type=\"image/jpeg\" srcset=\"https://cdn.motor1.com/images/mgl/ErGwo/s6/taycan-uk-crash.jpg\">\n
+        \                                   <img src=\"https://cdn.motor1.com/q/images/mgl/VE1yz/s7/motor1-placeholder.jpg\"
+        data-src=\"https://cdn.motor1.com/images/mgl/ErGwo/s6/taycan-uk-crash.jpg\"
+        alt=\"Porsche Taycan Parking Goes Wrong - It Hits One Car, Lands On Another\"/>\n
+        \                               </picture>\n                            </a>\n
+        \                           <a class=\"trending-content_link\" href=\"/news/455665/porsche-taycan-crash-landed-on-another-car/\">Porsche
+        Taycan Parking Goes Wrong - It Hits One Car, Lands On Another</a>\n                        </div>\n
+        \                                                                   <div class=\"trending-content_item
+        trending-content_item-mobile\">\n                            <a class=\"trending-content_thumb
+        thumb zoom lazy\" href=\"/features/455777/tesla-cybertruck-undergoing-refresh/\"
+        data-srcset=\"https://cdn.motor1.com/images/mgl/ZBXN3/s6/tesla-cybertruck-outdoor-image.jpg\"
+        data-srcset2x=\"https://cdn.motor1.com/images/mgl/ZBXN3/s6/tesla-cybertruck-outdoor-image.jpg\">\n
+        \                                                               <picture class=\"lazy\">\n
+        \                                   <source type=\"image/webp\" srcset=\"https://cdn.motor1.com/images/mgl/ZBXN3/s6/tesla-cybertruck-outdoor-image.webp\">\n
+        \                                   <source type=\"image/jpeg\" srcset=\"https://cdn.motor1.com/images/mgl/ZBXN3/s6/tesla-cybertruck-outdoor-image.jpg\">\n
+        \                                   <img src=\"https://cdn.motor1.com/q/images/mgl/VE1yz/s7/motor1-placeholder.jpg\"
+        data-src=\"https://cdn.motor1.com/images/mgl/ZBXN3/s6/tesla-cybertruck-outdoor-image.jpg\"
+        alt=\"Tesla Cybertruck 2.0: More On The Electric Pickup Truck's Makeover\"/>\n
+        \                               </picture>\n                            </a>\n
+        \                           <a class=\"trending-content_link\" href=\"/features/455777/tesla-cybertruck-undergoing-refresh/\">Tesla
+        Cybertruck 2.0: More On The Electric Pickup Truck's Makeover</a>\n                        </div>\n
+        \                                                                   <div class=\"trending-content_item
+        trending-content_item-mobile\">\n                            <a class=\"trending-content_thumb
+        thumb zoom lazy\" href=\"/reviews/455667/tesla-model-y-vs-porsche-taycan-range-battle/\"
+        data-srcset=\"https://cdn.motor1.com/images/mgl/mp3O4/s6/porsche-taycan-turbo-blue.jpg\"
+        data-srcset2x=\"https://cdn.motor1.com/images/mgl/mp3O4/s6/porsche-taycan-turbo-blue.jpg\">\n
+        \                                                               <picture class=\"lazy\">\n
+        \                                   <source type=\"image/webp\" srcset=\"https://cdn.motor1.com/images/mgl/mp3O4/s6/porsche-taycan-turbo-blue.webp\">\n
+        \                                   <source type=\"image/jpeg\" srcset=\"https://cdn.motor1.com/images/mgl/mp3O4/s6/porsche-taycan-turbo-blue.jpg\">\n
+        \                                   <img src=\"https://cdn.motor1.com/q/images/mgl/VE1yz/s7/motor1-placeholder.jpg\"
+        data-src=\"https://cdn.motor1.com/images/mgl/mp3O4/s6/porsche-taycan-turbo-blue.jpg\"
+        alt=\"Porsche Taycan Vs Tesla Model Y Real-World Range Test Vs EPA\"/>\n                                </picture>\n
+        \                           </a>\n                            <a class=\"trending-content_link\"
+        href=\"/reviews/455667/tesla-model-y-vs-porsche-taycan-range-battle/\">Porsche
+        Taycan Vs Tesla Model Y Real-World Range Test Vs EPA</a>\n                        </div>\n
+        \                                                                   <div class=\"trending-content_item
+        trending-content_item-mobile\">\n                            <a class=\"trending-content_thumb
+        thumb zoom lazy\" href=\"/features/455167/video-tesla-owner-reviews-porsche-taycan-turbo/\"
+        data-srcset=\"https://cdn.motor1.com/images/mgl/x4RXp/s6/porsche-taycan-turbo-white-3.jpg\"
+        data-srcset2x=\"https://cdn.motor1.com/images/mgl/x4RXp/s6/porsche-taycan-turbo-white-3.jpg\">\n
+        \                                                                   <span
+        class=\"icon play\"></span>\n                                                                <picture
+        class=\"lazy\">\n                                    <source type=\"image/webp\"
+        srcset=\"https://cdn.motor1.com/images/mgl/x4RXp/s6/porsche-taycan-turbo-white-3.webp\">\n
+        \                                   <source type=\"image/jpeg\" srcset=\"https://cdn.motor1.com/images/mgl/x4RXp/s6/porsche-taycan-turbo-white-3.jpg\">\n
+        \                                   <img src=\"https://cdn.motor1.com/q/images/mgl/VE1yz/s7/motor1-placeholder.jpg\"
+        data-src=\"https://cdn.motor1.com/images/mgl/x4RXp/s6/porsche-taycan-turbo-white-3.jpg\"
+        alt=\"Tesla Owner Drives Porsche Taycan Turbo: Offers Honest Review\"/>\n
+        \                               </picture>\n                            </a>\n
+        \                           <a class=\"trending-content_link\" href=\"/features/455167/video-tesla-owner-reviews-porsche-taycan-turbo/\">Tesla
+        Owner Drives Porsche Taycan Turbo: Offers Honest Review</a>\n                        </div>\n
+        \                                                                   <div class=\"trending-content_item
+        trending-content_item-mobile\">\n                            <a class=\"trending-content_thumb
+        thumb zoom lazy\" href=\"/news/455375/ford-big-depreciation-numbers-mustang-mach-e/\"
+        data-srcset=\"https://cdn.motor1.com/images/mgl/G6BzA/s6/ford-mustang-mach-e-in-europe.jpg\"
+        data-srcset2x=\"https://cdn.motor1.com/images/mgl/G6BzA/s6/ford-mustang-mach-e-in-europe.jpg\">\n
+        \                                                               <picture class=\"lazy\">\n
+        \                                   <source type=\"image/webp\" srcset=\"https://cdn.motor1.com/images/mgl/G6BzA/s6/ford-mustang-mach-e-in-europe.webp\">\n
+        \                                   <source type=\"image/jpeg\" srcset=\"https://cdn.motor1.com/images/mgl/G6BzA/s6/ford-mustang-mach-e-in-europe.jpg\">\n
+        \                                   <img src=\"https://cdn.motor1.com/q/images/mgl/VE1yz/s7/motor1-placeholder.jpg\"
+        data-src=\"https://cdn.motor1.com/images/mgl/G6BzA/s6/ford-mustang-mach-e-in-europe.jpg\"
+        alt=\"Report: Ford Preps For Big Depreciation For Mustang Mach-E: 39%\"/>\n
+        \                               </picture>\n                            </a>\n
+        \                           <a class=\"trending-content_link\" href=\"/news/455375/ford-big-depreciation-numbers-mustang-mach-e/\">Report:
+        Ford Preps For Big Depreciation For Mustang Mach-E: 39%</a>\n                        </div>\n
+        \                                   </div>\n                    </div>\n    </div>\n
+        \                   <div class=\"myevFeedContainer\" data-tags=\"fisker emotion,Fisker\"></div>\n
+        \       <script type=\"text/javascript\" src=\"https://www.myev.com/js/insideevs_v1.2.js\"
+        defer></script>\n    \n    \n    \n            <div id=\"sponsored_content\">\n
+        \       </div>\n    \n        <div class=\"content-area\">\n        <div class=\"content-area-box\">\n
+        \                           <div id=\"comments\" class=\"comment-container
+        no-apb\">\n                                                                                            <div
+        id=\"disqus_thread\" class=\"diquas-wrapper\" data-cid=\"article-343447\"
+        data-url=\"/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-title=\"Fisker Reveals Long-Range Electric Crossover: Claims Sub-$40,000
+        Price\">\n                            </div>\n                                                                                                                <div
+        class=\"pre-center padding print-hide\">\n        <div class=\"content-area\">\n
+        \           <div class=\"content-area-box\">\n                <p class=\"text-uppercase
+        bottom-heading\">About this article</p>\n                <table class=\"additionalInfo\">\n
+        \                                                                                   <tr>\n
+        \                           <td>Tags</td>\n                            <td>\n
+        \                               <div class=\"list\">\n                                                                            <a
+        href=\"/tag/fisker-emotion/\">fisker emotion</a>\n                                                                    </div>\n
+        \                           </td>\n                        </tr>\n                                                                                                <tr>\n
+        \                               <td>Make/Model</td>\n                                <td>\n
+        \                                   <div class=\"list\">\n                                                                                                                                <a
+        href=\"/fisker/karma/\">Fisker Karma</a>\n                                                                            </div>\n
+        \                               </td>\n                            </tr>\n
+        \                                                   <tr>\n                                <td>Body
+        Style</td>\n                                <td>\n                                    <div
+        class=\"list\">\n                                                                                                                                                                                                                                                                                                                                                    <a
+        href=\"/body-styles/sedan/\">\n                                                Sedan
+        \                                           </a>\n                                                                            </div>\n
+        \                               </td>\n                            </tr>\n
+        \                                                           </table>\n            </div>\n
+        \           <div class=\"sidebar\">\n\n            </div>\n            <div
+        class=\"clear\"></div>\n        </div>\n    </div>                                    </div>\n
+        \                                           </div>\n        <div class=\"sidebar\">\n
+        \                           <div class=\"mobile-adv\">\n                    <div
+        class=\"apb apb-dmpu\"><div class=\"ap\" data-place=\"4\" style=\"width:300px;min-height:250px;\"
+        data-dfp-code=\"EV/ev_us/DMPU\" data-sizes=\"300x250,300x600\" data-width=\"300\"
+        data-height=\"250\" data-dfp-attrs='{\"lazy\":1,\"msnt_env\":\"production\",\"m1_banner_place\":\"dmpu\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"sidebar\"}'></div></div>
+        \               </div>\n                <div class=\"lazy-load-adv\">\n                    <div
+        class=\"apb apb-dmpu\"><div class=\"ap\" data-place=\"4\" style=\"width:300px;min-height:250px;\"
+        data-dfp-code=\"EV/ev_us/DMPU\" data-sizes=\"300x250,300x600\" data-width=\"300\"
+        data-height=\"250\" data-dfp-attrs='{\"lazy\":1,\"msnt_env\":\"production\",\"m1_banner_place\":\"dmpu\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"sidebar\"}'></div></div>
+        \               </div>\n                    </div>\n        <div class=\"clear\"></div>\n\n
+        \   </div>\n\n\n    \n\n\n    \n                </div>\n\n<div class=\"pre-center
+        mobile-skyscraper-box\">\n            <div class=\"apb apb-dmpu\"><div class=\"ap\"
+        data-place=\"4\" style=\"width:300px;min-height:250px;\" data-dfp-code=\"EV/ev_us/DMPU\"
+        data-sizes=\"300x250,300x600\" data-width=\"300\" data-height=\"250\" data-dfp-attrs='{\"lazy\":1,\"msnt_env\":\"production\",\"m1_banner_place\":\"dmpu\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"sidebar\"}'></div></div>
+        \   \n</div>\n\n<div class=\"cpre-center print-hide\">\n    </div>\n\n    <div
+        id=\"stop_share_box\" class=\"print-hide\"></div>\n\n<div  id=\"ap_popup_gallery_top\"><div
+        class=\"apb leaderboard\"><div class=\"ap\" data-place=\"1\" style=\"width:728px;min-height:90px;\"
+        data-dfp-code=\"EV/ev_us/Leaderboard\" data-width=\"728\" data-height=\"90\"
+        data-dfp-attrs='{\"lazy\":1,\"msnt_env\":\"production\",\"m1_banner_place\":\"popup_gallery_top\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"popup_gallery_top\"}'></div></div><div
+        class=\"apb super\"><div class=\"ap\" data-place=\"12\" style=\"width:970px;min-height:90px;\"
+        data-dfp-code=\"EV/ev_us/Super\" data-width=\"970\" data-height=\"90\" data-dfp-attrs='{\"lazy\":1,\"msnt_env\":\"production\",\"m1_banner_place\":\"popup_gallery_top\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"popup_gallery_top\"}'></div></div></div><div
+        id=\"ap_popup_gallery_rectangle\"><div class=\"ap\" data-place=\"4\" style=\"width:300px;min-height:250px;\"
+        data-dfp-code=\"EV/ev_us/DMPU\" data-sizes=\"300x250,300x600\" data-width=\"300\"
+        data-height=\"250\" data-dfp-attrs='{\"lazy\":1,\"msnt_env\":\"production\",\"m1_banner_place\":\"popup_gallery_rectangle\",\"m1_edition\":\"ev_us\",\"m1_article_type\":\"news\",\"m1_page_content_id\":343447,\"m1_page_type\":\"detail\",\"m1_page_content_type\":\"article\",\"m1_makes\":[\"fisker\"],\"m1_models\":[\"karma\"],\"m1_tags\":[\"fisker
+        emotion\"],\"m1_body_types\":[\"sedan\"],\"m1_model_segments\":[\"f\"],\"m1_banner_position\":\"popup_gallery_rectangle\"}'></div></div>\n
+        \       </div>\n\n\n<div class=\"m1-left-side\">\n    <div class=\"m1-drawer
+        left-to-right disabled\" data-button-target=\"mainMenu\">\n        <div onclick=\"\"
+        data-button data-id=\"toggleBox\" data-close-delay=\"0.5\" data-value=\"mainMenu\"
+        data-hide-scroll=\"m1-left-side-box\" data-clear=\"2\" class=\"m1-drawer-close-button
+        dark active\" data-toggle=\"1\" data-multi></div>\n        <div class=\"m1-left-side-top\">\n
+        \           <div class=\"m1-user-side-label\">\n                <span class=\"label
+        flex-parent two-line\">\n                   <a class=\"login\" href=\"/connect/msnt/\">Sign
+        In</a>\n                   <span class=\"hide_mobile\">or</span>\n                   <a
+        class=\"register\" href=\"/connect/msnt/?is_registration=1\">Sign Up</a>\n
+        \               </span>\n                <span class=\"hide_mobile userpic
+        icon-user\"></span>\n            </div>\n        </div>\n        <div class=\"m1-left-side-box\">\n
+        \                       <ul class=\"m1-navigation-main print-hide\">\n                        <li
+        class=\"grand top left mobile\">\n            <a href=\"/news/\" >\n                News
+        \           </a>\n        </li>\n                    <li class=\"grand top
+        left\">\n            <a href=\"/reviews/\" >\n                Reviews            </a>\n
+        \       </li>\n                    <li class=\"grand left\">\n            <a
+        href=\"/features/\" >\n                Features            </a>\n        </li>\n
+        \                   <li class=\"mobile\">\n            <a href=\"/tesla/\"
+        >\n                Tesla            </a>\n        </li>\n                    <li
+        class=\"top left\">\n            <a href=\"/reviews/344001/compare-evs/\"
+        >\n                Compare EVs            </a>\n        </li>\n                    <li
+        class=\"left\">\n            <a href=\"/features/341500/the-ultimate-buyers-guide-to-home-ev-chargers-plus-top-5-picks/\"
+        >\n                Charger Guide            </a>\n        </li>\n                    <li
+        class=\"left\">\n            <a href=\"/features/category/buying-advice/\"
+        >\n                Buying Advice            </a>\n        </li>\n                    <li
+        class=\"left\">\n            <a href=\"/news/343998/monthly-plug-in-ev-sales-scorecard/\"
+        >\n                EV Sales Scorecard            </a>\n        </li>\n                    <li
+        class=\"mobile\">\n            <a href=\"/news/343998/monthly-plug-in-ev-sales-scorecard/\"
+        >\n                EV Sales            </a>\n        </li>\n                    <li
+        class=\"left\">\n            <a href=\"/makes/\" >\n                Makes
+        \           </a>\n        </li>\n                    <li class=\"left\">\n
+        \           <a href=\"/body-styles/\" >\n                Body Style            </a>\n
+        \       </li>\n                    <li class=\"left top _blank\">\n            <a
+        href=\"https://insideevsforum.com/community/index.php\" target = \"_blank\">\n
+        \               Forum            </a>\n        </li>\n                    <li
+        class=\"left _blank\">\n            <a href=\"https://www.myev.com/cars-for-sale\"
+        target = \"_blank\">\n                Buy            </a>\n        </li>\n
+        \                   <li class=\"podcast ico left\">\n            <a href=\"https://insideevs.com/features/category/podcast/\"
+        >\n                Podcast            </a>\n        </li>\n                    <li
+        class=\"photos ico left\">\n            <a href=\"/photos/\" >\n                Photos
+        \           </a>\n        </li>\n                    <li class=\"videos ico
+        left\">\n            <a href=\"/videos/\" >\n                Videos            </a>\n
+        \       </li>\n                    <li class=\"top plugin-sale\">\n            <a
+        href=\"/news/343998/monthly-plug-in-ev-sales-scorecard/\" >\n                Ev
+        Sales Scorecard            </a>\n        </li>\n    </ul>            <div
+        class=\"m1-menus-box\">\n                <div class=\"m1-extra-menus-box\">\n
+        \                   <a href=\"/\" class=\"m1-side-logo\"></a>\n                                        <div
+        class=\"m1-editions-switcher-mobile\">\n                        <a href=\"/info/about-us/\"
+        class=\"m1-editions-switcher\" onclick=\"\" data-close-delay=\"0.5\" data-delay=\"0.01\"
+        data-button=\"\" data-hide-scroll=\"m1-scrollbar\" data-id=\"toggleBox\" data-value=\"editionsMenu\"
+        data-clear=\"2\" data-multi=\"\">\n                            <span class=\"title\">Edition:</span>\n
+        \                                                       <span class=\"edf
+        edf-230\"></span>\n                                                    </a>\n
+        \                   </div>\n                    \n                                            <ul
+        class=\"m1-social-menu\">\n                                                                                <li
+        class=\"facebook\"><a class=\"icon-facebook-redirect-link\" href=\"https://www.facebook.com/InsideeVs/\"
+        target=\"_blank\"></a></li>\n                                                                                                                                                                <li
+        class=\"twitter\"><a class=\"icon-twitter-redirect-link\" href=\"https://twitter.com/InsideEVs\"
+        target=\"_blank\"></a></li>\n                                                                                                                                                                <li
+        class=\"flipboard\"><a class=\"icon-flipboard-redirect-link\" href=\"https://flipboard.com/@InsideEVs\"
+        target=\"_blank\"></a></li>\n                                                                                                                                                                                                                    <li
+        class=\"gnews\"><a class=\"icon-gnews-redirect-link\" href=\"https://news.google.com/publications/CAAqBwgKMLHIlAswkJCqAw\"
+        target=\"_blank\"></a></li>\n                                                                                                                                                                                                                                                                                                                            <li
+        class=\"youtube\"><a class=\"icon-youtube-redirect-link\" href=\"https://www.youtube.com/channel/UCw4aq8JMlCMBMOQ0PliCkIQ?sub_confirmation=1\"
+        target=\"_blank\"></a></li>\n                                                                                                                                                                                                                    <li
+        class=\"rss\"><a class=\"icon-rss-redirect-link\" href=\"/rss/\" ></a></li>\n
+        \                                                                           </ul>\n
+        \                   \n                    <ul class=\"m1-info-menu\">\n                        <li><a
+        href=\"/info/about-us/\">About Us</a></li>\n                                                    <li><a
+        href=\"https://newsletter.insideevs.com/signup/\" target=\"_blank\">Newsletter</a></li>\n
+        \                                               <li><a href=\"/info/advertising/\">Advertising</a></li>\n
+        \                       <li><a href=\"/info/feedback/tip-us/\">Tip us</a></li>\n
+        \                       <li><a href=\"/info/contact/\">Contact</a></li>\n
+        \                                                   <li class=\"one-trust\">\n
+        \                               <!-- OneTrust Cookies Settings button start
+        -->\n                                <button id=\"ot-sdk-btn\" class=\"ot-sdk-show-settings\">Cookie
+        Settings</button>\n                                <!-- OneTrust Cookies Settings
+        button end -->\n                            </li>\n                                                <li><a
+        href=\"/info/cookie-policy/\">Cookie policy</a></li>\n                        <li><a
+        href=\"https://accounts.motorsportnetwork.com/legal/privacy-policy\" target=\"_blank\">Privacy
+        policy</a></li>\n                    </ul>\n\n                </div>\n                <div
+        class=\"m1-msn-menus-box\">\n                    <ul class=\"m1-msn-menu\">\n\n
+        \                       \n                        \n                                                \n
+        \                       \n                        \n                                                    <li
+        class=\"autoclassics\"><a href=\"https://www.autoclassics.com/\" target=\"_blank\">www.autoclassics.com</a></li>\n
+        \                       \n                        \n                                                    <li
+        class=\"motor1\"><a href=\"https://www.motor1.com/\" target=\"_blank\">www.motor1.com</a></li>\n
+        \                       \n                                                   <li
+        class=\"myen\"><a href=\"https://www.myev.com/\" target=\"_blank\">www.myev.com/</a></li>\n
+        \                       \n                        \n                        \n
+        \                       \n                        \n                        \n
+        \                   </ul>\n                </div>\n                <div class=\"m1-footer\">\n
+        \                   &copy; 2020 <a target=\"_blank\" class=\"m1-msn-name\"
+        href=\"https://www.motorsportnetwork.com/company/about\">Motorsport Network.</a>
+        \                                                        </div>\n                            </div>\n
+        \       </div>\n    </div>\n    <div class=\"m1-drawer-overlay\"></div>\n</div>\n
+        \   \n<div class=\"m1-right-side\">\n    <div class=\"m1-drawer right-to-left
+        disabled\" data-button-target=\"editionsMenu\">\n        \n        <div onclick=\"\"
+        data-button data-id=\"toggleBox\" data-value=\"editionsMenu\" data-close-delay=\"0.5\"
+        data-hide-scroll=\"m1-scrollbar\" data-clear=\"2\" class=\"m1-drawer-close-button
+        active\" data-toggle=\"1\" data-multi></div>\n    \n        <div class=\"m1-editions-switcher
+        active\" data-close-delay=\"0.5\" data-delay=\"0.01\" onclick=\"\" data-button
+        data-id=\"toggleBox\" data-value=\"editionsMenu\" data-clear=\"2\" data-toggle=\"1\"
+        data-multi>\n                        <span class=\"edf edf-230\"></span>\n
+        \                       <span class=\"title\">USA / Global</span>\n        </div>\n
+        \       <div class=\"m1-editions-label\">Our International Editions</div>\n
+        \       <div class=\"m1-editions-box m1-scrollbar\">\n            \n            <ul
+        class=\"m1-editions-list\">\n                            <li class=\"current\">\n\n
+        \                   <a href=\"https://insideevs.com\">\n                                        <span
+        class=\"flags\">\n                                            <span class=\"edf
+        edf-230\"></span>\n                                        </span>\n                    <span
+        class=\"label\">\n                                        InsideEVs: USA /
+        Global                    </span>\n                    </a>\n                </li>\n
+        \                           <li>\n\n                    <a href=\"https://insideevs.fr\">\n
+        \                                       <span class=\"flags\">\n                                            <span
+        class=\"edf edf-72\"></span>\n                                            <span
+        class=\"edf edf-21\"></span>\n                                            <span
+        class=\"edf edf-211\"></span>\n                                            <span
+        class=\"edf edf-145\"></span>\n                                            <span
+        class=\"edf edf-128\"></span>\n                                        </span>\n
+        \                   <span class=\"label\">\n                                        InsideEVs:
+        France                    </span>\n                    </a>\n                </li>\n
+        \                           <li>\n\n                    <a href=\"https://insideevs.it\">\n
+        \                                       <span class=\"flags\">\n                                            <span
+        class=\"edf edf-106\"></span>\n                                        </span>\n
+        \                   <span class=\"label\">\n                                        InsideEVs:
+        Italy                    </span>\n                    </a>\n                </li>\n
+        \                           <li>\n\n                    <a href=\"https://insideevs.uol.com.br\">\n
+        \                                       <span class=\"flags\">\n                                            <span
+        class=\"edf edf-30\"></span>\n                                            <span
+        class=\"edf edf-177\"></span>\n                                        </span>\n
+        \                   <span class=\"label\">\n                                        InsideEVs:
+        Brasil                    </span>\n                    </a>\n                </li>\n
+        \                           <li>\n\n                    <a href=\"https://insideevs.ru\">\n
+        \                                       <span class=\"flags\">\n                                            <span
+        class=\"edf edf-182\"></span>\n                                            <span
+        class=\"edf edf-20\"></span>\n                                            <span
+        class=\"edf edf-227\"></span>\n                                            <span
+        class=\"edf edf-112\"></span>\n                                        </span>\n
+        \                   <span class=\"label\">\n                                        InsideEVs:
+        Russia                    </span>\n                    </a>\n                </li>\n
+        \                           <li>\n\n                    <a href=\"https://insideevs.com.tr\">\n
+        \                                       <span class=\"flags\">\n                                            <span
+        class=\"edf edf-222\"></span>\n                                        </span>\n
+        \                   <span class=\"label\">\n                                        InsideEVs:Turkey
+        \                   </span>\n                    </a>\n                </li>\n
+        \                           <li>\n                                    </li>\n
+        \           </ul>\n            \n        </div>\n\n\n    \n    </div>\n    <div
+        class=\"m1-drawer-overlay\"></div>\n</div>\n<m1-check-availability-response-dialog\n
+        \       user-data='{\"email\":\"\",\"zip\":\"14623\",\"phone\":\"\",\"firstName\":\"\",\"lastName\":\"\"}'\n
+        \       edition=\"ev_us\"\n        oem-url=\"/buy/new/lead/\"\n        vin-url=\"/buy/used/lead/\"\n></m1-check-availability-response-dialog>\n\n\n
+        \   <div id=\"share_box_content_wrapper\">\n        <div slot=\"share-box\"
+        class=\"big-shareBox shareBox share-box-dropdown to-down\"><div class=\"share-box-wrapper\"><span
+        class=\"shareBox-separator\" data-value=\"share-list-1605998457\" data-button
+        onClick=\"\" data-id=\"toggleBox\" data-static> <span class=\"active\"><span
+        class=\"icon-plus\">+</span></span><span class=\"passive\"><span class=\"icon-plus\">+</span></span></span><a
+        href=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        class=\"share-button share-button-gallery\"><span class=\"icon share-empty\"></span></a><div
+        class=\"share-list\" data-button-target=\"share-list-1605998457\"><ul><li
+        class=\"facebook\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-extra-params=\"id:'343447',type_id:'1'\"
+        data-value=\"1\" data-share-network=\"Facebook\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"600\" data-height=\"600\" href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F\"><span
+        class=\"social-bg icon facebook\"></span><span class=\"name\">Share on Facebook</span></a></li><li
+        class=\"twitter\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-extra-params=\"id:'343447',type_id:'1'\"
+        data-value=\"2\" data-share-network=\"Twitter\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"600\" data-height=\"450\" href=\"https://twitter.com/intent/tweet?url=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F&text=Fisker+Reveals+Long-Range+Electric+Crossover%3A+Claims+Sub-%2440%2C000+Price&via=insideevs.com\"><span
+        class=\"social-bg icon twitter\"></span><span class=\"name\">Share on Twitter</span></a></li><li
+        class=\"linkedin\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-extra-params=\"id:'343447',type_id:'1'\"
+        data-value=\"3\" data-share-network=\"LinkedIn\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"600\" data-height=\"600\" href=\"https://www.linkedin.com/cws/share?url=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F\"><span
+        class=\"social-bg icon linkedin\"></span><span class=\"name\">Share on LinkedIn</span></a></li><li
+        class=\"flipboard\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-extra-params=\"id:'343447',type_id:'1'\"
+        data-value=\"7\" data-share-network=\"Flipboard\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"600\" data-height=\"600\" href=\"https://share.flipboard.com/bookmarklet/popout?url=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F&title=Fisker+Reveals+Long-Range+Electric+Crossover%3A+Claims+Sub-%2440%2C000+Price&v=2\"><span
+        class=\"social-bg icon flipboard\"></span><span class=\"name\">Share on Flipboard</span></a></li><li
+        class=\"reddit\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-extra-params=\"id:'343447',type_id:'1'\"
+        data-value=\"6\" data-share-network=\"Reddit\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"900\" data-height=\"600\" href=\"https://www.reddit.com/submit?url=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F\"><span
+        class=\"social-bg icon reddit\"></span><span class=\"name\">Share on Reddit</span></a></li><li
+        class=\"whatsapp\"><a data-button=\"\" data-id=\"share\" data-url=\"/connect/share/\"
+        data-name=\"network_id\" target=\"_blank\" data-extra-params=\"id:'343447',type_id:'1'\"
+        data-value=\"6\" data-share-network=\"WhatsApp\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"600\" data-height=\"600\" href=\"https://api.whatsapp.com/send?text=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F\"><span
+        class=\"social-bg icon whatsapp\"></span><span class=\"name\">Share on WhatsApp</span></a></li><li
+        class=\"mailto\"><a data-button=\"\" data-id=\"mailTo\" target=\"_blank\"
+        data-extra-params=\"id:'343447',type_id:'1'\" data-share-url=\"https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/\"
+        data-width=\"600\" data-height=\"400\" href=\"mailto:?body=https%3A%2F%2Finsideevs.com%2Fnews%2F343447%2Ffisker-reveals-long-range-electric-crossover-claims-sub-40000-price%2F&subject=Fisker%20Reveals%20Long-Range%20Electric%20Crossover%3A%20Claims%20Sub-%2440%2C000%20Price\"><span
+        class=\"social-bg icon mailto\"></span><span class=\"name\">Send to email</span></a></li></ul></div></div></div>
+        \   </div>\n\n\n<!--<div class=\"adminInfoBoxx\"></div>-->\n\n<div class=\"m1-footer-messages\"></div>\n\n<script>\n
+        \    window.gadsId = false;\n</script>\n<script>\n    var m1FooterMessages
+        = [];\n    m1FooterMessages.push({\n        message: \"This website uses cookies
+        to ensure you get the best experience on our website. By closing this banner,
+        scrolling this page you consent to the use of cookies. <a id='cookie_accept_link'
+        data-id='footerMessageAccept' data-button='' href='/info/cookie-policy/'>More
+        info.</a>\",\n        name: \"cookie_accept\"\n    });\n    </script>\n\n<script
+        defer type=\"text/javascript\" src=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/design/build/jslangs/insideevs_en_US_1c7a4d6c40d672f35017b11d02f66377.js\"></script>\n<script
+        defer type=\"text/javascript\" src=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/design/dist/js/0_134814e733b5fed8c7c2.js\"></script><script
+        defer type=\"text/javascript\" src=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/design/dist/js/2_134814e733b5fed8c7c2.js\"></script><script
+        defer type=\"text/javascript\" src=\"https://cdn.motor1.com/kp/static4ui/prod_v2_eks_180/design/dist/js/11_134814e733b5fed8c7c2.js\"></script>\n\n\n
+        \   \n<script>\ngtmDataLayer = [{\n    'currentEdition': 'ev_us',\n    'currentEnv':
+        'production',\n        'pageType': 'detail',\n            'entityType': 'article',\n
+        \           'make': 'Fisker',\n            'model': 'Karma',\n            'pageId':
+        'index_articles_detail',\n            'entityAuthors': [\"Steven Loveday\"],\n
+        \           'pageUrl': 'https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/',\n
+        \           'pageUrlCanonical': 'https://insideevs.com/news/343447/fisker-reveals-long-range-electric-crossover-claims-sub-40000-price/',\n
+        \           'pageLanguage': 'en',\n                'articleType': 'news',\n
+        \                   'entityTitle': 'Fisker Reveals Long-Range Electric Crossover:
+        Claims Sub-$40,000 Price',\n            'pageTitle': 'Fisker Reveals Long-Range
+        Electric Crossover: Claims Sub-$40,000 Price',\n            'articleId': '343447',\n
+        \           'tags': [\"fisker emotion\"],\n                'bodyStyles': [\"Sedan\"],\n
+        \       'sessionId': '2a05c49acdc32eebe5077b459464b576'\n}];\n</script>\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew
+        Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','gtmDataLayer','GTM-TJCLXGW');</script>\n\n<script>\n(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew
+        Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','gtmDataLayer',
+        'GTM-M4M4LBT');\n</script>\n\n\n\n\n<!-- <script>\n    window.onload = function()
+        {\n\n        if ((typeof $.cookie('PHPSESSID') === 'undefined') || (typeof
+        $.cookie('is_logged_in') !== 'undefined')){\n            $.get('/layout-auth-data/',
+        function(data) {\n                $('.m1-user-side-label').html(data);\n\n
+        \               var loginButton = document.getElementsByClassName('login')[0];\n
+        \               var registerButton = document.getElementsByClassName('register')[0];\n\n
+        \               if (msnt) {\n                    if (loginButton) {\n                        loginButton.addEventListener('click',
+        function(event){\n                            event.preventDefault();\n                            event.stopPropagation();\n
+        \                           window.msnt.register = false;\n                            msnt.openIframeWindow();\n
+        \                       });\n                    }\n                    if
+        (registerButton) {\n                        registerButton.addEventListener('click',
+        function(event){\n                        event.preventDefault();\n                        event.stopPropagation();\n
+        \                       window.msnt.register = true;\n                        msnt.openIframeWindow();\n
+        \                       });\n                    }\n                }\n            });\n\n
+        \           var loginButton = document.getElementsByClassName('login')[0];\n
+        \           var registerButton = document.getElementsByClassName('register')[0];\n\n
+        \           if (msnt) {\n                if (loginButton) {\n                    loginButton.addEventListener('click',
+        function(event){\n                        event.preventDefault();\n                        event.stopPropagation();\n
+        \                       window.msnt.register = false;\n                        msnt.openIframeWindow();\n
+        \                   });\n                }\n\n                if (registerButton)
+        {\n                    registerButton.addEventListener('click', function(event){\n
+        \                       event.preventDefault();\n                        event.stopPropagation();\n
+        \                       window.msnt.register = true;\n                        msnt.openIframeWindow();\n
+        \                   });\n                }\n            }\n        }\n    }\n\n</script>
+        -->\n</body>\n</html>\n"
+    headers:
+      Accept-Ranges:
+      - bytes
+      Age:
+      - '2154'
+      Cache-Control:
+      - no-store, no-cache, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Security-Policy:
+      - frame-ancestors *.insideevs.com insideevs.com
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Sat, 21 Nov 2020 23:03:35 GMT
+      Expires:
+      - Thu, 19 Nov 1981 08:52:00 GMT
+      Pragma:
+      - no-cache
+      Server:
+      - nginx/1.12.2
+      Strict-Transport-Security:
+      - max-age=31536000; includeSubdomains; preload
+      Vary:
+      - Accept-Encoding
+      Via:
+      - 1.1 varnish (Varnish/6.0)
+      X-Cache:
+      - HIT!
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Varnish:
+      - 6906924 7179498
+      content-length:
+      - '103295'
+    status:
+      code: 200
+      message: OK
+version: 1

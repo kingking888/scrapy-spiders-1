@@ -1,0 +1,1877 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - investorplace.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://investorplace.com/2020/08/fisker-spaq-stock-car-company-first-tech-firm-second/
+  response:
+    body:
+      string: "<!DOCTYPE html>\n<html lang=\"en-US\">\n\n<head>\n\t<title>\n\t\tWhy
+        SPAQ Stock Is a Car Company First, And A Tech Firm Second | InvestorPlace\t</title>\n\n\t<link
+        rel=\"profile\" href=\"http://gmpg.org/xfn/11\" />\n\t\n\t<meta http-equiv=\"Content-Type\"
+        content=\"text/html; charset=UTF-8\">\n\t<meta http-equiv=\"X-UA-Compatible\"
+        content=\"IE=edge\"><script type=\"text/javascript\">(window.NREUM||(NREUM={})).loader_config={licenseKey:\"37729af97b\",applicationID:\"117864961\"};window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function
+        r(n){if(!t[n]){var i=t[n]={exports:{}};e[n][0].call(i.exports,function(t){var
+        i=e[n][1][t];return r(i||t)},i,i.exports)}return t[n].exports}if(\"function\"==typeof
+        __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return
+        r}({1:[function(e,t,n){function r(){}function i(e,t,n){return function(){return
+        o(e,[u.now()].concat(c(arguments)),t?null:this,n),t?void 0:this}}var o=e(\"handle\"),a=e(6),c=e(7),f=e(\"ee\").get(\"tracer\"),u=e(\"loader\"),s=NREUM;\"undefined\"==typeof
+        window.newrelic&&(newrelic=s);var d=[\"setPageViewName\",\"setCustomAttribute\",\"setErrorHandler\",\"finished\",\"addToTrace\",\"inlineHit\",\"addRelease\"],p=\"api-\",l=p+\"ixn-\";a(d,function(e,t){s[t]=i(p+t,!0,\"api\")}),s.addPageAction=i(p+\"addPageAction\",!0),s.setCurrentRouteName=i(p+\"routeName\",!0),t.exports=newrelic,s.interaction=function(){return(new
+        r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,i=\"function\"==typeof
+        t;return o(l+\"tracer\",[u.now(),e,n],r),function(){if(f.emit((i?\"\":\"no-\")+\"fn-start\",[u.now(),r,i],n),i)try{return
+        t.apply(this,arguments)}catch(e){throw f.emit(\"fn-err\",[arguments,this,e],n),e}finally{f.emit(\"fn-end\",[u.now()],n)}}}};a(\"actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get\".split(\",\"),function(e,t){m[t]=i(l+t)}),newrelic.noticeError=function(e,t){\"string\"==typeof
+        e&&(e=new Error(e)),o(\"err\",[e,u.now(),!1,t])}},{}],2:[function(e,t,n){function
+        r(){return c.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new
+        Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,c=e(8);t.exports=r,t.exports.offset=a,t.exports.getLastTimestamp=i},{}],3:[function(e,t,n){function
+        r(e,t){var n=e.getEntries();n.forEach(function(e){\"first-paint\"===e.name?d(\"timing\",[\"fp\",Math.floor(e.startTime)]):\"first-contentful-paint\"===e.name&&d(\"timing\",[\"fcp\",Math.floor(e.startTime)])})}function
+        i(e,t){var n=e.getEntries();n.length>0&&d(\"lcp\",[n[n.length-1]])}function
+        o(e){e.getEntries().forEach(function(e){e.hadRecentInput||d(\"cls\",[e])})}function
+        a(e){if(e instanceof m&&!g){var t=Math.round(e.timeStamp),n={type:e.type};t<=p.now()?n.fid=p.now()-t:t>p.offset&&t<=Date.now()?(t-=p.offset,n.fid=p.now()-t):t=p.now(),g=!0,d(\"timing\",[\"fi\",t,n])}}function
+        c(e){d(\"pageHide\",[p.now(),e])}if(!(\"init\"in NREUM&&\"page_view_timing\"in
+        NREUM.init&&\"enabled\"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var
+        f,u,s,d=e(\"handle\"),p=e(\"loader\"),l=e(5),m=NREUM.o.EV;if(\"PerformanceObserver\"in
+        window&&\"function\"==typeof window.PerformanceObserver){f=new PerformanceObserver(r);try{f.observe({entryTypes:[\"paint\"]})}catch(v){}u=new
+        PerformanceObserver(i);try{u.observe({entryTypes:[\"largest-contentful-paint\"]})}catch(v){}s=new
+        PerformanceObserver(o);try{s.observe({type:\"layout-shift\",buffered:!0})}catch(v){}}if(\"addEventListener\"in
+        document){var g=!1,y=[\"click\",\"keydown\",\"mousedown\",\"pointerdown\",\"touchstart\"];y.forEach(function(e){document.addEventListener(e,a,!1)})}l(c)}},{}],4:[function(e,t,n){function
+        r(e,t){if(!i)return!1;if(e!==i)return!1;if(!t)return!0;if(!o)return!1;for(var
+        n=o.split(\".\"),r=t.split(\".\"),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var
+        i=null,o=null,a=/Version\\/(\\S+)\\s+Safari/;if(navigator.userAgent){var c=navigator.userAgent,f=c.match(a);f&&c.indexOf(\"Chrome\")===-1&&c.indexOf(\"Chromium\")===-1&&(i=\"Safari\",o=f[1])}t.exports={agent:i,version:o,match:r}},{}],5:[function(e,t,n){function
+        r(e){function t(){e(a&&document[a]?document[a]:document[i]?\"hidden\":\"visible\")}\"addEventListener\"in
+        document&&o&&document.addEventListener(o,t,!1)}t.exports=r;var i,o,a;\"undefined\"!=typeof
+        document.hidden?(i=\"hidden\",o=\"visibilitychange\",a=\"visibilityState\"):\"undefined\"!=typeof
+        document.msHidden?(i=\"msHidden\",o=\"msvisibilitychange\"):\"undefined\"!=typeof
+        document.webkitHidden&&(i=\"webkitHidden\",o=\"webkitvisibilitychange\",a=\"webkitVisibilityState\")},{}],6:[function(e,t,n){function
+        r(e,t){var n=[],r=\"\",o=0;for(r in e)i.call(e,r)&&(n[o]=t(r,e[r]),o+=1);return
+        n}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],7:[function(e,t,n){function
+        r(e,t,n){t||(t=0),\"undefined\"==typeof n&&(n=e?e.length:0);for(var r=-1,i=n-t||0,o=Array(i<0?0:i);++r<i;)o[r]=e[t+r];return
+        o}t.exports=r},{}],8:[function(e,t,n){t.exports={exists:\"undefined\"!=typeof
+        window.performance&&window.performance.timing&&\"undefined\"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function
+        r(){}function i(e){function t(e){return e&&e instanceof r?e:e?f(e,c,o):o()}function
+        n(n,r,i,o){if(!p.aborted||o){e&&e(n,r,i);for(var a=t(i),c=v(n),f=c.length,u=0;u<f;u++)c[u].apply(a,r);var
+        d=s[w[n]];return d&&d.push([b,n,r,a]),a}}function l(e,t){h[e]=v(e).concat(t)}function
+        m(e,t){var n=h[e];if(n)for(var r=0;r<n.length;r++)n[r]===t&&n.splice(r,1)}function
+        v(e){return h[e]||[]}function g(e){return d[e]=d[e]||i(n)}function y(e,t){u(e,function(e,n){t=t||\"feature\",w[n]=t,t
+        in s||(s[t]=[])})}var h={},w={},b={on:l,addEventListener:l,removeEventListener:m,emit:n,get:g,listeners:v,context:t,buffer:y,abort:a,aborted:!1};return
+        b}function o(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var
+        c=\"nr@context\",f=e(\"gos\"),u=e(6),s={},d={},p=t.exports=i();p.backlog=s},{}],gos:[function(e,t,n){function
+        r(e,t,n){if(i.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return
+        Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return
+        e[t]=r,r}var i=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function
+        r(e,t,n,r){i.buffer([e],r),i.emit(e,t,n)}var i=e(\"ee\").get(\"handle\");t.exports=r,r.ee=i},{}],id:[function(e,t,n){function
+        r(e){var t=typeof e;return!e||\"object\"!==t&&\"function\"!==t?-1:e===window?0:a(e,o,function(){return
+        i++})}var i=1,o=\"nr@id\",a=e(\"gos\");t.exports=r},{}],loader:[function(e,t,n){function
+        r(){if(!E++){var e=b.info=NREUM.info,t=p.getElementsByTagName(\"script\")[0];if(setTimeout(u.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return
+        u.abort();f(h,function(t,n){e[t]||(e[t]=n)});var n=a();c(\"mark\",[\"onload\",n+b.offset],null,\"api\"),c(\"timing\",[\"load\",n]);var
+        r=p.createElement(\"script\");r.src=\"https://\"+e.agent,t.parentNode.insertBefore(r,t)}}function
+        i(){\"complete\"===p.readyState&&o()}function o(){c(\"mark\",[\"domContent\",a()+b.offset],null,\"api\")}var
+        a=e(2),c=e(\"handle\"),f=e(6),u=e(\"ee\"),s=e(4),d=window,p=d.document,l=\"addEventListener\",m=\"attachEvent\",v=d.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:v,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var
+        y=\"\"+location,h={beacon:\"bam.nr-data.net\",errorBeacon:\"bam.nr-data.net\",agent:\"js-agent.newrelic.com/nr-1184.min.js\"},w=v&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),b=t.exports={offset:a.getLastTimestamp(),now:a,origin:y,features:{},xhrWrappable:w,userAgent:s};e(1),e(3),p[l]?(p[l](\"DOMContentLoaded\",o,!1),d[l](\"load\",r,!1)):(p[m](\"onreadystatechange\",i),d[m](\"onload\",r)),c(\"mark\",[\"firstbyte\",a.getLastTimestamp()],null,\"api\");var
+        E=0},{}],\"wrap-function\":[function(e,t,n){function r(e){return!(e&&e instanceof
+        Function&&e.apply&&!e[a])}var i=e(\"ee\"),o=e(7),a=\"nr@original\",c=Object.prototype.hasOwnProperty,f=!1;t.exports=function(e,t){function
+        n(e,t,n,i){function nrWrapper(){var r,a,c,f;try{a=this,r=o(arguments),c=\"function\"==typeof
+        n?n(r,a):n||{}}catch(u){p([u,\"\",[r,a,i],c])}s(t+\"start\",[r,a,i],c);try{return
+        f=e.apply(a,r)}catch(d){throw s(t+\"err\",[r,a,d],c),d}finally{s(t+\"end\",[r,a,f],c)}}return
+        r(e)?e:(t||(t=\"\"),nrWrapper[a]=e,d(e,nrWrapper),nrWrapper)}function u(e,t,i,o){i||(i=\"\");var
+        a,c,f,u=\"-\"===i.charAt(0);for(f=0;f<t.length;f++)c=t[f],a=e[c],r(a)||(e[c]=n(a,u?c+i:i,o,c))}function
+        s(n,r,i){if(!f||t){var o=f;f=!0;try{e.emit(n,r,i,t)}catch(a){p([a,n,r,i])}f=o}}function
+        d(e,t){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(e);return
+        n.forEach(function(n){Object.defineProperty(t,n,{get:function(){return e[n]},set:function(t){return
+        e[n]=t,t}})}),t}catch(r){p([r])}for(var i in e)c.call(e,i)&&(t[i]=e[i]);return
+        t}function p(t){try{e.emit(\"internal-error\",t)}catch(n){}}return e||(e=i),n.inPlace=u,n.flag=a,n}},{}]},{},[\"loader\"]);</script>\n\t<meta
+        http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n\t<meta
+        name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n\t<meta
+        name=\"google-site-verification\" content=\"bm2mM1Hm4u4DdVlNkg8C9q-VI9W8vqFMFk3m6qfvBCo\"
+        />\n\t<link rel=\"alternate\" type=\"application/rss+xml\" title=\"InvestorPlace
+        RSS Feed\" href=\"https://investorplace.com/feed/\" />\n\t<link rel=\"alternate\"
+        type=\"application/atom+xml\" title=\"InvestorPlace Atom Feed\" href=\"https://investorplace.com/feed/atom/\"
+        />\n\t<link rel=\"pingback\" href=\"https://investorplace.com/xmlrpc.php\"
+        />\n\t<link rel=\"dns-prefetch\" href=\"//a.postrelease.com\" />\n\t<link
+        rel=\"dns-prefetch\" href=\"//se.monetate.net\" />\n\t<link rel=\"dns-prefetch\"
+        href=\"//www.googletagmanager.com\" />\n\t<link rel=\"dns-prefetch\" href=\"//fls.doubleclick.net\"
+        />\n\t<link rel=\"dns-prefetch\" href=\"//3951112.fls.doubleclick.net\" />\n\t<link
+        rel=\"dns-prefetch\" href=\"//s.gravatar.com\" />\n\t<link rel=\"dns-prefetch\"
+        href=\"//www.youtube.com\" />\n\t<link rel=\"dns-prefetch\" href=\"//www.google-analytics.com\"
+        />\n\t<link rel=\"dns-prefetch\" href=\"//api.cloudquote.net\" />\n\t<link
+        rel=\"dns-prefetch\" href=\"//bcp.crwdcntrl.net\" />\n\n\n\t\n\t\t\t<!-- Begin
+        Monetate ExpressTag Sync v8.1. Place at start of document head. DO NOT ALTER.
+        -->\n\t<script type=\"text/javascript\">var monetateT = new Date().getTime();</script>\n\t<script
+        type=\"text/javascript\"\n\t        src=\"//se.monetate.net/js/2/a-64c35d56/p/investorplace.com/entry.js\"
+        defer></script> \t<!-- End Monetate tag. -->\n\t<script>\n\t\tvar ipmMonetateData
+        = {\n\t\t\tpageType: \"post\"\n\t\t};\n\t\twindow.monetateQ = window.monetateQ
+        || [];\n\t\twindow.monetateQ.push([\n\t\t\t\"setPageType\",\n\t\t\tipmMonetateData.pageType\n\t\t]);\n\t\twindow.monetateQ.push([\n\t\t\t\"addBreadcrumbs\",\n\t\t\t[\"Home\",\"Stock
+        Picks\",\"Stocks to Buy\"]\t\t]);\n\t\twindow.monetateQ.push([\n\t\t\t\"trackData\"\n\t\t]);\n\t\twindow.experimentPageType
+        = ipmMonetateData.pageType;\n\t</script>\n\t\n\t<!-- This site is optimized
+        with the Yoast SEO plugin v14.6.1 - https://yoast.com/wordpress/plugins/seo/
+        -->\n\t<meta name=\"description\" content=\"SPAQ stock appears to have a credibility
+        problem, with the underlying Fisker Inc. going up against Tesla. However,
+        looks can be deceiving.\" />\n\t<meta name=\"robots\" content=\"index, follow\"
+        />\n\t<meta name=\"googlebot\" content=\"index, follow, max-snippet:-1, max-image-preview:large,
+        max-video-preview:-1\" />\n\t<meta name=\"bingbot\" content=\"index, follow,
+        max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n\t<link
+        rel=\"canonical\" href=\"https://investorplace.com/2020/08/fisker-spaq-stock-car-company-first-tech-firm-second/\"
+        />\n\t<link rel=\"next\" href=\"https://investorplace.com/2020/08/fisker-spaq-stock-car-company-first-tech-firm-second/2/\"
+        />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
+        content=\"article\" />\n\t<meta property=\"og:title\" content=\"Why Fisker
+        Inc. Is a Car Company First, And A Tech Firm Second\" />\n\t<meta property=\"og:description\"
+        content=\"SPAQ stock appears to have a credibility problem, with the underlying
+        Fisker Inc. going up against Tesla. However, looks can be deceiving.\" />\n\t<meta
+        property=\"og:url\" content=\"https://investorplace.com/2020/08/fisker-spaq-stock-car-company-first-tech-firm-second/\"
+        />\n\t<meta property=\"og:site_name\" content=\"InvestorPlace\" />\n\t<meta
+        property=\"article:publisher\" content=\"https://www.facebook.com/investorplace\"
+        />\n\t<meta property=\"article:published_time\" content=\"2020-08-20T11:00:26+00:00\"
+        />\n\t<meta property=\"article:modified_time\" content=\"2020-08-19T21:33:23+00:00\"
+        />\n\t<meta property=\"og:image\" content=\"https://investorplace.com/wp-content/uploads/2020/07/fisker-ipo.jpg\"
+        />\n\t<meta property=\"og:image:width\" content=\"1600\" />\n\t<meta property=\"og:image:height\"
+        content=\"900\" />\n\t<meta name=\"twitter:card\" content=\"summary\" />\n\t<meta
+        name=\"twitter:title\" content=\"Why Fisker Inc. Is a Car Company First, And
+        A Tech Firm Second\" />\n\t<meta name=\"twitter:description\" content=\"SPAQ
+        stock appears to have a credibility problem, with the underlying Fisker Inc.
+        going up against Tesla. However, looks can be deceiving.\" />\n\t<meta name=\"twitter:image\"
+        content=\"https://investorplace.com/wp-content/uploads/2020/07/fisker-ipo.jpg\"
+        />\n\t<meta name=\"twitter:creator\" content=\"@InvestorPlace\" />\n\t<meta
+        name=\"twitter:site\" content=\"@InvestorPlace\" />\n\t<!-- / Yoast SEO plugin.
+        -->\n\n\n<link rel='dns-prefetch' href='//investorplace.com' />\n<link rel='dns-prefetch'
+        href='//s.w.org' />\n<link rel='stylesheet' id='ipm-print-sylesheet-css'  href='https://investorplace.com/wp-content/themes/InvestorPlaceV2/assets/scss/dist/print.min.css?ver=1605715750'
+        type='text/css' media='print' />\n<link rel='stylesheet' id='investorplace-styles-global-css'
+        \ href='https://investorplace.com/wp-content/themes/InvestorPlaceV2/assets/scss/dist/globalStyles.min.css?ver=20201105a'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='investorplace-article-css'
+        \ href='https://investorplace.com/wp-content/themes/InvestorPlaceV2/assets/scss/dist/article.min.css?ver=20201105a'
+        type='text/css' media='all' />\n<script type='text/javascript' src='https://investorplace.com/wp-content/themes/InvestorPlaceV2/assets/js/vendor/prebid.js?ver=20201105a'
+        id='prebid-vendor-js'></script>\n<script type='text/javascript' src='https://investorplace.com/wp-content/themes/InvestorPlaceV2/assets/js/ipmLoader.min.js?ver=1605715532'
+        id='ipm_loader-js'></script>\n<script defer type='text/javascript' src='https://investorplace.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'
+        id='jquery-core-js'></script>\n<link rel=\"https://api.w.org/\" href=\"https://investorplace.com/wp-json/\"
+        /><link rel=\"alternate\" type=\"application/json\" href=\"https://investorplace.com/wp-json/wp/v2/posts/1694061\"
+        /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://investorplace.com/xmlrpc.php?rsd\"
+        />\n<meta name=\"generator\" content=\"WordPress 5.5.3\" />\n<link rel='shortlink'
+        href='https://bit.ly/3iZ1yqV' />\n<link rel=\"alternate\" type=\"application/json+oembed\"
+        href=\"https://investorplace.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finvestorplace.com%2F2020%2F08%2Ffisker-spaq-stock-car-company-first-tech-firm-second%2F\"
+        />\n<link rel=\"alternate\" type=\"text/xml+oembed\" href=\"https://investorplace.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Finvestorplace.com%2F2020%2F08%2Ffisker-spaq-stock-car-company-first-tech-firm-second%2F&#038;format=xml\"
+        />\n<!-- Stream WordPress user activity plugin v3.5.0 -->\n<meta name='yandex-verification'
+        content='7449d54f0a1869d7' />\t\t<!-- Hide last breadcrumb -->\n\t\t<style>\n\t\t\t.breadcrumb-trail
+        .breadcrumb_last {\n\t\t\t\tdisplay: none;\n\t\t\t}\n\t\t</style>\t\t<script>\n\t\t\tvar
+        hasBidding = true;var skipBiddingImmediateRefresh = 0;\t\t\tisMobile = ( 768
+        > document.documentElement.clientWidth );\n\t\t\tvar gptadslots=[];\n\t\t</script>\n\t\t\t\t<script
+        async=\"async\" src=\"https://securepubads.g.doubleclick.net/tag/js/gpt.js\"></script>\n\t\t<script>\n\t\t\t\t\t!function(a9,a,p,s,t,A,g){if(a[a9])return;function
+        q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q(\"i\",arguments)},fetchBids:function(){q(\"f\",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}(\"apstag\",window,document,\"script\",\"//c.amazon-adsystem.com/aax2/apstag.js\");\n\t\t\t\n\t\tvar
+        pbjs = pbjs || {};\n\t\tpbjs.que = pbjs.que || [];\n\t\tvar ipmAllBidsReturned
+        = 0;\n\t\tvar ipmReadyForRefresh = {};\n\t\tvar initialPrebidSlots = [];\n\t\tvar
+        initialA9Slots = [];\n\t\tvar slotsEligibleForPrebid = {};\n\t\tvar slotsNotWaitingForBids
+        = [];\n\t\tvar inlineAdSlots = inlineAdSlots || {};\n\t\tvar excludeFromBidding
+        = {\n\t\t\t'div-gpt-ad-225492746919010138-rb': 1,\n\t\t\t'div-gpt-ad-950408076561871367-1'
+        : 1,\n\t\t};\n\n\t\tfunction removeIncorrectSizes( plannedSizes, acceptableSizes
+        ) {\n\t\t\tvar approvedSizes = [];\n\n\t\t\touterLoop:\n\t\t\tfor ( var i
+        = 0, length = plannedSizes.length; i < length; i++ ) {\n\t\t\t\tinnerLoop:\n\t\t\t\tfor
+        ( var y = 0, ylength = acceptableSizes.length; y < ylength; y++ ) {\n\t\t\t\t\tif
+        ( plannedSizes[ i ][ 0 ] === acceptableSizes[ y ].l &&\n\t\t\t\t\t\tplannedSizes[
+        i ][ 1 ] === acceptableSizes[ y ].j )\n\t\t\t\t\tapprovedSizes.push( plannedSizes[
+        i ] );\n\t\t\t\t\tcontinue innerLoop;\n\t\t\t\t}\n\t\t\t}\n\n\t\t\treturn
+        approvedSizes;\n\t\t}\n\n\t\tfunction getTagPrebidBids( slot, tag_id ) {\n\t\t\tvar
+        slotSizes,\n\t\t\t\tfound,\n\t\t\t\tprebidSlot,\n\t\t\t\ta9Slot,\n\t\t\t\tfoundSlot;\n\n\t\t\tif
+        ( excludeFromBidding[ tag_id ] ) {\n\t\t\t\treturn;\n\t\t\t}\n\n\t\t\tif (
+        adSlots[ tag_id ] ) {\n\t\t\t\tfoundSlot = adSlots[ tag_id ];\n\t\t\t} else
+        if( inlineAdSlots[ tag_id ] ) {\n\t\t\t\tfoundSlot = inlineAdSlots[ tag_id
+        ];\n\t\t\t};\n\n\t\t\tif ( ! foundSlot ) {\n\t\t\t\treturn;\n\t\t\t}\n\n\t\t\tif
+        ( '/21759680430/investorplace/mobile' === slot ) {\n\t\t\t\tslotSizes = [
+        [300,250], [320,50], [320,100] ];\n\t\t\t\tslotSizes = removeIncorrectSizes(
+        slotSizes, foundSlot.getSizes() );\n\t\t\t\tif ( 0 === slotSizes.length )
+        {\n\t\t\t\t\treturn;\n\t\t\t\t}\n\n\t\t\t\tprebidSlot = {\n\t\t\t\t\tcode:
+        tag_id,\n\t\t\t\t\tmediaTypes: {\n\t\t\t\t\t\tbanner: {\n\t\t\t\t\t\t\tsizes:
+        slotSizes\n\t\t\t\t\t\t}\n\t\t\t\t\t},\n\t\t\t\t\tbids: [\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder:
+        'lockerdome',\n\t\t\t\t\t\t\tparams: {\n\t\t\t\t\t\t\t\tadUnitId: 'LD13328177376212070',\n\t\t\t\t\t\t\t},\n\t\t\t\t\t\t\tsizeConfig:
+        [\n\t\t\t\t\t\t\t\t{ minViewPort: [0, 0], relevantMediaTypes: ['banner'] },\n\t\t\t\t\t\t\t\t{
+        minViewPort: [768, 0], relevantMediaTypes: ['none'] },\n\t\t\t\t\t\t\t]\n\t\t\t\t\t\t},\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder:
+        'synacormedia',\n\t\t\t\t\t\t\tparams: {\n\t\t\t\t\t\t\t\tseatId: 'investorplace',\n\t\t\t\t\t\t\t\tpos:
+        0,\n\t\t\t\t\t\t\t\tplacementId: '91686',\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t},\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder:
+        'medianet',\n\t\t\t\t\t\t\tparams: {\n\t\t\t\t\t\t\t\tcid: '8CU13973W',\n\t\t\t\t\t\t\t\tcrid:
+        '486261804',\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t},\n\t\t\t\t\t]\n\t\t\t\t};\n\t\t\t\tfound
+        = 1;\n\t\t\t} else if( '/21759680430/investorplace/fac' === slot ) {\n\t\t\t\tslotSizes
+        = [ [970,250], [970,90], [728,90], [300,250], [320,600] ];\n\t\t\t\tslotSizes
+        = removeIncorrectSizes( slotSizes, foundSlot.getSizes() );\n\t\t\t\tif ( 0
+        === slotSizes.length ) {\n\t\t\t\t\treturn;\n\t\t\t\t}\n\n\t\t\t\tprebidSlot
+        = {\n\t\t\t\t\tcode: tag_id,\n\t\t\t\t\tmediaTypes: {\n\t\t\t\t\t\tbanner:
+        {\n\t\t\t\t\t\t\tsizes: slotSizes\n\t\t\t\t\t\t}\n\t\t\t\t\t},\n\t\t\t\t\tbids:
+        [\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder: 'lockerdome',\n\t\t\t\t\t\t\tparams:
+        {\n\t\t\t\t\t\t\t\tadUnitId: 'LD13328175799153766',\n\t\t\t\t\t\t\t},\n\t\t\t\t\t\t\tsizeConfig:
+        [\n\t\t\t\t\t\t\t\t{ minViewPort: [0, 0], relevantMediaTypes: ['none'] },\n\t\t\t\t\t\t\t\t{
+        minViewPort: [768, 0], relevantMediaTypes: ['banner'] },\n\t\t\t\t\t\t\t]\n\t\t\t\t\t\t},\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder:
+        'synacormedia',\n\t\t\t\t\t\t\tparams: {\n\t\t\t\t\t\t\t\tseatId: 'investorplace',\n\t\t\t\t\t\t\t\tpos:
+        0,\n\t\t\t\t\t\t\t\tplacementId: '91687',\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t},\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder:
+        'medianet',\n\t\t\t\t\t\t\tparams: {\n\t\t\t\t\t\t\t\tcid: '8CU13973W',\n\t\t\t\t\t\t\t\tcrid:
+        '266958636',\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t},\n\t\t\t\t\t]\n\t\t\t\t};\n\t\t\t\tfound
+        = 1;\n\t\t\t} else if( '/21759680430/investorplace/marketinsight' === slot
+        ) {\n\t\t\t\tslotSizes = [ [970,250], [970,90], [728,90], [300,250], [320,600]
+        ];\n\t\t\t\tslotSizes = removeIncorrectSizes( slotSizes, foundSlot.getSizes()
+        );\n\t\t\t\tif ( 0 === slotSizes.length ) {\n\t\t\t\t\treturn;\n\t\t\t\t}\n\n\t\t\t\tprebidSlot
+        = {\n\t\t\t\t\tcode: tag_id,\n\t\t\t\t\tmediaTypes: {\n\t\t\t\t\t\tbanner:
+        {\n\t\t\t\t\t\t\tsizes: slotSizes\n\t\t\t\t\t\t}\n\t\t\t\t\t},\n\t\t\t\t\tbids:
+        [\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder: 'lockerdome',\n\t\t\t\t\t\t\tparams:
+        {\n\t\t\t\t\t\t\t\tadUnitId: 'LD13328176537351270',\n\t\t\t\t\t\t\t},\n\t\t\t\t\t\t\tsizeConfig:
+        [\n\t\t\t\t\t\t\t\t{ minViewPort: [0, 0], relevantMediaTypes: ['none'] },\n\t\t\t\t\t\t\t\t{
+        minViewPort: [768, 0], relevantMediaTypes: ['banner'] },\n\t\t\t\t\t\t\t]\n\t\t\t\t\t\t},\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder:
+        'synacormedia',\n\t\t\t\t\t\t\tparams: {\n\t\t\t\t\t\t\t\tseatId: 'investorplace',\n\t\t\t\t\t\t\t\tpos:
+        0,\n\t\t\t\t\t\t\t\tplacementId: '91688',\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t},\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder:
+        'medianet',\n\t\t\t\t\t\t\tparams: {\n\t\t\t\t\t\t\t\tcid: '8CU13973W',\n\t\t\t\t\t\t\t\tcrid:
+        '694257867',\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t},\n\t\t\t\t\t]\n\t\t\t\t};\n\t\t\t\tfound
+        = 1;\n\t\t\t} else if( '/21759680430/investorplace/funds' === slot ) {\n\t\t\t\tslotSizes
+        = [ [970,250], [970,90], [728,90], [300,250], [320,600] ];\n\t\t\t\tslotSizes
+        = removeIncorrectSizes( slotSizes, foundSlot.getSizes() );\n\t\t\t\tif ( 0
+        === slotSizes.length ) {\n\t\t\t\t\treturn;\n\t\t\t\t}\n\n\t\t\t\tprebidSlot
+        = {\n\t\t\t\t\tcode: tag_id,\n\t\t\t\t\tmediaTypes: {\n\t\t\t\t\t\tbanner:
+        {\n\t\t\t\t\t\t\tsizes: slotSizes\n\t\t\t\t\t\t}\n\t\t\t\t\t},\n\t\t\t\t\tbids:
+        [\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder: 'lockerdome',\n\t\t\t\t\t\t\tparams:
+        {\n\t\t\t\t\t\t\t\tadUnitId: 'LD13328178047300710',\n\t\t\t\t\t\t\t},\n\t\t\t\t\t\t\tsizeConfig:
+        [\n\t\t\t\t\t\t\t\t{ minViewPort: [0, 0], relevantMediaTypes: ['none'] },\n\t\t\t\t\t\t\t\t{
+        minViewPort: [768, 0], relevantMediaTypes: ['banner'] },\n\t\t\t\t\t\t\t]\n\t\t\t\t\t\t},\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder:
+        'synacormedia',\n\t\t\t\t\t\t\tparams: {\n\t\t\t\t\t\t\t\tseatId: 'investorplace',\n\t\t\t\t\t\t\t\tpos:
+        0,\n\t\t\t\t\t\t\t\tplacementId: '91689',\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t},\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder:
+        'medianet',\n\t\t\t\t\t\t\tparams: {\n\t\t\t\t\t\t\t\tcid: '8CU13973W',\n\t\t\t\t\t\t\t\tcrid:
+        '348505762',\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t},\n\t\t\t\t\t]\n\t\t\t\t};\n\t\t\t\tfound
+        = 1;\n\t\t\t} else if( '/21759680430/investorplace/stocks' === slot ) {\n\t\t\t\tslotSizes
+        = [ [970,250], [970,90], [728,90], [300,250], [320,600] ];\n\t\t\t\tslotSizes
+        = removeIncorrectSizes( slotSizes, foundSlot.getSizes() );\n\t\t\t\tif ( 0
+        === slotSizes.length ) {\n\t\t\t\t\treturn;\n\t\t\t\t}\n\n\t\t\t\tprebidSlot
+        = {\n\t\t\t\t\tcode: tag_id,\n\t\t\t\t\tmediaTypes: {\n\t\t\t\t\t\tbanner:
+        {\n\t\t\t\t\t\t\tsizes: slotSizes\n\t\t\t\t\t\t}\n\t\t\t\t\t},\n\t\t\t\t\tbids:
+        [\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder: 'lockerdome',\n\t\t\t\t\t\t\tparams:
+        {\n\t\t\t\t\t\t\t\tadUnitId: 'LD13328180228338790',\n\t\t\t\t\t\t\t},\n\t\t\t\t\t\t\tsizeConfig:
+        [\n\t\t\t\t\t\t\t\t{ minViewPort: [0, 0], relevantMediaTypes: ['none'] },\n\t\t\t\t\t\t\t\t{
+        minViewPort: [768, 0], relevantMediaTypes: ['banner'] },\n\t\t\t\t\t\t\t]\n\t\t\t\t\t\t},\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder:
+        'synacormedia',\n\t\t\t\t\t\t\tparams: {\n\t\t\t\t\t\t\t\tseatId: 'investorplace',\n\t\t\t\t\t\t\t\tpos:
+        0,\n\t\t\t\t\t\t\t\tplacementId: '91690',\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t},\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder:
+        'medianet',\n\t\t\t\t\t\t\tparams: {\n\t\t\t\t\t\t\t\tcid: '8CU13973W',\n\t\t\t\t\t\t\t\tcrid:
+        '248270542',\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t},\n\t\t\t\t\t]\n\t\t\t\t};\n\t\t\t\tfound
+        = 1;\n\t\t\t} else if( '/21759680430/investorplace/retirement' === slot )
+        {\n\t\t\t\tslotSizes = [ [970,250], [970,90], [728,90], [300,250], [320,600]
+        ];\n\t\t\t\tslotSizes = removeIncorrectSizes( slotSizes, foundSlot.getSizes()
+        );\n\t\t\t\tif ( 0 === slotSizes.length ) {\n\t\t\t\t\treturn;\n\t\t\t\t}\n\n\t\t\t\tprebidSlot
+        = {\n\t\t\t\t\tcode: tag_id,\n\t\t\t\t\tmediaTypes: {\n\t\t\t\t\t\tbanner:
+        {\n\t\t\t\t\t\t\tsizes: slotSizes\n\t\t\t\t\t\t}\n\t\t\t\t\t},\n\t\t\t\t\tbids:
+        [\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder: 'lockerdome',\n\t\t\t\t\t\t\tparams:
+        {\n\t\t\t\t\t\t\t\tadUnitId: 'LD13328179490141286',\n\t\t\t\t\t\t\t},\n\t\t\t\t\t\t\tsizeConfig:
+        [\n\t\t\t\t\t\t\t\t{ minViewPort: [0, 0], relevantMediaTypes: ['none'] },\n\t\t\t\t\t\t\t\t{
+        minViewPort: [768, 0], relevantMediaTypes: ['banner'] },\n\t\t\t\t\t\t\t]\n\t\t\t\t\t\t},\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder:
+        'synacormedia',\n\t\t\t\t\t\t\tparams: {\n\t\t\t\t\t\t\t\tseatId: 'investorplace',\n\t\t\t\t\t\t\t\tpos:
+        0,\n\t\t\t\t\t\t\t\tplacementId: '91691',\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t},\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder:
+        'medianet',\n\t\t\t\t\t\t\tparams: {\n\t\t\t\t\t\t\t\tcid: '8CU13973W',\n\t\t\t\t\t\t\t\tcrid:
+        '643153535',\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t},\n\t\t\t\t\t]\n\t\t\t\t};\n\t\t\t\tfound
+        = 1;\n\t\t\t} else if( '/21759680430/investorplace/quotes' === slot ) {\n\t\t\t\tslotSizes
+        = [ [970,250], [970,90], [728,90], [300,250], [320,600] ];\n\t\t\t\tslotSizes
+        = removeIncorrectSizes( slotSizes, foundSlot.getSizes() );\n\t\t\t\tif ( 0
+        === slotSizes.length ) {\n\t\t\t\t\treturn;\n\t\t\t\t}\n\n\t\t\t\tprebidSlot
+        = {\n\t\t\t\t\tcode: tag_id,\n\t\t\t\t\tmediaTypes: {\n\t\t\t\t\t\tbanner:
+        {\n\t\t\t\t\t\t\tsizes: slotSizes\n\t\t\t\t\t\t}\n\t\t\t\t\t},\n\t\t\t\t\tbids:
+        [\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder: 'lockerdome',\n\t\t\t\t\t\t\tparams:
+        {\n\t\t\t\t\t\t\t\tadUnitId: 'LD13328180228338790',\n\t\t\t\t\t\t\t},\n\t\t\t\t\t\t\tsizeConfig:
+        [\n\t\t\t\t\t\t\t\t{ minViewPort: [0, 0], relevantMediaTypes: ['none'] },\n\t\t\t\t\t\t\t\t{
+        minViewPort: [768, 0], relevantMediaTypes: ['banner'] },\n\t\t\t\t\t\t\t]\n\t\t\t\t\t\t},\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder:
+        'synacormedia',\n\t\t\t\t\t\t\tparams: {\n\t\t\t\t\t\t\t\tseatId: 'investorplace',\n\t\t\t\t\t\t\t\tpos:
+        0,\n\t\t\t\t\t\t\t\tplacementId: '91692',\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t},\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder:
+        'medianet',\n\t\t\t\t\t\t\tparams: {\n\t\t\t\t\t\t\t\tcid: '8CU13973W',\n\t\t\t\t\t\t\t\tcrid:
+        '518228854',\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t},\n\t\t\t\t\t]\n\t\t\t\t};\n\t\t\t\tfound
+        = 1;\n\t\t\t} else if ( '/21759680430/investorplace/trading' === slot ) {\n\t\t\t\tslotSizes
+        = [ [970,250], [970,90], [728,90], [300,250], [320,600] ];\n\t\t\t\tslotSizes
+        = removeIncorrectSizes( slotSizes, foundSlot.getSizes() );\n\t\t\t\tif ( 0
+        === slotSizes.length ) {\n\t\t\t\t\treturn;\n\t\t\t\t}\n\n\t\t\t\tprebidSlot
+        = {\n\t\t\t\t\tcode: tag_id,\n\t\t\t\t\tmediaTypes: {\n\t\t\t\t\t\tbanner:
+        {\n\t\t\t\t\t\t\tsizes: slotSizes\n\t\t\t\t\t\t}\n\t\t\t\t\t},\n\t\t\t\t\tbids:
+        [\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder: 'lockerdome',\n\t\t\t\t\t\t\tparams:
+        {\n\t\t\t\t\t\t\t\tadUnitId: 'LD13328180865872998',\n\t\t\t\t\t\t\t},\n\t\t\t\t\t\t\tsizeConfig:
+        [\n\t\t\t\t\t\t\t\t{ minViewPort: [0, 0], relevantMediaTypes: ['none'] },\n\t\t\t\t\t\t\t\t{
+        minViewPort: [768, 0], relevantMediaTypes: ['banner'] },\n\t\t\t\t\t\t\t]\n\t\t\t\t\t\t},\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder:
+        'synacormedia',\n\t\t\t\t\t\t\tparams: {\n\t\t\t\t\t\t\t\tseatId: 'investorplace',\n\t\t\t\t\t\t\t\tpos:
+        0,\n\t\t\t\t\t\t\t\tplacementId: '91693',\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t},\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tbidder:
+        'medianet',\n\t\t\t\t\t\t\tparams: {\n\t\t\t\t\t\t\t\tcid: '8CU13973W',\n\t\t\t\t\t\t\t\tcrid:
+        '783552725',\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t},\n\t\t\t\t\t]\n\t\t\t\t};\n\t\t\t\tfound
+        = 1;\n\t\t\t}\n\n\t\t\tif ( found ) {\n\t\t\t\tslotsEligibleForPrebid[ tag_id
+        ] = 0;\n\t\t\t\ta9Slot = {\n\t\t\t\t\t\tslotID: tag_id,\n\t\t\t\t\t\tslotName:
+        slot,\n\t\t\t\t\t\tsizes: slotSizes\n\t\t\t\t};\n\t\t\t}\n\n\t\t\treturn [
+        prebidSlot, a9Slot ];\n\t\t}\n\n\t\tvar prebidSlotsToDefine = [\n\t\t[\"/21759680430/investorplace/stocks\",
+        \"div-gpt-ad-948428502746427265-1\"],[\"/21759680430/investorplace/stocks\",
+        \"div-gpt-ad-category-sidebar-ad\"],[\"/21759680430/investorplace/stocks\",
+        \"div-gpt-ad-948428502746427265-bottom\"],[\"/21759680430/investorplace/stocks\",
+        \"div-gpt-ad-948428502746427265-11\"],[\"/21759680430/investorplace/stocks\",
+        \"div-gpt-ad-948428502746427265-13\"],[\"/21759680430/investorplace/mobile\",
+        \"div-gpt-ad-714756582569651532-1\"],[\"/21759680430/investorplace/mobile\",
+        \"div-gpt-ad-714756582569651532-3\"],\t\t];\n\n\t\tfunction header_bidding_init()
+        {\n\t\t\tapstag.init({\n\t\t\t\tpubID:  '3bb63849-9f37-45ae-8c0d-791e32a7f4f8',\n\t\t\t\tadServer:
+        'googletag'\n\t\t\t});\n\n\t\t\tpbjs.que.push(function () {\n\t\t\t\tpbjs.setConfig({\n\t\t\t\t\tuserSync:
+        {\n\t\t\t\t\t\tfilterSettings: {\n\t\t\t\t\t\tiframe: {\n\t\t\t\t\t\t\tbidders:
+        '*', // represents all bidders\n\t\t\t\t\t\t\tfilter: 'include'\n\t\t\t\t\t\t}\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t});\n\n\t\t\t\tpbjs.addAdUnits(
+        initialPrebidSlots );\n\t\t\t} );\n\t\t}\n\n\t\tfunction executeParallelAuctionAlongsidePrebid(
+        prebidSlots, a9Slots ) {\n\t\t\tvar FAILSAFE_TIMEOUT = 2000;\n\t\t\tvar requestManager
+        = {\n\t\t\t\tadserverRequestSent: false,\n\t\t\t\taps: false,\n\t\t\t\tprebid:
+        false\n\t\t\t};\n\n\t\t\t// when both APS and Prebid have returned, initiate
+        ad request\n\t\t\tfunction biddersBack() {\n\t\t\t\tif ( requestManager.aps
+        && requestManager.prebid ) {\n\t\t\t\t\tipmAllBidsReturned = 1;\n\t\t\t\t\tsendAdserverRequest();\n\t\t\t\t}\n\t\t\t\treturn;\n\t\t\t}\n\n\t\t\t//
+        sends adserver request\n\t\t\tfunction sendAdserverRequest() {\n\t\t\t\tif
+        ( requestManager.adserverRequestSent === true ) {\n\t\t\t\t\treturn;\n\t\t\t\t}\n\t\t\t\trequestManager.adserverRequestSent
+        = true;\n\t\t\t\tgoogletag.cmd.push( function() {\n\t\t\t\t\tvar toRefresh
+        = [];\n\t\t\t\t\tfor ( var key in slotsEligibleForPrebid ) {\n\t\t\t\t\t\tif
+        ( slotsEligibleForPrebid.hasOwnProperty( key ) ) {\n\t\t\t\t\t\t\tif ( adSlots[
+        key ] ) {\n\t\t\t\t\t\t\t\tif ( window.ipmReadyForRefresh[ key ] ) {\n\t\t\t\t\t\t\t\t\ttoRefresh.push(
+        adSlots[ key ] );\n\t\t\t\t\t\t\t\t\tdelete( window.ipmReadyForRefresh[ key
+        ] );\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t\tif
+        ( toRefresh ) {\n\t\t\t\t\t\tif ( toRefresh && toRefresh.length > 0 ) {\n\t\t\t\t\t\t\tgoogletag.pubads().refresh(
+        toRefresh );\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t});\n\t\t\t}\n\n\t\t\t//
+        sends bid request to APS and Prebid\n\t\t\tfunction requestHeaderBids() {\n\n\t\t\t\tif
+        ( a9Slots.length > 0 ) {\n\t\t\t\t\t// APS request\n\t\t\t\t\tapstag.fetchBids({\n\t\t\t\t\t\t\tslots:
+        a9Slots\n\t\t\t\t\t\t},function( bids ) {\n\t\t\t\t\t\t\tgoogletag.cmd.push(
+        function() {\n\t\t\t\t\t\t\t\tapstag.setDisplayBids();\n\t\t\t\t\t\t\t\trequestManager.aps
+        = true; // signals that APS request has completed\n\t\t\t\t\t\t\t\tbiddersBack();
+        // checks whether both APS and Prebid have returned\n\t\t\t\t\t\t\t});\n\t\t\t\t\t\t}\n\t\t\t\t\t);\n\t\t\t\t}\n\n\t\t\t\tpbjs.que.push(
+        function() {\n\t\t\t\t\tpbjs.requestBids({\n\t\t\t\t\t\tbidsBackHandler: function()
+        {\n\t\t\t\t\t\t\tgoogletag.cmd.push( function() {\n\t\t\t\t\t\t\t\tpbjs.setTargetingForGPTAsync();\n\t\t\t\t\t\t\t\trequestManager.prebid
+        = true; // signals that Prebid request has completed\n\t\t\t\t\t\t\t\tbiddersBack();
+        // checks whether both APS and Prebid have returned\n\t\t\t\t\t\t\t})\n\t\t\t\t\t\t}\n\t\t\t\t\t});\n\t\t\t\t});\n\t\t\t}\n\n\t\t\t//
+        initiate bid request\n\t\t\trequestHeaderBids();\n\n\t\t\t// set failsafe
+        timeout\n\t\t\twindow.setTimeout(function() {\n\t\t\t\tsendAdserverRequest();\n\t\t\t},
+        FAILSAFE_TIMEOUT);\n\t\t};\n\n\t\t</script>\n\t\t<script>\n\t\t\tvar googletag
+        = googletag || {};\n\t\t\tgoogletag.cmd = googletag.cmd || [];\n\t\t\tvar
+        adSlots = {};\n\t\t\tadSlotsToRefresh = [];\n\t\t</script>\n\t\t<script>\n\t\tgoogletag.cmd.push(function(){\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tif
+        ( ! isMobile ) {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tadSlots[ 'div-gpt-ad-948428502746427265-1'
+        ] = googletag.defineSlot('/21759680430/investorplace/stocks', [[728,90],[970,250],[970,90]],'div-gpt-ad-948428502746427265-1').setTargeting('pos',['top']).addService(googletag.pubads());\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tif
+        ( ! isMobile ) {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tadSlots[ 'div-gpt-ad-category-sidebar-ad'
+        ] = googletag.defineSlot('/21759680430/investorplace/stocks', [[300,250],[300,600]],'div-gpt-ad-category-sidebar-ad').setTargeting('pos',['top']).addService(googletag.pubads());\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tif
+        ( ! isMobile ) {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tadSlots[ 'div-gpt-ad-948428502746427265-bottom'
+        ] = googletag.defineSlot('/21759680430/investorplace/stocks', [[300,250],[300,600]],'div-gpt-ad-948428502746427265-bottom').setTargeting('pos',['bottom']).addService(googletag.pubads());\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tif
+        ( ! isMobile ) {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tadSlots[ 'div-gpt-ad-948428502746427265-11'
+        ] = googletag.defineSlot('/21759680430/investorplace/stocks', [[728,90]],'div-gpt-ad-948428502746427265-11').setTargeting('pos',['bottom_a']).addService(googletag.pubads());\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tif
+        ( ! isMobile ) {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tadSlots[ 'div-gpt-ad-948428502746427265-13'
+        ] = googletag.defineSlot('/21759680430/investorplace/stocks', [[728,90]],'div-gpt-ad-948428502746427265-13').setTargeting('pos',['bottom']).addService(googletag.pubads());\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tif
+        ( isMobile ) {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tadSlots[ 'div-gpt-ad-714756582569651532-1'
+        ] = googletag.defineSlot('/21759680430/investorplace/mobile', [[320,50],[320,100]],'div-gpt-ad-714756582569651532-1').setTargeting('pos',['1']).addService(googletag.pubads());\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tif
+        ( isMobile ) {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tadSlots[ 'div-gpt-ad-714756582569651532-3'
+        ] = googletag.defineSlot('/21759680430/investorplace/mobile', [[320,50],[320,100]],'div-gpt-ad-714756582569651532-3').setTargeting('pos',['3']).addService(googletag.pubads());\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tgoogletag.pubads().setTargeting(
+        \"content_type\", \"post\" );googletag.pubads().setTargeting( \"stock_ticker\",
+        [\"NYSE:SPAQ\",\"NASDAQ:TSLA\",\"NASDAQ:FUV\",\"NASDAQ:SOLO\",\"NASDAQ:AAPL\",\"NYSE:F\"]
+        );\t\t\tgoogletag.pubads().setTargeting('url',['https://investorplace.com/2020/08/fisker']).setTargeting(
+        \"post_id\", \"1694061\" ).setTargeting( 'auth', [ 'josh_enomoto' ] ).setTargeting(
+        'cat' , [\"stocks_to_buy\"] ).setTargeting( 'hot_topic' , [\"spaq\"] ); //
+        End googletag.pubads().setTargeting(\n\n\t\t\t\t\t\tif ( 'undefined' !== typeof
+        Krux ) {\n\t\t\t\tif ( 'undefined' !== typeof Krux.segments ) {\n\t\t\t\t\tgoogletag.pubads().setTargeting(
+        'ksg', Krux.segments );\n\t\t\t\t}\n\t\t\t\tif ( 'undefined' !== typeof Krux.user
+        ) {\n\t\t\t\t\tgoogletag.pubads().setTargeting( 'kuid', Krux.user );\n\t\t\t\t}\n\t\t\t}\n\n\t\t\t\t\t\t\tgoogletag.pubads().disableInitialLoad();\n\t\t\t\n\t\t\tvar
+        suspectUserAgent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+        (KHTML, like Gecko) Chrome/79.0.3945.0 Safari/537.36';\n\t\t\tif ( window.navigator.userAgent
+        === suspectUserAgent ) {\n\t\t\t\tgoogletag.pubads().setTargeting( 'ivt_level',
+        '1' );\n\t\t\t}\n\n\t\t\t// Hide empty ad slot elements.\n\t\t\t// googletag.pubads().collapseEmptyDivs(
+        true );\n\n\t\t\tgoogletag.pubads().enableSingleRequest();\n\t\t\tgoogletag.enableServices();\n\t\t\tif
+        ( skipBiddingImmediateRefresh ) {\n\t\t\t\tgoogletag.pubads().refresh();\n\t\t\t}\n\n\t\t\tif
+        ( hasBidding ) {\n\t\t\t\tvar newHeaderBiddingSlots = [];\n\t\t\t\tfor ( var
+        pi = 0, plength = prebidSlotsToDefine.length; pi < plength; pi++ ) {\n\t\t\t\t\tnewHeaderBiddingSlots
+        = getTagPrebidBids( prebidSlotsToDefine[ pi ][0], prebidSlotsToDefine[ pi
+        ][1] );\n\t\t\t\t\tif ( ! newHeaderBiddingSlots || 0 === newHeaderBiddingSlots.length
+        ) {\n\t\t\t\t\t\tcontinue;\n\t\t\t\t\t}\n\t\t\t\t\tif ( 'undefined' !== typeof
+        newHeaderBiddingSlots[0] ) {\n\t\t\t\t\t\tinitialPrebidSlots.push( newHeaderBiddingSlots[0]
+        );\n\t\t\t\t\t}\n\t\t\t\t\tif ( 'undefined' !== typeof newHeaderBiddingSlots[1]
+        ) {\n\t\t\t\t\t\tinitialA9Slots.push( newHeaderBiddingSlots[1] );\n\t\t\t\t\t}\n\t\t\t\t}\n\n\t\t\t\theader_bidding_init();\n\n\t\t\t\texecuteParallelAuctionAlongsidePrebid(
+        initialPrebidSlots, initialA9Slots ) ;\n\t\t\t}\n\t\t}); // End .push()\n\t\t</script>\n\t\t<!--
+        End: GPT -->\n\t\t<link rel=\"amphtml\" href=\"https://investorplace.com/2020/08/fisker-spaq-stock-car-company-first-tech-firm-second/amp/\"><link
+        rel=\"icon\" href=\"https://investorplace.com/wp-content/uploads/2020/07/cropped-ip-512x512-1-1-32x32.png\"
+        sizes=\"32x32\" />\n<link rel=\"icon\" href=\"https://investorplace.com/wp-content/uploads/2020/07/cropped-ip-512x512-1-1-192x192.png\"
+        sizes=\"192x192\" />\n<link rel=\"apple-touch-icon\" href=\"https://investorplace.com/wp-content/uploads/2020/07/cropped-ip-512x512-1-1-180x180.png\"
+        />\n<meta name=\"msapplication-TileImage\" content=\"https://investorplace.com/wp-content/uploads/2020/07/cropped-ip-512x512-1-1-270x270.png\"
+        />\n</head>\n\n<body class=\"post-template-default single single-post postid-1694061
+        single-format-standard redesign test single-article-style\">\n\n\t<a class=\"skip-link
+        screen-reader-text\" href=\"#main\">\n\t\tSkip to content\t</a>\n\n\t<div
+        id=\"fb-root\"></div>\n\t<div class=\"hidden\" hidden>\n\t\t<svg width=\"0\"
+        height=\"0\" class=\"hidden\">\n\t<symbol xmlns=\"http://www.w3.org/2000/svg\"
+        viewBox=\"0 0 512 512\" id=\"ios-email-outline\">\n\t\t<path d=\"M64 128v256h384V128H64zm192
+        139.9L93.2 144h325.6L256 267.9zM80 368V154.1l115.1 87.6L127 319l2 2 78.9-69.6L256
+        288l48.1-36.6L383 321l2-2-68.1-77.4L432 154.1V368H80z\"></path>\n\t</symbol>\n\t<symbol
+        xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" id=\"ios-telephone-outline\">\n\t\t<path
+        d=\"M415.9 335.5c-14.6-15-56.1-43.1-83.3-43.1-6.3 0-11.8 1.4-16.3 4.3-13.3
+        8.5-23.9 15.1-29 15.1-2.8 0-5.8-2.5-12.4-8.2l-1.1-1c-18.3-15.9-22.2-20-29.3-27.4l-1.8-1.9c-1.3-1.3-2.4-2.5-3.5-3.6-6.2-6.4-10.7-11-26.6-29l-.7-.8c-7.6-8.6-12.6-14.2-12.9-18.3-.3-4
+        3.2-10.5 12.1-22.6 10.8-14.6 11.2-32.6 1.3-53.5-7.9-16.5-20.8-32.3-32.2-46.2l-1-1.2c-9.8-12-21.2-18-33.9-18-14.1
+        0-25.8 7.6-32 11.6-.5.3-1 .7-1.5 1-13.9 8.8-24 20.9-27.8 33.2-5.7 18.5-9.5
+        42.5 17.8 92.4 23.6 43.2 45 72.2 79 107.1 32 32.8 46.2 43.4 78 66.4 35.4 25.6
+        69.4 40.3 93.2 40.3 22.1 0 39.5 0 64.3-29.9 26-31.4 15.2-50.6-.4-66.7zm-11.5
+        55.9c-20 24.2-31.5 24.2-52.3 24.2-20.3 0-51.8-14-84.2-37.3-31-22.4-44.8-32.7-75.9-64.6-32.9-33.7-53.6-61.8-76.4-103.5-24.1-44.1-21.4-63.4-16.5-79.3
+        2.6-8.5 10.4-17.6 21-24.2.5-.3 1-.7 1.6-1 5.3-3.4 14.1-9.1 23.7-9.1 8 0 15.1
+        4 21.9 12.3l1 1.2c25.5 31.2 45.4 58.8 30.4 79.2-10.6 14.3-16.2 24-15.3 34
+        .8 9.7 7.3 17 17.1 28l.7.8c16.1 18.2 20.7 23 27.1 29.5 1.1 1.1 2.2 2.3 3.5
+        3.6l1.8 1.9c7.4 7.7 11.5 11.9 30.3 28.4l1.1 1c8 7 13.9 12.1 22.5 12.1 8.9
+        0 18.7-5.6 37.3-17.5 1.9-1.2 4.6-1.9 8-1.9 21.7 0 59.1 24.8 72.2 38.3 12 12.2
+        18 21.4-.6 43.9z\"></path>\n\t</symbol>\n\t<symbol xmlns=\"http://www.w3.org/2000/svg\"
+        viewBox=\"0 0 512 512\" id=\"ios-time-outline\">\n\t\t<path d=\"M256 48C141.1
+        48 48 141.1 48 256s93.1 208 208 208 208-93.1 208-208S370.9 48 256 48zm0 398.7c-105.1
+        0-190.7-85.5-190.7-190.7 0-105.1 85.5-190.7 190.7-190.7 105.1 0 190.7 85.5
+        190.7 190.7 0 105.1-85.6 190.7-190.7 190.7z\"></path>\n\t\t<path d=\"M256
+        256h-96v17.3h113.3V128H256z\"></path>\n\t</symbol>\n\t<symbol xmlns=\"http://www.w3.org/2000/svg\"
+        viewBox=\"0 0 512 512\" id=\"logo-facebook\">\n\t<path d=\"M288 192v-38c0-17
+        4-26 31-26h33V64h-56c-68 0-91 31-91 85v43h-45v64h45v192h83V256h56l8-64h-64z\"/>\n\t</symbol>\n\t<symbol
+        xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" id=\"logo-rss\">\n\t\t<path
+        d=\"M119.9 336.1c-30.8 0-55.9 25.1-55.9 55.8 0 30.8 25.1 55.6 55.9 55.6 30.9
+        0 55.9-24.9 55.9-55.6 0-30.7-25-55.8-55.9-55.8z\"></path>\n\t\t<path d=\"M64
+        192v79.9c48 0 94.1 14.2 128 48.1 33.9 33.9 48 79.9 48 128h80c0-139.9-116-256-256-256z\"></path>\n\t\t<path
+        d=\"M64 64v79.9c171 0 303.9 133 303.9 304.1H448C448 236.3 276 64 64 64z\"></path>\n\t</symbol>\n\t<symbol
+        xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" id=\"logo-twitter\">\n\t\t<path
+        d=\"M492 109.5c-17.4 7.7-36 12.9-55.6 15.3 20-12 35.4-31 42.6-53.6-18.7 11.1-39.4
+        19.2-61.5 23.5C399.8 75.8 374.6 64 346.8 64c-53.5 0-96.8 43.4-96.8 96.9 0
+        7.6.8 15 2.5 22.1-80.5-4-151.9-42.6-199.6-101.3-8.3 14.3-13.1 31-13.1 48.7
+        0 33.6 17.2 63.3 43.2 80.7-16-.4-31-4.8-44-12.1v1.2c0 47 33.4 86.1 77.7 95-8.1
+        2.2-16.7 3.4-25.5 3.4-6.2 0-12.3-.6-18.2-1.8 12.3 38.5 48.1 66.5 90.5 67.3-33.1
+        26-74.9 41.5-120.3 41.5-7.8 0-15.5-.5-23.1-1.4C62.8 432 113.7 448 168.3 448
+        346.6 448 444 300.3 444 172.2c0-4.2-.1-8.4-.3-12.5C462.6 146 479 129 492 109.5z\"></path>\n\t</symbol>\n\t<symbol
+        xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" id=\"ios-arrow-down\">\n\t\t<path
+        d=\"M256,294.1L383,167c9.4-9.4,24.6-9.4,33.9,0s9.3,24.6,0,34L273,345c-9.1,9.1-23.7,9.3-33.1,0.7L95,201.1\n\tc-4.7-4.7-7-10.9-7-17c0-6.1,2.3-12.3,7-17c9.4-9.4,24.6-9.4,33.9,0L256,294.1z\"/>\n\t</symbol>\n\t<symbol
+        xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 21 20\" id=\"header-search\">\n\t\t<path
+        d=\"M19.99 18.58l-4.797-4.809a8.41 8.41 0 001.906-5.342C17.099 3.776 13.33
+        0 8.688 0 4.04 0 .277 3.776.277 8.429c0 4.653 3.763 8.428 8.41 8.428a8.356
+        8.356 0 005.329-1.906l4.798 4.804a.83.83 0 001.177 0 .829.829 0 000-1.175zm-11.302-3.4c-3.719
+        0-6.741-3.029-6.741-6.751 0-3.723 3.022-6.756 6.74-6.756 3.716 0 6.742 3.033
+        6.742 6.756 0 3.722-3.026 6.75-6.741 6.75z\"/>\n\t</symbol>\n</svg>\n\t</div>\n\t\t<script
+        type=\"text/javascript\">\n\t\tvar dataLayer = dataLayer || [];\n\t</script>\n\t\t<script
+        type=\"text/javascript\">\n\t\tvar ipm_ga = {\"author\":\"josh-enomoto\",\"publish_date\":\"20200820\",\"category\":[\"stocks-to-buy\"],\"hot_topics\":[\"spaq\"],\"post_id\":\"1694061\",\"publishing_author\":\"nick-clarkson\",\"content_type\":\"article(<3)\"};\n\t</script>\n\t\n\t\n\t\t\n\t\t<script>\n\t\t\tdataLayer.push({'author':
+        'Josh Enomoto' });\n\t\t</script>\n\n\t\n\t<!-- Google Tag Manager -->\n\t<noscript>\n\t\t<iframe
+        src=\"https://www.googletagmanager.com/ns.html?id=GTM-N7BC\" height=\"0\"
+        width=\"0\" style=\"display:none;visibility:hidden\"></iframe>\n\t</noscript>\n\t<script>\n\t\t(function
+        ( w, d, s, l, i ) {\n\t\t\tw[l] = w[l] || [];\n\t\t\tw[l].push( {'gtm.start':
+        new Date().getTime(), event: 'gtm.js'} );\n\t\t\tvar f = d.getElementsByTagName(
+        s )[0], j = d.createElement( s ), dl = l != 'dataLayer' ? '&l=' + l : '';\n\t\t\tj.async
+        = true;\n\t\t\tj.src = 'https://www.googletagmanager.com/gtm.js?id=' + i +
+        dl;\n\t\t\tf.parentNode.insertBefore( j, f );\n\t\t})( window, document, 'script',
+        'dataLayer', 'GTM-N7BC' );\n\t</script>\n\t<!-- End Google Tag Manager -->\n\t\n<!--
+        Schema.org -->\n<script type=\"application/ld+json\">\n{\n    \"@context\":
+        \"http:\\/\\/schema.org\",\n    \"@type\": \"BreadcrumbList\",\n    \"@id\":
+        \"https:\\/\\/investorplace.com\\/2020\\/08\\/fisker-spaq-stock-car-company-first-tech-firm-second\\/#breadcrumb\",\n
+        \   \"itemListElement\": [\n        {\n            \"@type\": \"ListItem\",\n
+        \           \"position\": 1,\n            \"item\": {\n                \"@type\":
+        \"WebPage\",\n                \"@id\": \"https:\\/\\/investorplace.com\\/\",\n
+        \               \"url\": \"https:\\/\\/investorplace.com\\/\",\n                \"name\":
+        \"Home\"\n            }\n        },\n        {\n            \"@type\": \"ListItem\",\n
+        \           \"position\": 2,\n            \"item\": {\n                \"@type\":
+        \"WebPage\",\n                \"@id\": \"https:\\/\\/investorplace.com\\/stock-picks\\/\",\n
+        \               \"url\": \"https:\\/\\/investorplace.com\\/stock-picks\\/\",\n
+        \               \"name\": \"Stock Picks\"\n            }\n        },\n        {\n
+        \           \"@type\": \"ListItem\",\n            \"position\": 3,\n            \"item\":
+        {\n                \"@type\": \"WebPage\",\n                \"@id\": \"https:\\/\\/investorplace.com\\/category\\/stock-picks\\/stocks-to-buy\\/\",\n
+        \               \"url\": \"https:\\/\\/investorplace.com\\/category\\/stock-picks\\/stocks-to-buy\\/\",\n
+        \               \"name\": \"Stocks to Buy\"\n            }\n        },\n        {\n
+        \           \"@type\": \"ListItem\",\n            \"position\": 4,\n            \"item\":
+        {\n                \"@type\": \"WebPage\",\n                \"@id\": \"https:\\/\\/investorplace.com\\/2020\\/08\\/fisker-spaq-stock-car-company-first-tech-firm-second\\/\",\n
+        \               \"url\": \"https:\\/\\/investorplace.com\\/2020\\/08\\/fisker-spaq-stock-car-company-first-tech-firm-second\\/\",\n
+        \               \"name\": \"Why Fisker Inc. Is a Car Company First, And A
+        Tech Firm Second\"\n            }\n        }\n    ]\n}\n</script>\n<!-- Schema.org
+        -->\n<script type=\"application/ld+json\">\n{\n    \"@context\": \"http:\\/\\/schema.org\",\n
+        \   \"@type\": \"NewsArticle\",\n    \"publisher\": {\n        \"@type\":
+        \"Organization\",\n        \"name\": \"InvestorPlace\",\n        \"logo\":
+        {\n            \"@type\": \"ImageObject\",\n            \"url\": \"https:\\/\\/investorplace.com\\/wp-content\\/themes\\/InvestorPlaceV2\\/functions\\/quotes\\/img\\/ipm-logo.png\",\n
+        \           \"width\": 40,\n            \"height\": 40\n        }\n    },\n
+        \   \"mainEntityOfPage\": {\n        \"@type\": \"WebPage\",\n        \"@id\":
+        \"https:\\/\\/investorplace.com\\/2020\\/08\\/fisker-spaq-stock-car-company-first-tech-firm-second\\/\"\n
+        \   },\n    \"author\": \"Josh Enomoto\",\n    \"headline\": \"Why Fisker
+        Inc. Is a Car Company First, And A Tech Firm Second\",\n    \"datePublished\":
+        \"2020-08-20T07:00:26-04:00\",\n    \"dateModified\": \"2020-08-19T17:33:23-04:00\",\n
+        \   \"image\": {\n        \"@type\": \"ImageObject\",\n        \"url\": \"https:\\/\\/investorplace.com\\/wp-content\\/uploads\\/2020\\/07\\/fisker-ipo.jpg\",\n
+        \       \"height\": 900,\n        \"width\": 1600\n    },\n    \"about\":
+        [\n        {\n            \"@type\": \"Corporation\",\n            \"name\":
+        \"Spartan Energy Acquisition Corp Cl A\",\n            \"tickerSymbol\": \"NYSE
+        SPAQ\"\n        },\n        {\n            \"@type\": \"Corporation\",\n            \"name\":
+        \"TESLA RG\",\n            \"tickerSymbol\": \"NASDAQ TSLA\"\n        },\n
+        \       {\n            \"@type\": \"Corporation\",\n            \"name\":
+        \"Arcimoto Inc\",\n            \"tickerSymbol\": \"NASDAQ FUV\"\n        },\n
+        \       {\n            \"@type\": \"Corporation\",\n            \"name\":
+        \"Electrameccanica Vehs Corp\",\n            \"tickerSymbol\": \"NASDAQ SOLO\"\n
+        \       },\n        {\n            \"@type\": \"Corporation\",\n            \"name\":
+        \"Apple\",\n            \"tickerSymbol\": \"NASDAQ AAPL\"\n        },\n        {\n
+        \           \"@type\": \"Corporation\",\n            \"name\": \"Ford Motor\",\n
+        \           \"tickerSymbol\": \"NYSE F\"\n        }\n    ]\n}\n</script>\n\n\t\t\t\t\t\t<div
+        id=\"top-banner\" class=\"ad tablet bg-lightgray\">\n\t\t\t\t<div id=\"top-banner-inner\">\n\t\t\t\t\t\t\t<div
+        id=\"div-gpt-ad-948428502746427265-1\" class=\"ipm-ad-slot \">\n\t\t\t<script>\n\t\t\tgoogletag.cmd.push(function()
+        {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tif ( ! isMobile ) {\n\t\t\t\t\t\t\tgoogletag.display(
+        'div-gpt-ad-948428502746427265-1' );\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tadSlotsToRefresh.push(
+        adSlots[ 'div-gpt-ad-948428502746427265-1' ] );\n\t\t\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t\t\t}
+        );\n\t\t\t</script>\n\t\t</div>\n\t\t\t\t\t\t</div><!-- #top-banner-inner
+        -->\n\t\t\t</div><!-- #top-banner -->\n\t\t\n\t\t\t\t\t<div id=\"mobile-top-banner\"
+        class=\"ad only-mobile bg-lightgray\">\n\t\t\t\t<div id=\"mobile-top-banner-inner\">\n\t\t\t\t\t\t\t<div
+        id=\"div-gpt-ad-714756582569651532-1\" class=\"ipm-ad-slot mobile-only\">\n\t\t\t<script>\n\t\t\tgoogletag.cmd.push(function()
+        {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tif ( isMobile ) {\n\t\t\t\t\t\t\tgoogletag.display(
+        'div-gpt-ad-714756582569651532-1' );\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tadSlotsToRefresh.push(
+        adSlots[ 'div-gpt-ad-714756582569651532-1' ] );\n\t\t\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t\t\t}
+        );\n\t\t\t</script>\n\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\n\t<header
+        class=\"site-header\" role=\"banner\">\n\t\t<div class=\"global-header\">\n\t\t\t<div
+        class=\"container-fluid global-header-wrapper\">\n\t\t\t\t<div class=\"flex-row
+        middle-xs start-xs flex-vertically-center\">\n\t\t\t\t\t<div class=\"col-xs-12
+        col-md-4 middle-xs tablet markets\">\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"today-market\">\n\t\t\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<div
+        id=\"fc-ticker-DJI\" class=\"item fc-ticker-DJI\">\n\t\t\t\t\t\t\t\t\t\t<div
+        class=\"top\">\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://investorplace.com/stock-quotes/dji-stock-quote/\"
+        aria-label=\"DJI Stock Quote of Dow Jones Industrial Average\">DOW</a>\n\t\t\t\t\t\t\t\t\t\t\t<span
+        class=\"percentage fc-ticker-DJI-change\"></span>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div
+        class=\"bottom laptop\">\n\t\t\t\t\t\t\t\t\t\t\t<span><span class=\"fc-ticker-DJI-value\"></span>
+        /</span>\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"fc-ticker-DJI-changeval\"></span>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<div
+        id=\"fc-ticker-COMP\" class=\"item fc-ticker-COMP\">\n\t\t\t\t\t\t\t\t\t\t<div
+        class=\"top\">\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://investorplace.com/stock-quotes/comp-stock-quote/\"
+        aria-label=\"COMP Stock Quote of NASDAQ Composite\">Nasdaq</a>\n\t\t\t\t\t\t\t\t\t\t\t<span
+        class=\"percentage fc-ticker-COMP-change\"></span>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div
+        class=\"bottom laptop\">\n\t\t\t\t\t\t\t\t\t\t\t<span><span class=\"fc-ticker-COMP-value\"></span>
+        /</span>\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"fc-ticker-COMP-changeval\"></span>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t<div
+        id=\"fc-ticker-SPX\" class=\"item fc-ticker-SPX\">\n\t\t\t\t\t\t\t\t\t\t<div
+        class=\"top\">\n\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://investorplace.com/stock-quotes/spx-stock-quote/\"
+        aria-label=\"SPX Stock Quote of Standard & Poors 500\">S&amp;P</a>\n\t\t\t\t\t\t\t\t\t\t\t<span
+        class=\"percentage fc-ticker-SPX-change\"></span>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<div
+        class=\"bottom laptop\">\n\t\t\t\t\t\t\t\t\t\t\t<span><span class=\"fc-ticker-SPX-value\"></span>
+        /</span>\n\t\t\t\t\t\t\t\t\t\t\t<span class=\"fc-ticker-SPX-changeval\"></span>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\n\t\t\t\t\t</div>\n\n\t\t\t\t\t<div
+        class=\"col-xs-3 col-md-4 nav-mobile-bt\">\n\t\t\t\t\t\t<a href=\"#primary-menu\"
+        aria-controls=\"primary-menu\" class=\"nav-toggle\">\n\t\t\t\t\t\t\t<span></span>\n\t\t\t\t\t\t\t<span
+        class=\"screen-reader-text\">Primary Menu</span>\n\t\t\t\t\t\t\t<span aria-hidden=\"true\">\u2630</span>\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</div>\n\n\t\t\t\t\t<div
+        class=\"col-xs-6 col-md-4 col-max-4 logo\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a
+        href=\"https://investorplace.com\" aria-label=\"Go to homepage\">\n\t\t\t\t\t\t\t\t<svg
+        class=\"header-logo-title__image\" width=\"261\" height=\"32\" viewBox=\"0
+        0 261 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M38.8652
+        7.49652H42.2492V25.7517H38.8652V7.49652ZM60.0112 7.49652H63.3142V25.7517H60.0921L50.9278
+        13.1733V25.7517H47.6248V7.49652H50.8469L60.0112 20.0749V7.49652ZM66.5201 7.49652H70.2279L75.4578
+        21.8955L80.7685 7.49652H84.3144L77.1417 25.7517H73.5957L66.5201 7.49652ZM87.4232
+        7.49652H100.457V10.5418H90.8072V15.0601H99.5019V18.1054H90.8072V22.7064H100.781V25.7517H87.4232V7.49652ZM113.637
+        10.8563C112.666 10.5253 111.872 10.3598 111.063 10.3598C110.253 10.3598 109.622
+        10.5253 109.136 10.8563C108.65 11.1873 108.407 11.601 108.407 12.1803C108.407
+        12.6768 108.569 13.0906 108.893 13.4216C109.217 13.7526 109.622 14.0009 110.188
+        14.2491C110.674 14.4974 111.403 14.7456 112.196 14.9939C113.41 15.3249 114.366
+        15.7387 115.175 16.0697C115.985 16.4007 116.616 16.98 117.183 17.7082C117.75
+        18.453 117.993 19.3467 117.993 20.5052C117.993 21.6638 117.669 22.5575 117.102
+        23.385C116.535 24.2125 115.742 24.858 114.689 25.2718C113.637 25.6855 112.52
+        25.9338 111.144 25.9338C109.767 25.9338 108.407 25.6855 107.047 25.1063C105.752
+        24.6098 104.554 23.865 103.582 22.9713L105.023 20.0087C105.914 20.8362 106.95
+        21.4817 108.083 21.9782C109.217 22.4747 110.253 22.723 111.225 22.723C112.196
+        22.723 112.908 22.5575 113.475 22.1437C114.042 21.73 114.285 21.2334 114.285
+        20.588C114.285 20.0915 114.123 19.5949 113.799 19.2639C113.475 18.9329 113.07
+        18.6847 112.504 18.4364C112.018 18.1882 111.289 18.0226 110.415 17.6916C109.201
+        17.3606 108.245 16.9469 107.436 16.6159C106.626 16.2848 105.995 15.7056 105.509
+        15.0601C104.942 14.3153 104.699 13.4216 104.699 12.2631C104.699 11.1873 104.942
+        10.2936 105.509 9.46603C106.076 8.6385 106.869 8.07578 107.841 7.66202C108.893
+        7.24826 110.01 7 111.386 7C112.52 7 113.718 7.16551 114.851 7.49652C115.985
+        7.82753 117.021 8.32404 117.912 8.88676L116.471 12.1803C115.499 11.6838 114.609
+        11.27 113.637 10.8563ZM120.146 7.49652H134.702V10.6246H129.148V25.7517H125.683V10.608H120.13V7.49652H120.146ZM149.987
+        8.473C151.428 9.30052 152.561 10.4425 153.452 11.8493C154.261 13.2395 154.747
+        14.8946 154.747 16.6159C154.747 18.3371 154.342 19.9094 153.452 21.3824C152.642
+        22.7726 151.444 23.9312 149.987 24.7587C148.546 25.5862 146.926 26 145.162
+        26C143.397 26 141.778 25.5862 140.337 24.7587C138.896 23.9312 137.762 22.7892
+        136.872 21.3824C136.062 19.9922 135.576 18.3371 135.576 16.6159C135.576 14.8946
+        135.981 13.3223 136.872 11.8493C137.681 10.4591 138.879 9.30052 140.337 8.473C141.794
+        7.64547 143.397 7.23171 145.162 7.23171C146.926 7.23171 148.546 7.66202 149.987
+        8.473ZM142.182 11.1873C141.211 11.7666 140.499 12.5113 139.932 13.4051C139.365
+        14.3981 139.122 15.3746 139.122 16.5331C139.122 17.6916 139.365 18.7509 139.932
+        19.6611C140.499 20.6542 141.227 21.3824 142.182 21.9617C143.073 22.5409 144.109
+        22.7892 145.243 22.7892C146.295 22.7892 147.331 22.5409 148.222 21.9617C149.112
+        21.3824 149.825 20.6376 150.391 19.6611C150.958 18.6681 151.201 17.6916 151.201
+        16.5331C151.201 15.3746 150.958 14.3153 150.391 13.4051C149.825 12.4948 149.096
+        11.6838 148.222 11.1873C147.331 10.608 146.295 10.3598 145.243 10.3598C144.109
+        10.3763 143.073 10.608 142.182 11.1873ZM169.773 25.7517L166.712 20.3232H162.049V25.669H158.665V7.49652H166.065C168.396
+        7.49652 170.161 8.07578 171.456 9.13502C172.752 10.2108 173.302 11.7666 173.302
+        13.7361C173.302 15.1263 172.978 16.3676 172.412 17.3606C171.764 18.3537 170.971
+        19.0819 169.756 19.6611L173.691 25.669H169.756L169.773 25.7517ZM161.968 17.2779H165.984C167.279
+        17.2779 168.234 17.0296 168.963 16.4503C169.611 15.8711 170.015 15.0601 170.015
+        13.9016C170.015 12.743 169.692 11.9321 168.963 11.4355C168.315 10.8563 167.279
+        10.608 165.984 10.608H161.968V17.2779ZM190.757 8.90331C191.971 9.97909 192.521
+        11.4521 192.521 13.3389C192.521 15.3084 191.874 16.8807 190.757 17.9399C189.542
+        19.0157 187.858 19.5784 185.608 19.5784H180.783V25.5035H179.018V7.34756H185.608C187.777
+        7.34756 189.542 7.92683 190.757 8.90331ZM189.461 16.8807C190.352 16.0531 190.821
+        14.9939 190.821 13.4216C190.821 11.9486 190.336 10.8728 189.461 10.0453C188.571
+        9.21777 187.211 8.88676 185.527 8.88676H180.783V18.0226H185.527C187.211 18.0392
+        188.506 17.7082 189.461 16.8807ZM197.023 7.34756H198.787V23.9643H206.673V25.6028H197.104V7.34756H197.023ZM224.516
+        25.6028L222.427 20.7535H212.534L210.445 25.6028H208.599L216.647 7.43031H218.492L226.54
+        25.6028H224.516ZM213.182 19.115H221.714L217.456 9.25087L213.182 19.115ZM240.286
+        9.39983C239.315 8.98606 238.359 8.82056 237.388 8.82056C236.028 8.82056 234.732
+        9.15157 233.599 9.81359C232.466 10.4756 231.51 11.3693 230.863 12.6106C230.215
+        13.7692 229.81 15.0767 229.81 16.4835C229.81 17.8737 230.134 19.115 230.863
+        20.3563C231.51 21.5148 232.466 22.4085 233.599 23.1533C234.732 23.8153 236.011
+        24.2291 237.388 24.2291C238.359 24.2291 239.315 24.0636 240.286 23.6498C241.257
+        23.2361 242.051 22.7395 242.779 22.0113L243.832 23.1699C242.941 23.9974 241.905
+        24.6429 240.772 25.1394C239.638 25.6359 238.44 25.8841 237.307 25.8841C235.623
+        25.8841 234.085 25.4704 232.644 24.6429C231.203 23.8153 230.15 22.6733 229.26
+        21.2666C228.45 19.8763 228.045 18.304 228.045 16.5828C228.045 14.8615 228.45
+        13.372 229.341 11.9817C230.15 10.5915 231.267 9.43293 232.725 8.6054C234.166
+        7.77788 235.704 7.36411 237.388 7.36411C238.602 7.36411 239.719 7.61237 240.853
+        8.02613C241.986 8.52265 242.941 9.10192 243.832 9.91289L242.779 11.1376C242.051
+        10.3929 241.241 9.81359 240.286 9.39983ZM248.641 7.34756H260.541V8.98606H250.406V15.4904H259.489V17.1289H250.406V23.9477H260.865V25.5862H248.641V7.34756Z\"
+        fill=\"#212121\"/>\n<path d=\"M31.3505 14.3755C31.3667 14.6507 31.3829 15.1201
+        31.2857 15.1687C31.1077 15.1201 30.9458 13.5337 31.1077 13.4365H31.1239C31.2534
+        13.4689 31.3343 14.0355 31.3505 14.3755Z\" fill=\"#00A000\"/>\n<path d=\"M16.959
+        13.1775C16.7485 15.4763 13.8346 16.3343 12.4424 14.505C11.3092 13.0156 12.1996
+        10.6036 14.4659 10.4902C16.3438 10.6036 17.0561 12.1253 16.959 13.1775Z\"
+        fill=\"#00A000\"/>\n<path d=\"M14.1103 18.034C14.0456 18.7949 13.4952 20.1223
+        11.8116 20.2195C9.41565 20.09 8.65479 17.176 10.1441 15.8C10.7269 15.282 11.3421
+        15.2496 11.6497 15.2334C13.4952 15.3305 14.2075 16.9332 14.1103 18.034Z\"
+        fill=\"#00A000\"/>\n<path d=\"M21.4764 15.9942C21.4116 16.7875 20.8288 18.1797
+        19.1128 18.2768C16.555 18.1473 15.9075 15.1686 17.5749 13.7602C18.1901 13.2422
+        18.8052 13.2098 19.1128 13.1936C21.0069 13.3069 21.5735 14.9743 21.4764 15.9942Z\"
+        fill=\"#00A000\"/>\n<path d=\"M18.7565 20.6727C18.4004 22.7773 15.6969 23.4248
+        14.4504 21.7088C13.4952 20.3975 14.1104 18.1311 16.4739 18.0178C18.3356 18.115
+        18.9184 19.6205 18.7565 20.6727Z\" fill=\"#00A000\"/>\n<path d=\"M12.1507
+        10.555C12.0373 11.2349 11.4384 12.4005 9.98138 12.4976C7.90925 12.3843 7.89306
+        10.0046 9.1072 8.90376C9.68999 8.38572 10.2242 8.35335 10.4832 8.33716C11.9726
+        8.4181 12.2963 9.74556 12.1507 10.555Z\" fill=\"#00A000\"/>\n<path d=\"M18.9993
+        8.758C19.0155 10.4578 16.8462 11.2187 15.5349 9.97214C14.3532 8.85513 14.9521
+        6.76681 16.8948 6.66968C18.4165 6.76681 18.9831 7.99714 18.9993 8.758Z\" fill=\"#00A000\"/>\n<path
+        d=\"M23.2892 11.2836C23.3864 13.0157 21.6056 13.8737 20.2458 12.7405C18.805
+        11.5264 19.2259 9.19524 20.9095 9.01717C20.9581 9.01717 21.039 9.01717 21.1038
+        9.00098C22.6093 9.09811 23.2407 10.4579 23.2892 11.2836Z\" fill=\"#00A000\"/>\n<path
+        d=\"M9.34996 15.1687C9.28521 15.8972 8.79955 17.1599 7.4559 17.2409C5.44853
+        17.1114 5.10857 14.2136 6.53316 13.0642C6.95406 12.7405 7.31021 12.7081 7.55304
+        12.6919C8.86431 12.7728 9.46328 14.0355 9.34996 15.1687Z\" fill=\"#00A000\"/>\n<path
+        d=\"M25.0365 18.6978C24.6642 20.608 22.6406 21.3203 21.7017 19.8634C20.8599
+        18.5521 21.6369 16.3343 23.4015 16.2209C24.8422 16.3181 25.2308 17.7265 25.0365
+        18.6978Z\" fill=\"#00A000\"/>\n<path d=\"M11.6007 22.4698C11.633 23.9267 10.1437
+        24.7847 8.80003 23.603C7.47257 22.4212 7.7154 20.3976 9.22093 20.2196C9.2695
+        20.2196 9.35044 20.2196 9.4152 20.2034C10.7265 20.2843 11.5683 21.4337 11.6007
+        22.4698Z\" fill=\"#00A000\"/>\n<path d=\"M15.8267 24.7199C15.7781 25.2218
+        15.341 26.1769 14.1269 26.2417C12.4433 26.1607 11.4882 24.1857 12.6052 23.1335C13.0585
+        22.7126 13.5765 22.6964 13.8031 22.6802C15.1953 22.7449 15.94 23.781 15.8267
+        24.7199Z\" fill=\"#00A000\"/>\n<path d=\"M22.1549 23.101C21.6044 24.6713 19.5485
+        25.3835 18.7715 23.8942C18.1563 22.7286 19.0628 20.9641 20.7303 20.8669C21.8797
+        20.8831 22.5758 21.9354 22.1549 23.101Z\" fill=\"#00A000\"/>\n<path d=\"M14.6774
+        6.50773C14.5965 7.00958 14.0946 7.9647 12.7995 8.02946C11.1807 7.93233 10.9702
+        6.31347 12.0225 5.32597C12.5567 4.82413 13.0747 4.80794 13.2852 4.79175C14.4184
+        4.8565 14.7907 5.82781 14.6774 6.50773Z\" fill=\"#00A000\"/>\n<path d=\"M7.18189
+        19.9604C7.19808 20.1223 7.26284 21.5631 6.06488 21.6602C4.41365 21.5469 3.71755
+        18.8758 4.75361 18.0016C5.01263 17.7912 5.25546 17.775 5.41734 17.7588C6.53435
+        17.8397 7.11714 19.0862 7.18189 19.9604Z\" fill=\"#00A000\"/>\n<path d=\"M26.9959
+        13.906C27.0282 15.4601 25.7655 16.3019 24.7457 15.4115C23.5477 14.3593 23.7096
+        11.8177 25.3123 11.7043C26.3645 11.7691 26.9635 12.8861 26.9959 13.906Z\"
+        fill=\"#00A000\"/>\n<path d=\"M18.9988 26.7921C18.9826 26.8407 18.5455 27.8929
+        17.3961 27.9577C16.182 27.8767 15.7611 26.436 16.7 25.5941C17.1695 25.1732
+        17.6551 25.1571 17.8656 25.1409C19.0635 25.2218 19.2416 26.1446 18.9988 26.7921Z\"
+        fill=\"#00A000\"/>\n<path d=\"M20.0999 4.92117C20.1808 5.32589 20.0837 6.11913
+        19.08 6.16769C17.6392 6.08675 16.9755 4.53265 17.7525 3.77179C18.0116 3.52896
+        18.303 3.51277 18.4325 3.49658C19.3228 3.56134 19.9704 4.37076 20.0999 4.92117Z\"
+        fill=\"#00A000\"/>\n<path d=\"M8.33073 8.11044C8.15266 8.61229 7.55368 9.55122
+        6.58237 9.61598C5.33585 9.51884 5.57868 7.80286 6.6795 6.86392C7.16515 6.44302
+        7.53749 6.42683 7.68319 6.41064C8.54118 6.4754 8.58975 7.44671 8.33073 8.11044Z\"
+        fill=\"#00A000\"/>\n<path d=\"M5.43276 12.449C5.30325 13.0317 4.86616 14.0516
+        3.97579 14.1164C2.6807 14.0031 2.8264 11.6557 3.89485 10.7492C4.20243 10.4901
+        4.42907 10.474 4.59095 10.4578C5.40038 10.5387 5.62702 11.5424 5.43276 12.449Z\"
+        fill=\"#00A000\"/>\n<path d=\"M24.1468 6.88001C24.5029 7.98083 23.6773 8.66075
+        22.6251 8.11034C21.4109 7.4628 21.0224 5.58493 22.0423 5.30972C22.107 5.29353
+        22.2042 5.29353 22.2689 5.27734C23.224 5.3421 23.9363 6.24866 24.1468 6.88001Z\"
+        fill=\"#00A000\"/>\n<path d=\"M10.0796 26.3387C10.0958 26.3873 10.4196 27.4395
+        9.5454 27.4881C8.34745 27.4233 7.08474 25.6264 7.78085 24.9789C7.94273 24.817
+        8.15318 24.8008 8.28269 24.8008C9.20544 24.8493 9.88536 25.7235 10.0796 26.3387Z\"
+        fill=\"#00A000\"/>\n<path d=\"M27.3692 21.3364C26.916 22.5991 25.5885 23.3438
+        25.1514 22.3077C24.7143 21.304 25.5237 19.4747 26.7055 19.3938C27.6283 19.4747
+        27.6444 20.5756 27.3692 21.3364Z\" fill=\"#00A000\"/>\n<path d=\"M24.245 25.2864C23.5975
+        26.4034 22.2053 26.9862 21.9463 26.0311C21.7034 25.1569 22.6586 23.7323 23.7917
+        23.6514C24.6336 23.7161 24.6821 24.5579 24.245 25.2864Z\" fill=\"#00A000\"/>\n<path
+        d=\"M13.8031 28.1518C13.9003 29.0098 13.0909 29.4631 12.1519 28.7184C11.1644
+        27.9576 11.3101 26.9377 12.1519 26.8406C12.1843 26.8406 12.2329 26.8406 12.2814
+        26.8406C13.1394 26.873 13.7384 27.5529 13.8031 28.1518Z\" fill=\"#00A000\"/>\n<path
+        d=\"M16.4094 3.23778C16.3446 4.22528 14.9848 4.50049 14.4182 3.83676C13.9002
+        3.20541 14.4668 2.18553 15.3571 2.13696C16.0047 2.15315 16.4418 2.71975 16.4094
+        3.23778Z\" fill=\"#00A000\"/>\n<path d=\"M11.3909 4.41948C10.8891 5.55268
+        9.52923 5.95739 9.18927 5.27747C8.8655 4.59756 9.95013 3.31866 10.9053 3.25391C11.5042
+        3.25391 11.6337 3.85288 11.3909 4.41948Z\" fill=\"#00A000\"/>\n<path d=\"M3.3601
+        17.1921C3.37629 18.4063 2.74494 19.0862 2.12977 18.5034C1.32034 17.7264 1.30416
+        15.3466 2.34022 15.2495C3.06871 15.3305 3.34391 16.4798 3.3601 17.1921Z\"
+        fill=\"#00A000\"/>\n<path d=\"M27.6917 9.24369C27.9993 10.2798 27.4812 10.9435
+        26.688 10.5226C25.6519 9.97217 25.1177 7.91622 25.9433 7.64102C25.9919 7.62483
+        26.0728 7.62483 26.1214 7.60864C26.8984 7.6734 27.4974 8.59614 27.6917 9.24369Z\"
+        fill=\"#00A000\"/>\n<path d=\"M29.5543 16.6256C29.4409 17.9045 28.6153 18.6006
+        28.0649 17.8883C27.4012 17.0303 27.6764 14.8287 28.6801 14.7153C29.3924 14.7801
+        29.619 15.8809 29.5543 16.6256Z\" fill=\"#00A000\"/>\n<path d=\"M6.01558 24.218C6.03177
+        24.2666 6.43648 25.3674 5.72419 25.4483C4.68812 25.3674 3.49017 23.3924 4.10533
+        22.7772C4.20246 22.6801 4.31578 22.6639 4.41292 22.6477C5.10902 22.6963 5.75656
+        23.4895 6.01558 24.218Z\" fill=\"#00A000\"/>\n<path d=\"M16.5051 29.5441C16.2946
+        30.2887 15.2909 30.5154 14.87 29.706C14.611 29.2041 14.8862 28.6213 15.6633
+        28.5728C16.3432 28.6051 16.6346 29.0908 16.5051 29.5441Z\" fill=\"#00A000\"/>\n<path
+        d=\"M20.7967 28.4756C20.5538 28.7831 19.9711 29.2688 19.4206 29.285C18.7407
+        29.2364 18.9512 28.2813 19.6311 27.7147C20.0682 27.3424 20.4405 27.3262 20.57
+        27.3262C21.2176 27.3747 21.2176 27.9575 20.7967 28.4756Z\" fill=\"#00A000\"/>\n<path
+        d=\"M19.8739 2.15321C20.0682 2.41223 20.1815 2.81694 19.6797 2.84932C18.8217
+        2.80076 18.1741 1.7485 18.5141 1.48948C18.5626 1.44092 18.6274 1.44092 18.6922
+        1.44092C19.0969 1.45711 19.6311 1.82944 19.8739 2.15321Z\" fill=\"#00A000\"/>\n<path
+        d=\"M13.8509 1.66741C13.5433 2.29876 12.653 2.54159 12.4749 2.15307C12.313
+        1.74835 13.09 1.08462 13.6243 1.05225C13.9642 1.05225 13.9966 1.37602 13.8509
+        1.66741Z\" fill=\"#00A000\"/>\n<path d=\"M6.12972 5.87644C5.54693 6.75062
+        4.76988 7.07439 4.67275 6.6373C4.55943 6.11927 5.57931 4.77562 6.2916 4.72705C6.76107
+        4.77562 6.38874 5.48791 6.12972 5.87644Z\" fill=\"#00A000\"/>\n<path d=\"M23.3061
+        3.67478C23.5165 3.93379 23.7594 4.45183 23.2413 4.4842C22.3348 4.40326 21.4282
+        3.0758 21.7196 2.80059C21.7682 2.75203 21.8329 2.75203 21.8977 2.73584C22.351
+        2.76822 22.9661 3.23768 23.3061 3.67478Z\" fill=\"#00A000\"/>\n<path d=\"M2.97199
+        9.87496C2.92343 9.98828 2.51871 10.9596 2.00068 11.0082C1.33695 10.911 2.00068
+        9.01696 2.69679 8.56368C2.81011 8.48274 2.87486 8.48274 2.93962 8.46655C3.34433
+        8.53131 3.18244 9.34073 2.97199 9.87496Z\" fill=\"#00A000\"/>\n<path d=\"M30.3314
+        11.7206C30.4124 12.1253 30.4448 12.8861 30.0401 12.9347C29.2792 12.8376 28.8421
+        10.7007 29.2792 10.3284C29.3278 10.2798 29.3925 10.2798 29.4249 10.2798C29.862
+        10.3445 30.2181 11.154 30.3314 11.7206Z\" fill=\"#00A000\"/>\n<path d=\"M2.47043
+        21.7897C2.66469 22.421 2.63231 23.0362 2.27616 22.8743C1.61243 22.5829 0.916326
+        20.5432 1.43436 20.3975H1.48293C1.88764 20.446 2.30854 21.2393 2.47043 21.7897Z\"
+        fill=\"#00A000\"/>\n<path d=\"M28.3552 23.8296C27.9343 24.5581 27.2705 25.0923
+        27.141 24.6714C26.9629 24.121 27.8209 22.5831 28.4523 22.5183C28.8246 22.5669
+        28.6951 23.2306 28.3552 23.8296Z\" fill=\"#00A000\"/>\n<path d=\"M10.1606
+        29.544C10.4035 29.8031 10.5977 30.1268 10.3225 30.1268C9.7883 30.143 8.37989
+        29.1555 8.63891 28.7994C8.67129 28.7508 8.73604 28.7346 8.8008 28.7346C9.31883
+        28.767 9.9178 29.285 10.1606 29.544Z\" fill=\"#00A000\"/>\n<path d=\"M24.9563
+        27.4396C24.7296 27.6987 24.1792 28.1681 23.7583 28.2005C23.305 28.1519 23.9202
+        27.213 24.5192 26.7435C24.9239 26.4198 25.1505 26.4036 25.2315 26.4036C25.62
+        26.4521 25.3933 26.9702 24.9563 27.4396Z\" fill=\"#00A000\"/>\n<path d=\"M13.1878
+        30.6613C13.2849 30.7746 13.5115 31.0498 13.2525 31.0822C12.7183 31.0822 11.6822
+        30.4346 11.9413 30.1756C11.9898 30.127 12.0708 30.1108 12.1193 30.1108C12.5564
+        30.1108 13.0097 30.467 13.1878 30.6613Z\" fill=\"#00A000\"/>\n<path d=\"M17.7192
+        30.7906C17.5735 30.9201 17.2497 31.1305 16.9745 31.1467C16.6346 31.1305 16.8612
+        30.661 17.1202 30.4344C17.2983 30.2887 17.4764 30.2078 17.6868 30.2078C18.0592
+        30.2401 17.9944 30.5315 17.7192 30.7906Z\" fill=\"#00A000\"/>\n<path d=\"M9.64113
+        2.73581C9.544 2.83294 8.99359 3.35097 8.52412 3.38335C8.16798 3.35097 8.39462
+        2.94626 8.81552 2.59011C9.04216 2.39585 9.56019 2.02351 9.93253 2.00732C10.3211
+        2.0397 9.67351 2.70343 9.64113 2.73581Z\" fill=\"#00A000\"/>\n<path d=\"M16.9275
+        0.890291C17.0894 1.23025 16.7332 1.40832 16.3933 1.27882C15.94 1.10074 15.9076
+        0.598897 16.1666 0.469389C16.2152 0.4532 16.2476 0.437012 16.2961 0.437012C16.5552
+        0.4532 16.8304 0.67984 16.9275 0.890291Z\" fill=\"#00A000\"/>\n<path d=\"M26.6083
+        5.5365C26.9644 6.03834 26.9806 6.42687 26.6407 6.3783C26.0741 6.29736 25.0056
+        4.88896 25.2808 4.59756C25.3132 4.56519 25.3618 4.56519 25.3941 4.56519C25.7989
+        4.59756 26.3493 5.14797 26.6083 5.5365Z\" fill=\"#00A000\"/>\n<path d=\"M0.689784
+        14.2135C0.641218 14.6182 0.51171 15.3143 0.252693 15.3629C-0.232963 15.2658
+        0.0746191 13.1127 0.39839 12.9023L0.463144 12.8699C0.738349 12.9184 0.754538
+        13.7279 0.689784 14.2135Z\" fill=\"#00A000\"/>\n<path d=\"M30.816 19.4909C30.6217
+        20.2517 30.2656 20.7374 30.1037 20.446C29.877 19.9927 30.2656 18.2767 30.7189
+        18.1958C30.9779 18.2444 30.9617 18.9081 30.816 19.4909Z\" fill=\"#00A000\"/>\n<path
+        d=\"M6.7129 27.6823C7.02048 28.0384 7.21474 28.3784 6.93954 28.346C6.38913
+        28.2651 5.17499 27.0024 5.46638 26.8243L5.54732 26.8081C5.91966 26.8567 6.45388
+        27.3747 6.7129 27.6823Z\" fill=\"#00A000\"/>\n<path d=\"M21.0704 29.8516C20.6171
+        30.1592 20.002 30.402 20.002 30.2239C20.0181 30.0458 20.8923 29.2526 21.4427
+        29.2202C21.7179 29.2526 21.4751 29.5278 21.2808 29.6897C21.2485 29.7059 21.1675
+        29.7868 21.0704 29.8516Z\" fill=\"#00A000\"/>\n<path d=\"M15.2925 31.163C15.3735
+        31.3249 15.3249 31.4544 14.9849 31.3573C14.6612 31.2601 14.4993 31.0497 14.6612
+        30.9525L14.7583 30.9202C15.0173 30.8716 15.2116 31.0173 15.2925 31.163Z\"
+        fill=\"#00A000\"/>\n<path d=\"M12.8303 0.469616C12.3932 0.744822 12.0695 0.809576
+        12.1018 0.712445C12.1342 0.534371 12.9113 0.194411 13.1541 0.178223C13.1865
+        0.178223 13.235 0.178223 13.1217 0.275354C13.057 0.32392 12.9436 0.404862
+        12.8303 0.469616Z\" fill=\"#00A000\"/>\n<path d=\"M15.3237 0.161885C15.2913
+        0.22664 15.178 0.339959 14.9999 0.356148C14.8542 0.339959 14.8704 0.242828
+        14.9676 0.145697C15.0485 0.0809427 15.1942 0 15.2913 0C15.4208 0.0161885 15.3237
+        0.161885 15.3237 0.161885Z\" fill=\"#00A000\"/>\n<path d=\"M0.608603 18.9245C0.721923
+        19.4587 0.721923 19.8148 0.64098 19.7663C0.430529 19.653 0.0743813 17.8884
+        0.236267 17.8398C0.333398 17.8884 0.495283 18.4226 0.608603 18.9245Z\" fill=\"#00A000\"/>\n<path
+        d=\"M29.3427 7.9001C29.537 8.24006 29.6503 8.58002 29.4884 8.53145C29.2132
+        8.45051 28.4847 7.20399 28.679 7.12305H28.6952C28.8571 7.17161 29.1485 7.56014
+        29.3427 7.9001Z\" fill=\"#00A000\"/>\n<path d=\"M3.61909 25.3512C3.66766 25.4159
+        4.03999 25.934 3.92667 25.9663C3.66766 25.9178 2.68015 24.6389 2.84204 24.5417H2.85823C3.00392
+        24.5903 3.40864 25.0598 3.61909 25.3512Z\" fill=\"#00A000\"/>\n<path d=\"M18.1414
+        0.259053C18.3519 0.339996 18.449 0.40475 18.4166 0.420939C18.3357 0.485693
+        17.4939 0.194299 17.4453 0.113357L17.4615 0.097168C17.5748 0.113357 17.8986
+        0.178111 18.1414 0.259053Z\" fill=\"#00A000\"/>\n<path d=\"M2.43813 7.4629C2.35719
+        7.57622 2.11436 7.96474 2.01723 8.01331C1.87153 7.96474 2.60002 6.88011 2.71334
+        6.83154H2.72952C2.81047 6.86392 2.4867 7.39814 2.43813 7.4629Z\" fill=\"#00A000\"/>\n<path
+        d=\"M5.67515 3.78798C5.319 4.12794 5.09236 4.25745 5.07617 4.1765C5.07617
+        4.03081 5.82084 3.31851 6.06367 3.28613C6.17699 3.28613 5.90179 3.57753 5.67515
+        3.78798Z\" fill=\"#00A000\"/>\n<path d=\"M21.0058 1.03617C21.2648 1.18187
+        21.3944 1.29519 21.3134 1.31138C21.1515 1.34376 20.0993 0.777157 20.1802 0.712402H20.2126C20.3745
+        0.728591 20.763 0.890476 21.0058 1.03617Z\" fill=\"#00A000\"/>\n<path d=\"M24.6005
+        2.81684C24.8919 3.04348 25.0376 3.22156 24.9243 3.22156C24.7139 3.23775 23.4835
+        2.33119 23.613 2.25024H23.6454C23.8721 2.29881 24.3091 2.5902 24.6005 2.81684Z\"
+        fill=\"#00A000\"/>\n<path d=\"M9.69156 1.31126C9.57824 1.37602 9.23828 1.55409
+        9.18971 1.52171C9.17352 1.42458 9.9182 1.06843 10.0801 1.05225C10.0963 1.10081
+        9.75631 1.27889 9.69156 1.31126Z\" fill=\"#00A000\"/>\n</svg>\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\n\t\t\t\t\t<div
+        class=\"col-xs-3 col-md-4 col-max-4 middle-xs end-xs global-items\">\n\t\t\t\t\t\t<ul
+        class=\"menu-utility\">\n\t\t\t\t\t\t\t<li id=\"menu-item-1301326\" class=\"tablet-lg
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-1301326\"><a
+        href=\"https://investorplace.com/corporate/about-us/\">About Us</a></li>\n<li
+        id=\"menu-item-1301325\" class=\"laptop menu-item menu-item-type-post_type
+        menu-item-object-page menu-item-1301325\"><a href=\"https://investorplace.com/investing-experts/\">Our
+        Analysts</a></li>\n\t\t\t\t\t\t\t<li class=\"tablet\">\n\t\t\t\t\t\t\t\t<div
+        class=\"premium-signed-out-state\">\n\t\t\t\t\t\t\t\t\t<button class=\"modal-toggle
+        premium-login-toggle\">\n\t\t\t\t\t\t\t\t\t\t<svg xmlns=\"http://www.w3.org/2000/svg\"
+        width=\"156\" height=\"173\" viewBox=\"0 0 156 173\">\n\t\t\t\t\t\t\t\t\t\t\t<path
+        fill=\"#007D38\" d=\"M78,0 C54.1060473,0 34.6666036,20.4232061 34.6666036,45.5263381
+        C34.6666036,70.6296117 54.1060473,91.0528178 78,91.0528178 C101.893953,91.0528178
+        121.333396,70.6296117 121.333396,45.5263381 C121.333396,20.4232061 101.893953,0
+        78,0 Z M78,72.8422543 C63.6653018,72.8422543 52.0000473,60.5865188 52.0000473,45.5263381
+        C52.0000473,30.466299 63.6653018,18.2105636 78,18.2105636 C92.3346982,18.2105636
+        103.999953,30.466299 103.999953,45.5263381 C103.999953,60.5865188 92.3346982,72.8422543
+        78,72.8422543 Z M156,173 L156,163.894364 C156,128.757765 128.778,100.158029
+        95.3333018,100.158029 L60.6666982,100.158029 C27.2133491,100.158029 0,128.757765
+        0,163.894364 L0,173 L17.3333018,173 L17.3333018,163.894364 C17.3333018,138.791799
+        36.7726036,118.368592 60.6666982,118.368592 L95.3333018,118.368592 C119.227396,118.368592
+        138.666698,138.791799 138.666698,163.894364 L138.666698,173 L156,173 Z\"/>\n\t\t\t\t\t\t\t\t\t\t</svg>\n\t\t\t\t\t\t\t\t\t\tLog
+        in\n\t\t\t\t\t\t\t\t\t</button>\n\t\t\t\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t<div
+        class=\"premium-signed-in-state subscriber-header-dropdown-container\">\n\t\t\t\t\t\t\t\t\t<button
+        class=\"premium-login-toggle --logged-in\" id=\"js-premium-login-toggle--logged-in\"
+        aria-controls=\"subscriber-header-dropdown\">\n\t\t\t\t\t\t\t\t\t\t<span class=\"screen-reader-text\">My
+        account</span>\n\t\t\t\t\t\t\t\t\t\t<svg width=\"35\" height=\"30\" viewBox=\"0
+        0 35 30\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t\t\t\t\t\t\t\t\t\t<path
+        d=\"M10.5 7C7.58983 7 5.22222 9.20596 5.22222 11.9174C5.22222 14.6289 7.58983
+        16.8349 10.5 16.8349C13.4102 16.8349 15.7778 14.6289 15.7778 11.9174C15.7778
+        9.20596 13.4102 7 10.5 7ZM10.5 14.8679C8.75411 14.8679 7.33333 13.5441 7.33333
+        11.9174C7.33333 10.2907 8.75411 8.96697 10.5 8.96697C12.2459 8.96697 13.6667
+        10.2907 13.6667 11.9174C13.6667 13.5441 12.2459 14.8679 10.5 14.8679ZM20 25.6863V24.7028C20
+        20.9075 16.6845 17.8184 12.6111 17.8184H8.38889C4.31444 17.8184 1 20.9075
+        1 24.7028V25.6863H3.11111V24.7028C3.11111 21.9913 5.47872 19.7853 8.38889
+        19.7853H12.6111C15.5213 19.7853 17.8889 21.9913 17.8889 24.7028V25.6863H20Z\"
+        fill=\"#2F2A2B\"/>\n\t\t\t\t\t\t\t\t\t\t\t<path d=\"M33.7439 15.743L28.8711
+        20.486L23.9983 15.743\" stroke=\"#2F2A2B\"/>\n\t\t\t\t\t\t\t\t\t\t</svg>\n\t\t\t\t\t\t\t\t\t</button>\n\n\t\t\t\t\t\t\t\t\t<div
+        class=\"subscriber-header-dropdown\" id=\"subscriber-header-dropdown\" aria-expanded=\"false\">\n\t\t\t\t\t\t\t\t\t\t<ul
+        class=\"subscriber-header-dropdown__list\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class=\"subscriber-header-dropdown__list-item\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a
+        href=\"https://investorplace.com/dashboard\">My Services</a>\n\t\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<li
+        class=\"subscriber-header-dropdown__list-item --underline\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a
+        href=\"https://investorplace.com/corporate/contact-us/\">Support</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t\t<li
+        class=\"subscriber-header-dropdown__list-item --logout link-signout\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a
+        href=\"#\" class=\"js-premium-signout\">Log out</a>\n\t\t\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t<li
+        class=\"search-toggle-container\">\n\t\t\t\t\t\t\t\t<a class=\"search-toggle\"
+        href=\"#search\" aria-label=\"Search this site\"><span></span></a>\n\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div
+        id=\"js-site-header-overlay\" class=\"site-header-overlay\"></div>\n\t\t</div>\n\n\t\t<nav
+        class=\"site-navigation\" role=\"navigation\" itemscope=\"itemscope\" itemtype=\"http://schema.org/SiteNavigationElement\">\n\t\t\t<div
+        class=\"site-navigation-wrapper\"><ul id=\"primary-menu\" class=\"primary-menu\"><li
+        id=\"menu-item-1301330\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category
+        current-post-ancestor menu-item-has-children menu-item-1301330\"><a href=\"https://investorplace.com/stock-picks/\">Stocks</a>\n<ul
+        class=\"sub-menu\">\n\t<li id=\"menu-item-1737338\" class=\"top-level-parent-link
+        menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor
+        menu-item-1737338\"><a href=\"https://investorplace.com/stock-picks/\">View
+        all in Stocks</a></li>\n\t<li id=\"menu-item-1355238\" class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category current-post-ancestor current-menu-parent current-post-parent
+        menu-item-1355238\"><a href=\"https://investorplace.com/category/stock-picks/stocks-to-buy/\">Stocks
+        to Buy</a></li>\n\t<li id=\"menu-item-1355239\" class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1355239\"><a href=\"https://investorplace.com/category/stock-picks/stocks-to-sell/\">Stocks
+        to Sell</a></li>\n\t<li id=\"menu-item-1355234\" class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1355234\"><a href=\"https://investorplace.com/category/stock-picks/dividend/\">Dividend
+        Stocks</a></li>\n\t<li id=\"menu-item-1355236\" class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1355236\"><a href=\"https://investorplace.com/category/stock-picks/penny-stocks/\">Penny
+        Stocks</a></li>\n\t<li id=\"menu-item-1355235\" class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1355235\"><a href=\"https://investorplace.com/category/stock-picks/hot-stocks/\">Hot
+        Stocks</a></li>\n\t<li id=\"menu-item-1355237\" class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1355237\"><a href=\"https://investorplace.com/category/stock-picks/stock-market-today/\">Stock
+        Market Today</a></li>\n</ul>\n</li>\n<li id=\"menu-item-1301332\" class=\"menu-item
+        menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1301332\"><a
+        href=\"https://investorplace.com/mutual-funds-etfs/\">Funds</a>\n<ul class=\"sub-menu\">\n\t<li
+        id=\"menu-item-1737343\" class=\"top-level-parent-link menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1737343\"><a href=\"https://investorplace.com/mutual-funds-etfs/\">View
+        all in Funds</a></li>\n\t<li id=\"menu-item-1355233\" class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1355233\"><a href=\"https://investorplace.com/category/mutual-funds-etfs/mutual-funds/\">Mutual
+        Funds</a></li>\n\t<li id=\"menu-item-1355232\" class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1355232\"><a href=\"https://investorplace.com/category/mutual-funds-etfs/etf-investing/\">ETF
+        Investing</a></li>\n</ul>\n</li>\n<li id=\"menu-item-1301333\" class=\"menu-item
+        menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1301333\"><a
+        href=\"https://investorplace.com/retirement/\">Retirement</a>\n<ul class=\"sub-menu\">\n\t<li
+        id=\"menu-item-1737346\" class=\"top-level-parent-link menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1737346\"><a href=\"https://investorplace.com/retirement/\">View
+        all in Retirement</a></li>\n\t<li id=\"menu-item-1355231\" class=\"menu-item
+        menu-item-type-taxonomy menu-item-object-category menu-item-1355231\"><a href=\"https://investorplace.com/category/retirement/401k-investing-tips/\">401k
+        &#038; Investing Tips</a></li>\n</ul>\n</li>\n<li id=\"menu-item-1301334\"
+        class=\"menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children
+        menu-item-1301334\"><a href=\"https://investorplace.com/trading/\">Trading</a>\n<ul
+        class=\"sub-menu\">\n\t<li id=\"menu-item-1737349\" class=\"top-level-parent-link
+        menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1737349\"><a
+        href=\"https://investorplace.com/trading/\">View all in Trading</a></li>\n\t<li
+        id=\"menu-item-1355230\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category
+        menu-item-1355230\"><a href=\"https://investorplace.com/category/trading/trading-advice/\">Trading
+        Advice</a></li>\n\t<li id=\"menu-item-1368670\" class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1368670\"><a href=\"https://investorplace.com/category/trading/trading-opportunities/\">Trading
+        Opportunities</a></li>\n</ul>\n</li>\n<li id=\"menu-item-1580917\" class=\"menu-item
+        menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1580917\"><a
+        href=\"https://investorplace.com/private-investing/\">Private Investing</a>\n<ul
+        class=\"sub-menu\">\n\t<li id=\"menu-item-1737352\" class=\"top-level-parent-link
+        menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1737352\"><a
+        href=\"https://investorplace.com/private-investing/\">View all in Private
+        Investing</a></li>\n\t<li id=\"menu-item-1580918\" class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1580918\"><a href=\"https://investorplace.com/category/private-investing/equity-crowdfunding/\">Equity
+        Crowdfunding</a></li>\n\t<li id=\"menu-item-1580919\" class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1580919\"><a href=\"https://investorplace.com/category/private-investing/real-estate-crowdfunding/\">Real
+        Estate Crowdfunding</a></li>\n\t<li id=\"menu-item-1580921\" class=\"menu-item
+        menu-item-type-taxonomy menu-item-object-category menu-item-1580921\"><a href=\"https://investorplace.com/category/private-investing/asset-tokenization/\">Asset
+        Tokenization</a></li>\n\t<li id=\"menu-item-1580922\" class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1580922\"><a href=\"https://investorplace.com/category/private-investing/other-private-investing/\">Other
+        Private Investing</a></li>\n</ul>\n</li>\n<li id=\"menu-item-1741862\" class=\"menu-item
+        menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-1741862\"><a
+        href=\"https://investorplace.com/how-to-invest/\">How to Invest</a>\n<ul class=\"sub-menu\">\n\t<li
+        id=\"menu-item-1741874\" class=\"top-level-parent-link menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1741874\"><a href=\"https://investorplace.com/how-to-invest/\">View
+        all in How to Invest</a></li>\n\t<li id=\"menu-item-1741863\" class=\"menu-item
+        menu-item-type-taxonomy menu-item-object-category menu-item-1741863\"><a href=\"https://investorplace.com/category/how-to-invest/5g-stocks/\">5G
+        Stocks</a></li>\n\t<li id=\"menu-item-1741864\" class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1741864\"><a href=\"https://investorplace.com/category/how-to-invest/cheap-stocks/\">Cheap
+        Stocks</a></li>\n\t<li id=\"menu-item-1741865\" class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1741865\"><a href=\"https://investorplace.com/category/how-to-invest/crypto/\">Crypto</a></li>\n\t<li
+        id=\"menu-item-1745631\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category
+        menu-item-1745631\"><a href=\"https://investorplace.com/category/how-to-invest/esg-stocks/\">ESG
+        Stocks</a></li>\n\t<li id=\"menu-item-1741866\" class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1741866\"><a href=\"https://investorplace.com/category/how-to-invest/growth-stocks/\">Growth
+        Stocks</a></li>\n\t<li id=\"menu-item-1741867\" class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1741867\"><a href=\"https://investorplace.com/category/how-to-invest/robinhood/\">Robinhood
+        Stocks</a></li>\n\t<li id=\"menu-item-1741868\" class=\"menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-1741868\"><a href=\"https://investorplace.com/category/how-to-invest/spac-ipos/\">SPAC
+        IPOs</a></li>\n</ul>\n</li>\n</ul></div>\t\t</nav>\n\n\t\t<div id=\"search\"
+        class=\"search\">\n\t\t\t<div class=\"header-search-container container-fluid
+        wrapper\">\n\t\t\t\t<form role=\"search\" method=\"get\" action=\"https://investorplace.com/search/\">\n\t\t\t\t\t<label
+        for=\"search_field\"><span class=\"screen-reader-text\">Search for:</span></label>\n\t\t\t\t\t<input
+        id=\"search_field\" type=\"search\" name=\"q\" value=\"\" placeholder=\"Search...\"
+        required>\n\t\t\t\t\t<button type=\"submit\" class=\"header-search__submit\">\n\t\t\t\t\t\t<div
+        class=\"svg_wrapper svg_header-search\"><div><svg shape-rendering=\"geometricPrecision\"><use
+        xlink:href=\"#header-search\"></use></svg></div></div>\t\t\t\t\t\t<span class=\"screen-reader-text\">Search</span>\n\t\t\t\t\t</button>\n\t\t\t\t</form>\n\t\t\t</div>\n\t\t</div>\n\t</header>\n\n\t<div
+        class=\"nav-mobile\" role=\"navigation\" aria-label=\"Primary mobile navigation\">\n\t\t<div
+        class=\"nav-mobile__header\">\n\n\t\t\t<a class=\"logo\" href=\"https://investorplace.com\"
+        aria-label=\"Go to homepage\">\n\t\t\t\t<svg class=\"header-logo-title__image\"
+        width=\"261\" height=\"32\" viewBox=\"0 0 261 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path
+        d=\"M38.8652 7.49652H42.2492V25.7517H38.8652V7.49652ZM60.0112 7.49652H63.3142V25.7517H60.0921L50.9278
+        13.1733V25.7517H47.6248V7.49652H50.8469L60.0112 20.0749V7.49652ZM66.5201 7.49652H70.2279L75.4578
+        21.8955L80.7685 7.49652H84.3144L77.1417 25.7517H73.5957L66.5201 7.49652ZM87.4232
+        7.49652H100.457V10.5418H90.8072V15.0601H99.5019V18.1054H90.8072V22.7064H100.781V25.7517H87.4232V7.49652ZM113.637
+        10.8563C112.666 10.5253 111.872 10.3598 111.063 10.3598C110.253 10.3598 109.622
+        10.5253 109.136 10.8563C108.65 11.1873 108.407 11.601 108.407 12.1803C108.407
+        12.6768 108.569 13.0906 108.893 13.4216C109.217 13.7526 109.622 14.0009 110.188
+        14.2491C110.674 14.4974 111.403 14.7456 112.196 14.9939C113.41 15.3249 114.366
+        15.7387 115.175 16.0697C115.985 16.4007 116.616 16.98 117.183 17.7082C117.75
+        18.453 117.993 19.3467 117.993 20.5052C117.993 21.6638 117.669 22.5575 117.102
+        23.385C116.535 24.2125 115.742 24.858 114.689 25.2718C113.637 25.6855 112.52
+        25.9338 111.144 25.9338C109.767 25.9338 108.407 25.6855 107.047 25.1063C105.752
+        24.6098 104.554 23.865 103.582 22.9713L105.023 20.0087C105.914 20.8362 106.95
+        21.4817 108.083 21.9782C109.217 22.4747 110.253 22.723 111.225 22.723C112.196
+        22.723 112.908 22.5575 113.475 22.1437C114.042 21.73 114.285 21.2334 114.285
+        20.588C114.285 20.0915 114.123 19.5949 113.799 19.2639C113.475 18.9329 113.07
+        18.6847 112.504 18.4364C112.018 18.1882 111.289 18.0226 110.415 17.6916C109.201
+        17.3606 108.245 16.9469 107.436 16.6159C106.626 16.2848 105.995 15.7056 105.509
+        15.0601C104.942 14.3153 104.699 13.4216 104.699 12.2631C104.699 11.1873 104.942
+        10.2936 105.509 9.46603C106.076 8.6385 106.869 8.07578 107.841 7.66202C108.893
+        7.24826 110.01 7 111.386 7C112.52 7 113.718 7.16551 114.851 7.49652C115.985
+        7.82753 117.021 8.32404 117.912 8.88676L116.471 12.1803C115.499 11.6838 114.609
+        11.27 113.637 10.8563ZM120.146 7.49652H134.702V10.6246H129.148V25.7517H125.683V10.608H120.13V7.49652H120.146ZM149.987
+        8.473C151.428 9.30052 152.561 10.4425 153.452 11.8493C154.261 13.2395 154.747
+        14.8946 154.747 16.6159C154.747 18.3371 154.342 19.9094 153.452 21.3824C152.642
+        22.7726 151.444 23.9312 149.987 24.7587C148.546 25.5862 146.926 26 145.162
+        26C143.397 26 141.778 25.5862 140.337 24.7587C138.896 23.9312 137.762 22.7892
+        136.872 21.3824C136.062 19.9922 135.576 18.3371 135.576 16.6159C135.576 14.8946
+        135.981 13.3223 136.872 11.8493C137.681 10.4591 138.879 9.30052 140.337 8.473C141.794
+        7.64547 143.397 7.23171 145.162 7.23171C146.926 7.23171 148.546 7.66202 149.987
+        8.473ZM142.182 11.1873C141.211 11.7666 140.499 12.5113 139.932 13.4051C139.365
+        14.3981 139.122 15.3746 139.122 16.5331C139.122 17.6916 139.365 18.7509 139.932
+        19.6611C140.499 20.6542 141.227 21.3824 142.182 21.9617C143.073 22.5409 144.109
+        22.7892 145.243 22.7892C146.295 22.7892 147.331 22.5409 148.222 21.9617C149.112
+        21.3824 149.825 20.6376 150.391 19.6611C150.958 18.6681 151.201 17.6916 151.201
+        16.5331C151.201 15.3746 150.958 14.3153 150.391 13.4051C149.825 12.4948 149.096
+        11.6838 148.222 11.1873C147.331 10.608 146.295 10.3598 145.243 10.3598C144.109
+        10.3763 143.073 10.608 142.182 11.1873ZM169.773 25.7517L166.712 20.3232H162.049V25.669H158.665V7.49652H166.065C168.396
+        7.49652 170.161 8.07578 171.456 9.13502C172.752 10.2108 173.302 11.7666 173.302
+        13.7361C173.302 15.1263 172.978 16.3676 172.412 17.3606C171.764 18.3537 170.971
+        19.0819 169.756 19.6611L173.691 25.669H169.756L169.773 25.7517ZM161.968 17.2779H165.984C167.279
+        17.2779 168.234 17.0296 168.963 16.4503C169.611 15.8711 170.015 15.0601 170.015
+        13.9016C170.015 12.743 169.692 11.9321 168.963 11.4355C168.315 10.8563 167.279
+        10.608 165.984 10.608H161.968V17.2779ZM190.757 8.90331C191.971 9.97909 192.521
+        11.4521 192.521 13.3389C192.521 15.3084 191.874 16.8807 190.757 17.9399C189.542
+        19.0157 187.858 19.5784 185.608 19.5784H180.783V25.5035H179.018V7.34756H185.608C187.777
+        7.34756 189.542 7.92683 190.757 8.90331ZM189.461 16.8807C190.352 16.0531 190.821
+        14.9939 190.821 13.4216C190.821 11.9486 190.336 10.8728 189.461 10.0453C188.571
+        9.21777 187.211 8.88676 185.527 8.88676H180.783V18.0226H185.527C187.211 18.0392
+        188.506 17.7082 189.461 16.8807ZM197.023 7.34756H198.787V23.9643H206.673V25.6028H197.104V7.34756H197.023ZM224.516
+        25.6028L222.427 20.7535H212.534L210.445 25.6028H208.599L216.647 7.43031H218.492L226.54
+        25.6028H224.516ZM213.182 19.115H221.714L217.456 9.25087L213.182 19.115ZM240.286
+        9.39983C239.315 8.98606 238.359 8.82056 237.388 8.82056C236.028 8.82056 234.732
+        9.15157 233.599 9.81359C232.466 10.4756 231.51 11.3693 230.863 12.6106C230.215
+        13.7692 229.81 15.0767 229.81 16.4835C229.81 17.8737 230.134 19.115 230.863
+        20.3563C231.51 21.5148 232.466 22.4085 233.599 23.1533C234.732 23.8153 236.011
+        24.2291 237.388 24.2291C238.359 24.2291 239.315 24.0636 240.286 23.6498C241.257
+        23.2361 242.051 22.7395 242.779 22.0113L243.832 23.1699C242.941 23.9974 241.905
+        24.6429 240.772 25.1394C239.638 25.6359 238.44 25.8841 237.307 25.8841C235.623
+        25.8841 234.085 25.4704 232.644 24.6429C231.203 23.8153 230.15 22.6733 229.26
+        21.2666C228.45 19.8763 228.045 18.304 228.045 16.5828C228.045 14.8615 228.45
+        13.372 229.341 11.9817C230.15 10.5915 231.267 9.43293 232.725 8.6054C234.166
+        7.77788 235.704 7.36411 237.388 7.36411C238.602 7.36411 239.719 7.61237 240.853
+        8.02613C241.986 8.52265 242.941 9.10192 243.832 9.91289L242.779 11.1376C242.051
+        10.3929 241.241 9.81359 240.286 9.39983ZM248.641 7.34756H260.541V8.98606H250.406V15.4904H259.489V17.1289H250.406V23.9477H260.865V25.5862H248.641V7.34756Z\"
+        fill=\"#212121\"/>\n<path d=\"M31.3505 14.3755C31.3667 14.6507 31.3829 15.1201
+        31.2857 15.1687C31.1077 15.1201 30.9458 13.5337 31.1077 13.4365H31.1239C31.2534
+        13.4689 31.3343 14.0355 31.3505 14.3755Z\" fill=\"#00A000\"/>\n<path d=\"M16.959
+        13.1775C16.7485 15.4763 13.8346 16.3343 12.4424 14.505C11.3092 13.0156 12.1996
+        10.6036 14.4659 10.4902C16.3438 10.6036 17.0561 12.1253 16.959 13.1775Z\"
+        fill=\"#00A000\"/>\n<path d=\"M14.1103 18.034C14.0456 18.7949 13.4952 20.1223
+        11.8116 20.2195C9.41565 20.09 8.65479 17.176 10.1441 15.8C10.7269 15.282 11.3421
+        15.2496 11.6497 15.2334C13.4952 15.3305 14.2075 16.9332 14.1103 18.034Z\"
+        fill=\"#00A000\"/>\n<path d=\"M21.4764 15.9942C21.4116 16.7875 20.8288 18.1797
+        19.1128 18.2768C16.555 18.1473 15.9075 15.1686 17.5749 13.7602C18.1901 13.2422
+        18.8052 13.2098 19.1128 13.1936C21.0069 13.3069 21.5735 14.9743 21.4764 15.9942Z\"
+        fill=\"#00A000\"/>\n<path d=\"M18.7565 20.6727C18.4004 22.7773 15.6969 23.4248
+        14.4504 21.7088C13.4952 20.3975 14.1104 18.1311 16.4739 18.0178C18.3356 18.115
+        18.9184 19.6205 18.7565 20.6727Z\" fill=\"#00A000\"/>\n<path d=\"M12.1507
+        10.555C12.0373 11.2349 11.4384 12.4005 9.98138 12.4976C7.90925 12.3843 7.89306
+        10.0046 9.1072 8.90376C9.68999 8.38572 10.2242 8.35335 10.4832 8.33716C11.9726
+        8.4181 12.2963 9.74556 12.1507 10.555Z\" fill=\"#00A000\"/>\n<path d=\"M18.9993
+        8.758C19.0155 10.4578 16.8462 11.2187 15.5349 9.97214C14.3532 8.85513 14.9521
+        6.76681 16.8948 6.66968C18.4165 6.76681 18.9831 7.99714 18.9993 8.758Z\" fill=\"#00A000\"/>\n<path
+        d=\"M23.2892 11.2836C23.3864 13.0157 21.6056 13.8737 20.2458 12.7405C18.805
+        11.5264 19.2259 9.19524 20.9095 9.01717C20.9581 9.01717 21.039 9.01717 21.1038
+        9.00098C22.6093 9.09811 23.2407 10.4579 23.2892 11.2836Z\" fill=\"#00A000\"/>\n<path
+        d=\"M9.34996 15.1687C9.28521 15.8972 8.79955 17.1599 7.4559 17.2409C5.44853
+        17.1114 5.10857 14.2136 6.53316 13.0642C6.95406 12.7405 7.31021 12.7081 7.55304
+        12.6919C8.86431 12.7728 9.46328 14.0355 9.34996 15.1687Z\" fill=\"#00A000\"/>\n<path
+        d=\"M25.0365 18.6978C24.6642 20.608 22.6406 21.3203 21.7017 19.8634C20.8599
+        18.5521 21.6369 16.3343 23.4015 16.2209C24.8422 16.3181 25.2308 17.7265 25.0365
+        18.6978Z\" fill=\"#00A000\"/>\n<path d=\"M11.6007 22.4698C11.633 23.9267 10.1437
+        24.7847 8.80003 23.603C7.47257 22.4212 7.7154 20.3976 9.22093 20.2196C9.2695
+        20.2196 9.35044 20.2196 9.4152 20.2034C10.7265 20.2843 11.5683 21.4337 11.6007
+        22.4698Z\" fill=\"#00A000\"/>\n<path d=\"M15.8267 24.7199C15.7781 25.2218
+        15.341 26.1769 14.1269 26.2417C12.4433 26.1607 11.4882 24.1857 12.6052 23.1335C13.0585
+        22.7126 13.5765 22.6964 13.8031 22.6802C15.1953 22.7449 15.94 23.781 15.8267
+        24.7199Z\" fill=\"#00A000\"/>\n<path d=\"M22.1549 23.101C21.6044 24.6713 19.5485
+        25.3835 18.7715 23.8942C18.1563 22.7286 19.0628 20.9641 20.7303 20.8669C21.8797
+        20.8831 22.5758 21.9354 22.1549 23.101Z\" fill=\"#00A000\"/>\n<path d=\"M14.6774
+        6.50773C14.5965 7.00958 14.0946 7.9647 12.7995 8.02946C11.1807 7.93233 10.9702
+        6.31347 12.0225 5.32597C12.5567 4.82413 13.0747 4.80794 13.2852 4.79175C14.4184
+        4.8565 14.7907 5.82781 14.6774 6.50773Z\" fill=\"#00A000\"/>\n<path d=\"M7.18189
+        19.9604C7.19808 20.1223 7.26284 21.5631 6.06488 21.6602C4.41365 21.5469 3.71755
+        18.8758 4.75361 18.0016C5.01263 17.7912 5.25546 17.775 5.41734 17.7588C6.53435
+        17.8397 7.11714 19.0862 7.18189 19.9604Z\" fill=\"#00A000\"/>\n<path d=\"M26.9959
+        13.906C27.0282 15.4601 25.7655 16.3019 24.7457 15.4115C23.5477 14.3593 23.7096
+        11.8177 25.3123 11.7043C26.3645 11.7691 26.9635 12.8861 26.9959 13.906Z\"
+        fill=\"#00A000\"/>\n<path d=\"M18.9988 26.7921C18.9826 26.8407 18.5455 27.8929
+        17.3961 27.9577C16.182 27.8767 15.7611 26.436 16.7 25.5941C17.1695 25.1732
+        17.6551 25.1571 17.8656 25.1409C19.0635 25.2218 19.2416 26.1446 18.9988 26.7921Z\"
+        fill=\"#00A000\"/>\n<path d=\"M20.0999 4.92117C20.1808 5.32589 20.0837 6.11913
+        19.08 6.16769C17.6392 6.08675 16.9755 4.53265 17.7525 3.77179C18.0116 3.52896
+        18.303 3.51277 18.4325 3.49658C19.3228 3.56134 19.9704 4.37076 20.0999 4.92117Z\"
+        fill=\"#00A000\"/>\n<path d=\"M8.33073 8.11044C8.15266 8.61229 7.55368 9.55122
+        6.58237 9.61598C5.33585 9.51884 5.57868 7.80286 6.6795 6.86392C7.16515 6.44302
+        7.53749 6.42683 7.68319 6.41064C8.54118 6.4754 8.58975 7.44671 8.33073 8.11044Z\"
+        fill=\"#00A000\"/>\n<path d=\"M5.43276 12.449C5.30325 13.0317 4.86616 14.0516
+        3.97579 14.1164C2.6807 14.0031 2.8264 11.6557 3.89485 10.7492C4.20243 10.4901
+        4.42907 10.474 4.59095 10.4578C5.40038 10.5387 5.62702 11.5424 5.43276 12.449Z\"
+        fill=\"#00A000\"/>\n<path d=\"M24.1468 6.88001C24.5029 7.98083 23.6773 8.66075
+        22.6251 8.11034C21.4109 7.4628 21.0224 5.58493 22.0423 5.30972C22.107 5.29353
+        22.2042 5.29353 22.2689 5.27734C23.224 5.3421 23.9363 6.24866 24.1468 6.88001Z\"
+        fill=\"#00A000\"/>\n<path d=\"M10.0796 26.3387C10.0958 26.3873 10.4196 27.4395
+        9.5454 27.4881C8.34745 27.4233 7.08474 25.6264 7.78085 24.9789C7.94273 24.817
+        8.15318 24.8008 8.28269 24.8008C9.20544 24.8493 9.88536 25.7235 10.0796 26.3387Z\"
+        fill=\"#00A000\"/>\n<path d=\"M27.3692 21.3364C26.916 22.5991 25.5885 23.3438
+        25.1514 22.3077C24.7143 21.304 25.5237 19.4747 26.7055 19.3938C27.6283 19.4747
+        27.6444 20.5756 27.3692 21.3364Z\" fill=\"#00A000\"/>\n<path d=\"M24.245 25.2864C23.5975
+        26.4034 22.2053 26.9862 21.9463 26.0311C21.7034 25.1569 22.6586 23.7323 23.7917
+        23.6514C24.6336 23.7161 24.6821 24.5579 24.245 25.2864Z\" fill=\"#00A000\"/>\n<path
+        d=\"M13.8031 28.1518C13.9003 29.0098 13.0909 29.4631 12.1519 28.7184C11.1644
+        27.9576 11.3101 26.9377 12.1519 26.8406C12.1843 26.8406 12.2329 26.8406 12.2814
+        26.8406C13.1394 26.873 13.7384 27.5529 13.8031 28.1518Z\" fill=\"#00A000\"/>\n<path
+        d=\"M16.4094 3.23778C16.3446 4.22528 14.9848 4.50049 14.4182 3.83676C13.9002
+        3.20541 14.4668 2.18553 15.3571 2.13696C16.0047 2.15315 16.4418 2.71975 16.4094
+        3.23778Z\" fill=\"#00A000\"/>\n<path d=\"M11.3909 4.41948C10.8891 5.55268
+        9.52923 5.95739 9.18927 5.27747C8.8655 4.59756 9.95013 3.31866 10.9053 3.25391C11.5042
+        3.25391 11.6337 3.85288 11.3909 4.41948Z\" fill=\"#00A000\"/>\n<path d=\"M3.3601
+        17.1921C3.37629 18.4063 2.74494 19.0862 2.12977 18.5034C1.32034 17.7264 1.30416
+        15.3466 2.34022 15.2495C3.06871 15.3305 3.34391 16.4798 3.3601 17.1921Z\"
+        fill=\"#00A000\"/>\n<path d=\"M27.6917 9.24369C27.9993 10.2798 27.4812 10.9435
+        26.688 10.5226C25.6519 9.97217 25.1177 7.91622 25.9433 7.64102C25.9919 7.62483
+        26.0728 7.62483 26.1214 7.60864C26.8984 7.6734 27.4974 8.59614 27.6917 9.24369Z\"
+        fill=\"#00A000\"/>\n<path d=\"M29.5543 16.6256C29.4409 17.9045 28.6153 18.6006
+        28.0649 17.8883C27.4012 17.0303 27.6764 14.8287 28.6801 14.7153C29.3924 14.7801
+        29.619 15.8809 29.5543 16.6256Z\" fill=\"#00A000\"/>\n<path d=\"M6.01558 24.218C6.03177
+        24.2666 6.43648 25.3674 5.72419 25.4483C4.68812 25.3674 3.49017 23.3924 4.10533
+        22.7772C4.20246 22.6801 4.31578 22.6639 4.41292 22.6477C5.10902 22.6963 5.75656
+        23.4895 6.01558 24.218Z\" fill=\"#00A000\"/>\n<path d=\"M16.5051 29.5441C16.2946
+        30.2887 15.2909 30.5154 14.87 29.706C14.611 29.2041 14.8862 28.6213 15.6633
+        28.5728C16.3432 28.6051 16.6346 29.0908 16.5051 29.5441Z\" fill=\"#00A000\"/>\n<path
+        d=\"M20.7967 28.4756C20.5538 28.7831 19.9711 29.2688 19.4206 29.285C18.7407
+        29.2364 18.9512 28.2813 19.6311 27.7147C20.0682 27.3424 20.4405 27.3262 20.57
+        27.3262C21.2176 27.3747 21.2176 27.9575 20.7967 28.4756Z\" fill=\"#00A000\"/>\n<path
+        d=\"M19.8739 2.15321C20.0682 2.41223 20.1815 2.81694 19.6797 2.84932C18.8217
+        2.80076 18.1741 1.7485 18.5141 1.48948C18.5626 1.44092 18.6274 1.44092 18.6922
+        1.44092C19.0969 1.45711 19.6311 1.82944 19.8739 2.15321Z\" fill=\"#00A000\"/>\n<path
+        d=\"M13.8509 1.66741C13.5433 2.29876 12.653 2.54159 12.4749 2.15307C12.313
+        1.74835 13.09 1.08462 13.6243 1.05225C13.9642 1.05225 13.9966 1.37602 13.8509
+        1.66741Z\" fill=\"#00A000\"/>\n<path d=\"M6.12972 5.87644C5.54693 6.75062
+        4.76988 7.07439 4.67275 6.6373C4.55943 6.11927 5.57931 4.77562 6.2916 4.72705C6.76107
+        4.77562 6.38874 5.48791 6.12972 5.87644Z\" fill=\"#00A000\"/>\n<path d=\"M23.3061
+        3.67478C23.5165 3.93379 23.7594 4.45183 23.2413 4.4842C22.3348 4.40326 21.4282
+        3.0758 21.7196 2.80059C21.7682 2.75203 21.8329 2.75203 21.8977 2.73584C22.351
+        2.76822 22.9661 3.23768 23.3061 3.67478Z\" fill=\"#00A000\"/>\n<path d=\"M2.97199
+        9.87496C2.92343 9.98828 2.51871 10.9596 2.00068 11.0082C1.33695 10.911 2.00068
+        9.01696 2.69679 8.56368C2.81011 8.48274 2.87486 8.48274 2.93962 8.46655C3.34433
+        8.53131 3.18244 9.34073 2.97199 9.87496Z\" fill=\"#00A000\"/>\n<path d=\"M30.3314
+        11.7206C30.4124 12.1253 30.4448 12.8861 30.0401 12.9347C29.2792 12.8376 28.8421
+        10.7007 29.2792 10.3284C29.3278 10.2798 29.3925 10.2798 29.4249 10.2798C29.862
+        10.3445 30.2181 11.154 30.3314 11.7206Z\" fill=\"#00A000\"/>\n<path d=\"M2.47043
+        21.7897C2.66469 22.421 2.63231 23.0362 2.27616 22.8743C1.61243 22.5829 0.916326
+        20.5432 1.43436 20.3975H1.48293C1.88764 20.446 2.30854 21.2393 2.47043 21.7897Z\"
+        fill=\"#00A000\"/>\n<path d=\"M28.3552 23.8296C27.9343 24.5581 27.2705 25.0923
+        27.141 24.6714C26.9629 24.121 27.8209 22.5831 28.4523 22.5183C28.8246 22.5669
+        28.6951 23.2306 28.3552 23.8296Z\" fill=\"#00A000\"/>\n<path d=\"M10.1606
+        29.544C10.4035 29.8031 10.5977 30.1268 10.3225 30.1268C9.7883 30.143 8.37989
+        29.1555 8.63891 28.7994C8.67129 28.7508 8.73604 28.7346 8.8008 28.7346C9.31883
+        28.767 9.9178 29.285 10.1606 29.544Z\" fill=\"#00A000\"/>\n<path d=\"M24.9563
+        27.4396C24.7296 27.6987 24.1792 28.1681 23.7583 28.2005C23.305 28.1519 23.9202
+        27.213 24.5192 26.7435C24.9239 26.4198 25.1505 26.4036 25.2315 26.4036C25.62
+        26.4521 25.3933 26.9702 24.9563 27.4396Z\" fill=\"#00A000\"/>\n<path d=\"M13.1878
+        30.6613C13.2849 30.7746 13.5115 31.0498 13.2525 31.0822C12.7183 31.0822 11.6822
+        30.4346 11.9413 30.1756C11.9898 30.127 12.0708 30.1108 12.1193 30.1108C12.5564
+        30.1108 13.0097 30.467 13.1878 30.6613Z\" fill=\"#00A000\"/>\n<path d=\"M17.7192
+        30.7906C17.5735 30.9201 17.2497 31.1305 16.9745 31.1467C16.6346 31.1305 16.8612
+        30.661 17.1202 30.4344C17.2983 30.2887 17.4764 30.2078 17.6868 30.2078C18.0592
+        30.2401 17.9944 30.5315 17.7192 30.7906Z\" fill=\"#00A000\"/>\n<path d=\"M9.64113
+        2.73581C9.544 2.83294 8.99359 3.35097 8.52412 3.38335C8.16798 3.35097 8.39462
+        2.94626 8.81552 2.59011C9.04216 2.39585 9.56019 2.02351 9.93253 2.00732C10.3211
+        2.0397 9.67351 2.70343 9.64113 2.73581Z\" fill=\"#00A000\"/>\n<path d=\"M16.9275
+        0.890291C17.0894 1.23025 16.7332 1.40832 16.3933 1.27882C15.94 1.10074 15.9076
+        0.598897 16.1666 0.469389C16.2152 0.4532 16.2476 0.437012 16.2961 0.437012C16.5552
+        0.4532 16.8304 0.67984 16.9275 0.890291Z\" fill=\"#00A000\"/>\n<path d=\"M26.6083
+        5.5365C26.9644 6.03834 26.9806 6.42687 26.6407 6.3783C26.0741 6.29736 25.0056
+        4.88896 25.2808 4.59756C25.3132 4.56519 25.3618 4.56519 25.3941 4.56519C25.7989
+        4.59756 26.3493 5.14797 26.6083 5.5365Z\" fill=\"#00A000\"/>\n<path d=\"M0.689784
+        14.2135C0.641218 14.6182 0.51171 15.3143 0.252693 15.3629C-0.232963 15.2658
+        0.0746191 13.1127 0.39839 12.9023L0.463144 12.8699C0.738349 12.9184 0.754538
+        13.7279 0.689784 14.2135Z\" fill=\"#00A000\"/>\n<path d=\"M30.816 19.4909C30.6217
+        20.2517 30.2656 20.7374 30.1037 20.446C29.877 19.9927 30.2656 18.2767 30.7189
+        18.1958C30.9779 18.2444 30.9617 18.9081 30.816 19.4909Z\" fill=\"#00A000\"/>\n<path
+        d=\"M6.7129 27.6823C7.02048 28.0384 7.21474 28.3784 6.93954 28.346C6.38913
+        28.2651 5.17499 27.0024 5.46638 26.8243L5.54732 26.8081C5.91966 26.8567 6.45388
+        27.3747 6.7129 27.6823Z\" fill=\"#00A000\"/>\n<path d=\"M21.0704 29.8516C20.6171
+        30.1592 20.002 30.402 20.002 30.2239C20.0181 30.0458 20.8923 29.2526 21.4427
+        29.2202C21.7179 29.2526 21.4751 29.5278 21.2808 29.6897C21.2485 29.7059 21.1675
+        29.7868 21.0704 29.8516Z\" fill=\"#00A000\"/>\n<path d=\"M15.2925 31.163C15.3735
+        31.3249 15.3249 31.4544 14.9849 31.3573C14.6612 31.2601 14.4993 31.0497 14.6612
+        30.9525L14.7583 30.9202C15.0173 30.8716 15.2116 31.0173 15.2925 31.163Z\"
+        fill=\"#00A000\"/>\n<path d=\"M12.8303 0.469616C12.3932 0.744822 12.0695 0.809576
+        12.1018 0.712445C12.1342 0.534371 12.9113 0.194411 13.1541 0.178223C13.1865
+        0.178223 13.235 0.178223 13.1217 0.275354C13.057 0.32392 12.9436 0.404862
+        12.8303 0.469616Z\" fill=\"#00A000\"/>\n<path d=\"M15.3237 0.161885C15.2913
+        0.22664 15.178 0.339959 14.9999 0.356148C14.8542 0.339959 14.8704 0.242828
+        14.9676 0.145697C15.0485 0.0809427 15.1942 0 15.2913 0C15.4208 0.0161885 15.3237
+        0.161885 15.3237 0.161885Z\" fill=\"#00A000\"/>\n<path d=\"M0.608603 18.9245C0.721923
+        19.4587 0.721923 19.8148 0.64098 19.7663C0.430529 19.653 0.0743813 17.8884
+        0.236267 17.8398C0.333398 17.8884 0.495283 18.4226 0.608603 18.9245Z\" fill=\"#00A000\"/>\n<path
+        d=\"M29.3427 7.9001C29.537 8.24006 29.6503 8.58002 29.4884 8.53145C29.2132
+        8.45051 28.4847 7.20399 28.679 7.12305H28.6952C28.8571 7.17161 29.1485 7.56014
+        29.3427 7.9001Z\" fill=\"#00A000\"/>\n<path d=\"M3.61909 25.3512C3.66766 25.4159
+        4.03999 25.934 3.92667 25.9663C3.66766 25.9178 2.68015 24.6389 2.84204 24.5417H2.85823C3.00392
+        24.5903 3.40864 25.0598 3.61909 25.3512Z\" fill=\"#00A000\"/>\n<path d=\"M18.1414
+        0.259053C18.3519 0.339996 18.449 0.40475 18.4166 0.420939C18.3357 0.485693
+        17.4939 0.194299 17.4453 0.113357L17.4615 0.097168C17.5748 0.113357 17.8986
+        0.178111 18.1414 0.259053Z\" fill=\"#00A000\"/>\n<path d=\"M2.43813 7.4629C2.35719
+        7.57622 2.11436 7.96474 2.01723 8.01331C1.87153 7.96474 2.60002 6.88011 2.71334
+        6.83154H2.72952C2.81047 6.86392 2.4867 7.39814 2.43813 7.4629Z\" fill=\"#00A000\"/>\n<path
+        d=\"M5.67515 3.78798C5.319 4.12794 5.09236 4.25745 5.07617 4.1765C5.07617
+        4.03081 5.82084 3.31851 6.06367 3.28613C6.17699 3.28613 5.90179 3.57753 5.67515
+        3.78798Z\" fill=\"#00A000\"/>\n<path d=\"M21.0058 1.03617C21.2648 1.18187
+        21.3944 1.29519 21.3134 1.31138C21.1515 1.34376 20.0993 0.777157 20.1802 0.712402H20.2126C20.3745
+        0.728591 20.763 0.890476 21.0058 1.03617Z\" fill=\"#00A000\"/>\n<path d=\"M24.6005
+        2.81684C24.8919 3.04348 25.0376 3.22156 24.9243 3.22156C24.7139 3.23775 23.4835
+        2.33119 23.613 2.25024H23.6454C23.8721 2.29881 24.3091 2.5902 24.6005 2.81684Z\"
+        fill=\"#00A000\"/>\n<path d=\"M9.69156 1.31126C9.57824 1.37602 9.23828 1.55409
+        9.18971 1.52171C9.17352 1.42458 9.9182 1.06843 10.0801 1.05225C10.0963 1.10081
+        9.75631 1.27889 9.69156 1.31126Z\" fill=\"#00A000\"/>\n</svg>\n\t\t\t</a>\n\n\t\t\t<button
+        class=\"nav-mobile-close-toggle nav-toggle site-menu-toggle\">\n\t\t\t\t<svg
+        xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" class=\"icon-close\"
+        width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><path fill=\"#3A3838\" d=\"M19.064
+        2.093L11.16 10l7.905 7.905-1.159 1.159L10 11.158l-7.906 7.905-1.16-1.159L8.84
+        9.999.936 2.093 2.096.934 10 8.84 17.905.934z\"/></svg>\n\t\t\t</button>\n\t\t</div>\n\n\t\t<div
+        id=\"js-nav-mobile-supplemental\">\n\t\t\t<div class=\"account-signin premium-signed-out-state\">\n\t\t\t\t<button
+        class=\"modal-toggle premium-login-toggle\">\n\t\t\t\t\t<svg xmlns=\"http://www.w3.org/2000/svg\"
+        width=\"156\" height=\"173\" viewBox=\"0 0 156 173\">\n\t\t\t\t\t\t<path fill=\"#007D38\"
+        d=\"M78,0 C54.1060473,0 34.6666036,20.4232061 34.6666036,45.5263381 C34.6666036,70.6296117
+        54.1060473,91.0528178 78,91.0528178 C101.893953,91.0528178 121.333396,70.6296117
+        121.333396,45.5263381 C121.333396,20.4232061 101.893953,0 78,0 Z M78,72.8422543
+        C63.6653018,72.8422543 52.0000473,60.5865188 52.0000473,45.5263381 C52.0000473,30.466299
+        63.6653018,18.2105636 78,18.2105636 C92.3346982,18.2105636 103.999953,30.466299
+        103.999953,45.5263381 C103.999953,60.5865188 92.3346982,72.8422543 78,72.8422543
+        Z M156,173 L156,163.894364 C156,128.757765 128.778,100.158029 95.3333018,100.158029
+        L60.6666982,100.158029 C27.2133491,100.158029 0,128.757765 0,163.894364 L0,173
+        L17.3333018,173 L17.3333018,163.894364 C17.3333018,138.791799 36.7726036,118.368592
+        60.6666982,118.368592 L95.3333018,118.368592 C119.227396,118.368592 138.666698,138.791799
+        138.666698,163.894364 L138.666698,173 L156,173 Z\"/>\n\t\t\t\t\t</svg>\n\t\t\t\t\tLog
+        in\n\t\t\t\t</button>\n\t\t\t</div>\n\n\t\t\t<div class=\"account-signout
+        premium-signed-in-state\">\n\t\t\t\t<div class=\"subscriber-account-details\">\n\t\t\t\t\t<svg
+        xmlns=\"http://www.w3.org/2000/svg\" width=\"156\" height=\"173\" viewBox=\"0
+        0 156 173\">\n\t\t\t\t\t\t<path d=\"M78,0 C54.1060473,0 34.6666036,20.4232061
+        34.6666036,45.5263381 C34.6666036,70.6296117 54.1060473,91.0528178 78,91.0528178
+        C101.893953,91.0528178 121.333396,70.6296117 121.333396,45.5263381 C121.333396,20.4232061
+        101.893953,0 78,0 Z M78,72.8422543 C63.6653018,72.8422543 52.0000473,60.5865188
+        52.0000473,45.5263381 C52.0000473,30.466299 63.6653018,18.2105636 78,18.2105636
+        C92.3346982,18.2105636 103.999953,30.466299 103.999953,45.5263381 C103.999953,60.5865188
+        92.3346982,72.8422543 78,72.8422543 Z M156,173 L156,163.894364 C156,128.757765
+        128.778,100.158029 95.3333018,100.158029 L60.6666982,100.158029 C27.2133491,100.158029
+        0,128.757765 0,163.894364 L0,173 L17.3333018,173 L17.3333018,163.894364 C17.3333018,138.791799
+        36.7726036,118.368592 60.6666982,118.368592 L95.3333018,118.368592 C119.227396,118.368592
+        138.666698,138.791799 138.666698,163.894364 L138.666698,173 L156,173 Z\"/>\n\t\t\t\t\t</svg>\n\t\t\t\t\t<a
+        href=\"#\" class=\"js-premium-signout\">Log out</a>\n\t\t\t\t</div>\n\t\t\t\t<ul
+        class=\"subscriber-links__list\">\n\t\t\t\t\t\t\t\t\t\t\t<li class=\"subscriber-links__item\">\n\t\t\t\t\t\t\t<a
+        href=\"https://investorplace.com/dashboard\">My Services</a>\n\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t\t\t<li
+        class=\"subscriber-links__item\">\n\t\t\t\t\t\t<a href=\"https://investorplace.com/corporate/contact-us\">Support</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\n\t\t<div
+        class=\"menu-utility-new-container\"><ul id=\"menu-utility-new-1\" class=\"mobile-footer\"><li
+        class=\"tablet-lg menu-item menu-item-type-post_type menu-item-object-page
+        menu-item-1301326\"><a href=\"https://investorplace.com/corporate/about-us/\">About
+        Us</a></li>\n<li class=\"laptop menu-item menu-item-type-post_type menu-item-object-page
+        menu-item-1301325\"><a href=\"https://investorplace.com/investing-experts/\">Our
+        Analysts</a></li>\n</ul></div><div class=\"menu-footer-new-container\"><ul
+        id=\"menu-footer-new\" class=\"mobile-footer\"><li id=\"menu-item-1509398\"
+        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-1509398\"><a
+        href=\"https://investorplace.com/corporate/contact-us/\">Contact Us</a></li>\n<li
+        id=\"menu-item-1509464\" class=\"menu-item menu-item-type-post_type menu-item-object-page
+        menu-item-1509464\"><a href=\"https://investorplace.com/corporate/contact-us/\">Help</a></li>\n<li
+        id=\"menu-item-1301319\" class=\"menu-item menu-item-type-post_type menu-item-object-page
+        menu-item-1301319\"><a href=\"https://investorplace.com/corporate/employment/\">Employment</a></li>\n<li
+        id=\"menu-item-1301321\" class=\"menu-item menu-item-type-post_type menu-item-object-page
+        menu-item-1301321\"><a href=\"https://investorplace.com/corporate/advertise-with-us/\">Advertise
+        With Us</a></li>\n<li id=\"menu-item-1301323\" class=\"menu-item menu-item-type-post_type
+        menu-item-object-page menu-item-1301323\"><a href=\"https://investorplace.com/corporate/disclosures-disclaimers/\">Disclosures
+        &#038; Disclaimers</a></li>\n<li id=\"menu-item-1301320\" class=\"menu-item
+        menu-item-type-post_type menu-item-object-page menu-item-1301320\"><a href=\"https://investorplace.com/corporate/privacy/\">Privacy
+        Policy</a></li>\n<li id=\"menu-item-1301324\" class=\"menu-item menu-item-type-post_type
+        menu-item-object-page menu-item-1301324\"><a href=\"https://investorplace.com/corporate/terms-conditions/\">Terms
+        of Use</a></li>\n<li id=\"menu-item-1650184\" class=\"menu-item menu-item-type-post_type
+        menu-item-object-page menu-item-1650184\"><a href=\"https://investorplace.com/corporate/investorplace-dmca-policy/\">DMCA
+        Policy</a></li>\n</ul></div>\n\t\t<ul class=\"share\">\n\t\t\t<li><a href=\"https://www.facebook.com/investorplace/\"
+        class=\"facebook\" aria-label=\"Visit our Facebook page\" rel=\"noreferrer
+        noopener\"><div class=\"svg_wrapper svg_logo-facebook\"><div><svg shape-rendering=\"geometricPrecision\"><use
+        xlink:href=\"#logo-facebook\"></use></svg></div></div></a></li>\n\t\t\t<li><a
+        href=\"https://twitter.com/InvestorPlace\" class=\"twitter\" aria-label=\"Visit
+        our Twitter page\" rel=\"noreferrer noopener\"><div class=\"svg_wrapper svg_logo-twitter\"><div><svg
+        shape-rendering=\"geometricPrecision\"><use xlink:href=\"#logo-twitter\"></use></svg></div></div></a></li>\n\t\t\t<li><a
+        href=\"https://feeds.feedburner.com/InvestorPlace\" class=\"rss\" aria-label=\"Subscribe
+        to our RSS feed\" rel=\"noreferrer noopener\"><div class=\"svg_wrapper svg_logo-rss\"><div><svg
+        shape-rendering=\"geometricPrecision\"><use xlink:href=\"#logo-rss\"></use></svg></div></div></a></li>\n\t\t</ul>\n\n\t\t<p
+        class=\"copylight\">\n\t\t\tCopyright &copy; 2020 InvestorPlace Media, LLC.
+        All rights reserved. 1125 N. Charles St, Baltimore, MD 21201.\t\t</p>\n\t</div>\n\n\t\n\n\t\n\t<main
+        id=\"main\" role=\"main\">\n\n\t\t\n\t\n\n\n<section class=\"interior-article\"
+        id=\"content\">\n\t<div class=\"wrapper container-fluid\" id=\"main\">\n\n\t\n\t<div
+        class=\"custom-bread-crumb\"><div class=\"breadcrumb-trail\"><span><span><a
+        href=\"https://investorplace.com/\">Home</a> / <span><a href=\"https://investorplace.com/stock-picks/\">Stock
+        Picks</a> / <span><a href=\"https://investorplace.com/category/stock-picks/stocks-to-buy/\">Stocks
+        to Buy</a> / <span class=\"breadcrumb_last\" aria-current=\"page\">Why Fisker
+        Inc. Is a Car Company First, And A Tech Firm Second</span></span></span></span></span></div></div><!--
+        .custom-bread-crumb -->\n\t\t\t\n\t\t\t<section id=\"post-1694061\" class=\"post-1694061
+        post type-post status-publish format-standard hentry category-stocks-to-buy
+        ipm_feed-google ipm_feed-msn-article ipm_feed-NASDAQ ipm_feed-tickerized ipm_feed-yahoo
+        ipm_feed-zacks-feed ipm_hot_topics-spaq\">\n\n\t\t\t\t<header class=\"entry-header
+        interior-article-header\">\n\t\t<h1 class=\"entry-title article-header-title\">\n\t\tWhy
+        Fisker Inc. Is a Car Company First, And A Tech Firm Second\t</h1>\n\n\t<div
+        class=\"entry-meta byline -no-tagline\">\n\t\t\t\t\t<h2 class=\"article-subtitle
+        post-title1\">\n\t\t\tThis simple fact could help spark SPAQ stock\t\t</h2>\n\t\t\n\t\t\t<div
+        class=\"entry-meta byline\">\n\t\t\t\t\t\t\t<span class=\"meta-prep meta-prep-author\">\n\t\t\t\t\tBy\n\t\t\t\t\t<span
+        class=\"author\">\n\t\t\t\t\t\t<a href=\"https://investorplace.com/author/joshenomoto/\">Josh
+        Enomoto</a>, InvestorPlace Contributor\t\t\t\t\t</span>\n\t\t\t\t</span>\n\n\t\t\t\t\t\t\t\t\t<span
+        class=\"entry-date post-date\">\n\t\t\t\t\t\t<abbr class=\"published\">\n\t\t\t\t\t\t\tAug
+        20, 2020, 7:00 am EST\t\t\t\t\t\t</abbr>\n\n\t\t\t\t\t\t<span class=\"modified-date\">\n\t\t\t\t\t\t\t<time
+        datetime=\"2020-08-19\" pubdate>\n\t\t\t\t\t\t\t\tAugust 19, 2020\t\t\t\t\t\t\t</time>\n\t\t\t\t\t\t</span>\n\t\t\t\t\t</span><!--
+        .entry-date -->\n\t\t\t\t\n\t\t\t\t\t\t</div><!-- .entry-meta -->\n\t\t</header>\n\n\t\t\t\t<div
+        class=\"flex-row\">\n\t\t\t\t\t<div class=\"col-xs article\">\n\n\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t<div
+        class=\"entry-content story\">\n\t\t\t\t\t\t\t<p>With electric vehicle (EV)
+        giant <strong>Tesla</strong> (NASDAQ:<span class=\"stock-ticker\"><a href=\"https://investorplace.com/stock-quotes/tsla-stock-quote/\"><strong><u>TSLA</u></strong></a></span>)
+        dominating the market it practically pioneered, there initially seems little
+        point for competitors to directly challenge it. Sure, there are companies
+        like <strong>Acrimoto</strong> (NASDAQ:<span class=\"stock-ticker\"><a href=\"https://investorplace.com/stock-quotes/fuv-stock-quote/\"><strong><u>FUV</u></strong></a></span>)
+        or <strong>Electrameccanica Vehicles</strong> (NASDAQ:<span class=\"stock-ticker\"><a
+        href=\"https://investorplace.com/stock-quotes/solo-stock-quote/\"><strong><u>SOLO</u></strong></a></span>),
+        but they fill niche segments. However, something like Fisker Inc. &mdash;
+        which plans to go public with a merger via special-purpose acquisition corporation
+        <strong>Spartan Energy Acquisition</strong> (NYSE:<span class=\"stock-ticker\"><a
+        href=\"https://investorplace.com/stock-quotes/spaq-stock-quote/\"><strong><u>SPAQ</u></strong></a></span>)
+        &mdash; is a different animal altogether. Hence, the skepticism toward SPAQ
+        stock.</p>\n\t<div id=\"1665721\" style=\"width: 310px\" class=\"wp-caption
+        alignright\">\n\t\t<img src=\"https://investorplace.com/wp-content/plugins/lazy-load/images/1x1.trans.gif\"
+        data-lazy-src=\"https://investorplace.com/wp-content/uploads/2020/07/fisker-ipo-300x169.jpg\"
+        loading=\"lazy\" class=\"alignright size-medium wp-image-1665721\" alt=\"The
+        Fisker logo hangs on display at the November 2011 International Auto Show.\"
+        width=\"300\" height=\"169\" /><noscript><img loading=\"lazy\" class=\"alignright
+        size-medium wp-image-1665721\" src=\"https://investorplace.com/wp-content/uploads/2020/07/fisker-ipo-300x169.jpg\"
+        alt=\"The Fisker logo hangs on display at the November 2011 International
+        Auto Show.\" width=\"300\" height=\"169\" /></noscript><div class=\"ipm_image_source\">Source:
+        Eric Broder Van Dyke / Shutterstock.com</div>\n<p>\t</p></div>\n\t\n<p>Fisker
+        Inc. and Spartan Energy Acquisition <a href=\"https://www.fiskerinc.com/investors/\"
+        target=\"_blank\" rel=\"noopener noreferrer nofollow\">entered an agreement
+        back in July</a> that resulted in Fisker&rsquo;s IPO under the SPAQ ticker.
+        That said, the release announcing the partnership also mentions that it &ldquo;&hellip;is
+        expected to be completed in the fourth quarter of 2020&hellip; .&rdquo;</p>\n<p>Overall,
+        though, I completely get it. No matter how you break it down, SPAQ stock is
+        a risky investment.</p>\n<p>As you know, Henrik Fisker &mdash; founder, chairman
+        and CEO of Fisker Inc. &mdash; previously attempted to <a href=\"https://investorplace.com/2020/07/3-reasons-why-you-should-be-revved-up-for-fisker-ipo/\">build
+        a business around a luxury EV called the Fisker Karma</a>. And while the car
+        attracted buzz from the automotive press and enthusiasts alike, the company
+        failed. So, naturally, this will cause some hesitation toward those thinking
+        about SPAQ stock.</p>\n<p>In addition, Tesla utterly dominates the EV space
+        thanks to its loyal and rapidly growing fanbase. Arguably, most of that success
+        comes from Tesla&rsquo;s vertical integration. And by controlling its battery
+        pack production through its Gigafactory, Tesla has become the only high-volume
+        EV manufacturer. Furthermore, the company can <a href=\"https://cleantechnica.com/2019/03/30/teslas-vertical-integration-unlocks-hidden-flexibility-innovation/\"
+        rel=\"nofollow\">respond to various stimuli quickly</a>.</p>\n\n<p>Essentially,
+        all other direct EV competitors are well behind the eight-ball &mdash; and
+        I appreciate this argument. When <strong>Apple</strong> (NASDAQ:<span class=\"stock-ticker\"><a
+        href=\"https://investorplace.com/stock-quotes/aapl-stock-quote/\"><strong><u>AAPL</u></strong></a></span>)
+        launched its iPhone, it established the smartphone market and took over the
+        entire portable phone space. It took years for competitors to put a dent in
+        market share. And even today, you just don&rsquo;t get the hype of a new iPhone
+        release as you would from other smartphone brands.</p>\n<p>Still, that&rsquo;s
+        a different industry. We&rsquo;re talking about cars, and that fact may help
+        positively distinguish SPAQ stock.</p>\n<h3>First and Foremost, SPAQ Stock
+        Is an Automotive Investment</h3>\n<p>While I&rsquo;ve questioned the business
+        decisions and sometimes erratic behaviors of Tesla CEO Elon Musk, I&rsquo;ve
+        never impugned his intelligence. Musk has been a national treasure &mdash;
+        even though he was born in South Africa &mdash; promoting incredible innovations
+        of applied science.</p>\n<p>Because of this, however, Tesla is more of a technology
+        company that makes cars. That said, what potentially makes SPAQ stock stand
+        out is that Fisker is a car company that utilizes EV technology. And over
+        time, consumers will recognize the difference.</p>\n<div class=\"ipm-inline-ad\">\n<div
+        class=\"inner banner\">\n<div class=\"ad-container desktop\"></div>\n<div
+        class=\"ad-container mobile\"></div>\n</div>\n</div>\n<p>For example, take
+        the interior of the Tesla Model 3. In recent years, the Model 3 has incorporated
+        a truly <a href=\"https://www.businessinsider.com/tesla-model-3-minimalistic-interior-2017-7\"
+        rel=\"nofollow\">minimalist design</a>. Upon entering the vehicle, what stands
+        out to you the most is the lack of a dashboard. Rather than a car, the Model
+        3 interior &mdash; and to my understanding, other Teslas have adopted this
+        design cue &mdash; resembles a work of art. Which is fine, except that it
+        doesn&rsquo;t resonate with car people.</p>\n<p>Also, while minimalism is
+        the new design theme for consumer tech products, I&rsquo;m not sure it works
+        in a car. As a driver, you want critical information to be displayed in a
+        natural, intuitive location. Fisker understands this because the man is a
+        legend in car design, with his handiwork previously gracing Aston Martin and
+        <strong>BMW </strong>(OTCMKTS:<span class=\"stock-ticker\"><a href=\"https://investorplace.com/stock-quotes/bmwyy-stock-quote/\"><strong><u>BMWYY</u></strong></a></span>).
+        Therefore, Fisker Inc.&rsquo;s Ocean SUV features an elegant but familiar
+        dashboard.</p>\n<p>Moreover, the tremendous success of Tesla could turn out
+        to be its biggest undoing later. Let&rsquo;s be real: Tesla has been copying
+        and pasting its cars for the last several years. So, when you see one, it&rsquo;s
+        no big deal.</p>\n<p>However, if you see one of these sexy Oceans driving
+        around, you will do a double-take. It&rsquo;s my opinion, yes, but the Ocean
+        <a href=\"https://www.fiskerinc.com/ocean/\" rel=\"nofollow\">looks nothing
+        like a Tesla</a>.</p>\n<h3>Great Business Sense</h3>\n<p>What I also appreciate
+        about Fisker is the company&rsquo;s business sense. Americans <a href=\"http://newsroom.vw.com/vehicles/volkswagen-reveals-why-americans-love-suvs-and-why-theyre-the-future/\"
+        rel=\"nofollow\">love SUVs</a>. Therefore, it&rsquo;s very sensible that Fisker
+        is launching an SUV rather than a sedan or a sports car. It&rsquo;s the same
+        reason why <strong>Ford</strong> (NYSE:<span class=\"stock-ticker\"><a href=\"https://investorplace.com/stock-quotes/f-stock-quote/\"><strong><u>F</u></strong></a></span>)
+        attached its Mustang logo on its all-electric Mach-E.</p>\n<p>Fisker and Ford
+        are car companies. They understand the pulse of the automotive market, and
+        are responding appropriately. And with Fisker, I don&rsquo;t think you can
+        ignore its price point. With the Ocean selling for $37,500 (potentially $30,000
+        with a federal tax credit), this deeply undercuts Tesla&rsquo;s offerings.</p>\n<p>Plus,
+        Fisker plans to <a href=\"https://fortune.com/2020/07/13/fisker-electric-suv-ocean-spac-ipo/\"
+        rel=\"nofollow\">outsource much of its manufacturing</a>. Interestingly, Henrik
+        Fisker noted that:</p>\n<blockquote><p>&ldquo;You can&rsquo;t have a vertically
+        integrated company where you do everything yourself&hellip;A lot of the hardware
+        in vehicles is going to end up being a commodity, and therefore we are willing
+        to share those parts with somebody else.&rdquo;</p></blockquote>\n<p>Overall,
+        investors who are risk averse shouldn&rsquo;t jump into SPAQ stock. A lot
+        can go wrong when challenging a king. However, Fisker is different enough
+        across the design and business elements that I believe it&rsquo;s worth a
+        bet.</p>\n<p><em><span class=\"TextRun BCX0 SCXW200841586\" lang=\"EN-US\"
+        xml:lang=\"EN-US\" data-contrast=\"auto\"><span class=\"NormalTextRun BCX0
+        SCXW200841586\" data-ccp-charstyle=\"Emphasis\">A former senior business analyst
+        for Sony Electronics, Josh Enomoto has helped broker major contracts with
+        Fortune Global 500 companies. Over the past several years, he has delivered
+        unique, critical insights for the investment markets, as well as various other
+        industries including legal, construction management, and healthcare.</span></span><span
+        class=\"EOP BCX0 SCXW200841586\" data-ccp-props='{\"201341983\":0,\"335559739\":0,\"335559740\":240}'>&nbsp;</span>As
+        of this writing, he is long SPAQ and F.</em></p>\t\t\t\t\t\t</div><!-- .entry-content
+        -->\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t<div id=\"printed-from\">\n\t\t\t\t\t\t\t<hr/>\n\t\t\t\t\t\t\t<p>Article
+        printed from InvestorPlace Media, https://investorplace.com/2020/08/fisker-spaq-stock-car-company-first-tech-firm-second/.</p>\n\t\t\t\t\t\t\t<p>&copy;2020
+        InvestorPlace Media, LLC</p>\n\t\t\t\t\t\t</div><!-- #printed-from -->\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div
+        class=\"sponsored-headlines related-articles no-margin-bottom\">\n\t\t\t\t\t\t\t\t\t<div
+        class=\"section-header-d\">\n\t\t\t\t\t\t\t\t\t\t<h3 class=\"section-headline-d-alternative\">Sponsored
+        Headlines</h3>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"after-comments-banner\">\n\t\t\t<ins
+        class=\"adbladeads\" id=\"adbladeadscontainer\" data-cid=\"5112-2955605190\"
+        data-host=\"web.adblade.com\" data-tag-type=\"2\" data-protocol=\"https\"
+        style=\"display:none\"></ins>\n\t\t\t<script>\n\t\t\t\tIPMLoader.loadWhenReady(
+        function loadAdBlade() {\n\t\t\t\t\tvar s   = document.createElement( \"script\"
+        );\n\t\t\t\t\ts.src   = \"https://web.adblade.com/js/ads/async/show.js\";\n\t\t\t\t\ts.async
+        = true;\n\n\t\t\t\t\tvar container = document.getElementById( \"adbladeadscontainer\"
+        );\n\n\t\t\t\t\tif ( container ) {\n\t\t\t\t\t\tcontainer.appendChild( s );\n\t\t\t\t\t}\n\n\t\t\t\t\tIPMLoader.loaded(
+        'adBlade' );\n\t\t\t\t}, 'adBlade', 14000 );\n\t\t\t</script>\n\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t<div
+        id=\"after-post-banner\" class=\"ad\">\n\t\t\t\t\t\t\t\t\t\t<div id=\"div-gpt-ad-948428502746427265-11\"
+        class=\"ipm-ad-slot \">\n\t\t\t<script>\n\t\t\tgoogletag.cmd.push(function()
+        {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tif ( ! isMobile ) {\n\t\t\t\t\t\t\tgoogletag.display(
+        'div-gpt-ad-948428502746427265-11' );\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t\t\t}
+        );\n\t\t\t</script>\n\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<div
+        id=\"chosen-posts\" class=\"related-posts related-articles\">\n\t\t\t<div
+        class=\"section-header-d\">\n\t\t\t\t<h3 class=\"section-headline-d-alternative\">\n\t\t\t\t\tMore
+        from InvestorPlace\t\t\t\t</h3>\n\t\t\t</div>\n\n\t\t\t\t\t\t<div class=\"content-module\">\n\t\t\t\t<div
+        class=\"flex-row\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"col-xs cover-image\">\n\t\t\t\t\t\t<a\n\t\t\t\t\t\t\thref=\"https://investorplace.com/2020/11/7-f-rated-dividend-stocks-to-avoid/\"\n\t\t\t\t\t\t\taria-label=\"Read
+        more about 7 F-Rated Dividend Stocks to Avoid\"\n\t\t\t\t\t\t\ttitle=\"7 F-Rated
+        Dividend Stocks to Avoid\"\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tdata-event=\"more-on-investorplace-link-click\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t\t<figure
+        class=\"image-standard\">\n\t\t\t\t\t\t\t\t<img\n\t\t\t\t\t\t\t\t\tsrc=\"https://investorplace.com/wp-content/plugins/lazy-load/images/1x1.trans.gif\"\n\t\t\t\t\t\t\t\t\talt=\"7
+        F-Rated Dividend Stocks to Avoid\"\n\t\t\t\t\t\t\t\t\tdata-lazy-src=\"https://investorplace.com/wp-content/uploads/2020/09/avoid1600_c-162x88.jpg\"\n\t\t\t\t\t\t\t\t/>\n\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div
+        class=\"col-xs\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"topics\">\n\t\t\t\t\t\t\t\t<a
+        href=\"https://investorplace.com/category/stock-picks/stocks-to-sell/\">\n\t\t\t\t\t\t\t\t\tStocks
+        to Sell\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t\t\t\t\t\t\t<h3
+        class=\"headline-c\">\n\t\t\t\t\t\t\t<a href=\"https://investorplace.com/2020/11/7-f-rated-dividend-stocks-to-avoid/\">\n\t\t\t\t\t\t\t\t7
+        F-Rated Dividend Stocks to Avoid\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t</h3>\n\t\t\t\t\t\t<div
+        class=\"byline\">\n\t\t\t\t\t\t\tBy <a class=\"author\" href=\"https://investorplace.com/author/louisresearch/\">Louis
+        Navellier and the InvestorPlace Research Staff</a>\n\t\t\t\t\t\t\t<span class=\"post-date\">Nov
+        20, 2020</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t\t<div
+        class=\"content-module\">\n\t\t\t\t<div class=\"flex-row\">\n\t\t\t\t\t\t\t\t\t\t<div
+        class=\"col-xs cover-image\">\n\t\t\t\t\t\t<a\n\t\t\t\t\t\t\thref=\"https://investorplace.com/2020/11/nike-is-the-perfect-athleisure-play/\"\n\t\t\t\t\t\t\taria-label=\"Read
+        more about Nike is the Perfect Athleisure Play\"\n\t\t\t\t\t\t\ttitle=\"Nike
+        is the Perfect Athleisure Play\"\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tdata-event=\"more-on-investorplace-link-click\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t\t<figure
+        class=\"image-standard\">\n\t\t\t\t\t\t\t\t<img\n\t\t\t\t\t\t\t\t\tsrc=\"https://investorplace.com/wp-content/plugins/lazy-load/images/1x1.trans.gif\"\n\t\t\t\t\t\t\t\t\talt=\"Nike
+        is the Perfect Athleisure Play\"\n\t\t\t\t\t\t\t\t\tdata-lazy-src=\"https://investorplace.com/wp-content/uploads/2019/08/nke-stock-3-162x88.jpg\"\n\t\t\t\t\t\t\t\t/>\n\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div
+        class=\"col-xs\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"topics\">\n\t\t\t\t\t\t\t\t<a
+        href=\"https://investorplace.com/category/trading/trading-opportunities/\">\n\t\t\t\t\t\t\t\t\tTrading
+        Opportunities\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t\t\t\t\t\t\t<h3
+        class=\"headline-c\">\n\t\t\t\t\t\t\t<a href=\"https://investorplace.com/2020/11/nike-is-the-perfect-athleisure-play/\">\n\t\t\t\t\t\t\t\tNike
+        is the Perfect Athleisure Play\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t</h3>\n\t\t\t\t\t\t<div
+        class=\"byline\">\n\t\t\t\t\t\t\tBy <a class=\"author\" href=\"https://investorplace.com/author/john-jagerson-and-wade-hansen/\">John
+        Jagerson and Wade Hansen</a>\n\t\t\t\t\t\t\t<span class=\"post-date\">Nov
+        20, 2020</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t\t<div
+        class=\"content-module\">\n\t\t\t\t<div class=\"flex-row\">\n\t\t\t\t\t\t\t\t\t\t<div
+        class=\"col-xs cover-image\">\n\t\t\t\t\t\t<a\n\t\t\t\t\t\t\thref=\"https://investorplace.com/stock-market-live-updates-friday-stock-market-today-news/\"\n\t\t\t\t\t\t\taria-label=\"Read
+        more about Stock Market Live Updates Friday: Stocks Dip, WHO Knocks Gilead\"\n\t\t\t\t\t\t\ttitle=\"Stock
+        Market Live Updates Friday: Stocks Dip, WHO Knocks Gilead\"\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tclass=\"related-small-last\"\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tdata-event=\"more-on-investorplace-link-click\"\n\t\t\t\t\t\t>\n\t\t\t\t\t\t\t<figure
+        class=\"image-standard\">\n\t\t\t\t\t\t\t\t<img\n\t\t\t\t\t\t\t\t\tsrc=\"https://investorplace.com/wp-content/plugins/lazy-load/images/1x1.trans.gif\"\n\t\t\t\t\t\t\t\t\talt=\"Stock
+        Market Live Updates Friday: Stocks Dip, WHO Knocks Gilead\"\n\t\t\t\t\t\t\t\t\tdata-lazy-src=\"https://investorplace.com/wp-content/uploads/2019/07/IP_StockMarketToday1600-162x88.jpg\"\n\t\t\t\t\t\t\t\t/>\n\t\t\t\t\t\t\t</figure>\n\t\t\t\t\t\t</a>\n\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div
+        class=\"col-xs\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<label class=\"topics\">\n\t\t\t\t\t\t\t\t<a
+        href=\"https://investorplace.com/category/stock-picks/hot-stocks/\">\n\t\t\t\t\t\t\t\t\tHot
+        Stocks\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t\t\t\t\t\t\t<h3
+        class=\"headline-c\">\n\t\t\t\t\t\t\t<a href=\"https://investorplace.com/stock-market-live-updates-friday-stock-market-today-news/\">\n\t\t\t\t\t\t\t\tStock
+        Market Live Updates Friday: Stocks Dip, WHO Knocks Gilead\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t</h3>\n\t\t\t\t\t\t<div
+        class=\"byline\">\n\t\t\t\t\t\t\tBy <a class=\"author\" href=\"https://investorplace.com/author/investorplace-staff/\">InvestorPlace
+        Staff</a>\n\t\t\t\t\t\t\t<span class=\"post-date\">Nov 20, 2020</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t<!--
+        Chosen Related Posts, generated at 2020-11-21 23:56:54 -->\n\n\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t</div>\n\n\t\t\t\t\t<div
+        class=\"col-xs sidebar\" role=\"complementary\">\n\t\t\t\t\t\t<div class=\"aside
+        main-aside nocontent\" id=\"primary\">\n\t<aside>\n\t\t<ul>\n\t\t\t<li id=\"ipm_sidebar_ad-14\"
+        class=\"widgetcontainer widget_ipm_sidebar_ad\">\t\t\t<div class=\"ipm-sidebar-ad\">\n\t\t\t\t\t\t<div
+        id=\"div-gpt-ad-category-sidebar-ad\" class=\"ipm-ad-slot \">\n\t\t\t<script>\n\t\t\tgoogletag.cmd.push(function()
+        {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tif ( ! isMobile ) {\n\t\t\t\t\t\t\tgoogletag.display(
+        'div-gpt-ad-category-sidebar-ad' );\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tadSlotsToRefresh.push(
+        adSlots[ 'div-gpt-ad-category-sidebar-ad' ] );\n\t\t\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t\t\t}
+        );\n\t\t\t</script>\n\t\t</div>\n\t\t<div class=\"ipm-sidebar-ad-text\">ADVERTISEMENT</div><!--
+        .ipm-sidebar-ad-text -->\t\t\t</div><!-- .ipm-sidebar-ad -->\n\t\t\t</li><li
+        id=\"ipm_popular_content_widget-13\" class=\"widgetcontainer widget_ipm_popular_content_widget\">\t\t<section
+        class=\"popular\">\n\t\t\t<div class=\"section-header-d widgettitle\" title=\"View
+        Most Read Content\">\n\t\t\t\t<h3 class=\"section-headline-d-alternative\">\n\t\t\t\t\tMost
+        Popular\t\t\t\t</h3>\n\t\t\t</div>\n\t\t\t\t<div class=\"widgetcontent\">\n\t\t\t\t\t<div
+        id=\"popular-content-widget-most-read\" class=\"popular-content-widget-listed-article-list\">\n\t\t\t\t\t\t<ul
+        class=\"popular-list\">\n\t<li class=\"listing\">\n\t<div class=\"popular_1
+        flex-row\">\n\t\t<div class=\"col-xs rank\">\n\t\t\t<h2>\n\t\t\t\t1.\n\t\t\t</h2>\n\t\t</div>\n\t\t<div
+        class=\"col-xs contents\">\n\t\t\t\t\t\t\t<label class=\"topics\">\n\t\t\t\t\t<a
+        href=\"https://investorplace.com/category/stock-picks/stocks-to-buy/\">\n\t\t\t\t\t\tStocks
+        to Buy\t\t\t\t\t</a>\n\t\t\t\t</label>\n\t\t\t\t\t\t<h3 class=\"headline-c\">\n\t\t\t\t<a
+        href=\"https://investorplace.com/2020/11/strong-earnings-confirm-nio-stock-is-on-track-to-hit-150/\">\n\t\t\t\t\tStrong
+        Earnings Confirm Nio Stock Is on Track to Hit $150\t\t\t\t</a>\n\t\t\t</h3>\n\t\t</div>\n\t</div>\n\t</li>\n\t\t\t<li
+        class=\"listing\">\n\t<div class=\"popular_2 flex-row\">\n\t\t<div class=\"col-xs
+        rank\">\n\t\t\t<h2>\n\t\t\t\t2.\n\t\t\t</h2>\n\t\t</div>\n\t\t<div class=\"col-xs
+        contents\">\n\t\t\t\t\t\t\t<label class=\"topics\">\n\t\t\t\t\t<a href=\"https://investorplace.com/category/stock-picks/stocks-to-sell/\">\n\t\t\t\t\t\tStocks
+        to Sell\t\t\t\t\t</a>\n\t\t\t\t</label>\n\t\t\t\t\t\t<h3 class=\"headline-c\">\n\t\t\t\t<a
+        href=\"https://investorplace.com/2020/11/avoid-nio-stock-as-it-enters-full-bubble-mode-cseo/\">\n\t\t\t\t\tAvoid
+        Nio Stock As It Enters Full Bubble Mode\t\t\t\t</a>\n\t\t\t</h3>\n\t\t</div>\n\t</div>\n\t</li>\n\t\t\t<li
+        class=\"listing\">\n\t<div class=\"popular_3 flex-row\">\n\t\t<div class=\"col-xs
+        rank\">\n\t\t\t<h2>\n\t\t\t\t3.\n\t\t\t</h2>\n\t\t</div>\n\t\t<div class=\"col-xs
+        contents\">\n\t\t\t\t\t\t\t<label class=\"topics\">\n\t\t\t\t\t<a href=\"https://investorplace.com/category/stock-picks/stocks-to-buy/\">\n\t\t\t\t\t\tStocks
+        to Buy\t\t\t\t\t</a>\n\t\t\t\t</label>\n\t\t\t\t\t\t<h3 class=\"headline-c\">\n\t\t\t\t<a
+        href=\"https://investorplace.com/2020/11/7-growth-stocks-to-buy-as-we-head-into-2021/\">\n\t\t\t\t\t7
+        Growth Stocks to Buy as We Head Into 2021\t\t\t\t</a>\n\t\t\t</h3>\n\t\t</div>\n\t</div>\n\t</li>\n\t\t\t<li
+        class=\"listing\">\n\t<div class=\"popular_4 flex-row\">\n\t\t<div class=\"col-xs
+        rank\">\n\t\t\t<h2>\n\t\t\t\t4.\n\t\t\t</h2>\n\t\t</div>\n\t\t<div class=\"col-xs
+        contents\">\n\t\t\t\t\t\t\t<label class=\"topics\">\n\t\t\t\t\t<a href=\"https://investorplace.com/category/stock-picks/stocks-to-buy/\">\n\t\t\t\t\t\tStocks
+        to Buy\t\t\t\t\t</a>\n\t\t\t\t</label>\n\t\t\t\t\t\t<h3 class=\"headline-c\">\n\t\t\t\t<a
+        href=\"https://investorplace.com/2020/11/switchback-stock-is-a-definite-buy-now/\">\n\t\t\t\t\tSwitchback
+        Stock Is a Definite Buy Now\t\t\t\t</a>\n\t\t\t</h3>\n\t\t</div>\n\t</div>\n\t</li>\n\t\t\t<li
+        class=\"listing\">\n\t<div class=\"popular_5 flex-row\">\n\t\t<div class=\"col-xs
+        rank\">\n\t\t\t<h2>\n\t\t\t\t5.\n\t\t\t</h2>\n\t\t</div>\n\t\t<div class=\"col-xs
+        contents\">\n\t\t\t\t\t\t\t<label class=\"topics\">\n\t\t\t\t\t<a href=\"https://investorplace.com/category/stock-picks/hot-stocks/\">\n\t\t\t\t\t\tHot
+        Stocks\t\t\t\t\t</a>\n\t\t\t\t</label>\n\t\t\t\t\t\t<h3 class=\"headline-c\">\n\t\t\t\t<a
+        href=\"https://investorplace.com/2020/11/dancing-around-wont-save-lordstown-motors-from-hitting-0/\">\n\t\t\t\t\tDancing
+        Around Won&#8217;t Save Lordstown Motors from Hitting $0\t\t\t\t</a>\n\t\t\t</h3>\n\t\t</div>\n\t</div>\n\t</li>\n\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t</section><!--
+        #home-popular -->\n\n\t\t</li><li id=\"ipm_gallery_sticky_ad_200_200-9\" class=\"widgetcontainer
+        widget_ipm_gallery_sticky_ad_200_200\"><div class=\"ipm-sidebar-ad widget--sticky\"
+        id=\"gallery-sticky-200-200\">\t\t<div id=\"div-gpt-ad-948428502746427265-bottom\"
+        class=\"ipm-ad-slot \">\n\t\t\t<script>\n\t\t\tgoogletag.cmd.push(function()
+        {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tif ( ! isMobile ) {\n\t\t\t\t\t\t\tgoogletag.display(
+        'div-gpt-ad-948428502746427265-bottom' );\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t\t\t}
+        );\n\t\t\t</script>\n\t\t</div>\n\t\t<div class=\"ipm-sidebar-ad-text\">ADVERTISEMENT</div><!--
+        .ipm-sidebar-ad-text --></div><!-- .ipm-sidebar-ad#gallery-sticky-200-200
+        --></li>\t\t</ul>\n\t</aside>\n</div>\n<div style=\"clear:both;\"></div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\n\t\t\t</section><!--
+        #post-1694061 -->\n\n\t\t\t\n\n\t</div><!-- #container -->\n</section>\n</main><!--
+        #main -->\n\n\t\t<div id=\"div-gpt-ad-714756582569651532-3\" class=\"ipm-ad-slot
+        mobile-only\">\n\t\t\t<script>\n\t\t\tgoogletag.cmd.push(function() {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tif
+        ( isMobile ) {\n\t\t\t\t\t\t\tgoogletag.display( 'div-gpt-ad-714756582569651532-3'
+        );\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t\t\t} );\n\t\t\t</script>\n\t\t</div>\n\t\t\n<div
+        id=\"bottom-banner\" class=\"ad bg-lightgray\">\n\t<div id=\"bottom-banner-inner\">\n\t\t\t\t<div
+        id=\"div-gpt-ad-948428502746427265-13\" class=\"ipm-ad-slot \">\n\t\t\t<script>\n\t\t\tgoogletag.cmd.push(function()
+        {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tif ( ! isMobile ) {\n\t\t\t\t\t\t\tgoogletag.display(
+        'div-gpt-ad-948428502746427265-13' );\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t\t\t}
+        );\n\t\t\t</script>\n\t\t</div>\n\t\t\t</div>\n</div>\n\n<footer class=\"site-footer\"
+        role=\"contentinfo\">\n\t\t<section>\n\t\t<div class=\"wrapper container-fluid\">\n\t\t\t<div
+        class=\"flex-row\">\n\t\t\t\t<div class=\"col-xs-12 col-lg-12 col-xlg-3\">\n\t\t\t\t\t<div
+        class=\"logo\">\n\t\t\t\t\t\t<svg class=\"header-logo-title__image\" width=\"261\"
+        height=\"32\" viewBox=\"0 0 261 32\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path
+        d=\"M38.8652 7.49652H42.2492V25.7517H38.8652V7.49652ZM60.0112 7.49652H63.3142V25.7517H60.0921L50.9278
+        13.1733V25.7517H47.6248V7.49652H50.8469L60.0112 20.0749V7.49652ZM66.5201 7.49652H70.2279L75.4578
+        21.8955L80.7685 7.49652H84.3144L77.1417 25.7517H73.5957L66.5201 7.49652ZM87.4232
+        7.49652H100.457V10.5418H90.8072V15.0601H99.5019V18.1054H90.8072V22.7064H100.781V25.7517H87.4232V7.49652ZM113.637
+        10.8563C112.666 10.5253 111.872 10.3598 111.063 10.3598C110.253 10.3598 109.622
+        10.5253 109.136 10.8563C108.65 11.1873 108.407 11.601 108.407 12.1803C108.407
+        12.6768 108.569 13.0906 108.893 13.4216C109.217 13.7526 109.622 14.0009 110.188
+        14.2491C110.674 14.4974 111.403 14.7456 112.196 14.9939C113.41 15.3249 114.366
+        15.7387 115.175 16.0697C115.985 16.4007 116.616 16.98 117.183 17.7082C117.75
+        18.453 117.993 19.3467 117.993 20.5052C117.993 21.6638 117.669 22.5575 117.102
+        23.385C116.535 24.2125 115.742 24.858 114.689 25.2718C113.637 25.6855 112.52
+        25.9338 111.144 25.9338C109.767 25.9338 108.407 25.6855 107.047 25.1063C105.752
+        24.6098 104.554 23.865 103.582 22.9713L105.023 20.0087C105.914 20.8362 106.95
+        21.4817 108.083 21.9782C109.217 22.4747 110.253 22.723 111.225 22.723C112.196
+        22.723 112.908 22.5575 113.475 22.1437C114.042 21.73 114.285 21.2334 114.285
+        20.588C114.285 20.0915 114.123 19.5949 113.799 19.2639C113.475 18.9329 113.07
+        18.6847 112.504 18.4364C112.018 18.1882 111.289 18.0226 110.415 17.6916C109.201
+        17.3606 108.245 16.9469 107.436 16.6159C106.626 16.2848 105.995 15.7056 105.509
+        15.0601C104.942 14.3153 104.699 13.4216 104.699 12.2631C104.699 11.1873 104.942
+        10.2936 105.509 9.46603C106.076 8.6385 106.869 8.07578 107.841 7.66202C108.893
+        7.24826 110.01 7 111.386 7C112.52 7 113.718 7.16551 114.851 7.49652C115.985
+        7.82753 117.021 8.32404 117.912 8.88676L116.471 12.1803C115.499 11.6838 114.609
+        11.27 113.637 10.8563ZM120.146 7.49652H134.702V10.6246H129.148V25.7517H125.683V10.608H120.13V7.49652H120.146ZM149.987
+        8.473C151.428 9.30052 152.561 10.4425 153.452 11.8493C154.261 13.2395 154.747
+        14.8946 154.747 16.6159C154.747 18.3371 154.342 19.9094 153.452 21.3824C152.642
+        22.7726 151.444 23.9312 149.987 24.7587C148.546 25.5862 146.926 26 145.162
+        26C143.397 26 141.778 25.5862 140.337 24.7587C138.896 23.9312 137.762 22.7892
+        136.872 21.3824C136.062 19.9922 135.576 18.3371 135.576 16.6159C135.576 14.8946
+        135.981 13.3223 136.872 11.8493C137.681 10.4591 138.879 9.30052 140.337 8.473C141.794
+        7.64547 143.397 7.23171 145.162 7.23171C146.926 7.23171 148.546 7.66202 149.987
+        8.473ZM142.182 11.1873C141.211 11.7666 140.499 12.5113 139.932 13.4051C139.365
+        14.3981 139.122 15.3746 139.122 16.5331C139.122 17.6916 139.365 18.7509 139.932
+        19.6611C140.499 20.6542 141.227 21.3824 142.182 21.9617C143.073 22.5409 144.109
+        22.7892 145.243 22.7892C146.295 22.7892 147.331 22.5409 148.222 21.9617C149.112
+        21.3824 149.825 20.6376 150.391 19.6611C150.958 18.6681 151.201 17.6916 151.201
+        16.5331C151.201 15.3746 150.958 14.3153 150.391 13.4051C149.825 12.4948 149.096
+        11.6838 148.222 11.1873C147.331 10.608 146.295 10.3598 145.243 10.3598C144.109
+        10.3763 143.073 10.608 142.182 11.1873ZM169.773 25.7517L166.712 20.3232H162.049V25.669H158.665V7.49652H166.065C168.396
+        7.49652 170.161 8.07578 171.456 9.13502C172.752 10.2108 173.302 11.7666 173.302
+        13.7361C173.302 15.1263 172.978 16.3676 172.412 17.3606C171.764 18.3537 170.971
+        19.0819 169.756 19.6611L173.691 25.669H169.756L169.773 25.7517ZM161.968 17.2779H165.984C167.279
+        17.2779 168.234 17.0296 168.963 16.4503C169.611 15.8711 170.015 15.0601 170.015
+        13.9016C170.015 12.743 169.692 11.9321 168.963 11.4355C168.315 10.8563 167.279
+        10.608 165.984 10.608H161.968V17.2779ZM190.757 8.90331C191.971 9.97909 192.521
+        11.4521 192.521 13.3389C192.521 15.3084 191.874 16.8807 190.757 17.9399C189.542
+        19.0157 187.858 19.5784 185.608 19.5784H180.783V25.5035H179.018V7.34756H185.608C187.777
+        7.34756 189.542 7.92683 190.757 8.90331ZM189.461 16.8807C190.352 16.0531 190.821
+        14.9939 190.821 13.4216C190.821 11.9486 190.336 10.8728 189.461 10.0453C188.571
+        9.21777 187.211 8.88676 185.527 8.88676H180.783V18.0226H185.527C187.211 18.0392
+        188.506 17.7082 189.461 16.8807ZM197.023 7.34756H198.787V23.9643H206.673V25.6028H197.104V7.34756H197.023ZM224.516
+        25.6028L222.427 20.7535H212.534L210.445 25.6028H208.599L216.647 7.43031H218.492L226.54
+        25.6028H224.516ZM213.182 19.115H221.714L217.456 9.25087L213.182 19.115ZM240.286
+        9.39983C239.315 8.98606 238.359 8.82056 237.388 8.82056C236.028 8.82056 234.732
+        9.15157 233.599 9.81359C232.466 10.4756 231.51 11.3693 230.863 12.6106C230.215
+        13.7692 229.81 15.0767 229.81 16.4835C229.81 17.8737 230.134 19.115 230.863
+        20.3563C231.51 21.5148 232.466 22.4085 233.599 23.1533C234.732 23.8153 236.011
+        24.2291 237.388 24.2291C238.359 24.2291 239.315 24.0636 240.286 23.6498C241.257
+        23.2361 242.051 22.7395 242.779 22.0113L243.832 23.1699C242.941 23.9974 241.905
+        24.6429 240.772 25.1394C239.638 25.6359 238.44 25.8841 237.307 25.8841C235.623
+        25.8841 234.085 25.4704 232.644 24.6429C231.203 23.8153 230.15 22.6733 229.26
+        21.2666C228.45 19.8763 228.045 18.304 228.045 16.5828C228.045 14.8615 228.45
+        13.372 229.341 11.9817C230.15 10.5915 231.267 9.43293 232.725 8.6054C234.166
+        7.77788 235.704 7.36411 237.388 7.36411C238.602 7.36411 239.719 7.61237 240.853
+        8.02613C241.986 8.52265 242.941 9.10192 243.832 9.91289L242.779 11.1376C242.051
+        10.3929 241.241 9.81359 240.286 9.39983ZM248.641 7.34756H260.541V8.98606H250.406V15.4904H259.489V17.1289H250.406V23.9477H260.865V25.5862H248.641V7.34756Z\"
+        fill=\"#212121\"/>\n<path d=\"M31.3505 14.3755C31.3667 14.6507 31.3829 15.1201
+        31.2857 15.1687C31.1077 15.1201 30.9458 13.5337 31.1077 13.4365H31.1239C31.2534
+        13.4689 31.3343 14.0355 31.3505 14.3755Z\" fill=\"#00A000\"/>\n<path d=\"M16.959
+        13.1775C16.7485 15.4763 13.8346 16.3343 12.4424 14.505C11.3092 13.0156 12.1996
+        10.6036 14.4659 10.4902C16.3438 10.6036 17.0561 12.1253 16.959 13.1775Z\"
+        fill=\"#00A000\"/>\n<path d=\"M14.1103 18.034C14.0456 18.7949 13.4952 20.1223
+        11.8116 20.2195C9.41565 20.09 8.65479 17.176 10.1441 15.8C10.7269 15.282 11.3421
+        15.2496 11.6497 15.2334C13.4952 15.3305 14.2075 16.9332 14.1103 18.034Z\"
+        fill=\"#00A000\"/>\n<path d=\"M21.4764 15.9942C21.4116 16.7875 20.8288 18.1797
+        19.1128 18.2768C16.555 18.1473 15.9075 15.1686 17.5749 13.7602C18.1901 13.2422
+        18.8052 13.2098 19.1128 13.1936C21.0069 13.3069 21.5735 14.9743 21.4764 15.9942Z\"
+        fill=\"#00A000\"/>\n<path d=\"M18.7565 20.6727C18.4004 22.7773 15.6969 23.4248
+        14.4504 21.7088C13.4952 20.3975 14.1104 18.1311 16.4739 18.0178C18.3356 18.115
+        18.9184 19.6205 18.7565 20.6727Z\" fill=\"#00A000\"/>\n<path d=\"M12.1507
+        10.555C12.0373 11.2349 11.4384 12.4005 9.98138 12.4976C7.90925 12.3843 7.89306
+        10.0046 9.1072 8.90376C9.68999 8.38572 10.2242 8.35335 10.4832 8.33716C11.9726
+        8.4181 12.2963 9.74556 12.1507 10.555Z\" fill=\"#00A000\"/>\n<path d=\"M18.9993
+        8.758C19.0155 10.4578 16.8462 11.2187 15.5349 9.97214C14.3532 8.85513 14.9521
+        6.76681 16.8948 6.66968C18.4165 6.76681 18.9831 7.99714 18.9993 8.758Z\" fill=\"#00A000\"/>\n<path
+        d=\"M23.2892 11.2836C23.3864 13.0157 21.6056 13.8737 20.2458 12.7405C18.805
+        11.5264 19.2259 9.19524 20.9095 9.01717C20.9581 9.01717 21.039 9.01717 21.1038
+        9.00098C22.6093 9.09811 23.2407 10.4579 23.2892 11.2836Z\" fill=\"#00A000\"/>\n<path
+        d=\"M9.34996 15.1687C9.28521 15.8972 8.79955 17.1599 7.4559 17.2409C5.44853
+        17.1114 5.10857 14.2136 6.53316 13.0642C6.95406 12.7405 7.31021 12.7081 7.55304
+        12.6919C8.86431 12.7728 9.46328 14.0355 9.34996 15.1687Z\" fill=\"#00A000\"/>\n<path
+        d=\"M25.0365 18.6978C24.6642 20.608 22.6406 21.3203 21.7017 19.8634C20.8599
+        18.5521 21.6369 16.3343 23.4015 16.2209C24.8422 16.3181 25.2308 17.7265 25.0365
+        18.6978Z\" fill=\"#00A000\"/>\n<path d=\"M11.6007 22.4698C11.633 23.9267 10.1437
+        24.7847 8.80003 23.603C7.47257 22.4212 7.7154 20.3976 9.22093 20.2196C9.2695
+        20.2196 9.35044 20.2196 9.4152 20.2034C10.7265 20.2843 11.5683 21.4337 11.6007
+        22.4698Z\" fill=\"#00A000\"/>\n<path d=\"M15.8267 24.7199C15.7781 25.2218
+        15.341 26.1769 14.1269 26.2417C12.4433 26.1607 11.4882 24.1857 12.6052 23.1335C13.0585
+        22.7126 13.5765 22.6964 13.8031 22.6802C15.1953 22.7449 15.94 23.781 15.8267
+        24.7199Z\" fill=\"#00A000\"/>\n<path d=\"M22.1549 23.101C21.6044 24.6713 19.5485
+        25.3835 18.7715 23.8942C18.1563 22.7286 19.0628 20.9641 20.7303 20.8669C21.8797
+        20.8831 22.5758 21.9354 22.1549 23.101Z\" fill=\"#00A000\"/>\n<path d=\"M14.6774
+        6.50773C14.5965 7.00958 14.0946 7.9647 12.7995 8.02946C11.1807 7.93233 10.9702
+        6.31347 12.0225 5.32597C12.5567 4.82413 13.0747 4.80794 13.2852 4.79175C14.4184
+        4.8565 14.7907 5.82781 14.6774 6.50773Z\" fill=\"#00A000\"/>\n<path d=\"M7.18189
+        19.9604C7.19808 20.1223 7.26284 21.5631 6.06488 21.6602C4.41365 21.5469 3.71755
+        18.8758 4.75361 18.0016C5.01263 17.7912 5.25546 17.775 5.41734 17.7588C6.53435
+        17.8397 7.11714 19.0862 7.18189 19.9604Z\" fill=\"#00A000\"/>\n<path d=\"M26.9959
+        13.906C27.0282 15.4601 25.7655 16.3019 24.7457 15.4115C23.5477 14.3593 23.7096
+        11.8177 25.3123 11.7043C26.3645 11.7691 26.9635 12.8861 26.9959 13.906Z\"
+        fill=\"#00A000\"/>\n<path d=\"M18.9988 26.7921C18.9826 26.8407 18.5455 27.8929
+        17.3961 27.9577C16.182 27.8767 15.7611 26.436 16.7 25.5941C17.1695 25.1732
+        17.6551 25.1571 17.8656 25.1409C19.0635 25.2218 19.2416 26.1446 18.9988 26.7921Z\"
+        fill=\"#00A000\"/>\n<path d=\"M20.0999 4.92117C20.1808 5.32589 20.0837 6.11913
+        19.08 6.16769C17.6392 6.08675 16.9755 4.53265 17.7525 3.77179C18.0116 3.52896
+        18.303 3.51277 18.4325 3.49658C19.3228 3.56134 19.9704 4.37076 20.0999 4.92117Z\"
+        fill=\"#00A000\"/>\n<path d=\"M8.33073 8.11044C8.15266 8.61229 7.55368 9.55122
+        6.58237 9.61598C5.33585 9.51884 5.57868 7.80286 6.6795 6.86392C7.16515 6.44302
+        7.53749 6.42683 7.68319 6.41064C8.54118 6.4754 8.58975 7.44671 8.33073 8.11044Z\"
+        fill=\"#00A000\"/>\n<path d=\"M5.43276 12.449C5.30325 13.0317 4.86616 14.0516
+        3.97579 14.1164C2.6807 14.0031 2.8264 11.6557 3.89485 10.7492C4.20243 10.4901
+        4.42907 10.474 4.59095 10.4578C5.40038 10.5387 5.62702 11.5424 5.43276 12.449Z\"
+        fill=\"#00A000\"/>\n<path d=\"M24.1468 6.88001C24.5029 7.98083 23.6773 8.66075
+        22.6251 8.11034C21.4109 7.4628 21.0224 5.58493 22.0423 5.30972C22.107 5.29353
+        22.2042 5.29353 22.2689 5.27734C23.224 5.3421 23.9363 6.24866 24.1468 6.88001Z\"
+        fill=\"#00A000\"/>\n<path d=\"M10.0796 26.3387C10.0958 26.3873 10.4196 27.4395
+        9.5454 27.4881C8.34745 27.4233 7.08474 25.6264 7.78085 24.9789C7.94273 24.817
+        8.15318 24.8008 8.28269 24.8008C9.20544 24.8493 9.88536 25.7235 10.0796 26.3387Z\"
+        fill=\"#00A000\"/>\n<path d=\"M27.3692 21.3364C26.916 22.5991 25.5885 23.3438
+        25.1514 22.3077C24.7143 21.304 25.5237 19.4747 26.7055 19.3938C27.6283 19.4747
+        27.6444 20.5756 27.3692 21.3364Z\" fill=\"#00A000\"/>\n<path d=\"M24.245 25.2864C23.5975
+        26.4034 22.2053 26.9862 21.9463 26.0311C21.7034 25.1569 22.6586 23.7323 23.7917
+        23.6514C24.6336 23.7161 24.6821 24.5579 24.245 25.2864Z\" fill=\"#00A000\"/>\n<path
+        d=\"M13.8031 28.1518C13.9003 29.0098 13.0909 29.4631 12.1519 28.7184C11.1644
+        27.9576 11.3101 26.9377 12.1519 26.8406C12.1843 26.8406 12.2329 26.8406 12.2814
+        26.8406C13.1394 26.873 13.7384 27.5529 13.8031 28.1518Z\" fill=\"#00A000\"/>\n<path
+        d=\"M16.4094 3.23778C16.3446 4.22528 14.9848 4.50049 14.4182 3.83676C13.9002
+        3.20541 14.4668 2.18553 15.3571 2.13696C16.0047 2.15315 16.4418 2.71975 16.4094
+        3.23778Z\" fill=\"#00A000\"/>\n<path d=\"M11.3909 4.41948C10.8891 5.55268
+        9.52923 5.95739 9.18927 5.27747C8.8655 4.59756 9.95013 3.31866 10.9053 3.25391C11.5042
+        3.25391 11.6337 3.85288 11.3909 4.41948Z\" fill=\"#00A000\"/>\n<path d=\"M3.3601
+        17.1921C3.37629 18.4063 2.74494 19.0862 2.12977 18.5034C1.32034 17.7264 1.30416
+        15.3466 2.34022 15.2495C3.06871 15.3305 3.34391 16.4798 3.3601 17.1921Z\"
+        fill=\"#00A000\"/>\n<path d=\"M27.6917 9.24369C27.9993 10.2798 27.4812 10.9435
+        26.688 10.5226C25.6519 9.97217 25.1177 7.91622 25.9433 7.64102C25.9919 7.62483
+        26.0728 7.62483 26.1214 7.60864C26.8984 7.6734 27.4974 8.59614 27.6917 9.24369Z\"
+        fill=\"#00A000\"/>\n<path d=\"M29.5543 16.6256C29.4409 17.9045 28.6153 18.6006
+        28.0649 17.8883C27.4012 17.0303 27.6764 14.8287 28.6801 14.7153C29.3924 14.7801
+        29.619 15.8809 29.5543 16.6256Z\" fill=\"#00A000\"/>\n<path d=\"M6.01558 24.218C6.03177
+        24.2666 6.43648 25.3674 5.72419 25.4483C4.68812 25.3674 3.49017 23.3924 4.10533
+        22.7772C4.20246 22.6801 4.31578 22.6639 4.41292 22.6477C5.10902 22.6963 5.75656
+        23.4895 6.01558 24.218Z\" fill=\"#00A000\"/>\n<path d=\"M16.5051 29.5441C16.2946
+        30.2887 15.2909 30.5154 14.87 29.706C14.611 29.2041 14.8862 28.6213 15.6633
+        28.5728C16.3432 28.6051 16.6346 29.0908 16.5051 29.5441Z\" fill=\"#00A000\"/>\n<path
+        d=\"M20.7967 28.4756C20.5538 28.7831 19.9711 29.2688 19.4206 29.285C18.7407
+        29.2364 18.9512 28.2813 19.6311 27.7147C20.0682 27.3424 20.4405 27.3262 20.57
+        27.3262C21.2176 27.3747 21.2176 27.9575 20.7967 28.4756Z\" fill=\"#00A000\"/>\n<path
+        d=\"M19.8739 2.15321C20.0682 2.41223 20.1815 2.81694 19.6797 2.84932C18.8217
+        2.80076 18.1741 1.7485 18.5141 1.48948C18.5626 1.44092 18.6274 1.44092 18.6922
+        1.44092C19.0969 1.45711 19.6311 1.82944 19.8739 2.15321Z\" fill=\"#00A000\"/>\n<path
+        d=\"M13.8509 1.66741C13.5433 2.29876 12.653 2.54159 12.4749 2.15307C12.313
+        1.74835 13.09 1.08462 13.6243 1.05225C13.9642 1.05225 13.9966 1.37602 13.8509
+        1.66741Z\" fill=\"#00A000\"/>\n<path d=\"M6.12972 5.87644C5.54693 6.75062
+        4.76988 7.07439 4.67275 6.6373C4.55943 6.11927 5.57931 4.77562 6.2916 4.72705C6.76107
+        4.77562 6.38874 5.48791 6.12972 5.87644Z\" fill=\"#00A000\"/>\n<path d=\"M23.3061
+        3.67478C23.5165 3.93379 23.7594 4.45183 23.2413 4.4842C22.3348 4.40326 21.4282
+        3.0758 21.7196 2.80059C21.7682 2.75203 21.8329 2.75203 21.8977 2.73584C22.351
+        2.76822 22.9661 3.23768 23.3061 3.67478Z\" fill=\"#00A000\"/>\n<path d=\"M2.97199
+        9.87496C2.92343 9.98828 2.51871 10.9596 2.00068 11.0082C1.33695 10.911 2.00068
+        9.01696 2.69679 8.56368C2.81011 8.48274 2.87486 8.48274 2.93962 8.46655C3.34433
+        8.53131 3.18244 9.34073 2.97199 9.87496Z\" fill=\"#00A000\"/>\n<path d=\"M30.3314
+        11.7206C30.4124 12.1253 30.4448 12.8861 30.0401 12.9347C29.2792 12.8376 28.8421
+        10.7007 29.2792 10.3284C29.3278 10.2798 29.3925 10.2798 29.4249 10.2798C29.862
+        10.3445 30.2181 11.154 30.3314 11.7206Z\" fill=\"#00A000\"/>\n<path d=\"M2.47043
+        21.7897C2.66469 22.421 2.63231 23.0362 2.27616 22.8743C1.61243 22.5829 0.916326
+        20.5432 1.43436 20.3975H1.48293C1.88764 20.446 2.30854 21.2393 2.47043 21.7897Z\"
+        fill=\"#00A000\"/>\n<path d=\"M28.3552 23.8296C27.9343 24.5581 27.2705 25.0923
+        27.141 24.6714C26.9629 24.121 27.8209 22.5831 28.4523 22.5183C28.8246 22.5669
+        28.6951 23.2306 28.3552 23.8296Z\" fill=\"#00A000\"/>\n<path d=\"M10.1606
+        29.544C10.4035 29.8031 10.5977 30.1268 10.3225 30.1268C9.7883 30.143 8.37989
+        29.1555 8.63891 28.7994C8.67129 28.7508 8.73604 28.7346 8.8008 28.7346C9.31883
+        28.767 9.9178 29.285 10.1606 29.544Z\" fill=\"#00A000\"/>\n<path d=\"M24.9563
+        27.4396C24.7296 27.6987 24.1792 28.1681 23.7583 28.2005C23.305 28.1519 23.9202
+        27.213 24.5192 26.7435C24.9239 26.4198 25.1505 26.4036 25.2315 26.4036C25.62
+        26.4521 25.3933 26.9702 24.9563 27.4396Z\" fill=\"#00A000\"/>\n<path d=\"M13.1878
+        30.6613C13.2849 30.7746 13.5115 31.0498 13.2525 31.0822C12.7183 31.0822 11.6822
+        30.4346 11.9413 30.1756C11.9898 30.127 12.0708 30.1108 12.1193 30.1108C12.5564
+        30.1108 13.0097 30.467 13.1878 30.6613Z\" fill=\"#00A000\"/>\n<path d=\"M17.7192
+        30.7906C17.5735 30.9201 17.2497 31.1305 16.9745 31.1467C16.6346 31.1305 16.8612
+        30.661 17.1202 30.4344C17.2983 30.2887 17.4764 30.2078 17.6868 30.2078C18.0592
+        30.2401 17.9944 30.5315 17.7192 30.7906Z\" fill=\"#00A000\"/>\n<path d=\"M9.64113
+        2.73581C9.544 2.83294 8.99359 3.35097 8.52412 3.38335C8.16798 3.35097 8.39462
+        2.94626 8.81552 2.59011C9.04216 2.39585 9.56019 2.02351 9.93253 2.00732C10.3211
+        2.0397 9.67351 2.70343 9.64113 2.73581Z\" fill=\"#00A000\"/>\n<path d=\"M16.9275
+        0.890291C17.0894 1.23025 16.7332 1.40832 16.3933 1.27882C15.94 1.10074 15.9076
+        0.598897 16.1666 0.469389C16.2152 0.4532 16.2476 0.437012 16.2961 0.437012C16.5552
+        0.4532 16.8304 0.67984 16.9275 0.890291Z\" fill=\"#00A000\"/>\n<path d=\"M26.6083
+        5.5365C26.9644 6.03834 26.9806 6.42687 26.6407 6.3783C26.0741 6.29736 25.0056
+        4.88896 25.2808 4.59756C25.3132 4.56519 25.3618 4.56519 25.3941 4.56519C25.7989
+        4.59756 26.3493 5.14797 26.6083 5.5365Z\" fill=\"#00A000\"/>\n<path d=\"M0.689784
+        14.2135C0.641218 14.6182 0.51171 15.3143 0.252693 15.3629C-0.232963 15.2658
+        0.0746191 13.1127 0.39839 12.9023L0.463144 12.8699C0.738349 12.9184 0.754538
+        13.7279 0.689784 14.2135Z\" fill=\"#00A000\"/>\n<path d=\"M30.816 19.4909C30.6217
+        20.2517 30.2656 20.7374 30.1037 20.446C29.877 19.9927 30.2656 18.2767 30.7189
+        18.1958C30.9779 18.2444 30.9617 18.9081 30.816 19.4909Z\" fill=\"#00A000\"/>\n<path
+        d=\"M6.7129 27.6823C7.02048 28.0384 7.21474 28.3784 6.93954 28.346C6.38913
+        28.2651 5.17499 27.0024 5.46638 26.8243L5.54732 26.8081C5.91966 26.8567 6.45388
+        27.3747 6.7129 27.6823Z\" fill=\"#00A000\"/>\n<path d=\"M21.0704 29.8516C20.6171
+        30.1592 20.002 30.402 20.002 30.2239C20.0181 30.0458 20.8923 29.2526 21.4427
+        29.2202C21.7179 29.2526 21.4751 29.5278 21.2808 29.6897C21.2485 29.7059 21.1675
+        29.7868 21.0704 29.8516Z\" fill=\"#00A000\"/>\n<path d=\"M15.2925 31.163C15.3735
+        31.3249 15.3249 31.4544 14.9849 31.3573C14.6612 31.2601 14.4993 31.0497 14.6612
+        30.9525L14.7583 30.9202C15.0173 30.8716 15.2116 31.0173 15.2925 31.163Z\"
+        fill=\"#00A000\"/>\n<path d=\"M12.8303 0.469616C12.3932 0.744822 12.0695 0.809576
+        12.1018 0.712445C12.1342 0.534371 12.9113 0.194411 13.1541 0.178223C13.1865
+        0.178223 13.235 0.178223 13.1217 0.275354C13.057 0.32392 12.9436 0.404862
+        12.8303 0.469616Z\" fill=\"#00A000\"/>\n<path d=\"M15.3237 0.161885C15.2913
+        0.22664 15.178 0.339959 14.9999 0.356148C14.8542 0.339959 14.8704 0.242828
+        14.9676 0.145697C15.0485 0.0809427 15.1942 0 15.2913 0C15.4208 0.0161885 15.3237
+        0.161885 15.3237 0.161885Z\" fill=\"#00A000\"/>\n<path d=\"M0.608603 18.9245C0.721923
+        19.4587 0.721923 19.8148 0.64098 19.7663C0.430529 19.653 0.0743813 17.8884
+        0.236267 17.8398C0.333398 17.8884 0.495283 18.4226 0.608603 18.9245Z\" fill=\"#00A000\"/>\n<path
+        d=\"M29.3427 7.9001C29.537 8.24006 29.6503 8.58002 29.4884 8.53145C29.2132
+        8.45051 28.4847 7.20399 28.679 7.12305H28.6952C28.8571 7.17161 29.1485 7.56014
+        29.3427 7.9001Z\" fill=\"#00A000\"/>\n<path d=\"M3.61909 25.3512C3.66766 25.4159
+        4.03999 25.934 3.92667 25.9663C3.66766 25.9178 2.68015 24.6389 2.84204 24.5417H2.85823C3.00392
+        24.5903 3.40864 25.0598 3.61909 25.3512Z\" fill=\"#00A000\"/>\n<path d=\"M18.1414
+        0.259053C18.3519 0.339996 18.449 0.40475 18.4166 0.420939C18.3357 0.485693
+        17.4939 0.194299 17.4453 0.113357L17.4615 0.097168C17.5748 0.113357 17.8986
+        0.178111 18.1414 0.259053Z\" fill=\"#00A000\"/>\n<path d=\"M2.43813 7.4629C2.35719
+        7.57622 2.11436 7.96474 2.01723 8.01331C1.87153 7.96474 2.60002 6.88011 2.71334
+        6.83154H2.72952C2.81047 6.86392 2.4867 7.39814 2.43813 7.4629Z\" fill=\"#00A000\"/>\n<path
+        d=\"M5.67515 3.78798C5.319 4.12794 5.09236 4.25745 5.07617 4.1765C5.07617
+        4.03081 5.82084 3.31851 6.06367 3.28613C6.17699 3.28613 5.90179 3.57753 5.67515
+        3.78798Z\" fill=\"#00A000\"/>\n<path d=\"M21.0058 1.03617C21.2648 1.18187
+        21.3944 1.29519 21.3134 1.31138C21.1515 1.34376 20.0993 0.777157 20.1802 0.712402H20.2126C20.3745
+        0.728591 20.763 0.890476 21.0058 1.03617Z\" fill=\"#00A000\"/>\n<path d=\"M24.6005
+        2.81684C24.8919 3.04348 25.0376 3.22156 24.9243 3.22156C24.7139 3.23775 23.4835
+        2.33119 23.613 2.25024H23.6454C23.8721 2.29881 24.3091 2.5902 24.6005 2.81684Z\"
+        fill=\"#00A000\"/>\n<path d=\"M9.69156 1.31126C9.57824 1.37602 9.23828 1.55409
+        9.18971 1.52171C9.17352 1.42458 9.9182 1.06843 10.0801 1.05225C10.0963 1.10081
+        9.75631 1.27889 9.69156 1.31126Z\" fill=\"#00A000\"/>\n</svg>\n\t\t\t\t\t</div>\n\t\t\t\t\t<ul
+        class=\"footer-followus\">\n\t\t\t\t\t\t<li><a href=\"https://www.facebook.com/investorplace/\"
+        class=\"facebook\" aria-label=\"Visit our Facebook page\" rel=\"noreferrer
+        noopener\"><div class=\"svg_wrapper svg_logo-facebook\"><div><svg shape-rendering=\"geometricPrecision\"><use
+        xlink:href=\"#logo-facebook\"></use></svg></div></div></a></li>\n\t\t\t\t\t\t<li><a
+        href=\"https://twitter.com/InvestorPlace\" class=\"twitter\" aria-label=\"Visit
+        our Twitter page\" rel=\"noreferrer noopener\"><div class=\"svg_wrapper svg_logo-twitter\"><div><svg
+        shape-rendering=\"geometricPrecision\"><use xlink:href=\"#logo-twitter\"></use></svg></div></div></a></li>\n\t\t\t\t\t\t<li><a
+        href=\"https://feeds.feedburner.com/InvestorPlace\" class=\"rss\" aria-label=\"Subscribe
+        to our RSS feed\" rel=\"noreferrer noopener\"><div class=\"svg_wrapper svg_logo-rss\"><div><svg
+        shape-rendering=\"geometricPrecision\"><use xlink:href=\"#logo-rss\"></use></svg></div></div></a></li>\n\t\t\t\t\t</ul>\n\t\t\t\t</div>\n\t\t\t\t<div
+        class=\"col-xs-12 col-lg-12 col-xlg-9\" role=\"navigation\" aria-label=\"Footer
+        navigation\">\n\t\t\t\t\t<ul id=\"menu-footer-new-1\" class=\"footer-navigation\"><li
+        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-1509398\"><a
+        href=\"https://investorplace.com/corporate/contact-us/\">Contact Us</a></li>\n<li
+        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-1509464\"><a
+        href=\"https://investorplace.com/corporate/contact-us/\">Help</a></li>\n<li
+        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-1301319\"><a
+        href=\"https://investorplace.com/corporate/employment/\">Employment</a></li>\n<li
+        class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-1301321\"><a
+        href=\"https://investorplace.com/corporate/advertise-with-us/\">Advertise
+        With Us</a></li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page
+        menu-item-1301323\"><a href=\"https://investorplace.com/corporate/disclosures-disclaimers/\">Disclosures
+        &#038; Disclaimers</a></li>\n<li class=\"menu-item menu-item-type-post_type
+        menu-item-object-page menu-item-1301320\"><a href=\"https://investorplace.com/corporate/privacy/\">Privacy
+        Policy</a></li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page
+        menu-item-1301324\"><a href=\"https://investorplace.com/corporate/terms-conditions/\">Terms
+        of Use</a></li>\n<li class=\"menu-item menu-item-type-post_type menu-item-object-page
+        menu-item-1650184\"><a href=\"https://investorplace.com/corporate/investorplace-dmca-policy/\">DMCA
+        Policy</a></li>\n</ul>\t\t\t\t\t<p class=\"copylight\">Financial Market Data
+        powered by FinancialContent Services, Inc. All rights reserved. Nasdaq\n\t\t\t\t\t\tquotes
+        delayed at least 15 minutes, all others at least 20 minutes.\n\t\t\t\t\t\tCopyright
+        &copy;\n\t\t\t\t\t\t2020 InvestorPlace Media, LLC. All rights reserved. 1125
+        N. Charles St, Baltimore, MD 21201.\n\t\t\t\t\t</p>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>\n\t</section>\n\n\t\n</footer>\n\n\n<div
+        class=\"overlay\"></div>\n<div class=\"login modal\">\n\t<div class=\"loginForm
+        sign-in\">\n\t\t<h2 class=\"san-serif\">Subscriber Sign in</h2>\n\t\t<form
+        class=\"form\" method=\"post\" name=\"pir_login\" id=\"pir_login\">\n\t<div
+        class=\"field\">\n\t\t<label for=\"TAuserId\" class=\"screen-reader-text\">Username</label>\n\t\t<input
+        name=\"TAuserId\" id=\"TAuserId\" placeholder=\"Username\" type=\"text\">\n\t</div>\n\t<div
+        class=\"field\">\n\t\t<label for=\"TApassword\" class=\"screen-reader-text\">Password</label>\n\t\t<input
+        name=\"TApassword\" id=\"TApassword\" placeholder=\"Password\" type=\"password\">\n\t</div>\n\t<div
+        class=\"field\">\n\t\t<button class=\"btn-normal btn-primary login-bt\" type=\"submit\"
+        name=\"TAsubmit\" id=\"TAsubmit\">Sign in</button>\n\t</div>\n\t\t\t<input
+        type=\"hidden\" name=\"plocation\" value=\"https://investorplace.com/dashboard/\">\n\t</form>\n<div
+        class=\"forgot\">\n\t<a href=\"https://investorplace.com/corporate/contact-us/password-account-access/\">Having
+        trouble logging in?</a>\n</div>\n\n\t\t<p><b>Not Yet a Premium Subscriber?</b></p>\n\t\t<a
+        href=\"https://investorplace.com/premium-services/\" class=\"btn btn-large
+        btn-secondary login-bt\">Subscribe</a>\n\t</div>\n\n\t<button class=\"modal-close\"><span
+        class=\"screen-reader-text\">Close login modal</span></button>\n</div>\n\n\t<div
+        id=\"z1343fe2b-ce66-4746-832a-513f9548695b\" style='display:none'></div>\n\t<script>!function
+        (a, n, e, t, r) {\n\t\t\tvar isMobile = isMobile || window.innerWidth < 768;\n\t\t\tif
+        ( isMobile ) {\n\t\t\t\treturn;\n\t\t\t}\n\t\t\ttagsync = e;\n\t\t\tvar c
+        = window[a];\n\t\t\tif (tagsync) {\n\t\t\t\tIPMLoader.loadWhenReady( function
+        insertZedo() {\n\t\t\t\t\tvar d = document.createElement(\"script\");\n\t\t\t\t\td.src
+        = \"https://2292.tm.zedo.com/v1/9b3c28ba-07e4-40a4-b57a-80061e91676f/atm.js\",
+        d.async = !0;\n\t\t\t\t\tvar i = document.getElementById(n);\n\t\t\t\t\tif
+        (null == i || \"undefined\" == i) return;\n\t\t\t\t\ti.parentNode.appendChild(d,
+        i), d.onload = d.onreadystatechange = function () {\n\t\t\t\t\t\tvar a = new
+        zTagManager(n);\n\t\t\t\t\t\ta.initTagManager(n, c, this.aync, t, r)\n\t\t\t\t\t}\n\t\t\t\t\tIPMLoader.loaded(
+        'zedo' );\n\t\t\t\t}, 'zedo', 10000 );\n\t\t\t} else document.write(\"<script
+        src='https://2292.tm.zedo.com/v1/9b3c28ba-07e4-40a4-b57a-80061e91676f/tm.js?data=\"
+        + a + \"'><\" + \"/script>\"); \t\t}(\"datalayer\", \"z1343fe2b-ce66-4746-832a-513f9548695b\",
+        true, 1, 1);</script>\n\t\t<script async type=\"text/javascript\" src=\"https://tags.crwdcntrl.net/c/3094/cc.js?ns=_cc3094\"
+        id=\"LOTCC_3094\"></script> \t<script>\n\t\trunCCJS = function() {\n\t\t\t_cc3094.add(
+        'seg', 'Fidelty' );\n\t\t\t_cc3094.add( 'seg', 'Vanguard' );\n\t\t\t_cc3094.add(
+        'seg', 'ETRADE' );\n\t\t\t_cc3094.add( 'seg', 'T.Rowe' );\n\t\t\t_cc3094.add(
+        'seg', 'TD Ameritrade' );\n\t\t\t_cc3094.add( 'seg', 'Direxion' );\n\t\t\t_cc3094.add(
+        'seg', 'Schwab' );\n\t\t\t_cc3094.add( 'seg', 'BlackRock' );\n\t\t\t_cc3094.add(
+        'seg', 'SPDR' );\n\t\t\t_cc3094.bcpf();\n\t\t};\n\t\twindow.onload = function
+        () {\n\t\t\trunCCJS();\n\t\t};\n\t</script>\n\t<script type='text/javascript'
+        src='https://investorplace.com/wp-content/themes/InvestorPlaceV2/assets/js/dist/frontend.min.js?ver=20201105a'
+        id='investorplace-frontend-js'></script>\n<script defer type='text/javascript'
+        src='https://investorplace.com/wp-content/themes/InvestorPlaceV2/assets/js/dist/ipmMonetate.min.js?ver=20201105a'
+        id='ipm-monetate-js'></script>\n<script defer type='text/javascript' src='https://investorplace.com/wp-content/themes/InvestorPlaceV2/assets/js/vendor/selectize.min.js?ver=1605715532'
+        id='selectize-js'></script>\n<script defer type='text/javascript' src='https://investorplace.com/wp-content/themes/InvestorPlaceV2/assets/js/vendor/jquery.fitvids.js?ver=null'
+        id='jquery-fitvids-js'></script>\n<script defer type='text/javascript' src='https://investorplace.com/wp-includes/js/underscore.min.js?ver=1.8.3'
+        id='underscore-js'></script>\n<script type='text/javascript' id='investorplace-scripts-js-extra'>\n/*
+        <![CDATA[ */\nvar ipm = {\"settings\":{\"domain\":\"investorplace.com\",\"siteUrl\":\"https:\\/\\/investorplace.com\",\"ajaxurl\":\"https:\\/\\/investorplace.com\\/wp-admin\\/admin-ajax.php\",\"home\":false,\"isSingle\":true},\"videos\":{\"security\":\"dc78d90b82\"},\"playIcon\":\"\",\"tickerWidget\":{\"active\":true,\"apiURL\":\"https:\\/\\/api.cloudquote.net\\/fcon\\/getStockPrice.json?symbol=%24DJI,%24COMP,%24SPX&P=b977u6vvfm4kq6dwpnwmi\"},\"premium\":{\"_ajax_nonce\":\"f8120c001c\"}};\n/*
+        ]]> */\n</script>\n<script defer type='text/javascript' src='https://investorplace.com/wp-content/themes/InvestorPlaceV2/assets/js/dist/global.min.js?ver=20201105a'
+        id='investorplace-scripts-js'></script>\n<script type='text/javascript' id='ipm-dynamic-ads-js-extra'>\n/*
+        <![CDATA[ */\nvar adInfo = {\"sectionName\":\"stocks\",\"permalink\":\"https:\\/\\/investorplace.com\\/2020\\/08\\/fisker-spaq-stock-car-company-first-tech-firm-second\\/\",\"title\":\"Why
+        SPAQ Stock Is a Car Company First, And A Tech Firm Second | InvestorPlace\"};\n/*
+        ]]> */\n</script>\n<script defer type='text/javascript' src='https://investorplace.com/wp-content/themes/InvestorPlaceV2/assets/js/dist/ipmDynamicAds.min.js?ver=20201105a'
+        id='ipm-dynamic-ads-js'></script>\n<script defer type='text/javascript' src='https://investorplace.com/wp-content/themes/InvestorPlaceV2/assets/js/dist/scriptsNew.min.js?ver=20201105a'
+        id='investorplace-scripts-new-js'></script>\n<script defer type='text/javascript'
+        src='https://investorplace.com/wp-content/plugins/lazy-load/js/jquery.sonar.min.js?ver=0.6.1'
+        id='jquery-sonar-js'></script>\n<script defer type='text/javascript' src='https://investorplace.com/wp-content/plugins/lazy-load/js/lazy-load.js?ver=0.6.1'
+        id='wpcom-lazy-load-images-js'></script>\n<script defer type='text/javascript'
+        src='https://investorplace.com/wp-includes/js/wp-embed.min.js?ver=5.5.3' id='wp-embed-js'></script>\n\t<!--
+        Start Quantcast tag -->\n\t<script type=\"text/javascript\">\n\t\t_qoptions={\n\t\t\tqacct:\"p-56j3bhmanKww2\"\n\t\t};\n\t</script>\n\t\t<script
+        defer type=\"text/javascript\" src=\"//edge.quantserve.com/quant.js\"></script>\n\t<noscript>\n\t\t<img
+        src=\"https://pixel.quantserve.com/pixel/p-56j3bhmanKww2.gif\" style=\"display:
+        none;\" border=\"0\" height=\"1\" width=\"1\" alt=\"Quantcast\"/>\n\t</noscript>\n\t<!--
+        End Quantcast tag -->\n\t</body>\n\n</html>\n<!--\n\tgenerated 97 seconds
+        ago\n\tgenerated in 0.286 seconds\n\tserved from batcache in 0.004 seconds\n\texpires
+        in 203 seconds\n-->\n"
+    headers:
+      CF-Cache-Status:
+      - MISS
+      CF-RAY:
+      - 5f5e5bf62e18156b-EWR
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Content-Security-Policy-Report-Only:
+      - 'default-src ''self'' https: data:; script-src ''self'' https: ''unsafe-inline''
+        ''unsafe-eval''; style-src ''self'' https: ''unsafe-inline''; report-uri https://investorplace.com/wp-content/plugins/mixed-content-logging/report-uri/mcl-uri.php'
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Sat, 21 Nov 2020 23:58:31 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Expires:
+      - Thu, 01 Jan 1970 00:00:01 GMT
+      Last-Modified:
+      - Sat, 21 Nov 2020 23:56:54 GMT
+      Link:
+      - <https://investorplace.com/wp-json/>; rel="https://api.w.org/"
+      - <https://investorplace.com/wp-json/wp/v2/posts/1694061>; rel="alternate";
+        type="application/json"
+      - <https://bit.ly/3iZ1yqV>; rel=shortlink
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d3e1d29c3e92a2c93b478da5d5660cafe1606003111; expires=Mon, 21-Dec-20
+        23:58:31 GMT; path=/; domain=.investorplace.com; HttpOnly; SameSite=Lax; Secure
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      - Cookie
+      X-Frame-Options:
+      - SAMEORIGIN
+      cf-request-id:
+      - 068ed7cddb0000156b2d187000000001
+      content-length:
+      - '154271'
+      x-php-expires:
+      - epoch
+    status:
+      code: 200
+      message: OK
+version: 1

@@ -1,0 +1,1317 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.marketbeat.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/87.0.4280.88 Safari/537.36 '
+    method: GET
+    uri: https://www.marketbeat.com/instant-alerts/nyse-rcus-volume%20advance-2021-04-2-3/
+  response:
+    body:
+      string: "\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\n<title>\r\n\tArcus
+        Biosciences (NYSE:RCUS) Sees Strong Trading Volume Following Insider Buying
+        Activity | MarketBeat\r\n</title><meta charset=\"utf-8\" /><meta name=\"viewport\"
+        content=\"width=device-width, height=device-height, initial-scale=1.0\" />\n<!--[if
+        IE]><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" /><![endif]-->\n\n<meta
+        name=\"google-site-verification\" content=\"21tyd2NTsebvto7W56gttKaElQtkak0Ld32xGvr_COs\"
+        /><meta name=\"msvalidate.01\" content=\"43C334F81BEB9DE14F872D6C91B4FC29\"
+        /><meta name=\"y_key\" content=\"63e01d3704030089\" /><meta property=\"fb:pages\"
+        content=\"1450892295227696\" /><link rel=\"sitemap\" type=\"application/xml\"
+        title=\"Sitemap\" href=\"https://www.marketbeat.com/Sitemap.ashx\" /><link
+        rel=\"alternate\" type=\"application/rss+xml\" title=\"MarketBeat Headlines
+        RSS\" href=\"https://www.marketbeat.com/rss.ashx?type=headlines\" />\n\n<link
+        rel=\"shortcut icon\" href=\"/images/2favicon.png\" />\n\n<link rel=\"apple-touch-icon-precomposed\"
+        href=\"/images/apple-touch-icon-precomposed.png\" />\n\n<link rel=\"apple-touch-icon-precomposed\"
+        sizes=\"72x72\" href=\"/images/apple-touch-icon-72x72-precomposed.png\" />\n\n<link
+        rel=\"apple-touch-icon-precomposed\" sizes=\"114x114\" href=\"/images/apple-touch-icon-114x114-precomposed.png\"
+        />\n\n<link rel=\"apple-touch-icon-precomposed\" sizes=\"144x144\" href=\"/images/apple-touch-icon-144x144-precomposed.png\"
+        /><link rel=\"sitemap\" href=\"https://www.marketbeat.com/Sitemap.ashx\" />\n\n<link
+        rel=\"preload\" href=\"/Style/fonts/Prata.woff2?2\" as=\"font\" type=\"font/woff2\"
+        crossorigin=\"\" /><link rel=\"preload\" href=\"/Style/fonts/Yantramanav-400.woff2?2\"
+        as=\"font\" type=\"font/woff2\" crossorigin=\"\" /><link rel=\"preload\" href=\"/Style/fonts/Yantramanav-900.woff2?2\"
+        as=\"font\" type=\"font/woff2\" crossorigin=\"\" /><link rel=\"preload\" href=\"/Style/fonts/Yantramanav-700.woff2?2\"
+        as=\"font\" type=\"font/woff2\" crossorigin=\"\" /><link rel=\"preload\" href=\"/Style/fonts/Oswald.woff2?2\"
+        as=\"font\" type=\"font/woff2\" crossorigin=\"\" /><link rel=\"preload\" href=\"/Style/icon-font/mb-icons.ttf?20210202\"
+        as=\"font\" type=\"font/ttf\" crossorigin=\"\" /><link rel=\"stylesheet\"
+        href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css\"
+        integrity=\"sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T\"
+        crossorigin=\"anonymous\" /><link href=\"/Style/allstyles9.css?v=20210414\"
+        rel=\"stylesheet\" />\n\n<!--[if lt IE 9]>\r\n        <link rel=\"stylesheet\"
+        href=\"/Style/olderbrowsers/css/bootstrap.min.css\" media=\"all\" />\r\n        <script
+        src=\"https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js\"></script>\r\n
+        \       <script src=\"https://oss.maxcdn.com/respond/1.4.2/respond.min.js\"></script>\r\n
+        \   <![endif]-->\n<!--[if IE]>\r\n    <style>\r\n        #left-side-menu.left-showing,
+        #right-side-menu.right-showing {\r\n             z-index: 30;\r\n         color:
+        white;\r\n        }\r\n    </style>\r\n    <![endif]-->\n<!--[if lt IE 9]>\r\n
+        \     <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js\"></script>\r\n
+        \   <![endif]-->\n<!--[if (gte IE 9) | (!IE)]><!-->\n<script defer src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js\"></script>\n<!--<![endif]-->\n<script
+        src=\"https://accounts.google.com/gsi/client\" async defer></script>\n<link
+        rel=\"manifest\" href=\"/manifest.json\" />\n<script src=\"https://cdn.onesignal.com/sdks/OneSignalSDK.js\"></script>\n<script
+        src=\"https://cdnjs.cloudflare.com/ajax/libs/hellojs/2.0.0-4/hello.all.js\"></script>\n<script
+        src=\"/scripts/modal/mb-modernpopup.js?v=20210414\" type=\"text/javascript\"></script>\n<script>\r\n
+        \      function registerUserChange(action) {\r\n           OneSignal.getUserId(function
+        (userId) {\r\n               OneSignalIdString = userId;\r\n               var
+        Domain = 'marketbeat.com';\r\n               var url = \"https://www.marketbeat.com/scripts/OneSignalTracking.ashx?OneSignalID=\"
+        + OneSignalIdString + \"&domain=\" + Domain + \"&action=\" + action;\r\n               var
+        xhr = new XMLHttpRequest();\r\n               xhr.open('GET', url);\r\n               xhr.onload
+        = function () {\r\n                   if (xhr.status !== 200) {\r\n                       console.log('GET
+        failed.  Returned status of ' + xhr.status);\r\n                   }\r\n                   else
+        {\r\n                       console.log('GET succeeded (' + url + ').  Returned
+        status of ' + xhr.status);\r\n                   }\r\n               };\r\n
+        \              xhr.send();\r\n           });\r\n       }\r\n\r\n       var
+        OneSignal = OneSignal || [];\r\n       OneSignal.push(\r\n           function
+        () {\r\n               OneSignal.init({\r\n                   appId: \"09793a33-b7c4-431e-b5f6-bda2774a7c1a\",\r\n
+        \                  safari_web_id: 'web.onesignal.auto.504512c8-952a-4d80-9d02-48e16e3cc659',\r\n
+        \                  autoRegister: false,\r\n                   autoResubscribe:
+        true,\r\n                   notifyButton: {\r\n                       enable:
+        false\r\n                   },\r\n                   welcomeNotification:
+        {\r\n                       \"title\": \"Join Wall Street's Brightest Minds.\",\r\n
+        \                      \"message\": \"Receive research in your inbox from
+        top analysts, before the market opens. Click here to learn how.\",\r\n                       \"url\":
+        \"https://www.marketbeat.com/subscribe/subscribe.aspx?ReferralType=OneSignalThankYou&ProductCode=1997t\"\r\n
+        \                  },\r\n               });\r\n               OneSignal.once('subscriptionChange',
+        function (isSubscribed) {\r\n                   if (isSubscribed) {\r\n                       registerUserChange(\"subscribe\");\r\n
+        \                  }\r\n                   else {\r\n                       registerUserChange(\"unsubscribe\");\r\n
+        \                  }\r\n               });\r\n               if ((navigator.userAgent.toLowerCase().indexOf('
+        edg/') > -1) || (navigator.userAgent.toLowerCase().indexOf('firefox') > -1)
+        || ((navigator.userAgent.toLowerCase().indexOf('safari') > -1) && (!(navigator.userAgent.toLowerCase().indexOf('chrome')
+        > -1)))) {\r\n                   OneSignal.showSlidedownPrompt();\r\n               }
+        else {\r\n                   OneSignal.showNativePrompt();\r\n               }\r\n
+        \          });\r\n\r\n\r\n\r\n   </script>\n<script type=\"application/ld+json\">
+        { \"@context\": \"http://schema.org\", \"@type\": \"NewsArticle\", \"mainEntityOfPage\":
+        { \"@type\": \"WebPage\", \"@id\": \"https://www.marketbeat.com/instant-alerts/nyse-rcus-volume
+        advance-2021-04-2-3/\" }, \"headline\": \"Arcus Biosciences (NYSE:RCUS) Sees
+        Strong Trading Volume Following Insider Buying Activity\", \"image\": { \"@type\":
+        \"ImageObject\", \"url\": \"https://www.marketbeat.com/logos/arcus-biosciences-inc-logo.jpg\",
+        \"height\": \"400\", \"width\": \"400\" }, \"datePublished\": \"2021-04-27\",
+        \"dateModified\": \"2021-04-27\", \"author\": { \"@type\": \"Person\", \"name\":
+        \"MarketBeat\" }, \"publisher\": { \"@type\": \"Organization\", \"name\":
+        \"MarketBeat.com\", \"logo\": { \"@type\": \"ImageObject\", \"url\": \"https://www.marketbeat.com/images/master/marketbeat-logo-gray-blue.png?v=2019\",
+        \"width\": \"334\", \"height\": \"100\" } }, \"description\": \"Arcus Biosciences
+        (NYSE:RCUS) Sees Strong Trading Volume After Insider Buying Activity\" } </script><link
+        rel=\"canonical\" href=\"https://www.marketbeat.com/instant-alerts/nyse-rcus-volume
+        advance-2021-04-2-3/\" /><link rel=\"amphtml\" href=\"https://www.marketbeat.com/instant-alerts/nyse-rcus-volume
+        advance-2021-04-2-3/amp/\" /><meta name=\"twitter:card\" content=\"summary\"
+        /><meta name=\"twitter:site\" content=\"@MarketBeatCom\" /><meta name=\"twitter:title\"
+        content=\"Arcus Biosciences (NYSE:RCUS) Sees Strong Trading Volume Following
+        Insider Buying Activity\" /><meta name=\"twitter:description\" content=\"Arcus
+        Biosciences (NYSE:RCUS) Sees Strong Trading Volume After Insider Buying Activity\"
+        /><meta name=\"twitter:creator\" content=\"@MarketBeatCom\" /><meta name=\"twitter:image\"
+        content=\"https://www.marketbeat.com/logos/arcus-biosciences-inc-logo.jpg\"
+        /><meta property=\"og:title\" content=\"Arcus Biosciences (NYSE:RCUS) Sees
+        Strong Trading Volume Following Insider Buying Activity\" /><meta property=\"og:type\"
+        content=\"article\" /><meta property=\"og:url\" content=\"https://www.marketbeat.com/instant-alerts/nyse-rcus-volume
+        advance-2021-04-2-3/\" /><meta property=\"og:image\" content=\"https://www.marketbeat.com/logos/arcus-biosciences-inc-logo.jpg\"
+        /><meta property=\"og:description\" content=\"Arcus Biosciences (NYSE:RCUS)
+        Sees Strong Trading Volume After Insider Buying Activity\" /><meta property=\"og:site_name\"
+        content=\"MarketBeat.com\" /><meta property=\"og:locale\" content=\"en_US\"
+        />\n<style>\r\n   \r\n.subscribe, .bluebox {\r\n    line-height: 1.3;\r\n
+        \   padding: 0 5px;\r\n    line-height: 1.3;\r\n    padding: 10px 12px 20px;\r\n
+        \   background: #005882;\r\n}\r\n\r\n    .subscribe p, .bluebox p {\r\n        font-size:
+        14px;\r\n        color: #fff;\r\n        margin: 8px 0 17px;\r\n    }\r\n\r\n
+        \  \r\n    .subscribe strong, .bluebox strong {\r\n        color: #fff;\r\n
+        \       font-size: 20px;\r\n    }\r\n\r\n    .subscribe input[type=text],
+        .subscribe-form input[type=text] {\r\n        color: #777;\r\n        font-size:
+        14px;\r\n        font-weight: normal;\r\n        padding: 3px 5px 5px;\r\n
+        \       border: solid 1px #999;\r\n    }\r\n\r\n        .bluebox {\r\n        margin-bottom:
+        15px;\r\n    }\r\n\r\n    .col300sm .subscribe input {\r\n        width: 100%
+        !important;\r\n    }\r\n\r\n    .headline-image img {\r\n        margin-bottom:
+        5px;\r\n    }\r\n\r\n    .headline-image .caption {\r\n        margin: 0;\r\n
+        \       transition: max-height .2s;\r\n        font-weight: 400;\r\n        overflow:
+        hidden;\r\n        text-overflow: ellipsis;\r\n        display: -webkit-box;\r\n
+        \       -webkit-box-orient: vertical;\r\n        -webkit-line-clamp: 2;\r\n
+        \       line-height: 18px;\r\n        max-height: 36px;\r\n        padding:
+        0;\r\n        font-size: 9pt;\r\n        font-style: italic;\r\n        cursor:
+        pointer;\r\n    }\r\n\r\n    .headline-image .caption.expanded {\r\n        max-height:
+        initial;\r\n        -webkit-line-clamp: unset;\r\n    }\r\n    \r\n     .ad-left-336
+        {\r\n        width: 336px;\r\n        float: none;\r\n        margin: 4px
+        auto 10px;\r\n    }\r\n\r\n   \r\n\r\n    @media (min-width: 550px) {\r\n
+        .ad-left-336 {\r\n        float: left;\r\n        clear: left;\r\n        margin:
+        4px 15px 10px 0;\r\n        \r\n    }\r\n    }\r\n   \r\n    .carousel {\r\n
+        \ height: 300px;\r\n  width: 400px;\r\n  overflow: hidden;\r\n  text-align:
+        center;\r\n  position: relative;\r\n  padding: 0;\r\n}\r\n\r\n.carousel__controls,
+        .carousel__slide, .carousel__activator { display: none; }\r\n\r\n.carousel__control
+        {\r\n  height: 30px;\r\n  width: 30px;\r\n  margin-top: -30px;\r\n  top: 50%;\r\n
+        \ position: absolute;\r\n  display: block;\r\n  cursor: pointer;\r\n  /*border-width:
+        5px 5px 0 0;\r\n  border-style: solid;\r\n  border-*/\r\n  \r\n  color: #fafafa;\r\n
+        \ opacity: 0.35;\r\n  outline: 0;\r\n  z-index: 3;\r\n}\r\n.carousel__control:after
+        {\r\n    content: \"\\e900\";\r\n    font-family: 'mb-icons' !important;\r\n
+        \   speak: none;\r\n    font-style: normal;\r\n    font-weight: normal;\r\n
+        \   font-variant: normal;\r\n    text-transform: none;\r\n    line-height:
+        0.82;\r\n    font-size: 2em;\r\n    vertical-align: text-bottom;\r\n    /*
+        Better Font Rendering =========== */\r\n    -webkit-font-smoothing: antialiased;\r\n
+        \   -moz-osx-font-smoothing: grayscale;\r\n}\r\n\r\n.carousel__control:hover
+        { opacity: 1; }\r\n\r\n/* actually left */\r\n.carousel__control--forward
+        {\r\n  left: 10px;\r\n  -webkit-transform: rotate(-180deg);\r\n  transform:
+        rotate(-180deg);\r\n}\r\n\r\n/* actually right */\r\n.carousel__control--backward
+        {\r\n  right: 10px;\r\n}\r\n\r\n/* eventually put on allstyles */\r\n@media
+        (max-width: 991.9px) {\r\n    .col-all-but-336, .col-all-but-336-sm, .col-336-sm
+        {\r\n        width: 100%;\r\n    }\r\n}\r\n\r\n</style>\n<script type=\"text/javascript\">
+        \r\n      document.addEventListener(\"DOMContentLoaded\", function () {\r\n
+        \           $(\".headline-image .caption\").click(function () {\r\n                $(this).toggleClass(\"expanded\");\r\n
+        \           });\r\n\r\n            $(\"#shareButton\").on(\"touchstart\",
+        function (e) {\r\n                    var el = $(this);\r\n                    if
+        (!el.hasClass(\"open\")) {\r\n                    el.find(\"a\").addClass(\"opening\");\r\n
+        \                   $(\"#shareButton\").removeClass(\"open\");\r\n                    setTimeout(function
+        () {\r\n                        el.find(\"a\").removeClass(\"opening\");\r\n
+        \                       el.addClass(\"open\");\r\n                    }, 500);\r\n
+        \              }\r\n            });\r\n\r\n            var timer;\r\n            var
+        delay = 300;\r\n            $('#shareButton').hover(function () {\r\n                    $(\"#shareButton\").addClass(\"open\");\r\n
+        \               }, function () {\r\n                    $(\"#shareButton\").removeClass(\"open\");\r\n
+        \                   clearTimeout(timer);\r\n                });\r\n\r\n        });\r\n\r\n
+        \         \r\n\r\n    </script>\n<script type='text/javascript'>document.addEventListener(\"DOMContentLoaded\",
+        function () {LoadPopupRatings('MB-Popup','marketbeat.com','NYSE:RCUS','Arcus
+        Biosciences','https://www.marketbeat.com/logos/arcus-biosciences-inc-logo.jpg');});
+        var chartPrefixSymbol = 'NYSE:RCUS'; var chartTitle = 'Arcus Biosciences';
+        var chartImage = '/logos/arcus-biosciences-inc-logo.jpg'</script>\n\n<script
+        type=\"text/javascript\">\r\n    window._F20 = window._F20 || [];\r\n    !(function
+        (e, f, u) {\r\n        e.async = 1;\r\n        e.src = u;\r\n        f.parentNode.insertBefore(e,
+        f);\r\n    })(\r\n        document.createElement('script'),\r\n        document.getElementsByTagName('script')[0],\r\n
+        \       'https://feed.exchange.entrepreneur.com/loader.js',\r\n    );\r\n
+        \   _F20.push({ publisher: 'marketbeat', css: 'https://feed.exchange.entrepreneur.com/ecn.css'
+        });\r\n    var url = window.location != window.parent.location ? document.referrer
+        : document.location.href;\r\n    _F20.push({ referer: url });\r\n</script>\n\n<meta
+        property=\"og:image\" content=\"http://marketbeat.com/images/marketbeat-logo-400-400.png?v=2020b\"
+        /><meta property=\"og:image:width\" content=\"400\" /><meta property=\"og:image:height\"
+        content=\"400\" /><meta name=\"description\" content=\"Arcus Biosciences (NYSE:RCUS)
+        Sees Strong Trading Volume After Insider Buying Activity\" /><meta name=\"keywords\"
+        content=\"Arcus Biosciences,instant alerts,NYSE:RCUS,volume advance\" /></head>\n<body>\n<div
+        class=\"page-wrap\">\n<div id=\"scrollingIndexes\" role=\"complementary\"
+        aria-label=\"current prices and price changes for indexes and stocks\" style=\"max-height:
+        42px;width:100%;overflow:hidden;\">\n<div style=\"white-space: nowrap;\" class=\"position-relative
+        index-mover bg-dark-blue c-white\"><div class=\"index-inner-1\"><div class=\"header-index
+        gradient-red\"><span class='index-name'><a href=\"/market-indexes/SPX/\">S&amp;P
+        500</a> &nbsp;</span> <span class='index-price'>4,185.38</span> <span class='index-change'>
+        (-0.05%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/market-indexes/DJI/\">DOW</a>
+        &nbsp;</span> <span class='index-price'>33,930.44</span> <span class='index-change'>
+        (-0.15%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/QQQ/\">QQQ</a>
+        &nbsp;</span> <span class='index-price'>340.78</span> <span class='index-change'>
+        (-0.25%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NASDAQ/AAPL/\">AAPL</a>
+        &nbsp;</span> <span class='index-price'>134.84</span> <span class='index-change'>
+        (+0.09%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/MSFT/\">MSFT</a>
+        &nbsp;</span> <span class='index-price'>261.35</span> <span class='index-change'>
+        (-0.08%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NASDAQ/FB/\">FB</a>
+        &nbsp;</span> <span class='index-price'>304.55</span> <span class='index-change'>
+        (+0.50%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/GOOGL/\">GOOGL</a>
+        &nbsp;</span> <span class='index-price'>2,294.94</span> <span class='index-change'>
+        (-0.65%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/TSLA/\">TSLA</a>
+        &nbsp;</span> <span class='index-price'>712.59</span> <span class='index-change'>
+        (-3.47%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NASDAQ/AMZN/\">AMZN</a>
+        &nbsp;</span> <span class='index-price'>3,424.83</span> <span class='index-change'>
+        (+0.46%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/NVDA/\">NVDA</a>
+        &nbsp;</span> <span class='index-price'>618.86</span> <span class='index-change'>
+        (-0.04%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NYSE/BABA/\">BABA</a>
+        &nbsp;</span> <span class='index-price'>236.34</span> <span class='index-change'>
+        (+1.56%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/CGC/\">CGC</a>
+        &nbsp;</span> <span class='index-price'>27.12</span> <span class='index-change'>
+        (-1.49%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/GE/\">GE</a>
+        &nbsp;</span> <span class='index-price'>13.23</span> <span class='index-change'>
+        (-2.51%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/NIO/\">NIO</a>
+        &nbsp;</span> <span class='index-price'>41.40</span> <span class='index-change'>
+        (-2.86%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NASDAQ/MU/\">MU</a>
+        &nbsp;</span> <span class='index-price'>89.19</span> <span class='index-change'>
+        (+1.54%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NASDAQ/AMD/\">AMD</a>
+        &nbsp;</span> <span class='index-price'>86.44</span> <span class='index-change'>
+        (+1.21%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/T/\">T</a>
+        &nbsp;</span> <span class='index-price'>30.72</span> <span class='index-change'>
+        (-0.61%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NYSE/F/\">F</a>
+        &nbsp;</span> <span class='index-price'>12.46</span> <span class='index-change'>
+        (+1.55%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/ACB/\">ACB</a>
+        &nbsp;</span> <span class='index-price'>8.50</span> <span class='index-change'>
+        (-0.58%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NYSE/DIS/\">DIS</a>
+        &nbsp;</span> <span class='index-price'>185.26</span> <span class='index-change'>
+        (+0.54%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/BA/\">BA</a>
+        &nbsp;</span> <span class='index-price'>240.33</span> <span class='index-change'>
+        (-0.46%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NYSE/BAC/\">BAC</a>
+        &nbsp;</span> <span class='index-price'>39.67</span> <span class='index-change'>
+        (+0.66%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/NFLX/\">NFLX</a>
+        &nbsp;</span> <span class='index-price'>508.95</span> <span class='index-change'>
+        (-0.26%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div></div><div
+        class=\"index-inner-2\"><div class=\"header-index gradient-red\"><span class='index-name'><a
+        href=\"/market-indexes/SPX/\">S&amp;P 500</a> &nbsp;</span> <span class='index-price'>4,185.38</span>
+        <span class='index-change'> (-0.05%) </span><span class=\"mb-icon icon-arrow
+        point-down\"></span></div><div class=\"header-index gradient-red\"><span class='index-name'><a
+        href=\"/market-indexes/DJI/\">DOW</a> &nbsp;</span> <span class='index-price'>33,930.44</span>
+        <span class='index-change'> (-0.15%) </span><span class=\"mb-icon icon-arrow
+        point-down\"></span></div><div class=\"header-index gradient-red\"><span class='index-name'><a
+        href=\"/stocks/NASDAQ/QQQ/\">QQQ</a> &nbsp;</span> <span class='index-price'>340.78</span>
+        <span class='index-change'> (-0.25%) </span><span class=\"mb-icon icon-arrow
+        point-down\"></span></div><div class=\"header-index gradient-green\"><span
+        class='index-name'><a href=\"/stocks/NASDAQ/AAPL/\">AAPL</a> &nbsp;</span>
+        <span class='index-price'>134.84</span> <span class='index-change'> (+0.09%)
+        </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div class=\"header-index
+        gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/MSFT/\">MSFT</a>
+        &nbsp;</span> <span class='index-price'>261.35</span> <span class='index-change'>
+        (-0.08%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NASDAQ/FB/\">FB</a>
+        &nbsp;</span> <span class='index-price'>304.55</span> <span class='index-change'>
+        (+0.50%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/GOOGL/\">GOOGL</a>
+        &nbsp;</span> <span class='index-price'>2,294.94</span> <span class='index-change'>
+        (-0.65%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/TSLA/\">TSLA</a>
+        &nbsp;</span> <span class='index-price'>712.59</span> <span class='index-change'>
+        (-3.47%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NASDAQ/AMZN/\">AMZN</a>
+        &nbsp;</span> <span class='index-price'>3,424.83</span> <span class='index-change'>
+        (+0.46%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/NVDA/\">NVDA</a>
+        &nbsp;</span> <span class='index-price'>618.86</span> <span class='index-change'>
+        (-0.04%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NYSE/BABA/\">BABA</a>
+        &nbsp;</span> <span class='index-price'>236.34</span> <span class='index-change'>
+        (+1.56%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/CGC/\">CGC</a>
+        &nbsp;</span> <span class='index-price'>27.12</span> <span class='index-change'>
+        (-1.49%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/GE/\">GE</a>
+        &nbsp;</span> <span class='index-price'>13.23</span> <span class='index-change'>
+        (-2.51%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/NIO/\">NIO</a>
+        &nbsp;</span> <span class='index-price'>41.40</span> <span class='index-change'>
+        (-2.86%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NASDAQ/MU/\">MU</a>
+        &nbsp;</span> <span class='index-price'>89.19</span> <span class='index-change'>
+        (+1.54%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NASDAQ/AMD/\">AMD</a>
+        &nbsp;</span> <span class='index-price'>86.44</span> <span class='index-change'>
+        (+1.21%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/T/\">T</a>
+        &nbsp;</span> <span class='index-price'>30.72</span> <span class='index-change'>
+        (-0.61%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NYSE/F/\">F</a>
+        &nbsp;</span> <span class='index-price'>12.46</span> <span class='index-change'>
+        (+1.55%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/ACB/\">ACB</a>
+        &nbsp;</span> <span class='index-price'>8.50</span> <span class='index-change'>
+        (-0.58%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NYSE/DIS/\">DIS</a>
+        &nbsp;</span> <span class='index-price'>185.26</span> <span class='index-change'>
+        (+0.54%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/BA/\">BA</a>
+        &nbsp;</span> <span class='index-price'>240.33</span> <span class='index-change'>
+        (-0.46%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NYSE/BAC/\">BAC</a>
+        &nbsp;</span> <span class='index-price'>39.67</span> <span class='index-change'>
+        (+0.66%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/NFLX/\">NFLX</a>
+        &nbsp;</span> <span class='index-price'>508.95</span> <span class='index-change'>
+        (-0.26%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div></div><div
+        class=\"index-inner-3\"><div class=\"header-index gradient-red\"><span class='index-name'><a
+        href=\"/market-indexes/SPX/\">S&amp;P 500</a> &nbsp;</span> <span class='index-price'>4,185.38</span>
+        <span class='index-change'> (-0.05%) </span><span class=\"mb-icon icon-arrow
+        point-down\"></span></div><div class=\"header-index gradient-red\"><span class='index-name'><a
+        href=\"/market-indexes/DJI/\">DOW</a> &nbsp;</span> <span class='index-price'>33,930.44</span>
+        <span class='index-change'> (-0.15%) </span><span class=\"mb-icon icon-arrow
+        point-down\"></span></div><div class=\"header-index gradient-red\"><span class='index-name'><a
+        href=\"/stocks/NASDAQ/QQQ/\">QQQ</a> &nbsp;</span> <span class='index-price'>340.78</span>
+        <span class='index-change'> (-0.25%) </span><span class=\"mb-icon icon-arrow
+        point-down\"></span></div><div class=\"header-index gradient-green\"><span
+        class='index-name'><a href=\"/stocks/NASDAQ/AAPL/\">AAPL</a> &nbsp;</span>
+        <span class='index-price'>134.84</span> <span class='index-change'> (+0.09%)
+        </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div class=\"header-index
+        gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/MSFT/\">MSFT</a>
+        &nbsp;</span> <span class='index-price'>261.35</span> <span class='index-change'>
+        (-0.08%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NASDAQ/FB/\">FB</a>
+        &nbsp;</span> <span class='index-price'>304.55</span> <span class='index-change'>
+        (+0.50%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/GOOGL/\">GOOGL</a>
+        &nbsp;</span> <span class='index-price'>2,294.94</span> <span class='index-change'>
+        (-0.65%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/TSLA/\">TSLA</a>
+        &nbsp;</span> <span class='index-price'>712.59</span> <span class='index-change'>
+        (-3.47%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NASDAQ/AMZN/\">AMZN</a>
+        &nbsp;</span> <span class='index-price'>3,424.83</span> <span class='index-change'>
+        (+0.46%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/NVDA/\">NVDA</a>
+        &nbsp;</span> <span class='index-price'>618.86</span> <span class='index-change'>
+        (-0.04%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NYSE/BABA/\">BABA</a>
+        &nbsp;</span> <span class='index-price'>236.34</span> <span class='index-change'>
+        (+1.56%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/CGC/\">CGC</a>
+        &nbsp;</span> <span class='index-price'>27.12</span> <span class='index-change'>
+        (-1.49%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/GE/\">GE</a>
+        &nbsp;</span> <span class='index-price'>13.23</span> <span class='index-change'>
+        (-2.51%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/NIO/\">NIO</a>
+        &nbsp;</span> <span class='index-price'>41.40</span> <span class='index-change'>
+        (-2.86%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NASDAQ/MU/\">MU</a>
+        &nbsp;</span> <span class='index-price'>89.19</span> <span class='index-change'>
+        (+1.54%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NASDAQ/AMD/\">AMD</a>
+        &nbsp;</span> <span class='index-price'>86.44</span> <span class='index-change'>
+        (+1.21%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/T/\">T</a>
+        &nbsp;</span> <span class='index-price'>30.72</span> <span class='index-change'>
+        (-0.61%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NYSE/F/\">F</a>
+        &nbsp;</span> <span class='index-price'>12.46</span> <span class='index-change'>
+        (+1.55%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/ACB/\">ACB</a>
+        &nbsp;</span> <span class='index-price'>8.50</span> <span class='index-change'>
+        (-0.58%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NYSE/DIS/\">DIS</a>
+        &nbsp;</span> <span class='index-price'>185.26</span> <span class='index-change'>
+        (+0.54%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/BA/\">BA</a>
+        &nbsp;</span> <span class='index-price'>240.33</span> <span class='index-change'>
+        (-0.46%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NYSE/BAC/\">BAC</a>
+        &nbsp;</span> <span class='index-price'>39.67</span> <span class='index-change'>
+        (+0.66%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/NFLX/\">NFLX</a>
+        &nbsp;</span> <span class='index-price'>508.95</span> <span class='index-change'>
+        (-0.26%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div></div><div
+        class=\"index-inner-4\"><div class=\"header-index gradient-red\"><span class='index-name'><a
+        href=\"/market-indexes/SPX/\">S&amp;P 500</a> &nbsp;</span> <span class='index-price'>4,185.38</span>
+        <span class='index-change'> (-0.05%) </span><span class=\"mb-icon icon-arrow
+        point-down\"></span></div><div class=\"header-index gradient-red\"><span class='index-name'><a
+        href=\"/market-indexes/DJI/\">DOW</a> &nbsp;</span> <span class='index-price'>33,930.44</span>
+        <span class='index-change'> (-0.15%) </span><span class=\"mb-icon icon-arrow
+        point-down\"></span></div><div class=\"header-index gradient-red\"><span class='index-name'><a
+        href=\"/stocks/NASDAQ/QQQ/\">QQQ</a> &nbsp;</span> <span class='index-price'>340.78</span>
+        <span class='index-change'> (-0.25%) </span><span class=\"mb-icon icon-arrow
+        point-down\"></span></div><div class=\"header-index gradient-green\"><span
+        class='index-name'><a href=\"/stocks/NASDAQ/AAPL/\">AAPL</a> &nbsp;</span>
+        <span class='index-price'>134.84</span> <span class='index-change'> (+0.09%)
+        </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div class=\"header-index
+        gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/MSFT/\">MSFT</a>
+        &nbsp;</span> <span class='index-price'>261.35</span> <span class='index-change'>
+        (-0.08%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NASDAQ/FB/\">FB</a>
+        &nbsp;</span> <span class='index-price'>304.55</span> <span class='index-change'>
+        (+0.50%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/GOOGL/\">GOOGL</a>
+        &nbsp;</span> <span class='index-price'>2,294.94</span> <span class='index-change'>
+        (-0.65%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/TSLA/\">TSLA</a>
+        &nbsp;</span> <span class='index-price'>712.59</span> <span class='index-change'>
+        (-3.47%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NASDAQ/AMZN/\">AMZN</a>
+        &nbsp;</span> <span class='index-price'>3,424.83</span> <span class='index-change'>
+        (+0.46%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/NVDA/\">NVDA</a>
+        &nbsp;</span> <span class='index-price'>618.86</span> <span class='index-change'>
+        (-0.04%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NYSE/BABA/\">BABA</a>
+        &nbsp;</span> <span class='index-price'>236.34</span> <span class='index-change'>
+        (+1.56%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/CGC/\">CGC</a>
+        &nbsp;</span> <span class='index-price'>27.12</span> <span class='index-change'>
+        (-1.49%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/GE/\">GE</a>
+        &nbsp;</span> <span class='index-price'>13.23</span> <span class='index-change'>
+        (-2.51%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/NIO/\">NIO</a>
+        &nbsp;</span> <span class='index-price'>41.40</span> <span class='index-change'>
+        (-2.86%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NASDAQ/MU/\">MU</a>
+        &nbsp;</span> <span class='index-price'>89.19</span> <span class='index-change'>
+        (+1.54%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NASDAQ/AMD/\">AMD</a>
+        &nbsp;</span> <span class='index-price'>86.44</span> <span class='index-change'>
+        (+1.21%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/T/\">T</a>
+        &nbsp;</span> <span class='index-price'>30.72</span> <span class='index-change'>
+        (-0.61%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NYSE/F/\">F</a>
+        &nbsp;</span> <span class='index-price'>12.46</span> <span class='index-change'>
+        (+1.55%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/ACB/\">ACB</a>
+        &nbsp;</span> <span class='index-price'>8.50</span> <span class='index-change'>
+        (-0.58%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NYSE/DIS/\">DIS</a>
+        &nbsp;</span> <span class='index-price'>185.26</span> <span class='index-change'>
+        (+0.54%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NYSE/BA/\">BA</a>
+        &nbsp;</span> <span class='index-price'>240.33</span> <span class='index-change'>
+        (-0.46%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div><div
+        class=\"header-index gradient-green\"><span class='index-name'><a href=\"/stocks/NYSE/BAC/\">BAC</a>
+        &nbsp;</span> <span class='index-price'>39.67</span> <span class='index-change'>
+        (+0.66%) </span><span class=\"mb-icon icon-arrow point-up\"></span></div><div
+        class=\"header-index gradient-red\"><span class='index-name'><a href=\"/stocks/NASDAQ/NFLX/\">NFLX</a>
+        &nbsp;</span> <span class='index-price'>508.95</span> <span class='index-change'>
+        (-0.26%) </span><span class=\"mb-icon icon-arrow point-down\"></span></div></div></div>\n</div>\n<div
+        id=\"header-holder\" class=\"mega-not-showing \">\n<div id=\"mb-header\" class=\"gradient-blue
+        w-100\">\n<header id=\"logobar\" role=\"banner\" aria-label=\"site heading\"
+        class=\"logo-bar container d-flex flex-wrap align-items-center\">\n<div class=\"py-1
+        header-left align-items-center order-sm-1 pr-2 flex-grow-1 flex-sm-grow-0\">\n<div
+        class=\"d-flex align-items-center\">\n<span class=\"trigger-left menu-button-wrapper\"><span
+        class=\"c-white mb-icon icon-menu-open\"></span></span>\n<a title=\"MarketBeat\"
+        href=\"https://www.marketbeat.com\">\n<img class=\"header-logo\" src=\"/images/master/MarketBeat-logo-r-white.svg?v=2019\"
+        alt=\"MarketBeat - Stock Market News and Research Tools logo\">\n</a>\n</div>\n</div>\n<div
+        id=\"headeright\" class=\"pl-2 py-1 order-sm-3 text-right header-right\">\n<button
+        class=\"trigger-right purple-button mr-2\"><span aria-label=\"Sign up\" class=\"mb-icon
+        icon-menu-subscribe\"></span><span class=\"pl-1 d-none d-lg-inline\"> Sign
+        up </span><span class=\"mb-icon icon-arrow d-none d-lg-inline-block\"></span></button><a
+        class=\"sbbutton green-button\" href=\"/login/\"><span class=\"mb-icon icon-menu-login\"
+        aria-label=\"Log In\"></span><span class=\"pl-1 d-none d-lg-inline\"> Log
+        in </span><span class=\"d-none d-lg-inline-block mb-icon icon-arrow\"></span></a>\n</div>\n<div
+        class=\"py-1 px-0 order-sm-2 flex-grow-1 col-12 col-sm-auto\">\n<form class=\"input-group
+        dark-bkg\" method=\"get\" action=\"/pages/search.aspx\" role=\"search\" aria-label=\"Site
+        search\">\n <label for=\"headerSearch\" class=\"sr-only\">Search</label>\n<input
+        id=\"headerSearch\" type=\"text\" name=\"query\" class=\"autocomplete form-control\"
+        placeholder=\"Search for news, symbols, or companies\" />\n<span id=\"mainAutocompleteList\"></span>\n<span
+        class=\"input-group-append position-relative\">\n<span id=\"headerSearchLoading\"
+        style=\"width: 20px; height: 20px; position: absolute; left: -1.7em; top:
+        0.4em; display: none;\"><img style=\"filter: brightness(1.5);\" src=\"/images/loading-gif.gif?v=2\"
+        alt=\"\"></span>\n<button class=\"gold-button\" type=\"submit\"><span class=\"mb-icon
+        icon-menu-search\" aria-label=\"Find Now\"></span><span class=\"pl-1 d-none
+        d-lg-inline\" aria-hidden=\"true\"> Find now </span><span class=\"d-none d-lg-inline-block
+        mb-icon icon-arrow\"></span></button>\n</span>\n</form>\n</div>\n</header>\n<div
+        class=\"main-menu-bar\">\n<div class=\"container\">\n<nav id=\"mega-menu\"
+        class=\"no-underline d-none d-lg-flex justify-content-between align-items-center\"
+        role=\"navigation\" aria-label=\"main menu\">\n<ul class=\"d-flex justify-content-between
+        w-100\">\n<li class=\"account has-submenu simplify-on-side\">\n<a href=\"/manage/watchlists/\">\n<span
+        class=\"pr-1 d-none d-lg-inline-block mb-icon icon-nav-my-marketbeat\"></span>My
+        MarketBeat</a>\n<ul class=\"purple-menu\">\n<li class=\"has-submenu\"><a href=\"/manage/watchlists/\"><span
+        class=\"pr-1 side-only mb-icon icon-nav-my-marketbeat\"></span>My MarketBeat</a>\n<ul>\n<li><a
+        class='wl-tab-change' href=\"/manage/watchlists/#portfolio\">My Portfolio</a></li>\n<li><a
+        class='wl-tab-change' href=\"/manage/watchlists/#statistics\">My Statistics</a></li>\n<li><a
+        class='wl-tab-change' href=\"/manage/watchlists/#headlines\">My Headlines</a></li>\n<li><a
+        class='wl-tab-change' href=\"/manage/watchlists/#calendar\">My Calendar</a></li>\n<li><a
+        class='wl-tab-change' href=\"/manage/watchlists/#ratings\">My Ratings</a></li>\n<li><a
+        class='wl-tab-change' href=\"/manage/watchlists/#insidertrades\">My Insider
+        Trades</a></li>\n<li><a class='wl-tab-change' href=\"/manage/watchlists/#earnings\">My
+        Earnings</a></li>\n<li><a class='wl-tab-change' href=\"/manage/watchlists/#secfilings\">My
+        SEC Filings</a></li>\n<li><a class='wl-tab-change' href=\"/manage/watchlists/#social\">My
+        Social</a></li>\n<li><a class='wl-tab-change' href=\"/manage/watchlists/#newsletter\">My
+        Newsletter</a></li>\n<li><a class='wl-tab-change' href=\"/manage/watchlists/#ideas\">My
+        Portfolio Ideas</a></li>\n</ul>\n</li>\n<li class=\"has-submenu\"><a href=\"/manage/\"><span
+        class=\"pr-1 side-only mb-icon icon-my-accountsettings\"></span>Account Settings</a>\n<ul>\n<li><a
+        href=\"/manage/alerts/\">My Alerts</a></li>\n<li><a href=\"/manage/subscriptions/\">My
+        Subscriptions</a></li>\n<li><a href=\"/manage/\">My Account Settings</a></li>\n<li><a
+        href=\"/manage/payments/\">My Payment Settings</a></li>\n<li><a href=\"/login/\">Log
+        In</a></li>\n</ul>\n</li>\n<li class=\"has-submenu deep-menu\"><a href=\"/all-access/\"><span
+        class=\"pr-1 side-only mb-icon icon-nav-researchtools\"></span>Premium Tools</a>\n<ul
+        class=\"purple-menu\">\n<li class=\"has-submenu\"><a href=\"/all-access/\">Research
+        Tools</a>\n<ul>\n<li><a href=\"/compare-stocks/\">Compare Stocks</a></li>\n<li><a
+        href=\"/ratingsdb/live/\">Live News Feed <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/manage/momentum-alerts/\">Momentum Alerts <span class=\"mb-icon icon-dynamic-ma-lock\"></span></a></li>\n<li><a
+        href=\"/ratingsdb/idea-engine/\">Idea Engine <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/ratingsdb/companies/\">Company Profiles <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/aap-data-export/\">Export Data (CSV) <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n</ul>\n</li>\n<li
+        class=\"has-submenu\">\n<a href=\"/ratingsdb/screener/\">Stock Screeners</a>\n<ul>\n<li><a
+        href=\"/ratingsdb/screener/\">Stock Screener <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/ratingsdb/etf-screener/\">ETF Screener <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/ratingsdb/\">Analyst Ratings Screener <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/ratingsdb/saved-searches/\">Saved Ratings Searches <span class=\"mb-icon
+        icon-dynamic-aa-lock\"></span></a></li>\n<li><a href=\"/dividends/screener/\">Dividend
+        Screener</a></li>\n<li><a href=\"/manage/earningsdb/\">Earnings Screener <span
+        class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a href=\"/manage/insidersdb/\">Insider
+        Trades Screener <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n</ul>\n</li>\n<li
+        class=\"has-submenu\"><a href=\"/ratingsdb/analyst-rankings/\">Top-Rated Analysts</a>\n<ul>\n<li><a
+        href=\"/ratingsdb/analyst-rankings/\">Top-Rated Analysts <span class=\"mb-icon
+        icon-dynamic-aa-lock\"></span></a></li>\n<li><a href=\"/ratingsdb/brokerage-rankings/\">Top-Rated
+        Brokerages <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n</ul>\n
+        </li>\n<li class=\"has-submenu\"><a href=\"/stocks/top-rated/\">Stock Lists</a>\n<ul>\n<li><a
+        href=\"/stocks/top-marketrank/\">Top MarketRank&trade; Stocks <span class=\"mb-icon
+        icon-dynamic-aa-lock\"></span></a></li>\n<li><a href=\"/stocks/trending/\">Trending
+        Stocks <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/stocks/top-rated/\">Top-Rated Stocks <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/dividends/top-rated-dividend-stocks/\">Top-Rated Dividend Stocks <span
+        class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a href=\"/stocks/top-rated-small-cap-stocks/\">Top-Rated
+        Small-Cap Stocks <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/stocks/top-rated-tech-stocks/\">Top-Rated Tech Stocks <span class=\"mb-icon
+        icon-dynamic-aa-lock\"></span></a></li>\n<li><a href=\"/stocks/lowest-rated/\">Lowest-Rated
+        Stocks <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/stocks/most-upgraded/\">Most-Upgraded Stocks <span class=\"mb-icon
+        icon-dynamic-aa-lock\"></span></a></li>\n<li><a href=\"/stocks/most-downgraded/\">Most-Downgraded
+        Stocks <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/ratingsdb/stocks-to-short/\">Stocks to Short <span class=\"mb-icon
+        icon-dynamic-aa-lock\"></span></a></li>\n</ul>\n</li>\n<li class=\"has-submenu\"><a
+        href=\"/aap-reports/\">Premium Reports</a>\n<ul>\n<li><a href=\"/aap-reports/\">All
+        Reports <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/ratings/stock-picks-from-top-rated-analysts/\">Stock Picks from Top
+        Analysts <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/insider-trades/insider-buying-stocks/\">Insider Buying Report <span
+        class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a href=\"/insider-trades/insider-selling-stocks/\">Insider
+        Selling Report <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/tradersguide/\">The Trader's Guide to Equities Research <span class=\"mb-icon
+        icon-dynamic-aa-lock\"></span></a></li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li
+        class=\"has-submenu\">\n<a href=\"/market-data/\"><span class=\"pr-1 mb-icon
+        icon-nav-calendars\"></span>Financial Calendars</a>\n<ul class=\"blue-menu\">\n<li
+        class=\"has-submenu\">\n<a href=\"/ratings/\">Analyst Ratings</a>\n<ul>\n<li><a
+        href=\"/ratings/us/\">U.S. Ratings</a></li>\n<li><a href=\"/ratings/uk/\">U.K.
+        Ratings</a></li>\n<li><a href=\"/ratings/canada/\">Canadian Ratings</a></li>\n<li><a
+        href=\"/ratings/europe/\">European Ratings</a></li>\n<li><a href=\"/stocks/\">Stock
+        Ratings by Company</a></li>\n<li><a href=\"/ratings/by-issuer/\">Stock Ratings
+        by Issuer</a></li>\n<li><a href=\"/ratingsdb/\">Stock Ratings Screener <span
+        class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a href=\"/stocks/lowest-rated/\">Lowest-Rated
+        Stocks <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/stocks/top-rated/\">Top-Rated Stocks <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/ratingsdb/analyst-rankings/\">Top-Rated Analysts <span class=\"mb-icon
+        icon-dynamic-aa-lock\"></span></a></li>\n<li><a href=\"/ratingsdb/brokerage-rankings/\">Top-Rated
+        Brokerages <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/stocks/most-upgraded/\">Most-Upgraded Stocks <span class=\"mb-icon
+        icon-dynamic-aa-lock\"></span></a></li>\n<li><a href=\"/stocks/most-downgraded/\">Most-Downgraded
+        Stocks <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/ratings/newsletter/\">Free Ratings Newsletter</a></li>\n</ul>\n</li>\n<li><a
+        href=\"/stock-buybacks/\">Corporate Buybacks</a></li>\n<li class=\"has-submenu\">\n<a
+        href=\"/dividends/\">Dividends</a>\n<ul>\n<li><a href=\"/dividends/announcements/\">Today's
+        Announcements</a></li>\n<li><a href=\"/dividends/ex-dividend-date-list/\">Ex-Dividend
+        Calendar</a></li>\n<li><a href=\"/dividends/increases/\">Dividend Increases</a></li>\n<li><a
+        href=\"/dividends/cuts/\">Dividend Cuts</a></li>\n<li><a href=\"/dividends/kings/\">Dividend
+        Kings</a></li>\n<li><a href=\"/dividends/achievers/\">Dividend Achievers</a></li>\n<li><a
+        href=\"/dividends/aristocrats/\">Dividend Aristocrats</a></li>\n<li><a href=\"/dividends/high-yield/\">High-Yield
+        Stocks</a></li>\n<li><a href=\"/dividends/monthly-dividend-payers/\">Monthly
+        Dividend Payers</a></li>\n<li><a href=\"/dividends/best-dividend-stocks/\">Most
+        Popular Dividend Stocks</a></li>\n<li><a href=\"/dividends/special/\">Special
+        Dividends</a></li>\n<li><a href=\"/dividends/screener/\">Dividend Screener</a></li>\n<li><a
+        href=\"/dividends/calculator/\">Dividend Calculator</a></li>\n<li><a href=\"/dividends/yield-calculator/\">Dividend
+        Yield Calculator</a></li>\n<li><a href=\"/dividends/top-rated-dividend-stocks/\">Top-Rated
+        Dividend Stocks <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/dividends/dividend-investing-guide/\">Dividend Investing Guide</a></li>\n
+        <li><a href=\"/dividends/subscribe/\">Free Dividend Newsletter</a></li>\n</ul>\n</li>\n<li
+        class=\"has-submenu\">\n<a href=\"/earnings/latest/\">Earnings</a>\n<ul>\n<li><a
+        href=\"/earnings/latest/\">Today's Announcements</a></li>\n<li><a href=\"/earnings/tomorrow/\">Tomorrow's
+        Announcements</a></li>\n<li><a href=\"/earnings/conference-calls/\">Conference
+        Calls</a></li>\n<li><a href=\"/earnings/beats-and-misses/\">Earnings Beats
+        &amp; Misses</a></li>\n<li><a href=\"/headlines/earnings/\">Earnings News</a></li>\n<li><a
+        href=\"/manage/earningsdb/\">Earnings Screener <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n</ul>\n</li>\n<li
+        class=\"has-submenu\">\n<a href=\"/economic-reports/upcoming/\">Economic Reports</a>\n<ul>\n<li><a
+        href=\"/economic-reports/upcoming/\">Upcoming Economic Reports</a></li>\n<li><a
+        href=\"/economic-reports/recent/\">Recent Economic Reports</a></li>\n<li><a
+        href=\"/headlines/economics/\">Economics News</a></li>\n</ul>\n</li>\n<li
+        class=\"has-submenu\">\n<a href=\"/insider-trades/\">Insider Trades</a>\n<ul>\n<li><a
+        href=\"/insider-trades/\">Today's Insider Trades</a></li>\n<li><a href=\"/insider-trades/ceo-share-buys-and-sales/\">CEO
+        Purchases/Sales</a></li>\n<li><a href=\"/insider-trades/cfo-share-buys-and-sales/\">CFO
+        Purchases/Sales</a></li>\n<li><a href=\"/insider-trades/insider-buying-stocks/\">Top
+        Insider Buying Stocks <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/insider-trades/insider-selling-stocks/\">Top Insider Selling Stocks
+        <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a href=\"/manage/insidersdb/\">Insider
+        Trades Screener <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        href=\"/insider-trades/subscribe/\">Insider Trades Newsletter</a></li>\n</ul>\n</li>\n<li
+        class=\"has-submenu\">\n<a href=\"/ipos/\">IPOs</a>\n<ul>\n<li><a href=\"/ipos/\">IPOs</a></li>\n<li><a
+        href=\"/ipos/lockup-expirations/\">Lockup Expirations</a></li>\n<li><a href=\"/ipos/quiet-period-expirations/\">Quiet
+        Period Expirations</a></li>\n<li><a href=\"/spos/\">Secondary Public Offerings
+        (SPOs)</a></li>\n</ul>\n</li>\n<li class=\"has-submenu\">\n<a href=\"/stock-market-holidays/\">Market
+        Holidays</a>\n<ul>\n<li><a href=\"/stock-market-holidays/\">U.S. Market Holidays</a></li>\n<li><a
+        href=\"/stock-market-holidays/canada/\">Canadian Market Holidays</a></li>\n<li><a
+        href=\"/stock-market-holidays/uk/\">U.K. Market Holidays</a></li>\n<li><a
+        href=\"/stock-market-holidays/australia/\">Australian Market Holidays</a></li>\n<li><a
+        href=\"/bond-market-holidays/\">U.S. Bond Market Holidays</a></li>\n<li><a
+        href=\"/bond-market-holidays/canada/\">Canadian Bond Market Holidays</a></li>\n</ul>\n</li>\n<li><a
+        href=\"/market-data/sec-filings/\">SEC Filings</a></li>\n<li><a href=\"/stock-splits/\">Stock
+        Splits</a></li>\n</ul>\n</li>\n<li class=\"has-submenu\">\n<a href=\"/market-data/\"><span
+        class=\"pr-1 mb-icon icon-nav-data\"></span>Market Data</a>\n<ul class=\"green-menu\">\n<li><a
+        href=\"/commodities/\">Commodities</a></li>\n<li class=\"has-submenu\"><a
+        href=\"/cryptocurrencies/\">Cryptocurrencies</a>\n<ul>\n<li><a href=\"/cryptocurrencies/watchlist/\">My
+        Cryptocurrency Portfolio</a></li>\n<li><a href=\"/cryptocurrencies/\">All
+        Cryptocurrencies</a></li>\n<li><a href=\"/cryptocurrencies/news/\">Cryptocurrency
+        Headlines</a></li>\n<li><a href=\"/cryptocurrencies/newsletter/\">Cryptocurrency
+        Newsletter</a></li>\n<li><a href=\"/market-data/sector-performance/cryptocurrencies/\">Cryptocurrency
+        Performance</a></li>\n</ul>\n</li>\n<li><a href=\"/currencies/\">Forex</a></li>\n<li><a
+        href=\"/market-indexes/\">Indices</a></li>\n<li class=\"has-submenu\"><a href=\"/market-data/52-week-highs/\">Stocks
+        - Highs &amp; Lows</a>\n<ul>\n<li><a href=\"/market-data/52-week-highs/\">52-Week
+        Highs</a></li>\n<li><a href=\"/market-data/52-week-lows/\">52-Week Lows</a></li>\n</ul>\n</li>\n<li
+        class=\"has-submenu\"><a href=\"/market-data/high-beta-stocks/\">Stocks -
+        High &amp; Low Beta</a>\n<ul>\n<li><a href=\"/market-data/high-beta-stocks/\">High
+        Beta Stocks</a></li>\n<li><a href=\"/market-data/low-beta-stocks/\">Low Beta
+        Stocks</a></li>\n<li><a href=\"/market-data/negative-beta-stocks/\">Negative
+        Beta Stocks</a></li>\n</ul>\n</li>\n<li class=\"has-submenu\"><a href=\"/market-data/biggest-percentage-gainers/\">Stocks
+        - Gainers &amp; Decliners</a>\n<ul>\n<li><a href=\"/market-data/biggest-percentage-gainers/\">Percentage
+        Gainers</a></li>\n<li><a href=\"/market-data/biggest-percentage-decliners/\">Percentage
+        Decliners</a></li>\n</ul>\n</li>\n<li class=\"has-submenu\"><a href=\"/market-data/gap-up-stocks/\">Stocks
+        - Gap Up &amp; Down</a>\n<ul>\n<li><a href=\"/market-data/gap-up-stocks/\">Gap
+        Up Stocks</a></li>\n<li><a href=\"/market-data/gap-down-stocks/\">Gap Down
+        Stocks</a></li>\n</ul>\n</li>\n<li class=\"has-submenu\"><a href=\"/market-data/low-pe-stocks/\">Stocks
+        - High &amp; Low PE</a>\n<ul>\n<li><a href=\"https://www.marketbeat.com/market-data/high-pe-stocks/\">High
+        PE Stocks</a></li>\n<li><a href=\"https://www.marketbeat.com/market-data/low-pe-stocks/\">Low
+        PE Stocks</a></li>\n<li><a href=\"https://www.marketbeat.com/market-data/high-pe-growth-stocks/\">High
+        PE Growth Stocks</a></li>\n<li><a href=\"https://www.marketbeat.com/market-data/low-pe-growth-stocks/\">Low
+        PE Growth Stocks</a></li>\n</ul>\n</li>\n<li class=\"has-submenu\"><a href=\"/market-data/low-priced-stocks/\">Stocks
+        - Low Priced</a>\n<ul>\n<li><a href=\"/market-data/low-priced-stocks/stocks-under-50-cents/\">Stocks
+        Under $0.50</a></li>\n<li><a href=\"/market-data/low-priced-stocks/stocks-under-1/\">Stocks
+        Under $1.00</a></li>\n<li><a href=\"/market-data/low-priced-stocks/stocks-under-2/\">Stocks
+        Under $2.00</a></li>\n<li><a href=\"/market-data/low-priced-stocks/stocks-under-5/\">Stocks
+        Under $5.00</a></li>\n<li><a href=\"/market-data/low-priced-stocks/\">Stocks
+        Under $10.00</a></li>\n<li><a href=\"/market-data/low-priced-stocks/stocks-under-20/\">Stocks
+        Under $20.00</a></li>\n<li><a href=\"/market-data/low-priced-stocks/stocks-under-30/\">Stocks
+        Under $30.00</a></li>\n<li><a href=\"/market-data/low-priced-stocks/stocks-under-50/\">Stocks
+        Under $50.00</a></li>\n<li><a href=\"/market-data/low-priced-stocks/stocks-on-sale/\">Stocks
+        On Sale</a></li>\n<li><a href=\"/types-of-stock/penny-stocks/most-popular/\">Top
+        Penny Stocks</a></li>\n</ul>\n</li>\n<li class=\"has-submenu\"><a href=\"/market-data/most-active-stocks/\">Stocks
+        - Most Active</a>\n<ul>\n<li><a href=\"/market-data/most-active-stocks/\">Most
+        Active Stocks</a></li>\n<li><a href=\"/market-data/most-volatile-stocks/\">Most
+        Volatile Stocks</a></li>\n<li><a href=\"/market-data/unusual-volume-stocks/\">Unusual
+        Trading Volume</a></li>\n<li><a href=\"/market-data/trading-halts/\">Trading
+        Halts</a></li>\n</ul>\n</li>\n<li class=\"has-submenu\"><a href=\"/courses/options-trading-from-scratch/1/\">Stocks
+        - Options</a>\n<ul>\n<li><a href=\"/market-data/unusual-call-options-volume/\">Unusual
+        Call Volume</a></li>\n<li><a href=\"/market-data/unusual-put-options-volume/\">Unusual
+        Put Volume</a></li>\n</ul>\n</li>\n <li class=\"has-submenu\"><a href=\"/market-data/sector-performance/\">Stocks
+        - Sector Performance</a>\n<ul>\n<li><a href=\"/market-data/sector-performance/\">U.S.
+        Sector Performance</a></li>\n<li><a href=\"/market-data/sector-performance/canada/\">Canadian
+        Sector Performance</a></li>\n<li><a href=\"/market-data/sector-performance/uk/\">U.K.
+        Sector Performance</a></li>\n<li><a href=\"/market-data/sector-performance/cryptocurrencies/\">Cryptocurrency
+        Performance</a></li>\n</ul>\n</li>\n<li class=\"has-submenu\"><a href=\"/short-interest/\">Stocks
+        - Short Interest</a>\n<ul>\n<li><a href=\"/short-interest/\">Largest Short
+        Positions</a></li>\n<li><a href=\"/short-interest/short-interest-increases/\">Largest
+        Increases in Short Interest</a></li>\n<li><a href=\"/short-interest/short-interest-decreases/\">Largest
+        Decreases in Short Interest</a></li>\n</ul>\n</ul>\n</li>\n<li class=\"has-submenu\">\n<a
+        href=\"/financial-terms/\"><span class=\"pr-1 mb-icon icon-my-subscriptions\"></span>Education</a>\n<ul
+        class=\"gold-menu\">\n<li class=\"has-submenu\"><a href=\"/types-of-stock/\">Types
+        of Stock</a>\n<ul>\n<li><a href=\"/types-of-stock/5g-stocks/\">5G Stocks</a></li>\n<li><a
+        href=\"/types-of-stock/biotech-stocks/\">Biotech Stocks</a></li>\n<li><a href=\"/types-of-stock/blue-chip-stocks/\">Blue-Chip
+        Stocks</a></li>\n<li><a href=\"/market-data/coronavirus-stocks/\">Coronavirus
+        Stocks</a></li>\n<li><a href=\"/market-data/election-stocks/\">Election Stocks</a></li>\n<li><a
+        href=\"/types-of-stock/electric-vehicle-stocks/\">EV Stocks</a></li>\n<li><a
+        href=\"/types-of-stock/faang-stocks/\">FAANG Stocks</a></li>\n<li><a href=\"/types-of-stock/gold-stocks/\">Gold
+        Stocks</a></li>\n<li><a href=\"/types-of-stock/large-cap-stocks/\">Large-Cap
+        Stocks</a></li>\n<li><a href=\"/types-of-stock/marijuana-stocks/\">Marijuana
+        Stocks</a></li>\n<li><a href=\"/types-of-stock/oil-stocks/\">Oil Stocks</a></li>\n<li><a
+        href=\"/types-of-stock/penny-stocks/\">Penny Stocks</a></li>\n<li><a href=\"/types-of-stock/preferred-stocks/\">Preferred
+        Stocks</a></li>\n<li><a href=\"/stocks/sectors/\">Stock Sectors</a></li>\n<li><a
+        href=\"/types-of-stock/special-purpose-acquisition-companies-spacs/\">SPACs</a></li>\n<li><a
+        href=\"/types-of-stock/real-estate-investment-trusts-reits/\">REITs</a></li>\n<li><a
+        href=\"/types-of-stock/warren-buffett-stocks/\">Warren Buffett Stocks</a></li>\n</ul>\n</li>\n
+        <li class=\"has-submenu\"><a href=\"/financial-terms/trading-strategy-methods/\">Other
+        Investments</a>\n<ul>\n<li><a href=\"/financial-terms/what-are-closed-end-mutual-funds/
+        \">Closed-End Funds</a></li>\n<li><a href=\"/commodities/#learnmore\">Commodities</a></li>\n<li><a
+        href=\"/financial-terms/what-are-cryptocurrencies/ \">Cryptocurrencies</a></li>\n<li><a
+        href=\"/financial-terms/what-is-exchange-traded-fund/ \">Exchange-Traded Funds</a></li>\n<li><a
+        href=\"/currencies/#learnmore\">Forex</a></li>\n<li><a href=\"/financial-terms/what-is-futures-contract/\">Futures
+        Contracts</a></li>\n<li><a href=\"/financial-terms/hedge-funds-how-they-work-investors/\">Hedge
+        Funds</a></li>\n<li><a href=\"/financial-terms/how-interest-rates-affect-municipal-bonds/\">Municipal
+        Bonds</a></li>\n<li><a href=\"/financial-terms/how-do-mutual-funds-work/\">Mutual
+        Funds</a></li>\n<li><a href=\"/financial-terms/understanding-options-trading/\">Options
+        Trading</a></li>\n<li><a href=\"/financial-terms/what-are-treasury-bonds/\">Treasury
+        Bonds</a></li>\n</ul>\n</li>\n<li class=\"has-submenu\"><a href=\"/financial-terms/trading-strategy-methods/\">Investing
+        Strategies</a>\n<ul>\n<li><a href=\"/financial-terms/what-is-the-definition-of-arbitrage/\">Arbitrage</a></li>\n<li><a
+        href=\"/financial-terms/what-is-a-cd-ladder/\">CD Ladder</a></li>\n<li><a
+        href=\"/financial-terms/guidelines-for-successful-channel-trading/\">Channel
+        Trading</a></li>\n<li><a href=\"/financial-terms/day-trading--risk-or-reward/
+        \">Day Trading</a></li>\n<li><a href=\"/financial-terms/diversification-investing/\">Diversification</a></li>\n<li><a
+        href=\"/financial-terms/what-is-dollar-cost-averaging/\">Dollar Cost Averaging</a></li>\n<li><a
+        href=\"/market-data/dogs-of-the-dow-stocks/#learnmore\">Dogs of the Dow</a></li>\n<li><a
+        href=\"/financial-terms/fundamental-analysis-stocks/\">Fundamental Analysis</a></li>\n<li><a
+        href=\"/financial-terms/what-is-green-investing/\">Green Investing</a></li>\n<li><a
+        href=\"/financial-terms/growth-stocks-what-they-are/\">Growth Stocks</a></li>\n<li><a
+        href=\"/how-to-buy-stock/\">How to Buy Stock</a></li>\n<li><a href=\"/financial-terms/what-are-the-benefits-of-market-timing/\">Market
+        Timing</a></li>\n<li><a href=\"/financial-terms/differences-monentum-investing-long-term-investing/\">Momentum
+        Investing</a></li>\n<li><a href=\"/financial-terms/what-are-popular-range-trading-strategies/\">Range
+        Trading</a></li>\n<li><a href=\"/retirement-calculator/\">Retirement Calculator</a></li>\n<li><a
+        href=\"/financial-terms/options-trading-what-is-a-straddle/\">Straddles</a></li>\n<li><a
+        href=\"/financial-terms/trading-options-what-is-a-strangle/\">Strangles</a></li>\n</ul>\n</li>\n<li
+        class=\"has-submenu\"><a href=\"/financial-terms/what-is-basic-economics/\">Economics</a>\n<ul>\n<li><a
+        href=\"/financial-terms/bear-market-how-they-occur/\">Bear Market</a></li>\n<li><a
+        href=\"/financial-terms/what-is-the-beige-book/\">Beige Book</a></li>\n<li><a
+        href=\"/financial-terms/how-to-invest-bull-market/\">Bull Market</a></li>\n<li><a
+        href=\"/financial-terms/what-is-consumer-price-index/\">Consumer Price Index</a></li>\n<li><a
+        href=\"/financial-terms/what-is-an-economic-bubble/\">Economic Bubbles</a></li>\n<li><a
+        href=\"/financial-terms/purpose-functions-federal-reserve/\">Federal Reserve</a></li>\n<li><a
+        href=\"/financial-terms/how-is-inflation-measured/\">Inflation</a></li>\n<li><a
+        href=\"/financial-terms/what-is-producer-price-index-ppi/\">Producer Price
+        Index</a></li>\n<li><a href=\"/short-interest/#learnmore\">Short Selling</a></li>\n<li><a
+        href=\"/financial-terms/what-is-trade-deficit/\">Trade Deficit</a></li>\n<li><a
+        href=\"/financial-terms/what-is-the-definition-of-trade-war/\">Trade Wars</a></li>\n<li><a
+        href=\"/financial-terms/what-is-yield-curve/\">Yield Curve</a></li>\n</ul>\n</li>\n<li
+        class=\"has-submenu\"><a href=\"/financial-terms/\">Financial Terms</a>\n<ul>\n<li><a
+        href=\"/market-data/high-beta-stocks/#learnmore\">Beta</a></li>\n<li><a href=\"/financial-terms/what-are-bollinger-bands/\">Bollinger
+        Bands</a></li>\n<li><a href=\"/financial-terms/what-is-candlestick-chart/\">Candlestick</a></li>\n<li><a
+        href=\"/financial-terms/investing-dividend-stocks/\">Dividend</a></li>\n<li><a
+        href=\"/financial-terms/earnings-per-share-eps-explained/ \">Earnings Per
+        Share</a></li>\n<li><a href=\"/market-indexes/#learnmore\">Indexes</a></li>\n<li><a
+        href=\"/financial-terms/market-capitalization-what-it-means/\">Market Capitalization</a></li>\n<li><a
+        href=\"/financial-terms/what-are-momentum-indicators-and-what-do-they-show/\">Momentum
+        Indicators</a></li>\n<li><a href=\"/market-data/low-pe-stocks/#learnmore\">Price
+        to Earnings</a></li>\n<li><a href=\"/financial-terms/how-is-a-price-target-determined/\">Price
+        Target</a></li>\n<li><a href=\"/financial-terms/what-is-return-on-assets/\">Return
+        on Assets</a></li>\n<li><a href=\"/financial-terms/calculate-return-on-equity/\">Return
+        on Equity</a></li>\n<li><a href=\"/financial-terms/return-on-investment-roi-defined/\">Return
+        on Investment</a></li>\n<li><a href=\"/market-data/sec-filings/#learnmore\">SEC
+        Filing</a></li>\n<li><a href=\"/stock-splits/#learnmore\">Stock Split</a></li>\n<li><a
+        href=\"/financial-terms/what-is-a-support-level/\">Support Level</a></li>\n
+        </ul>\n</li>\n<li class=\"has-submenu\"><a href=\"/credit-cards/\">Financial
+        Products</a>\n<ul>\n<li><a href=\"/credit-cards/\">Credit Cards</a></li>\n<li><a
+        href=\"/credit-cards/american-express-gold-credit-card/\">Amex Cards</a></li>\n<li><a
+        href=\"/credit-cards/capital-one-venture-card/\">Capital One Cards</a></li>\n<li><a
+        href=\"/credit-cards/chase-sapphire-reserve\">Chase Cards</a></li>\n</ul>\n</li>\n</ul>\n</li>\n<li
+        class=\"has-submenu\"><a href=\"/headlines/\">\n<span class=\"pr-1 mb-icon
+        icon-nav-headlines\"></span>Headlines</a>\n<ul class=\"red-menu shorter-list\">\n<li
+        class=\"has-submenu\"><a href=\"/originals/\">Featured Articles</a><ul class='limited-width-submenu'><li><a
+        href='/originals/packaging-corporation-of-america-a-good-buy-for-income-investors/'>Packaging
+        Corporation Of America A Good Buy For Income Investors\_</a></li><li><a href='/originals/simpson-manufacturing-co-inc-rockets-to-new-high-on-growth-outlook/'>Simpson
+        Manufacturing Co., Inc Rockets To New High On Growth Outlook\_</a></li><li><a
+        href='/originals/making-sense-of-teslas-nasdaq-tsla-earnings/'>Making Sense
+        Of Tesla\u2019s (NASDAQ: TSLA) Earnings</a></li><li><a href='/originals/should-albertsons-stock-be-in-your-shopping-cart/'>Should
+        Albertsons Stock be in Your Shopping Cart?</a></li><li><a href='/originals/3-stocks-with-bullish-macd-crossovers/'>3
+        Stocks With Bullish MACD Crossovers</a></li><li><a href='/originals/check-point-software-technologies-pulls-back-after-earnings-beat/'>Check
+        Point Software Technologies Pulls Back After Earnings Beat\_</a></li><li><a
+        href='/originals/kla-corp-stock-is-a-leading-chip-equipment-maker-play/'>KLA
+        Corp. Stock is a Leading Chip Equipment Maker Play </a></li><li><a href='/originals/the-top-3-metals-and-mining-stocks-to-buy-now/'>The
+        Top 3 Metals and Mining Stocks to Buy Now</a></li><li><a href='/originals/ups-delivers-results-shares-surge/'>UPS
+        Delivers Results, Shares Surge\_</a></li><li><a href='/originals/amazons-future-remains-bright-ahead-of-first-quarter-earnings/'>Amazon\u2019s
+        Future Remains Bright Ahead of First Quarter Earnings</a></li></ul> </li><li
+        class=\"has-submenu\"><a href=\"/slideshows/\">Investing Slideshows</a><ul
+        class='limited-width-submenu'><li><a href='/slideshows/7-stocks-that-still-have-upside-for-investors-to-buy/0.aspx'>7
+        Stocks That Still Have Upside For Investors to Buy</a></li><li><a href='/slideshows/7-precious-metals-stocks-that-will-keep-your-portfolio-on-trend/0.aspx'>7
+        Precious Metals Stocks That Will Keep Your Portfolio On Trend</a></li><li><a
+        href='/slideshows/7-bellweather-stocks-signaling-a-return-to-normal/0.aspx'>7
+        Bellwether Stocks Signaling a Return to Normal</a></li><li><a href='/slideshows/7-electric-vehicle-ev-stocks-that-are-ready-to-rebound/0.aspx'>7
+        Electric Vehicle (EV) Stocks That Are Ready to Rebound </a></li><li><a href='/slideshows/7-sports-betting-stocks-that-will-shine-beyond-march-madness/0.aspx'>7
+        Sports Betting Stocks That Will Shine Beyond March Madness</a></li><li><a
+        href='/slideshows/7-stocks-that-cathie-wood-is-buying-and-you-should-too/0.aspx'>7
+        Stocks That Cathie Wood is Buying And You Should Too</a></li><li><a href='/slideshows/7-internet-of-things-stocks-that-are-perfect-fit-to-our-connected-future/0.aspx'>7
+        Internet of Things Stocks That Are a Perfect Fit to Our Connected Future</a></li><li><a
+        href='/slideshows/7-undervalued-stocks-that-deserve-attention/0.aspx'>7 Undervalued
+        Stocks That Deserve More Attention</a></li><li><a href='/slideshows/7-semiconductor-stocks-set-to-gain-from-chip-shortage/0.aspx'>7
+        Semiconductor Stocks Set to Gain From the Chip Shortage</a></li><li><a href='/slideshows/7-great-dividend-stocks-to-buy-for-a-comfortable-retirement/0.aspx'>7
+        Great Dividend Stocks to Buy For a Comfortable Retirement</a></li><li><a href='/slideshows/7-penny-stocks-that-dont-care-about-robinhood/0.aspx'>7
+        Penny Stocks That Don\u2019t Care About Robinhood</a></li></ul></li>\n<li
+        class=\"has-submenu\"><a href=\"/headlines/\">News</a>\n<ul>\n<li><a href=\"/ratingsdb/live/\">Real-Time
+        News Feed <span class=\"mb-icon icon-dynamic-aa-lock\"></span></a></li>\n<li><a
+        rel=\"nofollow\" href=\"/headlines/economics/\">Economic News</a></li>\n<li><a
+        rel=\"nofollow\" href=\"/headlines/market-news/\">Market News</a></li>\n<li><a
+        rel=\"nofollow\" href=\"/headlines/technology/\">Technology News</a></li>\n<li><a
+        rel=\"nofollow\" href=\"/headlines/u-s/\">U.S. News</a></li>\n<li><a rel=\"nofollow\"
+        href=\"/headlines/canada/\">Canadian News</a></li>\n<li><a rel=\"nofollow\"
+        href=\"/headlines/world/\">World News</a></li>\n<li><a rel=\"nofollow\" href=\"/coronavirus/news/\">Coronavirus
+        News</a></li>\n<li><a rel=\"nofollow\" href=\"/instant-alerts/\">Instant News
+        Alerts</a></li>\n<li><a rel=\"nofollow\" href=\"/headlines/\">All Headlines</a></li>\n</ul>\n</li>\n</ul>\n</li>\n<li
+        class=\"has-submenu\">\n<a href=\"/about/\"><span class=\"pr-1 mb-icon icon-nav-about\"></span>About</a>\n<ul
+        class=\"gray-menu shorter-list\">\n<li class=\"menu-ad\">\n<div class=\"position-relative
+        gradient-blue c-white mb-3\">\n<div class=\"row\">\n<img style=\"right: 0;width:
+        33%;\" class=\"d-md-none position-absolute\" src=\"/images/Newsletter-phones-gfx-2.png\"
+        alt=\"\">\n<div class=\"col-md-9 col-lg-10 px-5 py-4\">\n<div class=\"d-md-none
+        w-25 float-right\" style=\"height: 86px;\"></div>\n<h2 class=\"mt-0\">Your
+        Ultimate Investing Toolkit </h2>\n<p>Sign up for MarketBeat All Access to
+        gain access to MarketBeat's full suite of research tools:</p>\n<div class=\"d-inline-block
+        w-50 px-3\">\n<ul class=\"gold-bullet-list\">\n<li>Portfolio Monitoring</li>\n<li>Top
+        Stock Lists</li>\n<li>Premium Reports</li>\n</ul>\n</div><div class=\"d-inline-block
+        w-50 px-3\">\n<ul class=\"gold-bullet-list\">\n<li>Stock Screeners</li>\n<li>Live
+        News Feed</li>\n<li>Premium Support</li>\n</ul>\n</div>\n<h3>Just $1.00 for
+        your first month.</h3>\n<a href=\"https://www.marketbeat.com/subscribe/subscribeallaccess.aspx?ProductCode=aap1997t&referraltype=inmenuad\"
+        class=\"sbbutton gold-button\">Click here to learn more <span class=\"mr-3
+        mb-icon icon-arrow\"></span></a>\n</div>\n<div class=\"col-md-3 col-lg-2\"
+        style=\"background-image: url(/images/Newsletter-phones-gfx.png);background-size:
+        cover;background-position: left;position: relative;right: 15px;\">\n</div>\n</div>\n</div>\n</li>\n<li
+        class=\"has-submenu\"><a href=\"/about/\">About</a>\n<ul>\n<li><a href=\"/about/\">About</a>\n<li><a
+        href=\"/press-room/\">Press Room</a></li>\n<li><a href=\"/faq/\">FAQ</a></li>\n<li><a
+        href=\"/financial-terms/\">Financial Terms</a></li>\n<li><a href=\"/help/\">Help
+        and How-To</a></li>\n<li><a href=\"/reviews/\">Customer Reviews</a></li>\n<li><a
+        href=\"/advertising/\">Advertising</a></li>\n<li><a href=\"/terms/\">Terms
+        of Service</a></li>\n<li><a href=\"/contact/\">Contact</a></li>\n</ul>\n</li>\n<li
+        class=\"has-submenu\"><a href=\"/compare-products/\">Products</a>\n<ul>\n<li><a
+        href=\"/compare-products/\">Compare Products</a></li>\n<li><a href=\"/ratings/newsletter/\">MarketBeat
+        Daily (Free)</a></li>\n<li><a href=\"https://www.marketbeat.com/subscribe/subscribemomentumalerts.aspx?ProductCode=ma97&ReferralType=WebNavigation\"
+        target=\"_blank\">MarketBeat Momentum Alerts ($)</a></li>\n<li><a href=\"https://www.marketbeat.com/subscribe/subscribe.aspx?ProductCode=1997&ReferralType=WebNavigation\"
+        target=\"_blank\">MarketBeat Daily Premium ($)</a></li>\n<li><a href=\"https://www.marketbeat.com/subscribe/subscribeallaccess.aspx?ProductCode=aap3997&ReferralType=WebNavigation\">MarketBeat
+        All Access ($)</a></li>\n<li><a href=\"/mobileapp/\">MarketBeat Mobile App</a></li>\n<li><a
+        href=\"/marketbeat-minute/\">MarketBeat Podcast</a></li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n</nav>\n\n</div>\n</div>\n</div>\n</div>\n<div
+        class=\"d-print-none py-2 bg-light-gray text-center\" role=\"complementary\"
+        aria-label=\"from our partners\">\n<div style=\"max-width: 1170px;margin:0
+        auto;\">\n<div id=\"pnlAdSenseHeader\">\n<div id=\"hideMobile1\">\n<script
+        async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<ins
+        class=\"adsbygoogle\" style=\"display:inline-block;min-width:320px;max-width:1170px;width:100%;height:100px\"
+        data-ad-client=\"ca-pub-9373162611283935\" data-full-width-responsive=\"true\"
+        data-ad-slot=\"8851128333\"></ins>\n<script>\r\n                                     (adsbygoogle
+        = window.adsbygoogle || []).push({});\r\n                                 </script>\n</div>\n</div>\n</div>\n</div>\n<main
+        class=\"container\">\n<article id=\"article\">\n<form method=\"post\" action=\"./\"
+        id=\"form1\">\n<div class=\"aspNetHidden\">\n<input type=\"hidden\" name=\"__EVENTTARGET\"
+        id=\"__EVENTTARGET\" value=\"\" />\n<input type=\"hidden\" name=\"__EVENTARGUMENT\"
+        id=\"__EVENTARGUMENT\" value=\"\" />\n<input type=\"hidden\" name=\"__VIEWSTATE\"
+        id=\"__VIEWSTATE\" value=\"/wEPDwUJNjI3NTMyNDI4ZGQIanW5VxbejGIHW20KLgUPXOhUdxM913T/ekOGDxwKDA==\"
+        />\n</div>\n<script type=\"text/javascript\">\r\n//<![CDATA[\r\nvar theForm
+        = document.forms['form1'];\r\nif (!theForm) {\r\n    theForm = document.form1;\r\n}\r\nfunction
+        __doPostBack(eventTarget, eventArgument) {\r\n    if (!theForm.onsubmit ||
+        (theForm.onsubmit() != false)) {\r\n        theForm.__EVENTTARGET.value =
+        eventTarget;\r\n        theForm.__EVENTARGUMENT.value = eventArgument;\r\n
+        \       theForm.submit();\r\n    }\r\n}\r\n//]]>\r\n</script>\n<div class=\"aspNetHidden\">\n<input
+        type=\"hidden\" name=\"__VIEWSTATEGENERATOR\" id=\"__VIEWSTATEGENERATOR\"
+        value=\"86FE48B1\" />\n<input type=\"hidden\" name=\"__EVENTVALIDATION\" id=\"__EVENTVALIDATION\"
+        value=\"/wEdAAXkX2JXScpos/0siLYyWAMy3Q4G0u5gdvRTLHb0+bEfenQo658hAh0LotAhxSAvsX/CJp4YdZv5/YvKvcsfDFks1295IA6yU8+6pR9WWgC5pc3mKi+0dXI/k2YCektmj6trex79eYFXXACvLV3GLj6Z\"
+        />\n</div>\n<h1 class=\"PageTitleHOne\">\nArcus Biosciences (NYSE:RCUS) Sees
+        Strong Trading Volume Following Insider Buying Activity\n</h1>\n<div style='padding-bottom:12px;font-size:21px;margin-top:-4px;'><script
+        async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><ins
+        class=\"adsbygoogle\" style=\"display:inline-block;width:728px;height:15px\"
+        data-ad-client=\"ca-pub-9373162611283935\" data-ad-slot=\"4152112820\"></ins><script>(adsbygoogle
+        = window.adsbygoogle || []).push({ });</script></div>\n<div class=\"row narrow-gutter-row
+        d-block d-md-flex\">\n<article class=\"col-all-but-336 article-page body-copy
+        lh-loose\" id=\"shareableArticle\">\n<div class=\"d-flex align-items-start
+        flex-wrap\" style=\"margin: -5px -6px 18px;\"><div id='shareButton' class='sbbutton
+        blue-button share-button text-left position-relative' style='flex: 1 0 200px;margin:0
+        5px 5px;'><div class='share-title'><span class='mb-icon icon-btn-share'></span>
+        Share <span class='mb-icon icon-arrow float-right'></span></div><span class='share-options
+        c-white d-flex justify-content-around align-items-center w-100 h-100 p-1'><a
+        title='share this article on Facebook' href=\"http://www.americanconsumernews.net/scripts/click.aspx?UserID=0&SocialShareVersion=2&SocialShare=https%3a%2f%2fwww.facebook.com%2fdialog%2fshare%3fapp_id%3d229098600454584%26display%3dpopup%26href%3dhttps%253a%252f%252fwww.marketbeat.com%252finstant-alerts%252fnyse-rcus-volume%2badvance-2021-04-2-3%252f\"
+        target=\"_blank\"><span class='mb-icon icon-share-facebook'></span></a><a
+        title='share this article on Twitter' href=\"http://www.americanconsumernews.net/scripts/click.aspx?UserID=0&SocialShareVersion=2&SocialShare=https%3a%2f%2ftwitter.com%2fintent%2ftweet%3ftext%3dArcus%2bBiosciences%2b(NYSE%253aRCUS)%2bSees%2bStrong%2bTrading%2bVolume%2bFollowing%2bInsider%2bBuying%2bActivity%2520https%253a%252f%252fwww.marketbeat.com%252finstant-alerts%252fnyse-rcus-volume%2badvance-2021-04-2-3%252f\"
+        target=\"_blank\"><span class='mb-icon icon-share-twitter'></span></a><a title='share
+        on LinkedIn' onclick=\"window.open('http://www.americanconsumernews.net/scripts/click.aspx?UserID=0&SocialShareVersion=2&SocialShare=https%3a%2f%2fwww.linkedin.com%2fcws%2fshare%3fmini%3dtrue%26url%3dhttps%253a%252f%252fwww.marketbeat.com%252finstant-alerts%252fnyse-rcus-volume%2badvance-2021-04-2-3%252f',
+        'name','width=600,height=600')\" href=\"http://www.americanconsumernews.net/scripts/click.aspx?UserID=0&SocialShareVersion=2&SocialShare=https%3a%2f%2fwww.linkedin.com%2fcws%2fshare%3fmini%3dtrue%26amp%3burl%3dhttps%253a%252f%252fwww.marketbeat.com%252finstant-alerts%252fnyse-rcus-volume%2badvance-2021-04-2-3%252f\"
+        target=\"popup\"><span class='mb-icon icon-share-linkedin'></span></a><a title='share
+        this article on Stocktwits' href=\"http://www.americanconsumernews.net/scripts/click.aspx?UserID=0&SocialShareVersion=2&SocialShare=https%3a%2f%2fapi.stocktwits.com%2fwidgets%2fshare%3fvia%3dMarketBeat%26amp%3bbody%3dArcus%2bBiosciences%2b(NYSE%253aRCUS)%2bSees%2bStrong%2bTrading%2bVolume%2bFollowing%2bInsider%2bBuying%2bActivity%2520https%253a%252f%252fwww.marketbeat.com%252finstant-alerts%252fnyse-rcus-volume%2badvance-2021-04-2-3%252f\"
+        target=\"_blank\"><span class='mb-icon icon-share-stocktwits'></span></a><a
+        title='print this article' href=\"javascript:window.print()\"><span class='mb-icon
+        icon-share-print'></span></a><a title='email the link to this article' href=\"/cdn-cgi/l/email-protection#c4fbb7b1a6aea1a7b0f985b6a7b1b7e1f6f486adabb7a7ada1aaa7a1b7e1f6f4ec8a9d9781e1f7a596879197ede1f6f497a1a1b7e1f6f497b0b6abaaa3e1f6f490b6a5a0adaaa3e1f6f492aba8b1a9a1e1f6f482aba8a8abb3adaaa3e1f6f48daab7ada0a1b6e1f6f486b1bdadaaa3e1f6f485a7b0adb2adb0bde2a5a9b4ffa6aba0bdf987aca1a7afe1f6f4abb1b0e1f6f4b0acadb7e1f6f4b7b0aba7afe1f785e1f6f4acb0b0b4b7e1f7a5e1f6a2e1f6a2b3b3b3eaa9a5b6afa1b0a6a1a5b0eaa7aba9e1f6a2adaab7b0a5aab0e9a5a8a1b6b0b7e1f6a2aabdb7a1e9b6a7b1b7e9b2aba8b1a9a1efa5a0b2a5aaa7a1e9f6f4f6f5e9f4f0e9f6e9f7e1f6a2e1f480e1f485e1f480e1f48582abb6e1f6f4b6a1a5a8e9b0ada9a1e1f6f4a2adaaa5aaa7ada5a8e1f6f4aaa1b3b7e1f6f4a5aaa0e1f6f4a5aaa5a8bdb7adb7e1f687e1f6f4b2adb7adb0e1f6f4acb0b0b4b7e1f785e1f682e1f682b3b3b3eaa9a5b6afa1b0a6a1a5b0eaa7aba9e1f682e1f6f4ea\"><span
+        class='mb-icon icon-share-email'></span></a></span></div><div class=\"bg-light-gray
+        bold font-8\" style=\"text-transform:uppercase;color:#656565;flex: 20 1 350px;padding:
+        9.7px 10px;border:solid 1px #fff;margin:0 5px 5px;line-height:1.2;min-height:
+        39.2px;\">Tuesday, April 27, 2021 <span class='c-blue'>|</span> MarketBeat</div></div>\n<div
+        id=\"cphPrimaryContent_articlecontent\" class=\"instantalert\">\n\n<p><img
+        src=\"https://www.marketbeat.com/logos/arcus-biosciences-inc-logo.jpg\" alt=\"Arcus
+        Biosciences logo\" title=\"Arcus Biosciences logo\" class=\"companylogo\"
+        />Shares of Arcus Biosciences, Inc. (NYSE:RCUS) saw strong trading volume
+        on Tuesday after an insider bought additional shares in the company. 25,002
+        shares were traded during mid-day trading, a decline of 95% from the previous
+        session's volume of 534,409 shares.The stock last traded at $34.38 and had
+        previously closed at $35.68.Specifically, Director Kathryn E. Falberg purchased
+        20,000 shares of the firm's stock in a transaction on Wednesday, March 31st.
+        The stock was bought at an average cost of $28.35 per share, with a total
+        value of $567,000.00. Following the completion of the acquisition, the director
+        now owns 80,504 shares of the company's stock, valued at approximately $2,282,288.40.
+        The transaction was disclosed in a document filed with the Securities &amp;
+        Exchange Commission, which is accessible through <a href='http://www.sec.gov/Archives/edgar/data/1206977/000120919121024405/xslF345X03/doc4.xml'
+        target='_blank'>this link</a>. Also, Director Yasunori Kaneko purchased 4,133
+        shares of the firm's stock in a transaction on Friday, April 23rd. The stock
+        was bought at an average cost of $31.37 per share, with a total value of $129,652.21.
+        Following the completion of the acquisition, the director now directly owns
+        6,717 shares of the company's stock, valued at approximately $210,712.29.
+        The disclosure for this purchase can be found <a href='http://www.sec.gov/Archives/edgar/data/1724521/000117911021004603/xslF345X03/edgar.xml'
+        target='_blank'>here</a>. Insiders have purchased 5,674,133 shares of company
+        stock valued at $221,046,652 in the last ninety days. Corporate insiders own
+        19.71% of the company's stock. </p><p>Several research analysts have recently
+        weighed in on RCUS shares. Cantor Fitzgerald upped their target price on Arcus
+        Biosciences from $39.00 to $62.00 and gave the stock an \"overweight\" rating
+        in a research note on Wednesday, January 13th. SVB Leerink reduced their target
+        price on Arcus Biosciences from $54.00 to $53.00 and set an \"outperform\"
+        rating for the company in a research note on Wednesday, March 3rd. Wedbush
+        upped their target price on Arcus Biosciences from $48.00 to $55.00 and gave
+        the stock an \"outperform\" rating in a research note on Tuesday, January
+        19th. Barclays boosted their price target on Arcus Biosciences from $40.00
+        to $45.00 and gave the stock an \"overweight\" rating in a research report
+        on Thursday, February 25th. Finally, <a style='font-weight:bold' href='https://www.zacks.com/registration/premium/login/?adid=AMERBMN_CONTENT_ZER'>Zacks
+        Investment Research</a> upgraded Arcus Biosciences from a \"sell\" rating
+        to a \"hold\" rating in a report on Thursday, March 4th. One investment analyst
+        has rated the stock with a hold rating and nine have issued a buy rating to
+        the company's stock. Arcus Biosciences presently has a consensus rating of
+        \"Buy\" and an average price target of $49.73.<script data-cfasync=\"false\"
+        src=\"/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js\"></script><script
+        async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><ins
+        class=\"adsbygoogle\" style=\"display: block\" data-ad-client=\"ca-pub-9373162611283935\"
+        data-ad-slot=\"8874367565\" data-ad-format=\"auto\"></ins><script>(adsbygoogle
+        = window.adsbygoogle || []).push({});</script></p><p>The company has a market
+        capitalization of $2.45 billion, a price-to-earnings ratio of -18.68 and a
+        beta of 1.26. The stock has a fifty day moving average price of $33.20 and
+        a two-hundred day moving average price of $30.20. </p><p>Arcus Biosciences
+        (NYSE:RCUS) last released its quarterly earnings results on Tuesday, February
+        23rd. The company reported ($0.82) earnings per share for the quarter, missing
+        the Zacks' consensus estimate of ($0.74) by ($0.08). The company had revenue
+        of $9.49 million during the quarter, compared to analyst estimates of $15.35
+        million. Arcus Biosciences had a negative return on equity of 27.43% and a
+        negative net margin of 112.63%. Equities research analysts predict that Arcus
+        Biosciences, Inc. will post -1.95 earnings per share for the current year.
+        </p><p>A number of hedge funds have recently bought and sold shares of RCUS.
+        California State Teachers Retirement System grew its position in Arcus Biosciences
+        by 29.3% during the third quarter. California State Teachers Retirement System
+        now owns 63,790 shares of the company's stock valued at $1,093,000 after acquiring
+        an additional 14,474 shares during the period. Pacer Advisors Inc. lifted
+        its stake in shares of Arcus Biosciences by 19.4% in the fourth quarter. Pacer
+        Advisors Inc. now owns 2,079 shares of the company's stock worth $54,000 after
+        acquiring an additional 338 shares in the last quarter. Strs Ohio raised its
+        stake in Arcus Biosciences by 46.9% during the fourth quarter. Strs Ohio now
+        owns 18,800 shares of the company's stock valued at $488,000 after buying
+        an additional 6,000 shares in the last quarter. Nisa Investment Advisors LLC
+        bought a new position in shares of Arcus Biosciences during the fourth quarter
+        valued at approximately $64,000. Finally, Zurcher Kantonalbank Zurich Cantonalbank
+        boosted its stake in Arcus Biosciences by 146.9% during the 4th quarter. Zurcher
+        Kantonalbank Zurich Cantonalbank now owns 7,797 shares of the company's stock
+        valued at $202,000 after purchasing an additional 4,639 shares in the last
+        quarter. 60.56% of the stock is owned by hedge funds and other institutional
+        investors. </p><p><strong>About Arcus Biosciences</strong> (<a href='https://www.marketbeat.com/stocks/NYSE/RCUS/'>NYSE:RCUS</a>)</p><p>Arcus
+        Biosciences, Inc, a clinical-stage biopharmaceutical company, develops and
+        commercializes cancer therapies in the United States. Its product pipeline
+        includes, Etrumadenant, a dual A2a/A2b adenosine receptor antagonist, which
+        is in a Phase 1b/2 clinical trial; and Zimberelimab, an anti-PD-1 antibody
+        that is in Phase 1b clinical trial for monotherapy.</p><p>Featured Article:
+        <a href='https://www.marketbeat.com/financial-terms/what-is-operating-income/'>What
+        is operating income?</a></p><p><em>This instant news alert was generated by
+        narrative science technology and financial data from MarketBeat in order to
+        provide readers with the fastest and most accurate reporting. This story was
+        reviewed by MarketBeat's editorial team prior to publication. Please send
+        any questions or comments about this story to <a href=\"/cdn-cgi/l/email-protection\"
+        class=\"__cf_email__\" data-cfemail=\"c8aba7a6bca9abbc88a5a9baa3adbcaaada9bce6aba7a5e6\">[email&#160;protected]</a></em></p><p><strong>Featured
+        Article: </strong> <a href='https://www.marketbeat.com/financial-terms/what-does-market-perform-rating-mean/'>Market
+        Perform </a></p><br /><br /><a style='text-decoration:none;font-weight:bold;color:#444;font-size:18pt;'
+        href='/slideshows/7-semiconductor-stocks-set-to-gain-from-chip-shortage/1.aspx?utm_source=BottomOfArticle&utm_medium=WebsiteInternal&utm_campaign=7-semiconductor-stocks-set-to-gain-from-chip-shortage'>7
+        Semiconductor Stocks Set to Gain From the Chip Shortage</a><br /><br />Who
+        knew that something so tiny could create such a big problem? However, that\u2019s
+        the case with the semiconductor industry. Chip manufacturers are facing supply
+        chain disruptions due to the Covid-19 pandemic.\n<br /><br />\nSemiconductors
+        are in high demand for the big tech companies who need the chips to power
+        the servers for their data centers. But they are also needed for much of the
+        technology we take for granted including laptops, tablets, mobile phones,
+        gaming consoles, and automobiles \u2013 a sector that seems to be at the root
+        of the current crisis.\n<br /><br />\nAny weekend mechanic knows that even
+        traditional internal combustion cars are heavily reliant on electronics. In
+        fact, electronic parts and components account for 40% of a new, internal combustion
+        vehicle. That\u2019s more than doubled since 2000.\n<br /><br />\nHowever
+        as it turns out, some manufacturers may have overestimated how soon consumers
+        would be ready for an \u201Call-electric\u201D future. And that meant that
+        they didn\u2019t forecast how much demand there would be for the kind of chips
+        needed to do the mundane, but vital tasks of steering, braking, and even powering
+        windows up and down.\n<br /><br />\nPart of the problem is that U.S. businesses
+        are heavily reliant on countries like China and Taiwan for their semiconductors.
+        In fact, only about 12.5% of semiconductor manufacturing is done in the United
+        States.\n<br /><br />\nOf course, this creates a tremendous opportunity for
+        the companies that manufacture these chips. And it comes at a good time. The
+        semiconductor sector is notoriously cyclical and was coming down from the
+        elevated demand for the 5G buildout.\n<br /><br />\nIn this special presentation,
+        we\u2019ll give you a list of seven semiconductor companies that you can invest
+        in to take advantage of this opportunity.\n<br /><br /><a style='font-weight:normal'
+        href='/slideshows/7-semiconductor-stocks-set-to-gain-from-chip-shortage/1.aspx?utm_source=BottomOfArticle&utm_medium=WebsiteInternal&utm_campaign=7-semiconductor-stocks-set-to-gain-from-chip-shortage'>View
+        the \"7 Semiconductor Stocks Set to Gain From the Chip Shortage\"</a>.<br
+        /><br /><div style='height:80px !important;'><script data-cfasync=\"false\"
+        src=\"/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js\"></script><script
+        async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><ins
+        class=\"adsbygoogle\" style=\"display:inline-block;width:100%;height:80px\"
+        data-ad-client=\"ca-pub-9373162611283935\" data-ad-slot=\"6444902546\"></ins><script>(adsbygoogle
+        = window.adsbygoogle || []).push({});</script></div><br />\n\n<div id=\"F20WidgetContainer\"></div>\n<script
+        type=\"text/javascript\">\r\n        window._F20 = window._F20 || [];\r\n
+        \       _F20.push({ container: 'F20WidgetContainer', placement: '', count:
+        3 });\r\n        _F20.push({ finish: true });\r\n    </script>\n\n</div>\n<script
+        type='text/javascript'>document.write('<img src=\"https://www.american' +
+        'consumernews.net/scripts/standalone/ViewCount.ashx?type=j&id=4701343&referrer='
+        + encodeURIComponent(document.referrer) + '\" alt=\"\" />');</script>\n<div
+        style=\"clear:both;height:10px;\"></div>\n<div class=\"hidden-print\">\n<iframe
+        width=\"100%\" height=\"600\" scrolling=\"no\" frameborder=\"no\" src=\"https://www.marketbeat.com/scripts/MoreOnMarketBeatArticlePage.aspx\"
+        title=\"More content from MarketBeat\"></iframe>\n</div>\n</article>\n\n<div
+        class=\"col-336 hidden-print\">\n\n<div class=\"col-336-sm col-md-12\">\n<div>\n<script
+        async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n\n<ins
+        class=\"adsbygoogle\" style=\"display:block\" data-ad-client=\"ca-pub-9373162611283935\"
+        data-ad-slot=\"3239447836\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins>\n<script>\r\n
+        \   (adsbygoogle = window.adsbygoogle || []).push({});\r\n</script>\n</div>\n<div>\n<iframe
+        src=\"https://marketbeat.com/scripts/MoreOnMarketBeat.aspx?PlaceOnArticlePage=1\"
+        width=\"336\" height=\"600\" frameborder=\"no\" title=\"More content from
+        MarketBeat sidebar\"></iframe>\n</div>\n<div id=\"cphPrimaryContent_pnlSignUp\"
+        onkeypress=\"javascript:return WebForm_FireDefaultButton(event, &#39;cphPrimaryContent_btnSubmit&#39;)\"
+        style=\"margin:15px 0\">\n<div class=\"gradient-purple c-white p-3 m-0\" style=\"max-width:
+        100%; margin: 0;\">\n<div class=\"h3 mt-0\">Free Email Newsletter</div>\n<p>Complete
+        the form below to receive the latest headlines and analysts' recommendations
+        for your stocks with our free daily email newsletter:</p>\n<label class=\"sr-only\"
+        for=\"cphPrimaryContent_BelowPostRegistrationEmail\">Email Address</label>\n<input
+        name=\"ctl00$cphPrimaryContent$BelowPostRegistrationEmail\" type=\"text\"
+        id=\"cphPrimaryContent_BelowPostRegistrationEmail\" class=\"w-100 b-white\"
+        name=\"RegisterEmail\" placeholder=\"Your Email Address\" />\n<input type=\"submit\"
+        name=\"ctl00$cphPrimaryContent$btnSubmit\" value=\"Sign-Up Now (Free)\" onclick=\"return
+        CheckEmail(&#39;cphPrimaryContent_BelowPostRegistrationEmail&#39;, &#39;ShowSuggestionFooter&#39;);\"
+        id=\"cphPrimaryContent_btnSubmit\" class=\"w-100\" />\n<div id=\"ShowSuggestionFooter\"></div>\n</div>\n</div>\n</div>\n<div
+        class=\"col-all-but-336-sm col-md-12\">\n<h2 class='h3 gradient-gold c-white
+        p-3 m-0'>Most Read This Week</h2><ul><li><a href='/originals/3-bounce-back-stock-candidates-to-watch/'>3
+        Bounce-Back Stock Candidates to Watch</a></li><li><a href='/originals/3-high-quality-dividend-payers-about-to-increase-their-payouts/'>3
+        High-Quality Dividend Payers About To Increase Their Payouts </a></li><li><a
+        href='https://www.insidertrades.com/education/3-small-caps-insiders-are-buying-in-large-quantities/'>3
+        Small-Caps Insiders are Buying in Large Quantities</a></li><li><a href='/originals/3-healthy-pharmaceutical-stocks-to-buy-now/'>3
+        Healthy Pharmaceutical Stocks to Buy Now</a></li><li><a href='/originals/why-you-should-buy-ford-nyse-f-stock/'>Why
+        You Should Buy Ford (NYSE: F) Stock</a></li><li><a href='/originals/bitcoin-corrects-27-oh-no-or-why-its-time-to-buy-bitcoin/'>Bitcoin
+        Corrects 27%, Oh No! (or Why It\u2019s Time To Buy Bitcoin)</a></li><li><a
+        href='/originals/the-top-3-metals-and-mining-stocks-to-buy-now/'>The Top 3
+        Metals and Mining Stocks to Buy Now</a></li><li><a href='/originals/3-stocks-approaching-possible-breakout-points/'>3
+        Stocks Approaching Possible Breakout Points </a></li><li><a href='/originals/3-gold-stocks-that-could-regain-their-luster/'>3
+        Gold Stocks That Could Regain Their Luster</a></li><li><a href='/originals/is-roku-setting-up-for-next-big-price-move/'>Is
+        Roku Setting Up For Next Big Price Move?</a></li></ul><h2 class='h3 gradient-green
+        c-white p-3 m-0'>Recent Articles</h2><ul><li><a href='/originals/3-undervalued-reits-to-add-to-your-portfolio/'>3
+        Undervalued REITs to Add to Your Portfolio</a></li><li><a href='/originals/humana-is-a-good-stock-that-looks-properly-valued/'>Humana
+        is a Good Stock That Looks Properly Valued </a></li><li><a href='/originals/packaging-corporation-of-america-a-good-buy-for-income-investors/'>Packaging
+        Corporation Of America A Good Buy For Income Investors\_</a></li><li><a href='/originals/simpson-manufacturing-co-inc-rockets-to-new-high-on-growth-outlook/'>Simpson
+        Manufacturing Co., Inc Rockets To New High On Growth Outlook\_</a></li><li><a
+        href='/originals/making-sense-of-teslas-nasdaq-tsla-earnings/'>Making Sense
+        Of Tesla\u2019s (NASDAQ: TSLA) Earnings</a></li><li><a href='/originals/should-albertsons-stock-be-in-your-shopping-cart/'>Should
+        Albertsons Stock be in Your Shopping Cart?</a></li><li><a href='/originals/3-stocks-with-bullish-macd-crossovers/'>3
+        Stocks With Bullish MACD Crossovers</a></li><li><a href='/originals/check-point-software-technologies-pulls-back-after-earnings-beat/'>Check
+        Point Software Technologies Pulls Back After Earnings Beat\_</a></li><li><a
+        href='/originals/kla-corp-stock-is-a-leading-chip-equipment-maker-play/'>KLA
+        Corp. Stock is a Leading Chip Equipment Maker Play </a></li><li><a href='/originals/the-top-3-metals-and-mining-stocks-to-buy-now/'>The
+        Top 3 Metals and Mining Stocks to Buy Now</a></li></ul>\n<div id=\"cphPrimaryContent_pnlHeadlinesSearch\"
+        class=\"gradient-blue c-white p-3 mb-3\" onkeypress=\"javascript:return WebForm_FireDefaultButton(event,
+        &#39;cphPrimaryContent_btnHeadlinesSearch&#39;)\">\n<div class=\"h3 mt-0\">Search
+        Headlines:</div>\n<div class=\"input-group dark-bkg\">\n<label class=\"sr-only\"
+        for=\"cphPrimaryContent_txtHeadlinesSearch\">Search Articles</label>\n<input
+        name=\"ctl00$cphPrimaryContent$txtHeadlinesSearch\" id=\"cphPrimaryContent_txtHeadlinesSearch\"
+        class=\"form-control\" type=\"text\" name=\"headlinequery\" placeholder=\"Find
+        an Article\" />\n<span class=\"input-group-append\"><a id=\"cphPrimaryContent_btnHeadlinesSearch\"
+        title=\"submit search\" class=\"sbbutton small-button\" href=\"javascript:__doPostBack(&#39;ctl00$cphPrimaryContent$btnHeadlinesSearch&#39;,&#39;&#39;)\"><span
+        class='mb-icon icon-menu-search' aria-label='search headlines button'></span></a></span>\n</div>\n</div>\n<div
+        class=\"gradient-gold c-white p-3\">\n<div class=\"h3 mt-0\">MarketBeat Minute
+        Podcast</div>\n<p>Each market day you'll get a one-minute market summary to
+        help you invest wisely.</p>\n<a href=\"https://www.buzzsprout.com/1633477\"
+        class=\"sbbutton blue-button w-100\" target=\"_blank\">Subscribe to MarketBeat
+        Minute</a>\n</div>\n<br />\n</div>\n</div>\n</div>\n<script type=\"text/javascript\"
+        src=\"https://platform.twitter.com/widgets.js\"></script>\n<script type='text/javascript'>var
+        maxImages = 0;</script>\n<script type=\"text/javascript\">\r\n    var currentImage
+        = 0;\r\n    function nextImage() {\r\n        var carousel = document.getElementById(\"pCarousel\"
+        + currentImage);\r\n        carousel.style.display = 'none';\r\n\r\n        currentImage++;\r\n
+        \       if (currentImage == maxImages) {\r\n            currentImage = 0;\r\n
+        \       }\r\n        carousel = document.getElementById(\"pCarousel\" + currentImage);\r\n
+        \       carousel.style.display = 'block';\r\n        return false;\r\n    }\r\n\r\n
+        \   function prevImage() {\r\n        var carousel = document.getElementById(\"pCarousel\"
+        + currentImage);\r\n        carousel.style.display = 'none';\r\n\r\n        currentImage--;\r\n
+        \       if (currentImage < 0) {\r\n            currentImage = maxImages -
+        1;\r\n        }\r\n        carousel = document.getElementById(\"pCarousel\"
+        + currentImage);\r\n        carousel.style.display = 'block';\r\n        return
+        false;\r\n    }\r\n      </script>\n<div id=\"cphScripts_pnlInstantAlertStatCounter\">\n\n<script
+        type=\"text/javascript\">\r\n    var sc_project = 12252990;\r\n    var sc_invisible
+        = 1;\r\n    var sc_security = \"30d4b434\";\r\n    var sc_https = 1; \r\n</script>\n<script
+        type=\"text/javascript\" src=\"https://www.statcounter.com/counter/counter.js\"></script>\n<noscript><div
+        class=\"statcounter\"><a title=\"Web Analytics  Made Easy - StatCounter\"
+        href=\"https://statcounter.com/\" target=\"_blank\"><img class=\"statcounter\"
+        src=\"https://c.statcounter.com/12252990/0/30d4b434/1/\" alt=\"Web Analytics
+        Made Easy -StatCounter\"></a></div></noscript>\n\n</div>\n<div id=\"pnlAllAccessTrial\">\n<a
+        href=\"https://www.marketbeat.com/subscribe/subscribeallaccess.aspx?ProductCode=aap1997t&referraltype=footerfullwidth\"
+        style=\"font-weight:normal\">\n<div class=\"position-relative gradient-blue
+        c-white my-3\">\n<div class=\"row\">\n<img style=\"right: 0;width: 33%;\"
+        class=\"d-md-none position-absolute\" src=\"/images/Newsletter-phones-gfx-2.png\"
+        alt=\"\">\n<div class=\"col-md-7 col-lg-8 px-5 py-4\">\n<div class=\"d-md-none
+        w-25 float-right\" style=\"height: 86px;\"></div>\n<h2 class=\"mt-0\">30 Days
+        of MarketBeat All Access for $1.00</h2>\n<p>Sign up for MarketBeat All Access
+        to gain access to MarketBeat's full suite of research tools:</p>\n<ul class=\"gold-bullet-list\">\n<li><b>Best-in-Class
+        Portfolio Monitoring</b>\n<p>View the latest news, buy/sell ratings, SEC filings
+        and insider transactions for your stocks. Compare your portfolio performance
+        to leading indices and get personalized stock ideas based on your portfolio.</p>\n
+        </li>\n<li><b>Stock Ideas and Recommendations</b>\n<p>Get daily stock ideas
+        top-performing Wall Street analysts. Get short term trading ideas from the
+        MarketBeat Idea Engine. View which stocks are hot on social media with MarketBeat's
+        trending stocks report.</p>\n</li>\n<li><b>Advanced Stock Screeners and Research
+        Tools</b>\n<p>Identify stocks that meet your criteria using seven unique stock
+        screeners. See what's happening in the market right now with MarketBeat's
+        real-time news feed. Export data to Excel for your own analysis. </p>\n</li>\n</ul>\n<span
+        class=\"sbbutton gold-button\">Start Your Risk-Free Trial Subscription Here
+        <span class=\"mr-3 mb-icon icon-arrow\"></span></span>\n</div>\n<div class=\"col-md-5
+        col-lg-4\" style=\"background-image: url(/images/Newsletter-phones-gfx.png);background-size:
+        cover;background-position: left;position: relative;right: 15px;\">\n</div>\n</div>\n</div>\n</a>\n</div>\n<div
+        id=\"HelpersArea\" style=\"opacity:0;transition:opacity .5s;position:relative;z-index:1001;\">\n<div
+        id=\"pnlHelpers\" class=\"multi-collapse-outer shadow collapse\" style=\"position:
+        fixed;right: 10px;bottom: 10px; width: 310px; background-color: #fff;z-index:
+        400;\">\n</div>\n</div>\n<script src=\"/WebResource.axd?d=y-defTr67b40d5RaDSh60_XCN13mGJVli7CCvr5K2zbYhn8fXsE9NkBYyi4IjySAZGTIBX-YWgN04VpuQ01JcJ6uaSWXHvOmT_jben-DoMU1&amp;t=637352798110221559\"
+        type=\"text/javascript\"></script>\n</form>\n</article>\n</main>\n<div class=\"d-print-none\">\n<div
+        class=\"container mb-4\" role=\"complementary\" aria-labelledby=\"footerResources\">\n<div
+        class=\"bg-white p-2 shadow\">\n<h2 class=\"my-1\" id=\"footerResources\">Resources</h2>\n<div
+        class=\"row narrow-gutter-row\">\n<div class=\"col-lg-4 py-1\">\n<div class=\"row
+        align-items-center m-0 gradient-green c-white p-3 h-100\">\n<div class=\"col-sm-3
+        col-lg-12 col-xl-4 order-sm-12 order-lg-1 order-xl-12 text-md-right text-lg-left
+        text-xl-right pb-2\">\n<img style=\"max-width:150px;\" src=\"/images/icon-resources-laptop-phone.svg\"
+        alt=\"\" />\n</div>\n<div class=\"col-sm-9 col-lg-12 col-xl-8 order-sm-1 order-lg-12
+        order-xl-1\">\n<h3 class=\"m-0 h2\" style=\"font-size:1.5rem\">Premium Research
+        Tools</h3>\n<p>MarketBeat All Access subscribers can access stock screeners,
+        the Idea Engine, data export tools, research reports, and other premium tools.</p>\n<a
+        href=\"/subscribe/subscribeallaccess.aspx?ProductCode=aap1997t&referraltype=footercolumn\"
+        class=\"sbbutton blue-button d-block d-sm-inline-block\" aria-label=\"Learn
+        more about All Access Tools\">Learn More <span class=\"mb-icon icon-arrow\"></span></a>\n</div>\n</div>\n</div>\n<div
+        class=\"col-lg-4 py-1\">\n <div class=\"row align-items-center m-0 gradient-purple
+        c-white p-3 h-100\">\n<div class=\"col-sm-3 col-lg-12 col-xl-4 order-sm-12
+        order-lg-1 order-xl-12 text-md-right text-lg-left text-xl-right pb-2\">\n<img
+        style=\"max-width:150px;\" src=\"/images/icon-resources-calendar.svg\" alt=\"\"
+        />\n</div>\n<div class=\"col-sm-9 col-lg-12 col-xl-8 order-sm-1 order-lg-12
+        order-xl-1\">\n<h3 class=\"m-0 h2\" style=\"font-size:1.5rem\">Market Data
+        and Calendars</h3>\n<p>Looking for new stock ideas? Want to see which stocks
+        are moving? View our full suite of financial calendars and market data tables,
+        all for free.</p>\n<a href=\"/market-data/\" class=\"sbbutton blue-button
+        d-block d-sm-inline-block\">View Market Data <span class=\"mb-icon icon-arrow\"></span></a>\n</div>\n</div>\n</div>\n<div
+        class=\"col-lg-4 py-1\">\n<div class=\"row align-items-center m-0 gradient-gold
+        c-white p-3 h-100\">\n<div class=\"col-sm-3 col-lg-12 col-xl-4 order-sm-12
+        order-lg-1 order-xl-12 text-md-right text-lg-left text-xl-right pb-2\">\n<img
+        style=\"max-width:150px;\" src=\"/images/icon-resources-book.svg\" alt=\"\"
+        />\n</div>\n<div class=\"col-sm-9 col-lg-12 col-xl-8 order-sm-1 order-lg-12
+        order-xl-1\">\n<h3 class=\"m-0 h2\" style=\"font-size:1.5rem\">Investing Education
+        and Resources</h3>\n<p>Receive a free world-class investing education from
+        MarketBeat. Learn about financial terms, types of investments, trading strategies
+        and more.</p>\n<a href=\"/financial-terms/\" class=\"sbbutton blue-button
+        d-block d-sm-inline-block\" aria-label=\"Investing education and resources\">Learn
+        More <span class=\"mb-icon icon-arrow\"></span></a>\n</div>\n</div>\n</div>\n</div>\n</div>\n<span
+        class=\"hpageview\"><a href=\"https://www.marketbeat.com/pages/pageview.aspx\">Learn
+        more</a></span>\n</div>\n<div class=\"d-print-none py-2 bg-light-gray text-center\"
+        role=\"complementary\" aria-label=\"third party offer\">\n<div style=\"max-width:
+        1170px;margin:0 auto;\">\n<div id=\"pnlAdsenseFooter\">\n<script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<ins
+        class=\"adsbygoogle\" style=\"display: block; text-align:center;\" data-ad-client=\"ca-pub-9373162611283935\"
+        data-ad-slot=\"7603903536\" data-ad-format=\"auto\"></ins>\n<script>\r\n                            (adsbygoogle
+        = window.adsbygoogle || []).push({});\r\n                        </script>\n</div>\n</div>\n</div>\n<footer
+        role=\"contentinfo\">\n<div class=\"gradient-purple c-white\" style=\"position:relative\">\n<div
+        class=\"featured-in container\">\n<div class=\"d-lg-flex justify-content-center
+        align-items-center py-2\">\n<p class=\"h2 pt-2 m-0 mb-2 text-center\" style=\"font-size:
+        1.4rem;\">As Featured By:</p>\n<div class=\"text-center px-3\">\n<span class=\"mb-icon
+        icon-featured-aaii\" role=\"img\" title=\"American Association of Individual
+        Investors\"></span>\n<span class=\"mb-icon icon-featured-barrons\" role=\"img\"
+        title=\"Barron's\"></span>\n<span class=\"mb-icon icon-featured-entrepreneur\"
+        role=\"img\" title=\"Entrepreneur Magazine\"></span>\n<span class=\"mb-icon
+        icon-featured-forbes\" role=\"img\" title=\"Forbes\"></span>\n<span class=\"mb-icon
+        icon-featured-inc\" role=\"img\" title=\"Inc. Magazine\"></span>\n<span class=\"mb-icon
+        icon-featured-investing\" role=\"img\" title=\"Investing.com\"></span>\n<span
+        class=\"mb-icon icon-featured-prairie-business\" role=\"img\" title=\"Prairie
+        Business\"></span>\n<span class=\"mb-icon icon-featured-seeking-alpha\" role=\"img\"
+        title=\"Seeking Alpha\"></span>\n</div>\n</div>\n</div>\n<img style=\"position:
+        absolute;right: 0;bottom: 0;max-width:100px;\" src=\"/images/corner-gfx-dark-bkg.svg\"
+        aria-hidden=\"true\" alt=\"\" />\n<img style=\"transform:scaleX(-1);position:
+        absolute;left: 0;bottom: 0;max-width:100px;\" src=\"/images/corner-gfx-dark-bkg.svg\"
+        aria-hidden=\"true\" alt=\"\" />\n</div>\n<div class=\"bg-white\" style=\"font-size:.9em\">\n<div
+        class=\"container\">\n<div class=\"row py-4\">\n<div class=\"col-8 col-sm-4
+        col-lg-3 mb-2\">\n<img src=\"/images/logo-marketbeat-color.svg\" alt=\"MarketBeat
+        - Stock Market News and Research Tools logo\">\n</div>\n<div class=\"border-sm-left
+        b-blue col-sm-8 col-lg-9 border-md-left b-dark-blue border-md-xs-none\">\n<p>MarketBeat
+        empowers individual investors to make better trading decisions by providing
+        real-time financial data and objective market analysis. Whether you\u2019re
+        looking for analyst ratings, corporate buybacks, dividends, earnings, economic
+        reports, financials, insider trades, IPOs, SEC filings or stock splits, MarketBeat
+        has the objective information you need to analyze any stock. <a href=\"/about/\"
+        aria-label=\"Learn more about MarketBeat\">Learn more.</a></p>\n<p class=\"footer-follow
+        no-underline m-0\">\n<span>\n<a href=\"https://twitter.com/MarketBeatCom\"
+        title=\"Follow us on Twitter\" target=\"_blank\">\n<span class=\"mb-icon icon-share-twitter\"></span>\n</a>\n<a
+        href=\"https://www.facebook.com/marketbeatcom/\" title=\"Follow us on Facebook\"
+        target=\"_blank\">\n<span class=\"mb-icon icon-share-facebook\"></span>\n</a>\n<a
+        href=\"https://stocktwits.com/MarketBeat\" title=\"Follow us on Stocktwits\"
+        target=\"_blank\">\n<span class=\"mb-icon icon-share-stocktwits\"></span>\n</a>\n</span>\n</p>\n</div>\n</div>\n</div>\n</div>\n<div
+        class=\"gradient-blue c-white pb-5\">\n<div class=\"container\">\n<div style=\"max-width:
+        950px;font-size:.9em\">\n<p style=\"padding-top: 10px;line-height: 74px;\">\n<a
+        target=\"_blank\" href=\"https://www.bbb.org/south-dakota/business-reviews/financial-consultants/marketbeatcom-in-sioux-falls-sd-300169555#bbbseal\"><img
+        src=\"/images/better-business-bureau-banner.png\" title=\"MarketBeat is accredited
+        by the Better Business Bureau\" alt=\"MarketBeat is accredited by the Better
+        Business Bureau\" width=\"150\" /></a>\n</p>\n<p>\n\xA9 American Consumer
+        News, LLC dba MarketBeat&reg; 2010-2021. All rights reserved.<br />\n326 E
+        8th St #105, Sioux Falls, SD 57103 | U.S. Based Support Team at <a href=\"/cdn-cgi/l/email-protection\"
+        class=\"__cf_email__\" data-cfemail=\"a7c4c8c9d3c6c4d3e7cac6d5ccc2d3c5c2c6d389\">[email&#160;protected]</a>com
+        | (844) 978-6257<br />\nMarketBeat does not provide personalized financial
+        advice and does not issue recommendations or offers to buy stock or sell any
+        security. <a href=\"/terms/#invest\" aria-label=\"Read terms of service\">Learn
+        more</a>.\n<br /><br />\n<a href=\"/accessibility/\">Our Accessibility Statement</a>
+        | <a href=\"/terms\">Terms of Service</a> | <a href=\"/do-not-sell-my-information/\">Do
+        Not Sell My Information</a>\n<br />\n</p>\n<p class=\"small\">\n\xA9 2021
+        Market data provided is at least 10-minutes delayed and hosted by <a href='https://www.barchartmarketdata.com/'
+        rel=\"nofollow\">Barchart Solutions</a>. Information is provided 'as-is' and
+        solely for informational purposes, not for trading purposes or advice, and
+        is delayed. To see all exchange delays and terms of use please see <a href=\"https://www.barchartmarketdata.com/terms\"
+        rel=\"nofollow\">disclaimer</a>. Fundamental company data provided by Zacks
+        Investment Research. As a bonus to opt-ing into our email newsletters, you
+        will also get a free subscription to the Liberty Through Wealth e-newsletter.
+        You can opt out at any time. <span id=\"keep-for-checking-size\" class=\"d-none
+        d-sm-inline-block\"></span>\n</p>\n</div>\n</div>\n</div>\n</footer>\n</div>\n<div
+        class=\"menu-closer\"></div>\n</div>\n<nav id=\"left-side-menu\" class=\"gradient-blue
+        c-white\" role=\"navigation\" aria-label=\"Main mobile menu\">\n</nav>\n<div
+        id=\"right-side-menu\" class=\"gradient-blue\" role=\"complementary\" aria-label=\"User
+        registration and notifications\">\n<div class=\"right-side-optin\">\n<form
+        method=\"get\" action=\"https://www.marketbeat.com/newsletter/default.aspx\"
+        onsubmit=\"return CheckEmail('txtEmailInputMobile', 'ShowSuggestionMM');\"
+        role=\"form\" aria-label=\"Sign up for email newsletter\">\n<div id=\"optinform-content\">\n<div
+        class=\"optin-heading h4\">\n<a href=\"/ratings/newsletter/\" target=\"_blank\">Receive
+        Analysts' Upgrades and Downgrades Daily</a>\n</div>\n<p class=\"optinform-text-container
+        lh-medium\">\nEnter your email address below to receive a concise daily summary
+        of analysts' upgrades, downgrades and new coverage with MarketBeat.com's FREE
+        daily email newsletter.\n</p>\n</div>\n<div id=\"optinform-footer\">\n<input
+        type=\"hidden\" id=\"RegistrationType\" name=\"RegistrationType\" value=\"Ratings\">\n<input
+        type=\"hidden\" id=\"PopupRegistrationCode\" name=\"RegistrationCode\" value=\"MB-Popup\">\n<label
+        for=\"txtEmailInputMobile\" class=\"sr-only\">Email Address</label>\n<input
+        type=\"email\" name=\"RegisterEmail\" id=\"txtEmailInputMobile\" placeholder=\"Your
+        Email Address\" class=\"w-100\">\n<input type=\"submit\" value=\"Sign-Up Now
+        (Free)\" style=\"width: 100%; margin: 10px 0px 4px 0px;\"><div id=\"ShowSuggestionMM\"
+        name=\"ShowSuggestionMM\"></div>\n</div>\n</form>\n</div>\n</div>\n\n<script
+        data-cfasync=\"false\" src=\"/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js\"></script><script
+        defer src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js\"
+        integrity=\"sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1\"
+        crossorigin=\"anonymous\"></script>\n<script defer src=\"https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js\"
+        integrity=\"sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM\"
+        crossorigin=\"anonymous\"></script>\n<script defer src=\"https://code.jquery.com/ui/1.12.0/jquery-ui.min.js\"></script>\n<script
+        defer type=\"text/javascript\" src=\"/scripts/masterscripts9.js?v=40\"></script>\n\n<script
+        type=\"text/javascript\">var ShowExitPopup = true;</script>\n<script>var getNewsletterButton
+        = \"<a id='mmsubbutton' class='sbbutton m-3 d-block p-2'>Get Our Newsletter</a>\"</script>\n\n\n<script
+        type=\"text/javascript\">\r\nvar sc_project=7602069; \r\nvar sc_invisible=1;
+        \r\nvar sc_security=\"74cbf3e8\"; \r\nvar sc_https=1; \r\n</script>\n<script
+        type=\"text/javascript\" src=\"https://www.statcounter.com/counter/counter.js\"></script>\n<noscript><div
+        class=\"statcounter\"><img class=\"statcounter\" src=\"//c.statcounter.com/7602069/0/74cbf3e8/1/\"
+        alt=\"Web Analytics\"></div></noscript>\n\n<script>\r\n        (function (i,
+        s, o, g, r, a, m) {\r\n            i['GoogleAnalyticsObject'] = r; i[r] =
+        i[r] || function () {\r\n                (i[r].q = i[r].q || []).push(arguments)\r\n
+        \           }, i[r].l = 1 * new Date(); a = s.createElement(o),\r\n                m
+        = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a,
+        m)\r\n        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js',
+        'ga');\r\n\r\n        ga('create', 'UA-3019647-27', 'auto');\r\n        ga('send',
+        'pageview');\r\n\r\n\r\n    </script>\n <script async src=\"https://www.googletagmanager.com/gtag/js?id=AW-1050184556\"></script>
+        <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date()); gtag('config', 'AW-1050184556'); </script>\n\n<script>\r\n
+        \       var _comscore = _comscore || [];\r\n        _comscore.push({ c1: \"2\",
+        c2: \"16807273\" });\r\n        (function () {\r\n            var s = document.createElement(\"script\"),
+        el = document.getElementsByTagName(\"script\")[0]; s.async = true;\r\n            s.src
+        = (document.location.protocol == \"https:\" ? \"https://sb\" : \"http://b\")
+        + \".scorecardresearch.com/beacon.js\";\r\n            el.parentNode.insertBefore(s,
+        el);\r\n        })();\r\n    </script>\n<noscript>\r\n        <img src=\"https://b.scorecardresearch.com/p?c1=2&c2=16807273&cv=2.0&cj=1\"
+        alt=\"scorecard pixel\" />\r\n    </noscript>\n\n\n<script src=\"//instant.page/3.0.0\"
+        type=\"module\" defer integrity=\"sha384-OeDn4XE77tdHo8pGtE1apMPmAipjoxUQ++eeJa6EtJCfHlvijigWiJpD7VDPWXV1\"></script>\n</body>\n</html>"
+    headers:
+      Access-Control-Allow-Origin:
+      - '*'
+      CF-Cache-Status:
+      - DYNAMIC
+      CF-RAY:
+      - 646997081ce23278-KBP
+      Cache-Control:
+      - private
+      Connection:
+      - keep-alive
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Tue, 27 Apr 2021 16:57:27 GMT
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cfduid=d3f058bd8e523933d693215632b9ed3ea1619542647; expires=Thu, 27-May-21
+        16:57:27 GMT; path=/; domain=.marketbeat.com; HttpOnly; SameSite=Lax
+      - ASP.NET_SessionId=4q5qcmffwuhxnkjefxh21hy5; path=/; secure; HttpOnly; SameSite=Lax
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      X-XSS-Protection:
+      - 1; mode=block
+      cf-request-id:
+      - 09b5dcb91200003278b4ae1000000001
+      content-length:
+      - '109947'
+    status:
+      code: 200
+      message: OK
+version: 1

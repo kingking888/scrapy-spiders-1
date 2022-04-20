@@ -1,0 +1,455 @@
+author: trends.google.com
+created_at: '2022-02-02T07:35:43.632648+00:00'
+meta:
+  google_trends_data:
+  - description: Tom Brady officially announces retirement after &#39;thrilling ride&#39;
+      with ...
+    location: US
+    popularity: 2,000,000+
+    source: ESPN
+    time: '2022-02-01T13:00:00+00:00'
+    title: Tom Brady
+    url: https://www.espn.com/nfl/story/_/id/33192441/tampa-bay-buccaneers-tom-brady-officially-announces-retirement
+  - description: 'Brian Flores lawsuit: Former Miami Dolphins coach sues NFL and 3
+      ...'
+    location: US
+    popularity: 500,000+
+    source: CNN
+    time: '2022-02-01T14:00:00+00:00'
+    title: Brian Flores
+    url: https://www.cnn.com/2022/02/01/sport/brian-flores-lawsuit-nfl-racial-discrimination-spt/index.html
+  - description: Bridgewater College confirms two safety officers killed during ...
+    location: US
+    popularity: 200,000+
+    source: WVTF
+    time: '2022-02-01T12:00:00+00:00'
+    title: Bridgewater College
+    url: https://www.wvtf.org/news/2022-02-01/person-in-custody-after-report-of-active-shooter-at-bridgewater-college
+  - description: Washington Football Team to Get a New Name on Wednesday
+    location: US
+    popularity: 200,000+
+    source: The New York Times
+    time: '2022-02-01T18:00:00+00:00'
+    title: Washington Football Team
+    url: https://www.nytimes.com/2022/02/02/sports/washington-football-team-new-name.html
+  - description: 'Report: Jim Harbaugh to leave Michigan football for the NFL'
+    location: US
+    popularity: 200,000+
+    source: WolverinesWire
+    time: '2022-02-01T21:00:00+00:00'
+    title: Jim Harbaugh
+    url: https://wolverineswire.usatoday.com/2022/02/01/report-jim-harbaugh-to-leave-michigan-football-for-the-nfl/
+  - description: Why One Version of the &#39;Nightmare Alley&#39; Remake Is on Two
+      ...
+    location: US
+    popularity: 100,000+
+    source: IndieWire
+    time: '2022-02-01T15:00:00+00:00'
+    title: Nightmare Alley
+    url: https://www.indiewire.com/2022/02/why-one-version-of-nightmare-alley-remake-is-now-on-hbo-max-and-hulu-1234695634/
+  - description: The Best Gifts for Harry Styles Fans
+    location: US
+    popularity: 100,000+
+    source: Billboard
+    time: '2022-02-01T06:00:00+00:00'
+    title: Harry Styles
+    url: https://www.billboard.com/shop/best-gifts-for-harry-styles-fans-1235026139/
+  - description: Federal prisons remain locked down from coast to coast after deadly
+      ...
+    location: US
+    popularity: 100,000+
+    source: NBC News
+    time: '2022-02-01T04:00:00+00:00'
+    title: Federal prisons lockdown
+    url: https://www.nbcnews.com/news/us-news/federal-prisons-locked-coast-coast-deadly-fight-texas-facility-rcna14308
+  - description: Mark Adams&#39;s Career Comes Full Circle at Texas Tech
+    location: US
+    popularity: 100,000+
+    source: CalBearsMaven
+    time: '2022-02-01T19:00:00+00:00'
+    title: Texas Tech basketball
+    url: https://www.si.com/college/2022/02/01/mark-adams-texas-tech-chris-beard-successor
+  - description: What the Stock Split by Google&#39;s Parent, Alphabet, Means
+    location: US
+    popularity: 100,000+
+    source: The Wall Street Journal
+    time: '2022-02-01T16:00:00+00:00'
+    title: Google stock split
+    url: https://www.wsj.com/articles/google-parent-alphabet-stock-split-11643761853
+  - description: Lautaro Martinez goal gives <b>Argentina</b> 1-0 win over <b>Colombia</b>
+      in World Cup qualifying
+    location: US
+    popularity: 100,000+
+    source: ESPN
+    time: '2022-02-01T16:00:00+00:00'
+    title: Argentina vs Colombia
+    url: https://www.espn.com/soccer/report?gameId=561020
+  - description: Former UCLA lecturer threatened to &#39;hunt&#39; female professor
+    location: US
+    popularity: 100,000+
+    source: Westport News
+    time: '2022-02-01T10:00:00+00:00'
+    title: UCLA
+    url: https://www.westport-news.com/news/article/UCLA-switches-to-remote-classes-due-to-threats-16821807.php
+  - description: Is There Romance Ahead for Nicole in &#39;Raising Dion&#39;? (VIDEO)
+    location: US
+    popularity: 100,000+
+    source: TV Insider
+    time: '2022-02-01T10:00:00+00:00'
+    title: Raising Dion
+    url: https://www.tvinsider.com/1030375/raising-dion-season-2-nicole-tevin-rome-flynn/
+  - description: Caleb Williams Shares Hype Video for Transfer to USC
+    location: US
+    popularity: 100,000+
+    source: CalBearsMaven
+    time: '2022-02-01T10:00:00+00:00'
+    title: Caleb Williams
+    url: https://www.si.com/college/2022/02/01/caleb-williamss-hype-video-transfer-usc-snoop-dogg-dr-dre
+  - description: Magnitude 3.3 earthquake reported in South Gate
+    location: US
+    popularity: 50,000+
+    source: Los Angeles Times
+    time: '2022-02-01T13:00:00+00:00'
+    title: Earthquake
+    url: https://www.latimes.com/california/story/2022-02-01/earthquake-3-3-quake-reported-in-south-gate
+  - description: AMD stock rallies more than 10% after record results, outlook blow
+      ...
+    location: US
+    popularity: 50,000+
+    source: MarketWatch
+    time: '2022-02-01T19:00:00+00:00'
+    title: AMD stock
+    url: https://www.marketwatch.com/story/amd-stock-rallies-nearly-10-after-earnings-revenue-outlook-blow-past-street-view-11643750830
+  - description: 'HBCU bomb threats: &#39;I&#39;m just tired of being terrorized like
+      my ...'
+    location: US
+    popularity: 50,000+
+    source: CNN
+    time: '2022-02-01T19:00:00+00:00'
+    title: HBCU
+    url: https://www.cnn.com/2022/02/01/us/hbcu-bomb-threats-tuesday/index.html
+  - description: Golden State Warriors without Stephen Curry, Andrew Wiggins, Klay
+      ...
+    location: US
+    popularity: 50,000+
+    source: ESPN
+    time: '2022-02-01T20:00:00+00:00'
+    title: Warriors vs Spurs
+    url: https://www.espn.com/nba/story/_/id/33194733/golden-state-warriors-stephen-curry-andrew-wiggins-klay-thompson-vs-san-antonio-spurs
+  - description: Celtics, Jaylen Brown could part ways in offseason if Boston doesn&#39;t
+      ...
+    location: US
+    popularity: 50,000+
+    source: masslive.com
+    time: '2022-02-01T07:00:00+00:00'
+    title: Celtics
+    url: https://www.masslive.com/celtics/2022/02/celtics-jaylen-brown-could-part-ways-in-offseason-if-boston-doesnt-reach-its-potential-report.html
+  - description: Who is Melanie Lynskey&#39;s husband Jason Ritter?...
+    location: US
+    popularity: 50,000+
+    source: The Sun
+    time: '2022-02-01T11:00:00+00:00'
+    title: Jason Ritter
+    url: https://www.the-sun.com/entertainment/4588895/melanie-lynskeys-husband-jason-ritter/
+raw: "<?xml version='1.0' encoding='UTF-8' standalone='yes'?>\n<rss xmlns:atom='http://www.w3.org/2005/Atom'\
+  \ xmlns:ht='https://trends.google.com/trends/trendingsearches/daily' version='2.0'>\n\
+  \ <channel>\n <title>Daily Search Trends</title>\n <description>Recent searches</description>\n\
+  \ <link>https://trends.google.com/trends/trendingsearches/daily?geo=US</link>\n\
+  \ <atom:link href='https://trends.google.com/trends/trendingsearches/daily/rss?geo=US'\
+  \ rel='self' type='application/rss+xml'/>\n <item>\n <title>Tom Brady</title>\n\
+  \ <ht:approx_traffic>2,000,000+</ht:approx_traffic>\n <description>tom brady retire,\
+  \ Gisele Bündchen, Bridget Moynahan, Brady, Tom Brady, brady retire</description>\n\
+  \ <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Tom%20Brady</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 13:00:00 -0800</pubDate>\n <ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcSb0TKRbEAVy-V8wizKoXRzdLSpZFk50kJF2iQj1cpblZhTmqMS3dT8cWf1qCE5vsvNO97m4LZT</ht:picture>\n\
+  \ <ht:picture_source>NBC News</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Tom\
+  \ Brady officially announces retirement after 22 years in the NFL</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>Tampa Bay Buccaneers quarterback Tom Brady told fans Tuesday\
+  \ he&amp;#39;s retiring from football.</ht:news_item_snippet>\n <ht:news_item_url>https://www.nbcnews.com/news/sports/tom-brady-officially-announces-retirement-nfl-22-years-league-rcna14265</ht:news_item_url>\n\
+  \ <ht:news_item_source>NBC News</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Tom Brady officially announces retirement after &amp;#39;thrilling\
+  \ ride&amp;#39; with ...</ht:news_item_title>\n <ht:news_item_snippet>Tom Brady\
+  \ has retired from the NFL, the future Hall of Fame quarterback officially announced\
+  \ Tuesday on Instagram.</ht:news_item_snippet>\n <ht:news_item_url>https://www.espn.com/nfl/story/_/id/33192441/tampa-bay-buccaneers-tom-brady-officially-announces-retirement</ht:news_item_url>\n\
+  \ <ht:news_item_source>ESPN</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Brian Flores</title>\n <ht:approx_traffic>500,000+</ht:approx_traffic>\n\
+  \ <description>Brian Daboll, Bill Belichick</description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Brian%20Flores</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 14:00:00 -0800</pubDate>\n <ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcTxRvzOdYixHgZ3nLANx-B-6valLnp9fmcbALcxA2X2V-0vFTPJCYL-7NxG35RjzZarBKMHzv82</ht:picture>\n\
+  \ <ht:picture_source>The New York Times</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Brian\
+  \ Flores Sues NFL, Claiming Bias in Giants Coaching Search</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>The former head coach of the Miami Dolphins claimed in a\
+  \ class-action lawsuit filed Tuesday that the N.F.L. discriminated against him and\
+  \ other Black&amp;nbsp;...</ht:news_item_snippet>\n <ht:news_item_url>https://www.nytimes.com/2022/02/01/sports/football/brian-flores-giants-discrimination-lawsuit.html</ht:news_item_url>\n\
+  \ <ht:news_item_source>The New York Times</ht:news_item_source>\n </ht:news_item>\n\
+  \ <ht:news_item>\n <ht:news_item_title>Brian Flores lawsuit: Former Miami Dolphins\
+  \ coach sues NFL and 3 ...</ht:news_item_title>\n <ht:news_item_snippet>Brian Flores,\
+  \ the former head coach of the Miami Dolphins, filed a lawsuit Tuesday against the\
+  \ NFL, the New York Giants, the Denver Broncos and the Miami&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.cnn.com/2022/02/01/sport/brian-flores-lawsuit-nfl-racial-discrimination-spt/index.html</ht:news_item_url>\n\
+  \ <ht:news_item_source>CNN</ht:news_item_source>\n </ht:news_item>\n </item>\n <item>\n\
+  \ <title>Bridgewater College</title>\n <ht:approx_traffic>200,000+</ht:approx_traffic>\n\
+  \ <description>bridgewater college shooting</description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Bridgewater%20College</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 12:00:00 -0800</pubDate>\n <ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcQwX0q3auRCyG02IxhqeGHtAJTGwOs41sZBuNIA70jlmH4EsVBaLPasBqjTLXzvONImvXAR35c9</ht:picture>\n\
+  \ <ht:picture_source>The New York Times</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Two\
+  \ Officers Killed at Bridgewater College in Virginia</ht:news_item_title>\n <ht:news_item_snippet>A\
+  \ gunman fatally shot a police officer and a campus safety officer at Bridgewater\
+  \ College in Virginia on Tuesday afternoon after they responded to reports&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.nytimes.com/2022/02/01/us/bridgewater-college-shooting-virginia.html</ht:news_item_url>\n\
+  \ <ht:news_item_source>The New York Times</ht:news_item_source>\n </ht:news_item>\n\
+  \ <ht:news_item>\n <ht:news_item_title>Bridgewater College confirms two safety officers\
+  \ killed during ...</ht:news_item_title>\n <ht:news_item_snippet>The school has\
+  \ confirmed that Campus Police Officer John Painter and Safety Officer J.J. Jefferson\
+  \ were killed by the shooter. State and local law enforcement&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.wvtf.org/news/2022-02-01/person-in-custody-after-report-of-active-shooter-at-bridgewater-college</ht:news_item_url>\n\
+  \ <ht:news_item_source>WVTF</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Washington Football Team</title>\n <ht:approx_traffic>200,000+</ht:approx_traffic>\n\
+  \ <description>Washington Commanders, washington football team new name</description>\n\
+  \ <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Washington%20Football%20Team</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 18:00:00 -0800</pubDate>\n <ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcR2vufhJa1kImRHbD6osUhvWMAUBZPGOsvjrlTC3Oxm_nUIWfPhFL0KuI4wMb0aJtfQUqUbehfc</ht:picture>\n\
+  \ <ht:picture_source>WJMN - UPMatters.com</ht:picture_source>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Washington Football Team&amp;#39;s new name apparently leaked</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>The new name of the Washington Football Team appears to\
+  \ have leaked early because of a helicopter.</ht:news_item_snippet>\n <ht:news_item_url>https://www.upmatters.com/sports/nfl/washington-football-teams-new-name-apparently-leaked/</ht:news_item_url>\n\
+  \ <ht:news_item_source>WJMN - UPMatters.com</ht:news_item_source>\n </ht:news_item>\n\
+  \ <ht:news_item>\n <ht:news_item_title>Washington Football Team to Get a New Name\
+  \ on Wednesday</ht:news_item_title>\n <ht:news_item_snippet>Sign up for the Pro\
+  \ Football Digest. Our analysis of the biggest games, story lines and athletes in\
+  \ the N.F.L. postseason, delivered three times a week. Get it&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.nytimes.com/2022/02/02/sports/washington-football-team-new-name.html</ht:news_item_url>\n\
+  \ <ht:news_item_source>The New York Times</ht:news_item_source>\n </ht:news_item>\n\
+  \ </item>\n <item>\n <title>Jim Harbaugh</title>\n <ht:approx_traffic>200,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Jim%20Harbaugh</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 21:00:00 -0800</pubDate>\n <ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcR9H-NKF7tZMp9oLFLFfFskIc0OOdS0J-FToeBI4sHCMXp6P7sW8_Jea4NfVIwlKChjRnEDx70Y</ht:picture>\n\
+  \ <ht:picture_source>Park Rapids Enterprise</ht:picture_source>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Jim Harbaugh on expected Vikings interview: &amp;#39;I&amp;#39;m\
+  \ not confirming ...</ht:news_item_title>\n <ht:news_item_snippet>Michigan Wolverines\
+  \ head coach Jim Harbaugh on the sideline during the second quarter against the\
+  \ Iowa Hawkeyes in the Big Ten Conference championship game Dec.</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.parkrapidsenterprise.com/sports/pro/jim-harbaugh-on-expected-vikings-interview-im-not-confirming-anything-or-denying-anything</ht:news_item_url>\n\
+  \ <ht:news_item_source>Park Rapids Enterprise</ht:news_item_source>\n </ht:news_item>\n\
+  \ <ht:news_item>\n <ht:news_item_title>Report: Jim Harbaugh to leave Michigan football\
+  \ for the NFL</ht:news_item_title>\n <ht:news_item_snippet>According to a report,\
+  \ Michigan football will be searching for a new head coach in short order, with\
+  \ Jim Harbaugh heading back to the NFL.</ht:news_item_snippet>\n <ht:news_item_url>https://wolverineswire.usatoday.com/2022/02/01/report-jim-harbaugh-to-leave-michigan-football-for-the-nfl/</ht:news_item_url>\n\
+  \ <ht:news_item_source>WolverinesWire</ht:news_item_source>\n </ht:news_item>\n\
+  \ </item>\n <item>\n <title>Nightmare Alley</title>\n <ht:approx_traffic>100,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Nightmare%20Alley</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 15:00:00 -0800</pubDate>\n <ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcS1cI7MiiU-RF0nf9JECuBs_kF11LTcPBOosUG2gxOk3Q9CZXPKMzy1iZ2_MEeKW0zO8y_1tVgT</ht:picture>\n\
+  \ <ht:picture_source>Decider</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>The\
+  \ Ending of &amp;#39;Nightmare Alley,&amp;#39; Explained</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>&amp;#39;Nightmare Alley&amp;#39; was just added to HBO\
+  \ Max and Hulu, so here&amp;#39;s everything you need to know about the ending,\
+  \ explained.</ht:news_item_snippet>\n <ht:news_item_url>https://decider.com/2022/02/01/nightmare-alley-ending-explained/</ht:news_item_url>\n\
+  \ <ht:news_item_source>Decider</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Why One Version of the &amp;#39;Nightmare Alley&amp;#39; Remake\
+  \ Is on Two ...</ht:news_item_title>\n <ht:news_item_snippet>HBO Max and Hulu are\
+  \ competing streamers, but both started showing &amp;quot;Nightmare Alley&amp;quot;\
+  \ today. Here&amp;#39;s why.</ht:news_item_snippet>\n <ht:news_item_url>https://www.indiewire.com/2022/02/why-one-version-of-nightmare-alley-remake-is-now-on-hbo-max-and-hulu-1234695634/</ht:news_item_url>\n\
+  \ <ht:news_item_source>IndieWire</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Harry Styles</title>\n <ht:approx_traffic>100,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Harry%20Styles</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 06:00:00 -0800</pubDate>\n <ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcRBfYByINmHXZ0dNoOcGu3C9bTA0zQG1pCb_TuJ0iasEXtMX5-pSoL174rndMyLZFwwp0TBKLHn</ht:picture>\n\
+  \ <ht:picture_source>Black Hills Pioneer</ht:picture_source>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Happy birthday, Harry Styles! You&amp;#39;ll never believe\
+  \ these facts about ...</ht:news_item_title>\n <ht:news_item_snippet>The former\
+  \ One Direction member turned 28 on February 1, 2022. Whether you know Harry from\
+  \ his hit singles, bold fashion statements or film roles, the star has&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.bhpioneer.com/lifestyles/entertainment/happy-birthday-harry-styles-youll-never-believe-these-facts-about-everyones-fave-1d-star/collection_21c4c0f3-a50e-5f1d-8622-a6f651eb90e6.html</ht:news_item_url>\n\
+  \ <ht:news_item_source>Black Hills Pioneer</ht:news_item_source>\n </ht:news_item>\n\
+  \ <ht:news_item>\n <ht:news_item_title>The Best Gifts for Harry Styles Fans</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>Happy birthday, Harry Styles! If you&amp;#39;re a fan of\
+  \ the One Directioner-turned-solo pop star then you&amp;#39;ll definitely want to\
+  \ peruse our list of items that loyal&amp;nbsp;...</ht:news_item_snippet>\n <ht:news_item_url>https://www.billboard.com/shop/best-gifts-for-harry-styles-fans-1235026139/</ht:news_item_url>\n\
+  \ <ht:news_item_source>Billboard</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Federal prisons lockdown</title>\n <ht:approx_traffic>100,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Federal%20prisons%20lockdown</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 04:00:00 -0800</pubDate>\n <ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcRPMJ9yvc1bN7Qz72sUNBKKxIUHF6F7pcsfLVtxf3AKFJ6kYNfMoryyiuYRWerlWA606OdYtkql</ht:picture>\n\
+  \ <ht:picture_source>Aljazeera.com</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>All\
+  \ US federal prisons on lockdown after deadly Texas brawl</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>Authorities say the move was taken out of an &amp;#39;abundance\
+  \ of caution&amp;#39; after two inmates killed at facility in Beaumont.</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.aljazeera.com/news/2022/2/1/all-us-federal-prisons-lockdown-following-deadly-texas-brawl</ht:news_item_url>\n\
+  \ <ht:news_item_source>Aljazeera.com</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Federal prisons remain locked down from coast to coast after\
+  \ deadly ...</ht:news_item_title>\n <ht:news_item_snippet>A nationwide lockdown\
+  \ of the federal prison system remained in effect Tuesday after two inmates were\
+  \ killed Monday during a gang fight at a penitentiary in&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.nbcnews.com/news/us-news/federal-prisons-locked-coast-coast-deadly-fight-texas-facility-rcna14308</ht:news_item_url>\n\
+  \ <ht:news_item_source>NBC News</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Texas Tech basketball</title>\n <ht:approx_traffic>100,000+</ht:approx_traffic>\n\
+  \ <description>Chris Beard</description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Texas%20Tech%20basketball</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 19:00:00 -0800</pubDate>\n <ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcQvb0hBBiH6e16-GFYeMR-BITRohkLa-CKt4Zw34KXXj5MaU2R0T92WoWmJABdTpbE3yHTUxqjS</ht:picture>\n\
+  \ <ht:picture_source>Viva The Matadors</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>News\
+  \ Flash Longhorns: This game isn&amp;#39;t about you</ht:news_item_title>\n <ht:news_item_snippet>It&amp;#39;s\
+  \ Chris Beard vs Texas Tech in Lubbock, and don&amp;#39;t think any differently.</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.vivathematadors.com/2022/2/1/22912321/news-flash-longhorns-this-game-isnt-about-you-chris-beard-mark-adams-texas-tech</ht:news_item_url>\n\
+  \ <ht:news_item_source>Viva The Matadors</ht:news_item_source>\n </ht:news_item>\n\
+  \ <ht:news_item>\n <ht:news_item_title>Mark Adams&amp;#39;s Career Comes Full Circle\
+  \ at Texas Tech</ht:news_item_title>\n <ht:news_item_snippet>Finally holding the\
+  \ job he&amp;#39;s coveted for decades, the program he helped build will face its\
+  \ toughest test Tuesday against Chris Beard and the Longhorns.</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.si.com/college/2022/02/01/mark-adams-texas-tech-chris-beard-successor</ht:news_item_url>\n\
+  \ <ht:news_item_source>CalBearsMaven</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Google stock split</title>\n <ht:approx_traffic>100,000+</ht:approx_traffic>\n\
+  \ <description>goog stock</description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Google%20stock%20split</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 16:00:00 -0800</pubDate>\n <ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcTmz7O8uXGnhMIzZfy8EjFHcroupT7ODGJbD9T4QUANJl9rNM_dNLptcZrUmRtwLkfr7gJAI12e</ht:picture>\n\
+  \ <ht:picture_source>Bloomberg</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Alphabet\
+  \ Stock Split Aimed at Bringing Google Shares to Masses</ht:news_item_title>\n <ht:news_item_snippet>Alphabet\
+  \ Inc. is bringing big stock splits back to the market, so prospective buyers won&amp;#39;t\
+  \ need upwards of $3000 to own a share.</ht:news_item_snippet>\n <ht:news_item_url>https://www.bloomberg.com/news/articles/2022-02-02/alphabet-stock-split-aimed-at-bringing-google-shares-to-masses</ht:news_item_url>\n\
+  \ <ht:news_item_source>Bloomberg</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>What the Stock Split by Google&amp;#39;s Parent, Alphabet,\
+  \ Means</ht:news_item_title>\n <ht:news_item_snippet>Alphabet announced plans for\
+  \ a 20-for-1 stock split as part of the technology company&amp;#39;s quarterly earnings\
+  \ statement.</ht:news_item_snippet>\n <ht:news_item_url>https://www.wsj.com/articles/google-parent-alphabet-stock-split-11643761853</ht:news_item_url>\n\
+  \ <ht:news_item_source>The Wall Street Journal</ht:news_item_source>\n </ht:news_item>\n\
+  \ </item>\n <item>\n <title>Argentina vs Colombia</title>\n <ht:approx_traffic>100,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Argentina%20vs%20Colombia</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 16:00:00 -0800</pubDate>\n <ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcTwe6TaTdsBCRrq2RVgj8vVVkQ5yZrSospxah3V7mkWQVVIoVAbvnorAF9e0Aiixry6k_WhgBBk</ht:picture>\n\
+  \ <ht:picture_source>Sporting News</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Argentina\
+  \ vs. Colombia result: Lautaro Martinez extends Argentina ...</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>The two teams came into the match in Cordoba trending in\
+  \ opposite directions, and after 90 minutes of play, they continued on those trajectories\
+  \ as a&amp;nbsp;...</ht:news_item_snippet>\n <ht:news_item_url>https://www.sportingnews.com/us/soccer/news/argentina-vs-colombia-score-highlights-world-cup-qualifying/owlh6gpgm0ku1j461ukh5un9u</ht:news_item_url>\n\
+  \ <ht:news_item_source>Sporting News</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Lautaro Martinez goal gives &lt;b&gt;Argentina&lt;/b&gt; 1-0\
+  \ win over &lt;b&gt;Colombia&lt;/b&gt; in World Cup qualifying</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>&lt;b&gt;Argentina&lt;/b&gt; extended their unbeaten run\
+  \ to 29 games on Tuesday when they beat a toothless &lt;b&gt;Colombia&lt;/b&gt;\
+  \ 1-0 in a World Cup qualifier. Lautaro Martinez got the only goal of an untidy\
+  \ game after 29 minutes when he took advantage of slack defending to rifle home&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.espn.com/soccer/report?gameId=561020</ht:news_item_url>\n\
+  \ <ht:news_item_source>ESPN</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>UCLA</title>\n <ht:approx_traffic>100,000+</ht:approx_traffic>\n\
+  \ <description>Matthew Harris</description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#UCLA</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 10:00:00 -0800</pubDate>\n <ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcTt3U7P_DfDgR0WeGkVa0yijFLhNezEQVXrkXsmnfA8_UTa2a4JGvpMP2r-G9tUTUfi-wbukjGe</ht:picture>\n\
+  \ <ht:picture_source>Los Angeles Times</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Suspect\
+  \ in threats against UCLA in custody in Boulder, Colo.</ht:news_item_title>\n <ht:news_item_snippet>A\
+  \ former UCLA lecturer taken into custody Tuesday for threatening mass violence\
+  \ was barred by a Los Angeles judge last year from going near a University of&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.latimes.com/california/story/2022-01-31/former-ucla-lecturer-mass-shooting-video-800-page-manifesto</ht:news_item_url>\n\
+  \ <ht:news_item_source>Los Angeles Times</ht:news_item_source>\n </ht:news_item>\n\
+  \ <ht:news_item>\n <ht:news_item_title>Former UCLA lecturer threatened to &amp;#39;hunt&amp;#39;\
+  \ female professor</ht:news_item_title>\n <ht:news_item_snippet>LOS ANGELES (AP)\
+  \ — A former lecturer at the University of California, Los Angeles who was arrested\
+  \ Tuesday after police say he emailed an 800-page document&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.westport-news.com/news/article/UCLA-switches-to-remote-classes-due-to-threats-16821807.php</ht:news_item_url>\n\
+  \ <ht:news_item_source>Westport News</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Raising Dion</title>\n <ht:approx_traffic>100,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Raising%20Dion</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 10:00:00 -0800</pubDate>\n <ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcQFfQqUhkIxQqeha3xlilnRd8cIz-6UXNkMyXlkLWglu5pHyjiOKNp4LdV42q3lTRCSEvrThVFN</ht:picture>\n\
+  \ <ht:picture_source>IGN</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Raising\
+  \ Dion: Season 2 Review - IGN</ht:news_item_title>\n <ht:news_item_snippet>Picking\
+  \ up two years after the events of the first season, the show depicts Nicole Reese\
+  \ (Alisha Wainwright) and her now 10-year-old son Dion&amp;#39;s (Ja&amp;#39;Siah\
+  \ Young)&amp;nbsp;...</ht:news_item_snippet>\n <ht:news_item_url>https://www.ign.com/articles/raising-dion-season-2-review</ht:news_item_url>\n\
+  \ <ht:news_item_source>IGN</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Is There Romance Ahead for Nicole in &amp;#39;Raising Dion&amp;#39;?\
+  \ (VIDEO)</ht:news_item_title>\n <ht:news_item_snippet>How much time has passed\
+  \ since Season 1 of Netflix&amp;#39;s sci-fi series? Who (or what) is the Big Bad\
+  \ in Season 2? All your answers here!</ht:news_item_snippet>\n <ht:news_item_url>https://www.tvinsider.com/1030375/raising-dion-season-2-nicole-tevin-rome-flynn/</ht:news_item_url>\n\
+  \ <ht:news_item_source>TV Insider</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Caleb Williams</title>\n <ht:approx_traffic>100,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Caleb%20Williams</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 10:00:00 -0800</pubDate>\n <ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcQZh-wVBLmXCaK24hlT63BJbxlFFfyR4MOGS-SUAsSAJxrdSCnHFXFqFMHCeZh0odMxXRMKLPmI</ht:picture>\n\
+  \ <ht:picture_source>ESPN</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Former\
+  \ Oklahoma Sooners QB Caleb Williams transferring to USC</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>The decision marks the end of the biggest offseason mystery\
+  \ in college football, as Williams spent nearly one month in the NCAA transfer portal.\
+  \ He chose the&amp;nbsp;...</ht:news_item_snippet>\n <ht:news_item_url>https://www.espn.com/college-football/story/_/id/33192815/former-oklahoma-sooners-qb-caleb-williams-transferring-usc-trojans</ht:news_item_url>\n\
+  \ <ht:news_item_source>ESPN</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Caleb Williams Shares Hype Video for Transfer to USC</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>The video included appearances from Reggie Bush, Dr. Dre\
+  \ and Snoop Dogg.</ht:news_item_snippet>\n <ht:news_item_url>https://www.si.com/college/2022/02/01/caleb-williamss-hype-video-transfer-usc-snoop-dogg-dr-dre</ht:news_item_url>\n\
+  \ <ht:news_item_source>CalBearsMaven</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Earthquake</title>\n <ht:approx_traffic>50,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Earthquake</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 13:00:00 -0800</pubDate>\n <ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcQhkTjJMW3KQi5DP_KqXteB2gJ5uTQJsKtK4S12CwZXO0v7fM1ErP66v3Ejr671kvd-XKvyM36N</ht:picture>\n\
+  \ <ht:picture_source>Los Angeles Times</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>February\
+  \ is Earthquake Awareness Month &amp;amp; Tennesseans Should ...</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>NASHVILLE, Tenn. – The Tennessee Emergency Management Agency\
+  \ (TEMA) is recognizing February 2022 as Earthquake Awareness Month and reminding\
+  \ Tennesseans to&amp;nbsp;...</ht:news_item_snippet>\n <ht:news_item_url>https://www.tn.gov/tema/news/2022/2/1/february-is-earthquake-awareness-month---tennesseans-should-prioritize-earthquake-preparedness.html</ht:news_item_url>\n\
+  \ <ht:news_item_source>tn.gov</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Magnitude 3.3 earthquake reported in South Gate</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>The earthquake occurred at a depth of 9.2 miles. In the\
+  \ past 10 days, there have been two earthquakes of magnitude 3.0 or greater centered\
+  \ nearby. Advertisement.</ht:news_item_snippet>\n <ht:news_item_url>https://www.latimes.com/california/story/2022-02-01/earthquake-3-3-quake-reported-in-south-gate</ht:news_item_url>\n\
+  \ <ht:news_item_source>Los Angeles Times</ht:news_item_source>\n </ht:news_item>\n\
+  \ </item>\n <item>\n <title>AMD stock</title>\n <ht:approx_traffic>50,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#AMD%20stock</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 19:00:00 -0800</pubDate>\n <ht:picture>https://t2.gstatic.com/images?q=tbn:ANd9GcSExcTYJWrHS7NWfSQd8FhY2pl08OtjYb-zHV72KAH_68-TktrCEWpGe8MuRCiH3edP64cfEXRv</ht:picture>\n\
+  \ <ht:picture_source>Barron's</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>AMD\
+  \ Stock Jumps on Earnings Beat and Strong Outlook</ht:news_item_title>\n <ht:news_item_snippet>The\
+  \ chip maker reported revenue of $4.8 billion, up 49% from a year ago, thanks to\
+  \ strong demand for both server and PC processors.</ht:news_item_snippet>\n <ht:news_item_url>https://www.barrons.com/articles/amd-earnings-what-to-expect-51643734821</ht:news_item_url>\n\
+  \ <ht:news_item_source>Barron's</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>AMD stock rallies more than 10% after record results, outlook\
+  \ blow ...</ht:news_item_title>\n <ht:news_item_snippet>Advanced Micro Devices Inc.\
+  \ shares soared in the extended session Tuesday after the chip maker&amp;#39;s record\
+  \ results and forecasts blew past Wall Street&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.marketwatch.com/story/amd-stock-rallies-nearly-10-after-earnings-revenue-outlook-blow-past-street-view-11643750830</ht:news_item_url>\n\
+  \ <ht:news_item_source>MarketWatch</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>HBCU</title>\n <ht:approx_traffic>50,000+</ht:approx_traffic>\n\
+  \ <description>hbcu bomb threats</description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#HBCU</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 19:00:00 -0800</pubDate>\n <ht:picture>https://t0.gstatic.com/images?q=tbn:ANd9GcQerDX8JQhSo8QY_ruIW1nT_G-o46LH8s_peBimpkmUWxLMv4rB5RtPlfx8ikDyRWJLlAkQu92c</ht:picture>\n\
+  \ <ht:picture_source>Axios</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Over\
+  \ a dozen HBCUs get bomb threats on first day of Black History ...</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>More than a dozen historically Black colleges and universities\
+  \ on Tuesday closed campus or cancelled classes due to bomb threats on the first\
+  \ day of Black&amp;nbsp;...</ht:news_item_snippet>\n <ht:news_item_url>https://www.axios.com/hbcu-bomb-threats-black-history-month-163b6c3c-5d97-4d8c-9b61-1f72e5301f92.html</ht:news_item_url>\n\
+  \ <ht:news_item_source>Axios</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>HBCU bomb threats: &amp;#39;I&amp;#39;m just tired of being\
+  \ terrorized like my ...</ht:news_item_title>\n <ht:news_item_snippet>A growing\
+  \ number of historically Black colleges and universities have had to lock down or\
+  \ postpone classes due to bomb threats on the first day of Black&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.cnn.com/2022/02/01/us/hbcu-bomb-threats-tuesday/index.html</ht:news_item_url>\n\
+  \ <ht:news_item_source>CNN</ht:news_item_source>\n </ht:news_item>\n </item>\n <item>\n\
+  \ <title>Warriors vs Spurs</title>\n <ht:approx_traffic>50,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Warriors%20vs%20Spurs</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 20:00:00 -0800</pubDate>\n <ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcRs9iqjop0U2gtuPoupbfFYGzFPKW6ToLdBanNiC2Agw1i6r-X8lcmDmfdwfrXIORVvrGgOEm_l</ht:picture>\n\
+  \ <ht:picture_source>CBSSports.com</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Warriors\
+  \ vs. Spurs odds, line, spread: 2022 NBA picks, Feb. 1 ...</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>SportsLine&amp;#39;s model just revealed its NBA picks for\
+  \ Golden State Warriors vs. San Antonio Spurs.</ht:news_item_snippet>\n <ht:news_item_url>https://www.cbssports.com/nba/news/warriors-vs-spurs-odds-line-spread-2022-nba-picks-feb-1-predictions-from-proven-computer-model/</ht:news_item_url>\n\
+  \ <ht:news_item_source>CBSSports.com</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Golden State Warriors without Stephen Curry, Andrew Wiggins,\
+  \ Klay ...</ht:news_item_title>\n <ht:news_item_snippet>Stephen Curry, who scored\
+  \ 40 points against the Rockets on Monday, did not play vs. the Spurs on Tuesday\
+  \ due to left toe soreness. Golden State still won,&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.espn.com/nba/story/_/id/33194733/golden-state-warriors-stephen-curry-andrew-wiggins-klay-thompson-vs-san-antonio-spurs</ht:news_item_url>\n\
+  \ <ht:news_item_source>ESPN</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Celtics</title>\n <ht:approx_traffic>50,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 07:00:00 -0800</pubDate>\n <ht:picture>https://t3.gstatic.com/images?q=tbn:ANd9GcR_giRMDb3p-PRCDMUfUo-3xYr2nZnUafOtBD2C4sAjQV3I-PvLiA8zjGdHjhLcvUPWs0mEfDjg</ht:picture>\n\
+  \ <ht:picture_source>Woburn Daily Times</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Brown\
+  \ scores 29, Celtics run past shorthanded Heat</ht:news_item_title>\n <ht:news_item_snippet>BOSTON\
+  \ (AP) — Jaylen Brown had 29 points, Jayson Tatum added 20 points and 12 rebounds\
+  \ and the Boston Celtics rolled past the Miami Heat 122-92 on Monday&amp;nbsp;...</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>http://homenewshere.com/sports/celtics/article_c56b3570-8371-11ec-bb44-23f97dc5dd01.html</ht:news_item_url>\n\
+  \ <ht:news_item_source>Woburn Daily Times</ht:news_item_source>\n </ht:news_item>\n\
+  \ <ht:news_item>\n <ht:news_item_title>Celtics, Jaylen Brown could part ways in\
+  \ offseason if Boston doesn&amp;#39;t ...</ht:news_item_title>\n <ht:news_item_snippet>The\
+  \ Celtics look to build around Jaylen Brown and Jayson Tatum, but it&amp;#39;s been\
+  \ a rocky season thus far.</ht:news_item_snippet>\n <ht:news_item_url>https://www.masslive.com/celtics/2022/02/celtics-jaylen-brown-could-part-ways-in-offseason-if-boston-doesnt-reach-its-potential-report.html</ht:news_item_url>\n\
+  \ <ht:news_item_source>masslive.com</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ <item>\n <title>Jason Ritter</title>\n <ht:approx_traffic>50,000+</ht:approx_traffic>\n\
+  \ <description></description>\n <link>https://trends.google.com/trends/trendingsearches/daily?geo=US#Jason%20Ritter</link>\n\
+  \ <pubDate>Tue, 01 Feb 2022 11:00:00 -0800</pubDate>\n <ht:picture>https://t1.gstatic.com/images?q=tbn:ANd9GcRT_LNE2EQoWHVCaBZQB20XLShlV8VsAgo4nEbq4DUSM_ED8_vmMX2lPssLIrM4DRa58MbV-MVc</ht:picture>\n\
+  \ <ht:picture_source>Today.com</ht:picture_source>\n <ht:news_item>\n <ht:news_item_title>Jason\
+  \ Ritter Slams Body-Shamers Who Went After Wife Melanie ...</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>Actor Jason Ritter slammed body-shamers on social media\
+  \ who went after his wife, “Yellowjackets” star Melanie Lynskey.</ht:news_item_snippet>\n\
+  \ <ht:news_item_url>https://www.today.com/health/health/jason-ritter-slams-body-shamers-went-wife-melanie-lynskey-rcna14344</ht:news_item_url>\n\
+  \ <ht:news_item_source>Today.com</ht:news_item_source>\n </ht:news_item>\n <ht:news_item>\n\
+  \ <ht:news_item_title>Who is Melanie Lynskey&amp;#39;s husband Jason Ritter?...</ht:news_item_title>\n\
+  \ <ht:news_item_snippet>JASON Ritter is an American actor and producer descended\
+  \ from a family of actors and performers.Ritter married Yellowjackets star Melanie\
+  \ Lynskey in 2.</ht:news_item_snippet>\n <ht:news_item_url>https://www.the-sun.com/entertainment/4588895/melanie-lynskeys-husband-jason-ritter/</ht:news_item_url>\n\
+  \ <ht:news_item_source>The Sun</ht:news_item_source>\n </ht:news_item>\n </item>\n\
+  \ </channel>\n</rss>"
+src: /home/talha-umer/scrapy-spiders/src/data/trends.google.com/trends.google.com_trends_trendingsearches_daily_rss?geo=US_2022-02-02T07:35:43.632648+00:00.yml
+tags:
+- google trends
+text: ' '
+title: 'Daily Google Trends Data: 2022-02-02T07:35:43.632648+00:00'
+url: https://trends.google.com/trends/trendingsearches/daily/rss?geo=US/2022-02-02T07:35:43.632648+00:00

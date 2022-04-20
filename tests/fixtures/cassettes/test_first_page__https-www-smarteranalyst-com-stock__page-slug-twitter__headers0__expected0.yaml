@@ -1,0 +1,1383 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.smarteranalyst.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.smarteranalyst.com/stock-page/?slug=twitter
+  response:
+    body:
+      string: "<!DOCTYPE html>\n<html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n\t<head>\n\t\t\t\t<title>NYSE
+        | TWTR: Stock News, Ratings & Analysis for Twitter</title>\n\t\t<meta name=\"theme-color\"
+        content=\"#1b4e82\"/>\n    <!-- Default Meta Tags -->\n\t\t<meta charset=\"UTF-8\">\n\n<link
+        href=\"//www.google-analytics.com\" rel=\"dns-prefetch\">\n\n<meta http-equiv=\"X-UA-Compatible\"
+        content=\"IE=edge\">\n\n<meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0,user-scalable=yes\">\n\n\n<link
+        rel=\"shortcut icon\" href=\"https://www.smarteranalyst.com/wp-content/uploads/2015/07/favicon.png\">\t\t\n\n\n\n\n<link
+        rel=\"pingback\" href=\"https://www.smarteranalyst.com/xmlrpc.php\" />\n\n\t\t\t\t\n\t\n\n\t\t<!--
+        css + javascript -->\n\t\t\n\n                <link rel=\"stylesheet\" type=\"text/css\"
+        href=\"https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css\"
+        />\n\n\n\t\t<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and
+        media queries -->\n\t\t<!--[if lt IE 9]>\n\t\t\t<script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js\"></script>\n\t\t\t<script
+        src=\"//cdnjs.cloudflare.com/ajax/libs/respond.js/1.3.0/respond.min.js\"></script>\n
+        \t\t\t<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.js\"></script>\n\n\n\t\t<![endif]-->\n\n\t\t\n\n\t\n\n
+        \t\n\t\t                        <script>\n                            /* You
+        can add more configuration options to webfontloader by previously defining
+        the WebFontConfig with your options */\n                            if ( typeof
+        WebFontConfig === \"undefined\" ) {\n                                WebFontConfig
+        = new Object();\n                            }\n                            WebFontConfig['google']
+        = {families: ['Oswald:300,400,700']};\n\n                            (function()
+        {\n                                var wf = document.createElement( 'script'
+        );\n                                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';\n
+        \                               wf.type = 'text/javascript';\n                                wf.async
+        = 'true';\n                                var s = document.getElementsByTagName(
+        'script' )[0];\n                                s.parentNode.insertBefore(
+        wf, s );\n                            })();\n                        </script>\n
+        \                   \n<!-- This site is optimized with the Yoast SEO Premium
+        plugin v12.0.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<meta name=\"description\"
+        content=\"Looking for insights on Twitter (NYSE:TWTR) stock? View TWTR&#039;s
+        stock ratings, price targets, earnings, commentary and news at Smarter Analyst.\"/>\n<link
+        rel=\"canonical\" href=\"https://www.smarteranalyst.com/equities/twitter\"
+        />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:type\"
+        content=\"article\" />\n<meta property=\"og:title\" content=\"NYSE | TWTR:
+        Stock News, Ratings &amp; Analysis for Twitter\" />\n<meta property=\"og:description\"
+        content=\"Looking for insights on Twitter (NYSE:TWTR) stock? View TWTR&#039;s
+        stock ratings, price targets, earnings, commentary and news at Smarter Analyst.\"
+        />\n<meta property=\"og:url\" content=\"https://www.smarteranalyst.com/equities/twitter\"
+        />\n<meta property=\"og:site_name\" content=\"Smarter Analyst\" />\n<meta
+        property=\"article:publisher\" content=\"https://www.facebook.com/smarteranalyst\"
+        />\n<meta property=\"og:image\" content=\"https://www.smarteranalyst.com/wp-content/uploads/2019/04/SmarterAnalystOg.jpg\"
+        />\n<meta property=\"og:image:secure_url\" content=\"https://www.smarteranalyst.com/wp-content/uploads/2019/04/SmarterAnalystOg.jpg\"
+        />\n<meta property=\"og:image:width\" content=\"1200\" />\n<meta property=\"og:image:height\"
+        content=\"800\" />\n<meta name=\"twitter:card\" content=\"summary\" />\n<meta
+        name=\"twitter:description\" content=\"Looking for insights on Twitter (NYSE:TWTR)
+        stock? View TWTR&#039;s stock ratings, price targets, earnings, commentary
+        and news at Smarter Analyst.\" />\n<meta name=\"twitter:title\" content=\"NYSE
+        | TWTR: Stock News, Ratings &amp; Analysis for Twitter\" />\n<meta name=\"twitter:image\"
+        content=\"https://www.smarteranalyst.com/wp-content/uploads/2019/04/SmarterAnalystOg.jpg\"
+        />\n<!-- / Yoast SEO Premium plugin. -->\n\n<link rel='dns-prefetch' href='//s.w.org'
+        />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"Smarter Analyst
+        &raquo; Feed\" href=\"https://www.smarteranalyst.com/feed/\" />\n<link rel=\"alternate\"
+        type=\"application/rss+xml\" title=\"Smarter Analyst &raquo; Comments Feed\"
+        href=\"https://www.smarteranalyst.com/comments/feed/\" />\n<link rel='stylesheet'
+        id='wp-block-library-css'  href='https://www.smarteranalyst.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.4'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='contact-form-7-css'
+        \ href='https://www.smarteranalyst.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='new-style-css'
+        \ href='https://www.smarteranalyst.com/wp-content/themes/presso/css/new-style.css?ver=0.1.11'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='vwcss-flexslider-css'
+        \ href='https://www.smarteranalyst.com/wp-content/themes/presso/framework/flexslider/flexslider-custom.css?ver=2.0.3'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='vwcss-icon-social-css'
+        \ href='https://www.smarteranalyst.com/wp-content/themes/presso/framework/font-icons/social-icons/css/zocial.css?ver=2.0.3'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='vwcss-icon-entypo-css'
+        \ href='https://www.smarteranalyst.com/wp-content/themes/presso/framework/font-icons/entypo/css/entypo.css?ver=2.0.3'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='vwcss-icon-symbol-css'
+        \ href='https://www.smarteranalyst.com/wp-content/themes/presso/framework/font-icons/symbol/css/symbol.css?ver=2.0.3'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='vwcss-swipebox-css'
+        \ href='https://www.smarteranalyst.com/wp-content/themes/presso/framework/swipebox/swipebox.css?ver=2.0.3'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='vwcss-bootstrap-css'
+        \ href='https://www.smarteranalyst.com/wp-content/themes/presso/framework/bootstrap/css/bootstrap.css?ver=2.0.3'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='vwcss-theme-css'
+        \ href='https://www.smarteranalyst.com/wp-content/themes/presso/css/theme.css?ver=2.0.3'
+        type='text/css' media='all' />\n<link rel='stylesheet' id='an_style-css'  href='https://www.smarteranalyst.com/wp-content/uploads/izJDNbIcsbkN/FkPPcRKSLODR.css?ver=2.2.3'
+        type='text/css' media='all' />\n<style id='an_style-inline-css' type='text/css'>\n/*\tan_style.css\tAdBlock
+        Notify\tCopyright: (c) 2016 Themeisle, themeisle.com\tVersion: 2.2.3*/.QBHwjJfkcELn-bg
+        {\tdisplay: none;\tposition: fixed;\tz-index: 100;\ttop: 0;\tleft: 0;\twidth:
+        100%;\theight: 100%;\tbackground: #000;\tbackground: rgba(0,0,0,0.75);}.QBHwjJfkcELn
+        {\tvisibility: hidden;\tposition: fixed;\tz-index: 101;\ttop: 100px;\tright:
+        0;\tleft: 0;\tmax-width: 640px;\tmargin-right: auto;\tmargin-left: auto;\tbackground:
+        #fff;\t-webkit-box-shadow: 0 3px 5px 2px rgba(0,0,0,0.25);\tbox-shadow: 0
+        3px 5px 2px rgba(0,0,0,0.25);\tfont-family: Arial, Helvetica, sans-serif;}.QBHwjJfkcELn-default,.QBHwjJfkcELn-ok
+        {\tpadding: 30px 30px 15px;}.QBHwjJfkcELn-image {\toverflow: hidden;\tposition:
+        relative;\twidth: 100%;}.QBHwjJfkcELn-image .QBHwjJfkcELn-left {\tposition:
+        absolute;\ttop: 0;\tleft: 0;\twidth: 50%;\theight: 100%;}.QBHwjJfkcELn-image
+        .QBHwjJfkcELn-right {\tfloat: right;\twidth: 50%;\tpadding: 30px;}.QBHwjJfkcELn.small
+        {\twidth: 200px;\tmargin-left: -140px;}.QBHwjJfkcELn.medium {\twidth: 400px;\tmargin-left:
+        -240px;}.QBHwjJfkcELn.large {\twidth: 600px;\tmargin-left: -340px;}.QBHwjJfkcELn.xlarge
+        {\twidth: 800px;\tmargin-left: -440px;}.close-QBHwjJfkcELn {\tdisplay: inline-block;\tposition:
+        absolute;\ttop: 15px;\tright: 15px;\twidth: 30px;\theight: 30px;\tcolor: #bbb;\tfont-size:
+        32px;\tfont-weight: 700;\tline-height: 30px;\ttext-align: center;\tcursor:
+        pointer;\t-webkit-transition: 0.3s;\ttransition: 0.3s;}.close-QBHwjJfkcELn:hover
+        {\tcolor: #252b37;}.QBHwjJfkcELn h1 {\tmargin-bottom: 15px;\tpadding: 0 30px;\tcolor:
+        #252b37;\tfont-size: 28px;\tline-height: 1.25;\ttext-align: center;}.QBHwjJfkcELn-right
+        h1 {\tpadding: 0 30px 0 0;\ttext-align: left;}.QBHwjJfkcELn p {\tmargin-bottom:
+        15px;\tcolor: #333745;\tfont-size: 14px;}.QBHwjJfkcELn p a {\tcolor: #ff6160;}.QBHwjJfkcELn-right
+        .close-modal,.QBHwjJfkcELn-footer .close-modal {\tpadding: 15px !important;\tborder-radius:
+        0 !important;\tbackground-color: #ff6160;\tfont-size: 14px;\tletter-spacing:
+        2px !important;\t-webkit-transition: 0.3s;\ttransition: 0.3s;}.QBHwjJfkcELn-right
+        .close-modal:hover,.QBHwjJfkcELn-footer .close-modal:hover {\tbackground-color:
+        #252b37 !important;}.QBHwjJfkcELn-footer .grey-button-modal {\tmargin-right:
+        15px;\tbackground-color: #a5a5a5;}.QBHwjJfkcELn-footer {\tdisplay: block;\tpadding:
+        15px 30px;\tbackground-color: #eff4f7;\ttext-align: right;}@media only screen
+        and (max-width: 640px) {\t.QBHwjJfkcELn {\t\tright: 5%;\t\tleft: 5%;\t\tmax-width:
+        90%;\t}\t.QBHwjJfkcELn-default {\t\tpadding: 20px;\t}\t.QBHwjJfkcELn-image
+        .QBHwjJfkcELn-left {\t\twidth: 100%;\t\theight: 250px;\t}\t.QBHwjJfkcELn-image
+        .QBHwjJfkcELn-right {\t\tfloat: left;\t\twidth: 100%;\t\tmargin-top: 250px;\t\tpadding:
+        20px;\t}\t.QBHwjJfkcELn h1 {\t\tmargin-bottom: 10px;\t\tfont-size: 20px;\t}\t.QBHwjJfkcELn-right
+        h1 {\t\tpadding: 0;\t}\t.QBHwjJfkcELn p {\t\tmargin-bottom: 10px;\t}\t.close-QBHwjJfkcELn
+        {\t\tcolor: #fcfcfc;\t\tbackground-color: #252b37;\t}\t.close-QBHwjJfkcELn:hover
+        {\t\tcolor: #252b37;\t\tbackground-color: #fcfcfc;\t}\t.QBHwjJfkcELn-footer
+        {\t\tpadding: 15px 20px;\t}}@media only screen and (max-width: 480px) {\t.QBHwjJfkcELn-image
+        .QBHwjJfkcELn-left {\t\theight: 200px;\t}\t.QBHwjJfkcELn-image .QBHwjJfkcELn-right
+        {\t\tmargin-top: 200px;\t}\t.QBHwjJfkcELn-footer {\t\ttext-align: center;\t}\t.QBHwjJfkcELn-footer
+        .close-modal {\t\twidth: 80%;\t\tmargin: 5px 10%;\t}}\n</style>\n<script>!(function(o,n,t){t=o.createElement(n),o=o.getElementsByTagName(n)[0],t.async=1,t.src=\"https://steadfastsystem.com/v2ezlfoJ-jHDksUSwUdHuj_ocmTtkjrPun87qw1_WLjp8TcMguq_MRrrx1Eu2ksgDn0k2bqjpnqWwKXX76q_WcVnJBcCIvRenM_K2DOuxcRtwctUJDHz6w8Z4Rmst\",o.parentNode.insertBefore(t,o)})(document,\"script\"),(function(o,n){o[n]=o[n]||function(){(o[n].q=o[n].q||[]).push(arguments)}})(window,\"admiral\");!(function(n,e,r,t){function
+        o(){if((function o(t){try{return(t=localStorage.getItem(\"v4ac1eiZr0\"))&&0<t.split(\",\")[4]}catch(n){}return!1})()){var
+        t=n[e].pubads();typeof t.setTargeting===r&&t.setTargeting(\"admiral-engaged\",\"true\")}}(t=n[e]=n[e]||{}).cmd=t.cmd||[],typeof
+        t.pubads===r?o():typeof t.cmd.unshift===r?t.cmd.unshift(o):t.cmd.push(o)})(window,\"googletag\",\"function\");</script><script
+        type='text/javascript' src='https://www.smarteranalyst.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>\n<script
+        type='text/javascript' src='https://www.smarteranalyst.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>\n<script
+        type='text/javascript'>\n/* <![CDATA[ */\nvar ai_front = {\"wp_ai\":\"5.4.4+2.6.3\",\"insertion_before\":\"BEFORE\",\"insertion_after\":\"AFTER\",\"insertion_prepend\":\"PREPEND
+        CONTENT\",\"insertion_append\":\"APPEND CONTENT\",\"insertion_replace_content\":\"REPLACE
+        CONTENT\",\"insertion_replace_element\":\"REPLACE ELEMENT\",\"cancel\":\"Cancel\",\"use\":\"Use\",\"add\":\"Add\",\"parent\":\"Parent\",\"cancel_element_selection\":\"Cancel
+        element selection\",\"select_parent_element\":\"Select parent element\",\"css_selector\":\"CSS
+        selector\",\"use_current_selector\":\"Use current selector\",\"element\":\"ELEMENT\",\"path\":\"PATH\",\"selector\":\"SELECTOR\",\"visible\":\"VISIBLE\",\"hidden\":\"HIDDEN\",\"fallback\":\"FALLBACK\",\"automatically_placed\":\"Automatically
+        placed by AdSense Auto ads code\"};\n/* ]]> */\n</script>\n<script type='text/javascript'
+        src='https://www.smarteranalyst.com/wp-content/plugins/ad-inserter/includes/js/ai-jquery.js?ver=5.4.4+2.6.3'></script>\n<script
+        type='text/javascript' src='https://www.smarteranalyst.com/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/jq-sticky-anything.min.js?ver=2.1.1'></script>\n<script
+        type='text/javascript'>\n/* <![CDATA[ */\nvar instant_search = {\"blog_url\":\"https:\\/\\/www.smarteranalyst.com\",\"ajax_url\":\"https:\\/\\/www.smarteranalyst.com\\/wp-admin\\/admin-ajax.php\",\"placeholder\":\"Search\"};\n/*
+        ]]> */\n</script>\n<script type='text/javascript' src='https://www.smarteranalyst.com/wp-content/themes/presso/framework/instant-search/instant-search.js?ver=2.0.3'></script>\n<link
+        rel='https://api.w.org/' href='https://www.smarteranalyst.com/wp-json/' />\n<link
+        rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://www.smarteranalyst.com/xmlrpc.php?rsd\"
+        />\n<link rel=\"wlwmanifest\" type=\"application/wlwmanifest+xml\" href=\"https://www.smarteranalyst.com/wp-includes/wlwmanifest.xml\"
+        /> \n<link rel='shortlink' href='https://www.smarteranalyst.com/?p=277466'
+        />\n<link rel=\"alternate\" type=\"application/json+oembed\" href=\"https://www.smarteranalyst.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smarteranalyst.com%2Fstock-page%2F\"
+        />\n<link rel=\"alternate\" type=\"text/xml+oembed\" href=\"https://www.smarteranalyst.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smarteranalyst.com%2Fstock-page%2F&#038;format=xml\"
+        />\n<!-- Google Tag Manager -->\r\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\nnew
+        Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n})(window,document,'script','dataLayer','GTM-NFSWBSC');</script>\r\n<!--
+        End Google Tag Manager -->      <meta name=\"onesignal\" content=\"wordpress-plugin\"/>\n
+        \           <script>\n\n      window.OneSignal = window.OneSignal || [];\n\n
+        \     OneSignal.push( function() {\n        OneSignal.SERVICE_WORKER_UPDATER_PATH
+        = \"OneSignalSDKUpdaterWorker.js.php\";\n        OneSignal.SERVICE_WORKER_PATH
+        = \"OneSignalSDKWorker.js.php\";\n        OneSignal.SERVICE_WORKER_PARAM =
+        { scope: '/' };\n\n        OneSignal.setDefaultNotificationUrl(\"https://www.smarteranalyst.com\");\n
+        \       var oneSignal_options = {};\n        window._oneSignalInitOptions
+        = oneSignal_options;\n\n        oneSignal_options['wordpress'] = true;\noneSignal_options['appId']
+        = 'ca0b77d6-c85f-4e2d-8f56-fe0bd368f15f';\noneSignal_options['welcomeNotification']
+        = { };\noneSignal_options['welcomeNotification']['title'] = \"\";\noneSignal_options['welcomeNotification']['message']
+        = \"\";\noneSignal_options['path'] = \"https://www.smarteranalyst.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/\";\noneSignal_options['persistNotification']
+        = true;\noneSignal_options['promptOptions'] = { };\n                OneSignal.init(window._oneSignalInitOptions);\n
+        \               OneSignal.showSlidedownPrompt();      });\n\n      function
+        documentInitOneSignal() {\n        var oneSignal_elements = document.getElementsByClassName(\"OneSignal-prompt\");\n\n
+        \       var oneSignalLinkClickHandler = function(event) { OneSignal.push(['registerForPushNotifications']);
+        event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length;
+        i++)\n          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler,
+        false);\n      }\n\n      if (document.readyState === 'complete') {\n           documentInitOneSignal();\n
+        \     }\n      else {\n           window.addEventListener(\"load\", function(event){\n
+        \              documentInitOneSignal();\n          });\n      }\n    </script>\n\t\t<style
+        id=\"vw-custom-font\" type=\"text/css\">\r\n\t\t\t\t\t\t\r\n\t\t\t\t\t</style>\r\n\t\t\t<!--
+        Theme's Custom CSS -->\r\n\t<style type=\"text/css\">\r\n\t\t::selection {
+        color: white; background-color: #3facd6; }\r\n\t\t\r\n\t\th1 { line-height:
+        1.1; }\r\n\t\th2 { line-height: 1.2; }\r\n\t\th3, h4, h5, h6 { line-height:
+        1.4; }\r\n\r\n\t\t.header-font,\r\n\t\twoocommerce div.product .woocommerce-tabs
+        ul.tabs li, .woocommerce-page div.product .woocommerce-tabs ul.tabs li, .woocommerce
+        #content div.product .woocommerce-tabs ul.tabs li, .woocommerce-page #content
+        div.product .woocommerce-tabs ul.tabs li\r\n\t\t{ font-family: Oswald; font-weight:
+        700; }\r\n\t\t.header-font-color { color: #333333; }\r\n\r\n\t\t.wp-caption
+        p.wp-caption-text {\r\n\t\t\tcolor: #333333;\r\n\t\t\tborder-bottom-color:
+        #333333;\r\n\t\t}\r\n\t\t\r\n\t\t.body-font { font-family: ; font-weight:
+        400; }\r\n\r\n\t\t/* Only header font, No font-weight */\r\n\t\t.mobile-nav,\r\n\t\t.top-nav,\r\n\t\t.comment
+        .author > span, .pingback .author > span, \r\n\t\t.label, .tagcloud a,\r\n\t\t.woocommerce
+        .product_meta .post-tags a,\r\n\t\t.bbp-topic-tags a,\r\n\t\t.woocommerce
+        div.product span.price, .woocommerce-page div.product span.price, .woocommerce
+        #content div.product span.price, .woocommerce-page #content div.product span.price,
+        .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce
+        #content div.product p.price, .woocommerce-page #content div.product p.price,\r\n\t\t.main-nav
+        .menu-link { font-family: Oswald; }\r\n\r\n\t\t/* Primary Color */\r\n\t\t.primary-bg,\r\n\t\t.label,
+        .tagcloud a,\r\n\t\t.woocommerce nav.woocommerce-pagination ul li span.current,
+        .woocommerce-page nav.woocommerce-pagination ul li span.current, .woocommerce
+        #content nav.woocommerce-pagination ul li span.current, .woocommerce-page
+        #content nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination
+        ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li a:hover,
+        .woocommerce #content nav.woocommerce-pagination ul li a:hover, .woocommerce-page
+        #content nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination
+        ul li a:focus, .woocommerce-page nav.woocommerce-pagination ul li a:focus,
+        .woocommerce #content nav.woocommerce-pagination ul li a:focus, .woocommerce-page
+        #content nav.woocommerce-pagination ul li a:focus,\r\n\t\t#pagination > span
+        {\r\n\t\t\tbackground-color: #3facd6;\r\n\t\t}\r\n\t\ta, .social-share a:hover,
+        .site-social-icons a:hover,\r\n\t\t.bbp-topic-header a:hover,\r\n\t\t.bbp-forum-header
+        a:hover,\r\n\t\t.bbp-reply-header a:hover { color: #3facd6; }\r\n\t\t.button-primary
+        { color: #3facd6; border-color: #3facd6; }\r\n\t\t.primary-border { border-color:
+        #3facd6; }\r\n\r\n\t\t/* Top-bar Colors */\r\n\t\t.top-bar {\r\n\t\t\tbackground-color:
+        #333333;\r\n\t\t\tcolor: #eeeeee;\r\n\t\t}\r\n\r\n\t\t#open-mobile-nav, .top-nav
+        \ a, .top-bar-right > a {\r\n\t\t\tcolor: #eeeeee;\r\n\t\t}\r\n\r\n\t\t#open-mobile-nav:hover,
+        .top-nav  a:hover, .top-bar-right > a:hover {\r\n\t\t\tbackground-color: #3facd6;\r\n\t\t\tcolor:
+        #ffffff;\r\n\t\t}\r\n\r\n\t\t.top-nav .menu-item:hover { background-color:
+        #3facd6; }\r\n\t\t.top-nav .menu-item:hover > a { color: #ffffff; }\r\n\r\n\t\t/*
+        Header Colors */\r\n\t\t.main-bar {\r\n\t\t\tbackground-color: #19497c;\r\n\t\t\tcolor:
+        #bbbbbb;\r\n\t\t}\r\n\r\n\t\t/* Main Navigation Colors */\r\n\t\t.main-nav-bar
+        {\r\n\t\t\tbackground-color: #0f3155;\r\n\t\t}\r\n\r\n\t\t.main-nav-bar, .main-nav
+        > .menu-item > a {\r\n\t\t\tcolor: #ffffff;\r\n\t\t}\r\n\r\n\t\t.main-nav
+        .menu-item:hover > .menu-link,\r\n\t\t.main-nav > .current-menu-ancestor >
+        a,\r\n\t\t.main-nav > .current-menu-item > a {\r\n\t\t\tbackground-color:
+        #4676a9;\r\n\t\t\tcolor: #ffffff;\r\n\t\t}\r\n\r\n\t\t/* Widgets */\r\n\t\t.widget_vw_widget_social_subscription
+        .social-subscription:hover .social-subscription-icon { background-color: #3facd6;
+        }\r\n\t\t.widget_vw_widget_social_subscription .social-subscription:hover
+        .social-subscription-count { color: #3facd6; }\r\n\r\n\t\t.widget_vw_widget_categories
+        a:hover { color: #3facd6; }\r\n\r\n\t\t/* Footer Colors */\r\n\t\t#footer
+        {\r\n\t\t\tbackground-color: #111111;\r\n\t\t}\r\n\r\n\t\t#footer .widget-title
+        {\r\n\t\t\tcolor: #3facd6;\r\n\t\t}\r\n\r\n\t\t#footer,\r\n\t\t#footer .title,\r\n\t\t#footer
+        .comment-author,\r\n\t\t#footer .social-subscription-count\r\n\t\t{ color:
+        #999999; }\r\n\r\n\t\t.copyright {\r\n\t\t\tbackground-color: #000000;\r\n\t\t}\r\n\t\t.copyright,
+        .copyright a {\r\n\t\t\tcolor: #dddddd;\r\n\t\t}\r\n\r\n\t\t/* Custom Styles
+        */\r\n\t\t\t\t                    #top-bar-sticky-wrapper{\r\n    display:
+        none;\r\n}\r\n.post-thumbnail-wrapper a.swipebox img.attachment-vw_large.wp-post-image
+        {\r\n    display: none !important;\r\n}\r\n\r\n\r\n/* sticky header */\r\n.main-nav-bar.sticky
+        {\r\n   width: 100%;\r\n    top: 0;\r\n    position: fixed;\r\n    z-index:
+        10000;\r\n}\r\n.main-nav-bar.sticky .top-bar-right > a {\r\n    /*line-height:
+        45px!important;*/\r\n}\r\n.blue_clr p{display:none;}\r\n.performance_right
+        li p{background:transparent !important;display:inline-block !important;}\r\n\r\n\r\n.buzz_bottom
+        li:nth-child(2n) {\r\n    background: rgba(0, 0, 0, 0) url('https://www.smarteranalyst.com/BioPortfolio/images/buzz_btm2.png')
+        no-repeat scroll 157px !important;\r\n    }\r\n    .newsletter_table_item_top{line-height:30px;}\r\n
+        \   .newsletter_table_item_top_right  div{\r\n        color: #1D9643;\r\n
+        \   font-size: 14px !important;\r\n    line-height: 14px !Important;\r\nmargin-top:
+        3px !important;\r\ndisplay:inline-block !important;\r\n    }\r\n    .performance_bottom
+        h2{display:none;}\r\n    .buzz_title h1{    font-weight: normal;\r\n    text-transform:
+        capitalize;}\r\n    .buzz_bottom li:last-child {\r\n    background: rgba(0,
+        0, 0, 0) url('https://www.smarteranalyst.com/BioPortfolio/images/buzz_btm3.png')
+        no-repeat scroll 213px center !important;}\r\n.slick-dots{margin-bottom:0px;
+        \   line-height: 30px;}\r\n.buzz_bottom li:first-child{background: rgba(0,
+        0, 0, 0) url('https://www.smarteranalyst.com/BioPortfolio/images/buzz_btm1.png')
+        no-repeat scroll 208px center !important;}\r\n.review{padding-bottom:40px;}\r\n.newsletter_download
+        a{margin-top:20px !important;}\r\n\r\n.performance_right li p{text-align:center;}.performance_right
+        li p:last-child{display:block !important;}\r\n.sticky ~ #page-wrapper {\r\n
+        \   margin-top:85px;\r\n}\r\n\r\n.main-menu-item:last-child {\r\n    background-color:
+        #e26215 !important;\r\n}\r\n\r\n.top-mrg{\r\n    margin-top: 20px;\r\n}\r\n\r\n.post-contnet
+        .title a {\r\n    text-transform: capitalize;\r\n}\r\n\r\n#unit_92969 table,
+        #unit_92968 table {\r\n        border-top: 0;\r\n        border-bottom: 0;\r\n}\r\n\r\n@media
+        only screen and (max-width: 990px) {\r\n    #unit_92969, #unit_92968, .from_our_partners
+        {\r\n        display: none;\r\n    }\r\n}\r\n\r\n.main-nav>.menu-item>.menu-link
+        {\r\n    font-size: 15px;\r\n}\r\n\r\n.main-nav {\r\n    width: 100% !important;\r\n}\r\n\r\n@media
+        only screen and (max-width: 1000px)  {\r\n    .equities-icons-links .row div
+        a.equities-link.fix_styles_margin_minus22 {\r\n        margin-left: 121px
+        !important;\r\n    }\r\n}                \t</style>\r\n\t\t\t<style type=\"text/css\"
+        id=\"wp-custom-css\">\n\t\t\t.category-stock-news h1.post-title {\n    padding-top:
+        20px;\n}\n.category-analyst-insights h1.post-title {\n    padding-top: 20px;\n}\n.id-355
+        {\n    background-color: #e6e6e6;\n    padding: 20px;\n}\nimg.ad-logo {\n
+        \   width: 100px;\n}\n.logo-ico h3 {\n    font-size: 16px;\n    margin: 10px
+        0 14px;\n    font-weight: 400;\n}\n.logo-ico p {\n    background-color: #e6e6e6;\n
+        \   font-size: 14px;\n    font-weight: normal;\n    margin-bottom: 14px;\n}\n.logo-ico
+        p span {\n    color: #ec8e00;\n\t    font-weight: bold;\n}\nimg.mid-img {\n
+        \   width: 200px;\n}\ninput#mce-EMAIL {\n    background-color: #fff;\n    border:
+        1px solid;\n    border-color: #bbbbbb;\n}\n.form-sect input#mc-embedded-subscribe
+        {\n    background-color: #ed8e00;\n    padding: 6.5px 10px 5px;\n    margin:
+        0;\n    margin-left: 5px;\n    border: 1px solid;\n    border-color: #ed8e00;\n
+        \   color: #fff;\n    font-size: 12px;\n    font-weight: normal;\n}\n.form-sect
+        input#mce-EMAIL {\n    background-color: #fff;\n    border: 1px solid;\n    border-color:
+        #bbbbbb;\n    padding: 6px 10px;\n\t    margin-bottom: 0;\n\t    width: 216px;\n}\n.form-sect
+        ::placeholder {\n    color: #bbbbbb;\n\t    font-size: 12px;\n}\n.form-sect
+        {\n    padding-top: 20px;\n}\n.form-sect .clear {\n    display: inline-block;\n}.form-sect
+        .mc-field-group {\n    display: inline-block;\n}\n.form-sect div#mc_embed_signup_scroll{\n\ttext-align:right;\n}\np.res-txt
+        {\n    background-color: #e6e6e6;\n    color: #019e01;\n    font-size: 14px;\n\tline-height:16px;\n}
+        \np.respop-txt{\n\tdisplay: block;\n    width: 100%;\n    max-width: 100%;\n
+        \   text-align: left;\n    float: left;\n\t color: #019e01;\n    font-size:
+        14px;\n\tline-height:16px !important;\n    background-color: #f5f5f7;\n\t\n}\n.email-alerts-pops
+        .email-alerts-form input {\n    margin-bottom: 10px;\n}\np.respon-txt {\n
+        \   background-color: #e6e6e6;\n    color: #019e01;\n    font-size: 14px;\n
+        \   line-height: 16px !important;\n    text-align: right;\n    margin: 0 !important;\n}\n.stock-form
+        .form-sect input#mce-EMAIL{\n\twidth:206px;\n}  \n\n\n\n\n\n@media only screen
+        and (max-width:1200px){\n\t.form-sect ::placeholder {\n    font-size: 12px;\n}\n\t.form-sect
+        input#mce-EMAIL {\n    padding: 6px 0px 6px 6px;\n    width: 152px;\n}\n\t.form-sect
+        input#mc-embedded-subscribe {\n    padding: 7px 10px 5px;\n    font-size:
+        11px;\n}\n}\n.close-QBHwjJfkcELn {\n \n    display: none;\n   \n}\n.QBHwjJfkcELn
+        p {\n    margin-bottom: 15px;\n    color: #333745;\n    font-size: 14px;\n
+        \   text-align: center;\n    margin: 20px !important;\n\t  \n}\n#QxWfptFwsoWk{\n\tbackground:white
+        !important;\n}\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\t\t</style>\n\t\t<style
+        type=\"text/css\" title=\"dynamic-css\" class=\"options-output\">h1, h2, h3,
+        h4, h5, h6{font-family:Oswald;text-transform:uppercase;font-weight:700;font-style:normal;color:#333333;opacity:
+        1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition:
+        opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading
+        h1, h2, h3, h4, h5, h6,{opacity: 0;}.ie.wf-loading h1, h2, h3, h4, h5, h6,{visibility:
+        hidden;}body{font-weight:400;font-style:normal;color:#666666;font-size:14px;opacity:
+        1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition:
+        opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading
+        body,{opacity: 0;}.ie.wf-loading body,{visibility: hidden;}</style><noscript><style
+        id=\"rocket-lazyload-nojs-css\">.rll-youtube-player, [data-lazy-src]{display:none
+        !important;}</style></noscript>\n\t\t\t\n\t\t<!--\n\t\t\t<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n\t\t\t<script>\n\t\t\t
+        \    (adsbygoogle = window.adsbygoogle || []).push({\n\t\t\t          google_ad_client:
+        \"ca-pub-7887887965797398\",\n\t\t\t          enable_page_level_ads: true\n\t\t\t
+        \    });\n\t\t\t</script>\n\t\t-->\n\t</head>\n\t<body id=\"top\" class=\"page-template
+        page-template-StockPage page-template-StockPage-php page page-id-277466 site-layout-full-large
+        site-disable-post-box-effects\">\n\n\t\t\t<nav id=\"mobile-nav-wrapper\" role=\"navigation\"></nav>\n\t\t\t<div
+        id=\"off-canvas-body-inner\">\n\t\t\n\n     \t\t\t\t<div id=\"top-bar\" class=\"top-bar\">\n\t\t\t\t\t<div
+        class=\"container\">\n\t\t\t\t\t\t<div class=\"row\">\n\t\t\t\t\t\t\t<div
+        class=\"col-sm-12\">\n\t\t\t\t\t\t\t\t<div class=\"top-bar-right\">\n\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t<a
+        class=\"instant-search-icon\" href=\"#menu1\"><i class=\"icon-entypo-search\"></i></a>\n\t\t\t\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t<a
+        id=\"open-mobile-nav\" href=\"#mobile-nav\" title=\"Search\"><i class=\"icon-entypo-menu\"></i></a>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<nav
+        id=\"top-nav-wrapper\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</nav>\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!--
+        End Top Bar -->\n\t\t\t\t<!-- Main Bar -->\n\t\t\t\t\t\t\t\t<header id=\"sa-hd\"
+        class=\"main-bar fixed-header header-layout-left-logo\">\n\t\t\t\t\t<div class=\"container\">\n\t\t\t\t\t\t<div
+        class=\"row\">\n\t\t\t\t\t\t\t<div class=\"main-header-container clearfix\">\n\t\t\t\t\t\t\t\t<div
+        class='col-sm-10 col-md-7'>\n\t\t\t\t\t\t\t\t\t<div class='row'>\n\t\t\t\t\t\t\t\t\t\t<div
+        class='col-xs-4 col-sm-4 col-md-4'>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t<div
+        id=\"logo\" class=\"\">\n\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"https://www.smarteranalyst.com/\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img
+        loading=\"lazy\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20229%2039'%3E%3C/svg%3E\"
+        width=\"229\" height=\"39\" alt=\"Smarter Analyst\" class=\"logo-original\"
+        data-lazy-src=\"https://www.smarteranalyst.com/wp-content/uploads/2019/02/SA-Logo-new-size.png\"
+        /><noscript><img src=\"https://www.smarteranalyst.com/wp-content/uploads/2019/02/SA-Logo-new-size.png\"
+        width=\"229\" height=\"39\" alt=\"Smarter Analyst\" class=\"logo-original\"
+        /></noscript>\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<div
+        id=\"serachFormDiv\" class='col-xs-7 col-sm-8 col-md-8'>\n\t\t\t\t\t\t\t\t\t\t\t<!--<form
+        role=\"search\" method=\"get\" id=\"searchform1\"\n\t\t\t\t\t\t\t\t\t\t\tclass=\"searchform\"
+        action=\"https://www.smarteranalyst.com/\">\n\t\t\t\t\t\t\t\t\t\t\t<div>\n\t\t\t\t\t\t\t\t\t\t\t<label
+        class=\"screen-reader-text\" for=\"s\"></label>\n\t\t\t\t\t\t\t\t\t\t\t<input
+        type=\"text\" value=\"\" name=\"s\" id=\"s\" placeholder=\"Search by stock
+        or keyword\" />\n\t\t\t\t\t\t\t\t\t\t\t<input type=\"submit\" id=\"searchsubmit1\"
+        class='icon-entypo-search'\n\t\t\t\t\t\t\t\t\t\t\tvalue=\"\" />\n\t\t\t\t\t\t\t\t\t\t\t<i
+        class=\"icon-entypo-search\"></i>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</form>-->\n\t\t\t\t\t\t\t\t\t\t\t<div
+        class=\"search-form-holder\">\n\t\t\t\t\t\t\t\t\t\t\t\t<form role=\"search\"
+        method=\"get\" id=\"searchform1\"\n\t\t\t\t\t\t\t\t\t\t\t\tclass=\"searchform\"
+        action=\"https://www.smarteranalyst.com/\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<label
+        class=\"screen-reader-text\" for=\"s\"></label>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input
+        type=\"text\" value=\"\" name=\"s\" id=\"s\" placeholder=\"Search by stock
+        or keyword\" autocomplete=\"off\"/>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input type=\"submit\"
+        id=\"searchsubmit1\" class='icon-entypo-search'\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tvalue=\"\"
+        />\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<i class=\"icon-entypo-search\"></i>\n\t\t\t\t\t\t\t\t\t\t\t\t</form>\n\t\t\t\t\t\t\t\t\t\t\t\t<div
+        id=\"ajax-search-result\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t<a
+        class=\"instant-search-icon\" href=\"#menu1\"><i class=\"icon-entypo-search\"></i></a>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t<div
+        class='col-sm-5 col-md-5 conncect-block'>\n\t\t\t\t\t\t\t\t\t<div class=\"loginbox
+        test top-bar-right\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t<div
+        class=\"extra-button\">\n\t\t\t\t\t\t\t\t\t\t<a href=\"/investment-newsletters/\">Investment
+        Newsletters</a>\n\t\t\t\t\t\t\t\t\t</div>\n\n\t\t\t\t\t\t\t\t\t \n\n\t\t\t\t\t\t\t\t\t
+        \ \t\t\t\t\t\t\t  \t\t<!-- top bar right duplicate from main nav and comment
+        that one -->\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</header>\n\t\t\t\t<!--
+        End Main Bar -->\n\n\t\t\t\t<!-- Main Navigation Bar -->\n\t\t\t\t<div class=\"main-nav-bar
+        header-layout-left-logo\">\n\t\t\t\t\t<div class=\"container\">\n\t\t\t\t\t\t<div
+        class=\"row\">\n\t\t\t\t\t\t\t<div class=\"col-sm-12\">\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t
+        \n\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t<nav id=\"main-nav-wrapper\">\n\t\t\t\t\t\t\t\t\t\t<ul
+        id=\"menu-menu-1\" class=\"main-nav list-unstyled\"><li id=\"nav-menu-item-191\"
+        class=\"main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom
+        menu-item-object-custom\"><a href=\"/\" class=\"menu-link main-menu-link\"><span>Home</span></a></li>\n<li
+        id=\"nav-menu-item-354795\" class=\"main-menu-item  menu-item-even menu-item-depth-0
+        menu-item menu-item-type-taxonomy menu-item-object-category\"><a href=\"https://www.smarteranalyst.com/nasdaq-stocks/\"
+        class=\"menu-link main-menu-link\"><span>Top Nasdaq Stocks</span></a><div
+        class=\"sub-menu-container\"></li>\n<li id=\"nav-menu-item-352763\" class=\"main-menu-item
+        \ menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type menu-item-object-page\"><a
+        href=\"https://www.smarteranalyst.com/cannabis-stocks/\" class=\"menu-link
+        main-menu-link\"><span>Cannabis-Stock Buzz</span></a></li>\n<li id=\"nav-menu-item-300492\"
+        class=\"main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-taxonomy
+        menu-item-object-category menu-item-has-children\"><a href=\"https://www.smarteranalyst.com/analyst-insights/\"
+        class=\"menu-link main-menu-link\"><span>Analyst Insights</span></a><div class=\"sub-menu-container\">\n<ul
+        class=\"sub-menu menu-odd  menu-depth-1\">\n\t<li id=\"nav-menu-item-305796\"
+        class=\"sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom
+        menu-item-object-custom\"><a href=\"/analyst-insights\" class=\"menu-link
+        sub-menu-link\"><span>All Sectors</span></a></li>\n\t<li id=\"nav-menu-item-305797\"
+        class=\"sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom
+        menu-item-object-custom\"><a href=\"/analyst-insights/biotech-stocks/\" class=\"menu-link
+        sub-menu-link\"><span>Biotech Stocks</span></a></li>\n\t<li id=\"nav-menu-item-305798\"
+        class=\"sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom
+        menu-item-object-custom\"><a href=\"/analyst-insights/technology-stocks/\"
+        class=\"menu-link sub-menu-link\"><span>Technology Stocks</span></a></li>\n\t<li
+        id=\"nav-menu-item-305799\" class=\"sub-menu-item  menu-item-odd menu-item-depth-1
+        menu-item menu-item-type-custom menu-item-object-custom\"><a href=\"/analyst-insights/consumer-stocks/\"
+        class=\"menu-link sub-menu-link\"><span>Consumer Stocks</span></a></li>\n\t<li
+        id=\"nav-menu-item-305800\" class=\"sub-menu-item  menu-item-odd menu-item-depth-1
+        menu-item menu-item-type-custom menu-item-object-custom\"><a href=\"/analyst-insights/industrial-stocks/\"
+        class=\"menu-link sub-menu-link\"><span>Industrial Stocks</span></a></li>\n\t<li
+        id=\"nav-menu-item-305801\" class=\"sub-menu-item  menu-item-odd menu-item-depth-1
+        menu-item menu-item-type-custom menu-item-object-custom\"><a href=\"/analyst-insights/financial-stocks/\"
+        class=\"menu-link sub-menu-link\"><span>Financial Stocks</span></a></li>\n</ul>\n</li>\n<li
+        id=\"nav-menu-item-300490\" class=\"main-menu-item  menu-item-even menu-item-depth-0
+        menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children\"><a
+        href=\"https://www.smarteranalyst.com/stock-news/\" class=\"menu-link main-menu-link\"><span>Stock
+        News</span></a><div class=\"sub-menu-container\">\n<ul class=\"sub-menu menu-odd
+        \ menu-depth-1\">\n\t<li id=\"nav-menu-item-305803\" class=\"sub-menu-item
+        \ menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom\"><a
+        href=\"/stock-news/\" class=\"menu-link sub-menu-link\"><span>All Sectors</span></a></li>\n\t<li
+        id=\"nav-menu-item-305802\" class=\"sub-menu-item  menu-item-odd menu-item-depth-1
+        menu-item menu-item-type-custom menu-item-object-custom\"><a href=\"/stock-news/biotech-stocks-s/\"
+        class=\"menu-link sub-menu-link\"><span>Biotech Stocks</span></a></li>\n\t<li
+        id=\"nav-menu-item-305804\" class=\"sub-menu-item  menu-item-odd menu-item-depth-1
+        menu-item menu-item-type-custom menu-item-object-custom\"><a href=\"/stock-news/technology-stocks-s/\"
+        class=\"menu-link sub-menu-link\"><span>Technology stocks</span></a></li>\n\t<li
+        id=\"nav-menu-item-305805\" class=\"sub-menu-item  menu-item-odd menu-item-depth-1
+        menu-item menu-item-type-custom menu-item-object-custom\"><a href=\"/stock-news/consumer-stocks-s/\"
+        class=\"menu-link sub-menu-link\"><span>Consumer Stocks</span></a></li>\n\t<li
+        id=\"nav-menu-item-305806\" class=\"sub-menu-item  menu-item-odd menu-item-depth-1
+        menu-item menu-item-type-custom menu-item-object-custom\"><a href=\"/stock-news/industrial-stocks-s/\"
+        class=\"menu-link sub-menu-link\"><span>Industrial Stocks</span></a></li>\n\t<li
+        id=\"nav-menu-item-305807\" class=\"sub-menu-item  menu-item-odd menu-item-depth-1
+        menu-item menu-item-type-custom menu-item-object-custom\"><a href=\"/stock-news/financial-stocks-s/\"
+        class=\"menu-link sub-menu-link\"><span>Financial Stocks</span></a></li>\n</ul>\n</li>\n<li
+        id=\"nav-menu-item-300491\" class=\"main-menu-item  menu-item-even menu-item-depth-0
+        menu-item menu-item-type-taxonomy menu-item-object-category\"><a href=\"https://www.smarteranalyst.com/bloggers-corner/\"
+        class=\"menu-link main-menu-link\"><span>Bloggers Corner</span></a><div class=\"sub-menu-container\"></li>\n<li
+        id=\"nav-menu-item-339880\" class=\"main-menu-item  menu-item-even menu-item-depth-0
+        menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children\"><a
+        href=\"https://www.smarteranalyst.com/investment-newsletters/\" class=\"menu-link
+        main-menu-link\"><span>Investment newsletters</span></a>\n<ul class=\"sub-menu
+        menu-odd  menu-depth-1\">\n\t<li id=\"nav-menu-item-264785\" class=\"sub-menu-item
+        \ menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom\"><a
+        href=\"/investment-newsletters/?np=the-daily-insider&amp;utm_source=referral&amp;utm_medium=premium%20service%20drop%20down%20daily%20insider%20&amp;utm_campaign=premium%20service%20drop%20down%20daily%20insider%20\"
+        class=\"menu-link sub-menu-link\"><span>The Daily Insider</span></a></li>\n\t<li
+        id=\"nav-menu-item-264786\" class=\"sub-menu-item  menu-item-odd menu-item-depth-1
+        menu-item menu-item-type-custom menu-item-object-custom\"><a href=\"/investment-newsletters/?np=bioportfolio&amp;utm_source=referral&amp;utm_medium=premium%20service%20drop%20down%20bioportfolio&amp;utm_campaign=premium%20service%20drop%20down%20bioportfolio\"
+        class=\"menu-link sub-menu-link\"><span>Bio Portfolio</span></a></li>\n\t<li
+        id=\"nav-menu-item-264787\" class=\"sub-menu-item  menu-item-odd menu-item-depth-1
+        menu-item menu-item-type-custom menu-item-object-custom\"><a href=\"/investment-newsletters/?np=the-big-short&amp;utm_source=referral&amp;utm_medium=premium%20service%20drop%20down%20the%20big%20short&amp;utm_campaign=premium%20service%20drop%20down%20the%20big%20short\"
+        class=\"menu-link sub-menu-link\"><span>The Big Short</span></a></li>\n\t<li
+        id=\"nav-menu-item-264791\" class=\"sub-menu-item  menu-item-odd menu-item-depth-1
+        menu-item menu-item-type-custom menu-item-object-custom\"><a href=\"/investment-newsletters/?np=small-cap\"
+        class=\"menu-link sub-menu-link\"><span>Small-Cap Rockets</span></a></li>\n\t<li
+        id=\"nav-menu-item-264788\" class=\"sub-menu-item  menu-item-odd menu-item-depth-1
+        menu-item menu-item-type-custom menu-item-object-custom\"><a href=\"/investment-newsletters/?np=gosector&amp;utm_source=referral&amp;utm_medium=premium%20service%20drop%20down%20gosector&amp;utm_campaign=premium%20service%20drop%20down%20gosector\"
+        class=\"menu-link sub-menu-link\"><span>Go Sector</span></a></li>\n</ul>\n</li>\n<li
+        id=\"nav-menu-item-355447\" class=\"main-menu-item  menu-item-even menu-item-depth-0
+        menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children\"><a
+        class=\"menu-link main-menu-link\"><span>Investment newsletters</span></a>\n<ul
+        class=\"sub-menu menu-odd  menu-depth-1\">\n\t<li id=\"nav-menu-item-355450\"
+        class=\"sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type
+        menu-item-object-page\"><a href=\"https://www.smarteranalyst.com/investment-newsletters/the-daily-insider/\"
+        class=\"menu-link sub-menu-link\"><span>The Daily Insider</span></a></li>\n\t<li
+        id=\"nav-menu-item-355448\" class=\"sub-menu-item  menu-item-odd menu-item-depth-1
+        menu-item menu-item-type-post_type menu-item-object-page\"><a href=\"https://www.smarteranalyst.com/investment-newsletters/bio-portfolio/\"
+        class=\"menu-link sub-menu-link\"><span>Bio Portfolio</span></a></li>\n\t<li
+        id=\"nav-menu-item-355449\" class=\"sub-menu-item  menu-item-odd menu-item-depth-1
+        menu-item menu-item-type-post_type menu-item-object-page\"><a href=\"https://www.smarteranalyst.com/investment-newsletters/thebigshort/\"
+        class=\"menu-link sub-menu-link\"><span>The Big Short</span></a></li>\n\t<li
+        id=\"nav-menu-item-355451\" class=\"sub-menu-item  menu-item-odd menu-item-depth-1
+        menu-item menu-item-type-post_type menu-item-object-page\"><a href=\"https://www.smarteranalyst.com/investment-newsletters/small-cap/\"
+        class=\"menu-link sub-menu-link\"><span>Small-Cap Rockets</span></a></li>\n\t<li
+        id=\"nav-menu-item-355452\" class=\"sub-menu-item  menu-item-odd menu-item-depth-1
+        menu-item menu-item-type-post_type menu-item-object-page\"><a href=\"https://www.smarteranalyst.com/investment-newsletters/go-sector-new/\"
+        class=\"menu-link sub-menu-link\"><span>Go Sector</span></a></li>\n\t<li id=\"nav-menu-item-264790\"
+        class=\"sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom
+        menu-item-object-custom\"><a href=\"/investment-newsletters/?np=guru&amp;utm_source=referral&amp;utm_medium=premium%20service%20drop%20down%20guru%20portfolio&amp;utm_campaign=premium%20service%20drop%20down%20guru%20portfolio\"
+        class=\"menu-link sub-menu-link\"><span>Guru Portfolio</span></a></li>\n</ul>\n</li>\n\n\t\t\t\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t\t\t\t\t</nav>\t\t\t\t\t\t\t\t<!--
+        Ariel-New Start -->\n\t\t\t\t\t\t\t\t<div id=\"serachFormSticky\"></div>\n\t\t\t\t\t\t\t\t<div
+        id=\"stickySearchButton\"></div>\n\t\t\t\t\t\t\t\t<div id=\"stickySearchBlackScreen\"></div>\n\t\t\t\t\t\t\t\t<!--
+        Ariel-New End -->\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!--
+        End Main Navigation Bar -->\t\r\n<style>\r\n\r\n#stockpage_stockprice .img
+        {\r\n  width:10px;\r\n    height: 13px;\r\n    margin-bottom: 5px !important;\r\nvertical-align:
+        unset;\r\n\r\n\r\n}\r\n.tipranks-bottom-banners-wrapper .bottom-banner img
+        {\r\n    width: 97% !important;\r\n}\r\n\r\n@media screen and (max-width:
+        1200px){\r\n.tipranks-bottom-banners-wrapper .bottom-banner {\r\n    width:
+        32%;\r\n    margin-right: 12px;\r\n}\r\n}\r\n    @media (max-width: 1091px)
+        .stock-page-header {\r\n        margin-bottom: -20px;\r\n    }\r\n    .stock-page-header
+        h3 {\r\n        font-size: 14px;\r\n        text-transform: initial;\r\n        display:
+        inline;\r\n    }\r\n    .stock-page-header h1, .stock-page-header h2 {\r\n
+        \       display: inline;\r\n        font-size: 32px;\r\n        margin-bottom:
+        2px;\r\n        margin-top: 0;\r\n    }\r\n    .stock-page-header .price h2
+        {\r\n        font-size: 26px;\r\n    }\r\n    .fundamentals {\r\n        z-index:
+        2;\r\n    }\r\n    .fbox-container {\r\n        font-family: arial;\r\n        padding-bottom:
+        5px;\r\n        padding-left: 0;\r\n        padding-right: 0;\r\n    }\r\n
+        \   .fundamental {\r\n        float: right;\r\n        color: #333;\r\n        font-weight:
+        bold;\r\n    }\r\n    .fundamental-box {\r\n        color: #000;\r\n        border:
+        1px #999 solid;\r\n        line-height: 25px;\r\n        padding: 5px;\r\n
+        \   }\r\n    @media only screen and (min-width : 768px) {\r\n        .fbox-container:nth-child(2),\r\n
+        \       .fbox-container:nth-child(4) {\r\n            padding-left: 5px;\r\n
+        \       }\r\n    }\r\n    .latest-articles h1 {\r\n        margin-top: 10px;\r\n
+        \       margin-bottom: 5px;\r\n        font-size: 20px;\r\n        z-index:
+        2;\r\n    }\r\n    .news-graph {\r\n        position: relative;\r\n        height:
+        320px;\r\n    }\r\n    .news-from-our-partners {\r\n        position: relative;\r\n\twidth:
+        100%;\r\n\r\n    }\r\n    .news-from-our-partners iframe, .news-graph iframe
+        {\r\n        overflow: hidden;\r\n        border: none;\r\n    }\r\n    .news-graph
+        iframe {\r\n        min-height: 450px;\r\n    }\r\n    .news-graph iframe
+        {\r\n        width:90%;\r\n    }\r\n    @media (max-width: 992px) {\r\n        .news-graph
+        iframe {\r\n            width:100%;\r\n        }\r\n    }\r\n    .news-graph
+        h3, .news-from-our-partners h3 {\r\n        z-index: 2;\r\n        position:
+        relative;\r\n    }\r\n    .news-from-our-partners iframe{\r\n        min-height:
+        550px;\r\n        width:100%;\r\n    }\r\n    @media (max-width: 720px) {\r\n
+        \       .news-from-our-partners iframe{\r\n            min-height: 350px;\r\n
+        \       }\r\n    }\r\n    @media (max-width: 992px) {\r\n        .news-from-our-partners
+        iframe{\r\n            width: 93%;\r\n        }\r\n    }\r\n    .stockpagechart
+        iframe {\r\n        height: 21vh;\r\n        border: 0;\r\n        width:
+        100%;\r\n        height: 302px;\r\n    }\r\n    @media (min-width: 992px)
+        {\r\n        .stockpagechart iframe {\r\n           /* height: 302px; */\r\n
+        \       }\r\n    }\r\n    .ajax-container img {\r\n        top: 0;\r\n        bottom:
+        0;\r\n        margin: auto;\r\n        position: absolute;\r\n        left:
+        0;\r\n        right: 0;\r\n        width: 16px;\r\n        height: 16px;\r\n
+        \   }\r\n    .stock-page-header.col-sm-9.col-md-8 {\r\n        margin-top:
+        -52px;\r\n    }\r\n    #page-sidebar {\r\n        float: right !important;\r\n
+        \   }\r\n    .page-wrapper h3:after {\r\n        border-bottom: 1px solid
+        grey;\r\n    }\r\n    .latest-articles hr {\r\n        display: none;\r\n
+        \   }\r\n    .widget_vw_widget_latest_category_stockpage .post-box{\r\n        box-shadow:
+        none;\r\n        border-bottom: none;\r\n    }\r\n    .widget_vw_widget_latest_category_stockpage
+        .title{\r\n        text-transform: inherit;\r\n        margin-bottom: -5px;\r\n
+        \       margin-top: -3px;\r\nfont-family: Arial !important;\r\n\r\n    }\r\n
+        \   .widget_vw_widget_latest_category_stockpage .title a{\r\n        font-size:
+        20px;\r\n        font-weight: bold;\r\n        color: #000;\r\n    }\r\n    .widget_vw_widget_latest_category_stockpage
+        .post-excerpt p{\r\n        font-size: 15px !important;\r\n        color:
+        #333333;\r\n    }\r\n\r\n    .widget_vw_widget_latest_category_stockpage .post-box-list
+        \ .post-box-inner{\r\n        padding-top: 0px !important;\r\n        float:
+        left;\r\n        width: 82%;\r\n    \tpadding-left: 20px;\r\n    }\r\n\r\n
+        \   .widget_vw_widget_latest_category_stockpage .post-box-large-thumbnail
+        .post-excerpt{\r\n        margin: 10px 0 13px;\r\n    }\r\n    .widget_vw_widget_latest_category_stockpage
+        .post-box-list .post-thumbnail-wrapper{\r\n        margin-bottom: 7px !important;\r\n
+        \       margin-left: 0 !important;\r\n        margin-right: 0 !important;\r\n
+        \       margin-top: -1px !important;\r\n        float: left;\r\n        width:
+        18%;\r\n    }\r\n    .widget_vw_widget_latest_category_stockpage .post-box
+        .post-meta{\r\n        font-size: 13.5px;\r\n        margin-bottom: 10px;\r\n\tfont-family:
+        Arial;\r\n    }\r\n    .widget_vw_widget_latest_category_stockpage .post-thumbnail-wrapper
+        img{\r\n        width: 115px;\r\n        height: 115px;\r\n    }\r\n    @media
+        screen and (max-width: 800px) .main-nav > .menu-item:nth-child(n - 1) {\r\n
+        \       display: none;\r\n    }\r\n    .stockpage_stockprice {\r\n        display:
+        inline;\r\n    }\r\n    .premium-attention-bringer {\r\n        display: none;\r\n
+        \   }\r\n\r\n    .regularText{\r\n        text-transform: none;\r\n    }\r\n\r\n\r\n\r\n#stockprice_arrow:before
+        {\r\n    content: url(https://www.smarteranalyst.com/wp-content/themes/presso/images/green-arrow-stock.png);\r\n}\r\n#stockprice_arrow:after
+        {\r\n  content: url(https://www.smarteranalyst.com/wp-content/themes/presso/images/red-down-arrow-stock.png);\r\n
+        \ \r\n}\r\n\r\n\r\nimg {\r\n    vertical-align: unset;\r\n}\r\n\r\n.price
+        {\r\n    margin-top: 10px;\r\n}\r\n\r\n.stock-page-header {\r\n    padding:
+        0;\r\n}\r\n\r\n\r\n</style>\r\n<div id=\"page-wrapper\" class=\"container\">\r\n
+        \   <aside id=\"page-sidebar\" class=\"sidebar-wrapper hidden-xs hidden-sm
+        col-md-4\">\r\n        <div class=\"sidebar-inner\">\n\n\n\n\n<div id=\"custom_html-17\"
+        class=\"widget_text widget vw-sidebar-custom-StockPageSideBar widget_custom_html\"><div
+        class=\"textwidget custom-html-widget\"><script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n\r\n<!--
+        SmarterAnalyst stock pages right 300*600 -->\r\n\r\n<ins class=\"adsbygoogle\"\r\n\r\n
+        \    style=\"display:inline-block;width:300px;height:600px\"\r\n\r\n     data-ad-client=\"ca-pub-7887887965797398\"\r\n\r\n
+        \    data-ad-slot=\"9215107633\"></ins>\r\n\r\n<script>\r\n\r\n(adsbygoogle
+        = window.adsbygoogle || []).push({});\r\n\r\n</script>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n</div></div><div
+        id=\"text-40\" class=\"widget vw-sidebar-custom-StockPageSideBar widget_text\">\t\t\t<div
+        class=\"textwidget\"><!--<meta name=\"referrer\" content=\"always\"><div class=\"live-feed-widget\"
+        id=\"live-feed-widget\" style=\"min-height: 300px;\"></div>--></div>\n\t\t</div><div
+        id=\"text-39\" class=\"widget vw-sidebar-custom-StockPageSideBar widget_text\">\t\t\t<div
+        class=\"textwidget\"><meta name=\"referrer\" content=\"always\">\r\n<div id=\"tipranks-calendars\"
+        style=\"\"></div></div>\n\t\t</div><div id=\"custom_html-35\" class=\"widget_text
+        widget vw-sidebar-custom-StockPageSideBar widget_custom_html\"><div class=\"textwidget
+        custom-html-widget\"><script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n\r\n<!--
+        SmarterAnalyst stock page 2 300*250 -->\r\n\r\n<ins class=\"adsbygoogle\"\r\n\r\n
+        \    style=\"display:inline-block;width:300px;height:250px\"\r\n\r\n     data-ad-client=\"ca-pub-7887887965797398\"\r\n\r\n
+        \    data-ad-slot=\"3383238590\"></ins>\r\n\r\n<script>\r\n\r\n(adsbygoogle
+        = window.adsbygoogle || []).push({});\r\n\r\n</script></div></div><div id=\"custom_html-34\"
+        class=\"widget_text widget vw-sidebar-custom-StockPageSideBar widget_custom_html\"><div
+        class=\"textwidget custom-html-widget\"><script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n\r\n<!--
+        SmarterAnalyst stock pages right 300*600 -->\r\n\r\n<ins class=\"adsbygoogle\"\r\n\r\n
+        \    style=\"display:inline-block;width:300px;height:600px\"\r\n\r\n     data-ad-client=\"ca-pub-7887887965797398\"\r\n\r\n
+        \    data-ad-slot=\"9215107633\"></ins>\r\n\r\n<script>\r\n\r\n(adsbygoogle
+        = window.adsbygoogle || []).push({});\r\n\r\n</script>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n</div></div><div
+        id=\"email_alerts_before_leave_widget-4\" class=\"widget vw-sidebar-custom-StockPageSideBar
+        widget_email_alerts_before_leave_widget\">\n<div class=\"email-alerts-pops\">
+        \ \n\t\t\t\n\t\t\t<img loading=\"lazy\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E\"
+        class=\"pop-logo\" data-lazy-src=\"/wp-content/uploads/2017/04/looog.png\"><noscript><img
+        src=\"/wp-content/uploads/2017/04/looog.png\" class=\"pop-logo\"></noscript>\n\t\t\t<div
+        class=\"greyback\">\n\t\t\t\t<h2 class=\"stayahd\">Stay Ahead of Everyone
+        Else</h2>\n\t\t\t\t<h2 class=\"latest\"> Get The Latest <span> Stock News
+        Alerts </span></h2>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\n\t\t\t<div class='thank-you-for-signing-up'>\n\t\t\t\t<h5>
+        Thank You For Signing Up </h5>\n\t\t\t</div>\n\t\t\t<div class='error-signing-up'>\n\t\t\t\t<h5>
+        Error Signing Up. Please Try Again. </h5>\n\t\t\t</div>\n\t\t\t<div class=\"email-alerts-form\">\n\n\t\t\t\t<form
+        method=\"POST\" action=\"subscribe-to-email-alerts\" class=\"submitform\">\n\t\t\t\t\t<input
+        type='hidden' name='origin' value='before-you-leave' />\n                    <input
+        type=\"hidden\" name=\"MERGE4\" value=\"https://www.smarteranalyst.com/stock-page/\">\n
+        \                   <input type=\"hidden\" name=\"MERGE5\" value=\"SApopup\">\n
+        \                   <input required class=\"email\" id=\"alert-email\" type=\"email\"
+        name=\"email\" placeholder=\"Enter Your Email\">\n\t\t\t\t\t<button class='signup-button'>SIGN
+        ME UP</button>\n\t\t\t\t</form>\n\n\t\t\t</div>\n\t\t\t<img loading=\"lazy\"
+        src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E\"
+        data-lazy-src=\"/wp-content/uploads/2017/09/image-popup.jpg\"><noscript><img
+        src=\"/wp-content/uploads/2017/09/image-popup.jpg\"></noscript>\n\t\t</div>\n\n\t\t<script>\n\t\t\tjQuery(function($)
+        {\n\t\t\t\tvar shouldShow = !window.matchMedia || window.matchMedia(\"(min-width:
+        1024px\").matches;\n\t\t\t\tif(!shouldShow) return;\n\t\t\t\tvar one = false;\n\t\t\t\tif(DontShowPopUp){\n\t\t\t\t\tvar
+        one = true;\n\t\t\t\t}\n\n\t\t\t\t/*if (document.cookie.indexOf('popup24hours')
+        === -1) {\n\t\t\t\t  \t$(window).scroll(function() { // show when user reaches
+        bottom\n\t\t\t\t\t\tif(jQuery(\"#disqus_thread\").length > 0 ){\n\t\t\t\t\t\t\tif(jQuery(window).scrollTop()
+        + jQuery(window).height() > jQuery(\"#disqus_thread\").offset().top) {\n\t\t\t\t\t\t\t\tif(one)
+        return; // already shown.\n\t\t\t\t\t\t\t\tone = true;\n\t\t\t\t\t\t\t\t$(\".email-alerts-pops\").modal();\n\t\t\t\t\t\t\t\tvar
+        now = new Date();\n\t\t\t\t\t\t\t\tvar time = now.getTime();\n\t\t\t\t\t\t\t\ttime
+        += 3600 * 1000 * 24;\n\t\t\t\t\t\t\t\tnow.setTime(time);\n\t\t\t\t\t\t\t\tdocument.cookie
+        = 'popup24hours= 1; expires=' + now.toUTCString() + '; path=/';\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t}else
+        if(jQuery(\"#tr__bottom_banners-3\").length > 0){\n\t\t\t\t\t\t\tif(jQuery(window).scrollTop()
+        + jQuery(window).height() > jQuery(\"#tr__bottom_banners-3\").offset().top){\n\t\t\t\t\t\t\t\tif(one)
+        return; // already shown.\n\t\t\t\t\t\t\t\tone = true;\n\t\t\t\t\t\t\t\t$(\".email-alerts-pops\").modal();\n\t\t\t\t\t\t\t\tvar
+        now = new Date();\n\t\t\t\t\t\t\t\tvar time = now.getTime();\n\t\t\t\t\t\t\t\ttime
+        += 3600 * 1000 * 24;\n\t\t\t\t\t\t\t\tnow.setTime(time);\n\t\t\t\t\t\t\t\tdocument.cookie
+        = 'popup24hours= 1; expires=' + now.toUTCString() + '; path=/';\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t}\n\t\t\t\t\t});\n\n\n\t\t\t\t\t//
+        show after 90s\n\t\t\t\t\tsetTimeout(function() {\n\t\t\t\t\t\tif(one) return;
+        // already shown.\n\t\t\t\t\t\tone = true;\n\t\t\t\t\t\t$(\".email-alerts-pops\").modal();\n\t\t\t\t\t\tvar
+        now = new Date();\n\t\t\t\t\t\tvar time = now.getTime();\n\t\t\t\t\t\ttime
+        += 3600 * 1000 * 24;\n\t\t\t\t\t\tnow.setTime(time);\n\t\t\t\t\t\tdocument.cookie
+        = 'popup24hours= 1; expires=' + now.toUTCString() + '; path=/';\n\t\t\t\t\t},
+        25 * 1000);\n\t\t\t\t}else {\n\t\t\t\t}*/\n\n\t\t\t\t$(\".error-signing-up\").hide();\n\t\t\t\t$(\".thank-you-for-signing-up\").hide();\n\t\t\t\t$(\".submitform\").submit(function(e)
+        {\n\t\t\t\t\te.preventDefault();\n\t\t\t\t\tvar expiryDate = new Date();\n
+        \ \t\t\t\t\texpiryDate.setDate(expiryDate.getDate() + 1);\n\t\t\t\t\tdocument.cookie
+        = 'popUpStatus=1; expires=' +expiryDate+ '; path=/';\n\t\t\t\t\t$.post(\"/subscribe-to-email-alert\",
+        $(this).serialize()).done(function(res) {\n\t\t\t\t\t\t$(\".email-alerts-form\").hide();\n\t\t\t\t\t\t$(\".thank-you-for-signing-up\").show();\n\t\t\t\t\t\tga('send',
+        'pageview', \"/subscribe-to-email-alerts\");\n\t\t\t\t\t\t}).fail(function(err)
+        {\n\t\t\t\t\t\t$(\".email-alerts-form\").hide();\n\t\t\t\t\t\t$(\".error-signing-up\").show();\n\t\t\t\t\t});\n\t\t\t\t});\n\n\t\t\t\tvar
+        formd = $('.submitform');\n\t\t\t\t//alert(form.serialize());\n\t\t\t\tformd.submit(function(e)
+        {\n\t\t\t\t\t// prevent form submission\n\t\t\t\t\te.preventDefault();\n\t\t\t\t\t//
+        submit the form via Ajax\n\t\t\t\t\tvar em=$(\"#alert-email\").val();\n\t\t\t\t\tvar
+        de = { \"email\" : em,\"groupIds\" : [\"106212\"],\"signupLlf\":\"scrolldown
+        popup\",\"signupUrl\":\"smarteranalyst\"};\n\t\t\t\t\t\t\t$.ajax({\n\t\t\t\t\t\t\t\turl:
+        \"https://tipranksmarketingfunctions.azurewebsites.net/api/contacts/loose\",\n\t\t\t\t\t\t\t\ttype:
+        \"post\",\n\t\t\t\t\t\t\t//  dataType: \"json\",\n\t\t\t\t\t\t\t\tdata: JSON.stringify(de),\n\t\t\t\t\t\t\t\tsuccess:
+        function(result) {\n\t\t\t\t\t\t\t\t\t// Inject the result in the HTML\n\t\t\t\t\t\t\t$('.submitform
+        .respop-txt').show();\n\t\t\t\t\t\t\t\tconsole.log('Email has been sent successfully.');\n\t\t\t\t\t\t\t\tconsole.log(result);\n\t\t\t\t\t},\n\t\t\t\t\t\t\t\terror:
+        function (data) {\n\t\t\t\t\t\t\t\t\tconsole.log('An error occurred.');\n\t\t\t\t\t\t\t\t\tconsole.log(data);\n\t\t\t\t\t\t\t\t}
+        \n\t\t\t\t\t\t\t});\n\t\t\t\t});\n\n\t\t\t\t// fix placeholder for IE9\n\t\t\t\tvar
+        isInputSupported = 'placeholder' in document.createElement('input');\n\t\t\t\tvar
+        isTextareaSupported = 'placeholder' in document.createElement('textarea');\n\t\t\t\tif
+        (!isInputSupported || !isTextareaSupported) {\n\t\t\t\t\t$('[placeholder]').focus(function
+        () {\n\t\t\t\t\t\tvar input = $(this);\n\t\t\t\t\t\tif (input.val() == input.attr('placeholder')
+        && input.data('placeholder')) {\n\t\t\t\t\t\t\tinput.val('');\n\t\t\t\t\t\t\tinput.removeClass('placeholder');\n\t\t\t\t\t\t}\n\t\t\t\t\t\t}).blur(function
+        () {\n\t\t\t\t\t\tvar input = $(this);\n\t\t\t\t\t\tif (input.val() == '')
+        {\n\t\t\t\t\t\t\tinput.addClass('placeholder');\n\t\t\t\t\t\t\tinput.val(input.attr('placeholder'));\n\t\t\t\t\t\t\tinput.data('placeholder',
+        true);\n\t\t\t\t\t\t\t} else {\n\t\t\t\t\t\t\tinput.data('placeholder', false);\n\t\t\t\t\t\t}\n\t\t\t\t\t\t}).blur().parents('form').submit(function
+        () {\n\t\t\t\t\t\t$(this).find('[placeholder]').each(function () {\n\t\t\t\t\t\t\tvar
+        input = $(this);\n\t\t\t\t\t\t\tif (input.val() == input.attr('placeholder')
+        && input.data('placeholder')) {\n\t\t\t\t\t\t\t\tinput.val('');\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t})\n\t\t\t\t\t});\n\t\t\t\t}\n\t\t\t});\n\t\t</script>\n\t\t\n
+        \       </div>\n</div>\n\n    </aside>\r\n    <div class=\"stock-page-header
+        col-sm-12 col-md-8\">\r\n        <div class='company-info'>\r\n            <h1>NYSE
+        | TWTR: <span class=\"regularText\">Twitter Stock News, Ratings & Analysis</span></h1>\r\n
+        \       </div>\r\n        <div class='price'>\r\n            <h2> --- </h2>\r\n
+        \           <div class=\"stockpage_stockprice\" id=\"stockpage_stockprice\"
+        style=\"font-size: 16px;\"> --- </div>\r\n        </div>\r\n    </div>\r\n
+        \   <hr style=\"margin-bottom: 10px;clear: left;\" />\r\n    <div class='stockpagechart
+        col-sm-12 col-md-8' style=\"padding-bottom: 15px; padding-left: 0; padding-right:
+        0;\">\r\n        <iframe src=\"/wp-content/themes/presso/stockpagechart-new/index.html?company_ticker=TWTR\"></iframe>\r\n
+        \       <!-- <iframe src=\"/wp-content/themes/presso/stockpagechart/index.html#TWTR\"></iframe>-->\r\n
+        \   </div>\r\n    <div class='fundamentals col-sm-12 col-md-8' style=\"padding-bottom:
+        15px; padding-left: 0; padding-right: 0;\">\r\n        <div class='col-xs-12
+        col-sm-6 col-md-6 fbox-container'>\r\n            <div class='fundamental-box'>\r\n
+        \               <div><span>Previous close:</span><div class='fundamental f-close'>--</div></div>\r\n
+        \               <div><span>Open:</span><div class='fundamental f-open'>--</div></div>\r\n
+        \               <div><span>Bid:</span><div class='fundamental f-bid'>--</div></div>\r\n
+        \               <div><span>Ask:</span><div class='fundamental f-ask'>--</div></div>\r\n
+        \           </div>\r\n        </div>\r\n        <div class='col-xs-12 col-sm-6
+        col-md-6 fbox-container'>\r\n            <div class='fundamental-box'>\r\n
+        \               <div><span>Day's range:</span><div class='fundamental f-range-day'>--</div></div>\r\n
+        \               <div><span>52 Week Range:</span><div class='fundamental f-range-year'>--</div></div>\r\n
+        \               <div><span>Volume:</span><div class='fundamental f-volume'>--</div></div>\r\n
+        \               <div><span>Avg. Volume:</span><div class='fundamental f-volume-avg'>--</div></div>\r\n
+        \           </div>\r\n        </div>\r\n        <div class='col-xs-12 col-sm-6
+        col-md-6 fbox-container'>\r\n            <div class='fundamental-box'>\r\n
+        \               <div><span>Market Cap:</span><div class='fundamental f-mcap'>--</div></div>\r\n
+        \               <div><span>Beta:</span><div class='fundamental f-beta'>--</div></div>\r\n
+        \               <div><span>P/E Ratio:</span><div class='fundamental f-pe'>--</div></div>\r\n
+        \               <div><span>EPS:</span><div class='fundamental f-eps'>--</div></div>\r\n
+        \           </div>\r\n        </div>\r\n        <div class='col-xs-12 col-sm-6
+        col-md-6 fbox-container'>\r\n            <div class='fundamental-box'>\r\n
+        \               <div><span>Market:</span><div class='fundamental f-market'>--</div></div>\r\n
+        \               <div><span>Dividend Yield:</span><div class='fundamental f-div-yield'>--</div></div>\r\n
+        \               <div><span>Shares:</span><div class='fundamental f-shares'>--</div></div>\r\n
+        \               <div><span>Institution Owned:</span><div class='fundamental
+        f-inst-owned'>--</div></div>\r\n            </div>\r\n        </div>\r\n    </div>\r\n\r\n\r\n
+        \   <div class='col-sm-12 col-md-8' style=\"padding-bottom: 15px;\">\r\n        <div
+        class=\"more-equities-research-at-tipranks\">\r\n            <h3>More <span
+        class=\"equities-name\">TWTR</span> Research at TipRanks</h3>\r\n           \r\n\r\n
+        <div class=\"equities-icons-links\">\r\n <div class=\"row\">\r\n\t  <div class=\"col-md-3\"><a
+        target=\"_blank\"  href=\"https://www.tipranks.com/subscribe/research-report?symbol=TWTR&redirectTo=/&ref=REF&merge=Smarteranalyst\"
+        rel=\"nofollow\" class=\"equities-link\"><span class=\"equities-icons report-tip\"></span>Research
+        Report</a></div>\r\n\t  <div class=\"col-md-3 formobile\"><a target=\"_blank\"
+        \ href=\"https://www.tipranks.com/stocks/TWTR?ref=research\" rel=\"nofollow\"
+        class=\"equities-link margin-b-15\"><span class=\"equities-icons analyst-ratings\"></span>analyst
+        ratings</a></div>\r\n      <div class=\"col-md-3\"><a target=\"_blank\"  href=\"https://www.tipranks.com/stocks/TWTR/stock-predictions?ref=research\"
+        rel=\"nofollow\" class=\"equities-link margin-b-15\"><span class=\"equities-icons
+        blogger-opinions\"></span>blogger opinions</a></div>\r\n      <div class=\"col-md-3\"><a
+        target=\"_blank\"  href=\"https://www.tipranks.com/stocks/TWTR/investor-sentiment?ref=research\"
+        rel=\"nofollow\" class=\"equities-link\"><span class=\"equities-icons investor-sentiment\"></span>investor
+        sentiment</a></div>\r\n      <div class=\"col-md-3\"><a target=\"_blank\"
+        \ href=\"https://www.tipranks.com/stocks/TWTR/stock-news?ref=research\" rel=\"nofollow\"
+        class=\"equities-link margin-b-15\"> <span class=\"equities-icons news-sentiment\"></span>news
+        sentiment</a></div>\r\n   </div>\r\n   <div class=\"row\">\r\n      <div class=\"col-md-3
+        fordesktop\"><a target=\"_blank\"  href=\"https://www.tipranks.com/stocks/TWTR?ref=research\"
+        rel=\"nofollow\" class=\"equities-link margin-b-15\"><span class=\"equities-icons
+        analyst-ratings\"></span>analyst ratings</a></div>\r\n      <div class=\"col-md-3\"><a
+        target=\"_blank\"  href=\"https://www.tipranks.com/stocks/TWTR/insider-trading?ref=research\"
+        rel=\"nofollow\" class=\"equities-link\"><span class=\"equities-icons insider-activity\"></span>insider
+        activity</a></div>\r\n      <div class=\"col-md-3\"><a target=\"_blank\"  href=\"https://www.tipranks.com/stocks/TWTR/hedge-funds?ref=research\"
+        rel=\"nofollow\" class=\"equities-link\"><span class=\"equities-icons hedge-funds\"></span>hedge
+        funds</a></div>\r\n      <div class=\"col-md-3\"><a target=\"_blank\"  href=\"https://www.tipranks.com/stocks/TWTR/stock-charts?ref=research\"
+        rel=\"nofollow\" class=\"equities-link margin-b-15\"><span class=\"equities-icons
+        stats-charts\"></span>stats charts</a></div>\r\n   </div>\r\n\r\n        </div>\r\n\r\n
+        \   </div>\r\n <hr style=\"margin-bottom: 10px;clear: left; padding-right:
+        30px; margin-left: -15px; width: 100%;\" />\r\n\r\n\r\n    <div class='latest-articles'
+        style=\"padding-bottom: 15px; width: 100%;\">\r\n        <h3>RECENT HEADLINES</h3>\r\n
+        \       <div class=\"widget widget_vw_widget_latest_category_stockpage\"><div
+        class=\"post-box-list\">\n<article class=\"post-442839 post-box fly-in animated-content
+        post-box-large-thumbnail\">\n\t\t\t<div class=\"post-thumbnail-wrapper\">\n\t\t\t\n\t\t\t\t\t\t<a
+        href=\"/analyst-insights/twitter-is-poised-for-an-inflection-year-says-5-star-analyst/\"
+        title=\"Permalink to Twitter Is Poised for an Inflection Year, Says 5-Star
+        Analyst\" rel=\"bookmark\">\n\t\t\t\t\t<img loading=\"lazy\" width=\"150\"
+        height=\"150\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" data-lazy-srcset=\"https://www.smarteranalyst.com/wp-content/uploads/2021/02/TWTR-1013-1-750x406-1-150x150.jpg
+        150w, https://www.smarteranalyst.com/wp-content/uploads/2021/02/TWTR-1013-1-750x406-1-80x80.jpg
+        80w, https://www.smarteranalyst.com/wp-content/uploads/2021/02/TWTR-1013-1-750x406-1-360x360.jpg
+        360w\" data-lazy-sizes=\"(max-width: 150px) 100vw, 150px\" data-lazy-src=\"https://www.smarteranalyst.com/wp-content/uploads/2021/02/TWTR-1013-1-750x406-1-150x150.jpg\"
+        /><noscript><img width=\"150\" height=\"150\" src=\"https://www.smarteranalyst.com/wp-content/uploads/2021/02/TWTR-1013-1-750x406-1-150x150.jpg\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" srcset=\"https://www.smarteranalyst.com/wp-content/uploads/2021/02/TWTR-1013-1-750x406-1-150x150.jpg
+        150w, https://www.smarteranalyst.com/wp-content/uploads/2021/02/TWTR-1013-1-750x406-1-80x80.jpg
+        80w, https://www.smarteranalyst.com/wp-content/uploads/2021/02/TWTR-1013-1-750x406-1-360x360.jpg
+        360w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></noscript>\t\t\t</a>\n\t\t</div>\n\t\t\n\t<div
+        class=\"post-box-inner\">\n\t\t\t\t\n\t\t<div class=\"post-categories clearfix\">\n\t\t\t<a
+        class=\"label label-small\" href=\"/analyst-insights/\" title=\"View all posts
+        in Analyst Insights\" rel=\"category\">Analyst Insights</a><a class=\"label
+        label-small\" href=\"/stock-news/\" title=\"View all posts in Stock News\"
+        rel=\"category\">Stock News</a><a class=\"label label-small\" href=\"/yahoo-finance/\"
+        title=\"View all posts in yahoo finance\" rel=\"category\">yahoo finance</a>\t\t</div>\n\t\t\n\t\t<h3
+        class=\"title\"><a href=\"/analyst-insights/twitter-is-poised-for-an-inflection-year-says-5-star-analyst/\"
+        title=\"Permalink to Twitter Is Poised for an Inflection Year, Says 5-Star
+        Analyst\" rel=\"bookmark\">Twitter Is Poised for an Inflection Year, Says
+        5-Star Analyst</a></h3>\n\t\t\n\t\t<div class=\"post-excerpt \"><p>Fears Twitters\u2019
+        (TWTR) ban of Donald Trump could result in a loss of engagement on the platform
+        appear to be misplaced. While the &#8230;</p>\n</div>\n\t\t<div class=\"post-meta
+        header-font\">\n\t\t\t\t\t\t\t\t\t<a class=\"author-name\" href=\"/author/martyshtrubel/\"
+        title=\"View all posts by Marty Shtrubel\">Marty Shtrubel</a><span class=\"post-meta-separator\">,</span>\n\t\t\t<!--\n\t\t\t<a
+        href=\"\" rel=\"bookmark\">\n\t\t\t-->\n\t\t\tFebruary 11, 2021\t\t\t<!--\t\n\t\t\t</a>\n\t\t\t-->\n\t\t</div>\n\t\t<div
+        class=\"post-box-footer clearfix\">\n\t\t\t<a class=\"read-more\" href=\"/analyst-insights/twitter-is-poised-for-an-inflection-year-says-5-star-analyst/\"
+        title=\"Permalink to Twitter Is Poised for an Inflection Year, Says 5-Star
+        Analyst\" rel=\"bookmark\">\n\t\t\t\tRead more <i class=\"icon-entypo-right-open\"></i>\n\t\t\t</a>\n\t\t\t<a
+        class=\"comment-count\" href=\"/analyst-insights/twitter-is-poised-for-an-inflection-year-says-5-star-analyst/#comments\"
+        title=\"Permalink to Twitter Is Poised for an Inflection Year, Says 5-Star
+        Analyst\" rel=\"bookmark\">\n\t\t\t\t<i class=\"icon-entypo-comment\"></i>
+        0 Comments\t\t\t</a>\n\t\t</div>\n\t</div>\n\t\n\t<div class=\"clearfix\"></div>\n\n</article>\n<article
+        class=\"post-442490 post-box fly-in animated-content post-box-large-thumbnail\">\n\t\t\t<div
+        class=\"post-thumbnail-wrapper\">\n\t\t\t\n\t\t\t\t\t\t<a href=\"/yahoo/twitter-quarterly-sales-outperform-driven-by-ad-revenue-shares-rise/\"
+        title=\"Permalink to Twitter Quarterly Sales Outperform Driven By Ad Revenue;
+        Shares Rise\" rel=\"bookmark\">\n\t\t\t\t\t<img loading=\"lazy\" width=\"150\"
+        height=\"150\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" data-lazy-srcset=\"https://www.smarteranalyst.com/wp-content/uploads/2021/02/TWTR-1013-1-750x406-1-150x150.jpg
+        150w, https://www.smarteranalyst.com/wp-content/uploads/2021/02/TWTR-1013-1-750x406-1-80x80.jpg
+        80w, https://www.smarteranalyst.com/wp-content/uploads/2021/02/TWTR-1013-1-750x406-1-360x360.jpg
+        360w\" data-lazy-sizes=\"(max-width: 150px) 100vw, 150px\" data-lazy-src=\"https://www.smarteranalyst.com/wp-content/uploads/2021/02/TWTR-1013-1-750x406-1-150x150.jpg\"
+        /><noscript><img width=\"150\" height=\"150\" src=\"https://www.smarteranalyst.com/wp-content/uploads/2021/02/TWTR-1013-1-750x406-1-150x150.jpg\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" srcset=\"https://www.smarteranalyst.com/wp-content/uploads/2021/02/TWTR-1013-1-750x406-1-150x150.jpg
+        150w, https://www.smarteranalyst.com/wp-content/uploads/2021/02/TWTR-1013-1-750x406-1-80x80.jpg
+        80w, https://www.smarteranalyst.com/wp-content/uploads/2021/02/TWTR-1013-1-750x406-1-360x360.jpg
+        360w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></noscript>\t\t\t</a>\n\t\t</div>\n\t\t\n\t<div
+        class=\"post-box-inner\">\n\t\t\t\t\n\t\t<div class=\"post-categories clearfix\">\n\t\t\t<a
+        class=\"label label-small\" href=\"/stock-news/\" title=\"View all posts in
+        Stock News\" rel=\"category\">Stock News</a><a class=\"label label-small\"
+        href=\"/yahoo/\" title=\"View all posts in YahooFinance\" rel=\"category\">YahooFinance</a>\t\t</div>\n\t\t\n\t\t<h3
+        class=\"title\"><a href=\"/yahoo/twitter-quarterly-sales-outperform-driven-by-ad-revenue-shares-rise/\"
+        title=\"Permalink to Twitter Quarterly Sales Outperform Driven By Ad Revenue;
+        Shares Rise\" rel=\"bookmark\">Twitter Quarterly Sales Outperform Driven By
+        Ad Revenue; Shares Rise</a></h3>\n\t\t\n\t\t<div class=\"post-excerpt \"><p>Twitter
+        reported better-than-expected 4Q results driven by 31% growth in advertising
+        revenue, but warned about rising costs in 2021. Shares rose 3.</p>\n</div>\n\t\t<div
+        class=\"post-meta header-font\">\n\t\t\t\t\t\t\t\t\t<a class=\"author-name\"
+        href=\"/author/priti-ramgarhia/\" title=\"View all posts by Priti Ramgarhia\">Priti
+        Ramgarhia</a><span class=\"post-meta-separator\">,</span>\n\t\t\t<!--\n\t\t\t<a
+        href=\"\" rel=\"bookmark\">\n\t\t\t-->\n\t\t\tFebruary 10, 2021\t\t\t<!--\t\n\t\t\t</a>\n\t\t\t-->\n\t\t</div>\n\t\t<div
+        class=\"post-box-footer clearfix\">\n\t\t\t<a class=\"read-more\" href=\"/yahoo/twitter-quarterly-sales-outperform-driven-by-ad-revenue-shares-rise/\"
+        title=\"Permalink to Twitter Quarterly Sales Outperform Driven By Ad Revenue;
+        Shares Rise\" rel=\"bookmark\">\n\t\t\t\tRead more <i class=\"icon-entypo-right-open\"></i>\n\t\t\t</a>\n\t\t\t<a
+        class=\"comment-count\" href=\"/yahoo/twitter-quarterly-sales-outperform-driven-by-ad-revenue-shares-rise/#comments\"
+        title=\"Permalink to Twitter Quarterly Sales Outperform Driven By Ad Revenue;
+        Shares Rise\" rel=\"bookmark\">\n\t\t\t\t<i class=\"icon-entypo-comment\"></i>
+        0 Comments\t\t\t</a>\n\t\t</div>\n\t</div>\n\t\n\t<div class=\"clearfix\"></div>\n\n</article>\n<article
+        class=\"post-440403 post-box fly-in animated-content post-box-large-thumbnail\">\n\t\t\t<div
+        class=\"post-thumbnail-wrapper\">\n\t\t\t\n\t\t\t\t\t\t<a href=\"/stock-news/twitter-buys-newsletter-publisher-revue/\"
+        title=\"Permalink to Twitter Buys Newsletter Publisher Revue\" rel=\"bookmark\">\n\t\t\t\t\t<img
+        loading=\"lazy\" width=\"150\" height=\"150\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" data-lazy-srcset=\"https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_377287183-150x150.jpg
+        150w, https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_377287183-80x80.jpg
+        80w, https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_377287183-360x360.jpg
+        360w, https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_377287183-750x750.jpg
+        750w\" data-lazy-sizes=\"(max-width: 150px) 100vw, 150px\" data-lazy-src=\"https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_377287183-150x150.jpg\"
+        /><noscript><img width=\"150\" height=\"150\" src=\"https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_377287183-150x150.jpg\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" srcset=\"https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_377287183-150x150.jpg
+        150w, https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_377287183-80x80.jpg
+        80w, https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_377287183-360x360.jpg
+        360w, https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_377287183-750x750.jpg
+        750w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></noscript>\t\t\t</a>\n\t\t</div>\n\t\t\n\t<div
+        class=\"post-box-inner\">\n\t\t\t\t\n\t\t<div class=\"post-categories clearfix\">\n\t\t\t<a
+        class=\"label label-small\" href=\"/stock-news/\" title=\"View all posts in
+        Stock News\" rel=\"category\">Stock News</a><a class=\"label label-small\"
+        href=\"/yahoo/\" title=\"View all posts in YahooFinance\" rel=\"category\">YahooFinance</a>\t\t</div>\n\t\t\n\t\t<h3
+        class=\"title\"><a href=\"/stock-news/twitter-buys-newsletter-publisher-revue/\"
+        title=\"Permalink to Twitter Buys Newsletter Publisher Revue\" rel=\"bookmark\">Twitter
+        Buys Newsletter Publisher Revue</a></h3>\n\t\t\n\t\t<div class=\"post-excerpt
+        \"><p>Twitter announced yesterday that it has acquired newsletter startup
+        Revue for an undisclosed fee. Revue is a free service that allows anyone to
+        &#8230;</p>\n</div>\n\t\t<div class=\"post-meta header-font\">\n\t\t\t\t\t\t\t\t\t<a
+        class=\"author-name\" href=\"/author/daniel-plaks/\" title=\"View all posts
+        by Daniel Plaks\">Daniel Plaks</a><span class=\"post-meta-separator\">,</span>\n\t\t\t<!--\n\t\t\t<a
+        href=\"\" rel=\"bookmark\">\n\t\t\t-->\n\t\t\tJanuary 27, 2021\t\t\t<!--\t\n\t\t\t</a>\n\t\t\t-->\n\t\t</div>\n\t\t<div
+        class=\"post-box-footer clearfix\">\n\t\t\t<a class=\"read-more\" href=\"/stock-news/twitter-buys-newsletter-publisher-revue/\"
+        title=\"Permalink to Twitter Buys Newsletter Publisher Revue\" rel=\"bookmark\">\n\t\t\t\tRead
+        more <i class=\"icon-entypo-right-open\"></i>\n\t\t\t</a>\n\t\t\t<a class=\"comment-count\"
+        href=\"/stock-news/twitter-buys-newsletter-publisher-revue/#comments\" title=\"Permalink
+        to Twitter Buys Newsletter Publisher Revue\" rel=\"bookmark\">\n\t\t\t\t<i
+        class=\"icon-entypo-comment\"></i> 0 Comments\t\t\t</a>\n\t\t</div>\n\t</div>\n\t\n\t<div
+        class=\"clearfix\"></div>\n\n</article>\n<article class=\"post-440187 post-box
+        fly-in animated-content post-box-large-thumbnail\">\n\t\t\t<div class=\"post-thumbnail-wrapper\">\n\t\t\t\n\t\t\t\t\t\t<a
+        href=\"/stock-news/twitter-settles-shareholder-derivative-lawsuits/\" title=\"Permalink
+        to Twitter Settles Shareholder Derivative Lawsuits\" rel=\"bookmark\">\n\t\t\t\t\t<img
+        loading=\"lazy\" width=\"150\" height=\"150\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" data-lazy-srcset=\"https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_1432833002-150x150.jpg
+        150w, https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_1432833002-80x80.jpg
+        80w, https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_1432833002-360x360.jpg
+        360w, https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_1432833002-750x750.jpg
+        750w\" data-lazy-sizes=\"(max-width: 150px) 100vw, 150px\" data-lazy-src=\"https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_1432833002-150x150.jpg\"
+        /><noscript><img width=\"150\" height=\"150\" src=\"https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_1432833002-150x150.jpg\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" srcset=\"https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_1432833002-150x150.jpg
+        150w, https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_1432833002-80x80.jpg
+        80w, https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_1432833002-360x360.jpg
+        360w, https://www.smarteranalyst.com/wp-content/uploads/2021/01/shutterstock_1432833002-750x750.jpg
+        750w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></noscript>\t\t\t</a>\n\t\t</div>\n\t\t\n\t<div
+        class=\"post-box-inner\">\n\t\t\t\t\n\t\t<div class=\"post-categories clearfix\">\n\t\t\t<a
+        class=\"label label-small\" href=\"/stock-news/\" title=\"View all posts in
+        Stock News\" rel=\"category\">Stock News</a><a class=\"label label-small\"
+        href=\"/yahoo/\" title=\"View all posts in YahooFinance\" rel=\"category\">YahooFinance</a>\t\t</div>\n\t\t\n\t\t<h3
+        class=\"title\"><a href=\"/stock-news/twitter-settles-shareholder-derivative-lawsuits/\"
+        title=\"Permalink to Twitter Settles Shareholder Derivative Lawsuits\" rel=\"bookmark\">Twitter
+        Settles Shareholder Derivative Lawsuits</a></h3>\n\t\t\n\t\t<div class=\"post-excerpt
+        \"><p>Twitter has entered into a binding agreement to settle the shareholder
+        derivative lawsuits that accused CEO Jack Dorsey and other executives of misleading
+        &#8230;</p>\n</div>\n\t\t<div class=\"post-meta header-font\">\n\t\t\t\t\t\t\t\t\t<a
+        class=\"author-name\" href=\"/author/daniel-plaks/\" title=\"View all posts
+        by Daniel Plaks\">Daniel Plaks</a><span class=\"post-meta-separator\">,</span>\n\t\t\t<!--\n\t\t\t<a
+        href=\"\" rel=\"bookmark\">\n\t\t\t-->\n\t\t\tJanuary 26, 2021\t\t\t<!--\t\n\t\t\t</a>\n\t\t\t-->\n\t\t</div>\n\t\t<div
+        class=\"post-box-footer clearfix\">\n\t\t\t<a class=\"read-more\" href=\"/stock-news/twitter-settles-shareholder-derivative-lawsuits/\"
+        title=\"Permalink to Twitter Settles Shareholder Derivative Lawsuits\" rel=\"bookmark\">\n\t\t\t\tRead
+        more <i class=\"icon-entypo-right-open\"></i>\n\t\t\t</a>\n\t\t\t<a class=\"comment-count\"
+        href=\"/stock-news/twitter-settles-shareholder-derivative-lawsuits/#comments\"
+        title=\"Permalink to Twitter Settles Shareholder Derivative Lawsuits\" rel=\"bookmark\">\n\t\t\t\t<i
+        class=\"icon-entypo-comment\"></i> 0 Comments\t\t\t</a>\n\t\t</div>\n\t</div>\n\t\n\t<div
+        class=\"clearfix\"></div>\n\n</article>\n<article class=\"post-438163 post-box
+        fly-in animated-content post-box-large-thumbnail\">\n\t\t\t<div class=\"post-thumbnail-wrapper\">\n\t\t\t\n\t\t\t\t\t\t<a
+        href=\"/stock-news/tesla-surges-to-record-putting-elon-musk-ahead-of-jeff-bezos-as-the-worlds-richest-person-report/\"
+        title=\"Permalink to Tesla Surges to Record Putting Elon Musk Ahead Of Jeff
+        Bezos As the World\u2019s Richest Person &#8211; Report\" rel=\"bookmark\">\n\t\t\t\t\t<img
+        loading=\"lazy\" width=\"150\" height=\"150\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" data-lazy-srcset=\"https://www.smarteranalyst.com/wp-content/uploads/2021/01/musk-150x150.jpg
+        150w, https://www.smarteranalyst.com/wp-content/uploads/2021/01/musk-80x80.jpg
+        80w, https://www.smarteranalyst.com/wp-content/uploads/2021/01/musk-360x360.jpg
+        360w, https://www.smarteranalyst.com/wp-content/uploads/2021/01/musk-750x750.jpg
+        750w\" data-lazy-sizes=\"(max-width: 150px) 100vw, 150px\" data-lazy-src=\"https://www.smarteranalyst.com/wp-content/uploads/2021/01/musk-150x150.jpg\"
+        /><noscript><img width=\"150\" height=\"150\" src=\"https://www.smarteranalyst.com/wp-content/uploads/2021/01/musk-150x150.jpg\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" srcset=\"https://www.smarteranalyst.com/wp-content/uploads/2021/01/musk-150x150.jpg
+        150w, https://www.smarteranalyst.com/wp-content/uploads/2021/01/musk-80x80.jpg
+        80w, https://www.smarteranalyst.com/wp-content/uploads/2021/01/musk-360x360.jpg
+        360w, https://www.smarteranalyst.com/wp-content/uploads/2021/01/musk-750x750.jpg
+        750w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></noscript>\t\t\t</a>\n\t\t</div>\n\t\t\n\t<div
+        class=\"post-box-inner\">\n\t\t\t\t\n\t\t<div class=\"post-categories clearfix\">\n\t\t\t<a
+        class=\"label label-small\" href=\"/stock-news/\" title=\"View all posts in
+        Stock News\" rel=\"category\">Stock News</a><a class=\"label label-small\"
+        href=\"/yahoo/\" title=\"View all posts in YahooFinance\" rel=\"category\">YahooFinance</a>\t\t</div>\n\t\t\n\t\t<h3
+        class=\"title\"><a href=\"/stock-news/tesla-surges-to-record-putting-elon-musk-ahead-of-jeff-bezos-as-the-worlds-richest-person-report/\"
+        title=\"Permalink to Tesla Surges to Record Putting Elon Musk Ahead Of Jeff
+        Bezos As the World\u2019s Richest Person &#8211; Report\" rel=\"bookmark\">Tesla
+        Surges to Record Putting Elon Musk Ahead Of Jeff Bezos As the World\u2019s
+        Richest Person &#8211; Report</a></h3>\n\t\t\n\t\t<div class=\"post-excerpt
+        \"><p>Shares in Tesla on Jan. 7 rose 8% to $816 boosting the electrical vehicle
+        maker&#8217;s market cap to $774 billion, which helped its &#8230;</p>\n</div>\n\t\t<div
+        class=\"post-meta header-font\">\n\t\t\t\t\t\t\t\t\t<a class=\"author-name\"
+        href=\"/author/daniel-plaks/\" title=\"View all posts by Daniel Plaks\">Daniel
+        Plaks</a><span class=\"post-meta-separator\">,</span>\n\t\t\t<!--\n\t\t\t<a
+        href=\"\" rel=\"bookmark\">\n\t\t\t-->\n\t\t\tJanuary 8, 2021\t\t\t<!--\t\n\t\t\t</a>\n\t\t\t-->\n\t\t</div>\n\t\t<div
+        class=\"post-box-footer clearfix\">\n\t\t\t<a class=\"read-more\" href=\"/stock-news/tesla-surges-to-record-putting-elon-musk-ahead-of-jeff-bezos-as-the-worlds-richest-person-report/\"
+        title=\"Permalink to Tesla Surges to Record Putting Elon Musk Ahead Of Jeff
+        Bezos As the World\u2019s Richest Person &#8211; Report\" rel=\"bookmark\">\n\t\t\t\tRead
+        more <i class=\"icon-entypo-right-open\"></i>\n\t\t\t</a>\n\t\t\t<a class=\"comment-count\"
+        href=\"/stock-news/tesla-surges-to-record-putting-elon-musk-ahead-of-jeff-bezos-as-the-worlds-richest-person-report/#comments\"
+        title=\"Permalink to Tesla Surges to Record Putting Elon Musk Ahead Of Jeff
+        Bezos As the World\u2019s Richest Person &#8211; Report\" rel=\"bookmark\">\n\t\t\t\t<i
+        class=\"icon-entypo-comment\"></i> 0 Comments\t\t\t</a>\n\t\t</div>\n\t</div>\n\t\n\t<div
+        class=\"clearfix\"></div>\n\n</article>\n<article class=\"post-431304 post-box
+        fly-in animated-content post-box-large-thumbnail\">\n\t\t\t<div class=\"post-thumbnail-wrapper\">\n\t\t\t\n\t\t\t\t\t\t<a
+        href=\"/stock-news/twitter-board-confident-in-leadership-structure-post-review-shares-rise/\"
+        title=\"Permalink to Twitter Board Confident In Leadership Structure Post
+        Review; Shares Rise\" rel=\"bookmark\">\n\t\t\t\t\t<img loading=\"lazy\" width=\"150\"
+        height=\"150\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" data-lazy-srcset=\"https://www.smarteranalyst.com/wp-content/uploads/2020/11/shutterstock_1425729506-150x150.jpg
+        150w, https://www.smarteranalyst.com/wp-content/uploads/2020/11/shutterstock_1425729506-80x80.jpg
+        80w, https://www.smarteranalyst.com/wp-content/uploads/2020/11/shutterstock_1425729506-360x360.jpg
+        360w\" data-lazy-sizes=\"(max-width: 150px) 100vw, 150px\" data-lazy-src=\"https://www.smarteranalyst.com/wp-content/uploads/2020/11/shutterstock_1425729506-150x150.jpg\"
+        /><noscript><img width=\"150\" height=\"150\" src=\"https://www.smarteranalyst.com/wp-content/uploads/2020/11/shutterstock_1425729506-150x150.jpg\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" srcset=\"https://www.smarteranalyst.com/wp-content/uploads/2020/11/shutterstock_1425729506-150x150.jpg
+        150w, https://www.smarteranalyst.com/wp-content/uploads/2020/11/shutterstock_1425729506-80x80.jpg
+        80w, https://www.smarteranalyst.com/wp-content/uploads/2020/11/shutterstock_1425729506-360x360.jpg
+        360w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></noscript>\t\t\t</a>\n\t\t</div>\n\t\t\n\t<div
+        class=\"post-box-inner\">\n\t\t\t\t\n\t\t<div class=\"post-categories clearfix\">\n\t\t\t<a
+        class=\"label label-small\" href=\"/stock-news/\" title=\"View all posts in
+        Stock News\" rel=\"category\">Stock News</a><a class=\"label label-small\"
+        href=\"/yahoo-finance/\" title=\"View all posts in yahoo finance\" rel=\"category\">yahoo
+        finance</a>\t\t</div>\n\t\t\n\t\t<h3 class=\"title\"><a href=\"/stock-news/twitter-board-confident-in-leadership-structure-post-review-shares-rise/\"
+        title=\"Permalink to Twitter Board Confident In Leadership Structure Post
+        Review; Shares Rise\" rel=\"bookmark\">Twitter Board Confident In Leadership
+        Structure Post Review; Shares Rise</a></h3>\n\t\t\n\t\t<div class=\"post-excerpt
+        \"><p>Twitter announced that a board committee created earlier this year to
+        evaluate the social media giant\u2019s leadership structure recommended that
+        the current management &#8230;</p>\n</div>\n\t\t<div class=\"post-meta header-font\">\n\t\t\t\t\t\t\t\t\t<a
+        class=\"author-name\" href=\"/author/sharon-wrobel/\" title=\"View all posts
+        by Sharon Wrobel\">Sharon Wrobel</a><span class=\"post-meta-separator\">,</span>\n\t\t\t<!--\n\t\t\t<a
+        href=\"\" rel=\"bookmark\">\n\t\t\t-->\n\t\t\tNovember 3, 2020\t\t\t<!--\t\n\t\t\t</a>\n\t\t\t-->\n\t\t</div>\n\t\t<div
+        class=\"post-box-footer clearfix\">\n\t\t\t<a class=\"read-more\" href=\"/stock-news/twitter-board-confident-in-leadership-structure-post-review-shares-rise/\"
+        title=\"Permalink to Twitter Board Confident In Leadership Structure Post
+        Review; Shares Rise\" rel=\"bookmark\">\n\t\t\t\tRead more <i class=\"icon-entypo-right-open\"></i>\n\t\t\t</a>\n\t\t\t<a
+        class=\"comment-count\" href=\"/stock-news/twitter-board-confident-in-leadership-structure-post-review-shares-rise/#comments\"
+        title=\"Permalink to Twitter Board Confident In Leadership Structure Post
+        Review; Shares Rise\" rel=\"bookmark\">\n\t\t\t\t<i class=\"icon-entypo-comment\"></i>
+        0 Comments\t\t\t</a>\n\t\t</div>\n\t</div>\n\t\n\t<div class=\"clearfix\"></div>\n\n</article>\n<article
+        class=\"post-431106 post-box fly-in animated-content post-box-large-thumbnail\">\n\t\t\t<div
+        class=\"post-thumbnail-wrapper\">\n\t\t\t\n\t\t\t\t\t\t<a href=\"/stock-news/twitters-ad-revenues-drive-3q-sales-beat/\"
+        title=\"Permalink to Twitter\u2019s Ad Revenues Drive 3Q Sales Beat\" rel=\"bookmark\">\n\t\t\t\t\t<img
+        loading=\"lazy\" width=\"150\" height=\"150\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" data-lazy-srcset=\"https://www.smarteranalyst.com/wp-content/uploads/2020/07/TWTR-0720-150x150.jpg
+        150w, https://www.smarteranalyst.com/wp-content/uploads/2020/07/TWTR-0720-80x80.jpg
+        80w, https://www.smarteranalyst.com/wp-content/uploads/2020/07/TWTR-0720-360x360.jpg
+        360w\" data-lazy-sizes=\"(max-width: 150px) 100vw, 150px\" data-lazy-src=\"https://www.smarteranalyst.com/wp-content/uploads/2020/07/TWTR-0720-150x150.jpg\"
+        /><noscript><img width=\"150\" height=\"150\" src=\"https://www.smarteranalyst.com/wp-content/uploads/2020/07/TWTR-0720-150x150.jpg\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" srcset=\"https://www.smarteranalyst.com/wp-content/uploads/2020/07/TWTR-0720-150x150.jpg
+        150w, https://www.smarteranalyst.com/wp-content/uploads/2020/07/TWTR-0720-80x80.jpg
+        80w, https://www.smarteranalyst.com/wp-content/uploads/2020/07/TWTR-0720-360x360.jpg
+        360w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></noscript>\t\t\t</a>\n\t\t</div>\n\t\t\n\t<div
+        class=\"post-box-inner\">\n\t\t\t\t\n\t\t<div class=\"post-categories clearfix\">\n\t\t\t<a
+        class=\"label label-small\" href=\"/stock-news/\" title=\"View all posts in
+        Stock News\" rel=\"category\">Stock News</a><a class=\"label label-small\"
+        href=\"/yahoo/\" title=\"View all posts in YahooFinance\" rel=\"category\">YahooFinance</a>\t\t</div>\n\t\t\n\t\t<h3
+        class=\"title\"><a href=\"/stock-news/twitters-ad-revenues-drive-3q-sales-beat/\"
+        title=\"Permalink to Twitter\u2019s Ad Revenues Drive 3Q Sales Beat\" rel=\"bookmark\">Twitter\u2019s
+        Ad Revenues Drive 3Q Sales Beat</a></h3>\n\t\t\n\t\t<div class=\"post-excerpt
+        \"><p>Twitter reported better-than-expected 3Q results as advertising revenue
+        jumped 15%. The social media giant&#8217;s sales of $936 million increased
+        14% year-over-year and came &#8230;</p>\n</div>\n\t\t<div class=\"post-meta
+        header-font\">\n\t\t\t\t\t\t\t\t\t<a class=\"author-name\" href=\"/author/amit-singh/\"
+        title=\"View all posts by Amit Singh\">Amit Singh</a><span class=\"post-meta-separator\">,</span>\n\t\t\t<!--\n\t\t\t<a
+        href=\"\" rel=\"bookmark\">\n\t\t\t-->\n\t\t\tNovember 2, 2020\t\t\t<!--\t\n\t\t\t</a>\n\t\t\t-->\n\t\t</div>\n\t\t<div
+        class=\"post-box-footer clearfix\">\n\t\t\t<a class=\"read-more\" href=\"/stock-news/twitters-ad-revenues-drive-3q-sales-beat/\"
+        title=\"Permalink to Twitter\u2019s Ad Revenues Drive 3Q Sales Beat\" rel=\"bookmark\">\n\t\t\t\tRead
+        more <i class=\"icon-entypo-right-open\"></i>\n\t\t\t</a>\n\t\t\t<a class=\"comment-count\"
+        href=\"/stock-news/twitters-ad-revenues-drive-3q-sales-beat/#comments\" title=\"Permalink
+        to Twitter\u2019s Ad Revenues Drive 3Q Sales Beat\" rel=\"bookmark\">\n\t\t\t\t<i
+        class=\"icon-entypo-comment\"></i> 0 Comments\t\t\t</a>\n\t\t</div>\n\t</div>\n\t\n\t<div
+        class=\"clearfix\"></div>\n\n</article>\n<article class=\"post-427591 post-box
+        fly-in animated-content post-box-large-thumbnail\">\n\t\t\t<div class=\"post-thumbnail-wrapper\">\n\t\t\t\n\t\t\t\t\t\t<a
+        href=\"/yahoo/twitter-unveils-raft-of-new-measures-ahead-of-us-elections/\"
+        title=\"Permalink to Twitter Unveils Raft Of New Measures Ahead Of US Elections\"
+        rel=\"bookmark\">\n\t\t\t\t\t<img loading=\"lazy\" width=\"150\" height=\"74\"
+        src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%2074'%3E%3C/svg%3E\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" data-lazy-src=\"https://www.smarteranalyst.com/wp-content/uploads/2015/04/Twitter2.jpg\"
+        /><noscript><img width=\"150\" height=\"74\" src=\"https://www.smarteranalyst.com/wp-content/uploads/2015/04/Twitter2.jpg\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" /></noscript>\t\t\t</a>\n\t\t</div>\n\t\t\n\t<div
+        class=\"post-box-inner\">\n\t\t\t\t\n\t\t<div class=\"post-categories clearfix\">\n\t\t\t<a
+        class=\"label label-small\" href=\"/stock-news/\" title=\"View all posts in
+        Stock News\" rel=\"category\">Stock News</a><a class=\"label label-small\"
+        href=\"/yahoo/\" title=\"View all posts in YahooFinance\" rel=\"category\">YahooFinance</a>\t\t</div>\n\t\t\n\t\t<h3
+        class=\"title\"><a href=\"/yahoo/twitter-unveils-raft-of-new-measures-ahead-of-us-elections/\"
+        title=\"Permalink to Twitter Unveils Raft Of New Measures Ahead Of US Elections\"
+        rel=\"bookmark\">Twitter Unveils Raft Of New Measures Ahead Of US Elections</a></h3>\n\t\t\n\t\t<div
+        class=\"post-excerpt \"><p>Twitter (TWTR) has unveiled additional product
+        and enforcement updates ahead of the upcoming US election, that it hopes will
+        increase context and \u2018thoughtful &#8230;</p>\n</div>\n\t\t<div class=\"post-meta
+        header-font\">\n\t\t\t\t\t\t\t\t\t<a class=\"author-name\" href=\"/author/harrielefton/\"
+        title=\"View all posts by Harriet Lefton\">Harriet Lefton</a><span class=\"post-meta-separator\">,</span>\n\t\t\t<!--\n\t\t\t<a
+        href=\"\" rel=\"bookmark\">\n\t\t\t-->\n\t\t\tOctober 12, 2020\t\t\t<!--\t\n\t\t\t</a>\n\t\t\t-->\n\t\t</div>\n\t\t<div
+        class=\"post-box-footer clearfix\">\n\t\t\t<a class=\"read-more\" href=\"/yahoo/twitter-unveils-raft-of-new-measures-ahead-of-us-elections/\"
+        title=\"Permalink to Twitter Unveils Raft Of New Measures Ahead Of US Elections\"
+        rel=\"bookmark\">\n\t\t\t\tRead more <i class=\"icon-entypo-right-open\"></i>\n\t\t\t</a>\n\t\t\t<a
+        class=\"comment-count\" href=\"/yahoo/twitter-unveils-raft-of-new-measures-ahead-of-us-elections/#comments\"
+        title=\"Permalink to Twitter Unveils Raft Of New Measures Ahead Of US Elections\"
+        rel=\"bookmark\">\n\t\t\t\t<i class=\"icon-entypo-comment\"></i> 0 Comments\t\t\t</a>\n\t\t</div>\n\t</div>\n\t\n\t<div
+        class=\"clearfix\"></div>\n\n</article>\n<article class=\"post-424552 post-box
+        fly-in animated-content post-box-large-thumbnail\">\n\t\t\t<div class=\"post-thumbnail-wrapper\">\n\t\t\t\n\t\t\t\t\t\t<a
+        href=\"/stock-news/twitter-expands-policy-to-block-misinformation-posts-ahead-of-us-election/\"
+        title=\"Permalink to Twitter Expands Policy To Block Misinformation Posts
+        Ahead Of US Election\" rel=\"bookmark\">\n\t\t\t\t\t<img loading=\"lazy\"
+        width=\"150\" height=\"150\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" data-lazy-srcset=\"https://www.smarteranalyst.com/wp-content/uploads/2020/09/shutterstock_1342491233-150x150.jpg
+        150w, https://www.smarteranalyst.com/wp-content/uploads/2020/09/shutterstock_1342491233-80x80.jpg
+        80w, https://www.smarteranalyst.com/wp-content/uploads/2020/09/shutterstock_1342491233-360x360.jpg
+        360w, https://www.smarteranalyst.com/wp-content/uploads/2020/09/shutterstock_1342491233-750x750.jpg
+        750w\" data-lazy-sizes=\"(max-width: 150px) 100vw, 150px\" data-lazy-src=\"https://www.smarteranalyst.com/wp-content/uploads/2020/09/shutterstock_1342491233-150x150.jpg\"
+        /><noscript><img width=\"150\" height=\"150\" src=\"https://www.smarteranalyst.com/wp-content/uploads/2020/09/shutterstock_1342491233-150x150.jpg\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" srcset=\"https://www.smarteranalyst.com/wp-content/uploads/2020/09/shutterstock_1342491233-150x150.jpg
+        150w, https://www.smarteranalyst.com/wp-content/uploads/2020/09/shutterstock_1342491233-80x80.jpg
+        80w, https://www.smarteranalyst.com/wp-content/uploads/2020/09/shutterstock_1342491233-360x360.jpg
+        360w, https://www.smarteranalyst.com/wp-content/uploads/2020/09/shutterstock_1342491233-750x750.jpg
+        750w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></noscript>\t\t\t</a>\n\t\t</div>\n\t\t\n\t<div
+        class=\"post-box-inner\">\n\t\t\t\t\n\t\t<div class=\"post-categories clearfix\">\n\t\t\t<a
+        class=\"label label-small\" href=\"/stock-news/\" title=\"View all posts in
+        Stock News\" rel=\"category\">Stock News</a><a class=\"label label-small\"
+        href=\"/yahoo-finance/\" title=\"View all posts in yahoo finance\" rel=\"category\">yahoo
+        finance</a>\t\t</div>\n\t\t\n\t\t<h3 class=\"title\"><a href=\"/stock-news/twitter-expands-policy-to-block-misinformation-posts-ahead-of-us-election/\"
+        title=\"Permalink to Twitter Expands Policy To Block Misinformation Posts
+        Ahead Of US Election\" rel=\"bookmark\">Twitter Expands Policy To Block Misinformation
+        Posts Ahead Of US Election</a></h3>\n\t\t\n\t\t<div class=\"post-excerpt \"><p>Twitter
+        is introducing a policy to label or remove any tweets containing misinformation
+        intended to undermine public confidence in the upcoming US election. &#8230;</p>\n</div>\n\t\t<div
+        class=\"post-meta header-font\">\n\t\t\t\t\t\t\t\t\t<a class=\"author-name\"
+        href=\"/author/sharon-wrobel/\" title=\"View all posts by Sharon Wrobel\">Sharon
+        Wrobel</a><span class=\"post-meta-separator\">,</span>\n\t\t\t<!--\n\t\t\t<a
+        href=\"\" rel=\"bookmark\">\n\t\t\t-->\n\t\t\tSeptember 11, 2020\t\t\t<!--\t\n\t\t\t</a>\n\t\t\t-->\n\t\t</div>\n\t\t<div
+        class=\"post-box-footer clearfix\">\n\t\t\t<a class=\"read-more\" href=\"/stock-news/twitter-expands-policy-to-block-misinformation-posts-ahead-of-us-election/\"
+        title=\"Permalink to Twitter Expands Policy To Block Misinformation Posts
+        Ahead Of US Election\" rel=\"bookmark\">\n\t\t\t\tRead more <i class=\"icon-entypo-right-open\"></i>\n\t\t\t</a>\n\t\t\t<a
+        class=\"comment-count\" href=\"/stock-news/twitter-expands-policy-to-block-misinformation-posts-ahead-of-us-election/#comments\"
+        title=\"Permalink to Twitter Expands Policy To Block Misinformation Posts
+        Ahead Of US Election\" rel=\"bookmark\">\n\t\t\t\t<i class=\"icon-entypo-comment\"></i>
+        0 Comments\t\t\t</a>\n\t\t</div>\n\t</div>\n\t\n\t<div class=\"clearfix\"></div>\n\n</article>\n<article
+        class=\"post-420955 post-box fly-in animated-content post-box-large-thumbnail\">\n\t\t\t<div
+        class=\"post-thumbnail-wrapper\">\n\t\t\t\n\t\t\t\t\t\t<a href=\"/stock-news/facebook-snap-held-talks-to-buy-tiktok-rival-dubsmash-report/\"
+        title=\"Permalink to Facebook, Snap Held Talks To Buy TikTok Rival Dubsmash
+        &#8211; Report\" rel=\"bookmark\">\n\t\t\t\t\t<img loading=\"lazy\" width=\"150\"
+        height=\"150\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" data-lazy-srcset=\"https://www.smarteranalyst.com/wp-content/uploads/2020/08/shutterstock_1563382759-150x150.jpg
+        150w, https://www.smarteranalyst.com/wp-content/uploads/2020/08/shutterstock_1563382759-80x80.jpg
+        80w, https://www.smarteranalyst.com/wp-content/uploads/2020/08/shutterstock_1563382759-360x360.jpg
+        360w, https://www.smarteranalyst.com/wp-content/uploads/2020/08/shutterstock_1563382759-750x750.jpg
+        750w\" data-lazy-sizes=\"(max-width: 150px) 100vw, 150px\" data-lazy-src=\"https://www.smarteranalyst.com/wp-content/uploads/2020/08/shutterstock_1563382759-150x150.jpg\"
+        /><noscript><img width=\"150\" height=\"150\" src=\"https://www.smarteranalyst.com/wp-content/uploads/2020/08/shutterstock_1563382759-150x150.jpg\"
+        class=\"attachment-thumbnail size-thumbnail wp-post-image\" alt=\"\" srcset=\"https://www.smarteranalyst.com/wp-content/uploads/2020/08/shutterstock_1563382759-150x150.jpg
+        150w, https://www.smarteranalyst.com/wp-content/uploads/2020/08/shutterstock_1563382759-80x80.jpg
+        80w, https://www.smarteranalyst.com/wp-content/uploads/2020/08/shutterstock_1563382759-360x360.jpg
+        360w, https://www.smarteranalyst.com/wp-content/uploads/2020/08/shutterstock_1563382759-750x750.jpg
+        750w\" sizes=\"(max-width: 150px) 100vw, 150px\" /></noscript>\t\t\t</a>\n\t\t</div>\n\t\t\n\t<div
+        class=\"post-box-inner\">\n\t\t\t\t\n\t\t<div class=\"post-categories clearfix\">\n\t\t\t<a
+        class=\"label label-small\" href=\"/stock-news/\" title=\"View all posts in
+        Stock News\" rel=\"category\">Stock News</a><a class=\"label label-small\"
+        href=\"/yahoo-finance/\" title=\"View all posts in yahoo finance\" rel=\"category\">yahoo
+        finance</a>\t\t</div>\n\t\t\n\t\t<h3 class=\"title\"><a href=\"/stock-news/facebook-snap-held-talks-to-buy-tiktok-rival-dubsmash-report/\"
+        title=\"Permalink to Facebook, Snap Held Talks To Buy TikTok Rival Dubsmash
+        &#8211; Report\" rel=\"bookmark\">Facebook, Snap Held Talks To Buy TikTok
+        Rival Dubsmash &#8211; Report</a></h3>\n\t\t\n\t\t<div class=\"post-excerpt
+        \"><p>Facebook and Snap have reportedly held talks to buy Dubsmash, a lip-syncing
+        video app that has surged in popularity alongside rival TikTok. Dubsmash &#8230;</p>\n</div>\n\t\t<div
+        class=\"post-meta header-font\">\n\t\t\t\t\t\t\t\t\t<a class=\"author-name\"
+        href=\"/author/sharon-wrobel/\" title=\"View all posts by Sharon Wrobel\">Sharon
+        Wrobel</a><span class=\"post-meta-separator\">,</span>\n\t\t\t<!--\n\t\t\t<a
+        href=\"\" rel=\"bookmark\">\n\t\t\t-->\n\t\t\tAugust 13, 2020\t\t\t<!--\t\n\t\t\t</a>\n\t\t\t-->\n\t\t</div>\n\t\t<div
+        class=\"post-box-footer clearfix\">\n\t\t\t<a class=\"read-more\" href=\"/stock-news/facebook-snap-held-talks-to-buy-tiktok-rival-dubsmash-report/\"
+        title=\"Permalink to Facebook, Snap Held Talks To Buy TikTok Rival Dubsmash
+        &#8211; Report\" rel=\"bookmark\">\n\t\t\t\tRead more <i class=\"icon-entypo-right-open\"></i>\n\t\t\t</a>\n\t\t\t<a
+        class=\"comment-count\" href=\"/stock-news/facebook-snap-held-talks-to-buy-tiktok-rival-dubsmash-report/#comments\"
+        title=\"Permalink to Facebook, Snap Held Talks To Buy TikTok Rival Dubsmash
+        &#8211; Report\" rel=\"bookmark\">\n\t\t\t\t<i class=\"icon-entypo-comment\"></i>
+        0 Comments\t\t\t</a>\n\t\t</div>\n\t</div>\n\t\n\t<div class=\"clearfix\"></div>\n\n</article></div>\n\t\t\t\t\t<div
+        class=\"pagination-wrapper\">\n\t\t\t  <span aria-current=\"page\" class=\"page-numbers
+        current\">1</span>\n<a class=\"page-numbers\" href=\"https://www.smarteranalyst.com/stock-page/page/2/?slug=twitter\">2</a>\n<a
+        class=\"page-numbers\" href=\"https://www.smarteranalyst.com/stock-page/page/3/?slug=twitter\">3</a>\n<span
+        class=\"page-numbers dots\">&hellip;</span>\n<a class=\"page-numbers\" href=\"https://www.smarteranalyst.com/stock-page/page/27/?slug=twitter\">27</a>\n<a
+        class=\"next page-numbers\" href=\"https://www.smarteranalyst.com/stock-page/page/2/?slug=twitter\">\xBB</a>\t\t\t</div>\n\t\t\t\n\t</div>
+        \       <div style=\"\r\n                text-align: right;\r\n            \">\r\n
+        \           <!--  Ariel (commented out)\r\n            <a style=\"\r\n                color:
+        #007dd4;\r\n                text-align: right;\r\n                font-weight:
+        bold;\"\r\n               href=\"https://www.smarteranalyst.com/tag/twitter\">Show
+        More</a>\r\n           -->\r\n        </div>\r\n    </div>\r\n\r\n    <div
+        id=\"tr__bottom_banners-3\" class=\"widget widget_tr__bottom_banners\" style=\"float:
+        left; width: 100%;\">\r\n        <div class=\"tipranks-bottom-banners-wrapper
+        tipranks-you-may-also-like\">\r\n            <div class=\"bottom-banners-title\">You
+        May Also Like</div>\r\n            <div class=\"bottom-banner also-like-stock\"><a
+        href=\"https://landing.tipranks.com/sa-special-report/gate\" target=\"_blank\"><img
+        loading=\"lazy\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E\"
+        data-lazy-src=\"https://www.smarteranalyst.com/wp-content/uploads/2019/04/top-10-wallstreet-2019-1.png\"><noscript><img
+        src=\"https://www.smarteranalyst.com/wp-content/uploads/2019/04/top-10-wallstreet-2019-1.png\"></noscript><span>Get
+        your Free copy of this special report highlighting 10 stock recommendations
+        from the very best Wall Street Analysts.</span></a></div>\r\n\r\n            <div
+        class=\"bottom-banner also-like-best-of\"><a href=\"https://www.tipranks.com/go-pro?ref=SA_ALSO_LIKE?ref=SA-also-like2\"
+        target=\"_blank\"><img loading=\"lazy\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E\"
+        data-lazy-src=\"https://www.smarteranalyst.com/wp-content/themes/presso/images/you-may-also-like2.jpg\"><noscript><img
+        src=\"https://www.smarteranalyst.com/wp-content/themes/presso/images/you-may-also-like2.jpg\"></noscript><span>Is
+        AAPL right for your portfolio?</span></a></div>\r\n\r\n            <div class=\"bottom-banner
+        also-like-rated\"><a href=\"//www.tipranks.com/analysts/top?ref=SA_ALSO_LIKE?ref=SA-also-like3\"
+        target=\"_blank\" style=\"color: rgb(0, 0, 0);\"><img loading=\"lazy\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E\"
+        data-lazy-src=\"https://www.smarteranalyst.com/wp-content/themes/presso/images/you-may-also-like3.jpg\"><noscript><img
+        src=\"https://www.smarteranalyst.com/wp-content/themes/presso/images/you-may-also-like3.jpg\"></noscript><span>Find
+        the picks of the top 25 analysts on Wall Street</span></a></div>\r\n        </div>\r\n
+        \   </div>\r\n    <!--<div class=\"horizontal-dailyinsider col-md-8 col-xs-12\"
+        style=\"padding-left: 0;padding-bottom: 25px;\">\r\n        <canvas id=\"horizontal-dailyinsider\"
+        width=\"320\" height=\"700\" style=\"display: block; background-color:rgba(76,
+        75, 75, 1.00)\"></canvas>\r\n        <script>\r\n            window.SA_HORIZONTAL_DAILYINSIDER
+        = {\r\n              src: '//smarteranalyst.com/wp-content/themes/presso/dailyinsider/images/index_atlas_.png',\r\n
+        \             data: ['the-daily-insider-day-trading-newsletter', 'bioportfolio-biotech-investment-newsletter',
+        'small-cap-stocks-newsletter', 'the-big-short-selling-newsletter', 'gosector',
+        'guru-portfolio']\r\n            };\r\n        </script>\r\n        <script
+        src=\"/wp-content/themes/presso/dailyinsider/horizontal-dailyinsider.js\"></script>\r\n
+        \   </div> -->\r\n    <div style=\"clear:both;\"></div>\r\n</div>\r\n<script
+        type=\"text/javascript\">\r\n        /*!\r\n     * verge 1.9.1+201402130803\r\n
+        \    * https://github.com/ryanve/verge\r\n     * MIT License 2013 Ryan Van
+        Etten\r\n     */\r\n    !function(a,b,c){\"undefined\"!=typeof module&&module.exports?module.exports=c():a[b]=c()}(this,\"verge\",function(){function
+        a(){return{width:k(),height:l()}}function b(a,b){var c={};return b=+b||0,c.width=(c.right=a.right+b)-(c.left=a.left-b),c.height=(c.bottom=a.bottom+b)-(c.top=a.top-b),c}function
+        c(a,c){return a=a&&!a.nodeType?a[0]:a,a&&1===a.nodeType?b(a.getBoundingClientRect(),c):!1}function
+        d(b){b=null==b?a():1===b.nodeType?c(b):b;var d=b.height,e=b.width;return d=\"function\"==typeof
+        d?d.call(b):d,e=\"function\"==typeof e?e.call(b):e,e/d}var e={},f=\"undefined\"!=typeof
+        window&&window,g=\"undefined\"!=typeof document&&document,h=g&&g.documentElement,i=f.matchMedia||f.msMatchMedia,j=i?function(a){return!!i.call(f,a).matches}:function(){return!1},k=e.viewportW=function(){var
+        a=h.clientWidth,b=f.innerWidth;return b>a?b:a},l=e.viewportH=function(){var
+        a=h.clientHeight,b=f.innerHeight;return b>a?b:a};return e.mq=j,e.matchMedia=i?function(){return
+        i.apply(f,arguments)}:function(){return{}},e.viewport=a,e.scrollX=function(){return
+        f.pageXOffset||h.scrollLeft},e.scrollY=function(){return f.pageYOffset||h.scrollTop},e.rectangle=c,e.aspect=d,e.inX=function(a,b){var
+        d=c(a,b);return!!d&&d.right>=0&&d.left<=k()},e.inY=function(a,b){var d=c(a,b);return!!d&&d.bottom>=0&&d.top<=l()},e.inViewport=function(a,b){var
+        d=c(a,b);return!!d&&d.bottom>=0&&d.right>=0&&d.top<=l()&&d.left<=k()},e});\r\n</script>\r\n<script>\r\n\r\n
+        \   jQuery(document).ready(function($) {\r\n        var price$ = $(\".price\");\r\n
+        \       var fun$ = $(\".fundamentals\");\r\n        var spanFmarket = $(\"span.f-market\");\r\n
+        \       $.get(\"//widgets.tipranks.com/smarteranalyst/getdetails?tickers=TWTR\").then(function(res)
+        {\r\n            var price = res[0];\r\n            price$.find(\"h2\").text(price.price);\r\n
+        \           price$.find(\".stockpage_stockprice\").text('$' + price.changeAmount
+        + ' (' + price.changePercent + '%)').css(\"color\", getColor(price.changeAmount));\r\n\r\n\t
+        \   fun$.find(\".f-mcap\").text(price.marketCap);\r\n            fun$.find(\".f-beta\").text(numify(price.beta));\r\n
+        \           fun$.find(\".f-pe\").text(numify(price.pe));\r\n            fun$.find(\".f-eps\").text(numify(price.eps));\r\n\r\n
+        \           spanFmarket.text(price.market);\r\n            if(window.location.href.indexOf(\"interactive-brokers\")
+        > -1) {\r\n                fun$.find(\".f-market\").text(\"IEX\");\r\n            }else{\r\n
+        \               fun$.find(\".f-market\").text(price.market);\r\n            }\r\n
+        \           fun$.find(\".f-div-yield\").text(numify(price.fiscalDiv) + \"%\");\r\n
+        \           fun$.find(\".f-shares\").text(numify(price.shares));\r\n            fun$.find(\".f-inst-owned\").text(numify(price.instOwn
+        / 1000000000).toString().slice(0, 4) + 'B');\r\n\r\n            fun$.find(\".f-range-day\").text(price.daysRange
+        || \"---\");\r\n            fun$.find(\".f-range-year\").text(numify(price.range52Weeks));\r\n
+        \           fun$.find(\".f-volume\").text(numify(price.volume));\r\n            fun$.find(\".f-volume-avg\").text(numify(price.avgVol3Months));\r\n\r\n
+        \           fun$.find(\".f-close\").text(price.prevClose);\r\n            fun$.find(\".f-open\").text(price.openPrice);\r\n
+        \           fun$.find(\".f-bid\").text(price.bid);\r\n            fun$.find(\".f-ask\").text(price.ask).src(getArrow(price.changeAmount));\r\n\r\n
+        \       });\r\n\r\n        function numify(num) {\r\n            // http://stackoverflow.com/questions/2901102\r\n
+        \           return String(num).replace(/\\B(?=(\\d{3})+(?!\\d))/g, \",\");\r\n
+        \       }\r\n\r\n\tfunction getArrow(num) {\r\n        img = document.createElement(\"img\");\r\n
+        \       src = document.getElementById(\"stockpage_stockprice\");\r\n\tsrc.before(img);
+        \r\n\t//src.appendChild(img);\r\n        if(num > 0) return  img.src = \"https://www.smarteranalyst.com/wp-content/themes/presso/images/green-arrow-stock.png\";
+        \r\n        if(num === 0) return  img.src = \"\"; \r\n        else return
+        img.src = \"https://www.smarteranalyst.com/wp-content/themes/presso/images/red-down-arrow-stock.png\";
+        }\r\n\r\n\r\n        function getColor(num) {\r\n            if(num > 0) return
+        \"green\";\r\n            if(num === 0) return \"black\";\r\n            else
+        return \"red\";\r\n        }\r\n    });\r\n    //});\r\n</script>\r\n</div>\r\n<div
+        id=\"mobile-popup\">\n\t<button id=\"close-m-popup\">x</button>\n\t<h2 class=\"stayahd\">Stay
+        Ahead of Everyone Else</h2>\n\t<h2 class=\"latest\"> Get The Latest <span>
+        Stock News Alerts </span></h2>\n\n\t<form method=\"POST\" class=\"submitformMobile\"
+        id=\"submitformMobile\" target=\"_blank\">\n\t\t<input required=\"\" type=\"email\"
+        name=\"email\" class=\"MobileEmail\" placeholder=\"Enter Your Email\">\n\t\t<input
+        type=\"submit\" value=\"SIGN ME UP\">\n\t</form>\n</div>\n\n<div class=\"footer-top-widget\">\n\n</div>\n\n<footer
+        class=\"row clearfix\" id='footer'>\n\n<div>\n    <div class=\"social-footer\">\n
+        \       <a rel=\"nofollow\" href=\"https://www.facebook.com/smarteranalyst\"
+        target=\"_blank\"><i class=\"sprite sprite-fa\"></i></a>\n        <a rel=\"nofollow\"
+        href=\"https://twitter.com/SmarterAnalyst/\" target=\"_blank\"><i class=\"sprite
+        sprite-tw\"></i>\n</a>\n        <a rel=\"nofollow\" href=\"//stocktwits.com/SmarterAnalyst\"
+        target=\"_blank\"><i class=\"sprite sprite-st\"></i></a>\n    </div>\n    <div
+        class=\"footer-content\">\n        <span><a href=\"/privacy-policy/\">Privacy
+        Policy</a></span> |\n        <a href=\"/rss-feeds\">\n            <i class=\"sprite
+        sprite-rss\"></i><span>RSS feeds </span>\n        </a> |\n        <span><a
+        href=\"/contact/\">Submit Tips</a></span> |\n        <span><a href=\"/About\">About
+        Us</a></span> |\n\t\t<span><a href=\"/terms-of-use\">Terms of use</a></span>
+        |\n        <span><a href=\"/contact/\">Contact Us</a></span>\n        <span
+        class=\"footer-last-span\">\n            Copyright &copy; 2021 Smarter Analyst
+        - All Rights Reserved \t\t\t\n        </span>\n    </div>\n</div>\n</div>\n
+        \           </div> <!-- Off canvas body inner -->\n                \n              \n
+        \               \n        <link rel=\"stylesheet\" href=\"/wp-content/Widget/new-widgets/style.css?ver=4\"
+        />\n        <script src=\"/wp-content/Widget/new-widgets/app.js?ver=5.0.11\"></script>\n
+        \   <script type=\"text/javascript\">\n    jQuery(function ($) {\n        var
+        isAdmin = parseInt(jQuery(\"html\").css(\"margin-top\"));\n        var stickyY
+        = isAdmin ? 175 : 63;\n        $(window).scroll(function () {\n            var
+        wid = $(window).width();\n            if (wid > 768 & $(this).scrollTop()
+        > stickyY) {\n                $('.main-nav-bar').addClass(\"sticky\");\n                $(\"#serachFormSticky\").append($(\".search-form-holder\"));\n
+        \               $(\".main-nav-bar.header-layout-left-logo\").css(\"max-height\",
+        \"none\");\n                $(\"#serachFormSticky #s\").attr(\"placeholder\",
+        \"Search Ticker\");\n                $(\"#stickySearchButton\").show();\n
+        \           }\n            else {\n                $('.main-nav-bar').removeClass(\"sticky\");\n
+        \               $(\"#serachFormDiv\").append($(\".search-form-holder\"));\n
+        \               $(\".main-nav-bar.header-layout-left-logo\").css(\"max-height\",
+        \"36px\");\n                $(\".search-form-holder #s\").attr(\"placeholder\",
+        \"Search by stock or keyword\");\n                $(\"#stickySearchButton\").hide();\n
+        \               $(\"#serachFormSticky\").hide();\n                $(\"#stickySearchBlackScreen\").removeClass(\"displayBlock\");\n
+        \           }\n\n        });\n    });\n    (function($){\n        $.ajax({\n
+        \           url:'//trsmarterwebapi2.azurewebsites.net/api/smarteranalyst/IndexPrices'\n
+        \       }).done(function(resp){\n            $.each( resp, function( i, val
+        ) {\n                var position = val[2].indexOf(\"-\")+1 ? \"reduce\" :
+        \"rise\";\n                $('.footer-top-widget').append('<div class=\"block\"><div
+        class=\"title\"><p>'+val[0]+'</p></div><div class=\"value\"><p>'+val[1]+'</p></div><div
+        class=\"'+position+'\"><p>'+val[2]+'</p></div></div>');\n            });\n
+        \       });\n    })(jQuery);\n\n   \n\n    jQuery(function($) {\n        var
+        $stuff1 = $(\".left-side-stuff\");\n        $stuff1.remove();\n        $(\"body\").append($stuff1);\n\n
+        \       var $stuff2 = $(\".bottom-mobile-stuff\");\n        $stuff2.remove();\n
+        \       $(\"body\").append($stuff2);\n    });\n\n    </script>\n\n\n                    <script
+        src=\"https://www.smarteranalyst.com/wp-content/themes/presso/js-for-sidebar-minifie.js\"></script>\n
+        \               <!-- script src=\"https://www.smarteranalyst.com/wp-content/themes/presso/js-for-vertical-dailyInsider.js\"></script
+        -->\n                <!-- <script src=\"/js/ads-script.js\"></script> -->\n
+        \               <link rel=\"stylesheet\" href=\"https://www.smarteranalyst.com/wp-content/themes/presso/css-for-sidebar-minifie.css?ver=1.0\">\n
+        \               \n\n    \n        <script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.js\"></script>\n\n
+        \ <script type=\"text/javascript\">\n             \n                    var
+        DontShowPopUp = false; \n                        </script>\n    \n    <div
+        id=\"QxWfptFwsoWk\" class=\"QBHwjJfkcELn\" style=\"background:#dddddd;z-index:9999999;
+        \"></div>   <script type=\"text/javascript\">/* <![CDATA[ */var anOptions
+        ={\"anOptionChoice\":\"2\",\"anOptionStats\":\"1\",\"anOptionAdsSelectors\":\"\",\"anOptionCookie\":\"1\",\"anOptionCookieLife\":\"30\",\"anPageRedirect\":\"\",\"anPermalink\":\"undefined\",\"anOptionModalEffect\":\"fadeAndPop\",\"anOptionModalspeed\":\"350\",\"anOptionModalclose\":false,\"anOptionModalOverlay\":\"rgba(
+        0,0,0,0.85 )\",\"anAlternativeActivation\":false,\"anAlternativeElement\":\"\",\"anAlternativeText\":\"<p><strong>AdBlock
+        detected!<\\/strong><\\/p>\\n<p>Please add <a title=\\\"https:\\/\\/getadmiral.com?utm_medium=plugin&utm_campaign=abn&utm_source=abnlinks\\\"
+        href=\\\"https:\\/\\/getadmiral.com?utm_medium=plugin&utm_campaign=abn&utm_source=abnlinks\\\"
+        target=\\\"_blank\\\">www.getadmiral.com<\\/a> to your adblocking whitelist
+        or disable your adblocking software.<\\/p>\\n\",\"anAlternativeClone\":\"2\",\"anAlternativeProperties\":\"\",\"anOptionModalShowAfter\":0,\"anPageMD5\":\"\",\"anSiteID\":0,\"modalHTML\":\"<div
+        class=\\\"QBHwjJfkcELn-default\\\">\\n\\t<h1 style=\\\"\\\">Adblocker detected!
+        Please consider reading this notice.<\\/h1>\\n\\t<p>We've detected that you
+        are using AdBlock Plus or some other adblocking software which is preventing
+        the page from fully loading.<\\/p>\\n<p>&nbsp;<\\/p>\\n<p style=\\\"font-size:
+        18px; font-weight: 600; color: #d60606; letter-spacing: 1px;\\\">Please disable
+        AdBlock or some thing other adblocking software &amp; refresh the page thanks!!!<\\/p>\\n<\\/div>\\n<a
+        class=\\\"close-modal close-QBHwjJfkcELn\\\">&#215;<\\/a>\"}/* ]]> */</script><div
+        id=\"adsense\" class=\"an-sponsored\" style=\"position:absolute; z-index:-1;
+        height:1px; width:1px; visibility: hidden; top: -1px; left: 0;\"><img loading=\"lazy\"
+        class=\"an-advert-banner\" alt=\"sponsored\" src=\"data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E\"
+        data-lazy-src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"><noscript><img
+        class=\"an-advert-banner\" alt=\"sponsored\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\"></noscript></div><script
+        type='text/javascript' src='https://www.smarteranalyst.com/wp-includes/js/comment-reply.min.js?ver=5.4.4'></script>\n<script
+        type='text/javascript'>\n/* <![CDATA[ */\nvar wpcf7 = {\"apiSettings\":{\"root\":\"https:\\/\\/www.smarteranalyst.com\\/wp-json\\/contact-form-7\\/v1\",\"namespace\":\"contact-form-7\\/v1\"},\"cached\":\"1\"};\n/*
+        ]]> */\n</script>\n<script type='text/javascript' src='https://www.smarteranalyst.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3'></script>\n<script
+        type='text/javascript'>\n/* <![CDATA[ */\nvar sticky_anything_engage = {\"element\":\"#dailyInsiderBanner\",\"topspace\":\"32\",\"minscreenwidth\":\"0\",\"maxscreenwidth\":\"999999\",\"zindex\":\"1\",\"legacymode\":\"\",\"dynamicmode\":\"\",\"debugmode\":\"\",\"pushup\":\"\",\"adminbar\":\"1\"};\n/*
+        ]]> */\n</script>\n<script type='text/javascript' src='https://www.smarteranalyst.com/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/stickThis.js?ver=2.1.1'></script>\n<script
+        type='text/javascript'>\n/* <![CDATA[ */\nvar MyAjax = {\"ajaxurl\":\"https:\\/\\/www.smarteranalyst.com\\/wp-admin\\/admin-ajax.php\",\"security\":\"49663dbf03\"};\n/*
+        ]]> */\n</script>\n<script type='text/javascript' src='https://www.smarteranalyst.com/wp-content/themes/presso/inc/js/ajax/create-post-ajax.js?ver=1.0.0'></script>\n<script
+        type='text/javascript' src='https://www.smarteranalyst.com/wp-content/themes/presso/js/stocks-widget-new.js?ver=1.0.0'></script>\n<script
+        type='text/javascript' src='https://www.smarteranalyst.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>\n<script
+        type='text/javascript' src='https://www.smarteranalyst.com/wp-includes/js/jquery/ui/effect-fade.min.js?ver=1.11.4'></script>\n<script
+        type='text/javascript' src='https://www.smarteranalyst.com/wp-content/themes/presso/js/jquery.fitvids.js?ver=2.0.3'></script>\n<script
+        type='text/javascript' src='https://www.smarteranalyst.com/wp-content/themes/presso/js/jquery.isotope.min.js?ver=2.0.3'></script>\n<script
+        type='text/javascript' src='https://www.smarteranalyst.com/wp-content/themes/presso/framework/flexslider/jquery.flexslider.js?ver=2.0.3'></script>\n<script
+        type='text/javascript' src='https://www.smarteranalyst.com/wp-content/themes/presso/framework/swipebox/jquery.swipebox.min.js?ver=2.0.3'></script>\n<script
+        type='text/javascript' src='https://www.smarteranalyst.com/wp-content/themes/presso/js/asset.js?ver=2.0.3'></script>\n<script
+        type='text/javascript' src='https://www.smarteranalyst.com/wp-content/themes/presso/js/main.js?ver=2.1'></script>\n<script
+        type='text/javascript'>\n/* <![CDATA[ */\nvar ajax_object = {\"nonce\":\"a2cd9d0e60\",\"ajaxurl\":\"https:\\/\\/www.smarteranalyst.com\\/wp-admin\\/admin-ajax.php\"};\n/*
+        ]]> */\n</script>\n<script type='text/javascript' src='https://www.smarteranalyst.com/wp-content/uploads/izJDNbIcsbkN/nkobfMybjsuE.js?ver=2.2.3'></script>\n<script
+        type='text/javascript' src='https://www.smarteranalyst.com/wp-includes/js/wp-embed.min.js?ver=5.4.4'></script>\n<script
+        type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=5.4.4'
+        async='async'></script>\n                    <script src=\"/wp-content/Widget/tipranks.production.js?ver=1.0.7\">
+        </script>\r\n<link rel=\"stylesheet\" href=\"/wp-content/Widget/tipranks.css?ver=1.0.2\"
+        />\r\n<script>\r\nfunction getParameterByName(name, url) { \r\n    if (!url)
+        url = window.location.href;\r\n    name = name.replace(/[\\[\\]]/g, \"\\\\$&\");\r\n
+        \   var regex = new RegExp(\"[?&]\" + name + \"(=([^&#]*)|&|#|$)\", \"i\"),\r\n
+        \       results = regex.exec(url);\r\n    if (!results) return null;\r\n    if
+        (!results[2]) return '';\r\n    return results[2].replace(/\\+/g, \" \");
+        // note - unlike usual - not decoded\r\n}\r\nfunction getAnalyticParameter(name)
+        {\r\n  name = \"utm_\" + name;\r\n  var old = localStorage.getItem(name);
+        \r\n\r\n  var item = decodeURIComponent(getParameterByName(name));\r\n  if(item
+        && item !== \"null\") {\r\n    if(item !== old) { // new utm value\r\n      item
+        = item + (new Date()).toISOString() + \",\" + old;\r\n    }\r\n    localStorage.setItem(name,
+        item);\r\n    return item;\r\n  }\r\n  item = localStorage && localStorage.getItem(name);\r\n
+        \ if(item && item !== \"null\") return item;\r\n  if(item) return item; \r\n}\r\n\r\nfunction
+        getSource() {\r\n    var source = getAnalyticParameter(\"source\") \r\n    if(!source)
+        {\r\n        source = document.referrer;\r\n        if(source.indexOf(\"www.smarteranalyst.com\")
+        === -1) {\r\n            localStorage.setItem(\"source\", source);    \r\n
+        \       }\r\n    }\r\n    return source;\r\n}\r\n\r\n\r\nvar source = getSource();\r\nvar
+        term = getAnalyticParameter(\"term\");\r\nvar campaign = getAnalyticParameter(\"campaign\");\r\nvar
+        content = getAnalyticParameter(\"content\");\r\nvar medium = getAnalyticParameter(\"medium\");\r\nvar
+        keyword = getAnalyticParameter(\"keyword\");\r\n\r\nga('set', {\r\n    campaignName:
+        campaign,\r\n    campaignTerm: term,\r\n    campaignSource: source,\r\n    campaignMedium:
+        medium,\r\n    campaignKeyword: keyword,\r\n    campaignContent: content\r\n});\r\n</script>\r\n<script>\r\n
+        \   setTimeout(function(){var a=document.createElement(\"script\");\r\n    var
+        b=document.getElementsByTagName(\"script\")[0];\r\n    a.src=document.location.protocol+\"//dnn506yrbagrg.cloudfront.net/pages/scripts/0022/7387.js?\"+Math.floor(new
+        Date().getTime()/3600000);\r\n    a.async=true;a.type=\"text/javascript\";b.parentNode.insertBefore(a,b)},
+        1);\r\n</script>                \t\t<script type='text/javascript'>\r\n\t\t\t;(function(
+        $, window, document, undefined ){\r\n\t\t\t\t\"use strict\";\r\n\r\n\t\t\t\t$(
+        document ).ready( function ($) {\r\n\t\t\t\t\t\t\t$( '.flexslider' ).flexslider({\r\n\t\t\tanimation:
+        \"fade\",\r\n\t\t\teasing: \"easeInCirc\",\r\n\t\t\tslideshow: true,\r\n\t\t\tslideshowSpeed:
+        4000,\r\n\t\t\tanimationSpeed: 600,\r\n\t\t\trandomize: false,\r\n\t\t\tpauseOnHover:
+        true,\r\n\t\t\tprevText: '',\r\n\t\t\tnextText: '',\r\n\t\t\tstart: function(
+        slider ) {\r\n\t\t\t\tslider.css( 'opacity', '1' );\r\n\t\t\t\tslider.find(
+        '.post-thumbnail-wrapper' ).css( 'height', '500px' ).imgLiquid().fadeIn(250);\r\n\t\t\t},\r\n\t\t});\r\n\t\t\t\t\t}
+        );\r\n\t\t\t\t\r\n\t\t\t})( jQuery, window , document );\r\n\r\n\t\t\t                    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\nnew
+        Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n})(window,document,'script','dataLayer','GTM-MPMWN4');
+        \               \t\t</script>\r\n\t\t<script>window.lazyLoadOptions = {\r\n
+        \               elements_selector: \"[loading=lazy],.rocket-lazyload\",\r\n
+        \               data_src: \"lazy-src\",\r\n                data_srcset: \"lazy-srcset\",\r\n
+        \               data_sizes: \"lazy-sizes\",\r\n                class_loading:
+        \"lazyloading\",\r\n                class_loaded: \"lazyloaded\",\r\n                threshold:
+        300,\r\n                callback_loaded: function(element) {\r\n                    if
+        ( element.tagName === \"IFRAME\" && element.dataset.rocketLazyload == \"fitvidscompatible\"
+        ) {\r\n                        if (element.classList.contains(\"lazyloaded\")
+        ) {\r\n                            if (typeof window.jQuery != \"undefined\")
+        {\r\n                                if (jQuery.fn.fitVids) {\r\n                                    jQuery(element).parent().fitVids();\r\n
+        \                               }\r\n                            }\r\n                        }\r\n
+        \                   }\r\n                },\nuse_native: true};\r\n        window.addEventListener('LazyLoad::Initialized',
+        function (e) {\r\n            var lazyLoadInstance = e.detail.instance;\r\n
+        \       \r\n            if (window.MutationObserver) {\r\n                var
+        observer = new MutationObserver(function(mutations) {\r\n                    var
+        image_count = 0;\r\n                    var iframe_count = 0;\r\n                    var
+        rocketlazy_count = 0;\r\n\r\n                    mutations.forEach(function(mutation)
+        {\r\n                        for (i = 0; i < mutation.addedNodes.length; i++)
+        {\r\n                            if (typeof mutation.addedNodes[i].getElementsByTagName
+        !== 'function') {\r\n                                return;\r\n                            }\r\n\r\n
+        \                          if (typeof mutation.addedNodes[i].getElementsByClassName
+        !== 'function') {\r\n                                return;\r\n                            }\r\n\r\n
+        \                           images = mutation.addedNodes[i].getElementsByTagName('img');\r\n
+        \                           is_image = mutation.addedNodes[i].tagName == \"IMG\";\r\n
+        \                           iframes = mutation.addedNodes[i].getElementsByTagName('iframe');\r\n
+        \                           is_iframe = mutation.addedNodes[i].tagName ==
+        \"IFRAME\";\r\n                            rocket_lazy = mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');\r\n\r\n
+        \                           image_count += images.length;\r\n\t\t\t                iframe_count
+        += iframes.length;\r\n\t\t\t                rocketlazy_count += rocket_lazy.length;\r\n
+        \                           \r\n                            if(is_image){\r\n
+        \                               image_count += 1;\r\n                            }\r\n\r\n
+        \                           if(is_iframe){\r\n                                iframe_count
+        += 1;\r\n                            }\r\n                        }\r\n                    }
+        );\r\n\r\n                    if(image_count > 0 || iframe_count > 0 || rocketlazy_count
+        > 0){\r\n                        lazyLoadInstance.update();\r\n                    }\r\n
+        \               } );\r\n                \r\n                var b      = document.getElementsByTagName(\"body\")[0];\r\n
+        \               var config = { childList: true, subtree: true };\r\n                \r\n
+        \               observer.observe(b, config);\r\n            }\r\n        },
+        false);</script><script data-no-minify=\"1\" async src=\"https://www.smarteranalyst.com/wp-content/plugins/rocket-lazy-load/assets/js/12.0/lazyload.min.js\"></script>\n
+        \   \n    <script type=\"text/javascript\">\n    /* <![CDATA[ */\n\n    var
+        google_conversion_id = 992762041;\n\n    var google_custom_params = window.google_tag_params;\n\n
+        \   var google_remarketing_only = true;\n\n    /* ]]> */\n    </script>\n
+        \   \n    <script type=\"text/javascript\" src=\"//www.googleadservices.com/pagead/conversion.js\"></script>\n
+        \   <noscript>\n    <div style=\"display:inline;\">\n    <img height=\"1\"
+        width=\"1\" style=\"border-style:none;\" alt=\"\" src=\"//googleads.g.doubleclick.net/pagead/viewthroughconversion/992762041/?guid=ON&amp;script=0\"/>\n
+        \   </div>\n    </noscript>\n <script>\njQuery(document).ready(function($){\n
+        \       var form = $('#mc-embedded-subscribe-form');\n\t//alert(form.serialize());\n
+        \   form.submit(function(e) {\n        // prevent form submission\n        e.preventDefault();\n
+        \       // submit the form via Ajax\n        var em=$(\".email\").val();\nvar
+        de = { \"email\" : em,\"groupIds\" : [\"106215\"],\"signupPageName\":\"SA_brief_BN_id35\",\"signupLlf\":\"special
+        report side brief\",\"signupUrl\":\"smarteranalyst.com\"};\n        $.ajax({\n
+        \           url: \"https://tipranksmarketingfunctions.azurewebsites.net/api/contacts/loose\",\n
+        \           type: \"post\",\n          //  dataType: \"json\",\n            data:
+        JSON.stringify(de),\n            success: function(result) {\n                //
+        Inject the result in the HTML\n                $('#mc-embedded-subscribe-form
+        .res-txt').show();\n            },\n            error: function (data) {\n
+        \               console.log('An error occurred.');\n                console.log(data);\n
+        \           } \n        });\n});\n   \n   var formsd = $('#mc-embedded-form-inn');\n\t//alert(form.serialize());\n
+        \   formsd.submit(function(e) {\n        // prevent form submission\n        e.preventDefault();\n
+        \       // submit the form via Ajax\n        var em=$(\".email\").val();\nvar
+        de = { \"email\" : em,\"groupIds\" : [\"106215\"],\"signupLlf\":\"special
+        report side articles\",\"signupUrl\":\"smarteranalyst.com\",\"signupPageName\":\"SA_BN_id25\"};\n
+        \       console.log(de);\n        $.ajax({\n            url: \"https://tipranksmarketingfunctions.azurewebsites.net/api/contacts/loose\",\n
+        \           type: \"post\",\n          //  dataType: \"json\",\n            data:
+        JSON.stringify(de),\n            success: function(result) {\n                //
+        Inject the result in the HTML\n           $('#mc-embedded-form-inn .respon-txt').show();\n
+        \ },\n            error: function (data) {\n                console.log('An
+        error occurred.');\n                console.log(data);\n            } \n        });\n});\n\n\n
+        var formhome = $('#mc-embedded-form-ff');\n\t//alert(form.serialize());\n
+        \   formhome.submit(function(e) {\n        // prevent form submission\n        e.preventDefault();\n
+        \       // submit the form via Ajax\n        var em=$(\".email\").val();\nvar
+        de = { \"email\" : em,\"groupIds\" : [\"106215\"],\"signupLlf\":\"special
+        report side home-page\",\"signupUrl\":\"smarteranalyst.com\",\"signupPageName\":\"SA_BN_id22\"};\n
+        \       console.log(de);\n        $.ajax({\n            url: \"https://tipranksmarketingfunctions.azurewebsites.net/api/contacts/loose\",\n
+        \           type: \"post\",\n          //  dataType: \"json\",\n            data:
+        JSON.stringify(de),\n            success: function(result) {\n                //
+        Inject the result in the HTML\n           $('#mc-embedded-form-ff .respon-txt').show();\n
+        \          \n  },\n            error: function (data) {\n                console.log('An
+        error occurred.');\n                console.log(data);\n            } \n        });\n});\n\n\n
+        \  });\n\n</script>\n   \n    \n    \n</body>\n</html>"
+    headers:
+      Cache-Control:
+      - max-age=600, must-revalidate
+      Connection:
+      - keep-alive
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Tue, 09 Mar 2021 16:08:44 GMT
+      Keep-Alive:
+      - timeout=20
+      Link:
+      - <https://www.smarteranalyst.com/wp-json/>; rel="https://api.w.org/"
+      - <https://www.smarteranalyst.com/?p=277466>; rel=shortlink
+      Server:
+      - nginx
+      Transfer-Encoding:
+      - chunked
+      Vary:
+      - Accept-Encoding
+      - Accept-Encoding
+      - Accept-Encoding,Cookie
+      X-Cache:
+      - 'HIT: 1'
+      X-Cache-Group:
+      - normal
+      X-Cacheable:
+      - SHORT
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Powered-By:
+      - WP Engine
+      content-length:
+      - '120554'
+    status:
+      code: 200
+      message: OK
+version: 1

@@ -1,0 +1,1158 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - newsroom.morningstar.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://newsroom.morningstar.com/newsroom/news-archive/press-release-details/2021/Morningstar-Reports-U.S.-Mutual-Fund-and-Exchange-Traded-Fund-Flows-for-May-2021/default.aspx
+  response:
+    body:
+      string: "<!DOCTYPE HTML>\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en-US\"
+        xml:lang=\"en-US\">\r\n<head><title>\r\n\tMorningstar Reports U.S. Mutual
+        Fund and Exchange-Traded Fund Flows for May 2021 | Morningstar, Inc.\r\n</title><meta
+        content=\"text/html; charset=UTF-8\" http-equiv=\"Content-type\" /><meta content=\"RevealTrans(Duration=0,Transition=0)\"
+        http-equiv=\"Page-Enter\" /><meta content=\"IE=edge,chrome=1\" http-equiv=\"X-UA-Compatible\"
+        /><script type=\"text/javascript\">window.NREUM||(NREUM={});NREUM.info = {\"beacon\":\"bam-cell.nr-data.net\",\"errorBeacon\":\"bam-cell.nr-data.net\",\"licenseKey\":\"4b6f7f959c\",\"applicationID\":\"229922501\",\"transactionName\":\"b1xWMUIDWBdWARFYX1YWdTZgTVIBUQMQXUQWWEcVSA==\",\"queueTime\":0,\"applicationTime\":827,\"agent\":\"\",\"atts\":\"\"}</script><script
+        type=\"text/javascript\">(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:false}};(window.NREUM||(NREUM={})).loader_config={xpid:\"VQYBUlRVChACVlhbBQMCVlU=\",licenseKey:\"4b6f7f959c\",applicationID:\"229922501\"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function
+        r(n){if(!e[n]){var i=e[n]={exports:{}};t[n][0].call(i.exports,function(e){var
+        i=t[n][1][e];return r(i||e)},i,i.exports)}return e[n].exports}if(\"function\"==typeof
+        __nr_require)return __nr_require;for(var i=0;i<n.length;i++)r(n[i]);return
+        r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var
+        i,o=t(\"ee\"),a=t(25),s={};try{i=localStorage.getItem(\"__nr_flags\").split(\",\"),console&&\"function\"==typeof
+        console.log&&(s.console=!0,i.indexOf(\"dev\")!==-1&&(s.dev=!0),i.indexOf(\"nr_dev\")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&o.on(\"internal-error\",function(t){r(t.stack)}),s.dev&&o.on(\"fn-err\",function(t,e,n){r(n.stack)}),s.dev&&(r(\"NR
+        AGENT IN DEVELOPMENT MODE\"),r(\"flags: \"+a(s,function(t,e){return t}).join(\",
+        \")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{p?p-=1:i(s||new UncaughtException(t,e,n),!0)}catch(f){try{o(\"ierr\",[f,c.now(),!0])}catch(d){}}return\"function\"==typeof
+        u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||\"Uncaught
+        error with no additional information\",this.sourceURL=e,this.line=n}function
+        i(t,e){var n=e?null:c.now();o(\"err\",[t,n])}var o=t(\"handle\"),a=t(26),s=t(\"ee\"),c=t(\"loader\"),f=t(\"gos\"),u=window.onerror,d=!1,l=\"nr@seenError\";if(!c.disabled){var
+        p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){\"stack\"in
+        h&&(t(9),t(8),\"addEventListener\"in window&&t(5),c.xhrWrappable&&t(10),d=!0)}s.on(\"fn-start\",function(t,e,n){d&&(p+=1)}),s.on(\"fn-err\",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,i(n))}),s.on(\"fn-end\",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on(\"internal-error\",function(t){o(\"ierr\",[t,c.now(),!0])})}},{}],3:[function(t,e,n){var
+        r=t(\"loader\");r.disabled||(r.features.ins=!0)},{}],4:[function(t,e,n){function
+        r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var
+        i=t(\"ee\"),o=t(\"handle\"),a=t(9),s=t(8),c=\"learResourceTimings\",f=\"addEventListener\",u=\"resourcetimingbufferfull\",d=\"bstResource\",l=\"resource\",p=\"-start\",h=\"-end\",m=\"fn\"+p,w=\"fn\"+h,v=\"bstTimer\",g=\"pushState\",y=t(\"loader\");if(!y.disabled){y.features.stn=!0,t(7),\"addEventListener\"in
+        window&&t(5);var x=NREUM.o.EV;i.on(m,function(t,e){var n=t[0];n instanceof
+        x&&(this.bstStart=y.now())}),i.on(w,function(t,e){var n=t[0];n instanceof
+        x&&o(\"bst\",[n,e,this.bstStart,y.now()])}),a.on(m,function(t,e,n){this.bstStart=y.now(),this.bstType=n}),a.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),this.bstType])}),s.on(m,function(){this.bstStart=y.now()}),s.on(w,function(t,e){o(v,[e,this.bstStart,y.now(),\"requestAnimationFrame\"])}),i.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),i.on(g+h,function(t){o(\"bstHist\",[location.pathname+location.hash,this.startPath,this.time])}),f
+        in window.performance&&(window.performance[\"c\"+c]?window.performance[f](u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance[\"c\"+c]()},!1):window.performance[f](\"webkit\"+u,function(t){o(d,[window.performance.getEntriesByType(l)]),window.performance[\"webkitC\"+c]()},!1)),document[f](\"scroll\",r,{passive:!0}),document[f](\"keypress\",r,!1),document[f](\"click\",r,!1)}}},{}],5:[function(t,e,n){function
+        r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&i(e)}function
+        i(t){s.inPlace(t,[u,d],\"-\",o)}function o(t,e){return t[1]}var a=t(\"ee\").get(\"events\"),s=t(\"wrap-function\")(a,!0),c=t(\"gos\"),f=XMLHttpRequest,u=\"addEventListener\",d=\"removeEventListener\";e.exports=a,\"getPrototypeOf\"in
+        Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(i(window),i(f.prototype)),a.on(u+\"-start\",function(t,e){var
+        n=t[1],r=c(n,\"nr@wrapped\",function(){function t(){if(\"function\"==typeof
+        n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,\"function\":n}[typeof
+        n];return e?s(e,\"fn-\",null,e.name||\"anonymous\"):n});this.wrapped=t[1]=r}),a.on(d+\"-start\",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){function
+        r(t,e,n){var r=t[e];\"function\"==typeof r&&(t[e]=function(){var t=o(arguments),e={};i.emit(n+\"before-start\",[t],e);var
+        a;e[m]&&e[m].dt&&(a=e[m].dt);var s=r.apply(this,t);return i.emit(n+\"start\",[t,a],s),s.then(function(t){return
+        i.emit(n+\"end\",[null,t],s),t},function(t){throw i.emit(n+\"end\",[t],s),t})})}var
+        i=t(\"ee\").get(\"fetch\"),o=t(26),a=t(25);e.exports=i;var s=window,c=\"fetch-\",f=c+\"body-\",u=[\"arrayBuffer\",\"blob\",\"json\",\"text\",\"formData\"],d=s.Request,l=s.Response,p=s.fetch,h=\"prototype\",m=\"nr@context\";d&&l&&p&&(a(u,function(t,e){r(d[h],e,f),r(l[h],e,f)}),r(s,\"fetch\",c),i.on(c+\"end\",function(t,e){var
+        n=this;if(e){var r=e.headers.get(\"content-length\");null!==r&&(n.rxSize=r),i.emit(c+\"done\",[null,e],n)}else
+        i.emit(c+\"done\",[t],n)}))},{}],7:[function(t,e,n){var r=t(\"ee\").get(\"history\"),i=t(\"wrap-function\")(r);e.exports=r;var
+        o=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;o&&o.pushState&&o.replaceState&&(a=o),i.inPlace(a,[\"pushState\",\"replaceState\"],\"-\")},{}],8:[function(t,e,n){var
+        r=t(\"ee\").get(\"raf\"),i=t(\"wrap-function\")(r),o=\"equestAnimationFrame\";e.exports=r,i.inPlace(window,[\"r\"+o,\"mozR\"+o,\"webkitR\"+o,\"msR\"+o],\"raf-\"),r.on(\"raf-start\",function(t){t[0]=i(t[0],\"fn-\")})},{}],9:[function(t,e,n){function
+        r(t,e,n){t[0]=a(t[0],\"fn-\",null,n)}function i(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],\"fn-\",this,n)}var
+        o=t(\"ee\").get(\"timer\"),a=t(\"wrap-function\")(o),s=\"setTimeout\",c=\"setInterval\",f=\"clearTimeout\",u=\"-start\",d=\"-\";e.exports=o,a.inPlace(window,[s,\"setImmediate\"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,\"clearImmediate\"],f+d),o.on(c+u,r),o.on(s+u,i)},{}],10:[function(t,e,n){function
+        r(t,e){d.inPlace(e,[\"onreadystatechange\"],\"fn-\",s)}function i(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit(\"xhr-resolved\",[],t)),d.inPlace(t,g,\"fn-\",s)}function
+        o(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var
+        t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function
+        c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t(\"ee\"),u=f.get(\"xhr\"),d=t(\"wrap-function\")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v=\"readystatechange\",g=[\"onload\",\"onerror\",\"onabort\",\"onloadstart\",\"onloadend\",\"onprogress\",\"ontimeout\"],y=[];e.exports=u;var
+        x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit(\"new-xhr\",[e],e),e.addEventListener(v,i,!1)}catch(n){try{u.emit(\"internal-error\",[n])}catch(r){}}return
+        e};if(c(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,[\"open\",\"send\"],\"-xhr-\",s),u.on(\"send-xhr-start\",function(t,e){r(t,e),o(e)}),u.on(\"open-xhr-start\",r),h){var
+        b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else
+        f.on(\"fn-end\",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,e,n){function
+        r(t){if(!s(t))return null;var e=window.NREUM;if(!e.loader_config)return null;var
+        n=(e.loader_config.accountID||\"\").toString()||null,r=(e.loader_config.agentID||\"\").toString()||null,f=(e.loader_config.trustKey||\"\").toString()||null;if(!n||!r)return
+        null;var h=p.generateSpanId(),m=p.generateTraceId(),w=Date.now(),v={spanId:h,traceId:m,timestamp:w};return(t.sameOrigin||c(t)&&l())&&(v.traceContextParentHeader=i(h,m),v.traceContextStateHeader=o(h,w,n,r,f)),(t.sameOrigin&&!u()||!t.sameOrigin&&c(t)&&d())&&(v.newrelicHeader=a(h,m,w,n,r,f)),v}function
+        i(t,e){return\"00-\"+e+\"-\"+t+\"-01\"}function o(t,e,n,r,i){var o=0,a=\"\",s=1,c=\"\",f=\"\";return
+        i+\"@nr=\"+o+\"-\"+s+\"-\"+n+\"-\"+r+\"-\"+t+\"-\"+a+\"-\"+c+\"-\"+f+\"-\"+e}function
+        a(t,e,n,r,i,o){var a=\"btoa\"in window&&\"function\"==typeof window.btoa;if(!a)return
+        null;var s={v:[0,1],d:{ty:\"Browser\",ac:r,ap:i,id:t,tr:e,ti:n}};return o&&r!==o&&(s.d.tk=o),btoa(JSON.stringify(s))}function
+        s(t){return f()&&c(t)}function c(t){var e=!1,n={};if(\"init\"in NREUM&&\"distributed_tracing\"in
+        NREUM.init&&(n=NREUM.init.distributed_tracing),t.sameOrigin)e=!0;else if(n.allowed_origins
+        instanceof Array)for(var r=0;r<n.allowed_origins.length;r++){var i=h(n.allowed_origins[r]);if(t.hostname===i.hostname&&t.protocol===i.protocol&&t.port===i.port){e=!0;break}}return
+        e}function f(){return\"init\"in NREUM&&\"distributed_tracing\"in NREUM.init&&!!NREUM.init.distributed_tracing.enabled}function
+        u(){return\"init\"in NREUM&&\"distributed_tracing\"in NREUM.init&&!!NREUM.init.distributed_tracing.exclude_newrelic_header}function
+        d(){return\"init\"in NREUM&&\"distributed_tracing\"in NREUM.init&&NREUM.init.distributed_tracing.cors_use_newrelic_header!==!1}function
+        l(){return\"init\"in NREUM&&\"distributed_tracing\"in NREUM.init&&!!NREUM.init.distributed_tracing.cors_use_tracecontext_headers}var
+        p=t(22),h=t(13);e.exports={generateTracePayload:r,shouldGenerateTrace:s}},{}],12:[function(t,e,n){function
+        r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var
+        r=0;r<l;r++)t.removeEventListener(d[r],this.listener,!1);e.aborted||(n.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):o(this,t),n.cbTime=this.cbTime,u.emit(\"xhr-done\",[t],t),s(\"xhr\",[e,n,this.startTime]))}}function
+        i(t,e){var n=c(e),r=t.params;r.host=n.hostname+\":\"+n.port,r.pathname=n.pathname,t.parsedOrigin=n,t.sameOrigin=n.sameOrigin}function
+        o(t,e){t.params.status=e.status;var n=w(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var
+        r=e.getResponseHeader(\"X-NewRelic-App-Data\");r&&(t.params.cat=r.split(\",
+        \").pop())}t.loadCaptureCalled=!0}var a=t(\"loader\");if(a.xhrWrappable&&!a.disabled){var
+        s=t(\"handle\"),c=t(13),f=t(11).generateTracePayload,u=t(\"ee\"),d=[\"load\",\"error\",\"abort\",\"timeout\"],l=d.length,p=t(\"id\"),h=t(18),m=t(17),w=t(14),v=NREUM.o.REQ,g=window.XMLHttpRequest;a.features.xhr=!0,t(10),t(6),u.on(\"new-xhr\",function(t){var
+        e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,e.params=this.params||{},e.metrics=this.metrics||{},t.addEventListener(\"load\",function(n){o(e,t)},!1),h&&(h>34||h<10)||window.opera||t.addEventListener(\"progress\",function(t){e.lastSize=t.loaded},!1)}),u.on(\"open-xhr-start\",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),u.on(\"open-xhr-end\",function(t,e){\"loader_config\"in
+        NREUM&&\"xpid\"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader(\"X-NewRelic-ID\",NREUM.loader_config.xpid);var
+        n=f(this.parsedOrigin);if(n){var r=!1;n.newrelicHeader&&(e.setRequestHeader(\"newrelic\",n.newrelicHeader),r=!0),n.traceContextParentHeader&&(e.setRequestHeader(\"traceparent\",n.traceContextParentHeader),n.traceContextStateHeader&&e.setRequestHeader(\"tracestate\",n.traceContextStateHeader),r=!0),r&&(this.dt=n)}}),u.on(\"send-xhr-start\",function(t,e){var
+        n=this.metrics,r=t[0],i=this;if(n&&r){var o=m(r);o&&(n.txSize=o)}this.startTime=a.now(),this.listener=function(t){try{\"abort\"!==t.type||i.loadCaptureCalled||(i.params.aborted=!0),(\"load\"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||\"function\"!=typeof
+        e.onload))&&i.end(e)}catch(n){try{u.emit(\"internal-error\",[n])}catch(r){}}};for(var
+        s=0;s<l;s++)e.addEventListener(d[s],this.listener,!1)}),u.on(\"xhr-cb-time\",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&\"function\"==typeof
+        n.onload||this.end(n)}),u.on(\"xhr-load-added\",function(t,e){var n=\"\"+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on(\"xhr-load-removed\",function(t,e){var
+        n=\"\"+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on(\"addEventListener-end\",function(t,e){e
+        instanceof g&&\"load\"===t[0]&&u.emit(\"xhr-load-added\",[t[1],t[2]],e)}),u.on(\"removeEventListener-end\",function(t,e){e
+        instanceof g&&\"load\"===t[0]&&u.emit(\"xhr-load-removed\",[t[1],t[2]],e)}),u.on(\"fn-start\",function(t,e,n){e
+        instanceof g&&(\"onload\"===n&&(this.onload=!0),(\"load\"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on(\"fn-end\",function(t,e){this.xhrCbStart&&u.emit(\"xhr-cb-time\",[a.now()-this.xhrCbStart,this.onload,e],e)}),u.on(\"fetch-before-start\",function(t){function
+        e(t,e){var n=!1;return e.newrelicHeader&&(t.set(\"newrelic\",e.newrelicHeader),n=!0),e.traceContextParentHeader&&(t.set(\"traceparent\",e.traceContextParentHeader),e.traceContextStateHeader&&t.set(\"tracestate\",e.traceContextStateHeader),n=!0),n}var
+        n,r=t[1]||{};\"string\"==typeof t[0]?n=t[0]:t[0]&&t[0].url?n=t[0].url:window.URL&&t[0]&&t[0]instanceof
+        URL&&(n=t[0].href),n&&(this.parsedOrigin=c(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var
+        i=f(this.parsedOrigin);if(i&&(i.newrelicHeader||i.traceContextParentHeader))if(\"string\"==typeof
+        t[0]||window.URL&&t[0]&&t[0]instanceof URL){var o={};for(var a in r)o[a]=r[a];o.headers=new
+        Headers(r.headers||{}),e(o.headers,i)&&(this.dt=i),t.length>1?t[1]=o:t.push(o)}else
+        t[0]&&t[0].headers&&e(t[0].headers,i)&&(this.dt=i)}),u.on(\"fetch-start\",function(t,e){this.params={},this.metrics={},this.startTime=a.now(),t.length>=1&&(this.target=t[0]),t.length>=2&&(this.opts=t[1]);var
+        n,r=this.opts||{},o=this.target;\"string\"==typeof o?n=o:\"object\"==typeof
+        o&&o instanceof v?n=o.url:window.URL&&\"object\"==typeof o&&o instanceof URL&&(n=o.href),i(this,n);var
+        s=(\"\"+(o&&o instanceof v&&o.method||r.method||\"GET\")).toUpperCase();this.params.method=s,this.txSize=m(r.body)||0}),u.on(\"fetch-done\",function(t,e){this.params||(this.params={}),this.params.status=e?e.status:0;var
+        n;\"string\"==typeof this.rxSize&&this.rxSize.length>0&&(n=+this.rxSize);var
+        r={txSize:this.txSize,rxSize:n,duration:a.now()-this.startTime};s(\"xhr\",[this.params,r,this.startTime])})}},{}],13:[function(t,e,n){var
+        r={};e.exports=function(t){if(t in r)return r[t];var e=document.createElement(\"a\"),n=window.location,i={};e.href=t,i.port=e.port;var
+        o=e.href.split(\"://\");!i.port&&o[1]&&(i.port=o[1].split(\"/\")[0].split(\"@\").pop().split(\":\")[1]),i.port&&\"0\"!==i.port||(i.port=\"https\"===o[0]?\"443\":\"80\"),i.hostname=e.hostname||n.hostname,i.pathname=e.pathname,i.protocol=o[0],\"/\"!==i.pathname.charAt(0)&&(i.pathname=\"/\"+i.pathname);var
+        a=!e.protocol||\":\"===e.protocol||e.protocol===n.protocol,s=e.hostname===document.domain&&e.port===n.port;return
+        i.sameOrigin=a&&(!e.hostname||s),\"/\"===i.pathname&&(r[t]=i),i}},{}],14:[function(t,e,n){function
+        r(t,e){var n=t.responseType;return\"json\"===n&&null!==e?e:\"arraybuffer\"===n||\"blob\"===n||\"json\"===n?i(t.response):\"text\"===n||\"\"===n||void
+        0===n?i(t.responseText):void 0}var i=t(17);e.exports=r},{}],15:[function(t,e,n){function
+        r(){}function i(t,e,n){return function(){return o(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void
+        0:this}}var o=t(\"handle\"),a=t(25),s=t(26),c=t(\"ee\").get(\"tracer\"),f=t(\"loader\"),u=NREUM;\"undefined\"==typeof
+        window.newrelic&&(newrelic=u);var d=[\"setPageViewName\",\"setCustomAttribute\",\"setErrorHandler\",\"finished\",\"addToTrace\",\"inlineHit\",\"addRelease\"],l=\"api-\",p=l+\"ixn-\";a(d,function(t,e){u[e]=i(l+e,!0,\"api\")}),u.addPageAction=i(l+\"addPageAction\",!0),u.setCurrentRouteName=i(l+\"routeName\",!0),e.exports=newrelic,u.interaction=function(){return(new
+        r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,i=\"function\"==typeof
+        e;return o(p+\"tracer\",[f.now(),t,n],r),function(){if(c.emit((i?\"\":\"no-\")+\"fn-start\",[f.now(),r,i],n),i)try{return
+        e.apply(this,arguments)}catch(t){throw c.emit(\"fn-err\",[arguments,this,t],n),t}finally{c.emit(\"fn-end\",[f.now()],n)}}}};a(\"actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get\".split(\",\"),function(t,e){h[e]=i(p+e)}),newrelic.noticeError=function(t,e){\"string\"==typeof
+        t&&(t=new Error(t)),o(\"err\",[t,f.now(),!1,e])}},{}],16:[function(t,e,n){function
+        r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split(\".\"),r=0;r<n.length-1;r++)if(e=e[n[r]],\"object\"!=typeof
+        e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],17:[function(t,e,n){e.exports=function(t){if(\"string\"==typeof
+        t&&t.length)return t.length;if(\"object\"==typeof t){if(\"undefined\"!=typeof
+        ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if(\"undefined\"!=typeof
+        Blob&&t instanceof Blob&&t.size)return t.size;if(!(\"undefined\"!=typeof FormData&&t
+        instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],18:[function(t,e,n){var
+        r=0,i=navigator.userAgent.match(/Firefox[\\/\\s](\\d+\\.\\d+)/);i&&(r=+i[1]),e.exports=r},{}],19:[function(t,e,n){function
+        r(){return s.exists&&performance.now?Math.round(performance.now()):(o=Math.max((new
+        Date).getTime(),o))-a}function i(){return o}var o=(new Date).getTime(),a=o,s=t(27);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=i},{}],20:[function(t,e,n){function
+        r(t){return!(!t||!t.protocol||\"file:\"===t.protocol)}e.exports=r},{}],21:[function(t,e,n){function
+        r(t,e){var n=t.getEntries();n.forEach(function(t){\"first-paint\"===t.name?d(\"timing\",[\"fp\",Math.floor(t.startTime)]):\"first-contentful-paint\"===t.name&&d(\"timing\",[\"fcp\",Math.floor(t.startTime)])})}function
+        i(t,e){var n=t.getEntries();n.length>0&&d(\"lcp\",[n[n.length-1]])}function
+        o(t){t.getEntries().forEach(function(t){t.hadRecentInput||d(\"cls\",[t])})}function
+        a(t){if(t instanceof h&&!w){var e=Math.round(t.timeStamp),n={type:t.type};e<=l.now()?n.fid=l.now()-e:e>l.offset&&e<=Date.now()?(e-=l.offset,n.fid=l.now()-e):e=l.now(),w=!0,d(\"timing\",[\"fi\",e,n])}}function
+        s(t){\"hidden\"===t&&d(\"pageHide\",[l.now()])}if(!(\"init\"in NREUM&&\"page_view_timing\"in
+        NREUM.init&&\"enabled\"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var
+        c,f,u,d=t(\"handle\"),l=t(\"loader\"),p=t(24),h=NREUM.o.EV;if(\"PerformanceObserver\"in
+        window&&\"function\"==typeof window.PerformanceObserver){c=new PerformanceObserver(r);try{c.observe({entryTypes:[\"paint\"]})}catch(m){}f=new
+        PerformanceObserver(i);try{f.observe({entryTypes:[\"largest-contentful-paint\"]})}catch(m){}u=new
+        PerformanceObserver(o);try{u.observe({type:\"layout-shift\",buffered:!0})}catch(m){}}if(\"addEventListener\"in
+        document){var w=!1,v=[\"click\",\"keydown\",\"mousedown\",\"pointerdown\",\"touchstart\"];v.forEach(function(t){document.addEventListener(t,a,!1)})}p(s)}},{}],22:[function(t,e,n){function
+        r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new
+        Uint8Array(31)));for(var i,o=\"xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx\",a=\"\",s=0;s<o.length;s++)i=o[s],\"x\"===i?a+=t().toString(16):\"y\"===i?(i=3&t()|8,a+=i.toString(16)):a+=i;return
+        a}function i(){return a(16)}function o(){return a(32)}function a(t){function
+        e(){return n?15&n[r++]:16*Math.random()|0}var n=null,r=0,i=window.crypto||window.msCrypto;i&&i.getRandomValues&&Uint8Array&&(n=i.getRandomValues(new
+        Uint8Array(31)));for(var o=[],a=0;a<t;a++)o.push(e().toString(16));return
+        o.join(\"\")}e.exports={generateUuid:r,generateSpanId:i,generateTraceId:o}},{}],23:[function(t,e,n){function
+        r(t,e){if(!i)return!1;if(t!==i)return!1;if(!e)return!0;if(!o)return!1;for(var
+        n=o.split(\".\"),r=e.split(\".\"),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var
+        i=null,o=null,a=/Version\\/(\\S+)\\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf(\"Chrome\")===-1&&s.indexOf(\"Chromium\")===-1&&(i=\"Safari\",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],24:[function(t,e,n){function
+        r(t){function e(){t(a&&document[a]?document[a]:document[i]?\"hidden\":\"visible\")}\"addEventListener\"in
+        document&&o&&document.addEventListener(o,e,!1)}e.exports=r;var i,o,a;\"undefined\"!=typeof
+        document.hidden?(i=\"hidden\",o=\"visibilitychange\",a=\"visibilityState\"):\"undefined\"!=typeof
+        document.msHidden?(i=\"msHidden\",o=\"msvisibilitychange\"):\"undefined\"!=typeof
+        document.webkitHidden&&(i=\"webkitHidden\",o=\"webkitvisibilitychange\",a=\"webkitVisibilityState\")},{}],25:[function(t,e,n){function
+        r(t,e){var n=[],r=\"\",o=0;for(r in t)i.call(t,r)&&(n[o]=e(r,t[r]),o+=1);return
+        n}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],26:[function(t,e,n){function
+        r(t,e,n){e||(e=0),\"undefined\"==typeof n&&(n=t?t.length:0);for(var r=-1,i=n-e||0,o=Array(i<0?0:i);++r<i;)o[r]=t[e+r];return
+        o}e.exports=r},{}],27:[function(t,e,n){e.exports={exists:\"undefined\"!=typeof
+        window.performance&&window.performance.timing&&\"undefined\"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function
+        r(){}function i(t){function e(t){return t&&t instanceof r?t:t?f(t,c,a):a()}function
+        n(n,r,i,o,a){if(a!==!1&&(a=!0),!p.aborted||o){t&&a&&t(n,r,i);for(var s=e(i),c=m(n),f=c.length,u=0;u<f;u++)c[u].apply(s,r);var
+        l=d[y[n]];return l&&l.push([x,n,r,s]),s}}function o(t,e){g[t]=m(t).concat(e)}function
+        h(t,e){var n=g[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function
+        m(t){return g[t]||[]}function w(t){return l[t]=l[t]||i(n)}function v(t,e){p.aborted||u(t,function(t,n){e=e||\"feature\",y[n]=e,e
+        in d||(d[e]=[])})}var g={},y={},x={on:o,addEventListener:o,removeEventListener:h,emit:n,get:w,listeners:m,context:e,buffer:v,abort:s,aborted:!1};return
+        x}function o(t){return f(t,c,a)}function a(){return new r}function s(){(d.api||d.feature)&&(p.aborted=!0,d=p.backlog={})}var
+        c=\"nr@context\",f=t(\"gos\"),u=t(25),d={},l={},p=e.exports=i();e.exports.getOrSetContext=o,p.backlog=d},{}],gos:[function(t,e,n){function
+        r(t,e,n){if(i.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return
+        Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return
+        t[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function
+        r(t,e,n,r){i.buffer([t],r),i.emit(t,e,n)}var i=t(\"ee\").get(\"handle\");e.exports=r,r.ee=i},{}],id:[function(t,e,n){function
+        r(t){var e=typeof t;return!t||\"object\"!==e&&\"function\"!==e?-1:t===window?0:a(t,o,function(){return
+        i++})}var i=1,o=\"nr@id\",a=t(\"gos\");e.exports=r},{}],loader:[function(t,e,n){function
+        r(){if(!O++){var t=S.info=NREUM.info,e=m.getElementsByTagName(\"script\")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return
+        f.abort();c(E,function(e,n){t[e]||(t[e]=n)});var n=a();s(\"mark\",[\"onload\",n+S.offset],null,\"api\"),s(\"timing\",[\"load\",n]);var
+        r=m.createElement(\"script\");0===t.agent.indexOf(\"http://\")||0===t.agent.indexOf(\"https://\")?r.src=t.agent:r.src=p+\"://\"+t.agent,e.parentNode.insertBefore(r,e)}}function
+        i(){\"complete\"===m.readyState&&o()}function o(){s(\"mark\",[\"domContent\",a()+S.offset],null,\"api\")}var
+        a=t(19),s=t(\"handle\"),c=t(25),f=t(\"ee\"),u=t(23),d=t(20),l=t(16),p=l.getConfiguration(\"ssl\")===!1?\"http\":\"https\",h=window,m=h.document,w=\"addEventListener\",v=\"attachEvent\",g=h.XMLHttpRequest,y=g&&g.prototype,x=!d(h.location);NREUM.o={ST:setTimeout,SI:h.setImmediate,CT:clearTimeout,XHR:g,REQ:h.Request,EV:h.Event,PR:h.Promise,MO:h.MutationObserver};var
+        b=\"\"+location,E={beacon:\"bam.nr-data.net\",errorBeacon:\"bam.nr-data.net\",agent:\"js-agent.newrelic.com/nr-1210.min.js\"},R=g&&y&&y[w]&&!/CriOS/.test(navigator.userAgent),S=e.exports={offset:a.getLastTimestamp(),now:a,origin:b,features:{},xhrWrappable:R,userAgent:u,disabled:x};if(!x){t(15),t(21),m[w]?(m[w](\"DOMContentLoaded\",o,!1),h[w](\"load\",r,!1)):(m[v](\"onreadystatechange\",i),h[v](\"onload\",r)),s(\"mark\",[\"firstbyte\",a.getLastTimestamp()],null,\"api\");var
+        O=0}},{}],\"wrap-function\":[function(t,e,n){function r(t,e){function n(e,n,r,c,f){function
+        nrWrapper(){var o,a,u,l;try{a=this,o=d(arguments),u=\"function\"==typeof r?r(o,a):r||{}}catch(p){i([p,\"\",[o,a,c],u],t)}s(n+\"start\",[o,a,c],u,f);try{return
+        l=e.apply(a,o)}catch(h){throw s(n+\"err\",[o,a,h],u,f),h}finally{s(n+\"end\",[o,a,l],u,f)}}return
+        a(e)?e:(n||(n=\"\"),nrWrapper[l]=e,o(e,nrWrapper,t),nrWrapper)}function r(t,e,r,i,o){r||(r=\"\");var
+        s,c,f,u=\"-\"===r.charAt(0);for(f=0;f<e.length;f++)c=e[f],s=t[c],a(s)||(t[c]=n(s,u?c+r:r,i,c,o))}function
+        s(n,r,o,a){if(!h||e){var s=h;h=!0;try{t.emit(n,r,o,e,a)}catch(c){i([c,n,r,o],t)}h=s}}return
+        t||(t=u),n.inPlace=r,n.flag=l,n}function i(t,e){e||(e=u);try{e.emit(\"internal-error\",t)}catch(n){}}function
+        o(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return
+        r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return
+        t[n]=e,e}})}),e}catch(o){i([o],n)}for(var a in t)p.call(t,a)&&(e[a]=t[a]);return
+        e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[l])}function
+        s(t,e){var n=e(t);return n[l]=t,o(t,n,u),n}function c(t,e,n){var r=t[e];t[e]=s(r,n)}function
+        f(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return
+        e}var u=t(\"ee\"),d=t(26),l=\"nr@original\",p=Object.prototype.hasOwnProperty,h=!1;e.exports=r,e.exports.wrapFunction=s,e.exports.wrapInPlace=c,e.exports.argsToArray=f},{}]},{},[\"loader\",2,12,4,3]);</script><meta
+        content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0\"
+        name=\"viewport\" /><meta content=\"Morningstar Reports U.S. Mutual Fund and
+        Exchange-Traded Fund Flows for May 2021\" property=\"og:title\" /><meta content=\"Morningstar,
+        Inc. (Nasdaq: MORN), a leading provider of independent investment research,
+        today reported estimated U.S.\_mutual fund\_and\_exchange-traded fund\_(ETF)
+        flows for May 2021. Long-term mutual funds and ETFs collected $83 billion
+        during May, materially less than their $156 billion haul in March and $124
+        billion intake in April. Investors continued to favor passively managed strategies,
+        pouring $71 billion into index-tracking funds. Morningstar&#39;s report about
+        U.S. fund flows for May 2021 is available here . Additional highlights from
+        the report include: Taxable-bond funds took in $38 billion, the highest total
+        among category groups but modest relative to inflows earlier in the year.
+        After taking in a record $54 billion in March, U.S. equity fund flows were
+        quiet for the second consecutive month with just $211 million of inflows in
+        May. Large-value funds picked up about $13 billion, their second-highest monthly
+        intake in Morningstar&#39;s database which goes back to 1993.\" property=\"og:description\"
+        /><meta content=\"website\" property=\"og:type\" /><meta content=\"https://newsroom.morningstar.com/newsroom/news-archive/press-release-details/2021/Morningstar-Reports-U.S.-Mutual-Fund-and-Exchange-Traded-Fund-Flows-for-May-2021/default.aspx\"
+        property=\"og:url\" /><meta name=\"twitter:title\" content=\"Morningstar Reports
+        U.S. Mutual Fund and Exchange-Traded Fund Flows for May 2021\" /><meta name=\"twitter:description\"
+        content=\"Morningstar, Inc. (Nasdaq: MORN), a leading provider of independent
+        investment research, today reported estimated U.S.\_mutual fund\_and\_exchange-traded
+        fund\_(ETF) flows for May 2021. Long-term mutual funds and ETFs collected
+        $83 billion during May, materially less than their $156 billion haul in March
+        and $124 billion intake in April. Investors continued to favor passively managed
+        strategies, pouring $71 billion into index-tracking funds. Morningstar&#39;s
+        report about U.S. fund flows for May 2021 is available here . Additional highlights
+        from the report include: Taxable-bond funds took in $38 billion, the highest
+        total among category groups but modest relative to inflows earlier in the
+        year. After taking in a record $54 billion in March, U.S. equity fund flows
+        were quiet for the second consecutive month with just $211 million of inflows
+        in May. Large-value funds picked up about $13 billion, their second-highest
+        monthly intake in Morningstar&#39;s database which goes back to 1993.\" /><link
+        type=\"text/css\" rel=\"stylesheet\" media=\"all\" href=\"//s21.q4cdn.com/198919461/files/css/jquery-ui.css\"
+        />\r\n<link type=\"text/css\" rel=\"stylesheet\" media=\"all\" href=\"//fonts.googleapis.com/css?family=Open+Sans:400,300,600\"
+        />\r\n<link type=\"image/x-icon\" rel=\"icon\" media=\"\" href=\"//s21.q4cdn.com/198919461/files/favicon.ico\"
+        />\r\n<link type=\"image/x-icon\" rel=\"shortcut icon\" media=\"\" href=\"//s21.q4cdn.com/198919461/files/favicon.ico\"
+        />\r\n<link rel=\"stylesheet\" media=\"all\" href=\"https://newsroom.morningstar.com/css/default.css\"
+        />\r\n<link rel=\"stylesheet\" media=\"print\" href=\"//s21.q4cdn.com/198919461/files/css/print.css\"
+        />\r\n<!--[if lte IE 8]>\n<link id=\"respond-proxy\" rel=\"respond-proxy\"
+        media=\"screen\" href=\"//s21.q4cdn.com/198919461/files/js/respond-proxy.html\"
+        />\r\n<link id=\"respond-redirect\" rel=\"respond-redirect\" media=\"screen\"
+        href=\"https://newsroom.morningstar.com/js/respond.proxy.gif\" />\r\n<![endif]-->\r\n\r\n<link
+        id=\"htmlGlobalLinkCss\" type=\"text/css\" rel=\"stylesheet\" media=\"all\"
+        href=\"//s21.q4cdn.com/198919461/files/css/global.css?v=48270\" /><link id=\"htmlClientLinkCss\"
+        type=\"text/css\" rel=\"stylesheet\" media=\"all\" href=\"//s21.q4cdn.com/198919461/files/css/client.css?v=48298\"
+        /><link id=\"htmlLinkPrintCss\" type=\"text/css\" rel=\"stylesheet\" media=\"print\"
+        href=\"//s21.q4cdn.com/198919461/files/css/print.css\" /><script type=\"text/javascript\"
+        src=\"//s21.q4cdn.com/198919461/files/js/q4.core.js\"></script>\r\n<script
+        type=\"text/javascript\" src=\"//s21.q4cdn.com/198919461/files/js/q4.app.js\"></script>\r\n<script
+        type=\"text/javascript\" src=\"//s21.q4cdn.com/198919461/files/js/icheck.min.js\"></script>\r\n<script
+        type=\"text/javascript\" src=\"//s21.q4cdn.com/198919461/files/js/select2.min.js\"></script>\r\n<!--[if
+        lte IE 8]>\n<script type=\"text/javascript\" src=\"https://newsroom.morningstar.com/js/respond.proxy.js\"></script>\r\n<![endif]-->\r\n\r\n<script
+        type=\"text/javascript\">(function (i, s, o, g, r, a, m) {\r\n    i['GoogleAnalyticsObject']
+        = r; i[r] = i[r] || function () {\r\n        (i[r].q = i[r].q || []).push(arguments)\r\n
+        \   }, i[r].l = 1 * new Date(); a = s.createElement(o),\r\n        m = s.getElementsByTagName(o)[0];
+        a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)\r\n})(window, document,
+        'script', '//www.google-analytics.com/analytics.js', 'ga');\r\n\r\n(function
+        ($) {\r\n    function initGaTracking(isp, org) {\r\n        isp = isp || '(not
+        set)';\r\n        org = org || '(not set)';\r\n        $.each(trackingCodes,
+        function (i, data) {\r\n            if (data.qualifier === \"Q4\") {\r\n                ga('create',
+        data.trackingCode, 'auto'); // Q4 tracker\r\n                ga('set', { 'dimension1':
+        isp });\r\n                ga('set', { 'dimension2': org });\r\n                ga('set',
+        'anonymizeIp', true);\r\n                ga('send', 'pageview', { 'page':
+        location.pathname + location.search + location.hash }); // send pageview to
+        Q4 tracker\r\n            } else {\r\n                ga('create', data.trackingCode,
+        'auto', { 'name': data.qualifier }); // Client tracker\r\n                ga(data.qualifier
+        + '.set', 'anonymizeIp', true);\r\n                ga(data.qualifier + '.send',
+        'pageview', { 'page': location.pathname + location.search + location.hash
+        }); // send pageview to Client tracker\r\n            }\r\n        });\r\n
+        \   }\r\n\r\n    var trackingCodes = [{qualifier: 'Q4', trackingCode: 'UA-93351195-1'},
+        {qualifier: 'Client', trackingCode: 'UA-14149633-1'}];\r\n    var ipSessStorageKey
+        = 'ipApiInfo';\r\n    var ipJsonStringified = sessionStorage.getItem(ipSessStorageKey);\r\n\r\n
+        \   if (ipJsonStringified) {\r\n        try {\r\n            var ipJsonParsed
+        = JSON.parse(ipJsonStringified);\r\n            initGaTracking(ipJsonParsed.isp,
+        ipJsonParsed.org);\r\n        } catch (e) {\r\n            console.error('Failed
+        to JSON parse IP API session storage data\\n', e);\r\n            initGaTracking();\r\n
+        \       }\r\n    } else {\r\n        $.getJSON('https://pro.ip-api.com/json/?key=xdjZbj0ZiVVozCo&fields=isp,org')\r\n
+        \           .done(function (ipJson) {\r\n                sessionStorage.setItem(ipSessStorageKey,
+        JSON.stringify(ipJson));\r\n                initGaTracking(ipJson.isp, ipJson.org);\r\n
+        \           })\r\n            .fail(function () {\r\n                initGaTracking();\r\n
+        \           });\r\n    }\r\n})(jQuery);\r\n</script></head>\r\n<body style=\"margin:
+        0px\" class=\"BodyBackground\">\r\n    <input type=\"hidden\" id=\"__RequestVerificationToken\"/>\r\n
+        \   \r\n    <style>@import url(\"https://q4widgets.q4web.com/prDetails/css/all.css\");</style>\r\n
+        \   <div id=\"pageClass\" class=\"Sectionnews-archive PageDefault PageNewsRoomNewsArchivePressReleaseDetails
+        LayoutTwoColumnLayout Languageen-US SectionpgNewsRoom prDetails q4default
+        noBanner details-news\">\r\n        <div class=\"PageDefaultInner\">\r\n            <div
+        id=\"litPageDiv\" class=\"PageNewsRoomNewsArchivePressReleaseDetails SectionNewsRoomNewsArchivePressReleaseDetails
+        ParentSection_news-archive\">\r\n                <a name=\"top\"></a>\r\n
+        \               <form action=\"default.aspx\" method=\"post\" id=\"fmForm1\">\r\n<div
+        class=\"aspNetHidden\">\r\n<input type=\"hidden\" name=\"__EVENTTARGET\" id=\"__EVENTTARGET\"
+        value=\"\" />\r\n<input type=\"hidden\" name=\"__EVENTARGUMENT\" id=\"__EVENTARGUMENT\"
+        value=\"\" />\r\n<input type=\"hidden\" name=\"__VIEWSTATE\" id=\"__VIEWSTATE\"
+        value=\"\" />\r\n</div>\r\n\r\n<script type=\"text/javascript\">\r\n//<![CDATA[\r\nvar
+        theForm = document.forms['fmForm1'];\r\nif (!theForm) {\r\n    theForm = document.fmForm1;\r\n}\r\nfunction
+        __doPostBack(eventTarget, eventArgument) {\r\n    if (!theForm.onsubmit ||
+        (theForm.onsubmit() != false)) {\r\n        theForm.__EVENTTARGET.value =
+        eventTarget;\r\n        theForm.__EVENTARGUMENT.value = eventArgument;\r\n
+        \       theForm.submit();\r\n    }\r\n}\r\n//]]>\r\n</script>\r\n\r\n\r\n\r\n<script
+        type=\"text/javascript\">\r\n//<![CDATA[\r\nfunction GetViewType(){ return
+        '2'; }\r\nfunction GetRevisionNumber(){ return '1'; }\r\nfunction GetLanguageId(){
+        return '1'; }\r\nfunction GetVersionNumber(){ return '5.56.0.1'; }\r\nfunction
+        GetPoweredBy(){return 'q4inc';}\r\nfunction GetViewDate(){{ return ''; }}\r\nfunction
+        GetSignature(){{ return ''; }}\r\n//]]>\r\n</script>\r\n\r\n                    \r\n
+        \                   <a id=\"lnkPostback\" href=\"javascript:__doPostBack(&#39;lnkPostback&#39;,&#39;&#39;)\"
+        style=\"display: none\"></a>\r\n                    \n<div class=\"LayoutDefault
+        LayoutTwoColumn\">\n\t<div class=\"LayoutDefaultInner\">\n\t\t<div class=\"HeaderContainer\">\n\t\t\t<div
+        class=\"PaneHeader clearfix\" role=\"banner\"><span class='HeaderPaneDiv'><span
+        class='HeaderPaneDiv1'><div id=\"_ctrl0_ctl06_divModuleContainer\" class=\"ModuleContent
+        accSkipLink\">\n    <div class=\"ModuleOuterContainer\">\n        \n        <div
+        class=\"ModuleInnerContainer\">\n            <a href=\"#maincontent\">Skip
+        to main content</a>\n        </div>\n    </div>\n</div></span><span class='HeaderPaneDiv2'><div
+        id=\"_ctrl0_ctl09_divModuleContainer\" class=\"ModuleContent menu-left\">\n
+        \   <div class=\"ModuleOuterContainer\">\n        \n        <div class=\"ModuleInnerContainer\">\n
+        \           <a class=\"menubutton grey light no-anchorStyle\" href=\"javascript:void(0);\">\r\n<span
+        class=\"icon ic-nav-menu\" aria-hidden=\"true\"></span>\r\n Menu\r\n</a>\r\n<a
+        class=\"closebutton grey light no-anchorStyle\" href=\"javascript:void(0);\">\xD7</a>\n
+        \       </div>\n    </div>\n</div></span><span class='HeaderPaneDiv3'><div
+        id=\"_ctrl0_ctl12_divModuleContainer\" class=\"ModuleContent ClientLogo\">\n
+        \   <div class=\"ModuleOuterContainer\">\n        \n        <div class=\"ModuleInnerContainer\">\n
+        \           <a href=\"https://www.morningstar.com/company/\"><img src=\"//s21.q4cdn.com/198919461/files/design/icon-morningstar-logo.svg\"
+        alt=\"Morningstar\"></a>\n        </div>\n    </div>\n</div></span><span class='HeaderPaneDiv4'><div
+        id=\"_ctrl0_ctl15_divModuleContainer\" class=\"ModuleContent mobile-toggle\">\n
+        \   <div class=\"ModuleOuterContainer\">\n        \n        <div class=\"ModuleInnerContainer\">\n
+        \           <i class=\"q4i-square-menu\"></i>\n        </div>\n    </div>\n</div></span><span
+        class='HeaderPaneDiv5'><div id=\"_ctrl0_ctl18_divModuleContainer\" class=\"ModuleContent
+        CorpnNav\">\n    <div class=\"ModuleOuterContainer\">\n        \n        <div
+        class=\"ModuleInnerContainer\">\n            <div class=\"dropdown\" style=\"display:
+        block;\">\r\n    <div class=\"dp-section\">\r\n        <div class=\"accordion-topnav\"
+        style=\"border-top: none;\">\r\n            <span class=\"desktopHidden accordion-arrow
+        accordion-close\"></span>\r\n            <label class=\"text-black light\">How
+        Morningstar Can Help</label>\r\n        </div>\r\n        <div class=\"content\">\r\n
+        \           <div style=\"height: 15px; clear:both;\" class=\"\">&nbsp;</div>\r\n
+        \           <h2 class=\"text-dark-green topnav-item\">\r\n                    <a
+        href=\"http://www.morningstar.com/company/individuals\" class=\"no-anchorStyle
+        \ thin\">\r\n                        <span class=\"mediumSeaGreen-liitem\">Individual
+        Investors</span>\r\n                    </a>\r\n                </h2>\r\n
+        \           <h2 class=\"text-blue topnav-item\">\r\n                    <a
+        href=\"http://www.morningstar.com/company/workplace\" class=\"no-anchorStyle
+        \ thin\">\r\n                        <span class=\"blue-liitem\">Plan Sponsors</span>\r\n
+        \                   </a>\r\n                </h2>\r\n            <h2 class=\"caramine
+        topnav-item\">\r\n                    <a href=\"http://www.morningstar.com/company/financial-advisor\"
+        class=\"no-anchorStyle  thin\">\r\n                        <span class=\"caramine-liitem\">Advisors</span>\r\n
+        \                   </a>\r\n                </h2>\r\n            <h2 class=\"blueShade
+        topnav-item\">\r\n                    <a href=\"http://www.morningstar.com/company/asset-management\"
+        class=\"no-anchorStyle  thin\">\r\n                        <span class=\"blueShade-liitem\">Asset
+        Managers</span>\r\n                    </a>\r\n</h2>\r\n            <div style=\"height:
+        18px; clear:both;\" class=\"\">&nbsp;</div>\r\n            <div style=\"height:
+        20px; clear:both;\" class=\"\">&nbsp;</div>\r\n            <div class=\"darkGrey
+        \  highLightChildPadding\">\r\n                <div class=\"accordion-topnav\"
+        style=\"border-top: medium none;\">\r\n                    <label class=\"text-black
+        light\">Company</label>\r\n                </div>\r\n            </div>\r\n
+        \           <div style=\"height: 15px; clear:both;\" class=\"\">&nbsp;</div>\r\n
+        \           <h2 class=\"darkGrey topnav-item\">\r\n    <a href=\"http://www.morningstar.com//company/about-us\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">About
+        Morningstar</span>\r\n    </a>\r\n</h2>\r\n            <h2 class=\"darkGrey
+        topnav-item\">\r\n    <a href=\"https://www.morningstar.com/careers\" target=\"\"
+        class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Careers</span>\r\n
+        \   </a>\r\n</h2>\r\n            <h2 class=\"darkGrey topnav-item\">\r\n    <a
+        href=\"https://newsroom.morningstar.com/newsroom/overview/default.aspx\" target=\"\"
+        class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Newsroom</span>\r\n
+        \   </a>\r\n</h2>\r\n            <h2 class=\"darkGrey topnav-item\">\r\n    <a
+        href=\"https://shareholders.morningstar.com/investor-relations/default.aspx\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Investor
+        Relations</span>\r\n    </a>\r\n</h2>\r\n            <div style=\"height:
+        15pxpx; clear:both;\" class=\"desktopHidden\">&nbsp;</div>\r\n        </div>\r\n
+        \   </div>\r\n    <div class=\"dp-section\">\r\n        <div class=\"accordion-topnav\">\r\n
+        \           <span class=\"desktopHidden accordion-arrow accordion-close\"></span>\r\n
+        \           <label class=\"text-black light\">Featured Products and Services</label>\r\n
+        \       </div>\r\n        <div class=\"content\">\r\n            <div style=\"height:
+        15px; clear:both;\" class=\"\">&nbsp;</div>\r\n\r\n\r\n            <h2 class=\"darkGrey
+        topnav-item\">\r\n    <a href=\"https://www.morningstar.com/products/advisor-workstation\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Morningstar
+        Advisor Workstation</span>\r\n    </a>\r\n</h2>\r\n             <h2 class=\"darkGrey
+        topnav-item\">\r\n    <a href=\"https://www.morningstar.com/products/cloud/office\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Morningstar
+        Office Cloud</span>\r\n    </a>\r\n</h2>          \r\n             <h2 class=\"darkGrey
+        topnav-item\">\r\n    <a href=\"https://www.morningstar.com/products/cloud\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Morningstar
+        Cloud</span>\r\n    </a>\r\n</h2>         \r\n             <h2 class=\"darkGrey
+        topnav-item\">\r\n    <a href=\"https://www.morningstar.com/products/retirement-manager\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Morningstar
+        Retirement Manager</span>\r\n    </a>\r\n</h2>  \r\n             <h2 class=\"darkGrey
+        topnav-item\">\r\n    <a href=\"https://www.morningstar.com/en-us/products/morningstar-managed-portfolios\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Morningstar
+        Managed Portfolios</span>\r\n    </a>\r\n</h2>  \r\n\r\n             <h2 class=\"darkGrey
+        topnav-item\">\r\n    <a href=\"https://www.morningstar.com/products/research\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Morningstar
+        Research</span>\r\n    </a>\r\n</h2>  \r\n             <h2 class=\"darkGrey
+        topnav-item\">\r\n    <a href=\"https://www.morningstar.com/products/data\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Morningstar
+        Data</span>\r\n    </a>\r\n</h2>  \r\n             <h2 class=\"darkGrey topnav-item\">\r\n
+        \   <a href=\"https://www.morningstar.com/products/indexes\" target=\"\" class=\"no-anchorStyle
+        \ thin\">\r\n        <span class=\"darkGrey-liitem\">Morningstar Indexes</span>\r\n
+        \   </a>\r\n</h2>  \r\n             <h2 class=\"darkGrey topnav-item\">\r\n
+        \   <a href=\"https://www.morningstar.com/products/enterprise-components\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Morningstar
+        Enterprise Components</span>\r\n    </a>\r\n</h2> \r\n  <!--           <h2
+        class=\"darkGrey topnav-item\">\r\n    <a href=\"http://www.morningstar.com/company/direct\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Morningstar
+        Direct</span>\r\n    </a>\r\n</h2>\r\n            <h2 class=\"darkGrey topnav-item\">\r\n
+        \   <a href=\"https://www.morningstar.com/products/cloud\" target=\"\" class=\"no-anchorStyle
+        \ thin\">\r\n        <span class=\"darkGrey-liitem\">Morningstar Cloud</span>\r\n
+        \   </a>\r\n</h2>\r\n            <h2 class=\"darkGrey topnav-item\">\r\n    <a
+        href=\"http://corporate.morningstar.com/US/asp/subject.aspx?xmlfile=11.xml\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Indexes</span>\r\n
+        \   </a>\r\n</h2>\r\n            <h2 class=\"darkGrey topnav-item\">\r\n    <a
+        href=\"https://ratingagency.morningstar.com/mcr\" target=\"\" class=\"no-anchorStyle
+        \ thin\">\r\n        <span class=\"darkGrey-liitem\">Credit Ratings</span>\r\n
+        \   </a>\r\n</h2>\r\n\r\n            <h2 class=\"darkGrey topnav-item\">\r\n
+        \   <a href=\"https://www.morningstar.com/products/advisor-workstation\" target=\"\"
+        class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Advisor
+        Workstation</span>\r\n    </a>\r\n</h2>\r\n<h2 class=\"darkGrey topnav-item\">\r\n
+        \   <a href=\"https://www.morningstar.com/en-us/products/morningstar-managed-portfolios\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Morningstar
+        Managed Portfolios</span>\r\n    </a>\r\n</h2> -->\r\n\r\n            <div
+        style=\"height: 25px; clear:both;\" class=\"\">&nbsp;</div>\r\n            <div
+        class=\"   highLightChildPadding\">\r\n                <p style=\"font-family:
+        tahoma, arial, helvetica, sans-serif; font-size: 12px;\"><a adhocenable=\"false\"
+        href=\"http://www.morningstar.com/products\">View All Products and Services
+        \u203A</a></p>\r\n            </div>\r\n            <div style=\"height: 40px;
+        clear:both;\" class=\"\">&nbsp;</div>\r\n        </div>\r\n    </div>\r\n
+        \   <div class=\"dp-section\">\r\n        <div class=\"accordion-topnav\">\r\n
+        \           <span class=\"desktopHidden accordion-arrow accordion-close\"></span>\r\n
+        \           <label class=\"text-black light\">Our Thinking</label>\r\n        </div>\r\n
+        \       <div class=\"content\">\r\n            <div style=\"height: 15px;
+        clear:both;\" class=\"\">&nbsp;</div>\r\n            <!--<h2 class=\"darkGrey
+        topnav-item\">\r\n    <a href=\"/newsroom/news-archive/press-release-details/2018/Mercer-and-Morningstar-Form-Alliance-to-Deliver-Innovative-Investment-Research-Platform/default.aspx\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Morningstar
+        &amp; Mercer</span>\r\n    </a>\r\n</h2>-->\r\n\r\n\r\n            <h2 class=\"darkGrey
+        topnav-item\">\r\n    <a href=\"https://www.morningstar.com/company/esg-investing\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">ESG
+        Investing</span>\r\n    </a>\r\n</h2>\r\n            <h2 class=\"darkGrey
+        topnav-item\">\r\n    <a href=\"https://www.morningstar.com/company/best-interest\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Best-Interest
+        Advice</span>\r\n    </a>\r\n</h2>\r\n\r\n<h2 class=\"darkGrey topnav-item\">\r\n
+        \   <a href=\"https://www.morningstar.com/research/trending\" target=\"\"
+        class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Trending
+        Research</span>\r\n    </a>\r\n</h2>\r\n            <h2 class=\"darkGrey topnav-item\">\r\n
+        \   <a href=\"https://www.morningstar.com/research/signature\" target=\"\"
+        class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Signature
+        Methodologies</span>\r\n    </a>\r\n</h2>\r\n\r\n            <h2 class=\"darkGrey
+        topnav-item\">\r\n    <a href=\" https://www.morningstar.com/financial-advisors\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Advisor
+        Insights</span>\r\n    </a>\r\n</h2>\r\n            <h2 class=\"darkGrey topnav-item\">\r\n
+        \   <a href=\"https://www.morningstar.com/lp/magazine\" target=\"\" class=\"no-anchorStyle
+        \ thin\">\r\n        <span class=\"darkGrey-liitem\">Morningstar Magazine</span>\r\n
+        \   </a>\r\n</h2>\r\n            <h2 class=\"darkGrey topnav-item\">\r\n    <a
+        href=\"https://www.morningstar.com/content/marketing/global/company/mic.html\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">Morningstar
+        Investment Conference</span>\r\n    </a>\r\n</h2>\r\n<h2 class=\"darkGrey
+        topnav-item\">\r\n    <a href=\"http://www.morningstar.com/company/investor-success\"
+        target=\"\" class=\"no-anchorStyle  thin\">\r\n        <span class=\"darkGrey-liitem\">The
+        Investor Success Project</span>\r\n    </a>\r\n</h2>\r\n        </div>\r\n
+        \   </div>\r\n    <div style=\"clear: both;\"></div>\r\n</div>\n        </div>\n
+        \   </div>\n</div></span></span></div>\n\t\t\t<div class=\"PaneNavigation\"><span
+        class='NavigationPaneDiv9'><div id=\"_ctrl0_ctl30_divModuleContainer\" class=\"Breadcrumb\">\n
+        \   <div class=\"ModuleOuterContainer\">\n        \n        <div class=\"ModuleInnerContainer\">\n
+        \           <a href=\"http://shareholders.morningstar.com/Home/default.aspx\"
+        id=\"_ctrl0_ctl30_hrefHome\" class=\"BreadcrumbHomeLink\">Home</a><span class='BreadcrumbSeparator'>&raquo;</span><a
+        href=\"http://newsroom.morningstar.com/newsroom/overview/default.aspx\">NewsRoom</a><span
+        class='BreadcrumbSeparator'>&raquo;</span><a href=\"http://newsroom.morningstar.com/newsroom/news-archive/default.aspx\">News
+        Archive</a><span class='BreadcrumbSeparator'>&raquo;</span>Press Release Details\n
+        \       </div>\n    </div>\n</div></span></div>\n\t\t\t<div class=\"PaneHeader2\"><div
+        class=\"wrap clearfix\"><span class='HeaderPane2Div6'><div id=\"_ctrl0_ctl21_divModuleContainer\"
+        class=\"ModuleContent MenuTitle\">\n    <div class=\"ModuleOuterContainer\">\n
+        \       \n        <div class=\"ModuleInnerContainer\">\n            <h3 class=\"inv\"><a
+        href=\"/investor-relations/default.aspx\">Investor Relations</a></h3>\r\n<!--<h3
+        class=\"inv\">Investor Relations</h3>-->\r\n<h3 class=\"suppliers\"><a href=\"/suppliers/default.aspx\">Morningstar
+        Supplier Portal</a></h3>\r\n\r\n<h3 class=\"newsroom\"><a href=\"/newsroom/overview/default.aspx\">Newsroom</a></h3>\r\n<span
+        class=\"ic-moveDown-sm\"></span>\r\n<!--<span class=\"q4i-search\"></span>-->\n
+        \       </div>\n    </div>\n</div></span><span class='HeaderPane2Div7'>\n<div
+        role=\"navigation\" aria-label=\"Primary\">\n    <i class=\"q4i-block-exit
+        menu-close\"></i>\n    <nav class=\"MainNavMobile list\"><ul class=\"level1\">\r\n\t<li
+        class=\"has-children\"><a href=\"http://shareholders.morningstar.com/investor-relations/default.aspx\">Investor
+        Relations</a><ul class=\"level2\">\r\n\t\t<li class=\"has-children\"><a href=\"http://shareholders.morningstar.com/investor-relations/strategy/our-strategy/default.aspx\">Strategy</a><ul
+        class=\"level3\">\r\n\t\t\t<li><a href=\"http://shareholders.morningstar.com/investor-relations/strategy/our-strategy/default.aspx\">Our
+        Strategy</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/strategy/owners-guide/default.aspx\">Owner\u2019s
+        Guide</a></li>\r\n\t\t</ul></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/investor-qa/default.aspx\">Investor
+        Q&amp;A</a></li><li class=\"has-children\"><a href=\"http://shareholders.morningstar.com/investor-relations/financials/financial-summary/default.aspx\">Financials</a><ul
+        class=\"level3\">\r\n\t\t\t<li><a href=\"http://shareholders.morningstar.com/investor-relations/financials/financial-summary/default.aspx\">Financial
+        Summary</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/financials/sec-filings/default.aspx\">SEC
+        Filings</a></li><li><a href=\"https://apps.indigotools.com/IR/IAC/?Ticker=MORN&amp;Exchange=NASDAQGS\"
+        target=\"_blank\">Interactive Financials</a></li>\r\n\t\t</ul></li><li><a
+        href=\"http://shareholders.morningstar.com/investor-relations/stock-info/stock-information/default.aspx\">Stock
+        Info</a></li><li class=\"has-children\"><a href=\"http://shareholders.morningstar.com/investor-relations/governance/board-of-directors/default.aspx\">Governance</a><ul
+        class=\"level3\">\r\n\t\t\t<li><a href=\"http://shareholders.morningstar.com/investor-relations/governance/board-of-directors/default.aspx\">Board
+        of Directors</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/governance/committees/default.aspx\">Committees</a></li><li><a
+        href=\"http://shareholders.morningstar.com/investor-relations/governance/leadership/default.aspx\">Leadership</a></li><li><a
+        href=\"http://shareholders.morningstar.com/investor-relations/governance/code-of-ethics/default.aspx\">Code
+        of Ethics</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/governance/ethics-hotline/default.aspx\">Ethics
+        Hotline</a></li><li><a href=\"//s21.q4cdn.com/198919461/files/doc_downloads/governance_documents/2017/2015-05-12-Stock-Ownership-Requirements.pdf\">Stock
+        Ownership Requirements</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/governance/Compliance--Disclosure/default.aspx\">Compliance
+        &amp; Disclosures</a></li><li class=\"has-children\"><a href=\"http://shareholders.morningstar.com/investor-relations/governance/finra-reviewed-reports/morningstar-advisor-workstation/default.aspx\">FINRA-Reviewed
+        Reports</a><ul class=\"level4\">\r\n\t\t\t\t<li><a href=\"http://shareholders.morningstar.com/investor-relations/governance/finra-reviewed-reports/morningstar-advisor-workstation/default.aspx\">Morningstar&#174;
+        Advisor Workstation </a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/governance/finra-reviewed-reports/morningstar-enterprise-components/default.aspx\">Morningstar&#174;
+        Enterprise Components</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/governance/finra-reviewed-reports/morningstar-annuity-intelligence/default.aspx\">Morningstar&#174;
+        Annuity Intelligence</a></li>\r\n\t\t\t</ul></li>\r\n\t\t</ul></li><li><a
+        href=\"http://shareholders.morningstar.com/investor-relations/events-and-presentations/default.aspx\">Events
+        &amp; Presentations</a></li><li class=\"has-children\"><a href=\"http://shareholders.morningstar.com/investor-relations/resources/request-an-annual-report/default.aspx\">Resources</a><ul
+        class=\"level3\">\r\n\t\t\t<li><a href=\"http://shareholders.morningstar.com/investor-relations/resources/request-an-annual-report/default.aspx\">Request
+        an Annual Report</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/resources/faqs/default.aspx\">FAQs</a></li><li><a
+        href=\"http://shareholders.morningstar.com/investor-relations/resources/email-alerts/default.aspx\">Email
+        Alerts</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/resources/annual-reports/default.aspx\">Annual
+        Reports</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/resources/rss/default.aspx\">RSS</a></li><li><a
+        href=\"http://shareholders.morningstar.com/investor-relations/resources/contacts/default.aspx\">Contacts</a></li>\r\n\t\t</ul></li>\r\n\t</ul></li><li><a
+        href=\"http://corporate1.morningstar.com/US/Careers/\">Careers</a></li><li
+        class=\"has-children expanded\"><a href=\"http://newsroom.morningstar.com/newsroom/overview/default.aspx\">NewsRoom</a><ul
+        class=\"level2\">\r\n\t\t<li class=\"selected\"><a href=\"http://newsroom.morningstar.com/newsroom/news-archive/default.aspx\">News
+        Archive</a></li><li class=\"has-children\"><a href=\"https://corporate1.morningstar.com/Researchlibrary/\">Media
+        Resources</a><ul class=\"level3\">\r\n\t\t\t<li><a href=\"http://corporate.morningstar.com/us/asp/subject.aspx?xmlfile=2870.xml\">Morningstar
+        Experts</a></li><li><a href=\"http://corporate1.morningstar.com/Morningstar-Awards/\">Morningstar
+        Awards</a></li>\r\n\t\t</ul></li><li class=\"has-children\"><a href=\"http://newsroom.morningstar.com/newsroom/contact-us/media-relations-contacts/default.aspx\">Contact
+        Us</a><ul class=\"level3\">\r\n\t\t\t<li><a href=\"http://newsroom.morningstar.com/newsroom/contact-us/media-relations-contacts/default.aspx\">Morningstar
+        Media Relations Contacts</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/resources/email-alerts/default.aspx\">Email
+        Alerts</a></li>\r\n\t\t</ul></li>\r\n\t</ul></li><li><a href=\"http://corporate.morningstar.com/US/asp/subject.aspx?xmlfile=135.xml\">Global
+        Contacts</a></li>\r\n</ul></nav>\n</div></span><span class='HeaderPane2Div8'>\n<div
+        role=\"navigation\" aria-label=\"Primary\">\n    <i class=\"q4i-block-exit
+        menu-close\"></i>\n    <nav class=\"MainNav list\"><ul class=\"level1\">\r\n\t<li
+        class=\"has-children\"><a href=\"http://shareholders.morningstar.com/investor-relations/default.aspx\">Investor
+        Relations</a><ul class=\"level2\">\r\n\t\t<li class=\"has-children\"><a href=\"http://shareholders.morningstar.com/investor-relations/strategy/our-strategy/default.aspx\">Strategy</a><ul
+        class=\"level3\">\r\n\t\t\t<li><a href=\"http://shareholders.morningstar.com/investor-relations/strategy/our-strategy/default.aspx\">Our
+        Strategy</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/strategy/owners-guide/default.aspx\">Owner\u2019s
+        Guide</a></li>\r\n\t\t</ul></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/investor-qa/default.aspx\">Investor
+        Q&amp;A</a></li><li class=\"has-children\"><a href=\"http://shareholders.morningstar.com/investor-relations/financials/financial-summary/default.aspx\">Financials</a><ul
+        class=\"level3\">\r\n\t\t\t<li><a href=\"http://shareholders.morningstar.com/investor-relations/financials/financial-summary/default.aspx\">Financial
+        Summary</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/financials/sec-filings/default.aspx\">SEC
+        Filings</a></li><li><a href=\"https://apps.indigotools.com/IR/IAC/?Ticker=MORN&amp;Exchange=NASDAQGS\"
+        target=\"_blank\">Interactive Financials</a></li>\r\n\t\t</ul></li><li><a
+        href=\"http://shareholders.morningstar.com/investor-relations/stock-info/stock-information/default.aspx\">Stock
+        Info</a></li><li class=\"has-children\"><a href=\"http://shareholders.morningstar.com/investor-relations/governance/board-of-directors/default.aspx\">Governance</a><ul
+        class=\"level3\">\r\n\t\t\t<li><a href=\"http://shareholders.morningstar.com/investor-relations/governance/board-of-directors/default.aspx\">Board
+        of Directors</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/governance/committees/default.aspx\">Committees</a></li><li><a
+        href=\"http://shareholders.morningstar.com/investor-relations/governance/leadership/default.aspx\">Leadership</a></li><li><a
+        href=\"http://shareholders.morningstar.com/investor-relations/governance/code-of-ethics/default.aspx\">Code
+        of Ethics</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/governance/ethics-hotline/default.aspx\">Ethics
+        Hotline</a></li><li><a href=\"//s21.q4cdn.com/198919461/files/doc_downloads/governance_documents/2017/2015-05-12-Stock-Ownership-Requirements.pdf\">Stock
+        Ownership Requirements</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/governance/Compliance--Disclosure/default.aspx\">Compliance
+        &amp; Disclosures</a></li><li class=\"has-children\"><a href=\"http://shareholders.morningstar.com/investor-relations/governance/finra-reviewed-reports/morningstar-advisor-workstation/default.aspx\">FINRA-Reviewed
+        Reports</a><ul class=\"level4\">\r\n\t\t\t\t<li><a href=\"http://shareholders.morningstar.com/investor-relations/governance/finra-reviewed-reports/morningstar-advisor-workstation/default.aspx\">Morningstar&#174;
+        Advisor Workstation </a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/governance/finra-reviewed-reports/morningstar-enterprise-components/default.aspx\">Morningstar&#174;
+        Enterprise Components</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/governance/finra-reviewed-reports/morningstar-annuity-intelligence/default.aspx\">Morningstar&#174;
+        Annuity Intelligence</a></li>\r\n\t\t\t</ul></li>\r\n\t\t</ul></li><li><a
+        href=\"http://shareholders.morningstar.com/investor-relations/events-and-presentations/default.aspx\">Events
+        &amp; Presentations</a></li><li class=\"has-children\"><a href=\"http://shareholders.morningstar.com/investor-relations/resources/request-an-annual-report/default.aspx\">Resources</a><ul
+        class=\"level3\">\r\n\t\t\t<li><a href=\"http://shareholders.morningstar.com/investor-relations/resources/request-an-annual-report/default.aspx\">Request
+        an Annual Report</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/resources/faqs/default.aspx\">FAQs</a></li><li><a
+        href=\"http://shareholders.morningstar.com/investor-relations/resources/email-alerts/default.aspx\">Email
+        Alerts</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/resources/annual-reports/default.aspx\">Annual
+        Reports</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/resources/rss/default.aspx\">RSS</a></li><li><a
+        href=\"http://shareholders.morningstar.com/investor-relations/resources/contacts/default.aspx\">Contacts</a></li>\r\n\t\t</ul></li>\r\n\t</ul></li><li><a
+        href=\"http://corporate1.morningstar.com/US/Careers/\">Careers</a></li><li
+        class=\"has-children expanded\"><a href=\"http://newsroom.morningstar.com/newsroom/overview/default.aspx\">NewsRoom</a><ul
+        class=\"level2\">\r\n\t\t<li class=\"selected\"><a href=\"http://newsroom.morningstar.com/newsroom/news-archive/default.aspx\">News
+        Archive</a></li><li class=\"has-children\"><a href=\"https://corporate1.morningstar.com/Researchlibrary/\">Media
+        Resources</a><ul class=\"level3\">\r\n\t\t\t<li><a href=\"http://corporate.morningstar.com/us/asp/subject.aspx?xmlfile=2870.xml\">Morningstar
+        Experts</a></li><li><a href=\"http://corporate1.morningstar.com/Morningstar-Awards/\">Morningstar
+        Awards</a></li>\r\n\t\t</ul></li><li class=\"has-children\"><a href=\"http://newsroom.morningstar.com/newsroom/contact-us/media-relations-contacts/default.aspx\">Contact
+        Us</a><ul class=\"level3\">\r\n\t\t\t<li><a href=\"http://newsroom.morningstar.com/newsroom/contact-us/media-relations-contacts/default.aspx\">Morningstar
+        Media Relations Contacts</a></li><li><a href=\"http://shareholders.morningstar.com/investor-relations/resources/email-alerts/default.aspx\">Email
+        Alerts</a></li>\r\n\t\t</ul></li>\r\n\t</ul></li><li><a href=\"http://corporate.morningstar.com/US/asp/subject.aspx?xmlfile=135.xml\">Global
+        Contacts</a></li>\r\n</ul></nav>\n</div></span></div></div>\n\t\t</div>\n\t\t<div
+        class=\"PaneContentInner\">\n\t\t\t<main id=\"maincontent\" tabindex=\"-1\">\n\t\t\t\t<div
+        class=\"PaneBreadcrumb\"></div>\n\t\t\t\t<div class=\"PaneLeft\"><span class='LeftPaneDiv'></span></div>\n
+        \                              <div class=\"container clearfix\">\n\t\t\t\t<div
+        class=\"PaneContent\"><span class='ContentPaneDiv'><span class='ContentPaneDiv1'><div
+        id=\"_ctrl0_ctl54_divModuleContainer\" class=\"ModuleContent SocialIconsNews
+        clearfix\">\r\n    <div class=\"ModuleOuterContainer\">\r\n        \r\n        <div
+        class=\"ModuleInnerContainer\">\r\n                                <div class=\"a2a_kit
+        a2a_kit_size_32 a2a_default_style\">\r\n                        <a class=\"a2a_button_twitter\"><i
+        class=\"q4i-twitter\"></i></a>\r\n                        <a class=\"a2a_button_linkedin\"><i
+        class=\"q4i-linkedin\"></i></a>\r\n                        <a class=\"a2a_button_facebook\"><i
+        class=\"q4i-facebook\"></i></a>\r\n                        <a class=\"a2a_button_google_plus\"><i
+        class=\"q4i-icon-googleplus\"></i></a>\r\n                        <a class=\"a2a_button_email\"><i
+        class=\"q4i-email\"></i></a>\r\n                    </div>\r\n<script async
+        src=\"https://static.addtoany.com/menu/page.js\"></script>\r\n        </div>\r\n
+        \   </div>\r\n</div></span><span class='ContentPaneDiv2'><div id=\"_ctrl0_ctl57_divModuleContainer\"
+        class=\"ModuleContainer ModuleDetailsContainer ModulePressReleaseDetails\"
+        data-tag=\"research,usa\">\n    <div class=\"ModuleOuterContainer\">\n        \n
+        \       <div class=\"ModuleInnerContainer\">\n            <div class=\"ModuleDateContainer\"><span
+        id=\"_ctrl0_ctl57_lblDate\" class=\"ModuleDate\">June 15, 2021</span></div>
+        \ \n            <h3 class=\"ModuleTitle ModuleDetailHeadline\"><span id=\"_ctrl0_ctl57_lblModuleDetailHeadline\"
+        class=\"ModuleTitleText ModuleDetailHeadlineText\">Morningstar Reports U.S.
+        Mutual Fund and Exchange-Traded Fund Flows for May 2021</span></h3>\n            <div
+        class=\"ModuleContainerInnerTop\"></div>\n            <div class=\"ModuleContentContainer\">
+        \     \n                <div class=\"ModuleLinks\">\n                    <a
+        id=\"_ctrl0_ctl57_hrefDownload\" class=\"ModuleFileLink ModuleDownloadLink
+        DocumentFileLink q4i-doc-pdf\" target=\"_blank\" style=\"DISPLAY:none;\">\n
+        \                       <span id=\"_ctrl0_ctl57_lblDownload\" class=\"ModuleDownloadText\">Download
+        this Press Release</span>\n                        <span class=\"sr-only\">PDF
+        Format (opens in new window)</span>\n                        <span class=\"ModuleFileSpacer\">
+        </span>\n                        <span class=\"ModuleFileText\" aria-hidden=\"true\">(<span
+        id=\"_ctrl0_ctl57_lblDocument\" class=\"ModuleFileSize\"></span>)</span>\n
+        \                   </a>\n                </div>\n                <div class=\"ModuleBody\"><div
+        class=\"xn-content\">\n  <p>CHICAGO, June 15, 2021 /PRNewswire/ --\_<a target=\"_blank\"
+        href=\"https://c212.net/c/link/?t=0&amp;l=en&amp;o=3197345-1&amp;h=223827344&amp;u=https%3A%2F%2Fc212.net%2Fc%2Flink%2F%3Ft%3D0%26l%3Den%26o%3D3136211-1%26h%3D3961608327%26u%3Dhttps%253A%252F%252Fc212.net%252Fc%252Flink%252F%253Ft%253D0%2526l%253Den%2526o%253D3100216-1%2526h%253D3984775824%2526u%253Dhttps%25253A%25252F%25252Fwww.morningstar.com%25252Fcompany%2526a%253DMorningstar%25252C%252BInc.%26a%3DMorningstar%252C%2BInc.&amp;a=Morningstar%2C+Inc.\"
+        rel=\"nofollow\">Morningstar, Inc.</a>\_(Nasdaq: MORN), a leading provider
+        of independent investment research, today reported estimated U.S.\_mutual
+        fund\_and\_exchange-traded fund\_(ETF) flows for May 2021. Long-term mutual
+        funds and ETFs collected $83 billion during May, materially less than their
+        $156 billion haul in March and $124 billion intake in April. Investors continued
+        to favor passively managed strategies, pouring $71 billion into index-tracking
+        funds.</p>\n  <p>Morningstar's report about U.S. fund flows for May 2021 is
+        available\_<a target=\"_blank\" href=\"https://c212.net/c/link/?t=0&amp;l=en&amp;o=3197345-1&amp;h=259181849&amp;u=https%3A%2F%2Fwww.morningstar.com%2Flp%2Ffund-flows-direct%3Futm_source%3Dcorp_comm%26utm_medium%3Dreferral&amp;a=here\"
+        rel=\"nofollow\">here</a>. Additional highlights from the report include:</p>\n
+        \ <ul type=\"disc\">\n    <li>Taxable-bond funds took in $38 billion, the
+        highest total among category groups but modest relative to inflows earlier
+        in the year. </li>\n    <li>After taking in a record $54 billion in March,
+        U.S. equity fund flows were quiet for the second consecutive month with just
+        $211 million of inflows in May. </li>\n    <li>Large-value funds picked up
+        about $13 billion, their second-highest monthly intake in Morningstar's database
+        which goes back to 1993. </li>\n    <li>International-equity funds gathered
+        $23 billion, extending their streak of inflows to seven months. </li>\n    <li>Sector
+        equity funds took in $6 billion, driven by inflows into passive funds that
+        track cyclical equities such as financials and natural resources. </li>\n
+        \   <li>Bank-loan funds collected $3.7 billion, their sixth consecutive month
+        of inflows after a long streak of outflows dating back to November 2018. Their
+        year-to-date organic growth rate of 33% was the highest within the taxable-bond
+        category group.</li>\n  </ul>\n  <p>The information contained herein: (1)
+        is proprietary to Morningstar and/or its content providers; (2) may not be
+        copied or distributed outside the scope of this press release; and (3) is
+        not warranted to be accurate, complete, or timely. Neither Morningstar nor
+        its content providers are responsible for any damages or losses arising from
+        any use of this information. Past performance is no guarantee of future results.</p>\n
+        \ <p>\n    <b>About Morningstar,\_Inc.</b>\n    <br>Morningstar, Inc. is a
+        leading provider of independent investment research in North America, Europe,
+        Australia, and Asia. The Company offers an extensive line of products and
+        services for individual investors, financial advisors, asset managers and
+        owners, retirement plan providers and sponsors, and institutional investors
+        in the debt and private capital markets. Morningstar provides data and research
+        insights on a wide range of investment offerings, including managed investment
+        products, publicly listed companies, private capital markets, debt securities,
+        and real-time global market data. Morningstar also offers investment management
+        services through its investment advisory subsidiaries, with approximately
+        $244 billion in assets under advisement and management as of March 31, 2021.
+        The Company has operations in 29 countries. For more information, visit <a
+        target=\"_blank\" href=\"https://c212.net/c/link/?t=0&amp;l=en&amp;o=3197345-1&amp;h=120798863&amp;u=http%3A%2F%2Fwww.morningstar.com%2Fcompany&amp;a=www.morningstar.com%2Fcompany\"
+        rel=\"nofollow\">www.morningstar.com/company</a>. Follow Morningstar on Twitter
+        @MorningstarInc.\_</p>\n  <p>\n    <i>Morningstar's Manager Research Group
+        consists of various wholly owned subsidiaries of Morningstar, Inc. including,
+        but not limited to, Morningstar Research Services LLC. This press release
+        is for informational purposes only; references to securities or a separately
+        managed account investment strategy in this press release should not be considered
+        an offer or solicitation to buy or sell the securities or to invest in accordance
+        with that strategy.</i>\_</p>\n  <p>\xA92021 Morningstar, Inc. All Rights
+        Reserved.</p>\n  <p>MORN-R </p>\n  <p>\n    <b>Media Contact</b>:<br>Erin
+        Parro, <a target=\"_blank\" href=\"mailto:newsroom@morningstar.com\" rel=\"nofollow\">newsroom@morningstar.com</a></p>\n
+        \ <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder7270\">\n
+        \   <p>\n      <a href=\"https://mma.prnewswire.com/media/462798/morningstar_logo.html\"
+        target=\"_blank\" rel=\"nofollow\">\n        <img src=\"https://mma.prnewswire.com/media/462798/morningstar_logo.jpg\"
+        title=\"Morningstar logo (PRNewsFoto/Morningstar Research Inc.) (PRNewsfoto/Morningstar,
+        Inc.)\" alt=\"Morningstar logo (PRNewsFoto/Morningstar Research Inc.) (PRNewsfoto/Morningstar,
+        Inc.)\">\n      </a>\n    </p>\n  </div>\n  <p>\_</p>\n  <div class=\"PRN_ImbeddedAssetReference\"
+        id=\"DivAssetPlaceHolder0\"></div>\n  <p id=\"PURL\">\n    <img title=\"Cision\"
+        width=\"12\" height=\"12\" alt=\"Cision\" src=\"https://c212.net/c/img/favicon.png?sn=CG12062&amp;sd=2021-06-15\">
+        View original content to download multimedia:<a id=\"PRNURL\" rel=\"nofollow\"
+        href=\"http://www.prnewswire.com/news-releases/morningstar-reports-us-mutual-fund-and-exchange-traded-fund-flows-for-may-2021-301313006.html\">http://www.prnewswire.com/news-releases/morningstar-reports-us-mutual-fund-and-exchange-traded-fund-flows-for-may-2021-301313006.html</a></p>\n
+        \ <p>SOURCE  Morningstar, Inc.</p>\n</div></div>\n                       \n
+        \               \n            </div>\n            <div class=\"ModuleContainerInnerBottom\"></div>\n
+        \       </div>\n    </div>\n</div>\n</span></span></div>\n\t\t\t\t<div class=\"PaneRight\"><span
+        class='RightPaneDiv'><span class='RightPaneDiv3'><div id=\"_ctrl0_ctl60_divModuleContainer\"
+        class=\"ModuleContent ContactInfoNews module_contact-info\">\r\n    <div class=\"ModuleOuterContainer\">\r\n
+        \       <h2 id=\"_ctrl0_ctl60_lblTitle\">\r\n            <span id=\"_ctrl0_ctl60_lblModuleTitle\"
+        class=\"ModuleTitle\">Media Relations Contact</span></h2>\r\n        <div
+        class=\"ModuleInnerContainer\">\r\n            <div class=\"kits-category\">\r\n
+        \ <div class=\"contact\">\r\n      <table class=\"CustomTable\">\r\n          <tbody>\r\n
+        \             <tr>\r\n                  <td>Media Hotline</td>\r\n                  <td>+1
+        312 696-6037</td>\r\n              </tr>\r\n              <tr>\r\n                  <td></td>\r\n
+        \                 <td><a href=\"mailto:newsroom@morningstar.com\">newsroom@morningstar.com
+        </a></td>\r\n              </tr>\r\n          </tbody>\r\n      </table>\r\n
+        \ </div>\r\n</div>\r\n        </div>\r\n    </div>\r\n</div>\r\n</span><span
+        class='RightPaneDiv5'><div id=\"_ctrl0_ctl66_divModuleContainer\" class=\"ModuleContent
+        ContactInfoNews news-documents\">\r\n    <div class=\"ModuleOuterContainer\">\r\n
+        \       <h2 id=\"_ctrl0_ctl66_lblTitle\"><span id=\"_ctrl0_ctl66_lblModuleTitle\"
+        class=\"ModuleTitle\">Resources</span></h2>\r\n        <div class=\"ModuleInnerContainer\">\r\n
+        \           \r\n<div style=\"display:none;\" class=\"documents-0\">\r\n    <p><a
+        href=\"//s21.q4cdn.com/198919461/files/doc_news/2018/OS_Low_Carbon.pdf\" target=\"_blank\">One
+        Sheet </a>\r\n    <br><a href=\"//s21.q4cdn.com/198919461/files/doc_news/2018/Carbon-FAQ-Final-4_19_2018.pdf\"
+        target=\"_blank\">Frequently Asked Questions </a>\r\n    <br><a href=\"//s21.q4cdn.com/198919461/files/doc_news/2018/Morningstar-Low-Carbon-Designation-Methodology-Final.pdf\"
+        target=\"_blank\">Methodology </a>\r\n    <br><a href=\"http://www.morningstar.com/lp/measuring-transition-risk?cid=CON_ESG0012\"
+        target=\"_blank\">Measuring Transition Risk in Fund Portfolios White Paper</a></p>\r\n</div>\r\n
+        \   \r\n<div style=\"display:none;\" class=\"documents-1\">\r\n    <p><a href=\"//s21.q4cdn.com/198919461/files/doc_news/2018/10/Mexico-Pension-ratings-2018_FINAL_revised_100118_ES.pdf\"
+        target=\"_blank\">Spanish version (PDF) </a></p>\r\n</div>\r\n\r\n<div style=\"display:none;\"
+        class=\"documents-3\">\r\n        <p><a href=\"//s21.q4cdn.com/198919461/files/doc_news/2019/10/Mexico-Pension-ratings-2019_V4-SPANISH-FINAL-10-10-2019.pdf\"
+        target=\"_blank\">Spanish version (PDF) </a></p>\r\n</div>\r\n\r\n<div style=\"display:none;\"
+        class=\"documents-4\">\r\n    <!--    <p><a href=\"//s21.q4cdn.com/198919461/files/doc_news/2020/11/17/ESG-announcement_FINAL_111720.pdf\"
+        target=\"_blank\">Press Release (PDF) </a></p> -->\r\n        <p><a href=\"https://www.morningstar.com/content/dam/marketing/shared/pdfs/Research/MasterEquityResearchMethodology_Oct2020.pdf?cid=RED_RES0002\"
+        target=\"_blank\">Morningstar Equity Research Methodology </a></p>\r\n        <p><a
+        href=\"https://www.morningstar.com/content/dam/marketing/shared/pdfs/Research/Integrating_ESG_Into_Morningstar_Equity_Research_Oct_2020.pdf?cid=RED_RES0002\"
+        target=\"_blank\">Integrating ESG Into Morningstar's Equity Research </a></p>\r\n
+        \       <p><a href=\"https://www.morningstar.com/content/dam/marketing/shared/pdfs/Research/FAQ_IntegratingESGIntoMorningstarEquityResearch_Oct2020.pdf?cid=RED_RES0002\"
+        target=\"_blank\">Integrating ESG Into Morningstar Equity Research: FAQs </a></p>\r\n
+        \       <p><a href=\"https://www.morningstar.com/content/dam/marketing/shared/pdfs/Research/The_Morningstar_Capital_Allocation_Rating_Oct_2020.pdf?cid=RED_RES0002\"
+        target=\"_blank\">The Morningstar Capital Allocation Rating </a></p>\r\n        <p><a
+        href=\"https://www.morningstar.com/content/dam/marketing/shared/pdfs/Research/FAQ_TheMorningstarCapitalAllocationRating_Oct2020.pdf?cid=RED_RES0002\"
+        target=\"_blank\">Introducing the Morningstar Capital Allocation Rating: FAQs
+        </a></p>\r\n        <p><a href=\"https://www.morningstar.com/content/dam/marketing/shared/research/methodology/esg-commitment-level.pdf?cid=RED_RES0002\"
+        target=\"_blank\">ESG Commitment Level - Methodology </a></p>\r\n        <p><a
+        href=\"https://www.morningstar.com/content/dam/marketing/shared/pdfs/Research/ESG_Commitment_Level_White_Paper_2020.pdf\"
+        target=\"_blank\">The Morningstar ESG Commitment Level: Our first assessment
+        of 100-plus strategies and 40 asset managers </a></p>\r\n</div>\r\n    \r\n
+        \   <!-- <div style=\"display:none;\" class=\"documents-2\">\r\n    <p><a
+        href=\"//s21.q4cdn.com/198919461/files/doc_news/2019/05/#\" target=\"_blank\">French
+        </a></p>\r\n    <p><a href=\"//s21.q4cdn.com/198919461/files/doc_news/2019/05/#\"
+        target=\"_blank\">French (Canadian) </a></p>\r\n    <p><a href=\"//s21.q4cdn.com/198919461/files/doc_news/2019/05/#\"
+        target=\"_blank\">Italian </a></p>\r\n    </div> -->\r\n    \r\n    <script>\r\n
+        \       // move documents from body to right pane\r\n    $('.ModuleBody .module_documents').insertAfter($('.PaneRight
+        .module_contact-info').parent());\r\n    $(function(){\r\n       if ($('.ModulePressReleaseDetails
+        .ModuleTitleText').text().indexOf(\"Morningstar Launches Portfolio Carbon
+        Risk Score to Help Investors Evaluate Funds' Carbon-Risk Exposure\") > -1)
+        {\r\n        $('.documents-0').show();\r\n       } else if ($('.ModulePressReleaseDetails
+        .ModuleTitleText').text().indexOf(\"Morningstar Updates Analyst Ratings to
+        40 Investment Portfolios from Mexico\u2019s Compulsory Pension System; Upgrades
+        Siefores from Two Afores; Downgrades Siefores from Two Afores\") > -1) {\r\n
+        \       $('.documents-1').show();\r\n       } else if ($('.ModulePressReleaseDetails
+        .ModuleTitleText').text().indexOf(\"Morningstar Updates Analyst Ratings to
+        40 Investment Portfolios from Mexico\u2019s Compulsory Pension System; Upgrades
+        Siefores from One Afore; Downgrades Siefores from One Afore\") > -1) {\r\n
+        \       $('.documents-3').show();\r\n       } else if ($('.ModulePressReleaseDetails
+        .ModuleTitleText').text().indexOf(\"Morningstar Formally Integrates ESG into
+        Its Analysis of Stocks, Funds, and Asset Managers\") > -1) {\r\n        $('.documents-4').show();
+        \r\n       }\r\n        else {\r\n        $('.news-documents').hide();\r\n
+        \      }\r\n    });    \r\n        \r\n       // } else if ($('.ModulePressReleaseDetails
+        .ModuleTitleText').text().indexOf(\"Morningstar Launches New Global Suite
+        of Bond Indexes\") > -1) {\r\n       //  $('.documents-2').show();\r\n      \r\n
+        \   \r\n    // Moves div with class of module_news-resources to the right
+        pane from the body of the release\r\n        if ($('.ModulePressReleaseDetails
+        .module_news-resources').length) {\r\n            $('.ModulePressReleaseDetails
+        .module_news-resources').insertAfter('.PaneRight .module_contact-info');\r\n
+        \       }\r\n    </script>\r\n    \r\n    <style>\r\n        .news-documents
+        {\r\n            margin-top: 10px;\r\n        }\r\n    </style>\r\n        </div>\r\n
+        \   </div>\r\n</div></span></span></div>\n                               </div>\n\t\t\t</main>\n\t\t</div>\n\t\t<div
+        class=\"FooterContainer\">\n\t\t\t<div class=\"PaneFooter\" role=\"contentinfo\"><span
+        class='FooterPaneDiv'><span class='FooterPaneDiv10'><div id=\"_ctrl0_ctl33_RightBlock\"
+        class=\"RightColumnBlock\"></div>\n<div id=\"_ctrl0_ctl33_divModuleContainer\"
+        class=\"QuickLinks QuickLinksBlue list Inv quick-links-nav\">\n    <div class=\"ModuleOuterContainer\">\n
+        \       <h2 id=\"_ctrl0_ctl33_lblTitle\"><span id=\"_ctrl0_ctl33_lblModuleTitle\"
+        class=\"ModuleTitle\">Quick Links</span></h2>\n        <div class=\"ModuleInnerContainer\">\n
+        \           <ul id=\"_ctrl0_ctl33_qlList\">\n                \n                        \n
+        \                       <li class=\"QuickLinkRow\"><a target=\"_self\" href=\"http://shareholders.morningstar.com/investor-relations/investor-qa/ask-a-question/default.aspx\">Ask
+        a Question</a>\n                        \n                    \n                        \n
+        \                       <li class=\"QuickLinkRowAlt\"><a target=\"_blank\"
+        href=\"https://apps.indigotools.com/IR/IAC/?Ticker=MORN&Exchange=NASDAQGS\">Interactive
+        Financials</a>\n                        \n                    \n                        \n
+        \                       <li class=\"QuickLinkRow\"><a target=\"_self\" href=\"http://shareholders.morningstar.com/investor-relations/governance/ethics-hotline/default.aspx\">Ethics
+        Hotline</a>\n                        \n                    \n                        \n
+        \                       <li class=\"QuickLinkRowAlt\"><a target=\"_self\"
+        href=\"http://shareholders.morningstar.com/investor-relations/resources/email-alerts/default.aspx\">Email
+        Alerts</a>\n                        \n                    \n                        \n
+        \                       <li class=\"QuickLinkRow\"><a target=\"_self\" href=\"http://shareholders.morningstar.com/investor-relations/resources/contacts/default.aspx\">Contacts</a>\n
+        \                       \n                    \n            </ul>\n        </div>\n
+        \   </div>\n</div></span><span class='FooterPaneDiv14'><div id=\"_ctrl0_ctl45_divModuleContainer\"
+        class=\"ModuleContent\">\n    <div class=\"ModuleOuterContainer\">\n        \n
+        \       <div class=\"ModuleInnerContainer\">\n            <script type=\"text/javascript\">\r\nvar
+        q4App = $.extend(true, q4Defaults, {\r\n    options: {\r\n        offsetTopElem:
+        [$('.PaneHeader2')],\r\n        offsetTopBreakPoint: [{\r\n            breakPoint:
+        979,\r\n            offsetTopElem: [$('.MenuTitle')]\r\n        }],\r\n        getTopOffset:
+        function(_offsetElem, _offsetBreakPoint) {\r\n            var inst = this,\r\n
+        \               offsetElem = typeof _offsetElem !== \"undefined\" ? _offsetElem
+        : inst.offsetTopElem,\r\n                offsetBreakPoint = typeof _offsetBreakPoint
+        !== \"undefined\" ? _offsetBreakPoint : inst.offsetTopBreakPoint,\r\n                topOffsetScroll
+        = 0,\r\n                isjQueryObj = function(obj) {\r\n                    return
+        (obj && (obj instanceof jQuery || obj.constructor.prototype.jquery)) ? obj
+        : $(obj);\r\n                }\r\n                // calculate top offset
+        from offsetTopElem:     \r\n                // - if offsetTopBreakPoint is
+        set and window width is greater the first break point \r\n                //
+        - or if offsetTopBreakPoint is not set;\r\n            if ((offsetBreakPoint.length
+        && $(window).width() > offsetBreakPoint[0].breakPoint) || !offsetBreakPoint.length)
+        {\r\n                if (offsetElem.length) {\r\n                    $.each(offsetElem,
+        function(i, thisOffsetelem) {\r\n                        var $thisOffsetelem
+        = isjQueryObj(thisOffsetelem);\r\n                        topOffsetScroll
+        += $thisOffsetelem.length ? $thisOffsetelem.outerHeight() : 0;\r\n                    });\r\n
+        \               }\r\n            }\r\n            // calculate top offset
+        from offsetTopBreakPoint.offsetTopElem:     \r\n            // - if offsetTopBreakPoint
+        is set and window width is smaller or equal with the first break point \r\n
+        \           else {\r\n                $.each(offsetBreakPoint, function(i,
+        thisBreakPoint) {\r\n                    var index = offsetBreakPoint.length
+        - 1,\r\n                        next = i + 1;\r\n\r\n                    //
+        if there are more that 1 breakPoint in offsetTopBreakPoint\r\n                    //
+        for the current breakPoint verify if the window width is smaller or equal
+        than the next breakpoint \r\n                    // and calculate top offset
+        only if this is not true\r\n                    // to prevent calculation
+        that will be overwritten.\r\n                    if (!(index > 0 && index
+        > i && $(window).width() <= offsetBreakPoint[next].breakPoint)) {\r\n                        if
+        ($(window).width() <= thisBreakPoint.breakPoint && thisBreakPoint.offsetTopElem.length)
+        {\r\n                            $.each(thisBreakPoint.offsetTopElem, function(j,
+        thisOffsetelem) {\r\n                                var $thisOffsetelem =
+        isjQueryObj(thisOffsetelem);\r\n                                topOffsetScroll
+        += $thisOffsetelem.length ? $thisOffsetelem.outerHeight() : 0;\r\n                            });\r\n
+        \                       }\r\n                    }\r\n                });\r\n
+        \           }\r\n            return topOffsetScroll;\r\n        }\r\n    },\r\n
+        \   setHeaderOffset: function() {\r\n        var app = this;\r\n        o
+        = this.options;\r\n        $(window).on('resize.headerOffset', function()
+        {\r\n            app.options.headerOffset = app.options.getTopOffset();\r\n
+        \       }).trigger('resize.headerOffset');\r\n    },\r\n    init: function()
+        {\r\n        var app = this;\r\n\r\n        app.cleanUp();\r\n\r\n        app.setHeaderOffset();\r\n\r\n
+        \       app.unWrapLink('a.StockPrice');\r\n        app.submitOnEnter('.ModuleSearch');\r\n
+        \       app.submitOnEnter('.MailingListUnsubscribeContainer');\r\n        app.submitOnEnter('.FormBuilderContainer');\r\n
+        \       app.validateSubmit('.ModuleSearch');\r\n\r\n        app.accessibleNav('.navbar-collapse',
+        'level1');\r\n        app.onMenuToggle();\r\n        app.onMenuExit($('.PaneNavigation
+        .menu-close'));\r\n\r\n        app.stickyNav();\r\n        app.MenuToggle();\r\n
+        \       app.MenuToggleMobile();\r\n        app.MenuIrToggleMobile();\r\n        app.MenuLevel();\r\n
+        \       app.SearchToggle('.IconSearch');\r\n        app.SearchToggle('.MenuTitle');\r\n
+        \       app.mobileTapSupport('.MainNav');\r\n        app.closeMenuMobile('.MenuTitle');\r\n\r\n
+        \       $('.PreviewToolBar').previewToolbar();\r\n        $('.MailingListSignupContainer').captcha({});\r\n
+        \       app.nav_scrollToSection({\r\n            menu: '.MainNav',\r\n            level:
+        '.level2',\r\n            sectionClass: '.section--',\r\n            hrefId:
+        '#section=',\r\n            scrollOnLoad: true,\r\n            updateHrefHash:
+        true,\r\n            addActiveClass: true,\r\n            offsetTopElem: app.options.offsetTopElem,\r\n
+        \       });\r\n        app.nav_scrollToSection({\r\n            menu: '.MainNavMobile',\r\n
+        \           level: '.level2',\r\n            sectionClass: '.section--',\r\n
+        \           hrefId: '#section=',\r\n            scrollOnLoad: true,\r\n            updateHrefHash:
+        true,\r\n            addActiveClass: true,\r\n            closeMobileNav:
+        true,\r\n            onCloseMobileNav: function() {\r\n                $('.ic-moveDown-sm').trigger('click');\r\n
+        \           },\r\n            offsetTopElem: app.options.offsetTopElem,\r\n
+        \       });\r\n        app.searchClear();\r\n    },\r\n    stickyNav: function()
+        {\r\n        var $top = $('.PaneHeader2').offset().top + 0;\r\n        $(document).on('scroll',
+        function() {\r\n            if ($(window).scrollTop() > $top) {\r\n                $('.PaneHeader2').addClass('stickyNav');\r\n
+        \           } else {\r\n                $('.PaneHeader2').removeClass('stickyNav');\r\n
+        \           }\r\n        });\r\n    },\r\n    searchClear: function() {\r\n
+        \       $('.SearchFooter .SearchInput').on('keyup', function() {\r\n            if
+        ($('.SearchFooter .SearchInput').val().length > 0) {\r\n                $('.SearchFooter').addClass('js--has-value');\r\n
+        \           } else {\r\n                $('.SearchFooter').removeClass('js--has-value');\r\n
+        \           }\r\n        });\r\n        $('.SearchText').on('click', function()
+        {\r\n            $('.SearchFooter .SearchInput').val('');\r\n            $('.SearchFooter').removeClass('js--has-value');\r\n
+        \       });\r\n       \r\n    },\r\n    MenuToggle: function() {\r\n        $('.menu-left').click(function()
+        {\r\n            $('.CorpnNav').slideToggle(\"fast\");\r\n            $(\".menubutton\").toggleClass(\"menuclose\");\r\n
+        \           $(\".closebutton\").toggleClass(\"closemenu\");\r\n            $(\".PaneHeader2\").toggleClass(\"menu-left-open\");\r\n
+        \       });\r\n    },\r\n\r\n    MenuToggleMobile: function() {\r\n        $('.accordion-topnav').click(function()
+        {\r\n            $(\".dp-section .show\").not(this.nextElementSibling).removeClass(\"show\");\r\n
+        \           $(\".accordion-topnav .accordion-arrow\").not(this.children[0]).removeClass(\"accordion-open\");\r\n
+        \           this.children[0].classList.toggle(\"accordion-open\");\r\n            this.nextElementSibling.classList.toggle(\"show\");\r\n
+        \       });\r\n    },\r\n\r\n    MenuIrToggleMobile: function() {\r\n        $('.MenuTitle').on('click',
+        'h3', function(e) {\r\n            if ($(window).width() <= 979) {\r\n                var
+        $this = $(this),\r\n                    $parent = $this.parents('.MenuTitle');\r\n
+        \               if (!$parent.hasClass('open')) {\r\n                    e.preventDefault();\r\n
+        \                   $('.MainNavMobile').slideToggle();\r\n                    $('.MenuTitle').toggleClass('open');\r\n
+        \                   $('.q4i-search').removeClass('open');\r\n                    $('.SearchToggle').hide();\r\n
+        \               }\r\n            }\r\n        });\r\n    },\r\n\r\n    closeMenuMobile:
+        function(selector) {\r\n        $(selector).on('click', '.ic-moveDown-sm',
+        function() {\r\n            $('.MainNavMobile').slideToggle();\r\n            $('.MenuTitle').toggleClass('open');\r\n
+        \           $('.q4i-search').removeClass('open');\r\n            $('.SearchToggle').hide();\r\n
+        \       });\r\n    },\r\n\r\n    MenuLevel: function() {\r\n        $('.MainNavMobile
+        .level2 li.has-children, .MainNav .level2 li.has-children').on('click', '>a',
+        function(e) {\r\n            var $this = $(this),\r\n                $parent
+        = $this.parent();\r\n            if (!$parent.hasClass('open')) {\r\n                e.preventDefault();\r\n
+        \               $parent.addClass('open').find('>ul').slideDown();\r\n                $parent.siblings().removeClass('open').find('>ul').slideUp();\r\n
+        \               $parent.siblings().find('.open').removeClass('open').find('ul').hide();\r\n
+        \           }\r\n        });\r\n    },\r\n\r\n    SearchToggle: function(selector)
+        {\r\n        $(selector).on('click', '.q4i-search', function() {\r\n            var
+        $this = $(this);\r\n            $('.SearchToggle').slideToggle();\r\n            $this.toggleClass('open');\r\n
+        \           $('.MenuTitle').removeClass('open');\r\n            $('.MainNavMobile').hide();\r\n
+        \       });\r\n    },\r\n\r\n    mobileTapSupport: function(selector) {\r\n
+        \       var ua = navigator.userAgent.toLowerCase();\r\n        var isAndroid
+        = ua.indexOf(\"android\") > -1; //&& ua.indexOf(\"mobile\");\r\n        if
+        (isAndroid) {\r\n            $(selector).on('click', 'li.has-children > a',
+        function(e) {\r\n                var $this = $(this),\r\n                    $parent
+        = $this.parent();\r\n                if (!$parent.hasClass('expanded')) {\r\n
+        \                   e.preventDefault();\r\n                    $parent.siblings().removeClass('expanded');\r\n
+        \                   $parent.addClass('expanded');\r\n                }\r\n
+        \           });\r\n        }\r\n    },\r\n    //scroll to section functionality\r\n
+        \   nav_scrollToSection: function(options) {\r\n        this.options.prevent_make_section_active
+        = false;\r\n        var q4Options = this.options,\r\n            sts = {\r\n
+        \               //do no modify setting here, only on initialization\r\n                settings:
+        {\r\n                    menu: null,\r\n                    level: null,\r\n
+        \                   sectionClass: null,\r\n                    hrefId: null,\r\n
+        \                   scrollSpeed: 400,\r\n                    scrollOnLoad:
+        false,\r\n                    updateHrefHash: false,\r\n                    addActiveClass:
+        false,\r\n                    addScrollEvent: false,\r\n                    scrollSectionOffset:
+        0,\r\n                    addActiveClassScrollTolerance: 0,\r\n                    closeMobileNav:
+        false,\r\n                    mobileNavShowingClass: 'js--mobile',\r\n                    onCloseMobileNav:
+        function() {\r\n                        $('.layout').removeClass(this.mobileNavShowingClass);\r\n
+        \                   },\r\n                    offsetTopElem: [],\r\n                    offsetTopBreakPoint:
+        [],\r\n                    getTopOffset: q4Options.getTopOffset,\r\n                    onClick:
+        function(event, clickData) {},\r\n                    onScrollEachSection:
+        function(event, scrollData) {},\r\n                    onScrollActiveSection:
+        function(event, scrollData) {}\r\n                },\r\n                init:
+        function(settings) {\r\n                    var inst = this,\r\n                        o
+        = inst.settings;\r\n                    $.extend(inst.settings, settings);\r\n
+        \                   if (o.menu && o.level && o.sectionClass && o.hrefId) {\r\n
+        \                       var initID = inst._asignInitID();\r\n                        $(o.menu).attr('data-scrolltosection',
+        initID).addClass('js--scroll-to-section');\r\n                        inst._onClick(initID);\r\n
+        \                       inst._onScroll(initID);\r\n                        inst._onLoad(initID);\r\n
+        \                   }\r\n                },\r\n                _asignInitID:
+        function() {\r\n                    var inst = this,\r\n                        o
+        = inst.settings,\r\n                        getHrefId = o.hrefId.slice(1,
+        -1),\r\n                        initName = 'scrollTo' + getHrefId,\r\n                        index
+        = $('[data-scrolltosection^=\"' + initName + '\"]').length;\r\n                    return
+        ('scrollTo' + getHrefId + \"-\" + index);\r\n                },\r\n                _onClick:
+        function(_initID) {\r\n                    var inst = this,\r\n                        o
+        = inst.settings,\r\n                        $selectedLevelItemsLinks = function()
+        {\r\n                            if ($('[class*=\"' + o.sectionClass.substr(1)
+        + '\"]').length) {\r\n                                return $(o.menu).find(\".selected
+        > \" + o.level + ' > li > a[href*=\"' + o.hrefId + '\"]').not(\".selected
+        > \" + o.level + ' > li > a[href$=\"&ext\"]');\r\n                            }
+        else {\r\n                                return $();\r\n                            }\r\n
+        \                       }();\r\n                    $selectedLevelItemsLinks.on('click.'
+        + _initID, function(e) {\r\n                        var $this = $(this),\r\n
+        \                           sectionSpecificCls = $this.attr(\"href\").split(o.hrefId).pop().split(\"&ext\").shift(),\r\n
+        \                           $sectionSelected = $(o.sectionClass + sectionSpecificCls);\r\n
+        \                       e.preventDefault();\r\n                        o.onClick(e,
+        {\r\n                            $selectedLevelItemsLinks: $selectedLevelItemsLinks,\r\n
+        \                           $clickedLink: $this,\r\n                            $sectionSelected:
+        $sectionSelected,\r\n                            sectionSpecificCls: sectionSpecificCls,\r\n
+        \                       });\r\n                        inst._scrollTo($sectionSelected);\r\n
+        \                       if (o.updateHrefHash) location.hash = o.hrefId + sectionSpecificCls;\r\n
+        \                       if (o.closeMobileNav) o.onCloseMobileNav();\r\n                        if
+        (o.addActiveClass) $this.parent('li').addClass('js--active').siblings().removeClass('js--active');\r\n
+        \                   });\r\n                },\r\n                _onScroll:
+        function(_initID) {\r\n                    var inst = this,\r\n                        o
+        = inst.settings,\r\n                        elemHasEventNamespace = !inst._elemHasEventNamespace(window,
+        'scroll', _initID);\r\n                    if (o.addActiveClass || o.updateHrefHash
+        || o.addScrollEvent) {\r\n                        //cache element before triggering
+        scroll event\r\n                        var sectionCommonCls = o.sectionClass.substr(1),
+        //remove point from begining of class\r\n                            $sectionsElem
+        = $('[class*=\"' + sectionCommonCls + '\"]'),\r\n                            $selectedLevel
+        = $(o.menu).find(\".selected > \" + o.level),\r\n                            $selectedLevelItems
+        = $(o.menu).find(\" .selected > \" + o.level + ' > li');\r\n                        $(window).on('scroll.'
+        + _initID, function(e) {\r\n                            //only run if physical
+        scroll and not on animation scroll achived by changing q4Options.prevent_make_section_active
+        value in _scrollTo function.\r\n                            if (q4Options.prevent_make_section_active
+        === false) {\r\n                                inst._make_section_active(e,
+        $sectionsElem, $selectedLevel, $selectedLevelItems, sectionCommonCls, elemHasEventNamespace);\r\n
+        \                           }\r\n                        });\r\n                    }\r\n
+        \               },\r\n                _onLoad: function(_initID) {\r\n                    var
+        inst = this,\r\n                        o = inst.settings,\r\n                        elemHasEventNamespace
+        = !inst._elemHasEventNamespace(window, 'load', _initID);\r\n                    if
+        (o.scrollOnLoad && elemHasEventNamespace) {\r\n                        $(window).on('load.'
+        + _initID, function() {\r\n                            inst._scroll_to_sec_load(o.sectionClass,
+        o.hrefId, o.scrollSpeed);\r\n                        });\r\n                    }\r\n
+        \               },\r\n                _make_section_active: function(_event,
+        _$sectionsElem, _$selectedLevel, _$selectedLevelItems, _sectionCommonCls,
+        _eventNamespace) {\r\n                    var inst = this,\r\n                        o
+        = inst.settings,\r\n                        curentScroll = $(window).scrollTop()
+        + o.addActiveClassScrollTolerance,\r\n                        offsetTop =
+        o.getTopOffset(); //cache value before running each.\r\n                    _$sectionsElem.each(function()
+        {\r\n                        var $this = $(this),\r\n                            currentSectionOffsetTop
+        = $this.offset().top - offsetTop - o.scrollSectionOffset,\r\n                            currentSectionHeight
+        = $this.outerHeight(),\r\n                            inViewPort = curentScroll
+        >= currentSectionOffsetTop,\r\n                            notAboveViewPort
+        = curentScroll < currentSectionOffsetTop + currentSectionHeight,\r\n                            eachData
+        = {\r\n                                $sectionsElem: _$sectionsElem,\r\n
+        \                               $selectedLevel: _$selectedLevel,\r\n                                $selectedLevelItems:
+        _$selectedLevelItems,\r\n                                sectionCommonCls:
+        _sectionCommonCls,\r\n                                hasEventNameSpace: _eventNamespace,\r\n
+        \                               $currentSection: $this,\r\n                                curentScroll:
+        curentScroll,\r\n                                currentSectionHeight: currentSectionHeight,\r\n
+        \                               currentSectionOffsetTop: currentSectionOffsetTop,\r\n
+        \                               inViewPort: inViewPort,\r\n                                notAboveViewPort:
+        notAboveViewPort\r\n                            };\r\n                        /*if
+        (_eventNamespace)*/\r\n                        o.onScrollEachSection(_event,
+        eachData);\r\n                        // verify only sections that are in
+        viewport\r\n                        if (inViewPort && notAboveViewPort) {\r\n
+        \                           var sectionSpecificCls = $this.attr(\"class\").split(_sectionCommonCls).pop().split(\"
+        \").shift(),\r\n                                $selectedLevelActiveItem =
+        _$selectedLevel.find('a[href$=\"' + sectionSpecificCls + '\"]').parent();\r\n
+        \                           if (_eventNamespace) {\r\n                                o.onScrollActiveSection(_event,
+        $.extend({\r\n                                    sectionSpecificCls: sectionSpecificCls,\r\n
+        \                                   $selectedLevelActiveItem: $selectedLevelActiveItem\r\n
+        \                               }, eachData));\r\n                            }\r\n
+        \                           if (o.addActiveClass) {\r\n                                _$selectedLevelItems.removeClass('js--active');\r\n
+        \                               $selectedLevelActiveItem.addClass('js--active');\r\n
+        \                           }\r\n                            if (o.updateHrefHash
+        && _eventNamespace) location.hash = o.hrefId + sectionSpecificCls;\r\n                        }\r\n
+        \                   });\r\n                },\r\n                _scroll_to_sec_load:
+        function(sectionClass, hrefId, scrollSpeed) {\r\n                    var inst
+        = this,\r\n                        o = inst.settings;\r\n                    if
+        (location.hash.indexOf(o.hrefId) > -1) {\r\n                        var $sectionFromHref
+        = $(o.sectionClass + location.hash.split(o.hrefId).pop().split(\"&ext\").shift());\r\n
+        \                       inst._scrollTo($sectionFromHref);\r\n                    }\r\n
+        \               },\r\n                _elemHasEventNamespace: function(elem,
+        event, namespace) {\r\n                    var events = $._data(elem, 'events'),\r\n
+        \                       checkEvent = typeof events !== 'undefined' && events.hasOwnProperty(event)
+        ? events[event] : false,\r\n                        result = 0;\r\n                    if
+        (checkEvent) {\r\n                        $.each(checkEvent, function(i, event)
+        {\r\n                            if (event.namespace.split(\"-\").shift()
+        == namespace.split(\"-\").shift()) {\r\n                                result++;\r\n
+        \                           }\r\n                        });\r\n                    }\r\n
+        \                   if (result > 0) return true;\r\n                    else
+        return false;\r\n                },\r\n                _scrollTo: function($section)
+        {\r\n                    var inst = this;\r\n                    o = inst.settings;\r\n
+        \                   //prevent make_section_active function to run while page
+        is animating scroll when the links are clicked\r\n                    q4Options.prevent_make_section_active
+        = true;\r\n                    $('html,body').animate({\r\n                        scrollTop:
+        $section.offset().top - o.getTopOffset() - o.scrollSectionOffset\r\n                    },
+        o.scrollSpeed, function() {\r\n                        if (!$(this).is(':animated'))
+        {\r\n                            //restore make_section_active fucntion to
+        run when the animated scroll stopped\r\n                            q4Options.prevent_make_section_active
+        = false;\r\n                        }\r\n                    });\r\n                }\r\n
+        \           };\r\n        sts.init(options);\r\n    }\r\n\r\n});\r\n\r\n$(document).ready(function()
+        {\r\n\r\n    q4App.init();\r\n\r\n    $('input').iCheck({\r\n        handle:
+        'checkbox',\r\n        checkboxClass: 'icheckbox'\r\n    });\r\n\r\n});\r\n\r\n$('.MainNav
+        a:contains(\"NewsRoom\")').parent().addClass('news');\r\n$('.MainNavMobile
+        a:contains(\"NewsRoom\")').parent().addClass('news');\r\n$('.MainNav .level1
+        > li > a:contains(\"Suppliers\")').parent().addClass('suppliers');\r\n$('.MainNavMobile
+        .level1 > li > a:contains(\"Suppliers\")').parent().addClass('suppliers');\r\n$('.QuickLinksBlue
+        a:contains(\"About Us\")').parent().addClass('self');\r\n$('sup:contains(\"\xAE\")').addClass('registered-sign');\r\n$('.QuickLinksBlue
+        li.self a').attr('target', '_self');\r\n\r\nfunction resize() {\r\n    if
+        ($(window).width() <= 979) {\r\n        var e = $(window).innerHeight() -
+        104;\r\n        var m = $(window).innerHeight() - 50;\r\n        $(\".dropdown\").css(\"height\",
+        m);\r\n        $(\".MainNavMobile\").css(\"height\", e);\r\n    }\r\n    if
+        ($(window).width() >= 979) {\r\n        $(\".corp-nav\").css(\"height\", '100%');\r\n
+        \       $(\".SearchToggle\").css(\"display\", 'none');\r\n    }\r\n}\r\nresize();\r\nwindow.onresize
+        = function() {\r\n    resize();\r\n};\r\nresize();\r\n</script>\r\n\n        </div>\n
+        \   </div>\n</div></span></span></div>\n\t\t\t<div class=\"PaneFooter2\"><span
+        class='FooterPane2Div11'><div id=\"_ctrl0_ctl36_divModuleContainer\" class=\"ModuleContent
+        footer-logo list\">\n    <div class=\"ModuleOuterContainer\">\n        \n
+        \       <div class=\"ModuleInnerContainer\">\n            <!-- <div class=\"morningstar-footer-logo\"><a
+        href=\"https://www.morningstar.com/company/\"><img src=\"//s21.q4cdn.com/198919461/files/design/morningstar-footer-logo.jpg\"
+        alt=\"Morningstar\" /></a></div> -->\r\n<div class=\"social-icons-wrapper\">\r\n
+        \   <p>Follow Morningstar</p>\r\n    <ul class=\"icon-list\">\r\n        <li
+        class=\"icon\"><a href=\"https://www.facebook.com/MorningstarInc\" target=\"_blank\"
+        class=\"no-anchorStyle\"><span class=\"facebook\"></span></a></li>\r\n        <li
+        class=\"icon\"><a href=\"https://twitter.com/MorningstarInc\" target=\"_blank\"
+        class=\"no-anchorStyle\"><span class=\"twitter\"></span></a></li>\r\n        <li
+        class=\"icon\"><a href=\"https://www.linkedin.com/company/morningstar\" target=\"_blank\"
+        class=\"no-anchorStyle\"><span class=\"linkedin\"></span></a></li>\r\n        <li
+        class=\"icon\"><a href=\"https://www.instagram.com/morningstarinc/\" target=\"_blank\"
+        class=\"no-anchorStyle\"><span class=\"instagram\"></span></a></li>\r\n        <li
+        class=\"icon\"><a href=\"https://www.youtube.com/user/morningstar\" target=\"_blank\"
+        class=\"no-anchorStyle\"><span class=\"youtube\"></span></a></li>\r\n    </ul>\r\n</div>\n
+        \       </div>\n    </div>\n</div></span><span class='FooterPane2Div12'><div
+        id=\"_ctrl0_ctl39_divModuleContainer\" class=\"ModuleContainer ModuleSearch
+        SearchFooter\" role=\"search\">\n    <div class=\"ModuleOuterContainer\">\n
+        \       \n        <div class=\"ModuleInnerContainer\">\n            <div class=\"ModuleContainerInnerTop\">\n
+        \               <div class=\"ModuleContentContainer\">\n                    <span
+        id=\"_ctrl0_ctl39_lblSearchText\" class=\"SearchText\"></span>\n                    <input
+        name=\"_ctrl0$ctl39$txtSearchInput\" type=\"text\" maxlength=\"256\" id=\"_ctrl0_ctl39_txtSearchInput\"
+        class=\"SearchInput\" aria-label=\"Search query\" placeholder=\"Search\" value=\"\"
+        onkeypress=\"javascript:var key; if (window.event) { key = window.event.keyCode;
+        } else if (e) { key = e.which; } else { return true; } if (key == 13) __doPostBack(&#39;_ctrl0$ctl39$btnSearch&#39;,
+        &#39;&#39;); \" />\n                    <input type=\"submit\" name=\"_ctrl0$ctl39$btnSearch\"
+        value=\"\uE94A\" id=\"_ctrl0_ctl39_btnSearch\" class=\"ModuleButton SearchButton\"
+        />\n                    \n                </div>\n            </div>\n        </div>\n
+        \   </div>\n</div></span><span class='FooterPane2Div13'><div id=\"_ctrl0_ctl42_divModuleContainer\"
+        class=\"ModuleContent CopyrightModule\">\n    <div class=\"ModuleOuterContainer\">\n
+        \       \n        <div class=\"ModuleInnerContainer\">\n            <div class=\"Copyright\">\xA9
+        Copyright <span></span> Morningstar, Inc. All rights reserved.</div>\r\n<span
+        class=\"morningstar-link-wrap morningstar-link-wrap--top\">\r\n    <a class=\"morningstar-link
+        lightGrey  no-anchorStyle\" href=\"https://www.morningstar.com/company/legal-en\"
+        target=\"_blank\">\r\n        Legal Notices\r\n    </a>\r\n    <a class=\"morningstar-link
+        lightGrey  no-anchorStyle\" href=\"https://www.morningstar.com/company/privacy-policy\"
+        target=\"_blank\">Privacy Policy</a>\r\n</span>\r\n<span class=\"morningstar-link-wrap\">\r\n
+        \   <a class=\"morningstar-link lightGrey  no-anchorStyle\" href=\"https://www.morningstar.com/company/disclosures\"
+        target=\"_blank\">Regulatory Disclosures</a>\r\n    <a class=\"morningstar-link
+        lightGrey  no-anchorStyle\" href=\"https://www.morningstar.com/company/global-contacts\"
+        target=\"_blank\">Global Contacts</a>\r\n</span>\r\n<script>\r\n$('.Copyright
+        > span').html(new Date().getFullYear());\r\n</script>\n        </div>\n    </div>\n</div></span></div>\n\t\t\t<div
+        class=\"PaneQ4Footer\"><span class='Q4FooterDiv15'>\n<div class=\"Q4FooterContainer\">\n
+        \   <div class=\"ModuleOuterContainer\">\n        <div class=\"ModuleInnerContainer\">\n
+        \           <a href=\"https://www.q4inc.com/Powered-by-Q4/\" id=\"_ctrl0_ctl48_hrefWebsiteRecording\"
+        target=\"_blank\">\n                <span id=\"_ctrl0_ctl48_lblWebsiteRecording\"
+        class=\"WebsiteRecording\">Powered By Q4 Inc.</span> \n                <span
+        id=\"_ctrl0_ctl48_lblVersion\" class=\"Version\">5.56.0.1</span>\n                <span
+        class=\"sr-only\">(opens in new window)</span>\n            </a>\n        </div>\n
+        \   </div>\n</div></span><span class='Q4FooterDiv16'><div id=\"_ctrl0_ctl51_divModuleContainer\"
+        class=\"ModuleContent\">\r\n    <div class=\"ModuleOuterContainer\">\r\n        \r\n
+        \       <div class=\"ModuleInnerContainer\">\r\n            <script type=\"text/javascript\">\r\n
+        \   (function (id) {\r\n        function append(scriptid, url, async) {\r\n
+        \           var d = document, sn = 'script', f = d.getElementsByTagName(sn)[0];\r\n
+        \           if (!f) f = d.head;\r\n            var s = d.createElement(sn);\r\n
+        \           s.async = true;\r\n            s.id = scriptid;\r\n            s.src
+        = url;\r\n            f.parentNode.insertBefore(s, f);\r\n        }\r\n\r\n
+        \       function getRootDomain() {\r\n            var parts = window.location.hostname.split('.');\r\n
+        \           if (parts.length === 2) rootDomain = parts[0];\r\n            else
+        if (parts.length > 2) {\r\n              // see if the next to last value
+        is a common tld\r\n              var part = parts[parts.length - 2];\r\n              if
+        (part === 'com' || part === 'co') {\r\n                rootDomain = parts[parts.length
+        - 3]; // go back one more\r\n              }\r\n              else {\r\n                rootDomain
+        = part;\r\n              }\r\n            }\r\n\r\n          return rootDomain;\r\n
+        \       }\r\n\r\n        window.evidon = {};\r\n        window.evidon.id =
+        id;\r\n        var cdn = '//c.evidon.com/', rootDomain = getRootDomain(),
+        noticecdn = cdn + 'sitenotice/';\r\n        append('evidon-notice', noticecdn
+        + 'evidon-sitenotice-tag.js', false);\r\n        append('evidon-location',
+        cdn + 'geo/country.js', true);\r\n        append('evidon-themes', noticecdn
+        + id + '/snthemes.js', true);\r\n        if (rootDomain) append('evidon-settings',
+        noticecdn + id + '/' + rootDomain + '/settings.js', true);\r\n\r\n        window.evidon.priorConsentCallback
+        = function () {\r\n            // add the tags which need to wait for prior
+        consent\r\n            // here.  This should be all your advertising tags
+        and\r\n            // probably most of your social and tracking tags.\r\n
+        \       }\r\n\r\n        window.evidon.closeCallback = function () {\r\n            //
+        this is executed if the user closed a UI element without either Accepting
+        (providing consent)\r\n            // or Declining (declining to provide consent).\r\n
+        \       }\r\n\r\n        window.evidon.consentWithdrawnCallback = function
+        () {\r\n            // this is exeucted if the user withdraws consent and
+        elects to\r\n            // no longer allow technologies to run on the site.\r\n
+        \       }\r\n\r\n        window.evidon.consentDeclinedCallback = function
+        () {\r\n            // this is executed if the user explicitly declines giving
+        consent by\r\n            // using a Decline button\r\n        }\r\n    })(3700);\r\n</script>\r\n
+        \       </div>\r\n    </div>\r\n</div></span><span class='Q4FooterDiv4'><div
+        id=\"_ctrl0_ctl63_divModuleContainer\" class=\"ModuleContent\">\r\n    <div
+        class=\"ModuleOuterContainer\">\r\n        \r\n        <div class=\"ModuleInnerContainer\">\r\n
+        \           <script type=\"text/javascript\">\r\n    $('.ModulePressReleaseDetails
+        .ModuleBody table, .ContactInfoNews table').not('table table').wrap('<div
+        class=\"table-responsive\" />');\r\n    $('.ModulePressReleaseDetails .ModuleBody
+        table span').removeAttr('style');\r\n    $('.ModulePressReleaseDetails .ModuleBody
+        p').filter(function () {\r\n        return this.innerHTML == '&nbsp;';\r\n
+        \   }).remove();\r\n     $('.ModulePressReleaseDetails .ModuleBody h4:contains(\"Related
+        Links\")').addClass('marginTop');\r\n\r\n    var pressKits = $('.press-kits').html();\r\n
+        \   $('.PaneRight .ContactInfoNews .ModuleInnerContainer').append(pressKits);\r\n$(document).ready(function(){\r\n
+        \   $('.ModuleTitleText:contains(\"The July 25, 2018 press release\")').text(\"The
+        July 25, 2018 press release notes that 19,000 advisors globally use Morningstar
+        Managed Portfolio (making up $44.7B of assets under management).  For the
+        advisors working most closely with Morningstar Managed Portfolios, what percent
+        of the assets they advise reside in the Managed Portfolio program (penetration
+        rate of existing customers)?  And, what percent of your broader set of 255,000
+        financial advisors using Morningstar products does Morningstar think could
+        start using Morningstar Managed Portfolios?\");\r\n})\r\n</script>\r\n\r\n
+        \       </div>\r\n    </div>\r\n</div></span></div>\n\t\t</div>\n\t</div>\n</div>\r\n
+        \                   <input type=\"hidden\" name=\"__antiCSRF\" id=\"__antiCSRF\"
+        value=\"\"/>\r\n                </form>\r\n            </div>\r\n        </div>\r\n
+        \   </div>\r\n    \r\n    <script type=\"text/javascript\" src=\"/js/anti-csrf.js\">\r\n
+        \   </script>\r\n</body>\r\n</html>\r\n"
+    headers:
+      Accept-Ranges:
+      - bytes
+      CF-Cache-Status:
+      - REVALIDATED
+      CF-Ray:
+      - 6712bb4ebab3f2b0-WAW
+      Cache-Control:
+      - public, max-age=10, stale-if-error=86400, stale-while-revalidate=86400
+      Connection:
+      - keep-alive
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Mon, 19 Jul 2021 08:55:35 GMT
+      ETag:
+      - b8ec3384693b7e4e7e0849abde33df22
+      Expect-CT:
+      - max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      Server:
+      - cloudflare
+      Set-Cookie:
+      - __cf_bm=cb6243a54e20014f6c91db9399e82eda76f80ecb-1626684935-1800-AXy3JhBWNeabV+EJEjJ30944PD1LLLGxuinEYS3Ajp0c+TTC/J2qNm90UgCvUdbAKgDu5RQCem+1XDcF9OljY/s=;
+        path=/; expires=Mon, 19-Jul-21 09:25:35 GMT; domain=.newsroom.morningstar.com;
+        HttpOnly; Secure; SameSite=None
+      Vary:
+      - Accept-Encoding
+      X-Content-Type-Options:
+      - nosniff
+      X-XSS-Protection:
+      - '0'
+      content-length:
+      - '107390'
+    status:
+      code: 200
+      message: OK
+version: 1

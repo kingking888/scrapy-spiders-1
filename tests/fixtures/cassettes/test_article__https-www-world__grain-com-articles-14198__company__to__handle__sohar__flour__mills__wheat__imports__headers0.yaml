@@ -1,0 +1,602 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.world-grain.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.world-grain.com/articles/14198-company-to-handle-sohar-flour-mills-wheat-imports
+  response:
+    body:
+      string: "<!DOCTYPE html>\n<!--[if IE 7]>         <html class=\"no-js lt-ie9
+        lt-ie8\"> <![endif]-->\n<!--[if IE 8]>         <html class=\"no-js lt-ie9\">
+        <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en\"> <!--<![endif]-->\n
+        \ <head>\n    \n    <link href=\"https://www.world-grain.com/articles/14198-company-to-handle-sohar-flour-mills-wheat-imports\"
+        rel=\"canonical\" />\n    \n    <meta name=\"csrf-param\" content=\"authenticity_token\"/>\n<meta
+        name=\"csrf-token\" content=\"Asbzzgx52Ruas9hZZ+8hjDYdfePzo2VOz+DY00diBL5lGaN4keDuFc8QJKNaT3A9i8sMSiVu2gUpa7K&#x2F;TPMPmg==\"/>\n
+        \   <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n
+        \   <meta name=\"description\" content=\"MUSCAT, OMAN \u2014 C. Steinweg Oman
+        LLC, the operator of the general cargo terminal at Sohar Port in Oman, extended
+        its agreement to handle wheat import shipments for Sohar Flour Mills LLC.
+        Sohar Flour Mills is expected to begin its own wheat discharge operations
+        in the first quarter of 2021 at the port.\_ Until then, C. Steinweg Oman will
+        discharge the wheat import shipments and transport the cargo into the warehouse
+        of Sohar Flour Mills. In order to support Oman and its citizens during the
+        . . .\">\n    <meta name=\"keywords\" content=\"World Grain, grain industry,
+        sosland publishing, feed, flour, wheat, corn, maize, soy, soybeans, soya,
+        barley, rice, sorghum, rapeseed, canola, corn milling, corn wet milling, flour
+        milling, feed milling, flour additives\">\n    \n    <link rel=\"alternate\"
+        type=\"application/xml\" title=\"World Grain  RSS Feed\" href=\"https://www.world-grain.com/rss/articles\"
+        />\n    \n    <meta property=\"og:title\" content=\"Company to handle Sohar
+        Flour Mills wheat imports\" />\n<meta property=\"og:description\" content=\"In
+        2021, the mill will handle its own imports from the Oman port.\" />\n<meta
+        property=\"og:author\" content=\"Susan Reidy\" />\n<meta property=\"og:url\"
+        content=\"https://www.world-grain.com/articles/14198-company-to-handle-sohar-flour-mills-wheat-imports\"
+        />\n<meta property=\"og:image\" content=\"https://www.world-grain.com/ext/resources/Article-Images/2020/09/Shipping_AdobeStock_321142717_E.png?height=635&t=1599578002&width=1200\"
+        />\n<meta property=\"og:image:width\" content=\"952\" />\n<meta property=\"og:image:height\"
+        content=\"635\" />\n<meta property=\"og:type\" content=\"Article\" />\n<meta
+        name=\"twitter:title\" content=\"Company to handle Sohar Flour Mills wheat
+        imports\" />\n<meta name=\"twitter:description\" content=\"In 2021, the mill
+        will handle its own imports from the Oman port.\" />\n<meta name=\"twitter:card\"
+        content=\"summary\" />\n<meta name=\"twitter:image\" content=\"https://www.world-grain.com/ext/resources/Article-Images/2020/09/Shipping_AdobeStock_321142717_E.png?1599578002\"
+        />\n    <link rel=\"apple-touch-icon-precomposed\" sizes=\"57x57\" href=\"/images/favicons/apple-touch-icon-57x57.png\"
+        />\n<link rel=\"apple-touch-icon-precomposed\" sizes=\"114x114\" href=\"/images/favicons/apple-touch-icon-114x114.png\"
+        />\n<link rel=\"apple-touch-icon-precomposed\" sizes=\"72x72\" href=\"/images/favicons/apple-touch-icon-72x72.png\"
+        />\n<link rel=\"apple-touch-icon-precomposed\" sizes=\"144x144\" href=\"/images/favicons/apple-touch-icon-144x144.png\"
+        />\n<link rel=\"apple-touch-icon-precomposed\" sizes=\"60x60\" href=\"/images/favicons/apple-touch-icon-60x60.png\"
+        />\n<link rel=\"apple-touch-icon-precomposed\" sizes=\"120x120\" href=\"/images/favicons/apple-touch-icon-120x120.png\"
+        />\n<link rel=\"apple-touch-icon-precomposed\" sizes=\"76x76\" href=\"/images/favicons/apple-touch-icon-76x76.png\"
+        />\n<link rel=\"apple-touch-icon-precomposed\" sizes=\"152x152\" href=\"/images/favicons/apple-touch-icon-152x152.png\"
+        />\n<link rel=\"icon\" type=\"image/png\" href=\"/images/favicons/favicon-196x196.png\"
+        sizes=\"196x196\" />\n<link rel=\"icon\" type=\"image/png\" href=\"/images/favicons/favicon-96x96.png\"
+        sizes=\"96x96\" />\n<link rel=\"icon\" type=\"image/png\" href=\"/images/favicons/favicon-32x32.png\"
+        sizes=\"32x32\" />\n<link rel=\"icon\" type=\"image/png\" href=\"f/images/favicons/avicon-16x16.png\"
+        sizes=\"16x16\" />\n<link rel=\"icon\" type=\"image/png\" href=\"/images/favicons/favicon-128.png\"
+        sizes=\"128x128\" />\n<meta name=\"application-name\" content=\"&nbsp;\"/>\n<meta
+        name=\"msapplication-TileColor\" content=\"#FFFFFF\" />\n<meta name=\"msapplication-TileImage\"
+        content=\"/images/favicons/mstile-144x144.png\" />\n<meta name=\"msapplication-square70x70logo\"
+        content=\"/images/favicons/mstile-70x70.png\" />\n<meta name=\"msapplication-square150x150logo\"
+        content=\"/images/favicons/mstile-150x150.png\" />\n<meta name=\"msapplication-wide310x150logo\"
+        content=\"/images/favicons/mstile-310x150.png\" />\n<meta name=\"msapplication-square310x310logo\"
+        content=\"/images/favicons/mstile-310x310.png\" />\n<meta content=\"true\"
+        name=\"has-log-view\" />\n    <title>Company to handle Sohar Flour Mills wheat
+        imports | 2020-09-08 | World Grain</title>\n    <link rel=\"stylesheet\" media=\"screen\"
+        href=\"/stylesheets/application.css\" />\n    <link rel=\"stylesheet\" media=\"print\"
+        href=\"/stylesheets/print.css\" /><link href=\"https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700|PT+Serif:400,400i,700\"
+        rel=\"stylesheet\" />\n    <link rel=\"stylesheet\" media=\"screen\" href=\"/ext/resources/worldgrain.css\"
+        />\n    <script src=\"/javascripts/jade.default.min.js\"></script>\n<script
+        src=\"/javascripts/application.js\"></script>\n    \n    \n<!-- dataLayer
+        scripts, place in head before GTM snippet -->\n<script>var dataLayer = window.dataLayer
+        = window.dataLayer || [];</script>\n<script>dataLayer.push({\"id\":14198,\"topics\":[\"Business\",\"Trends\",\"Commodities\",\"Transportation\",\"wheat\",\"shipping\",\"ports\",\"News\",\"Featured
+        Stories\"],\"title\":\"Company to handle Sohar Flour Mills wheat imports\",\"page_type\":[\"articles\"],\"date_posted\":\"09/08/2020\",\"gated\":false,\"registered\":false,\"author\":[\"Susan
+        Reidy\"],\"sponsored\":false});</script>\n<!-- End dataLayer -->\n\n<!-- Google
+        Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew
+        Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-P3FR8LT');</script>\n<!--
+        End Google Tag Manager -->\n\n    <script>\n  window.epub = window.epub ||
+        {};\n\n    window.epub['AD_HISTORY_ENABLED'] = true;\n</script>\n\n    <script>var
+        googletag = {\n  cmd: []\n};\nvar targeting = {\"id\":\"14198\",\"tags\":[\"Business\",\"Trends\",\"Commodities\",\"Transportation\",\"wheat\",\"shipping\",\"ports\",\"News\",\"Featured
+        Stories\"],\"taxonomy\":[\"Business\",\"Trends\",\"Commodities\",\"Transportation\",\"wheat\",\"shipping\",\"ports\",\"News\",\"Featured
+        Stories\"],\"taxonomy_id\":[1017,1018,1024,1030,1351,1371,1372,1418,16],\"sponsored\":\"false\",\"page_type\":[\"articles\"],\"keyword\":[],\"reg_user\":\"false\",\"page_name\":\"14198-company-to-handle-sohar-flour-mills-wheat-imports\",\"search_terms\":\"\",\"url\":\"/articles/14198-company-to-handle-sohar-flour-mills-wheat-imports\",\"site_env\":\"production\"};</script><script
+        src=\"//www.googletagservices.com/tag/js/gpt.js\"></script><script>var $hasLogViewMeta
+        = $('meta[name=has-log-view]').attr('content');\nvar $logViewUrlMeta = $('meta[name=log-view-url]').attr('content');\nif($hasLogViewMeta
+        === 'true') {\n  var baseLogUrl = typeof $logViewUrlMeta === \"undefined\"
+        ? window.location.pathname : $logViewUrlMeta\n  var logUrl = baseLogUrl +
+        '/log_view' + window.location.search;\n  if (typeof navigator.sendBeacon ===
+        'function') {\n    navigator.sendBeacon(logUrl);\n  } else {\n    // Gotta
+        love IE\n    $.post(logUrl);\n  }\n}  </script>\n  </head>\n  <body data-controller=\"articles\"
+        data-action=\"show\" data-article-requires-registration=\"true\" data-article-requires-subscription=\"false\"
+        data-prestitial-ad=\"false\" data-poststitial-ad=\"false\">\n    \n    \n
+        \   \n<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P3FR8LT\"\nheight=\"0\"
+        width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!--
+        End Google Tag Manager (noscript) -->\n    <section class=\"cookie-policy\"
+        id=\"cookie-policy\"><div class=\"cookie-policy__body\">We use cookies to
+        provide you with a better experience. By continuing to browse the site you
+        are agreeing to our use of cookies in accordance with our <a class=\"ec-cookie-policy__link\"
+        href=\"/privacy-policy-terms-of-use#cookies\">Cookie Policy</a>.</div><span
+        class=\"cookie-policy__close\" id=\"cookie-policy-close\"></span></section>\n
+        \   <div class=\"document mmenu-placeholder\"><header class=\"main-header\"><div
+        class=\"main-header__top\"><div class=\"main-header__logo-container\"><a id=\"hamburger-nav-link\"
+        class=\"hamburger-nav-link\" data-eventname=\"hamburger-nav-link\" data-eventcategory=\"click\"
+        data-eventaction=\"hamburger-nav-link\" data-eventlabel=\"Toggle Menu\" href=\"#\"></a><a
+        id=\"hamburger-nav-link\" class=\"hamburger-search-link\" data-eventname=\"hamburger-nav-link\"
+        data-eventcategory=\"click\" data-eventaction=\"hamburger-nav-link\" data-eventlabel=\"Toggle
+        Menu\" href=\"#\"></a><div class=\"site-logo\">\n  <a data-eventname=\"logo-link\"
+        data-eventcategory=\"click\" data-eventaction=\"logo-link\" data-eventlabel=\"link
+        to homepage\" href=\"/\">\n    <img width=\"450\" style=\"width: 450px\" src=\"/ext/resources/images/logo.png\"/>\n</a></div>\n</div><div
+        class=\"main-header__top-navigation\"><nav class=\"user-actions\" id=\"user-actions\">\n
+        \ <ul class=\"user-actions__list\">\n    <li class=\"user-actions__signin\">\n
+        \     <a class=\"user-actions__signin-link\" href=\"/user/login\">Sign In</a>\n
+        \   </li>\n    <li class=\"user-actions__register\">\n      <a class=\"user-actions__register-link\"
+        href=\"/user/new\">Create Account</a>\n    </li>\n    <li class=\"user-actions__signout\">\n
+        \     <a class=\"user-actions__signout-link\" href=\"/user/logout\">Sign Out</a>\n
+        \   </li>\n    <li class=\"user-actions__account\">\n      <a class=\"user-actions__account-link\"
+        href=\"/user/profile\">My Account</a>\n    </li>\n  </ul>\n</nav>\n<a class=\"promo-button\"
+        data-eventname=\"promo-button-link\" data-eventcategory=\"click\" data-eventaction=\"promo-button-link\"
+        data-eventlabel=\"title: Free Newsletter Sign-up | url: https://sos.dragonforms.com/SOS108_WO_profile&amp;pk=HeaderLink\"
+        href=\"https://sos.dragonforms.com/SOS108_WO_profile&amp;pk=HeaderLink\">Free
+        Newsletter Sign-up</a></div></div><div class=\"main-nav-container\"><div class=\"main-nav-container__wrapper\"><div
+        class=\"main-nav-container__mobile-nav\"><nav class=\"user-actions\" id=\"user-actions\">\n
+        \ <ul class=\"user-actions__list\">\n    <li class=\"user-actions__signin\">\n
+        \     <a class=\"user-actions__signin-link\" href=\"/user/login\">Sign In</a>\n
+        \   </li>\n    <li class=\"user-actions__register\">\n      <a class=\"user-actions__register-link\"
+        href=\"/user/new\">Create Account</a>\n    </li>\n    <li class=\"user-actions__signout\">\n
+        \     <a class=\"user-actions__signout-link\" href=\"/user/logout\">Sign Out</a>\n
+        \   </li>\n    <li class=\"user-actions__account\">\n      <a class=\"user-actions__account-link\"
+        href=\"/user/profile\">My Account</a>\n    </li>\n  </ul>\n</nav>\n<a class=\"main-nav-container__subscribe-link\"
+        data-eventname=\"main-nav-subscribe-link\" data-eventcategory=\"click\" data-eventaction=\"main-nav-subscribe-link\"
+        data-eventlabel=\"url: /subscriptions\" href=\"/subscriptions\">Subscribe
+        Now</a></div><div class=\"main-nav-container__desktop-nav-wrapper\"><nav id=\"main-nav\"
+        class=\"main-nav main-nav--horizontal\"><div class=\"navigation\"><ul class=\"main-nav-level1__items\"><li
+        class=\"main-nav-level1__item\"><a class=\"main-nav__link -has-children\"
+        data-eventname=\"main-nav\" data-eventcategory=\"click\" data-eventaction=\"main-nav-link\"
+        data-eventlabel=\"Companies|/topics/1016-companies\" href=\"/topics/1016-companies\">Companies</a><ul
+        class=\"main-nav-level2__items\"><li class=\"main-nav-level2__item\"><a class=\"main-nav__link\"
+        data-eventname=\"main-nav\" data-eventcategory=\"click\" data-eventaction=\"main-nav-link\"
+        data-eventlabel=\"Associations/Agencies|/topics/1020-associations-agencies\"
+        href=\"/topics/1020-associations-agencies\">Associations/Agencies</a></li><li
+        class=\"main-nav-level2__item\"><a class=\"main-nav__link\" data-eventname=\"main-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"main-nav-link\" data-eventlabel=\"Feed
+        Companies|/topics/1852-feed-companies\" href=\"/topics/1852-feed-companies\">Feed
+        Companies</a></li><li class=\"main-nav-level2__item\"><a class=\"main-nav__link\"
+        data-eventname=\"main-nav\" data-eventcategory=\"click\" data-eventaction=\"main-nav-link\"
+        data-eventlabel=\"Grain Companies|/topics/1021-grain-companies\" href=\"/topics/1021-grain-companies\">Grain
+        Companies</a></li><li class=\"main-nav-level2__item\"><a class=\"main-nav__link\"
+        data-eventname=\"main-nav\" data-eventcategory=\"click\" data-eventaction=\"main-nav-link\"
+        data-eventlabel=\"Milling Companies|/topics/1022-milling-companies\" href=\"/topics/1022-milling-companies\">Milling
+        Companies</a></li><li class=\"main-nav-level2__item\"><a class=\"main-nav__link\"
+        data-eventname=\"main-nav\" data-eventcategory=\"click\" data-eventaction=\"main-nav-link\"
+        data-eventlabel=\"People|/topics/1882-people\" href=\"/topics/1882-people\">People</a></li><li
+        class=\"main-nav-level2__item\"><a class=\"main-nav__link\" data-eventname=\"main-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"main-nav-link\" data-eventlabel=\"Suppliers|/topics/1023-suppliers\"
+        href=\"/topics/1023-suppliers\">Suppliers</a></li></ul></li><li class=\"main-nav-level1__item\"><a
+        class=\"main-nav__link -has-children\" data-eventname=\"main-nav\" data-eventcategory=\"click\"
+        data-eventaction=\"main-nav-link\" data-eventlabel=\"Business|/topics/1017-business\"
+        href=\"/topics/1017-business\">Business</a><ul class=\"main-nav-level2__items\"><li
+        class=\"main-nav-level2__item\"><a class=\"main-nav__link\" data-eventname=\"main-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"main-nav-link\" data-eventlabel=\"Commodities|/topics/1024-commodities\"
+        href=\"/topics/1024-commodities\">Commodities</a></li><li class=\"main-nav-level2__item\"><a
+        class=\"main-nav__link\" data-eventname=\"main-nav\" data-eventcategory=\"click\"
+        data-eventaction=\"main-nav-link\" data-eventlabel=\"Financial Performance|/topics/1025-financial-performance\"
+        href=\"/topics/1025-financial-performance\">Financial Performance</a></li><li
+        class=\"main-nav-level2__item\"><a class=\"main-nav__link\" data-eventname=\"main-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"main-nav-link\" data-eventlabel=\"Mergers
+        and Acquisitions|/topics/1026-mergers-and-acquisitions\" href=\"/topics/1026-mergers-and-acquisitions\">Mergers
+        and Acquisitions</a></li><li class=\"main-nav-level2__item\"><a class=\"main-nav__link\"
+        data-eventname=\"main-nav\" data-eventcategory=\"click\" data-eventaction=\"main-nav-link\"
+        data-eventlabel=\"Market Segments|/topics/1027-market-segments\" href=\"/topics/1027-market-segments\">Market
+        Segments</a></li></ul></li><li class=\"main-nav-level1__item\"><a class=\"main-nav__link
+        -has-children\" data-eventname=\"main-nav\" data-eventcategory=\"click\" data-eventaction=\"main-nav-link\"
+        data-eventlabel=\"Trends|/topics/1018-trends\" href=\"/topics/1018-trends\">Trends</a><ul
+        class=\"main-nav-level2__items\"><li class=\"main-nav-level2__item\"><a class=\"main-nav__link\"
+        data-eventname=\"main-nav\" data-eventcategory=\"click\" data-eventaction=\"main-nav-link\"
+        data-eventlabel=\"Biotechnology|/topics/1028-biotechnology\" href=\"/topics/1028-biotechnology\">Biotechnology</a></li><li
+        class=\"main-nav-level2__item\"><a class=\"main-nav__link\" data-eventname=\"main-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"main-nav-link\" data-eventlabel=\"Safety|/topics/1029-safety\"
+        href=\"/topics/1029-safety\">Safety</a></li><li class=\"main-nav-level2__item\"><a
+        class=\"main-nav__link\" data-eventname=\"main-nav\" data-eventcategory=\"click\"
+        data-eventaction=\"main-nav-link\" data-eventlabel=\"Transportation|/topics/1030-transportation\"
+        href=\"/topics/1030-transportation\">Transportation</a></li><li class=\"main-nav-level2__item\"><a
+        class=\"main-nav__link\" data-eventname=\"main-nav\" data-eventcategory=\"click\"
+        data-eventaction=\"main-nav-link\" data-eventlabel=\"Sustainability|/topics/1031-sustainability\"
+        href=\"/topics/1031-sustainability\">Sustainability</a></li><li class=\"main-nav-level2__item\"><a
+        class=\"main-nav__link\" data-eventname=\"main-nav\" data-eventcategory=\"click\"
+        data-eventaction=\"main-nav-link\" data-eventlabel=\"Legislation|/topics/1032-legislation\"
+        href=\"/topics/1032-legislation\">Legislation</a></li><li class=\"main-nav-level2__item\"><a
+        class=\"main-nav__link\" data-eventname=\"main-nav\" data-eventcategory=\"click\"
+        data-eventaction=\"main-nav-link\" data-eventlabel=\"Health and Wellness|/topics/1033-health-and-wellness\"
+        href=\"/topics/1033-health-and-wellness\">Health and Wellness</a></li><li
+        class=\"main-nav-level2__item\"><a class=\"main-nav__link\" data-eventname=\"main-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"main-nav-link\" data-eventlabel=\"Trade|/topics/1034-trade\"
+        href=\"/topics/1034-trade\">Trade</a></li></ul></li><li class=\"main-nav-level1__item\"><a
+        class=\"main-nav__link -has-children\" data-eventname=\"main-nav\" data-eventcategory=\"click\"
+        data-eventaction=\"main-nav-link\" data-eventlabel=\"Operations|/topics/1019-operations\"
+        href=\"/topics/1019-operations\">Operations</a><ul class=\"main-nav-level2__items\"><li
+        class=\"main-nav-level2__item\"><a class=\"main-nav__link\" data-eventname=\"main-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"main-nav-link\" data-eventlabel=\"Flour
+        Milling Equipment|/topics/1035-flour-milling-equipment\" href=\"/topics/1035-flour-milling-equipment\">Flour
+        Milling Equipment</a></li><li class=\"main-nav-level2__item\"><a class=\"main-nav__link\"
+        data-eventname=\"main-nav\" data-eventcategory=\"click\" data-eventaction=\"main-nav-link\"
+        data-eventlabel=\"Feed Milling Equipment|/topics/1036-feed-milling-equipment\"
+        href=\"/topics/1036-feed-milling-equipment\">Feed Milling Equipment</a></li><li
+        class=\"main-nav-level2__item\"><a class=\"main-nav__link\" data-eventname=\"main-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"main-nav-link\" data-eventlabel=\"Grain
+        Storage and Handling|/topics/1037-grain-storage-and-handling\" href=\"/topics/1037-grain-storage-and-handling\">Grain
+        Storage and Handling</a></li></ul></li><li class=\"main-nav-level1__item\"><a
+        class=\"main-nav__link -has-children\" data-eventname=\"main-nav\" data-eventcategory=\"click\"
+        data-eventaction=\"main-nav-link\" data-eventlabel=\"Advertising|javascript:void(0);\"
+        href=\"javascript:void(0);\">Advertising</a><ul class=\"main-nav-level2__items\"><li
+        class=\"main-nav-level2__item\"><a class=\"main-nav__link\" data-eventname=\"main-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"main-nav-link\" data-eventlabel=\"Media
+        Guide|/media-guide\" href=\"/media-guide\">Media Guide</a></li><li class=\"main-nav-level2__item\"><a
+        class=\"main-nav__link\" data-eventname=\"main-nav\" data-eventcategory=\"click\"
+        data-eventaction=\"main-nav-link\" data-eventlabel=\"Reprints|/reprints\"
+        href=\"/reprints\">Reprints</a></li></ul></li><li class=\"main-nav-level1__item\"><a
+        class=\"main-nav__link -has-children\" data-eventname=\"main-nav\" data-eventcategory=\"click\"
+        data-eventaction=\"main-nav-link\" data-eventlabel=\"Subscriptions|javascript:void(0);\"
+        href=\"javascript:void(0);\">Subscriptions</a><ul class=\"main-nav-level2__items\"><li
+        class=\"main-nav-level2__item\"><a class=\"main-nav__link\" data-eventname=\"main-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"main-nav-link\" data-eventlabel=\"Magazines|/Magazine_Subscriptions\"
+        href=\"/Magazine_Subscriptions\">Magazines</a></li><li class=\"main-nav-level2__item\"><a
+        class=\"main-nav__link\" data-eventname=\"main-nav\" data-eventcategory=\"click\"
+        data-eventaction=\"main-nav-link\" data-eventlabel=\"Newsletters|/Newsletter_Subscriptions\"
+        href=\"/Newsletter_Subscriptions\">Newsletters</a></li></ul></li><li class=\"main-nav-level1__item\"><a
+        class=\"main-nav__link -has-children\" data-eventname=\"main-nav\" data-eventcategory=\"click\"
+        data-eventaction=\"main-nav-link\" data-eventlabel=\"More|javascript:void(0);\"
+        href=\"javascript:void(0);\">More</a><ul class=\"main-nav-level2__items\"><li
+        class=\"main-nav-level2__item\"><a class=\"main-nav__link\" data-eventname=\"main-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"main-nav-link\" data-eventlabel=\"Buyer&#39;s
+        Guide|http://sosland.gcnpublishing.com/gmabg/\" target=\"_blank\" href=\"http://sosland.gcnpublishing.com/gmabg/\">Buyer&#39;s
+        Guide</a></li><li class=\"main-nav-level2__item\"><a class=\"main-nav__link\"
+        data-eventname=\"main-nav\" data-eventcategory=\"click\" data-eventaction=\"main-nav-link\"
+        data-eventlabel=\"Country Focus|/country_focus\" href=\"/country_focus\">Country
+        Focus</a></li><li class=\"main-nav-level2__item\"><a class=\"main-nav__link\"
+        data-eventname=\"main-nav\" data-eventcategory=\"click\" data-eventaction=\"main-nav-link\"
+        data-eventlabel=\"Digital Editions|/digital_editions\" href=\"/digital_editions\">Digital
+        Editions</a></li><li class=\"main-nav-level2__item\"><a class=\"main-nav__link\"
+        data-eventname=\"main-nav\" data-eventcategory=\"click\" data-eventaction=\"main-nav-link\"
+        data-eventlabel=\"Editorial Staff|/authors\" href=\"/authors\">Editorial Staff</a></li><li
+        class=\"main-nav-level2__item\"><a class=\"main-nav__link\" data-eventname=\"main-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"main-nav-link\" data-eventlabel=\"Event
+        Calendar|/events/category/1416\" href=\"/events/category/1416\">Event Calendar</a></li><li
+        class=\"main-nav-level2__item\"><a class=\"main-nav__link\" data-eventname=\"main-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"main-nav-link\" data-eventlabel=\"E-Zines|/articles/topic/613\"
+        href=\"/articles/topic/613\">E-Zines</a></li><li class=\"main-nav-level2__item\"><a
+        class=\"main-nav__link\" data-eventname=\"main-nav\" data-eventcategory=\"click\"
+        data-eventaction=\"main-nav-link\" data-eventlabel=\"Grain Market Review|/articles/topic/1417-grain-market-review\"
+        href=\"/articles/topic/1417-grain-market-review\">Grain Market Review</a></li><li
+        class=\"main-nav-level2__item\"><a class=\"main-nav__link\" data-eventname=\"main-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"main-nav-link\" data-eventlabel=\"Multimedia|javascript:void(0);\"
+        href=\"javascript:void(0);\">Multimedia</a><ul class=\"main-nav-level3__items\"><li
+        class=\"main-nav-level3__item\"><a data-eventname=\"null\" data-eventcategory=\"click\"
+        data-eventaction=\"-link\" data-eventlabel=\"Slideshows|/media/photos\" href=\"/media/photos\">Slideshows</a></li><li
+        class=\"main-nav-level3__item\"><a data-eventname=\"null\" data-eventcategory=\"click\"
+        data-eventaction=\"-link\" data-eventlabel=\"Videos|/media/videos\" href=\"/media/videos\">Videos</a></li></ul></li><li
+        class=\"main-nav-level2__item\"><a class=\"main-nav__link\" data-eventname=\"main-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"main-nav-link\" data-eventlabel=\"Newsletter
+        Archives|/newsletters\" href=\"/newsletters\">Newsletter Archives</a></li><li
+        class=\"main-nav-level2__item\"><a class=\"main-nav__link\" data-eventname=\"main-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"main-nav-link\" data-eventlabel=\"Opinion|/articles/topic/1905\"
+        href=\"/articles/topic/1905\">Opinion</a></li><li class=\"main-nav-level2__item\"><a
+        class=\"main-nav__link\" data-eventname=\"main-nav\" data-eventcategory=\"click\"
+        data-eventaction=\"main-nav-link\" data-eventlabel=\"Store|/products\" href=\"/products\">Store</a></li><li
+        class=\"main-nav-level2__item\"><a class=\"main-nav__link\" data-eventname=\"main-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"main-nav-link\" data-eventlabel=\"Webinars|javascript:void(0);\"
+        href=\"javascript:void(0);\">Webinars</a><ul class=\"main-nav-level3__items\"><li
+        class=\"main-nav-level3__item\"><a data-eventname=\"null\" data-eventcategory=\"click\"
+        data-eventaction=\"-link\" data-eventlabel=\"Active|/events/category/1438\"
+        href=\"/events/category/1438\">Active</a></li><li class=\"main-nav-level3__item\"><a
+        data-eventname=\"null\" data-eventcategory=\"click\" data-eventaction=\"-link\"
+        data-eventlabel=\"Archives|/events/category/1428/range/archive\" href=\"/events/category/1428/range/archive\">Archives</a></li></ul></li><li
+        class=\"main-nav-level2__item\"><a class=\"main-nav__link\" data-eventname=\"main-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"main-nav-link\" data-eventlabel=\"Whitepapers|/articles/topic/1425-whitepapers\"
+        href=\"/articles/topic/1425-whitepapers\">Whitepapers</a></li></ul></li></ul></div></nav><div
+        class=\"main-nav-container__nav2\"><section class=\"quick-search\" id=\"quick-search\"><form
+        action=\"/search\" class=\"quick-search__form\" method=\"get\"><label class=\"quick-search__label\"></label><div
+        class=\"quick-search__search\"><input class=\"quick-search__search-field\"
+        name=\"q\" placeholder=\"Search\" type=\"search\" /></div><button class=\"quick-search__button\"></button></form></section><a
+        class=\"main-nav-container__cart\" data-eventname=\"main-nav-cart-link\" data-eventcategory=\"click\"
+        data-eventaction=\"main-nav-cart-link\" data-eventlabel=\"url: /cart\" href=\"/cart\"></a></div></div></div></div></header><div
+        class=\"container\"><div class=\"ad-leaderboard ad-leaderboard-top\" id=\"top-ad-leaderboard\"><div
+        class=\"gpt-ad non-expandable\" id=\"div-gpt-ad-leaderboard\"></div>\n<section
+        class=\"expandable-ad\" id=\"expandable-ad\" data-slot-id=\"div-gpt-ad-leaderboard\">\n
+        \ <div id=\"div-pushdown\" class=\"expandable-ad__original\"></div>\n  <div
+        class=\"expandable-ad__wrapper\">\n    <button class=\"expandable-ad__close-button\"></button>\n
+        \   <div id=\"div-expanded\" class=\"expandable-ad__expanded\"></div>\n  </div>\n</section>\n</div><div
+        class=\"main-body page-articles-show \"><div id=\"breadcrumbs\" class=\"breadcrumbs\"><a
+        class=\"\" href=\"/\">Home</a> &raquo; Company to handle Sohar Flour Mills
+        wheat imports</div><h1 class=\"page-articles-show__headline\">Company to handle
+        Sohar Flour Mills wheat imports</h1><figure class=\"article-featured-image
+        \"><div class=\"article-featured-image__image\" style=\"\"><img alt=\"shipping\"
+        src=\"https://www.world-grain.com/ext/resources/Article-Images/2020/09/Shipping_AdobeStock_321142717_E.png?t=1599578002&amp;width=1080\"
+        /></div><figcaption class=\"article-featured-image__caption\">Photo: Adobe
+        stock</figcaption></figure><div class=\"page-articles-show__meta-container\">\n<div
+        class=\"post-meta\">\n  <div class=\"date article-summary__post-date\">09.08.2020</div>\n\n
+        \   <div class=\"author\">\n      By <a href=\"/authors/8-susan-reidy\">Susan
+        Reidy</a>\n    </div>\n\n\n\n  \n</div>\n<section class=\"social-share\"><div
+        class=\"social-share__facebook\"></div><div class=\"social-share__twitter\"></div><div
+        class=\"social-share__reddit\"></div><div class=\"social-share__linkedin\"></div><div
+        class=\"social-share__email\"><a onclick=\"return popEmail(&#39;/emails/send_to_friend/articles/14198&#39;)\"
+        class=\"social-share__email-link\" href=\"#\"></a></div><div class=\"social-share__print\"><a
+        class=\"social-share__print-link\" target=\"_blank\" href=\"/articles/print/14198-company-to-handle-sohar-flour-mills-wheat-imports\"></a></div></section></div><div
+        class=\"page-articles-show__content\"><div class=\"body gsd-paywall article-body\"><p>MUSCAT,
+        OMAN \u2014 C. Steinweg Oman LLC, the operator of the general cargo terminal
+        at Sohar Port in Oman, extended its agreement to handle wheat import shipments
+        for Sohar Flour Mills LLC.</p><p>Sohar Flour Mills is expected to begin its
+        own wheat discharge operations in the first quarter of 2021 at the port.\_
+        Until then, C. Steinweg Oman will discharge the wheat import shipments and
+        transport the cargo into the warehouse of Sohar Flour Mills.</p><div class=\"ad-default\"><div
+        class=\"gpt-ad\" id=\"div-gpt-ad-inlinemedrec\"></div></div><p>In order to
+        support Oman and its citizens during the coronavirus (COVID-19) pandemic,
+        C. Steinweg Oman has reduced its handling charges to Sohar Flour Mills to
+        boost the import of additional wheat and enhance Oman food security and sustainability.</p><p>Both
+        parties said they look forward to continuing their collaboration and business
+        relationship.</p><p>\_</p></div><div class=\"pager\"></div><span class=\"topics\"><a
+        class=\"topic\" href=\"/topics/1017-business\">Business</a><span class=\"del\">
+        </span><a class=\"topic\" href=\"/topics/1018-trends\">Trends</a><span class=\"del\">
+        </span><a class=\"topic\" href=\"/topics/1024-commodities\">Commodities</a><span
+        class=\"del\"> </span><a class=\"topic\" href=\"/topics/1351-wheat\">wheat</a><span
+        class=\"del\"> </span><a class=\"topic\" href=\"/topics/1030-transportation\">Transportation</a><span
+        class=\"del\"> </span><a class=\"topic\" href=\"/topics/1371-shipping\">shipping</a><span
+        class=\"del\"> </span><a class=\"topic\" href=\"/topics/1372-ports\">ports</a></span><section
+        class=\"related-content\"><ul class=\"related-content__contents\"><li class=\"related-content__content
+        articles\"><h3 class=\"related-content__content-title\">Related Articles</h3><div
+        class=\"related-content__content-item\"><h2 class=\"headline\"><a href=\"https://www.world-grain.com/articles/9658-sohar-flour-mills-to-build-grain-storage-silos\">Sohar
+        Flour Mills to build grain storage silos</a></h2></div><div class=\"related-content__content-item\"><h2
+        class=\"headline\"><a href=\"https://www.world-grain.com/articles/14088-wfp-to-supply-wheat-flour-to-beirut\">WFP
+        to supply wheat flour to Beirut</a></h2></div><div class=\"related-content__content-item\"><h2
+        class=\"headline\"><a href=\"https://www.world-grain.com/articles/8996-national-flour-mills-faces-government-resistance-to-potential-price-hike\">National
+        Flour Mills faces government resistance to potential price hike</a></h2></div><div
+        class=\"related-content__content-item\"><h2 class=\"headline\"><a href=\"https://www.world-grain.com/articles/13549-wfp-to-provide-wheat-imports-to-sudan\">WFP
+        to provide wheat imports to Sudan</a></h2></div><div class=\"related-content__content-item\"><h2
+        class=\"headline\"><a href=\"https://www.world-grain.com/articles/6851-indonesian-wheat-imports-up-on-demand-from-feed-mills\">Indonesian
+        wheat imports up on demand from feed mills</a></h2></div></li></ul></section>
+        \ <div class=\"editorial-content article-show-bottom records\">\n    \n    <div
+        class=\"editorial-content__details record\">\n      <div class=\"editorial-content__body
+        body\"><div align=\"center\">\r\n<table class=\"wdn_responsive_table flush-left\"
+        \ id=\"t308468\" width=\"80%\">\r\n<caption></caption>\r\n<tbody>\r\n      <tr>\r\n
+        \           <td colspan=\"1\" id=\"t308468_row_0col_0\" style=\"padding-right:
+        10px;\"><span style=\"font-family:Georgia, 'Times New Roman', serif;font-size:16px;
+        font-weight:700; color:#333333;line-height:22px;\" >Sign up for our free newsletters</span><br
+        />\r\n\t<span style=\"font-family:PT Sans,sans-serif; font-size:14px;color:#333333;line-height:22px;\">From
+        daily reports on breaking news to weekly updates, <em>World Grain</em> has
+        the grain, flour and feed industries covered.</span></td>\r\n            <td
+        colspan=\"1\" id=\"t308468_row_0col_1\" style=\"display:block;padding:4px
+        4px 4px 4px;\tfont-family:Georgia, 'Times New Roman', serif;font-size:11px;
+        font-weight:bold;line-height:18px; border-radius:3px; mso-line-height-rule:exactly;line-height:36px;background-color:#F58220;border-radius:3px;box-shadow:2px
+        3px 3px #999999;margin:10px auto;width:100%;text-align:center; vertical-align:middle
+        !important\" valign=\"middle\">\r\n\t\t\t<a href=\"https://sos.dragonforms.com/loading.do?omedasite=SOS108_WO_profile&pk=ArticleLink\"
+        target=\"_blank\" style=\"color:#ffffff;text-decoration:none;\">Subscribe</a>\r\n\t\t
+        \ </td>\r\n       </tr>\r\n\r\n</tbody>\r\n</table>\r\n</div></div>\n    </div>\n
+        \ </div>\n</div></div><div class=\"main-interior-sidebar\"><div class=\"ad-default\"><div
+        class=\"gpt-ad\" id=\"div-gpt-ad-mediumrec1\"></div></div><div id=\"article-recommendations\"></div>\n<a
+        class=\"promo-button\" data-eventname=\"rail-omeda-signin-link\" data-eventcategory=\"click\"
+        data-eventaction=\"rail-omeda-signin-link\" data-eventlabel=\"https://sos.dragonforms.com/SOS108_WO_profile?pk=rightrail\"
+        href=\"https://sos.dragonforms.com/SOS108_WO_profile?pk=rightrail\">Subscribe
+        to Our Newsletters</a><div class=\"ad-default\"><div class=\"gpt-ad\" id=\"div-gpt-ad-mediumrec2\"></div></div><section
+        class=\"current-editions\"><h1 class=\"current-editions__title\">Current Issues</h1><article
+        class=\"current-editions__issue\"><figure class=\"current-editions__image\"><a
+        class=\"thumbnail-link\" data-eventname=\"rail-current-issue-image-link\"
+        data-eventcategory=\"click\" data-eventaction=\"rail-current-issue-image-link\"
+        data-eventlabel=\"url: https://www.world-grain.com/publications/1\" href=\"https://www.world-grain.com/publications/1\"><img
+        class=\"current-editions__image-thumb\" src=\"https://www.world-grain.com/ext/resources/Magazine_Covers/2020/WGcover_2020-11.jpg?height=360&amp;t=1604426215&amp;width=280\"
+        alt=\"Wgcover 2020 11\" /></a></figure></article></section><section class=\"popular-stories
+        \">\n  <h1 class=\"popular-stories__title\">Popular Articles</h1><ul class=\"popular-stories__items\">\n
+        \   \n<li class=\"popular-stories__item\">\n  <article class=\"popular-stories__article\"><div
+        class=\"popular-stories__details -has-image\"><h1 class=\"popular-stories__headline\"><a
+        class=\"popular-stories__article-title-link\" data-eventname=\"popular-stories-headline-link\"
+        data-eventcategory=\"click\" data-eventaction=\"popular-stories-headline-link\"
+        data-eventlabel=\"title: COVID-19&#39;s lasting impact | url: https://www.world-grain.com/articles/14500-covid-19s-lasting-impact\"
+        href=\"https://www.world-grain.com/articles/14500-covid-19s-lasting-impact\">COVID-19's
+        lasting impact</a></h1><div class=\"popular-stories__meta\"></div></div></article>\n</li>
+        \ \n<li class=\"popular-stories__item\">\n  <article class=\"popular-stories__article\"><div
+        class=\"popular-stories__details -has-image\"><h1 class=\"popular-stories__headline\"><a
+        class=\"popular-stories__article-title-link\" data-eventname=\"popular-stories-headline-link\"
+        data-eventcategory=\"click\" data-eventaction=\"popular-stories-headline-link\"
+        data-eventlabel=\"title: B\xFChler introduces Arrius integrated grinding system
+        | url: https://www.world-grain.com/articles/14495-b%C3%BChler-introduces-arrius-integrated-grinding-system\"
+        href=\"https://www.world-grain.com/articles/14495-b%C3%BChler-introduces-arrius-integrated-grinding-system\">B\xFChler
+        introduces Arrius integrated grinding system</a></h1><div class=\"popular-stories__meta\"></div></div></article>\n</li>
+        \ \n<li class=\"popular-stories__item\">\n  <article class=\"popular-stories__article\"><div
+        class=\"popular-stories__details -has-image\"><h1 class=\"popular-stories__headline\"><a
+        class=\"popular-stories__article-title-link\" data-eventname=\"popular-stories-headline-link\"
+        data-eventcategory=\"click\" data-eventaction=\"popular-stories-headline-link\"
+        data-eventlabel=\"title: Three die in accident at COFCO Argentinian plant
+        | url: https://www.world-grain.com/articles/14477-three-die-in-accident-at-cofco-argentinian-plant\"
+        href=\"https://www.world-grain.com/articles/14477-three-die-in-accident-at-cofco-argentinian-plant\">Three
+        die in accident at COFCO Argentinian plant</a></h1><div class=\"popular-stories__meta\"></div></div></article>\n</li>
+        \ \n<li class=\"popular-stories__item\">\n  <article class=\"popular-stories__article\"><div
+        class=\"popular-stories__details -has-image\"><h1 class=\"popular-stories__headline\"><a
+        class=\"popular-stories__article-title-link\" data-eventname=\"popular-stories-headline-link\"
+        data-eventcategory=\"click\" data-eventaction=\"popular-stories-headline-link\"
+        data-eventlabel=\"title: Louis Dreyfus sells 45% stake to Abu Dhabi-based
+        ADQ | url: https://www.world-grain.com/articles/14472-louis-dreyfus-sells-45-stake-to-abu-dhabi-based-adq\"
+        href=\"https://www.world-grain.com/articles/14472-louis-dreyfus-sells-45-stake-to-abu-dhabi-based-adq\">Louis
+        Dreyfus sells 45% stake to Abu Dhabi-based ADQ</a></h1><div class=\"popular-stories__meta\"></div></div></article>\n</li>
+        \ \n\n</ul>\n</section></div><div class=\"ad-leaderboard\"><div class=\"gpt-ad\"
+        id=\"div-gpt-ad-leaderboard2\"></div></div><div class=\"gpt-ad\" id=\"div-gpt-ad-interstitial\"></div></div><div
+        class=\"footer main-footer\"><div class=\"main-footer__wrapper\"><div class=\"main-footer__logo-container\"><a
+        class=\"main-footer__logo-link\" target=\"_blank\" href=\"http://www.sosland.com/\"><svg
+        width=\"233\" height=\"71\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"
+        preserveAspectRatio=\"xMidYMid meet\">\n  <path d=\"M48.4871 64.4994c-.1379-.2907-.1552-.6242-.0484-.9276.1069-.3035.3294-.5525.619-.6926.1437-.0695.2998-.1098.4592-.1187.1594-.0089.319.0139.4696.0669.1506.053.2892.1353.4078.2421.1187.1068.2151.236.2836.3802.0687.1436.1085.2992.1171.4582.0085.1589-.0144.318-.0674.468-.053.1501-.135.2883-.2415.4066-.1064.1183-.2351.2145-.3788.2831-.1541.0777-.3239.1194-.4965.1219-.2335.005-.4636-.0572-.6628-.1792-.1992-.122-.3592-.2987-.4609-.5089zm6.2892-3.6281c-.1001-.1248-.1746-.2682-.2192-.4219s-.0584-.3147-.0406-.4737c.0178-.1591.0669-.3131.1443-.4531.0775-.14.1819-.2634.3072-.363.252-.1984.572-.2896.8908-.2537.3187.0359.6105.1959.8121.4454.1002.1248.1747.2682.2193.4219s.0584.3147.0406.4737c-.0179.1591-.0669.313-.1444.4531-.0774.14-.1818.2634-.3071.3629-.2051.1695-.4614.2646-.7274.2701-.1869.0018-.3718-.0389-.5408-.1188-.1689-.08-.3176-.1972-.4348-.3429zm5.318-4.9434c-.1247-.0984-.2287-.2205-.3061-.3593s-.1266-.2914-.1448-.4493c-.0182-.1578-.005-.3177.0387-.4704.0437-.1527.1172-.2953.2162-.4196.0989-.1255.2216-.2301.3611-.3079.1395-.0779.2931-.1273.4518-.1455.1587-.0182.3194-.0049.4729.0393.1535.0442.2968.1183.4215.2181.2518.2011.4134.4938.4493.814.036.3202-.0567.6415-.2576.8933-.1125.1349-.2529.2438-.4116.319-.1587.0752-.3318.115-.5074.1166-.2825.0123-.5602-.0756-.784-.2483zm-.1829-40.5751c-.0994-.1243-.1733-.267-.2174-.4199-.0441-.153-.0577-.3131-.0399-.4713.0178-.1581.0666-.3113.1436-.4505.0771-.1393.1808-.2621.3053-.3612.2516-.1996.5719-.2914.891-.2555.3191.0359.611.1966.812.4471.0993.1244.1732.2671.2173.42.0442.1529.0578.3131.04.4712-.0178.1582-.0667.3113-.1437.4506-.077.1393-.1808.262-.3053.3612-.2063.1666-.4621.2601-.7273.2657-.1869.0042-.3722-.0348-.5415-.1142-.1693-.0793-.3179-.1968-.4341-.3432zm-4.9391-4.9303c-.1273-.099-.2336-.2224-.3126-.363-.079-.14067-.1291-.29568-.1474-.45594-.0182-.16026-.0043-.32256.0411-.47736.0453-.1548.1211-.29898.2229-.42408.0989-.12546.2216-.23011.3612-.30793.1395-.07781.293-.12726.4517-.14547.1587-.01822.3194-.00486.473.03932.1535.04418.2967.1183.4215.21809.1249.09924.2291.22211.3066.36162.0775.13951.1268.29291.145.45145.0182.15854.005.31911-.0389.47255-.0439.15344-.1175.29675-.2168.42175-.1129.1354-.254.2446-.4135.3198-.1595.0752-.3335.1147-.5098.1157-.2797.0175-.5567-.0626-.784-.2265zM49.062
+        6.70734c-.2904-.1393-.5136-.3882-.6206-.69201-.107-.30381-.089-.63766.0501-.9282.1417-.28918.3921-.51056.6964-.61582.3044-.10526.638-.08586.9281.05397.2889.14087.5102.39044.6155.69409.1053.30365.086.63666-.0536.92613-.0977.20112-.2491.37138-.4373.49203-.1883.12064-.4062.187-.6298.19177-.1901.00431-.3784-.03754-.5488-.12196zM5.83451
+        21.825c-.29042-.1393-.51364-.3882-.62063-.692-.10699-.3038-.08898-.6377.05007-.9282.14009-.2852.38632-.5042.68591-.61.2996-.1059.62874-.0901.91688.0438.29072.1402.51402.3899.62097.6944.10694.3045.08882.639-.05041.9301-.09851.2006-.25003.3703-.43813.4908-.1881.1206-.40561.1873-.62895.193-.18545.0001-.36854-.0416-.53571-.1219zm3.64548-6.2805c-.12498-.0992-.22918-.2221-.30667-.3616-.07748-.1395-.12674-.2929-.14494-.4515-.0182-.1585-.00499-.3191.03887-.4725.04386-.1535.11751-.2968.21675-.4217.0992-.1252.22217-.2295.36183-.3069.13967-.0774.29326-.1264.45197-.1442.1587-.0178.3193-.0041.4727.0404.1533.0446.2963.119.4208.219.1249.0989.229.2214.3064.3605.0774.1391.1267.2922.1449.4504.0182.1581.005.3184-.0388.4714-.0438.1531-.1174.2961-.2165.4207-.1112.139-.2515.252-.411.331-.1595.079-.3344.1221-.5123.1263-.28397.0079-.5616-.0846-.78401-.2613zm4.91731-5.3267c-.2001-.25103-.2927-.57102-.2576-.89009.0351-.31907.195-.6113.4448-.81287.2526-.20115.5746-.29394.8955-.25802.3209.03593.6144.19763.8162.44966.1985.25202.2896.57207.2537.89082-.0358.31875-.1958.6105-.4453.8121-.2075.1676-.465.2611-.7317.2657-.187.005-.3726-.0338-.5419-.1132-.1694-.0794-.3179-.1972-.4337-.3441zm5.993-4.08973c-.0693-.14343-.1096-.29919-.1184-.45827-.0088-.15907.0139-.31832.067-.46856.053-.15023.1353-.28846.242-.40673.1068-.11826.2359-.21421.38-.2823.1431-.06949.2987-.10997.4575-.11911.1589-.00913.3181.01326.4683.06589.1501.05263.2884.13445.4069.24076.1184.10631.2146.23501.2831.37867.1394.29.158.62343.0519.92716-.1062.30373-.3284.55297-.6181.69305-.1553.07443-.3244.11595-.4965.12195-.2334.00427-.463-.05876-.6615-.18157-.1985-.12281-.3575-.30019-.4578-.51094h-.0044zm7.6568
+        61.41573c-.155-.0354-.3015-.1011-.4311-.1932-.1296-.0921-.2399-.2088-.3244-.3434-.0845-.1347-.1417-.2847-.1682-.4415-.0266-.1568-.022-.3172.0135-.4722.0349-.1554.1002-.3024.1921-.4325s.2085-.2409.3432-.3258c.1348-.085.2849-.1425.4419-.1694.1571-.0268.3178-.0224.4731.013.3151.0698.5896.2617.7635.5335.1739.2719.2329.6016.1642.9169-.061.2633-.208.4988-.4178.6692-.2098.1703-.4705.2659-.7407.2715-.1038.0046-.2077-.0042-.3093-.0261zm-7.0949-2.4913c-.145-.0678-.2751-.1635-.3829-.2818-.1079-.1182-.1913-.2565-.2455-.4071-.0542-.1505-.0782-.3103-.0705-.4701.0077-.1598.0468-.3166.1152-.4612.1393-.2904.3882-.5136.692-.6206.3039-.107.6377-.089.9283.05.1435.0698.272.1671.3779.2865.106.1194.1874.2585.2396.4094.0521.1509.0741.3105.0645.4699-.0095.1593-.0504.3153-.1202.4588-.0973.2014-.2486.372-.4369.4927-.1884.1207-.4065.1868-.6302.1911-.1836
+        0-.3649-.0401-.5313-.1176zm-6.3633-4.0026c-.125-.0992-.2292-.2221-.3067-.3616-.0775-.1395-.1267-.2929-.1449-.4515-.0182-.1585-.005-.3191.0389-.4725.0438-.1535.1175-.2968.2167-.4217.0992-.125.2221-.2292.3616-.3067.1395-.0775.2929-.1267.4515-.1449.1585-.0182.3191-.005.4725.0388.1535.0439.2968.1175.4217.2168.1252.0992.2294.2221.3069.3618.0774.1397.1264.2933.1442.452.0178.1586.0041.3193-.0405.4726-.0445.1534-.1189.2964-.2189.4209-.1093.139-.248.2521-.4061.3312-.1581.079-.3318.1221-.5086.1261-.2855.0097-.5651-.083-.7883-.2613zm-5.32668-5.3093c-.09936-.1243-.17322-.267-.21737-.42-.04415-.1529-.05771-.313-.03991-.4712.0178-.1582.06661-.3113.14364-.4506.07703-.1392.18077-.262.30528-.3611.12435-.0994.26707-.1733.41999-.2174.15295-.0441.31305-.0577.47125-.0399.1581.0178.3113.0666.4505.1436.1393.0771.2621.1808.3612.3053.1985.252.2896.5721.2538.8908-.0359.3188-.1959.6106-.4454.8122-.2088.1652-.4655.2585-.7317.2657-.1863.0042-.37098-.0349-.53954-.1143-.16855-.0793-.31636-.1968-.43174-.3431zm-4.00263-6.3719c-.06944-.1438-.10976-.2999-.11864-.4593-.00889-.1594.01383-.319.06686-.4695.05303-.1506.13532-.2892.24212-.4079.10681-.1187.23603-.215.38022-.2836.14344-.0693.29919-.1096.45827-.1184.15908-.0088.31833.0139.46856.067.15023.053.28847.1353.40673.2421.11827.1067.21421.2359.2823.3799.0695.1432.10998.2987.11911.4576.00914.1589-.01326.318-.06588.4682-.05263.1502-.13446.2885-.24077.4069-.10631.1184-.235.2147-.37866.2832-.15441.0769-.32402.1186-.49652.1219-.23422.0057-.46506-.0567-.66451-.1797-.19946-.1229-.35897-.301-.45919-.5128v.0044zM37.8817
+        68.1623c.0319-.3942-.0536-.7889-.2456-1.1346s-.482-.6268-.8335-.808c-.3515-.1812-.7488-.2542-1.1418-.2101-.3929.0442-.764.2037-1.0665.4584s-.5229.5932-.6333.9729c-.1105.3797-.1061.7836.0125
+        1.1608.1187.3773.3463.7109.6542.959.308.2481.6824.3995 1.0763.4352.2636.0239.5293-.0047.7819-.0841.2525-.0795.4867-.2081.6892-.3786.2025-.1705.3692-.3795.4905-.6148.1213-.2353.1947-.4923.2161-.7561zm7.4347-1.2849c.0319-.3941-.0536-.7889-.2456-1.1346s-.4821-.6268-.8336-.8079c-.3515-.1812-.7487-.2543-1.1417-.2101-.3929.0442-.764.2037-1.0665.4584s-.5229.5932-.6333.9729c-.1105.3797-.1061.7836.0125
+        1.1608.1187.3772.3463.7109.6542.959.308.2481.6824.3995 1.0763.4352.2636.0238.5293-.0048.7819-.0842.2525-.0794.4867-.2081.6892-.3786.2025-.1705.3692-.3794.4905-.6147.1213-.2353.1947-.4923.2161-.7562\"
+        fill=\"#009BD5\"/>\n  <path d=\"M30.1682 66.8774c.032-.3941-.0535-.7889-.2455-1.1346s-.4821-.6268-.8336-.808c-.3515-.1811-.7487-.2542-1.1417-.21-.393.0442-.7641.2037-1.0665.4584-.3025.2547-.5229.5932-.6334.9729-.1104.3797-.106.7836.0126
+        1.1608.1187.3772.3463.7109.6542.959s.6824.3995 1.0762.4352c.2637.0238.5294-.0048.7819-.0842.2525-.0794.4868-.2081.6893-.3786.2025-.1705.3692-.3794.4905-.6147.1212-.2353.1947-.4923.216-.7562zM6.09149
+        42.3347c.03192-.3942-.05352-.789-.24555-1.1347-.19203-.3456-.48206-.6268-.83357-.8079-.3515-.1812-.74875-.2543-1.14171-.2101-.39296.0442-.76406.2037-1.06655.4584-.30249.2547-.52285.5932-.63331.9729-.11046.3797-.1061.7836.01256
+        1.1608.11865.3772.34627.7109.6542.959s.6824.3995 1.07622.4352c.26364.0239.52939-.0047.7819-.0842.25252-.0794.48679-.2081.68928-.3786.20249-.1705.36919-.3794.49046-.6147.12127-.2353.19471-.4923.21607-.7561zm-1.09321-7.4696c.03191-.3941-.05352-.7889-.24555-1.1346-.19203-.3457-.48206-.6268-.83357-.808-.3515-.1811-.74875-.2542-1.14171-.21-.39296.0442-.76406.2037-1.06655.4583-.30249.2547-.52285.5933-.63331.973-.110463.3797-.106094.7836.01256
+        1.1608.11865.3772.34627.7109.65421.959.30793.248.68239.3995 1.07621.4351.26364.0239.52939-.0047.7819-.0841.25252-.0794.48679-.2081.68928-.3786.20249-.1705.36919-.3794.49046-.6147.12127-.2353.19471-.4923.21607-.7562zm.74913-7.4957c.03192-.3941-.05352-.7889-.24555-1.1346-.19203-.3457-.48206-.6268-.83356-.8079-.35151-.1812-.74876-.2543-1.14172-.2101-.39296.0442-.76406.2037-1.06655.4584-.30249.2547-.52285.5932-.63331.9729-.11046.3797-.10609.7836.01256
+        1.1608.11865.3772.34628.7109.65421.959s.68239.3995 1.07621.4352c.26364.0239.52939-.0047.7819-.0842.25252-.0794.48679-.2081.68928-.3786.20249-.1705.36919-.3794.49046-.6147.12127-.2353.19471-.4923.21607-.7562zM45.103
+        3.36238c.0319-.39414-.0536-.78892-.2456-1.13461-.192-.34568-.482-.6268-.8336-.80796-.3515-.18116-.7487-.25425-1.1417-.21006-.3929.04419-.764.20367-1.0665.45837-.3025.2547-.5229.59321-.6333.97291-.1105.3797-.1061.78359.0125
+        1.16081.1187.37722.3463.71089.6542.95898.308.2481.6824.39952 1.0763.43519.2636.02389.5293-.00471.7819-.08414.2525-.07943.4867-.20811.6892-.37861.2025-.17049.3692-.37943.4905-.61473.1213-.2353.1947-.4923.2161-.75615zM37.7902
+        2.169c.0319-.39415-.0535-.78893-.2455-1.13461-.1921-.345683-.4821-.626808-.8336-.807966-.3515-.1811586-.7487-.2542477-1.1417-.2100604-.393.0441872-.7641.2036744-1.0666.4583714-.3025.254698-.5228.593215-.6333.972915-.1104.37969-.1061.78359.0126
+        1.1608.1186.37722.3463.71089.6542.95899.3079.24809.6824.39951 1.0762.43519.2636.02388.5294-.00472.7819-.08414.2525-.07943.4868-.20811.6893-.37861s.3692-.37943.4904-.61473c.1213-.2353.1948-.4923.2161-.75615zm-7.7439
+        1.19338c.0319-.39414-.0535-.78892-.2456-1.13461-.192-.34568-.482-.6268-.8335-.80796-.3515-.18116-.7488-.25425-1.1417-.21006-.393.04419-.7641.20367-1.0666.45837-.3025.2547-.5228.59321-.6333.97291-.1105.3797-.1061.78359.0126
+        1.16081.1186.37722.3462.71089.6542.95898.3079.2481.6824.39952 1.0762.43519.2636.02389.5294-.00471.7819-.08414.2525-.07943.4868-.20811.6893-.37861.2024-.17049.3691-.37943.4904-.61473.1213-.2353.1947-.4923.2161-.75615\"
+        fill=\"#009BD5\"/>\n  <path d=\"M23.0123 44.5733l5.8493-4.3859c1.4634 1.8162
+        3.2796 3.2797 6.2892 3.2797 2.3911 0 3.811-.71 3.811-2.3912 0-1.2848-.9756-1.9033-2.966-2.5697l-3.5453-1.1977c-4.3859-1.4634-7.487-4.1202-7.487-9.081
+        0-5.9365 4.9173-8.994 10.2788-8.994s8.5061 1.9033 10.2788 3.9852l-4.6081 4.8302c-.6647-.7157-1.4753-1.2804-2.3769-1.656-.9016-.3757-1.8733-.5536-2.8496-.5217-1.9512
+        0-2.9225.8711-2.9225 2.0819s.6664 1.7421 2.1255 2.2169l3.9852 1.3284c6.0235
+        1.9948 8.0619 4.8737 8.0619 9.1463 0 5.5358-3.4539 9.5254-11.4286 9.5254-6.7814-.0131-10.636-3.1142-12.4957-5.5968zm27.2431-9.9216c0-9.081
+        7.487-15.4182 16.1717-15.4182 8.6847 0 16.1716 6.3372 16.1716 15.4182s-7.4869
+        15.4617-16.1716 15.4617c-8.6847 0-16.1717-6.3807-16.1717-15.4617zm24.0985
+        0c0-4.7387-2.8789-8.419-7.9312-8.419s-7.9312 3.6759-7.9312 8.419c0 4.743 2.8833
+        8.4582 7.9356 8.4582s7.9486-3.7195 7.9486-8.4582h-.0218zm10.5445 9.9216l5.8493-4.3859c1.4634
+        1.8162 3.2797 3.2797 6.2892 3.2797 2.3912 0 3.8111-.71 3.8111-2.3912 0-1.2848-.9757-1.9033-2.9661-2.5697l-3.5453-1.1977c-4.3859-1.4634-7.487-4.1202-7.487-9.081
+        0-5.9365 4.9173-8.994 10.2788-8.994 5.3616 0 8.5066 1.9033 10.2786 3.9852l-4.608
+        4.8302c-.665-.7157-1.475-1.2804-2.377-1.656-.9014-.3757-1.8731-.5536-2.8493-.5217-1.9513
+        0-2.9225.8711-2.9225 2.0819s.6664 1.7421 2.1254 2.2169l3.9854 1.3284c6.023
+        1.9948 8.062 4.8737 8.062 9.1463 0 5.5358-3.454 9.5254-11.4289 9.5254-6.7814-.0131-10.6316-3.1142-12.4957-5.5968zm29.3296-24.9826h8.057v23.345h12.805v6.777h-20.862v-30.122zm44.207
+        26.4896h-10.496l-1.507 3.6324h-7.884l14.661-30.6578c.135-.3092.4-.3092.531
+        0l14.621 30.6578h-8.327l-1.599-3.6324zm-8.014-5.8493h5.449l-2.748-6.3807-2.701
+        6.3807zm30.035-5.5357v15.0174h-7.574V19.19c0-.2657.135-.4878.619-.0871l18.907
+        15.5924V19.5907h7.574V50.157c0 .3528-.135.4878-.619.0871l-18.907-15.5488zm25.649-15.1046h11.651c8.685
+        0 15.244 5.7143 15.244 15.061s-6.555 15.061-15.244 15.061h-11.651v-30.122zm10.767
+        23.3014c4.874 0 7.888-3.236 7.888-8.2404 0-5.0044-3.014-8.2405-7.888-8.2405h-2.687v16.4809h2.687zm-64.717
+        10.9888h3.131c2.03 0 3.533 1.0017 3.533 3.1315s-1.503 3.1446-3.533 3.1446h-1.616v3.4452h-1.515v-9.7213zm3.075
+        4.9477c1.306 0 2.047-.588 2.047-1.8162 0-1.2282-.745-1.8031-2.047-1.8031h-1.56v3.6193h1.56zm5.609
+        1.3633v-6.311h1.516v6.2151c0 1.5723.771 2.2736 2.178 2.2736s2.204-.7013 2.204-2.2736v-6.2151h1.502v6.3066c0
+        2.3606-1.602 3.5453-3.702 3.5453-2.099 0-3.698-1.1847-3.698-3.5409zm9.395-6.311h3.445c1.93
+        0 2.875 1.1149 2.875 2.5305.027.4546-.102.9048-.365 1.2768-.262.372-.644.6436-1.081.7702.559.0851
+        1.066.3782 1.419.8206.353.4425.526 1.0018.484 1.5662 0 1.5723-1.058 2.7613-3.088
+        2.7613h-3.702l.013-9.7256zm3.376 4.02c1.014 0 1.472-.5444 1.472-1.3458 0-.8014-.436-1.3458-1.503-1.3458h-1.829v2.709l1.86-.0174zm.243
+        4.3554c1.115 0 1.66-.6271 1.66-1.5461s-.601-1.5593-1.742-1.5593h-2.017v3.1229l2.099-.0175zm5.005-8.3754h1.516v8.3929h4.49v1.3284h-6.006v-9.7213zm8.123
+        0h1.507v9.7256h-1.503l-.004-9.7256zm3.593 7.8397l1.246-.6881c.2.4176.518.7681.914
+        1.0093.395.2411.852.3625 1.316.3495.988 0 1.689-.527 1.689-1.3284s-.57-1.2151-1.629-1.6855l-.644-.2875c-1.416-.6271-2.274-1.3458-2.274-2.844
+        0-1.4983 1.115-2.4739 2.731-2.4739.558-.0414 1.115.0813 1.603.353.489.2716.887.6804
+        1.145 1.1757l-1.215.7274c-.134-.2962-.355-.5449-.633-.7135-.278-.1686-.601-.2494-.926-.2316-.159-.0178-.319-.0019-.471.0467-.152.0486-.292.1288-.411.2353-.119.1065-.214.2369-.279.3827-.065.1458-.098.3037-.098.4633
+        0 .7274.436 1.0584 1.403 1.4852l.627.2875c1.659.7273 2.548 1.5026 2.548 3.0488
+        0 1.7029-1.328 2.6873-3.162 2.6873-1.834 0-2.953-.8973-3.48-1.9992zm8.493-7.8397h1.516v4.3554h4.677v-4.3554h1.52v9.7256h-1.515v-4.0462h-4.682v4.0462h-1.516v-9.7256zm10.113
+        0h1.52v9.7256h-1.502l-.018-9.7256zm6.107 4.0374c-.388-.4355-.915-1.0888-.915-1.0888.057.4655.09.9335.1
+        1.4024v5.3615h-1.402V53.785h.2l5.362 5.7623c.37.4007.901 1.0888.901 1.0888s-.1-.8711-.1-1.4024v-5.3528h1.402v9.8258h-.187l-5.361-5.7884zm7.452.8276c-.027-.662.084-1.3223.326-1.9391.242-.6169.608-1.1769
+        1.078-1.6447.469-.4679 1.03-.8333 1.647-1.0734.618-.24 1.278-.3493 1.94-.3211
+        1.49 0 2.661.4356 3.445 1.3066l-1.015 1.0149c-.31-.3274-.689-.5828-1.109-.7484-.42-.1655-.871-.2371-1.321-.2098-2.03
+        0-3.45 1.5461-3.45 3.6193-.021.4838.059.9666.235 1.4178.176.4511.444.8606.787
+        1.2024.343.3418.754.6083 1.205.7826.452.1743.935.2525 1.419.2296.835.0216
+        1.659-.1976 2.374-.6315v-1.8162h-2.614v-1.3066h4.003v3.8763c-1.072.8477-2.41
+        1.289-3.776 1.2456-3.031-.013-5.174-2.0993-5.174-5.0043z\" fill=\"#231F20\"/>\n</svg></a></div><div
+        class=\"main-footer__nav-container\"><div class=\"main-footer__social\"><a
+        href=\"https://itunes.apple.com/us/app/world-grain/id904250490?mt=8\" class=\"ec-footer-social__icon
+        ec-footer-social__apple\" target=\"_blank\"></a>\r\n<a href=\"https://www.facebook.com/pages/World-Grain/116311181765921\"
+        class=\"ec-footer-social__icon ec-footer-social__facebook\" target=\"_blank\"></a>\r\n<a
+        href=\"https://twitter.com/worldgrain\" class=\"ec-footer-social__icon ec-footer-social__twitter\"
+        target=\"_blank\"></a>\r\n<a href=\"https://www.linkedin.com/company/world-grain\"
+        class=\"ec-footer-social__icon ec-footer-social__linkedin\" target=\"_blank\"></a>\r\n<a
+        href=\"/rss\" class=\"ec-footer-social__icon ec-footer-social__rss\"></a></div><nav
+        id=\"footer-nav\" class=\"footer-nav\"><div class=\"navigation\"><ul class=\"footer-nav-level1__items\"><li
+        class=\"footer-nav-level1__item\"><a class=\"footer-nav__link\" data-eventname=\"footer-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"footer-nav-link\" data-eventlabel=\"Sosland
+        Publishing|http://www.sosland.com\" target=\"_blank\" href=\"http://www.sosland.com\">Sosland
+        Publishing</a></li><li class=\"footer-nav-level1__item\"><a class=\"footer-nav__link\"
+        data-eventname=\"footer-nav\" data-eventcategory=\"click\" data-eventaction=\"footer-nav-link\"
+        data-eventlabel=\"Editorial Staff|/authors\" href=\"/authors\">Editorial Staff</a></li><li
+        class=\"footer-nav-level1__item\"><a class=\"footer-nav__link\" data-eventname=\"footer-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"footer-nav-link\" data-eventlabel=\"Magazine
+        Subscriptions|/magazine_subscriptions\" href=\"/magazine_subscriptions\">Magazine
+        Subscriptions</a></li><li class=\"footer-nav-level1__item\"><a class=\"footer-nav__link\"
+        data-eventname=\"footer-nav\" data-eventcategory=\"click\" data-eventaction=\"footer-nav-link\"
+        data-eventlabel=\"Newsletter Subscriptions|https://sos.dragonforms.com/SOS108_WO_profile&amp;pk=Footer\"
+        target=\"_blank\" href=\"https://sos.dragonforms.com/SOS108_WO_profile&amp;pk=Footer\">Newsletter
+        Subscriptions</a></li><li class=\"footer-nav-level1__item\"><a class=\"footer-nav__link\"
+        data-eventname=\"footer-nav\" data-eventcategory=\"click\" data-eventaction=\"footer-nav-link\"
+        data-eventlabel=\"Media Guide|/media-guide\" href=\"/media-guide\">Media Guide</a></li><li
+        class=\"footer-nav-level1__item\"><a class=\"footer-nav__link\" data-eventname=\"footer-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"footer-nav-link\" data-eventlabel=\"Contact
+        Us|/contact_us\" href=\"/contact_us\">Contact Us</a></li></ul></div></nav><div
+        class=\"main-footer__copyright\">&copy;2020 SOSLAND PUBLISHING COMPANY<a href=\"/privacy-policy-terms-of-use\">Privacy
+        Policy &amp; Terms Of Use</a><div class=\"main-footer__epub\">Design, CMS,
+        Hosting &amp; Web Development :: <a href=\"http://www.epublishing.com\" target=\"_blank\">ePublishing</a></div></div></div></div><nav
+        id=\"footer-secondary-nav\" class=\"footer-secondary-nav\"><div class=\"navigation\"><ul
+        class=\"footer-secondary-nav-level1__items\"><li class=\"footer-secondary-nav-level1__item\"><a
+        class=\"footer-secondary-nav__link\" data-eventname=\"footer-secondary-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"footer-secondary-nav-link\"
+        data-eventlabel=\"Bakemag.com|http://www.bakemag.com/\" target=\"_blank\"
+        href=\"http://www.bakemag.com/\">Bakemag.com</a></li><li class=\"footer-secondary-nav-level1__item\"><a
+        class=\"footer-secondary-nav__link\" data-eventname=\"footer-secondary-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"footer-secondary-nav-link\"
+        data-eventlabel=\"Bakingbusiness.com|http://www.bakingbusiness.com/\" target=\"_blank\"
+        href=\"http://www.bakingbusiness.com/\">Bakingbusiness.com</a></li><li class=\"footer-secondary-nav-level1__item\"><a
+        class=\"footer-secondary-nav__link\" data-eventname=\"footer-secondary-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"footer-secondary-nav-link\"
+        data-eventlabel=\"Foodbusinessnews.net|https://www.foodbusinessnews.net\"
+        target=\"_blank\" href=\"https://www.foodbusinessnews.net\">Foodbusinessnews.net</a></li><li
+        class=\"footer-secondary-nav-level1__item\"><a class=\"footer-secondary-nav__link\"
+        data-eventname=\"footer-secondary-nav\" data-eventcategory=\"click\" data-eventaction=\"footer-secondary-nav-link\"
+        data-eventlabel=\"Meatpoultry.com|https://www.meatpoultry.com/\" target=\"_blank\"
+        href=\"https://www.meatpoultry.com/\">Meatpoultry.com</a></li><li class=\"footer-secondary-nav-level1__item\"><a
+        class=\"footer-secondary-nav__link\" data-eventname=\"footer-secondary-nav\"
+        data-eventcategory=\"click\" data-eventaction=\"footer-secondary-nav-link\"
+        data-eventlabel=\"Petfoodprocessing.net|http://www.petfoodprocessing.net\"
+        target=\"_blank\" href=\"http://www.petfoodprocessing.net\">Petfoodprocessing.net</a></li><li
+        class=\"footer-secondary-nav-level1__item\"><a class=\"footer-secondary-nav__link\"
+        data-eventname=\"footer-secondary-nav\" data-eventcategory=\"click\" data-eventaction=\"footer-secondary-nav-link\"
+        data-eventlabel=\"Purchasingseminar.com|http://www.purchasingseminar.com/\"
+        target=\"_blank\" href=\"http://www.purchasingseminar.com/\">Purchasingseminar.com</a></li><li
+        class=\"footer-secondary-nav-level1__item\"><a class=\"footer-secondary-nav__link\"
+        data-eventname=\"footer-secondary-nav\" data-eventcategory=\"click\" data-eventaction=\"footer-secondary-nav-link\"
+        data-eventlabel=\"Soslandesource.com|http://www.soslandesource.com/baking\"
+        target=\"_blank\" href=\"http://www.soslandesource.com/baking\">Soslandesource.com</a></li><li
+        class=\"footer-secondary-nav-level1__item\"><a class=\"footer-secondary-nav__link\"
+        data-eventname=\"footer-secondary-nav\" data-eventcategory=\"click\" data-eventaction=\"footer-secondary-nav-link\"
+        data-eventlabel=\"Supermarketperimeter.com|https://www.supermarketperimeter.com/\"
+        target=\"_blank\" href=\"https://www.supermarketperimeter.com/\">Supermarketperimeter.com</a></li></ul></div></nav></div></div>\n
+        \   \n    <script async=\"async\">\n//<![CDATA[\nrequire(['bundle/main.bundle']);\n//]]>\n</script>\n
+        \   <script src=\"/javascripts/pages/article.js\"></script><script src=\"/javascripts/jquery.rating.pack.js\"></script><script>$(function(){\n
+        \ if ($('#photo-gallery').length) {\n    require(['bundle/photo-gallery.bundle'],
+        function(PhotoGallery){\n      new PhotoGallery.default('#photo-gallery',
+        {\n        thumbnailConfig: {\n          loop: false\n        },\n        galleryConfig:
+        {\n          loop: true\n        }\n      });\n    });\n  }\n});</script><script>require(['jquery','jquery-cookie'],
+        function($){\n  $(function() {\n    var $cookiePolicy = $('.cookie-policy');\n\n
+        \   if(!$.cookie(\"cookie_policy\")){\n      $cookiePolicy.show();\n      $cookiePolicy.on('click',
+        '#cookie-policy-close', function(evt) {\n        evt.preventDefault();\n        $.cookie('cookie_policy',
+        'true', { expires: 30 });\n        $cookiePolicy.remove();\n      });\n      $(document).on('epub.afterMenu',
+        $cookiePolicy, function() {\n        $cookiePolicy.prependTo($('.mm-page'));\n
+        \     });\n    }\n  });\n});</script>\n    <script src=\"/javascripts/client.js\"></script>\n
+        \   \n\n</body></html>\n"
+    headers:
+      Accept-Ranges:
+      - bytes
+      Age:
+      - '0'
+      Cache-Control:
+      - max-age=0, private, must-revalidate, private
+      Connection:
+      - keep-alive
+      Content-Security-Policy:
+      - frame-ancestors 'self' continuum.epublishing.com *.continuum.epublishing.com
+      Content-Type:
+      - text/html; charset=utf-8
+      Date:
+      - Mon, 30 Nov 2020 19:16:31 GMT
+      ETag:
+      - W/"6f6997befe62b9615e23b79baa19ac71"
+      Server:
+      - nginx
+      Set-Cookie:
+      - cart.item_count=0; path=/
+      - role=BAhJIgpndWVzdAY6BkVU--70de23ccda76c5a1f0262afed13bfff411aef7e0; domain=.world-grain.com;
+        path=/; expires=Tue, 30 Nov 2021 19:16:31 -0000
+      - _utz_jpvc=BAhJIgYwBjoGRVQ%3D--a93e6bf416ac75fa438de549ceada3794c56c856; path=/
+      - user_ip_covered=false; path=/
+      - last_viewed_path=%2Farticles%2F14198-company-to-handle-sohar-flour-mills-wheat-imports;
+        path=/
+      - _worldgrain_session=BAh7CkkiD3Nlc3Npb25faWQGOgZFVEkiJWVhMTFlNGMyZmM3NmVhOWVmMWZlZTcwNjdjNTZkM2FiBjsAVEkiCGtleQY7AEZJIikxNWVjMWRmNi1iYTUwLTQ1OGUtYTIyMC0yZjlmZTU3MzVmNjQGOwBGSSIPdXBkYXRlZF9hdAY7AEZJdToJVGltZQ3TKx7Awo%2FzQQk6CXpvbmVJIghVVEMGOwBGOg1uYW5vX251bWkC9gI6DW5hbm9fZGVuaQY6DXN1Ym1pY3JvIgd1gEkiEF9jc3JmX3Rva2VuBjsARkkiMVo5OVF0cDJaTnc1Vm8vejZQYUJSc2IzV2Nhbld6YjlMNW90cWJBdVJDeVE9BjsARkkiCXZpZXcGOwBGaQQgjLsC--9fce3725554c9486c0108d7ac8ec61a82b72d515;
+        path=/; HttpOnly
+      Vary:
+      - Accept-Encoding, User-Agent
+      Via:
+      - 1.1 varnish
+      X-Cache:
+      - MISS
+      X-Content-Type-Options:
+      - nosniff
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-XSS-Protection:
+      - 1; mode=block
+      content-length:
+      - '57419'
+    status:
+      code: 200
+      message: OK
+version: 1

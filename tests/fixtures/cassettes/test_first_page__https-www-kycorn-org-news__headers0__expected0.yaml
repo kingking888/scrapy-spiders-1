@@ -1,0 +1,913 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.kycorn.org
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.kycorn.org/news
+  response:
+    body:
+      string: "<!doctype html>\n<html xmlns:og=\"http://opengraphprotocol.org/schema/\"
+        xmlns:fb=\"http://www.facebook.com/2008/fbml\" lang=\"en-US\"  >\n  <head>\n
+        \   <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n    <meta
+        name=\"viewport\" content=\"initial-scale=1\">\n\n    <!-- This is Squarespace.
+        --><!-- jennifer-elwell-4b8r -->\n<base href=\"\">\n<meta charset=\"utf-8\"
+        />\n<title>Kentucky Corn Growers Association News &mdash; Kentucky Corn Growers
+        Association</title>\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1512491046794-SL1VPMZJNB4THHA2UCEC/ke17ZwdGBToddI8pDm48kL0xEWUzCLk3Qp7nFLcx1_2oCXeSvxnTEQmG4uwOsdIceAoHiyRoc52GMN5_2H8WpxwujzyDVflz3uO2dyh5MG8F5AmbZm2XmMt5ZYQnUhmTTk53dVSzUI3uaRbO7zYsyQ/favicon.ico\"/>\n<link
+        rel=\"canonical\" href=\"https://www.kycorn.org/news\"/>\n<meta property=\"og:site_name\"
+        content=\"Kentucky Corn Growers Association\"/>\n<meta property=\"og:title\"
+        content=\"Kentucky Corn Growers Association News &mdash; Kentucky Corn Growers
+        Association\"/>\n<meta property=\"og:url\" content=\"https://www.kycorn.org/news\"/>\n<meta
+        property=\"og:type\" content=\"website\"/>\n<meta itemprop=\"name\" content=\"Kentucky
+        Corn Growers Association News \u2014 Kentucky Corn Growers Association\"/>\n<meta
+        itemprop=\"url\" content=\"https://www.kycorn.org/news\"/>\n<meta name=\"twitter:title\"
+        content=\"Kentucky Corn Growers Association News \u2014 Kentucky Corn Growers
+        Association\"/>\n<meta name=\"twitter:url\" content=\"https://www.kycorn.org/news\"/>\n<meta
+        name=\"twitter:card\" content=\"summary\"/>\n<meta name=\"description\" content=\"\"
+        />\n<link rel=\"preconnect\" href=\"https://images.squarespace-cdn.com\">\n<script
+        type=\"text/javascript\" src=\"//use.typekit.net/ik/t2u8dc9abeHuzbHF6Ff95QPXKdO9fsF9QqWCIOQDX13feGCBfFHN4UJLFRbh52jhWDmyweIUwhs85Aj3FhjuwQ6XF2SXZQMawU75MkG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcBDOcu8OfG0-cm0dc8cZWJlZAUaZAUCOQsK5YJ0SaBujW48Sagyjh90jhNlOfG0SaBujW48SagyjhmDjhy8ZYmC-Ao1OcFzdPUyjamTiY8Djhy8ZYmC-Ao1OcFzdPUyjamTiY8Djhy8ZYmC-Ao1Oco8ifUySkolZPU7ZAo0-AZ8SKu8dYi8de3lFeJtSKoDSWmyScmDSeBRZPoRdhXC-a8Rda40OcNkZkUCdhFydeyzSabCSaBujW48SagyjhmDjhy8ZYmC-Ao1OcFzdPUaiaS0jAFu-WsoShFGZAsude80ZkoRdhXCiaiaOcBRiA8XpWFR-emqiAUTdcS0dcmXOYiaikoySkolZPUaiaS0-cm0dc8cZWJlZAUaZAUCOQsK5YJ0SaBujW48Sagyjh90jhNlOYiaikonpAFzSct0da41OYiaikoDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlJyBKScB0ZeN0OAikdas8SaBuZPJVjcBD-hmkic8Cde9liW4aJ6oCiewljcNqdhoTOQIaFPG4fwBbIMMjIkMfH6qJzBMbMg62JMJ7fbKh9gMMeMb6MKG4fOobIMMjgPMfH6qJ0BMbMg6YJMJ7fbKN9gMMeMX6MKG4fwgbIMMjfPMfH6qJ0mMbMg6sJMJ7fbK5WyMgeMb6MKG4f4gpIMIjgkMfH6qJqutbMs65JMJ7fbKmWyMgeMv6MKG4f4ZpIMIjIPMfH6qJxkCbMy6IJMHbMp-DDzSB.js\"></script>\n<script
+        type=\"text/javascript\">try{Typekit.load();}catch(e){}</script>\n<script
+        type=\"text/javascript\">SQUARESPACE_ROLLUPS = {};</script>\n<script>(function(rollups,
+        name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = [\"//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-d2b6094e965c882c2de89-min.en-US.js\"];
+        })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>\n<script
+        crossorigin=\"anonymous\" src=\"//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-d2b6094e965c882c2de89-min.en-US.js\"
+        ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name]
+        = {}; } rollups[name].js = [\"//assets.squarespace.com/universal/scripts-compressed/common-vendors-befc24af52a74c8ad1f8c-min.en-US.js\"];
+        })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>\n<script crossorigin=\"anonymous\"
+        src=\"//assets.squarespace.com/universal/scripts-compressed/common-vendors-befc24af52a74c8ad1f8c-min.en-US.js\"
+        ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name]
+        = {}; } rollups[name].js = [\"//assets.squarespace.com/universal/scripts-compressed/common-eedb878b4b03d71d45c33-min.en-US.js\"];
+        })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>\n<script crossorigin=\"anonymous\"
+        src=\"//assets.squarespace.com/universal/scripts-compressed/common-eedb878b4b03d71d45c33-min.en-US.js\"
+        ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name]
+        = {}; } rollups[name].js = [\"//assets.squarespace.com/universal/scripts-compressed/performance-714358948bd9167e1015f-min.en-US.js\"];
+        })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>\n<script crossorigin=\"anonymous\"
+        src=\"//assets.squarespace.com/universal/scripts-compressed/performance-714358948bd9167e1015f-min.en-US.js\"
+        defer ></script><script data-name=\"static-context\">Static = window.Static
+        || {}; Static.SQUARESPACE_CONTEXT = {\"facebookAppId\":\"314192535267336\",\"facebookApiVersion\":\"v6.0\",\"rollups\":{\"squarespace-announcement-bar\":{\"js\":\"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-ed1462168e545ec5a0717-min.en-US.js\"},\"squarespace-audio-player\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/audio-player-03a5305221e9f3857f5d3fbff2cd9bbe-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/audio-player-423955a8b3b79b164de92-min.en-US.js\"},\"squarespace-blog-collection-list\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-ab4142fcacca918cf4e2d-min.en-US.js\"},\"squarespace-calendar-block-renderer\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-1e8a762808391e4b0bd8945da50793ac-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-b56e0428508c7ca30a82c-min.en-US.js\"},\"squarespace-chartjs-helpers\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-9935a41d63cf08ca108505d288c1712e-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-270e1573dd28dff07fc7c-min.en-US.js\"},\"squarespace-comments\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/comments-f794dccd3bb871fc0cbc0bb7ad024168-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/comments-845b76cf4a51bc6048371-min.en-US.js\"},\"squarespace-commerce-cart\":{\"js\":\"//assets.squarespace.com/universal/scripts-compressed/commerce-cart-57b29450db6e4b61fc325-min.en-US.js\"},\"squarespace-dialog\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/dialog-4c984bcaacc45888f9092057493234b6-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/dialog-6625d219a4fe0a7893dfe-min.en-US.js\"},\"squarespace-events-collection\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/events-collection-1e8a762808391e4b0bd8945da50793ac-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/events-collection-41b276b348c6417e908ae-min.en-US.js\"},\"squarespace-form-rendering-utils\":{\"js\":\"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-c12f27ec66a08a6d7e153-min.en-US.js\"},\"squarespace-forms\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/forms-763d974ea7719bb18959e8f0a891abe6-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/forms-cdaabae773b36614b62d4-min.en-US.js\"},\"squarespace-gallery-collection-list\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5d5ff461e8bba64f298dc-min.en-US.js\"},\"squarespace-image-zoom\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/image-zoom-72b0ab7796582588032aa6472e2e2f14-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/image-zoom-7d979b96959dc5099f6b1-min.en-US.js\"},\"squarespace-pinterest\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/pinterest-9dd1acd10aa47a7154983-min.en-US.js\"},\"squarespace-popup-overlay\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/popup-overlay-68d60e7bd84500af34df575998cc00d0-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-0247a47d8f0795861b35b-min.en-US.js\"},\"squarespace-product-quick-view\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/product-quick-view-eedd090fe95cd960919fcf1e0a4293c3-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-1439f60b603998397c17f-min.en-US.js\"},\"squarespace-products-collection-item-v2\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-72b0ab7796582588032aa6472e2e2f14-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-101a44fe35986d7730111-min.en-US.js\"},\"squarespace-products-collection-list-v2\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-72b0ab7796582588032aa6472e2e2f14-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-31d5eca0bd0727ee7bdf3-min.en-US.js\"},\"squarespace-search-page\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/search-page-207da8872118254c0a795bf9b187c205-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/search-page-afbd45a5b40ccc3bedd6c-min.en-US.js\"},\"squarespace-search-preview\":{\"js\":\"//assets.squarespace.com/universal/scripts-compressed/search-preview-566564f97aa8601772b65-min.en-US.js\"},\"squarespace-share-buttons\":{\"js\":\"//assets.squarespace.com/universal/scripts-compressed/share-buttons-22b439505f1269b054b70-min.en-US.js\"},\"squarespace-simple-liking\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/simple-liking-9ef41bf7ba753d65ec1acf18e093b88a-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/simple-liking-f4fb05649aba801939a3e-min.en-US.js\"},\"squarespace-social-buttons\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/social-buttons-bf7788a87c794b73afd9d5c49f72f4f3-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/social-buttons-db90a7450e24c1f999dfc-min.en-US.js\"},\"squarespace-tourdates\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/tourdates-d41d8cd98f00b204e9800998ecf8427e-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/tourdates-01372bf717e0aece1add8-min.en-US.js\"},\"squarespace-website-overlays-manager\":{\"css\":\"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-4f212ab97f9bc590002bb2ff55f69409-min.en-US.css\",\"js\":\"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-9bde8c2a354b69334cc41-min.en-US.js\"}},\"pageType\":1,\"website\":{\"id\":\"5a0a13de9f07f5184474e073\",\"identifier\":\"jennifer-elwell-4b8r\",\"websiteType\":1,\"contentModifiedOn\":1604930859169,\"cloneable\":false,\"hasBeenCloneable\":false,\"siteStatus\":{},\"language\":\"en-US\",\"timeZone\":\"America/New_York\",\"machineTimeZoneOffset\":-18000000,\"timeZoneOffset\":-18000000,\"timeZoneAbbr\":\"EST\",\"siteTitle\":\"Kentucky
+        Corn Growers Association\",\"fullSiteTitle\":\"Kentucky Corn Growers Association
+        News \\u2014 Kentucky Corn Growers Association\",\"siteTagLine\":\"Growing
+        opportunities for Kentucky's\\u00A0corn farmers in a changing industry.\\u00A0\",\"siteDescription\":\"<p>The
+        Kentucky Corn Growers Association is dedicated to growing opportunities for
+        Kentucky corn farmers in a changing industry. This grassroots organization,
+        founded in 1982, represents the interests of more than 6,000 corn farmers
+        in the Commonwealth.&nbsp;</p>\",\"location\":{\"addressLine1\":\"\",\"addressLine2\":\"\",\"addressCountry\":\"\"},\"logoImageId\":\"5a0a149b0d92971978575c06\",\"shareButtonOptions\":{\"2\":true,\"7\":true,\"1\":true},\"logoImageUrl\":\"//static1.squarespace.com/static/5a0a13de9f07f5184474e073/t/5a0a149b0d92971978575c06/1604930859169/\",\"authenticUrl\":\"https://www.kycorn.org\",\"internalUrl\":\"https://jennifer-elwell-4b8r.squarespace.com\",\"baseUrl\":\"https://www.kycorn.org\",\"primaryDomain\":\"www.kycorn.org\",\"sslSetting\":3,\"isHstsEnabled\":false,\"socialAccounts\":[{\"serviceId\":2,\"userId\":\"10155874905069233\",\"screenname\":\"Jennifer
+        Dickey Elwell\",\"addedOn\":1511304603733,\"profileUrl\":\"http://www.facebook.com/KyCornKySGGA\",\"iconUrl\":\"http://graph.facebook.com/10155874905069233/picture?type=square\",\"metaData\":{\"service\":\"facebook\"},\"iconEnabled\":true,\"serviceName\":\"facebook\"}],\"typekitId\":\"\",\"statsMigrated\":false,\"imageMetadataProcessingEnabled\":false,\"screenshotId\":\"339eabc050506f30e17cee6a66d36d16d22b6df537f787e0852c84cf730fd012\",\"showOwnerLogin\":false},\"websiteSettings\":{\"id\":\"5a0a13de9f07f5184474e076\",\"websiteId\":\"5a0a13de9f07f5184474e073\",\"subjects\":[],\"country\":\"US\",\"state\":\"KY\",\"simpleLikingEnabled\":true,\"mobileInfoBarSettings\":{\"style\":1,\"isContactEmailEnabled\":false,\"isContactPhoneNumberEnabled\":false,\"isLocationEnabled\":false,\"isBusinessHoursEnabled\":false},\"commentLikesAllowed\":true,\"commentAnonAllowed\":true,\"commentThreaded\":true,\"commentApprovalRequired\":false,\"commentAvatarsOn\":true,\"commentSortType\":2,\"commentFlagThreshold\":0,\"commentFlagsAllowed\":true,\"commentEnableByDefault\":true,\"commentDisableAfterDaysDefault\":0,\"disqusShortname\":\"\",\"commentsEnabled\":false,\"contactPhoneNumber\":\"800-326-0906\",\"businessHours\":{\"monday\":{\"text\":\"\",\"ranges\":[{}]},\"tuesday\":{\"text\":\"\",\"ranges\":[{}]},\"wednesday\":{\"text\":\"\",\"ranges\":[{}]},\"thursday\":{\"text\":\"\",\"ranges\":[{}]},\"friday\":{\"text\":\"\",\"ranges\":[{}]},\"saturday\":{\"text\":\"\",\"ranges\":[{}]},\"sunday\":{\"text\":\"\",\"ranges\":[{}]}},\"storeSettings\":{\"returnPolicy\":null,\"termsOfService\":null,\"privacyPolicy\":null,\"expressCheckout\":false,\"continueShoppingLinkUrl\":\"/\",\"useLightCart\":false,\"showNoteField\":false,\"shippingCountryDefaultValue\":\"US\",\"billToShippingDefaultValue\":false,\"showShippingPhoneNumber\":true,\"isShippingPhoneRequired\":false,\"showBillingPhoneNumber\":true,\"isBillingPhoneRequired\":false,\"currenciesSupported\":[\"CHF\",\"HKD\",\"MXN\",\"EUR\",\"DKK\",\"USD\",\"CAD\",\"MYR\",\"NOK\",\"THB\",\"AUD\",\"SGD\",\"ILS\",\"PLN\",\"GBP\",\"CZK\",\"SEK\",\"NZD\",\"PHP\",\"RUB\"],\"defaultCurrency\":\"USD\",\"selectedCurrency\":\"USD\",\"measurementStandard\":1,\"showCustomCheckoutForm\":false,\"enableMailingListOptInByDefault\":false,\"contactLocation\":{\"addressLine1\":\"PO
+        Box 90\",\"addressLine2\":\"Eastwood, KY 40018\",\"addressCountry\":\"United
+        States of America\"},\"businessName\":\"Kentucky Corn Growers Association,
+        Inc.\",\"sameAsRetailLocation\":false,\"businessId\":\"\",\"merchandisingSettings\":{\"scarcityEnabledOnProductItems\":false,\"scarcityEnabledOnProductBlocks\":false,\"scarcityMessageType\":\"DEFAULT_SCARCITY_MESSAGE\",\"scarcityThreshold\":10,\"multipleQuantityAllowedForServices\":true,\"restockNotificationsEnabled\":false,\"restockNotificationsMailingListSignUpEnabled\":false,\"relatedProductsEnabled\":false,\"relatedProductsOrdering\":\"random\",\"soldOutVariantsDropdownDisabled\":false,\"productComposerOptedIn\":false,\"productComposerABTestOptedOut\":false},\"isLive\":false,\"multipleQuantityAllowedForServices\":true},\"useEscapeKeyToLogin\":true,\"trialAssistantEnabled\":true,\"ssBadgeType\":1,\"ssBadgePosition\":4,\"ssBadgeVisibility\":1,\"ssBadgeDevices\":1,\"pinterestOverlayOptions\":{\"mode\":\"disabled\"},\"ampEnabled\":false},\"cookieSettings\":{\"isCookieBannerEnabled\":false,\"isRestrictiveCookiePolicyEnabled\":false,\"isRestrictiveCookiePolicyAbsolute\":false,\"cookieBannerText\":\"\",\"cookieBannerTheme\":\"\",\"cookieBannerVariant\":\"\",\"cookieBannerPosition\":\"\",\"cookieBannerCtaVariant\":\"\",\"cookieBannerCtaText\":\"\"},\"websiteCloneable\":false,\"collection\":{\"title\":\"Kentucky
+        Corn Growers Association News\",\"id\":\"5a0b95c90d9297effccc01b4\",\"fullUrl\":\"/news\",\"type\":1,\"permissionType\":1},\"subscribed\":false,\"appDomain\":\"squarespace.com\",\"templateTweakable\":true,\"tweakJSON\":{\"aspect-ratio\":\"Auto\",\"gallery-arrow-style\":\"No
+        Background\",\"gallery-aspect-ratio\":\"3:2 Standard\",\"gallery-auto-crop\":\"true\",\"gallery-autoplay\":\"false\",\"gallery-design\":\"Slideshow\",\"gallery-info-overlay\":\"Show
+        on Hover\",\"gallery-loop\":\"false\",\"gallery-navigation\":\"Bullets\",\"gallery-show-arrows\":\"true\",\"gallery-transitions\":\"Fade\",\"galleryArrowBackground\":\"rgba(34,34,34,1)\",\"galleryArrowColor\":\"rgba(255,255,255,1)\",\"galleryAutoplaySpeed\":\"3\",\"galleryCircleColor\":\"rgba(255,255,255,1)\",\"galleryInfoBackground\":\"rgba(0,
+        0, 0, .7)\",\"galleryThumbnailSize\":\"100px\",\"gridSize\":\"350px\",\"gridSpacing\":\"20px\",\"tweak-blog-list-columns\":\"3\",\"tweak-blog-list-item-image-aspect-ratio-grid\":\"1:1
+        Square\",\"tweak-blog-list-item-image-aspect-ratio-stacked\":\"1:1 Square\",\"tweak-blog-list-item-image-show\":\"true\",\"tweak-blog-list-spacing\":\"35px\",\"tweak-blog-list-style\":\"Grid\",\"tweak-footer-layout\":\"Stacked\",\"tweak-header-bottom-overlay-on-index-gallery\":\"false\",\"tweak-index-gallery-apply-bottom-spacing\":\"true\",\"tweak-index-gallery-autoplay-duration\":\"2\",\"tweak-index-gallery-autoplay-enable\":\"true\",\"tweak-index-gallery-fixed-height\":\"true\",\"tweak-index-gallery-height\":\"100vh\",\"tweak-index-gallery-indicators\":\"Lines\",\"tweak-index-gallery-layout\":\"Split\",\"tweak-index-gallery-transition\":\"Fade\",\"tweak-index-gallery-transition-duration\":\"500\",\"tweak-index-nav-position\":\"Right\",\"tweak-index-page-apply-bottom-spacing\":\"false\",\"tweak-index-page-fullscreen\":\"First
+        Page Only\",\"tweak-index-page-min-height\":\"80vh\",\"tweak-mobile-breakpoint\":\"640px\",\"tweak-overlay-parallax-enabled\":\"false\",\"tweak-overlay-parallax-new-math\":\"false\",\"tweak-product-item-image-zoom-factor\":\"2\",\"tweak-product-list-item-hover-behavior\":\"Show
+        Alternate Image\",\"tweak-product-list-items-per-row\":\"3\",\"tweak-related-products-items-per-row\":\"3\",\"tweak-related-products-title-spacing\":\"50px\",\"tweak-site-ajax-loading-enable\":\"false\",\"tweak-site-border-show\":\"false\",\"tweak-site-border-width\":\"50px\"},\"templateId\":\"55f0aac0e4b0f0a5b7e0b22e\",\"templateVersion\":\"7\",\"pageFeatures\":[1,2,4],\"gmRenderKey\":\"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4\",\"betaFeatureFlags\":[\"generic_iframe_loader_for_campaigns\",\"product_composer_feedback_form_on_save\",\"seven-one-menu-overlay-theme-switcher\",\"domain_deletion_via_registrar_service\",\"dg_downloads_from_fastly\",\"domains_transfer_flow_improvements\",\"domain_info_via_registrar_service\",\"animations_august_2020_new_preset\",\"commerce_minimum_order_amount\",\"mobile_preview_page_editing\",\"seven_one_frontend_render_gallery_section\",\"events_panel_70\",\"seven_one_frontend_render_page_section\",\"domain_locking_via_registrar_service\",\"seven_one_reduce_catalog_requests\",\"newsletter_block_captcha\",\"commerce_tax_panel_v2\",\"ORDERS-SERVICE-check-digital-good-access-with-service\",\"commerce_activation_experiment_add_payment_processor_card\",\"commerce_category_id_discounts_enabled\",\"nested_categories_migration_enabled\",\"seven_one_image_overlay_opacity\",\"commerce-recaptcha-enterprise\",\"local_listings\",\"commerce_instagram_product_checkout_links\",\"commerce_setup_wizard\",\"crm_campaigns_sending\",\"domains_allow_async_gsuite\",\"seven-one-content-preview-section-api\",\"seven_one_portfolio_hover_layouts\",\"ORDERS-SERVICE-reset-digital-goods-access-with-service\",\"seven_one_image_effects\",\"gallery_captions_71\",\"domains_transfer_flow_hide_preface\",\"seven_one_header_editor_update\",\"commerce_subscription_order_delay\",\"commerce_pdp_survey_modal\",\"domains_universal_search\",\"campaigns_single_opt_in\",\"ORDER_SERVICE-submit-reoccurring-subscription-order-through-service\",\"donations_customer_accounts\",\"customer_notifications_panel_v2\",\"seven_one_theme_mapper_v3\",\"seven-one-main-content-preview-api\",\"commerce_pdp_edit_mode\",\"ORDER_SERVICE-submit-subscription-order-through-service\",\"commerce_restock_notifications\",\"domains_use_new_domain_connect_strategy\"],\"yuiEliminationExperimentList\":[{\"name\":\"statsMigrationJobWidget-enabled\",\"experimentType\":\"AB_TEST\",\"variant\":\"true\",\"containsError\":false,\"status\":\"ACTIVE\"},{\"name\":\"ContributionConfirmed-enabled\",\"experimentType\":\"AB_TEST\",\"variant\":\"false\",\"containsError\":false,\"status\":\"ACTIVE\"},{\"name\":\"TextPusher-enabled\",\"experimentType\":\"AB_TEST\",\"variant\":\"true\",\"containsError\":false,\"status\":\"ACTIVE\"},{\"name\":\"MenuItemWithProgress-enabled\",\"experimentType\":\"AB_TEST\",\"variant\":\"true\",\"containsError\":false,\"status\":\"ACTIVE\"},{\"name\":\"imageProcJobWidget-enabled\",\"experimentType\":\"AB_TEST\",\"variant\":\"true\",\"containsError\":false,\"status\":\"ACTIVE\"},{\"name\":\"QuantityChangePreview-enabled\",\"experimentType\":\"AB_TEST\",\"variant\":\"true\",\"containsError\":false,\"status\":\"ACTIVE\"},{\"name\":\"CompositeModel-enabled\",\"experimentType\":\"AB_TEST\",\"variant\":\"true\",\"containsError\":false,\"status\":\"ACTIVE\"},{\"name\":\"HasPusherMixin-enabled\",\"experimentType\":\"AB_TEST\",\"variant\":\"true\",\"containsError\":false,\"status\":\"INACTIVE\"},{\"name\":\"ProviderList-enabled\",\"experimentType\":\"AB_TEST\",\"variant\":\"true\",\"containsError\":false,\"status\":\"ACTIVE\"},{\"name\":\"MediaTracker-enabled\",\"experimentType\":\"AB_TEST\",\"variant\":\"false\",\"containsError\":false,\"status\":\"ACTIVE\"},{\"name\":\"pushJobWidget-enabled\",\"experimentType\":\"AB_TEST\",\"variant\":\"true\",\"containsError\":false,\"status\":\"ACTIVE\"},{\"name\":\"internal-enabled\",\"experimentType\":\"AB_TEST\",\"variant\":\"true\",\"containsError\":false,\"status\":\"ACTIVE\"},{\"name\":\"BillingPanel-enabled\",\"experimentType\":\"AB_TEST\",\"variant\":\"false\",\"containsError\":false,\"status\":\"ACTIVE\"},{\"name\":\"PopupOverlayEditor-enabled\",\"experimentType\":\"AB_TEST\",\"variant\":\"true\",\"containsError\":false,\"status\":\"ACTIVE\"},{\"name\":\"CoverPagePicker-enabled\",\"experimentType\":\"AB_TEST\",\"variant\":\"true\",\"containsError\":false,\"status\":\"ACTIVE\"}],\"impersonatedSession\":false,\"tzData\":{\"zones\":[[-300,\"US\",\"E%sT\",null]],\"rules\":{\"US\":[[1967,2006,null,\"Oct\",\"lastSun\",\"2:00\",\"0\",\"S\"],[1987,2006,null,\"Apr\",\"Sun>=1\",\"2:00\",\"1:00\",\"D\"],[2007,\"max\",null,\"Mar\",\"Sun>=8\",\"2:00\",\"1:00\",\"D\"],[2007,\"max\",null,\"Nov\",\"Sun>=1\",\"2:00\",\"0\",\"S\"]]}}};</script><script
+        type=\"text/javascript\"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link
+        rel=\"alternate\" type=\"application/rss+xml\" title=\"RSS Feed\" href=\"https://www.kycorn.org/news?format=rss\"
+        />\n<script type=\"application/ld+json\">{\"url\":\"https://www.kycorn.org\",\"name\":\"Kentucky
+        Corn Growers Association\",\"description\":\"<p>The Kentucky Corn Growers
+        Association is dedicated to growing opportunities for Kentucky corn farmers
+        in a changing industry. This grassroots organization, founded in 1982, represents
+        the interests of more than 6,000 corn farmers in the Commonwealth.&nbsp;</p>\",\"image\":\"//static1.squarespace.com/static/5a0a13de9f07f5184474e073/t/5a0a149b0d92971978575c06/1604930859169/\",\"@context\":\"http://schema.org\",\"@type\":\"WebSite\"}</script><script
+        type=\"application/ld+json\">{\"legalName\":\"Kentucky Corn Growers Association,
+        Inc.\",\"address\":\"\",\"email\":\"info@kycorn.org\",\"telephone\":\"800-326-0906\",\"sameAs\":[\"http://www.facebook.com/KyCornKySGGA\"],\"@context\":\"http://schema.org\",\"@type\":\"Organization\"}</script><script
+        type=\"application/ld+json\">{\"address\":\"PO Box 90\\nEastwood, KY 40018\\nUnited
+        States of America\",\"image\":\"https://static1.squarespace.com/static/5a0a13de9f07f5184474e073/t/5a0a149b0d92971978575c06/1604930859169/\",\"name\":\"Kentucky
+        Corn Growers Association, Inc.\",\"openingHours\":\", , , , , , \",\"@context\":\"http://schema.org\",\"@type\":\"LocalBusiness\"}</script><link
+        rel=\"stylesheet\" type=\"text/css\" href=\"//static1.squarespace.com/static/sitecss/5a0a13de9f07f5184474e073/33/55f0aac0e4b0f0a5b7e0b22e/5a0a13de9f07f5184474e088/341-05142015/1597432378870/site.css?&filterFeatures=false\"/><script>Static.COOKIE_BANNER_CAPABLE
+        = true;</script>\n<!-- End of Squarespace Headers -->\n  </head>\n  <body
+        id=\"collection-5a0b95c90d9297effccc01b4\" class=\"tweak-social-icons-style-regular
+        tweak-social-icons-shape-square tweak-site-width-option-full-background tweak-icon-weight-light
+        \  tweak-site-ajax-loading-bar-show ancillary-header-top-left-layout-horizontal
+        ancillary-header-top-center-layout-horizontal ancillary-header-top-right-layout-horizontal
+        ancillary-header-bottom-left-layout-horizontal ancillary-header-bottom-center-layout-horizontal
+        ancillary-header-bottom-right-layout-horizontal ancillary-header-branding-position-top-left
+        ancillary-header-tagline-position-hide ancillary-header-primary-nav-position-top-right
+        ancillary-header-secondary-nav-position-top-right ancillary-header-social-position-top-right
+        ancillary-header-search-position-top-right ancillary-header-cart-position-top-right
+        ancillary-header-account-position-hide tweak-header-primary-nav-hover-style-spotlight
+        tweak-header-primary-nav-button-style-solid tweak-header-primary-nav-button-shape-square
+        tweak-header-secondary-nav-inherit-styles tweak-header-secondary-nav-hover-style-spotlight
+        tweak-header-secondary-nav-button-style-solid tweak-header-secondary-nav-button-shape-square
+        tweak-header-search-style-underlined tweak-header-search-placeholder-show
+        tweak-header-cart-style-text tweak-header-account-style-text   tweak-index-nav-style-none
+        tweak-index-nav-position-right tweak-index-nav-text-show tweak-index-page-fullscreen-first-page-only
+        \ tweak-index-page-scroll-indicator-none tweak-index-page-scroll-indicator-icon-arrow
+        tweak-index-page-scroll-indicator-icon-weight-hairline  tweak-index-gallery-layout-split
+        tweak-index-gallery-spacing-sides-show tweak-index-gallery-spacing-top-bottom-show
+        tweak-index-gallery-fixed-height tweak-index-gallery-apply-bottom-spacing
+        tweak-index-gallery-hover-style-fade tweak-index-gallery-controls-small-arrows
+        tweak-index-gallery-controls-icon-weight-hairline tweak-index-gallery-indicators-lines
+        tweak-index-gallery-autoplay-enable tweak-index-gallery-transition-fade tweak-index-gallery-content-position-top-left
+        tweak-index-gallery-content-text-alignment-left tweak-footer-show tweak-footer-layout-stacked
+        tweak-footer-layout-columns-auto tweak-footer-stacked-alignment-center   tweak-mobile-bar-top-fixed
+        ancillary-mobile-bar-branding-position-top-left ancillary-mobile-bar-menu-icon-position-top-right
+        tweak-mobile-bar-menu-icon-hamburger ancillary-mobile-bar-search-icon-position-hide
+        ancillary-mobile-bar-cart-position-bottom-center tweak-mobile-bar-cart-style-cart
+        ancillary-mobile-bar-account-position-hide tweak-mobile-bar-account-style-text
+        tweak-mobile-overlay-slide-origin-left tweak-mobile-overlay-close-show  tweak-mobile-overlay-menu-primary-button-style-solid
+        tweak-mobile-overlay-menu-primary-button-shape-square   tweak-mobile-overlay-menu-secondary-button-style-solid
+        tweak-mobile-overlay-menu-secondary-button-shape-square tweak-quote-block-alignment-left
+        \ tweak-blog-meta-primary-date tweak-blog-meta-secondary-none tweak-blog-list-style-grid
+        tweak-blog-list-separator-show tweak-blog-list-alignment-left tweak-blog-list-item-image-show
+        tweak-blog-list-item-image-aspect-ratio-grid-11-square tweak-blog-list-item-image-aspect-ratio-stacked-11-square
+        tweak-blog-list-item-title-show tweak-blog-list-item-excerpt-show tweak-blog-list-item-body-show
+        tweak-blog-list-item-readmore-inline tweak-blog-list-item-meta-position-above-title
+        tweak-blog-list-pagination-link-label-show  tweak-blog-list-pagination-link-icon-weight-light
+        tweak-blog-item-alignment-center tweak-blog-item-meta-position-above-title
+        tweak-blog-item-share-position-below-content  tweak-blog-item-pagination-link-label-show
+        tweak-blog-item-pagination-link-title-show tweak-blog-item-pagination-link-meta-hide
+        tweak-blog-item-pagination-link-icon-weight-light   event-thumbnails event-thumbnail-size-32-standard
+        event-date-label  event-list-show-cats event-list-date event-list-time event-list-address
+        \    event-excerpts  event-item-back-link    gallery-design-slideshow aspect-ratio-auto
+        lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover
+        gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade
+        gallery-show-arrows gallery-auto-crop   tweak-product-list-image-aspect-ratio-11-square
+        tweak-product-list-item-hover-behavior-show-alternate-image tweak-product-list-meta-position-under
+        tweak-product-list-mobile-meta-position-under tweak-product-list-meta-alignment-under-center
+        tweak-product-list-meta-alignment-overlay-center-center tweak-product-list-show-title
+        tweak-product-list-show-price tweak-product-list-filter-display-top tweak-product-list-filter-alignment-center
+        tweak-product-item-nav-show-breadcrumb-and-pagination tweak-product-item-nav-pagination-style-previousnext
+        tweak-product-item-nav-breadcrumb-alignment-left tweak-product-item-nav-pagination-alignment-split
+        tweak-product-item-gallery-position-left tweak-product-item-gallery-design-stacked
+        tweak-product-item-gallery-aspect-ratio-11-square tweak-product-item-gallery-thumbnail-alignment-left
+        tweak-product-item-details-alignment-left tweak-product-item-details-show-title
+        tweak-product-item-details-show-price tweak-product-item-details-show-excerpt
+        tweak-product-item-details-excerpt-position-below-price tweak-product-item-details-show-share-buttons
+        tweak-product-item-details-show-variants tweak-product-item-details-show-quantity
+        tweak-product-item-details-options-style-square tweak-product-item-details-show-add-to-cart-button
+        tweak-product-item-details-add-to-cart-button-style-outline tweak-product-item-details-add-to-cart-button-shape-square
+        tweak-product-item-details-add-to-cart-button-padding-medium  tweak-product-item-image-zoom-behavior-click
+        tweak-product-item-lightbox-enabled tweak-related-products-image-aspect-ratio-11-square
+        tweak-related-products-meta-alignment-under-center tweak-product-badge-style-none
+        tweak-product-badge-position-top-right tweak-product-badge-inset-floating
+        newsletter-style-dark hide-opentable-icons opentable-style-dark small-button-style-outline
+        small-button-shape-square medium-button-style-outline medium-button-shape-rounded
+        large-button-style-outline large-button-shape-rounded image-block-poster-text-alignment-center
+        image-block-card-dynamic-font-sizing image-block-card-content-position-center
+        image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing
+        image-block-overlap-content-position-center image-block-overlap-text-alignment-left
+        image-block-collage-dynamic-font-sizing image-block-collage-content-position-top
+        image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing
+        image-block-stack-text-alignment-left button-style-outline button-corner-style-rounded
+        tweak-product-quick-view-button-style-docked tweak-product-quick-view-button-position-center
+        tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows
+        tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light
+        tweak-share-buttons-style-outline tweak-share-buttons-icons-show  tweak-share-buttons-counts-show
+        tweak-share-buttons-standard-icon-color tweak-share-buttons-standard-background-color
+        native-currency-code-usd collection-5a0b95c90d9297effccc01b4 collection-type-blog
+        collection-layout-default view-list mobile-style-available sqs-has-custom-cart
+        has-logo-image has-tagline has-social has-parallax-images enable-load-effects
+        has-primary-nav has-footer-nav\" data-controller=\"HashManager, SiteLoader,
+        MobileClassname\">\n\n    <div class=\"Loader\"></div>\n\n    <div class=\"Mobile\"
+        data-nc-base=\"mobile-bar\" data-controller=\"AncillaryLayout\">\n  <div class=\"Mobile-bar
+        Mobile-bar--top\" data-nc-group=\"top\" data-controller=\"MobileOffset\">\n\n
+        \   <div data-nc-container=\"top-left\">\n      <a href=\"/\" class=\"Mobile-bar-branding\"
+        data-nc-element=\"branding\" data-content-field=\"site-title\">\n        \n
+        \         \n            <img src=\"//static1.squarespace.com/static/5a0a13de9f07f5184474e073/t/5a0a149b0d92971978575c06/1604930859169/?format=1500w\"
+        alt=\"Kentucky Corn Growers Association\" class=\"Mobile-bar-branding-logo\"
+        />\n          \n        \n      </a>\n    </div>\n    <div data-nc-container=\"top-center\"></div>\n
+        \   <div data-nc-container=\"top-right\"></div>\n  </div>\n  <div class=\"Mobile-bar
+        Mobile-bar--bottom\" data-nc-group=\"bottom\" data-controller=\"MobileOffset\">\n
+        \   <div data-nc-container=\"bottom-left\">\n      <button class=\"Mobile-bar-menu\"
+        data-nc-element=\"menu-icon\" data-controller-overlay=\"menu\" data-controller=\"MobileOverlayToggle\">\n
+        \       <svg class=\"Icon Icon--hamburger\" viewBox=\"0 0 24 18\">\n          <use
+        xlink:href=\"/assets/ui-icons.svg#hamburger-icon--even\" class=\"use--even\"></use>\n
+        \         <use xlink:href=\"/assets/ui-icons.svg#hamburger-icon--odd\" class=\"use--odd\"></use>\n
+        \       </svg>\n        <svg class=\"Icon Icon--hotdog\" viewBox=\"0 0 24
+        14\">\n          <use xlink:href=\"/assets/ui-icons.svg#hotdog-icon--even\"
+        class=\"use--even\"></use>\n          <use xlink:href=\"/assets/ui-icons.svg#hotdog-icon--odd\"
+        class=\"use--odd\"></use>\n        </svg>\n        <svg class=\"Icon Icon--plus\"
+        viewBox=\"0 0 20 20\">\n          <use xlink:href=\"/assets/ui-icons.svg#plus-icon--even\"
+        class=\"use--even\"></use>\n          <use xlink:href=\"/assets/ui-icons.svg#plus-icon--odd\"
+        class=\"use--odd\"></use>\n        </svg>\n        <svg class=\"Icon Icon--dots-horizontal\"
+        viewBox=\"0 0 25 7\">\n          <use xlink:href=\"/assets/ui-icons.svg#dots-horizontal-icon--even\"
+        class=\"use--even\"></use>\n          <use xlink:href=\"/assets/ui-icons.svg#dots-horizontal-icon--odd\"
+        class=\"use--odd\"></use>\n        </svg>\n        <svg class=\"Icon Icon--dots-vertical\"
+        viewBox=\"0 0 7 25\">\n          <use xlink:href=\"/assets/ui-icons.svg#dots-vertical-icon--even\"
+        class=\"use--even\"></use>\n          <use xlink:href=\"/assets/ui-icons.svg#dots-vertical-icon--odd\"
+        class=\"use--odd\"></use>\n        </svg>\n        <svg class=\"Icon Icon--squares-horizontal\"
+        viewBox=\"0 0 25 7\">\n          <use xlink:href=\"/assets/ui-icons.svg#squares-horizontal-icon--even\"
+        class=\"use--even\"></use>\n          <use xlink:href=\"/assets/ui-icons.svg#squares-horizontal-icon--odd\"
+        class=\"use--odd\"></use>\n        </svg>\n        <svg class=\"Icon Icon--squares-vertical\"
+        viewBox=\"0 0 7 25\">\n          <use xlink:href=\"/assets/ui-icons.svg#squares-vertical-icon--even\"
+        class=\"use--even\"></use>\n          <use xlink:href=\"/assets/ui-icons.svg#squares-vertical-icon--odd\"
+        class=\"use--odd\"></use>\n        </svg>\n      </button>\n    </div>\n    <div
+        data-nc-container=\"bottom-center\">\n      \n    </div>\n    <div data-nc-container=\"bottom-right\">\n
+        \     \n      <a href=\"/search\" class=\"Mobile-bar-search\" data-nc-element=\"search-icon\">\n
+        \       <svg class=\"Icon Icon--search\" viewBox=\"0 0 20 20\">\n          <use
+        xlink:href=\"/assets/ui-icons.svg#search-icon\"></use>\n        </svg>\n      </a>\n
+        \   </div>\n  </div>\n\n  <div class=\"Mobile-overlay\">\n    <div class=\"Mobile-overlay-menu\"
+        data-controller=\"MobileOverlayFolders\">\n      <div class=\"Mobile-overlay-menu-main\">\n
+        \       <nav class=\"Mobile-overlay-nav Mobile-overlay-nav--primary\" data-content-field=\"navigation\">\n
+        \         \n  \n    \n    \n      <a href=\"/index\" class=\"Mobile-overlay-nav-item\">\n
+        \       Home\n      </a>\n    \n  \n    \n      \n        \n          <button
+        class=\"Mobile-overlay-nav-item Mobile-overlay-nav-item--folder\" data-controller-folder-toggle=\"about-kycorn\">\n
+        \           <span class=\"Mobile-overlay-nav-item--folder-label\">About KyCorn</span>\n
+        \         </button>\n        \n      \n    \n    \n  \n    \n      \n        \n
+        \         <a href=\"/news\" class=\"Mobile-overlay-nav-item\">\n            News\n
+        \         </a>\n        \n      \n    \n    \n  \n    \n      \n        \n
+        \         <a href=\"/events\" class=\"Mobile-overlay-nav-item\">\n            Events\n
+        \         </a>\n        \n      \n    \n    \n  \n    \n      \n        \n
+        \         <button class=\"Mobile-overlay-nav-item Mobile-overlay-nav-item--folder\"
+        data-controller-folder-toggle=\"education\">\n            <span class=\"Mobile-overlay-nav-item--folder-label\">Education</span>\n
+        \         </button>\n        \n      \n    \n    \n  \n    \n      \n        \n
+        \         <button class=\"Mobile-overlay-nav-item Mobile-overlay-nav-item--folder\"
+        data-controller-folder-toggle=\"markets\">\n            <span class=\"Mobile-overlay-nav-item--folder-label\">Markets</span>\n
+        \         </button>\n        \n      \n    \n    \n  \n    \n      \n        \n
+        \         <a href=\"/research\" class=\"Mobile-overlay-nav-item\">\n            Research\n
+        \         </a>\n        \n      \n    \n    \n  \n    \n      \n        \n
+        \         <a href=\"/policy\" class=\"Mobile-overlay-nav-item\">\n            Policy\n
+        \         </a>\n        \n      \n    \n    \n  \n\n        </nav>\n        <nav
+        class=\"Mobile-overlay-nav Mobile-overlay-nav--secondary\" data-content-field=\"navigation\">\n
+        \         \n        </nav>\n      </div>\n      <div class=\"Mobile-overlay-folders\"
+        data-content-field=\"navigation\">\n        \n  \n\n  \n    <div class=\"Mobile-overlay-folder\"
+        data-controller-folder=\"about-kycorn\">\n      <button class=\"Mobile-overlay-folder-item
+        Mobile-overlay-folder-item--toggle\" data-controller-folder-toggle=\"about-kycorn\">\n
+        \       <span class=\"Mobile-overlay-folder-item--toggle-label\">Back</span>\n
+        \     </button>\n      \n        \n          <a href=\"/whatwedo\" class=\"Mobile-overlay-folder-item\">\n
+        \           Mission and Leadership\n          </a>\n        \n      \n        \n
+        \         <a href=\"/membership\" class=\"Mobile-overlay-folder-item\">\n
+        \           Membership\n          </a>\n        \n      \n        \n          <a
+        href=\"/ky-corn-promotion-council\" class=\"Mobile-overlay-folder-item\">\n
+        \           Ky Corn Promotion Council\n          </a>\n        \n      \n
+        \       \n          <a href=\"/staff\" class=\"Mobile-overlay-folder-item\">\n
+        \           Staff\n          </a>\n        \n      \n        \n          <a
+        href=\"/annual-report\" class=\"Mobile-overlay-folder-item\">\n            Annual
+        Report\n          </a>\n        \n      \n        \n          <a href=\"/checkoff-faqs\"
+        class=\"Mobile-overlay-folder-item\">\n            Checkoff FAQs\n          </a>\n
+        \       \n      \n    </div>\n  \n\n  \n\n  \n\n  \n    <div class=\"Mobile-overlay-folder\"
+        data-controller-folder=\"education\">\n      <button class=\"Mobile-overlay-folder-item
+        Mobile-overlay-folder-item--toggle\" data-controller-folder-toggle=\"education\">\n
+        \       <span class=\"Mobile-overlay-folder-item--toggle-label\">Back</span>\n
+        \     </button>\n      \n        \n          <a href=\"/ky-corn-facts\" class=\"Mobile-overlay-folder-item\">\n
+        \           Ky Corn Facts\n          </a>\n        \n      \n        \n          <a
+        href=\"/production-resources\" class=\"Mobile-overlay-folder-item\">\n            Production
+        Resources\n          </a>\n        \n      \n        \n          <a href=\"/core\"
+        class=\"Mobile-overlay-folder-item\">\n            CORE Farmer Program\n          </a>\n
+        \       \n      \n        \n          <a href=\"/scholarships\" class=\"Mobile-overlay-folder-item\">\n
+        \           Scholarships\n          </a>\n        \n      \n        \n          <a
+        href=\"/ageducation\" class=\"Mobile-overlay-folder-item\">\n            Ag
+        Education Programs\n          </a>\n        \n      \n        \n          <a
+        href=\"/classroom-resources\" class=\"Mobile-overlay-folder-item\">\n            Classroom
+        Resources\n          </a>\n        \n      \n    </div>\n  \n\n  \n    <div
+        class=\"Mobile-overlay-folder\" data-controller-folder=\"markets\">\n      <button
+        class=\"Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle\" data-controller-folder-toggle=\"markets\">\n
+        \       <span class=\"Mobile-overlay-folder-item--toggle-label\">Back</span>\n
+        \     </button>\n      \n        \n          <a href=\"/ethanol\" class=\"Mobile-overlay-folder-item\">\n
+        \           Ethanol\n          </a>\n        \n      \n        \n          <a
+        href=\"/distilled-spirits\" class=\"Mobile-overlay-folder-item\">\n            Distilled
+        Spirits\n          </a>\n        \n      \n        \n          <a href=\"/trade\"
+        class=\"Mobile-overlay-folder-item\">\n            Trade\n          </a>\n
+        \       \n      \n        \n          <a href=\"/livestock-feed\" class=\"Mobile-overlay-folder-item\">\n
+        \           Livestock Feed\n          </a>\n        \n      \n    </div>\n
+        \ \n\n  \n\n  \n\n        \n      </div>\n    </div>\n    <button class=\"Mobile-overlay-close\"
+        data-controller=\"MobileOverlayToggle\">\n      <svg class=\"Icon Icon--close\"
+        viewBox=\"0 0 16 16\">\n        <use xlink:href=\"/assets/ui-icons.svg#close-icon\"></use>\n
+        \     </svg>\n    </button>\n    <div class=\"Mobile-overlay-back\" data-controller=\"MobileOverlayToggle\"></div>\n
+        \ </div>\n</div>\n\n\n    <div class=\"Parallax-host-outer\">\n      <div
+        class=\"Parallax-host\" data-parallax-host>\n        \n          \n            \n
+        \             \n                \n                \n                  \n                    <div
+        class=\"Parallax-item\" data-parallax-item data-parallax-id=\"5a0b95c90d9297effccc01b4\"></div>\n
+        \                 \n                \n              \n            \n          \n
+        \       \n      </div>\n    </div>\n\n    <div class=\"Site\" data-nc-base=\"header\"
+        data-controller=\"AncillaryLayout\">\n      <div class=\"sqs-announcement-bar-dropzone\"></div>\n\n
+        \     <header class=\"Header Header--top\">\n        <div class=\"Header-inner
+        Header-inner--top\" data-nc-group=\"top\">\n          <div data-nc-container=\"top-left\">\n\n
+        \           <div class=\"Header-search\" data-nc-element=\"search\">\n              <form
+        class=\"Header-search-form\" action=\"/search\" method=\"get\">\n                <input
+        class=\"Header-search-form-input\" name=\"q\" type=\"text\" spellcheck=\"false\"
+        value=\"\" autocomplete=\"off\" placeholder=\"Search\" />\n                <button
+        class=\"Header-search-form-submit\" type=\"submit\" data-test=\"template-search\">\n
+        \                 <svg class=\"Icon Icon--search--small\" viewBox=\"0 0 15
+        15\">\n                    <use xlink:href=\"/assets/ui-icons.svg#search-icon--small\"></use>\n
+        \                 </svg>\n                  <svg class=\"Icon Icon--search\"
+        viewBox=\"0 0 20 20\">\n                    <use xlink:href=\"/assets/ui-icons.svg#search-icon\"></use>\n
+        \                 </svg>\n                </button>\n              </form>\n
+        \           </div>\n\n          </div>\n          <div data-nc-container=\"top-center\">\n
+        \           \n            \n              <div class=\"Header-social\" data-nc-element=\"social\">\n
+        \               \n  <nav class=\"SocialLinks\" data-content-field=\"connected-accounts\">\n
+        \   <div class=\"SocialLinks-inner\">\n    <a href=\"http://www.facebook.com/KyCornKySGGA\"
+        target=\"_blank\" class=\"SocialLinks-link facebook\" style=\"\">\n        <div>\n
+        \         <svg class=\"SocialLinks-link-svg\" viewBox=\"0 0 64 64\">\n            \n
+        \           <use class=\"SocialLinks-link-icon\" xlink:href=\"#facebook-icon\"></use>\n
+        \           <use class=\"SocialLinks-link-mask\" xlink:href=\"#facebook-mask\"></use>\n
+        \         </svg>\n        </div>\n      </a>\n    </div>\n  </nav>\n\n              </div>\n
+        \           \n          </div>\n          <div data-nc-container=\"top-right\">\n\n
+        \           \n\n          </div>\n        </div>\n      </header>\n\n      <div
+        class=\"Site-inner\" data-controller=\"HeaderOverlay\">\n\n        <header
+        class=\"Header Header--bottom Header--overlay\">\n          <div class=\"Header-inner
+        Header-inner--bottom\" data-nc-group=\"bottom\">\n            <div data-nc-container=\"bottom-left\">\n
+        \             <nav class=\"Header-nav Header-nav--primary\" data-nc-element=\"primary-nav\"
+        data-content-field=\"navigation\">\n                \n  <div class=\"Header-nav-inner\">\n
+        \   <a href=\"/index\" class=\"Header-nav-item\">Home</a><span class=\"Header-nav-item
+        Header-nav-item--folder\">\n\n      <a href=\"/about-kycorn\" class=\"Header-nav-folder-title\"
+        data-controller=\"HeaderNavFolderTouch\">About KyCorn</a>\n\n      <span class=\"Header-nav-folder\">\n
+        \       \n          \n            <a href=\"/whatwedo\" class=\"Header-nav-folder-item\"
+        data-test=\"template-nav\">Mission and Leadership</a>\n          \n        \n
+        \         \n            <a href=\"/membership\" class=\"Header-nav-folder-item\"
+        data-test=\"template-nav\">Membership</a>\n          \n        \n          \n
+        \           <a href=\"/ky-corn-promotion-council\" class=\"Header-nav-folder-item\"
+        data-test=\"template-nav\">Ky Corn Promotion Council</a>\n          \n        \n
+        \         \n            <a href=\"/staff\" class=\"Header-nav-folder-item\"
+        data-test=\"template-nav\">Staff</a>\n          \n        \n          \n            <a
+        href=\"/annual-report\" class=\"Header-nav-folder-item\" data-test=\"template-nav\">Annual
+        Report</a>\n          \n        \n          \n            <a href=\"/checkoff-faqs\"
+        class=\"Header-nav-folder-item\" data-test=\"template-nav\">Checkoff FAQs</a>\n
+        \         \n        \n      </span>\n    </span><a href=\"/news\" class=\"Header-nav-item
+        Header-nav-item--active\" data-test=\"template-nav\">News</a><a href=\"/events\"
+        class=\"Header-nav-item\" data-test=\"template-nav\">Events</a><span class=\"Header-nav-item
+        Header-nav-item--folder\">\n\n      <a href=\"/education\" class=\"Header-nav-folder-title\"
+        data-controller=\"HeaderNavFolderTouch\">Education</a>\n\n      <span class=\"Header-nav-folder\">\n
+        \       \n          \n            <a href=\"/ky-corn-facts\" class=\"Header-nav-folder-item\"
+        data-test=\"template-nav\">Ky Corn Facts</a>\n          \n        \n          \n
+        \           <a href=\"/production-resources\" class=\"Header-nav-folder-item\"
+        data-test=\"template-nav\">Production Resources</a>\n          \n        \n
+        \         \n            <a href=\"/core\" class=\"Header-nav-folder-item\"
+        data-test=\"template-nav\">CORE Farmer Program</a>\n          \n        \n
+        \         \n            <a href=\"/scholarships\" class=\"Header-nav-folder-item\"
+        data-test=\"template-nav\">Scholarships</a>\n          \n        \n          \n
+        \           <a href=\"/ageducation\" class=\"Header-nav-folder-item\" data-test=\"template-nav\">Ag
+        Education Programs</a>\n          \n        \n          \n            <a href=\"/classroom-resources\"
+        class=\"Header-nav-folder-item\" data-test=\"template-nav\">Classroom Resources</a>\n
+        \         \n        \n      </span>\n    </span><span class=\"Header-nav-item
+        Header-nav-item--folder\">\n\n      <a href=\"/markets\" class=\"Header-nav-folder-title\"
+        data-controller=\"HeaderNavFolderTouch\">Markets</a>\n\n      <span class=\"Header-nav-folder\">\n
+        \       \n          \n            <a href=\"/ethanol\" class=\"Header-nav-folder-item\"
+        data-test=\"template-nav\">Ethanol</a>\n          \n        \n          \n
+        \           <a href=\"/distilled-spirits\" class=\"Header-nav-folder-item\"
+        data-test=\"template-nav\">Distilled Spirits</a>\n          \n        \n          \n
+        \           <a href=\"/trade\" class=\"Header-nav-folder-item\" data-test=\"template-nav\">Trade</a>\n
+        \         \n        \n          \n            <a href=\"/livestock-feed\"
+        class=\"Header-nav-folder-item\" data-test=\"template-nav\">Livestock Feed</a>\n
+        \         \n        \n      </span>\n    </span><a href=\"/research\" class=\"Header-nav-item\"
+        data-test=\"template-nav\">Research</a><a href=\"/policy\" class=\"Header-nav-item\"
+        data-test=\"template-nav\">Policy</a>\n  </div>\n\n              </nav>\n
+        \           </div>\n            <div data-nc-container=\"bottom-center\">\n\n
+        \             <a href=\"/\" class=\"Header-branding\" data-nc-element=\"branding\"
+        data-content-field=\"site-title\">\n                \n                  \n
+        \                   <img src=\"//static1.squarespace.com/static/5a0a13de9f07f5184474e073/t/5a0a149b0d92971978575c06/1604930859169/?format=1500w\"
+        alt=\"Kentucky Corn Growers Association\" class=\"Header-branding-logo\" />\n
+        \                 \n                \n              </a>\n              <div
+        class=\"Header-tagline\" data-nc-element=\"tagline\">Growing opportunities
+        for Kentucky's\_corn farmers in a changing industry.\_</div>\n\n            </div>\n
+        \           <div data-nc-container=\"bottom-right\">\n\n              <nav
+        class=\"Header-nav Header-nav--secondary\" data-nc-element=\"secondary-nav\"
+        data-content-field=\"navigation\">\n                \n              </nav>\n\n
+        \           </div>\n          </div>\n        </header>\n\n        <div class=\"Content-outer\">\n
+        \         \n            \n              <section class=\"Intro Intro--has-image\"
+        data-parallax-original-element data-parallax-id=\"5a0b95c90d9297effccc01b4\"
+        data-controller=\"Parallax\">\n  <div class=\"sqs-layout sqs-grid-12 columns-12
+        Intro-content sqs-alternate-block-style-container\" data-layout-label=\"Intro\"
+        data-type=\"block-field\" data-updated-on=\"1512517136233\" id=\"5a0b95c90d9297effccc01b4_intro\"><div
+        class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block
+        html-block sqs-block-html\" data-block-type=\"2\" id=\"block-da8507c03932ae8e32fa\"><div
+        class=\"sqs-block-content\"><h1>News</h1></div></div></div></div></div>\n
+        \ \n    \n      <figure class=\"Intro-image\" data-parallax-image-wrapper>\n
+        \       \n  <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1512517117618-26NGMMS17GINKZW8IUXC/ke17ZwdGBToddI8pDm48kLSmRHjuiousaj7ESs-Qb2AUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dqkvlsortGtC3GtrJxLflU6J0LodkSKtkob35wKmAjnUZDqXZYzu2fuaodM4POSZ4w/cornfield+at+dusk-banner1.jpg\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1512517117618-26NGMMS17GINKZW8IUXC/ke17ZwdGBToddI8pDm48kLSmRHjuiousaj7ESs-Qb2AUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYy7Mythp_T-mtop-vrsUOmeInPi9iDjx9w8K4ZfjXt2dqkvlsortGtC3GtrJxLflU6J0LodkSKtkob35wKmAjnUZDqXZYzu2fuaodM4POSZ4w/cornfield+at+dusk-banner1.jpg\"
+        data-image-dimensions=\"1500x490\" data-image-focal-point=\"0.5,0.5\" alt=\"cornfield
+        at dusk-banner1.jpg\"  data-load=\"false\" />\n\n      </figure>\n    \n  \n</section>\n
+        \           \n          \n\n          <main class=\"Main Main--blog-list\"
+        >\n            \n              <section class=\"Main-content\" data-content-field=\"main-content\">\n
+        \               <section class=\"BlogList BlogList--posts-excerpt sqs-blog-list
+        clear\" data-columns=\"1\">\n  \n    <article id=\"post-5fa6e46709511e6a4e024091\"
+        class=\"BlogList-item hentry category-production-tips category-research author-jennifer-elwell
+        post-type-text article-index-1 has-categories\" data-item-id=\"5fa6e46709511e6a4e024091\">\n\n
+        \     \n        <div class=\"BlogList-item-image\">\n          <a href=\"/news/2020/11/7/uk-begins-on-farm-variable-rate-irrigation-research\"
+        class=\"BlogList-item-image-link\">\n            <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1604772984137-ELED19NBLTAWJ649ACRX/ke17ZwdGBToddI8pDm48kA9rhCjhJUYcQpKsBaLXN1ZZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIye_uGeP4isZUnhF2J4BSLX0iSmbQA7pLf20f1CNe8SkKMshLAGzx4R3EDFOm1kBS/gilkeyirrigation.jpg\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1604772984137-ELED19NBLTAWJ649ACRX/ke17ZwdGBToddI8pDm48kA9rhCjhJUYcQpKsBaLXN1ZZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIye_uGeP4isZUnhF2J4BSLX0iSmbQA7pLf20f1CNe8SkKMshLAGzx4R3EDFOm1kBS/gilkeyirrigation.jpg\"
+        data-image-dimensions=\"750x500\" data-image-focal-point=\"0.5,0.5\" alt=\"UK
+        begins on-farm variable rate irrigation research\"  data-load=\"false\" />\n
+        \         </a>\n        </div>\n      \n\n\n      <a href=\"https://news.ca.uky.edu/article/uk-begins-farm-variable-rate-irrigation-research\"
+        class=\"BlogList-item-title\" target=\"_blank\" data-content-field=\"title\">UK
+        begins on-farm variable rate irrigation research</a>\n\n      \n        \n
+        \         <div class=\"BlogList-item-excerpt\">\n            <p class=\"\">A
+        University of Kentucky research project that could have significant impacts
+        for Kentucky grain producers with irrigated acres is beginning on a Western
+        Kentucky farm. Ole Wendroth, soil physicist in the UK College of Agriculture,
+        Food and Environment, is leading a study examining the effects of a variable
+        rate irrigation system that, to his knowledge, is the first-of-its-kind in
+        the state.</p>\n            <a href=\"/news/2020/11/7/uk-begins-on-farm-variable-rate-irrigation-research\"
+        class=\"BlogList-item-readmore\">\n              <span>Read More</span>\n
+        \           </a>\n          </div>\n        \n      \n\n      <div class=\"Blog-meta
+        BlogList-item-meta\">\n        <!--\n\n        Categories\n\n        --><span
+        class=\"Blog-meta-item Blog-meta-item--categories\"><a href=\"/news/category/Production+Tips\"
+        class=\"Blog-meta-item-category\">Production Tips</a>, <a href=\"/news/category/Research\"
+        class=\"Blog-meta-item-category\">Research</a></span><!--\n\n        Author\n\n
+        \       --><a href=\"/news?author=56c36c1160b5e9d899abebd0\" class=\"Blog-meta-item
+        Blog-meta-item--author\">Jennifer Elwell</a><!--\n\n        Date\n\n        --><time
+        class=\"Blog-meta-item Blog-meta-item--date\" datetime=\"2020-11-07\">November
+        7, 2020</time>\n      </div>\n\n      \n\n    </article>\n\n  \n    <article
+        id=\"post-5f9890da7b34f832f72c5507\" class=\"BlogList-item hentry category-production-tips
+        category-events author-jennifer-elwell post-type-text article-index-2 has-categories\"
+        data-item-id=\"5f9890da7b34f832f72c5507\">\n\n      \n        <div class=\"BlogList-item-image\">\n
+        \         <a href=\"/news/2020/10/27/uk-fall-crop-protection-webinar-series-begins-in-november\"
+        class=\"BlogList-item-image-link\">\n            <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1603834362946-UT8P39U5WJNMUBZK9579/ke17ZwdGBToddI8pDm48kJiz0-5RQxyREcUG2X9xr3pZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxXB25TwofyowEM6_y2S9lvNGHlNQPngrDv5DttLchSN6CijSWCoS1EuT4OnDU_2Pg/fb-schwenke3.jpg\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1603834362946-UT8P39U5WJNMUBZK9579/ke17ZwdGBToddI8pDm48kJiz0-5RQxyREcUG2X9xr3pZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxXB25TwofyowEM6_y2S9lvNGHlNQPngrDv5DttLchSN6CijSWCoS1EuT4OnDU_2Pg/fb-schwenke3.jpg\"
+        data-image-dimensions=\"720x540\" data-image-focal-point=\"0.5,0.5\" alt=\"UK
+        Fall Crop Protection webinar series begins in November\"  data-load=\"false\"
+        />\n          </a>\n        </div>\n      \n\n\n      <a href=\"/news/2020/10/27/uk-fall-crop-protection-webinar-series-begins-in-november\"
+        class=\"BlogList-item-title\" data-content-field=\"title\">UK Fall Crop Protection
+        webinar series begins in November</a>\n\n      \n        \n          <div
+        class=\"BlogList-item-excerpt\">\n            <p class=\"\">The 2020 Fall
+        Crop Protection webinars begin Nov. 10 on the video conferencing app Zoom
+        and will focus on new and common threats to Kentucky corn, soybeans and wheat.
+        The weekly webinars will occur at 10 a.m. EST on Tuesdays and are hosted through
+        the Southern Integrated Pest Management Center.</p>\n            <a href=\"/news/2020/10/27/uk-fall-crop-protection-webinar-series-begins-in-november\"
+        class=\"BlogList-item-readmore\">\n              <span>Read More</span>\n
+        \           </a>\n          </div>\n        \n      \n\n      <div class=\"Blog-meta
+        BlogList-item-meta\">\n        <!--\n\n        Categories\n\n        --><span
+        class=\"Blog-meta-item Blog-meta-item--categories\"><a href=\"/news/category/Production+Tips\"
+        class=\"Blog-meta-item-category\">Production Tips</a>, <a href=\"/news/category/Events\"
+        class=\"Blog-meta-item-category\">Events</a></span><!--\n\n        Author\n\n
+        \       --><a href=\"/news?author=56c36c1160b5e9d899abebd0\" class=\"Blog-meta-item
+        Blog-meta-item--author\">Jennifer Elwell</a><!--\n\n        Date\n\n        --><time
+        class=\"Blog-meta-item Blog-meta-item--date\" datetime=\"2020-10-27\">October
+        27, 2020</time>\n      </div>\n\n      \n\n    </article>\n\n  \n    <article
+        id=\"post-5f8ddb09e3243b702041eff5\" class=\"BlogList-item hentry category-production-tips
+        author-jennifer-elwell post-type-text article-index-3 has-categories\" data-item-id=\"5f8ddb09e3243b702041eff5\">\n\n
+        \     \n        <div class=\"BlogList-item-image\">\n          <a href=\"/news/2020/10/19/corn-and-soybean-news-october-issue\"
+        class=\"BlogList-item-image-link\">\n            <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1603132194483-ZPW1CBMUFE981T53VWIZ/ke17ZwdGBToddI8pDm48kI-L7XHOfu94U8eKTFqqEul7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmS0k9nmfOWkBD2X4dgpGrpcE02iQUwKKfwvRItep64IRo6jsezAaeFq07AM_31Sp-/corn+soybean+news.JPG\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1603132194483-ZPW1CBMUFE981T53VWIZ/ke17ZwdGBToddI8pDm48kI-L7XHOfu94U8eKTFqqEul7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmS0k9nmfOWkBD2X4dgpGrpcE02iQUwKKfwvRItep64IRo6jsezAaeFq07AM_31Sp-/corn+soybean+news.JPG\"
+        data-image-dimensions=\"1381x1802\" data-image-focal-point=\"0.4989420572916667,0.28\"
+        alt=\"Corn and Soybean News - October Issue\"  data-load=\"false\" />\n          </a>\n
+        \       </div>\n      \n\n\n      <a href=\"https://www.kygrains.info/s/2020-10-cornsoybean.pdf\"
+        class=\"BlogList-item-title\" target=\"_blank\" data-content-field=\"title\">Corn
+        and Soybean News - October Issue</a>\n\n      \n        \n          <div class=\"BlogList-item-excerpt\">\n
+        \           <p class=\"\">Read the latest issue from the University of Kentucky
+        Grain Crops team. </p>\n            <a href=\"/news/2020/10/19/corn-and-soybean-news-october-issue\"
+        class=\"BlogList-item-readmore\">\n              <span>Read More</span>\n
+        \           </a>\n          </div>\n        \n      \n\n      <div class=\"Blog-meta
+        BlogList-item-meta\">\n        <!--\n\n        Categories\n\n        --><span
+        class=\"Blog-meta-item Blog-meta-item--categories\"><a href=\"/news/category/Production+Tips\"
+        class=\"Blog-meta-item-category\">Production Tips</a></span><!--\n\n        Author\n\n
+        \       --><a href=\"/news?author=56c36c1160b5e9d899abebd0\" class=\"Blog-meta-item
+        Blog-meta-item--author\">Jennifer Elwell</a><!--\n\n        Date\n\n        --><time
+        class=\"Blog-meta-item Blog-meta-item--date\" datetime=\"2020-10-19\">October
+        19, 2020</time>\n      </div>\n\n      \n\n    </article>\n\n  \n    <article
+        id=\"post-5f80a7bb0e2e696079ebc616\" class=\"BlogList-item hentry category-ethanol
+        author-jennifer-elwell post-type-text article-index-4 has-categories\" data-item-id=\"5f80a7bb0e2e696079ebc616\">\n\n
+        \     \n        <div class=\"BlogList-item-image\">\n          <a href=\"/news/2020/10/9/biofuels-infrastructure-grants-to-boost-e15-pumps-at-kentucky-retail-locations\"
+        class=\"BlogList-item-image-link\">\n            <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1602267153740-D1L6MOSP0OADWCQSIX2V/ke17ZwdGBToddI8pDm48kObnWIxTs0jlEKIRh-YaCTFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVE40GmxUqC-vegb95HJia9HmnLuYT4hI7YLUHEQ3LNm8Gc1Btc0E2dNe0HOExFTNFk/perdue+caseys.jpg\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1602267153740-D1L6MOSP0OADWCQSIX2V/ke17ZwdGBToddI8pDm48kObnWIxTs0jlEKIRh-YaCTFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVE40GmxUqC-vegb95HJia9HmnLuYT4hI7YLUHEQ3LNm8Gc1Btc0E2dNe0HOExFTNFk/perdue+caseys.jpg\"
+        data-image-dimensions=\"450x840\" data-image-focal-point=\"0.4699160447761194,0.204\"
+        alt=\"Biofuels Infrastructure Grants to Boost E15 Pumps at Kentucky Retail
+        Locations\"  data-load=\"false\" />\n          </a>\n        </div>\n      \n\n\n
+        \     <a href=\"/news/2020/10/9/biofuels-infrastructure-grants-to-boost-e15-pumps-at-kentucky-retail-locations\"
+        class=\"BlogList-item-title\" data-content-field=\"title\">Biofuels Infrastructure
+        Grants to Boost E15 Pumps at Kentucky Retail Locations</a>\n\n      \n        \n
+        \         <div class=\"BlogList-item-excerpt\">\n            <p class=\"\">U.S.
+        Secretary of Agriculture Sonny Perdue announced last week that the USDA has
+        invested $22 million out of the up to $100 million in grants available to
+        increase American ethanol and biodiesel sales. These funds were made available
+        through the Higher Blends Infrastructure Incentive Program (HBIIP) to recipients
+        in 14 states, including Kentucky.</p>\n            <a href=\"/news/2020/10/9/biofuels-infrastructure-grants-to-boost-e15-pumps-at-kentucky-retail-locations\"
+        class=\"BlogList-item-readmore\">\n              <span>Read More</span>\n
+        \           </a>\n          </div>\n        \n      \n\n      <div class=\"Blog-meta
+        BlogList-item-meta\">\n        <!--\n\n        Categories\n\n        --><span
+        class=\"Blog-meta-item Blog-meta-item--categories\"><a href=\"/news/category/Ethanol\"
+        class=\"Blog-meta-item-category\">Ethanol</a></span><!--\n\n        Author\n\n
+        \       --><a href=\"/news?author=56c36c1160b5e9d899abebd0\" class=\"Blog-meta-item
+        Blog-meta-item--author\">Jennifer Elwell</a><!--\n\n        Date\n\n        --><time
+        class=\"Blog-meta-item Blog-meta-item--date\" datetime=\"2020-10-09\">October
+        9, 2020</time>\n      </div>\n\n      \n\n    </article>\n\n  \n    <article
+        id=\"post-5f80a98a8f6c0d59c9caa708\" class=\"BlogList-item hentry category-production-tips
+        author-jennifer-elwell post-type-text article-index-5 has-categories\" data-item-id=\"5f80a98a8f6c0d59c9caa708\">\n\n
+        \     \n        <div class=\"BlogList-item-image\">\n          <a href=\"/news/2020/10/6/covid-commercial-applicators-ceus-and-epa-opportunities\"
+        class=\"BlogList-item-image-link\">\n            <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1602267667328-4CK3ILP6HB7B3GQ4TN4J/ke17ZwdGBToddI8pDm48kAob4oFDCylE9noX3TKqBxtZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyN51cvbdTmAkAomzhe6rlfk_96am3hwUz8aF9U6bzFRhN3LU7jr2sWsDb_b6WXWZ0/spraying+soybeans.jpg\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1602267667328-4CK3ILP6HB7B3GQ4TN4J/ke17ZwdGBToddI8pDm48kAob4oFDCylE9noX3TKqBxtZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpyN51cvbdTmAkAomzhe6rlfk_96am3hwUz8aF9U6bzFRhN3LU7jr2sWsDb_b6WXWZ0/spraying+soybeans.jpg\"
+        data-image-dimensions=\"500x334\" data-image-focal-point=\"0.5,0.5\" alt=\"Covid,
+        Commercial Applicators CEUs, and EPA Opportunities\"  data-load=\"false\"
+        />\n          </a>\n        </div>\n      \n\n\n      <a href=\"https://kentuckypestnews.wordpress.com/2020/10/06/covid-commercial-applicators-ceus-and-epa-opportunities/\"
+        class=\"BlogList-item-title\" target=\"_blank\" data-content-field=\"title\">Covid,
+        Commercial Applicators CEUs, and EPA Opportunities</a>\n\n      \n        \n
+        \         <div class=\"BlogList-item-excerpt\">\n            <p class=\"\">The
+        Covid-19 pandemic has wreaked havoc with typical Continuing Education Units
+        (CEU) opportunities, as well as testing for commercial applicators. Some meetings
+        have been cancelled and others have gone on-line.</p>\n            <a href=\"/news/2020/10/6/covid-commercial-applicators-ceus-and-epa-opportunities\"
+        class=\"BlogList-item-readmore\">\n              <span>Read More</span>\n
+        \           </a>\n          </div>\n        \n      \n\n      <div class=\"Blog-meta
+        BlogList-item-meta\">\n        <!--\n\n        Categories\n\n        --><span
+        class=\"Blog-meta-item Blog-meta-item--categories\"><a href=\"/news/category/Production+Tips\"
+        class=\"Blog-meta-item-category\">Production Tips</a></span><!--\n\n        Author\n\n
+        \       --><a href=\"/news?author=56c36c1160b5e9d899abebd0\" class=\"Blog-meta-item
+        Blog-meta-item--author\">Jennifer Elwell</a><!--\n\n        Date\n\n        --><time
+        class=\"Blog-meta-item Blog-meta-item--date\" datetime=\"2020-10-06\">October
+        6, 2020</time>\n      </div>\n\n      \n\n    </article>\n\n  \n    <article
+        id=\"post-5f80a86220a9a56ba8a063e9\" class=\"BlogList-item hentry category-education
+        author-jennifer-elwell post-type-text article-index-6 has-categories\" data-item-id=\"5f80a86220a9a56ba8a063e9\">\n\n
+        \     \n        <div class=\"BlogList-item-image\">\n          <a href=\"/news/2020/10/2/corn-grower-investment-in-agriculture-literacy-amplified-through-partnerships\"
+        class=\"BlogList-item-image-link\">\n            <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1602267325154-3IGEPX12QWJ50OHKVTGV/ke17ZwdGBToddI8pDm48kHUzxcQwd2DgHE3KO6VtZClZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIjemT7TLA_6Za-g0iyqDFHfh0kLGIF9yLJqKkHdIutdkKMshLAGzx4R3EDFOm1kBS/corn-web.jpg\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1602267325154-3IGEPX12QWJ50OHKVTGV/ke17ZwdGBToddI8pDm48kHUzxcQwd2DgHE3KO6VtZClZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIjemT7TLA_6Za-g0iyqDFHfh0kLGIF9yLJqKkHdIutdkKMshLAGzx4R3EDFOm1kBS/corn-web.jpg\"
+        data-image-dimensions=\"800x450\" data-image-focal-point=\"0.5,0.5\" alt=\"Corn
+        Grower Investment in Agriculture Literacy Amplified Through Partnerships\"
+        \ data-load=\"false\" />\n          </a>\n        </div>\n      \n\n\n      <a
+        href=\"/news/2020/10/2/corn-grower-investment-in-agriculture-literacy-amplified-through-partnerships\"
+        class=\"BlogList-item-title\" data-content-field=\"title\">Corn Grower Investment
+        in Agriculture Literacy Amplified Through Partnerships</a>\n\n      \n        \n
+        \         <div class=\"BlogList-item-excerpt\">\n            <p class=\"\">KyCorn
+        wants to thank Kentucky\u2019s farm community for continuing this project
+        that is educating the next generation of consumers.</p>\n            <a href=\"/news/2020/10/2/corn-grower-investment-in-agriculture-literacy-amplified-through-partnerships\"
+        class=\"BlogList-item-readmore\">\n              <span>Read More</span>\n
+        \           </a>\n          </div>\n        \n      \n\n      <div class=\"Blog-meta
+        BlogList-item-meta\">\n        <!--\n\n        Categories\n\n        --><span
+        class=\"Blog-meta-item Blog-meta-item--categories\"><a href=\"/news/category/Education\"
+        class=\"Blog-meta-item-category\">Education</a></span><!--\n\n        Author\n\n
+        \       --><a href=\"/news?author=56c36c1160b5e9d899abebd0\" class=\"Blog-meta-item
+        Blog-meta-item--author\">Jennifer Elwell</a><!--\n\n        Date\n\n        --><time
+        class=\"Blog-meta-item Blog-meta-item--date\" datetime=\"2020-10-02\">October
+        2, 2020</time>\n      </div>\n\n      \n\n    </article>\n\n  \n    <article
+        id=\"post-5f7206af5f667767d2ba5ea7\" class=\"BlogList-item hentry tag-covid
+        author-jennifer-elwell post-type-text article-index-7 has-tags\" data-item-id=\"5f7206af5f667767d2ba5ea7\">\n\n
+        \     \n        <div class=\"BlogList-item-image\">\n          <a href=\"/news/2020/9/28/americas-farmers-resilient-throughout-the-covid-pandemic\"
+        class=\"BlogList-item-image-link\">\n            <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1601308429627-UFVXTUG332J9BTT81U5L/ke17ZwdGBToddI8pDm48kCmiTlNcB4DtsscGVTpiHg5Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGjIFxdygwe5mplRNEI3UMbzUc-dGYEV29jmRVjg1MvERZavKGWcIYaE20zowqcAcI/covid.JPG\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1601308429627-UFVXTUG332J9BTT81U5L/ke17ZwdGBToddI8pDm48kCmiTlNcB4DtsscGVTpiHg5Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGjIFxdygwe5mplRNEI3UMbzUc-dGYEV29jmRVjg1MvERZavKGWcIYaE20zowqcAcI/covid.JPG\"
+        data-image-dimensions=\"390x303\" data-image-focal-point=\"0.5,0.5\" alt=\"America\u2019s
+        Farmers: Resilient Throughout the COVID Pandemic\"  data-load=\"false\" />\n
+        \         </a>\n        </div>\n      \n\n\n      <a href=\"https://www.usda.gov/media/blog/2020/09/24/americas-farmers-resilient-throughout-covid-pandemic\"
+        class=\"BlogList-item-title\" target=\"_blank\" data-content-field=\"title\">America\u2019s
+        Farmers: Resilient Throughout the COVID Pandemic</a>\n\n      \n        \n
+        \         <div class=\"BlogList-item-excerpt\">\n            <p class=\"\">USDA
+        explains the impact of COVID on the agricultural community. </p>\n            <a
+        href=\"/news/2020/9/28/americas-farmers-resilient-throughout-the-covid-pandemic\"
+        class=\"BlogList-item-readmore\">\n              <span>Read More</span>\n
+        \           </a>\n          </div>\n        \n      \n\n      <div class=\"Blog-meta
+        BlogList-item-meta\">\n        <!--\n\n        Author\n\n        --><a href=\"/news?author=56c36c1160b5e9d899abebd0\"
+        class=\"Blog-meta-item Blog-meta-item--author\">Jennifer Elwell</a><!--\n\n
+        \       Date\n\n        --><time class=\"Blog-meta-item Blog-meta-item--date\"
+        datetime=\"2020-09-28\">September 28, 2020</time><!--\n\n        Tags\n\n
+        \       --><span class=\"Blog-meta-item Blog-meta-item--tags\"><a href=\"/news/tag/COVID\"
+        class=\"Blog-meta-item-tag\">COVID</a></span>\n      </div>\n\n      \n\n
+        \   </article>\n\n  \n    <article id=\"post-5f6e30339865f6274566abfb\" class=\"BlogList-item
+        hentry category-ethanol author-jennifer-elwell post-type-text article-index-8
+        has-categories\" data-item-id=\"5f6e30339865f6274566abfb\">\n\n      \n        <div
+        class=\"BlogList-item-image\">\n          <a href=\"/news/2020/9/25/next-generation-fuels-act-introduced\"
+        class=\"BlogList-item-image-link\">\n            <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1601068561217-6H4FTK93FUKXHUAKR5GW/ke17ZwdGBToddI8pDm48kKolXNlbAJmOxALKkcxfcTtZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIc7rxdHve89M7YtS_9g6_QmJWRLqWaC_4-v85uwMZIQEKMshLAGzx4R3EDFOm1kBS/gaspump3.jpg\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1601068561217-6H4FTK93FUKXHUAKR5GW/ke17ZwdGBToddI8pDm48kKolXNlbAJmOxALKkcxfcTtZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIc7rxdHve89M7YtS_9g6_QmJWRLqWaC_4-v85uwMZIQEKMshLAGzx4R3EDFOm1kBS/gaspump3.jpg\"
+        data-image-dimensions=\"800x537\" data-image-focal-point=\"0.5,0.5\" alt=\"Next
+        Generation Fuels Act Introduced\"  data-load=\"false\" />\n          </a>\n
+        \       </div>\n      \n\n\n      <a href=\"/news/2020/9/25/next-generation-fuels-act-introduced\"
+        class=\"BlogList-item-title\" data-content-field=\"title\">Next Generation
+        Fuels Act Introduced</a>\n\n      \n        \n          <div class=\"BlogList-item-excerpt\">\n
+        \           <p class=\"\">The Kentucky Corn Growers Association applauds the
+        introduction of The Next Generation Fuels Act. This legislation, that was
+        introduced yesterday in the U.S. House of Representatives, will boost long
+        term corn demand for clean, affordable ethanol.</p>\n            <a href=\"/news/2020/9/25/next-generation-fuels-act-introduced\"
+        class=\"BlogList-item-readmore\">\n              <span>Read More</span>\n
+        \           </a>\n          </div>\n        \n      \n\n      <div class=\"Blog-meta
+        BlogList-item-meta\">\n        <!--\n\n        Categories\n\n        --><span
+        class=\"Blog-meta-item Blog-meta-item--categories\"><a href=\"/news/category/Ethanol\"
+        class=\"Blog-meta-item-category\">Ethanol</a></span><!--\n\n        Author\n\n
+        \       --><a href=\"/news?author=56c36c1160b5e9d899abebd0\" class=\"Blog-meta-item
+        Blog-meta-item--author\">Jennifer Elwell</a><!--\n\n        Date\n\n        --><time
+        class=\"Blog-meta-item Blog-meta-item--date\" datetime=\"2020-09-25\">September
+        25, 2020</time>\n      </div>\n\n      \n\n    </article>\n\n  \n    <article
+        id=\"post-5f6e208e3294992adc2fbaec\" class=\"BlogList-item hentry category-market-development
+        category-leadership author-jennifer-elwell post-type-text article-index-9
+        has-categories\" data-item-id=\"5f6e208e3294992adc2fbaec\">\n\n      \n        <div
+        class=\"BlogList-item-image\">\n          <a href=\"/news/2020/9/25/investments-that-move-corn\"
+        class=\"BlogList-item-image-link\">\n            <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1601053108788-UZK6R4XGXK0R7TIVFKN6/ke17ZwdGBToddI8pDm48kKV928mVFOZqU1G3PNMGAZ4UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcK4p-TxYye8lchazQdllwMMmk7xCnolUTkdx6pP-3yTsM6wSGcWop_PRL96X5bQu2/grain+barge+-+w.jpg\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1601053108788-UZK6R4XGXK0R7TIVFKN6/ke17ZwdGBToddI8pDm48kKV928mVFOZqU1G3PNMGAZ4UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcK4p-TxYye8lchazQdllwMMmk7xCnolUTkdx6pP-3yTsM6wSGcWop_PRL96X5bQu2/grain+barge+-+w.jpg\"
+        data-image-dimensions=\"1200x637\" data-image-focal-point=\"0.5,0.5\" alt=\"Investments
+        that Move Corn\"  data-load=\"false\" />\n          </a>\n        </div>\n
+        \     \n\n\n      <a href=\"/news/2020/9/25/investments-that-move-corn\" class=\"BlogList-item-title\"
+        data-content-field=\"title\">Investments that Move Corn</a>\n\n      \n        \n
+        \         <div class=\"BlogList-item-excerpt\">\n            <p class=\"\">With
+        corn harvest in full swing, it is a great time to focus on how the Kentucky
+        Corn Promotion Council is continuing to invest in projects that will increase
+        corn demand. KyCorn is focused on rebuilding markets for corn farmers by growing
+        ethanol utilization, increasing exports of corn and corn products, finding
+        new uses for corn, and building upon our relationships with animal agriculture
+        partners.</p>\n            <a href=\"/news/2020/9/25/investments-that-move-corn\"
+        class=\"BlogList-item-readmore\">\n              <span>Read More</span>\n
+        \           </a>\n          </div>\n        \n      \n\n      <div class=\"Blog-meta
+        BlogList-item-meta\">\n        <!--\n\n        Categories\n\n        --><span
+        class=\"Blog-meta-item Blog-meta-item--categories\"><a href=\"/news/category/Market+Development\"
+        class=\"Blog-meta-item-category\">Market Development</a>, <a href=\"/news/category/Leadership\"
+        class=\"Blog-meta-item-category\">Leadership</a></span><!--\n\n        Author\n\n
+        \       --><a href=\"/news?author=56c36c1160b5e9d899abebd0\" class=\"Blog-meta-item
+        Blog-meta-item--author\">Jennifer Elwell</a><!--\n\n        Date\n\n        --><time
+        class=\"Blog-meta-item Blog-meta-item--date\" datetime=\"2020-09-25\">September
+        25, 2020</time>\n      </div>\n\n      \n\n    </article>\n\n  \n    <article
+        id=\"post-5f68d8bb092cda32c5f879e4\" class=\"BlogList-item hentry category-policy
+        author-jennifer-elwell post-type-text article-index-10 has-categories\" data-item-id=\"5f68d8bb092cda32c5f879e4\">\n\n
+        \     \n        <div class=\"BlogList-item-image\">\n          <a href=\"/news/2020/9/21/epa-announces-interim-decision-on-crucial-crop-protection-tools\"
+        class=\"BlogList-item-image-link\">\n            <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1600707013527-920ZMA6W6RR0TFZT225M/ke17ZwdGBToddI8pDm48kIt2ppQoblHCUkMuUtIpzxBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIvzvsefKDQKYzzLYQzLzadOrRPF_ZWfVsVc1Ng31aIZ8KMshLAGzx4R3EDFOm1kBS/gavel.jpg\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1600707013527-920ZMA6W6RR0TFZT225M/ke17ZwdGBToddI8pDm48kIt2ppQoblHCUkMuUtIpzxBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIvzvsefKDQKYzzLYQzLzadOrRPF_ZWfVsVc1Ng31aIZ8KMshLAGzx4R3EDFOm1kBS/gavel.jpg\"
+        data-image-dimensions=\"800x526\" data-image-focal-point=\"0.5,0.5\" alt=\"EPA
+        Announces Interim Decision on Crucial Crop Protection Tools\"  data-load=\"false\"
+        />\n          </a>\n        </div>\n      \n\n\n      <a href=\"/news/2020/9/21/epa-announces-interim-decision-on-crucial-crop-protection-tools\"
+        class=\"BlogList-item-title\" data-content-field=\"title\">EPA Announces Interim
+        Decision on Crucial Crop Protection Tools</a>\n\n      \n        \n          <div
+        class=\"BlogList-item-excerpt\">\n            <p class=\"\">Today, the Environmental
+        Protection Agency (EPA) announced a long-awaited interim decision regarding
+        the reregistration of the triazines: atrazine, propazine, and simazine. After
+        years of research and public comments from the agriculture community, EPA
+        Administrator Andrew Wheeler declared these fundamental crop management tools
+        safe for continued use in controlling resilient weeds.</p>\n            <a
+        href=\"/news/2020/9/21/epa-announces-interim-decision-on-crucial-crop-protection-tools\"
+        class=\"BlogList-item-readmore\">\n              <span>Read More</span>\n
+        \           </a>\n          </div>\n        \n      \n\n      <div class=\"Blog-meta
+        BlogList-item-meta\">\n        <!--\n\n        Categories\n\n        --><span
+        class=\"Blog-meta-item Blog-meta-item--categories\"><a href=\"/news/category/Policy\"
+        class=\"Blog-meta-item-category\">Policy</a></span><!--\n\n        Author\n\n
+        \       --><a href=\"/news?author=56c36c1160b5e9d899abebd0\" class=\"Blog-meta-item
+        Blog-meta-item--author\">Jennifer Elwell</a><!--\n\n        Date\n\n        --><time
+        class=\"Blog-meta-item Blog-meta-item--date\" datetime=\"2020-09-18\">September
+        18, 2020</time>\n      </div>\n\n      \n\n    </article>\n\n  \n    <article
+        id=\"post-5f68d7f3557376639905d43e\" class=\"BlogList-item hentry category-production-tips
+        author-jennifer-elwell post-type-text article-index-11 has-categories\" data-item-id=\"5f68d7f3557376639905d43e\">\n\n
+        \     \n        <div class=\"BlogList-item-image\">\n          <a href=\"/news/2020/9/15/september-issue-of-corn-and-soybean-news\"
+        class=\"BlogList-item-image-link\">\n            <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1600706589787-DG6EUURPV73GCLYJLIK5/ke17ZwdGBToddI8pDm48kKFZqSD0kYAvUbFm2mTT3u1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwIivPlhfjfYYEr7jKnsHlfCymQQOoq0t147DF7TKMBCLDha9GixsJU6QzxL0nQx5g/corn+soybean+news.JPG\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1600706589787-DG6EUURPV73GCLYJLIK5/ke17ZwdGBToddI8pDm48kKFZqSD0kYAvUbFm2mTT3u1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwIivPlhfjfYYEr7jKnsHlfCymQQOoq0t147DF7TKMBCLDha9GixsJU6QzxL0nQx5g/corn+soybean+news.JPG\"
+        data-image-dimensions=\"697x904\" data-image-focal-point=\"0.468345207253886,0.24\"
+        alt=\"September Issue of Corn and Soybean News\"  data-load=\"false\" />\n
+        \         </a>\n        </div>\n      \n\n\n      <a href=\"https://graincrops.ca.uky.edu/files/cornsoynewsletter2020vol2_iss4_sep.pdf\"
+        class=\"BlogList-item-title\" target=\"_blank\" data-content-field=\"title\">September
+        Issue of Corn and Soybean News</a>\n\n      \n        \n          <div class=\"BlogList-item-excerpt\">\n
+        \           <p class=\"\">Read about pre-harvest disease scouting observations,
+        The known and unknown: Choosing herbicide tolerance packages for 2021, weed
+        science plot walk videos, nitrogen management, and more.</p>\n            <a
+        href=\"/news/2020/9/15/september-issue-of-corn-and-soybean-news\" class=\"BlogList-item-readmore\">\n
+        \             <span>Read More</span>\n            </a>\n          </div>\n
+        \       \n      \n\n      <div class=\"Blog-meta BlogList-item-meta\">\n        <!--\n\n
+        \       Categories\n\n        --><span class=\"Blog-meta-item Blog-meta-item--categories\"><a
+        href=\"/news/category/Production+Tips\" class=\"Blog-meta-item-category\">Production
+        Tips</a></span><!--\n\n        Author\n\n        --><a href=\"/news?author=56c36c1160b5e9d899abebd0\"
+        class=\"Blog-meta-item Blog-meta-item--author\">Jennifer Elwell</a><!--\n\n
+        \       Date\n\n        --><time class=\"Blog-meta-item Blog-meta-item--date\"
+        datetime=\"2020-09-15\">September 15, 2020</time>\n      </div>\n\n      \n\n
+        \   </article>\n\n  \n    <article id=\"post-5f4287f83a787556900feaa8\" class=\"BlogList-item
+        hentry category-production-tips author-jennifer-elwell post-type-text article-index-12
+        has-categories\" data-item-id=\"5f4287f83a787556900feaa8\">\n\n      \n        <div
+        class=\"BlogList-item-image\">\n          <a href=\"/news/2020/8/23/august-issue-of-kentucky-corn-and-soybean-news\"
+        class=\"BlogList-item-image-link\">\n            <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1598195755290-81ZRY7RCRIGKF5Y082F8/ke17ZwdGBToddI8pDm48kCNP_R5uRkTiyIlf2RzFrABZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwZXAmihTTbQOjJzyrHgfu0KoTqN8kLS9S_UjAP-ykJNjBQhBnrB2LVtfH-kFetdEU/corn+soybean+news.JPG\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1598195755290-81ZRY7RCRIGKF5Y082F8/ke17ZwdGBToddI8pDm48kCNP_R5uRkTiyIlf2RzFrABZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwZXAmihTTbQOjJzyrHgfu0KoTqN8kLS9S_UjAP-ykJNjBQhBnrB2LVtfH-kFetdEU/corn+soybean+news.JPG\"
+        data-image-dimensions=\"683x882\" data-image-focal-point=\"0.49387886597938147,0.348\"
+        alt=\"August Issue of Kentucky Corn and Soybean News\"  data-load=\"false\"
+        />\n          </a>\n        </div>\n      \n\n\n      <a href=\"https://graincrops.ca.uky.edu/files/cornsoynewsletter2020vol2_iss3_aug_0.pdf\"
+        class=\"BlogList-item-title\" target=\"_blank\" data-content-field=\"title\">August
+        Issue of Kentucky Corn and Soybean News</a>\n\n      \n        \n          <div
+        class=\"BlogList-item-excerpt\">\n            <p class=\"\">Read about field
+        checks and soil testing, rye cover crops in the latest issue from UK Grain
+        Crops. </p>\n            <a href=\"/news/2020/8/23/august-issue-of-kentucky-corn-and-soybean-news\"
+        class=\"BlogList-item-readmore\">\n              <span>Read More</span>\n
+        \           </a>\n          </div>\n        \n      \n\n      <div class=\"Blog-meta
+        BlogList-item-meta\">\n        <!--\n\n        Categories\n\n        --><span
+        class=\"Blog-meta-item Blog-meta-item--categories\"><a href=\"/news/category/Production+Tips\"
+        class=\"Blog-meta-item-category\">Production Tips</a></span><!--\n\n        Author\n\n
+        \       --><a href=\"/news?author=56c36c1160b5e9d899abebd0\" class=\"Blog-meta-item
+        Blog-meta-item--author\">Jennifer Elwell</a><!--\n\n        Date\n\n        --><time
+        class=\"Blog-meta-item Blog-meta-item--date\" datetime=\"2020-08-23\">August
+        23, 2020</time>\n      </div>\n\n      \n\n    </article>\n\n  \n    <article
+        id=\"post-5f3d42eb819dfd53d7719317\" class=\"BlogList-item hentry category-production-tips
+        author-jennifer-elwell post-type-text article-index-13 has-categories\" data-item-id=\"5f3d42eb819dfd53d7719317\">\n\n
+        \     \n        <div class=\"BlogList-item-image\">\n          <a href=\"/news/2020/8/19/spotted-corn-leaves-disease-or-something-different\"
+        class=\"BlogList-item-image-link\">\n            <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1597850355331-55NBYL0BRKFOYW39LWUD/ke17ZwdGBToddI8pDm48kOMcjuxkK6Ua4w4PDj3Gtd9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxywIFQwA6oEsv6Pa5XSj8_D_OtAm2EOm8zcfzzEK2TiMWcwzOO7c33D7-K8RYR08U/spotted+leaves+corn.JPG\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1597850355331-55NBYL0BRKFOYW39LWUD/ke17ZwdGBToddI8pDm48kOMcjuxkK6Ua4w4PDj3Gtd9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxywIFQwA6oEsv6Pa5XSj8_D_OtAm2EOm8zcfzzEK2TiMWcwzOO7c33D7-K8RYR08U/spotted+leaves+corn.JPG\"
+        data-image-dimensions=\"535x455\" data-image-focal-point=\"0.5,0.5\" alt=\"Spotted
+        Corn Leaves: Disease or Something Different?\"  data-load=\"false\" />\n          </a>\n
+        \       </div>\n      \n\n\n      <a href=\"https://kentuckypestnews.wordpress.com/2020/08/18/spotted-corn-leaves-disease-or-something-different/\"
+        class=\"BlogList-item-title\" target=\"_blank\" data-content-field=\"title\">Spotted
+        Corn Leaves: Disease or Something Different?</a>\n\n      \n        \n          <div
+        class=\"BlogList-item-excerpt\">\n            <p class=\"\">Over the past
+        few weeks, there have been increased reports of spotting on corn leaves across
+        the state. Symptoms include tiny tan to brown spots with a darker brown margin.</p>\n
+        \           <a href=\"/news/2020/8/19/spotted-corn-leaves-disease-or-something-different\"
+        class=\"BlogList-item-readmore\">\n              <span>Read More</span>\n
+        \           </a>\n          </div>\n        \n      \n\n      <div class=\"Blog-meta
+        BlogList-item-meta\">\n        <!--\n\n        Categories\n\n        --><span
+        class=\"Blog-meta-item Blog-meta-item--categories\"><a href=\"/news/category/Production+Tips\"
+        class=\"Blog-meta-item-category\">Production Tips</a></span><!--\n\n        Author\n\n
+        \       --><a href=\"/news?author=56c36c1160b5e9d899abebd0\" class=\"Blog-meta-item
+        Blog-meta-item--author\">Jennifer Elwell</a><!--\n\n        Date\n\n        --><time
+        class=\"Blog-meta-item Blog-meta-item--date\" datetime=\"2020-08-19\">August
+        19, 2020</time>\n      </div>\n\n      \n\n    </article>\n\n  \n    <article
+        id=\"post-5f36e1083a07a2182b13d82f\" class=\"BlogList-item hentry category-ethanol
+        category-market-development author-jennifer-elwell post-type-text article-index-14
+        has-categories\" data-item-id=\"5f36e1083a07a2182b13d82f\">\n\n      \n        <div
+        class=\"BlogList-item-image\">\n          <a href=\"/news/2020/8/14/kycorn-partners-with-caseys-general-store-for-e15-and-e85-pump-conversions\"
+        class=\"BlogList-item-image-link\">\n            <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1597432252682-GC35BSM93YCAOIIUXXSR/ke17ZwdGBToddI8pDm48kBa4VgTIIeO3BtFYDwqNyAxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpybhp7JpESjS3sbyDOJmHT70hQNo3yRB9Z6C2qaPE7o86HkfViKuO6yFXgspAQ1ysU/caseys.JPG\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1597432252682-GC35BSM93YCAOIIUXXSR/ke17ZwdGBToddI8pDm48kBa4VgTIIeO3BtFYDwqNyAxZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpybhp7JpESjS3sbyDOJmHT70hQNo3yRB9Z6C2qaPE7o86HkfViKuO6yFXgspAQ1ysU/caseys.JPG\"
+        data-image-dimensions=\"679x829\" data-image-focal-point=\"0.4945884146341463,0.724\"
+        alt=\"KyCorn partners with Casey\u2019s General Store for E15 and E85 pump
+        conversions\"  data-load=\"false\" />\n          </a>\n        </div>\n      \n\n\n
+        \     <a href=\"/news/2020/8/14/kycorn-partners-with-caseys-general-store-for-e15-and-e85-pump-conversions\"
+        class=\"BlogList-item-title\" data-content-field=\"title\">KyCorn partners
+        with Casey\u2019s General Store for E15 and E85 pump conversions</a>\n\n      \n
+        \       \n          <div class=\"BlogList-item-excerpt\">\n            <p
+        class=\"\">KyCorn is facilitating several conversions of the fuel pumps at
+        Casey\u2019s General Store throughout Kentucky to enable offerings of both
+        E15 and E85.</p>\n            <a href=\"/news/2020/8/14/kycorn-partners-with-caseys-general-store-for-e15-and-e85-pump-conversions\"
+        class=\"BlogList-item-readmore\">\n              <span>Read More</span>\n
+        \           </a>\n          </div>\n        \n      \n\n      <div class=\"Blog-meta
+        BlogList-item-meta\">\n        <!--\n\n        Categories\n\n        --><span
+        class=\"Blog-meta-item Blog-meta-item--categories\"><a href=\"/news/category/Ethanol\"
+        class=\"Blog-meta-item-category\">Ethanol</a>, <a href=\"/news/category/Market+Development\"
+        class=\"Blog-meta-item-category\">Market Development</a></span><!--\n\n        Author\n\n
+        \       --><a href=\"/news?author=56c36c1160b5e9d899abebd0\" class=\"Blog-meta-item
+        Blog-meta-item--author\">Jennifer Elwell</a><!--\n\n        Date\n\n        --><time
+        class=\"Blog-meta-item Blog-meta-item--date\" datetime=\"2020-08-14\">August
+        14, 2020</time>\n      </div>\n\n      \n\n    </article>\n\n  \n    <article
+        id=\"post-5f36e040fc119c1b6e7f1ba0\" class=\"BlogList-item hentry category-core
+        author-jennifer-elwell post-type-text article-index-15 has-categories\" data-item-id=\"5f36e040fc119c1b6e7f1ba0\">\n\n
+        \     \n        <div class=\"BlogList-item-image\">\n          <a href=\"/news/2020/8/14/core-program-connects-young-farmers-with-association-leaders\"
+        class=\"BlogList-item-image-link\">\n            <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1597432017701-ZSL1XK4PKJP0HCBLGILV/ke17ZwdGBToddI8pDm48kCLzW7DYjk7PPKP6xOb-FEsUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcyeXEdjqfDLvhQwiPo7ezuyU94LsCjpHrGRVgGU2JdIuM9tqf8PgRSbxOScHXKGIH/IMG_1102.jpg\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1597432017701-ZSL1XK4PKJP0HCBLGILV/ke17ZwdGBToddI8pDm48kCLzW7DYjk7PPKP6xOb-FEsUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcyeXEdjqfDLvhQwiPo7ezuyU94LsCjpHrGRVgGU2JdIuM9tqf8PgRSbxOScHXKGIH/IMG_1102.jpg\"
+        data-image-dimensions=\"1200x859\" data-image-focal-point=\"0.5,0.5\" alt=\"CORE
+        Program connects young farmers with association leaders and experts\"  data-load=\"false\"
+        />\n          </a>\n        </div>\n      \n\n\n      <a href=\"/news/2020/8/14/core-program-connects-young-farmers-with-association-leaders\"
+        class=\"BlogList-item-title\" data-content-field=\"title\">CORE Program connects
+        young farmers with association leaders and experts</a>\n\n      \n        \n
+        \         <div class=\"BlogList-item-excerpt\">\n            <p class=\"\">Session
+        4 of the current <a href=\"/core\">CORE Farmer Program</a> class was held
+        in late-July with farm visits and in-field practicals. The group began the
+        learning adventure in Princeton, where Dr. Lloyd Murdock spent a few hours
+        with the participants talking about Kentucky soils. Dr. Chad Lee spend some
+        time with them in corn fields as well.</p>\n            <a href=\"/news/2020/8/14/core-program-connects-young-farmers-with-association-leaders\"
+        class=\"BlogList-item-readmore\">\n              <span>Read More</span>\n
+        \           </a>\n          </div>\n        \n      \n\n      <div class=\"Blog-meta
+        BlogList-item-meta\">\n        <!--\n\n        Categories\n\n        --><span
+        class=\"Blog-meta-item Blog-meta-item--categories\"><a href=\"/news/category/CORE\"
+        class=\"Blog-meta-item-category\">CORE</a></span><!--\n\n        Author\n\n
+        \       --><a href=\"/news?author=56c36c1160b5e9d899abebd0\" class=\"Blog-meta-item
+        Blog-meta-item--author\">Jennifer Elwell</a><!--\n\n        Date\n\n        --><time
+        class=\"Blog-meta-item Blog-meta-item--date\" datetime=\"2020-08-14\">August
+        14, 2020</time>\n      </div>\n\n      \n\n    </article>\n\n  \n    <article
+        id=\"post-5f315ba14bae00397400e0be\" class=\"BlogList-item hentry category-production-tips
+        author-jennifer-elwell post-type-text article-index-16 has-categories\" data-item-id=\"5f315ba14bae00397400e0be\">\n\n
+        \     \n        <div class=\"BlogList-item-image\">\n          <a href=\"/news/2020/8/10/enter-the-2020-kentucky-corn-yield-contest\"
+        class=\"BlogList-item-image-link\">\n            <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1597070260847-0W630DQG0423MSYFM3Q0/ke17ZwdGBToddI8pDm48kNR4h5KMHygq0Qj6xtX05pcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z2JTYrYl0ZyrXwLI1Xe4njMrEr2ibkUqF2NMtGZX5lCMqbhuOb0MAcXaQ6whlEkpec/1-LKa-w.jpg\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1597070260847-0W630DQG0423MSYFM3Q0/ke17ZwdGBToddI8pDm48kNR4h5KMHygq0Qj6xtX05pcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8PaoYXhp6HxIwZIk7-Mi3Tsic-L2IOPH3Dwrhl-Ne3Z2JTYrYl0ZyrXwLI1Xe4njMrEr2ibkUqF2NMtGZX5lCMqbhuOb0MAcXaQ6whlEkpec/1-LKa-w.jpg\"
+        data-image-dimensions=\"800x1067\" data-image-focal-point=\"0.5,0.5\" alt=\"Enter
+        the 2020 Kentucky Corn Yield Contest\"  data-load=\"false\" />\n          </a>\n
+        \       </div>\n      \n\n\n      <a href=\"https://www.kycorn.org/corn-yield-contest\"
+        class=\"BlogList-item-title\" target=\"_blank\" data-content-field=\"title\">Enter
+        the 2020 Kentucky Corn Yield Contest</a>\n\n      \n        \n          <div
+        class=\"BlogList-item-excerpt\">\n            <p class=\"\">Rules and entry
+        form are available for 2020 Kentucky Corn Yield Contest. Deadline is November
+        16. </p>\n            <a href=\"/news/2020/8/10/enter-the-2020-kentucky-corn-yield-contest\"
+        class=\"BlogList-item-readmore\">\n              <span>Read More</span>\n
+        \           </a>\n          </div>\n        \n      \n\n      <div class=\"Blog-meta
+        BlogList-item-meta\">\n        <!--\n\n        Categories\n\n        --><span
+        class=\"Blog-meta-item Blog-meta-item--categories\"><a href=\"/news/category/Production+Tips\"
+        class=\"Blog-meta-item-category\">Production Tips</a></span><!--\n\n        Author\n\n
+        \       --><a href=\"/news?author=56c36c1160b5e9d899abebd0\" class=\"Blog-meta-item
+        Blog-meta-item--author\">Jennifer Elwell</a><!--\n\n        Date\n\n        --><time
+        class=\"Blog-meta-item Blog-meta-item--date\" datetime=\"2020-08-10\">August
+        10, 2020</time>\n      </div>\n\n      \n\n    </article>\n\n  \n    <article
+        id=\"post-5f2ad0f09b4f6751d6006eba\" class=\"BlogList-item hentry author-jennifer-elwell
+        post-type-text article-index-17\" data-item-id=\"5f2ad0f09b4f6751d6006eba\">\n\n
+        \     \n        <div class=\"BlogList-item-image\">\n          <a href=\"/news/2020/8/5/purchase-a-fields-of-corn-calendar-to-support-the-cornpac\"
+        class=\"BlogList-item-image-link\">\n            <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1596641778482-FWEPA5X1CAUSPRUGYUNK/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/574_1593003488_Cotton+Candy+Harvest.jpg\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1596641778482-FWEPA5X1CAUSPRUGYUNK/ke17ZwdGBToddI8pDm48kDHPSfPanjkWqhH6pl6g5ph7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0mwONMR1ELp49Lyc52iWr5dNb1QJw9casjKdtTg1_-y4jz4ptJBmI9gQmbjSQnNGng/574_1593003488_Cotton+Candy+Harvest.jpg\"
+        data-image-dimensions=\"2500x1875\" data-image-focal-point=\"0.5,0.5\" alt=\"Fields
+        of Corn Photo Contest is Taking Entries Through November 30\"  data-load=\"false\"
+        />\n          </a>\n        </div>\n      \n\n\n      <a href=\"/news/2020/8/5/purchase-a-fields-of-corn-calendar-to-support-the-cornpac\"
+        class=\"BlogList-item-title\" data-content-field=\"title\">Fields of Corn
+        Photo Contest is Taking Entries Through November 30</a>\n\n      \n        \n
+        \         <div class=\"BlogList-item-excerpt\">\n            <p class=\"\">Calling
+        all photographers!</p>\n            <a href=\"/news/2020/8/5/purchase-a-fields-of-corn-calendar-to-support-the-cornpac\"
+        class=\"BlogList-item-readmore\">\n              <span>Read More</span>\n
+        \           </a>\n          </div>\n        \n      \n\n      <div class=\"Blog-meta
+        BlogList-item-meta\">\n        <!--\n\n        Author\n\n        --><a href=\"/news?author=56c36c1160b5e9d899abebd0\"
+        class=\"Blog-meta-item Blog-meta-item--author\">Jennifer Elwell</a><!--\n\n
+        \       Date\n\n        --><time class=\"Blog-meta-item Blog-meta-item--date\"
+        datetime=\"2020-08-05\">August 5, 2020</time>\n      </div>\n\n      \n\n
+        \   </article>\n\n  \n    <article id=\"post-5f2acd86b4ba4712ddc0b4d7\" class=\"BlogList-item
+        hentry author-jennifer-elwell post-type-text article-index-18\" data-item-id=\"5f2acd86b4ba4712ddc0b4d7\">\n\n
+        \     \n        <div class=\"BlogList-item-image\">\n          <a href=\"/news/2020/8/5/ncga-releases-mid-year-report-for-2020\"
+        class=\"BlogList-item-image-link\">\n            <img data-src=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1596640836447-ISGK6RIPKJPZLJLR7YNQ/ke17ZwdGBToddI8pDm48kMsSE924Lcvl4XPKPAa5ua9Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEB7akRbRMPyLbttVl-XGlsFeLxTAPQZXvGJJfjEV_lD91NjRXUY09lrvV_NG2Yoo4/ncga-midyear.JPG\"
+        data-image=\"https://images.squarespace-cdn.com/content/v1/5a0a13de9f07f5184474e073/1596640836447-ISGK6RIPKJPZLJLR7YNQ/ke17ZwdGBToddI8pDm48kMsSE924Lcvl4XPKPAa5ua9Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEB7akRbRMPyLbttVl-XGlsFeLxTAPQZXvGJJfjEV_lD91NjRXUY09lrvV_NG2Yoo4/ncga-midyear.JPG\"
+        data-image-dimensions=\"301x385\" data-image-focal-point=\"0.5,0.5\" alt=\"NCGA
+        Releases Mid-Year Report for 2020\"  data-load=\"false\" />\n          </a>\n
+        \       </div>\n      \n\n\n      <a href=\"/news/2020/8/5/ncga-releases-mid-year-report-for-2020\"
+        class=\"BlogList-item-title\" data-content-field=\"title\">NCGA Releases Mid-Year
+        Report for 2020</a>\n\n      \n        \n          <div class=\"BlogList-item-excerpt\">\n
+        \           <p class=\"\">2020 began with reason for optimism in our industry.
+        The signing of the USMCA trade deal, emerging corn purchases by China, a successful
+        challenge to EPA granting RFS waivers and approval of year-round sales of
+        E15 had us all looking for an economic rebound. Then the unthinkable happened
+        as a pandemic stunned the world.</p>\n            <a href=\"/news/2020/8/5/ncga-releases-mid-year-report-for-2020\"
+        class=\"BlogList-item-readmore\">\n              <span>Read More</span>\n
+        \           </a>\n          </div>\n        \n      \n\n      <div class=\"Blog-meta
+        BlogList-item-meta\">\n        <!--\n\n        Author\n\n        --><a href=\"/news?author=56c36c1160b5e9d899abebd0\"
+        class=\"Blog-meta-item Blog-meta-item--author\">Jennifer Elwell</a><!--\n\n
+        \       Date\n\n        --><time class=\"Blog-meta-item Blog-meta-item--date\"
+        datetime=\"2020-08-05\">August 5, 2020</time>\n      </div>\n\n      \n\n
+        \   </article>\n\n  \n</section>\n\n\n  <nav class=\"BlogList-pagination\">\n\n
+        \   <a href=\"/news?offset=1596640847862\" class=\"BlogList-pagination-link\">\n
+        \       <span class=\"BlogList-pagination-link-label\">Older</span><svg class=\"BlogList-pagination-link-icon\"
+        viewBox=\"0 0 9 16\">\n          <g class=\"svg-icon\">\n            <polyline
+        fill=\"none\" stroke-miterlimit=\"10\" points=\"1.6,1.2 6.5,7.9 1.6,14.7 \"/>\n
+        \         </g>\n        </svg>\n      </a>\n    \n\n  </nav>\n              </section>\n
+        \           \n          </main>\n\n        </div>\n      </div>\n\n      <footer
+        class=\"Footer\" role=\"contentinfo\" data-controller=\"FooterBreakpoints\">\n\n
+        \ <div class=\"Footer-inner clear\">\n\n    <div class=\"sqs-layout sqs-grid-12
+        columns-12 Footer-blocks Footer-blocks--top sqs-alternate-block-style-container\"
+        data-layout-label=\"Footer Top Blocks\" data-type=\"block-field\" data-updated-on=\"1512488093560\"
+        id=\"footerBlocksTop\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12
+        span-12\"><div class=\"sqs-block horizontalrule-block sqs-block-horizontalrule\"
+        data-block-type=\"47\" id=\"block-yui_3_17_2_23_1512481447477_20959\"><div
+        class=\"sqs-block-content\"><hr /></div></div><div class=\"sqs-block html-block
+        sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_32_1512481447477_8146\"><div
+        class=\"sqs-block-content\"><h2 class=\"text-align-center\">\xA9 Kentucky
+        Corn Growers Association</h2></div></div></div></div></div>\n\n    <div class=\"Footer-middle\">\n
+        \     <div class=\"Footer-business\">\n\n        \n          <div class=\"Footer-business-info\">\n
+        \           \n              \n                \n                \n                \n
+        \               \n              \n            \n            \n              <a
+        href=\"tel:800-326-0906\" rel=\"tel\" class=\"Footer-business-info-item Footer-business-info-item--phone\">800-326-0906</a>\n
+        \             <a href=\"mailto:info@kycorn.org\" title=\"info@kycorn.org\"
+        target=\"_blank\" class=\"Footer-business-info-item Footer-business-info-item--email\">info@kycorn.org</a>\n
+        \           \n          </div>\n        \n\n        \n          \n            <div
+        class=\"Footer-business-hours\">\n              <div class=\"Footer-business-hours-heading\">Hours</div>\n
+        \             \n              \n              \n              \n              \n
+        \             \n              \n            </div>\n          \n        \n\n
+        \     </div>\n\n      <div class=\"sqs-layout sqs-grid-12 columns-12 Footer-blocks
+        Footer-blocks--middle sqs-alternate-block-style-container empty\" data-layout-label=\"Footer
+        Middle Blocks\" data-type=\"block-field\" data-updated-on=\"1452386857557\"
+        id=\"footerBlocksMiddle\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12
+        span-12\"></div></div></div>\n\n      \n  <nav class=\"Footer-nav\" data-content-field=\"navigation\">\n\n
+        \   <div class=\"Footer-nav-group\"><a href=\"/index\" class=\"Footer-nav-item\">Home</a><a
+        href=\"/staff\" class=\"Footer-nav-item\">Contact Us</a><a href=\"/news\"
+        class=\"Footer-nav-item\">News</a><a href=\"/events\" class=\"Footer-nav-item\">Events</a></div>\n\n
+        \ </nav>\n\n    </div>\n\n    <div class=\"sqs-layout sqs-grid-12 columns-12
+        Footer-blocks Footer-blocks--bottom sqs-alternate-block-style-container\"
+        data-layout-label=\"Footer Bottom Blocks\" data-type=\"block-field\" data-updated-on=\"1512488216941\"
+        id=\"footerBlocksBottom\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12
+        span-12\"><div class=\"sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2\"
+        data-block-type=\"54\" id=\"block-yui_3_17_2_10_1473712916609_8579\"><div
+        class=\"sqs-block-content\">\n\n\n\n<div class=\"sqs-svg-icon--outer social-icon-alignment-center
+        social-icons-color-black social-icons-size-extra-small social-icons-style-regular
+        \" >\n  <nav class=\"sqs-svg-icon--list\">\n    <a href=\"http://www.facebook.com/KyCornKySGGA\"
+        target=\"_blank\" class=\"sqs-svg-icon--wrapper facebook\" aria-label=\"Jennifer
+        Dickey Elwell\">\n      <div>\n        <svg class=\"sqs-svg-icon--social\"
+        viewBox=\"0 0 64 64\">\n          <use class=\"sqs-use--icon\" xlink:href=\"#facebook-icon\"></use>\n
+        \         <use class=\"sqs-use--mask\" xlink:href=\"#facebook-mask\"></use>\n
+        \       </svg>\n      </div>\n    </a>\n  </nav>\n</div>\n</div></div><div
+        class=\"sqs-block html-block sqs-block-html\" data-block-type=\"2\" id=\"block-yui_3_17_2_4_1475086088375_17769\"><div
+        class=\"sqs-block-content\"><p class=\"text-align-center\"><em>Developed by
+        <a target=\"_blank\" href=\"http://www.farmscholar.com\">Farm Scholar, LLC</a>.&nbsp;Powered
+        by <a target=\"_blank\" href=\"http://www.squarespace.com?channel=word_of_mouth&amp;subchannel=customer&amp;source=footer&amp;campaign=4fd1028ee4b02be53c65dfb3\">Squarespace</a>.</em></p></div></div><div
+        class=\"sqs-block spacer-block sqs-block-spacer sized vsize-1\" data-block-type=\"21\"
+        id=\"block-yui_3_17_2_30_1473693705537_31353\"><div class=\"sqs-block-content\">&nbsp;</div></div></div></div></div>\n\n
+        \ </div>\n\n</footer>\n\n\n    </div>\n\n    <script src=\"https://static1.squarespace.com/static/ta/55f0a9b0e4b0f3eb70352f6d/341/scripts/site-bundle.js\"
+        type=\"text/javascript\"></script>\n\n    <script type=\"text/javascript\"
+        data-sqs-type=\"imageloader-bootstrapper\">(function() {if(window.ImageLoader)
+        { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script><svg
+        xmlns=\"http://www.w3.org/2000/svg\" version=\"1.1\" style=\"display:none\"
+        data-usage=\"social-icons-svg\"><symbol id=\"facebook-icon\" viewBox=\"0 0
+        64 64\"><path d=\"M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2
+        c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z\"/></symbol><symbol id=\"facebook-mask\"
+        viewBox=\"0 0 64 64\"><path d=\"M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24
+        c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z\"/></symbol></svg>\n\n  </body>\n</html>\n"
+    headers:
+      Accept-Ranges:
+      - bytes
+      Age:
+      - '191094'
+      Set-Cookie:
+      - crumb=BWN2tTbWZ8qcOWUxNjRhZWYxOTNiODg0MDIwODYxMmUzNWZiYzAz;Path=/
+      Vary:
+      - Accept-Encoding
+      content-length:
+      - '99918'
+      content-type:
+      - text/html;charset=utf-8
+      date:
+      - Mon, 09 Nov 2020 14:10:27 GMT
+      etag:
+      - W/"e416aa64a66d06fcea4e49385787172e--gzip"
+      expires:
+      - Thu, 01 Jan 1970 00:00:00 GMT
+      server:
+      - Squarespace
+      strict-transport-security:
+      - max-age=0
+      x-content-type-options:
+      - nosniff
+      x-contextid:
+      - 640MJxeY/Ziq4rlhd
+    status:
+      code: 200
+      message: OK
+version: 1

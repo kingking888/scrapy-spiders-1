@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "settings": {
+      "middlewares": {
+        "PROXY_ENABLED": true
+      },
+      "pipelines": {
+        "SENTIMENT_CLASSIFICATION": false,
+        "TOPIC_CLASSIFICATION": false,
+        "TO_API": false,
+        "TO_FILE": false,
+        "TO_S3": false,
+        "TO_SLACK": true
+      }
+    }
+  },
+  "url": null
+}

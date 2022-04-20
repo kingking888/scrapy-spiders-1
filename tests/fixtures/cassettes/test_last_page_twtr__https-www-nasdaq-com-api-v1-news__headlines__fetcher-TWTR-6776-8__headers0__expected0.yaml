@@ -1,0 +1,91 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+      Accept-Encoding:
+      - gzip, deflate
+      Accept-Language:
+      - en-US,en;q=0.5
+      Cache-Control:
+      - no-cache
+      Connection:
+      - keep-alive
+      Host:
+      - www.nasdaq.com
+      Referer:
+      - https://www.google.com/
+      Upgrade-Insecure-Requests:
+      - '1'
+      User-Agent:
+      - Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:81.0) Gecko/20100101 Firefox/81.0
+    method: GET
+    uri: https://www.nasdaq.com/api/v1/news-headlines-fetcher/TWTR/6776/8
+  response:
+    body:
+      string: "<div class=\"quote-news-headlines\" data-symbol=\"\">\n  <ul class=\"quote-news-headlines__list\">\n
+        \         <li class=\"quote-news-headlines__item\">\n        <a href=\"/articles/social-networking-service-twitter-sets-terms-highly-anticipated-13-billion-ipo-2013-10-24\"
+        class=\"quote-news-headlines__link\">\n          <span class=\"quote-news-headlines__date\">Oct
+        24, 2013</span>\n          <p class=\"quote-news-headlines__item-title\"><span>Social
+        networking service Twitter sets terms for highly anticipated $1.3 billion
+        IPO</span>\n</p>\n        </a>\n      </li>\n      </ul>\n\n  <div class=\"pagination-news-headlines\"
+        data-symbol=\"6776\" data-count=\"6777\">\n    \n<div class=\"pagination\">\n
+        \     <button class=\"pagination__previous\" aria-label=\"click to go to the
+        previous page\"></button>\n  \n  <div class=\"pagination__pages\">\n          <button
+        class=\"pagination__page\"></button>\n      <span class=\"pagination__ellipsis\"
+        aria-hidden=\"true\">...</span>\n      </div>\n\n      <button class=\"pagination__next\"
+        aria-label=\"click to go to the next page\"></button>\n  </div>\n\n\n</div>\n\n</div>\n\n\n"
+    headers:
+      Accept-Ranges:
+      - bytes
+      Cache-Control:
+      - must-revalidate, no-cache, private
+      Connection:
+      - keep-alive
+      Content-Language:
+      - en
+      Content-Type:
+      - text/html; charset=UTF-8
+      Date:
+      - Wed, 09 Dec 2020 15:14:32 GMT
+      Expires:
+      - Sun, 19 Nov 1978 05:00:00 GMT
+      Server:
+      - nginx
+      Server-Timing:
+      - cdn-cache; desc=MISS
+      - edge; dur=92
+      - origin; dur=889
+      Set-Cookie:
+      - ak_bmsc=ABBA3F46BF08800BCD2A3C34F48253455C7ABE560A670000D8E9D05F581A274E~plpCyJNErR0+K+lTiNyA74uKDDUcAMvcLOcu/QupLYGUaiPN/Rglyp2cfLu1L/UQDecFbCYhKvNoqJMct5fjHcu/NG+xjjUwx4FKFXgVLpKQD/s9JGnFmISJL5pgdZLB2ADacSbJ3zKuX4hOMOarQEILirUiHtgcCUcn4Y17ZScTXtRC62+zJeXb62dnPOZIs6SXZ/xEJ6Y4jqOxrkPwuQY23jI/q67xridr+fMOWiTNI=;
+        expires=Wed, 09 Dec 2020 17:14:32 GMT; max-age=7200; path=/; domain=.nasdaq.com;
+        HttpOnly
+      Vary:
+      - Accept-Encoding
+      X-AH-Environment:
+      - prod
+      X-Age:
+      - '0'
+      X-Akamai-Transformed:
+      - 9 419 0 pmb=mRUM,2
+      X-Content-Type-Options:
+      - nosniff
+      X-EdgeConnect-MidMile-RTT:
+      - '89'
+      X-EdgeConnect-Origin-MEX-Latency:
+      - '889'
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Generator:
+      - Drupal 8 (https://www.drupal.org)
+      X-Request-ID:
+      - v-3d1800f2-3a31-11eb-ae89-c73b02cbc582
+      X-UA-Compatible:
+      - IE=edge
+      content-length:
+      - '1064'
+    status:
+      code: 200
+      message: OK
+version: 1
